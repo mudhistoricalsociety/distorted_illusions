@@ -1,0 +1,4558 @@
+#AREADATA
+Name Sanctuary~
+Builders Bree Noquest~
+VNUMs 11000 11400
+Continent 1
+Credits {y[{Y  LGD{y ]{c Bree{Y     Sanctuary{X  ~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#11000
+villager~
+A Villager~
+A Villager is here, going about his buisness.
+~
+~
+human~
+AGT DFJVZ 0 1000 0
+155 250 1d1+15000 1d1+5000 40d60+275 thwack
+-110 -110 -110 -110
+CDEFHIKU ABNS J LM
+stand stand male 1820
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11001
+Apprentice Monk~
+an Apprentice Monk~
+An Apprentice Monk is here, preparing for his path.
+~
+This is an apprentice. There are many like him, many hopefull
+trainees that one day dream of becoming a monk.
+~
+human~
+ABGQ DFJVZa CN 1000 0
+170 325 1d1+24000 1d1+9000 35d75+190 fury
+-100 -100 -100 -100
+CEGHIK 0 0 0
+stand stand male 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11002
+Guard Monk~
+A Guard Monk~
+A Guard Monk stands here looking serious.
+~
+This particular order of monks is here to protect all
+of the secrets of the sect, and also safe guard certain
+places and persons.
+~
+human~
+ABFG DFJPQVZa DN 1000 0
+180 350 1d1+23000 1d1+5000 65d95+300 wrath
+-120 -120 -120 -120
+ABEHIJKU ABP 0 K
+stand stand male 2999
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11003
+The Librarian~
+The {$L{4ibraria{$n{X~
+The {$L{4ibraria{$n{X is here, furious at being disturbed!
+~
+~
+human~
+ABFGR DFJPVZa CN 1000 0
+180 350 1d1+30000 10d10+50000 85d110+400 divine
+-150 -150 -150 -150
+0 ABMP 0 DJ
+stand stand none 41102
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11004
+a monk~
+A Monk~
+A Monk is here, doing monk things.
+~
+~
+dark-elf~
+AGR DFVZa N 1000 0
+173 275 1d1+20000 1d1+99000 50d90+280 divine
+-100 -100 -100 -100
+CEFHIKU AB 0 S
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#11005
+Forge Master~
+The {!F{1org{!e{X Master~
+The {!F{1org{!e{X Master is here, beating on some metal.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 1d1+500000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11006
+Inkly~
+Inkly~
+Inkly, the village brewer is here, brewing up something.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11007
+rat~
+a rat~
+A rat scampers around here.
+~
+~
+human~
+ABFGT DFJVZa 0 -1000 0
+155 222 1d1+19000 1d1+50000 50d90+200 scratch
+-90 -90 -90 -90
+CFGHK 0 0 0
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11008
+Sanctuary Guard~
+A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X~
+A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X is here, walking around.
+~
+~
+human~
+ABG DJVZ 0 1000 0
+180 125 1d1+15000 1d1+5000 40d75+150 divine
+-80 -80 -80 -80
+EFIK AB 0 0
+stand stand male 33000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11009
+Gate guard sanctuary~
+{DSa{wnc{Wtu{war{Dy{X {!G{1at{!e{X Guard~
+{XA {DSa{wnc{Wtu{war{Dy{X {!G{1at{!e{X Guard is here guarding something.
+~
+~
+firbolg~
+ABFGT DEFJVZ 0 1000 0
+155 200 1d1+17000 1d1+5000 25d50+90 slash
+-90 -90 -90 -90
+CDEFGHIK ABP N HM
+stand stand none 80000
+AHMV ABCDEFGHIJK huge unknown
+#11010
+Sanctuary Defender~
+{X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X~
+{XA {X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X stands here.
+~
+~
+white-dwarf~
+ABFGT DFJVZ 0 1000 0
+185 200 5d5+25000 1d1+120000 50d80+200 divine
+-100 -100 -100 -100
+ADEFGHK ABN L R
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#11011
+Garvis~
+Garvis~
+Garvis, the head monk of {DSa{wnc{Wtu{war{Dy{X is here.
+~
+~
+white-dwarf~
+ABFGT DFVZ E 1000 0
+190 250 1d1+30000 1d1+50000 40d95+195 wrath
+-120 -120 -120 -120
+ADEFGHIK ABN L R
+stand stand male 54329
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#11012
+Lesser Priest~
+{DA {DLe{ws{Ws{wer {DPr{wi{We{ws{Dt{X~
+{DA {DLe{ws{Ws{wer {DPr{wi{We{ws{Dt{X stands here, humming softly.
+~
+~
+human~
+ABGRT DFVZ N 1000 0
+175 200 1d1+18000 1d1+9000 30d60+150 divine
+-70 -70 -70 -70
+ADEFGHJKQ ABNP S H
+stand stand male 35000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11013
+cleric~
+a {Dcl{we{Wr{wi{Dc{X~
+A {Dcl{we{Wr{wi{Dc{X is walking around here.
+~
+~
+human~
+ABGT DFJVZ N 1000 0
+150 200 1d1+17000 1d1+20000 20d60+200 fury
+-60 -60 -60 -60
+CEFGJK ABN S H
+stand stand male 34500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11014
+Sanctuary Security officer~
+{DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer~
+A {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer is here looking around.
+~
+~
+dark-elf~
+ABFGR DFVZ EN 1000 0
+185 250 1d1+22000 2d2+20000 40d80+250 wrath
+-120 -120 -120 -120
+ADEFGHIJKU ANPS K HS
+stand stand none 30400
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#11015
+Benvou Healer~
+Benvou~
+Benvou, the monastary's healer is here chanting something.
+~
+~
+human~
+ABGa 0 0 1000 0
+200 0 1d1+50000 1d1+45000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11016
+cloaked figure~
+{DA {Dcl{wo{Wa{wk{Ded{X {Df{wigur{De{X~
+{DA {Dcl{wo{Wa{wk{Ded{X {Df{wigur{De{X stands here.
+~
+~
+human~
+ABG DFJVZ H -1000 0
+200 300 1d1+20 1d1+5000 50d95+350 magic
+-200 -200 -200 -200
+CDEFGHJK ABDNS 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11000 1000~
+#11017
+old man jusvue~
+Jusvue~
+An old man stands here muttering to himself.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+200 200 1d1+400 0d0+0 1d1+56000 wrath
+-300 -300 -300 -300
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11001 1000~
+#11018
+zombie~
+{XA {DZo{wm{Wb{wi{De{X~
+{XA {DZo{wm{Wb{wi{De{X is here moving around slowly.
+~
+~
+wyvern~
+AFGST DFJTVZa D -1000 0
+175 175 1d1+18000 1d1+50000 20d65+80 fury
+-80 -80 -80 -80
+BEGIKU ABHL D KS
+stand stand none 34000
+ABGZ ACDEFHJKQVX medium unknown
+F off CFH
+#11019
+wandering creature~
+{XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X~
+{XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X is here walking around.
+~
+~
+human~
+AGT DFJVZ E -1000 0
+185 225 1d1+19000 1d1+50000 30d59+80 claw
+-100 -100 -100 0
+CEFK AB HMQ CK
+stand stand none 23000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11020
+Keeper~
+{XA {!K{Deepe{!r{X~
+{XA {!K{Deepe{!r{X is here standing guard.
+~
+~
+wyvern~
+ABFGT DFJTVZ O -1000 0
+180 220 1d1+20000 1d1+45000 40d90+140 wrath
+-100 -100 -100 -100
+ADEFGHIKU ABLP 0 S
+stand stand none 32000
+ABGZ ACDEFHJKQVX medium unknown
+F off C
+#11021
+Pit Demon~
+{XA {1P{Di{1t{X {DD{1emo{Dn{X~
+{XA {1P{Di{1t{X {DD{1emo{Dn{X is here, hovering above the ground.
+~
+~
+dragon~
+AFGT DFJTVZ O -1000 0
+170 220 1d1+21000 1d1+500 50d75+190 shbite
+-60 -60 -60 -20
+ACEFGIKMU AB BDEH CIKN
+stand stand none 20000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#11022
+Sergy~
+Sergy~
+Sergy, an old healer is here.
+~
+~
+human~
+ABGa 0 0 -1000 0
+180 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 39039
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11023
+Garthyll~
+Garthyll~
+Garthyll, The lost Demon is here.
+~
+~
+wyvern~
+ABFGT DFJPQTVZc EO -1000 0
+190 225 1d1+27000 1d1+50000 80d100+150 frbite
+-130 -130 -130 -130
+ACDEFGHIK ABHLP C FS
+stand stand none 80000
+ABGZ ACDEFHJKQVX medium unknown
+#11024
+wandering demon~
+{XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X~
+{XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X is here, wandering.
+~
+~
+wyvern~
+AFG DFJTVZa O -1000 0
+170 200 1d1+19000 1d1+5000 45d75+150 magic
+-100 -100 -100 -100
+ACDEFHIU ABL 0 S
+stand stand none 30003
+ABGZ ACDEFHJKQVX medium unknown
+#11025
+Floating Head~
+{XA {4F{Dloatin{4g {!H{Dea{!d{X~
+{XA {4F{Dloatin{4g {!H{Dea{!d{X is here floating around.
+~
+~
+wyvern~
+AG DFT DO -1000 0
+175 200 1d1+19000 1d1+5000 20d65+100 magic
+-90 -90 -90 -90
+CFH ABHL G IS
+stand stand none 3000
+ABGZ ACDEFHJKQVX medium unknown
+#11026
+lesser demon~
+{XA {DLe{wss{Wer {wD{De{Wm{Don{X~
+{XA {DLe{wss{Wer {wD{De{Wm{Don{X is here.
+~
+~
+wyvern~
+AG DFJTVZa DO -1000 0
+160 200 1d1+17500 1d1+50000 40d75+110 fury
+-120 -120 -120 -10
+CFHIU ABCL 0 S
+stand stand none 3421
+ABGZ ACDEFHJKQVX medium unknown
+#11027
+Sales clerk~
+A sales clerk~
+A sales clerk stands here, behind a counter.
+~
+~
+human~
+ABG DFJZ 0 0 0
+110 0 1d1+4000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 399999
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11028
+Shopkeeper~
+Shopkeeper~
+A shopkeeper is here, taking orders.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+110 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 349543
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11029
+Grythup~
+Grythup~
+Grythup is here, polishing an old saber.
+~
+~
+human~
+ABGT DFJVZa DN 1000 0
+185 230 1d1+25000 1d1+50000 60d95+140 slash
+-150 -150 -150 -150
+BCDEGHIJKO ABNS C I
+stand stand none 100000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11030
+Tyrqu~
+Tyrqu~
+Tyrqu stands here, looking at you intently.
+~
+~
+human~
+ABGT DFJVZa DN 1000 0
+185 230 1d1+25000 1d1+5000 60d95+135 pound
+-120 -120 -120 -120
+BCDEGHIJKO ABNS 0 C
+stand stand male 20000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11031
+Sanctuary Guardian~
+{DA {DSa{wnc{Wtu{wa{Dry{X {DGu{war{Wdi{wa{Dn{X~
+{DA {Xlong lost {DSa{wnc{Wtu{wa{Dry{X {DGu{war{Wdi{wa{Dn{X stands before you.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11031 1000~
+M SPEECH 11032 yes~
+#11032
+Sanctuary Guide~
+{XA {DSa{wnc{Wtu{wa{Dry{X {DGu{wi{Wd{De{X~
+{XA {DSa{wnc{Wtu{wa{Dry{X {DGu{wi{Wd{De{X is here, waiting for you.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11033 1000~
+#11033
+questrat rat~
+A rat~
+A rat is here scurrying around.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11034
+Harbinger of Darkness~
+{XA {1H{Dar{wb{Wi{wn{Dge{1r{X {wof{X {DDa{wr{Wk{wne{Dss{X~
+{XA {1H{Dar{wb{Wi{wn{Dge{1r{X {wof{X {DDa{wr{Wk{wne{Dss{X is here.
+~
+~
+human~
+ABG 0 0 -1000 0
+110 0 1d1+200 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11177 1000~
+#11035
+Harbinger of Light~
+{XA {3H{Darbinge{3r of {#L{3igh{#t{X~
+{XA {3H{Darbinge{3r of {#L{3igh{#t{X is here.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11178 1000~
+#11036
+Qhor~
+Qhor~
+Qhor is here, fire dancing at his fingertips.
+~
+~
+human~
+ABG DFJVZa DO -1000 0
+185 225 1d1+25000 1d1+50000 60d95+140 magic
+-110 -110 -110 -200
+BCDEGHIJKO AB C N
+stand stand none 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11037
+Mathusan~
+Mathusan~
+Mathusan stands here, looking at you funny.
+~
+~
+human~
+ABEG DFJVZa EO -1000 0
+185 225 1d1+25000 1d1+50000 60d95+140 fury
+-120 -120 -120 -180
+BCDEGHIJKO AB C NS
+stand stand female 100000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11038
+Typus~
+Typus~
+Typus is here, watching you intently.
+~
+~
+human~
+ABGT DFJVZa CN 1000 0
+190 225 1d1+27000 1d1+50000 60d95+140 chill
+-150 -150 -150 -200
+BCDEGHIJKO ABINS P HK
+stand stand male 110000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11039
+Hymir~
+Hymir~
+Hymir is here, looking at you.
+~
+~
+human~
+ABEFGT DFJVZa CN 1000 0
+190 230 1d1+27500 1d1+50000 65d98+140 wave
+-180 -180 -180 -180
+BCDEGHIJKO ABNS M HK
+stand stand male 100000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11040
+Shadowy figure~
+{XA {DSh{wa{Wd{wo{Dwy{X {Df{1igur{De{X~
+{XA {DSh{wa{Wd{wo{Dwy{X {Df{1igur{De{X is here.
+~
+~
+human~
+ABG 0 0 -1000 0
+110 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11183 1000~
+#11041
+Evil~
+{DE{1vi{Dl{X~
+{DE{1vi{Dl{X incarnate is here, awaiting your arrival.
+~
+~
+human~
+ABEFGT DFJVZa DEO -1000 0
+190 230 1d1+29000 1d1+50900 66d98+165 sonic
+-180 -180 -180 -180
+BCDEGHIJKO ABCHI J KNS
+stand stand male 100000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11186 1000~
+M DEATH 11185 1000~
+#11042
+ratquest~
+a rat~
+{XA rat is here.
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11043
+Evil's right hand~
+{DE{1vi{Dl's {1R{Digh{1t{X {$H{Dan{$d{X~
+{DE{1vi{Dl's {1R{Digh{1t{X {$H{Dan{$d{X is here, awaiting your arrival.
+~
+~
+human~
+ABG DFJZ 0 -1000 0
+0 0 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11187 1000~
+#11044
+white robed figure~
+{DA {dwhite{X {#r{3obe{#d{X {3figure{X~
+{DA {dwhite{X {#r{3obe{#d{X {3figure{X stands before you.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+110 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11192 100~
+#11045
+Good Incarnate~
+{#G{3oo{#d{X {#I{3ncarnat{#e{X~
+{#G{3oo{#d{X {#I{3ncarnat{#e{X is here, awaiting your arrival.
+~
+~
+human~
+ABEGT DFJVZa CN 1000 0
+190 225 1d1+29000 1d1+50000 66d98+165 divine
+-180 -180 -180 -180
+BCDEGHIJKO ABNS IK C
+stand stand none 30000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11195 1000~
+M DEATH 11194 1000~
+#11046
+goodquestrat~
+a rat~
+A rat is here!
+~
+~
+human~
+ABG 0 0 0 0
+0 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11047
+Good's right hand~
+{#G{3oo{#d'{3s {DR{3igh{Dt {3H{#an{3d{X~
+{#G{3oo{#d'{3s {DR{3igh{Dt {3H{#an{3d{X is here, awaiting your arrival.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 11196 1000~
+#0
+
+
+
+#OBJECTS
+#11000
+small key~
+a small key~
+A small key lies here on the ground~
+unknown~
+key PTUV A
+0 0 0 0 0
+0 0 0 P
+#11001
+dagger bladed twin~
+{DTw{win{W-b{wlad{Ded{X dagger~
+A double edged dagger lies on the ground here.~
+unknown~
+weapon B AN
+dagger 9 19 pierce DJ
+90 1 100000 P
+A
+18 8
+A
+19 8
+#11002
+red potion~
+a {!red{X potion{X~
+A potion lies on the ground here~
+unknown~
+potion 0 AO
+100 'haste' 'frenzy' 'bless' 'stone skin'
+90 0 60000 P
+#11003
+yellow potion~
+a {#yellow{X potion~
+A potion seems to have been dropped in the dirt here.~
+unknown~
+potion 0 AO
+100 'fly' 'pass door' 'steel flesh' 'farsight'
+95 0 50000 P
+#11004
+blue potion~
+a {$blue{X potion~
+A potion has been dropped here.~
+unknown~
+potion 0 AO
+92 'detect invis' 'detect motion' 'infravision' 'farsight'
+87 0 70000 P
+#11005
+healing potion~
+a {%hea{5l{%ing{X potion~
+A potion has been left here.~
+unknown~
+potion 0 AO
+95 'heal' 'heal' 'cure blindness' 'mass healing'
+90 0 95000 P
+#11006
+Glorious Sword~
+the {#G{3loriou{#s{X {4Sword{X~
+A glorious looking sword has been left here.~
+unknown~
+weapon 0 AN
+sword 12 15 slash A
+94 1 200000 P
+A
+19 10
+#11007
+Shimmering portal~
+{XA {DSh{wim{Wme{wri{Dng{X Portal{X~
+{XA {DSh{wim{Wme{wri{Dng{X Portal{X is here, shimmering.~
+unknown~
+portal A 0
+0 H 0 ABEFIJLN 0
+0 0 0 P
+#11008
+A Sanctuary Guard Shield~
+{XA {DSa{wnc{Wtu{war{Dy{X {!G{1uar{!d{X shield~
+A Large shield lies on the ground here.~
+unknown~
+armor 0 AJ
+ACE ACE ACE ACE 0
+101 1 200000 P
+A
+19 15
+A
+3 -2
+A
+12 -150
+A
+17 -4
+A
+13 100
+#11009
+Sanctuary Sash~
+the {DSa{wnc{Wtu{war{Dy{X {$S{4as{$h{X~
+A small sash lies forgotten on the ground.~
+unknown~
+armor 0 AW
+BCD BCD BCD BCD 0
+101 0 150000 P
+A
+19 8
+A
+17 -15
+#11010
+Divine Armguards~
+{DDi{wv{Wi{wn{De{X {@A{Drmguard{@s{X~
+A pair of divine looking armguards lie here.~
+unknown~
+armor A AI
+ADE ADE ADE ADE 0
+101 1 101000 P
+A
+13 -150
+A
+18 -8
+A
+19 20
+#11011
+blessed axe of enlightenment~
+{DBl{we{Ws{wse{Dd{X {$A{4x{$e{X {Dof {#En{3lightenme{#nt{X~
+A blessed axe lies on the ground here.~
+unknown~
+weapon A AN
+axe 10 20 wrath AJ
+101 2 101000 P
+A
+20 1
+A
+19 13
+A
+2 2
+A
+1 -2
+#11012
+white key~
+a white key~
+A white key is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#11013
+an ornate wristband~
+{XAn {2O{Drn{2at{De{X {DWr{wis{Wtb{wan{Dd{X~
+An ornate wristband lies here, forgotten.~
+unknown~
+treasure A AM
+0 0 0 0 0
+101 1 101000 P
+A
+4 -2
+A
+13 75
+A
+19 20
+#11014
+Silver couch~
+a {Dsi{wl{Wv{we{Dr {Xcouch~
+A {Dsi{wl{Wv{we{Dr {Xcouch sits here against a wall.~
+unknown~
+furniture A 0
+C FJKLO BEHIKL EHI EHI
+101 0 0 P
+#11015
+silver and red fountain~
+{XA {Dsi{wl{Wv{we{Dr{X and {!red{X fountain{X~
+{XA {Dsi{wl{Wv{we{Dr{X and {!red{X fountain{X sits in the center of the room.~
+unknown~
+fountain 0 0
+-1 -1 'dr pepper' 0 0
+101 0 0 P
+#11016
+a key~
+a key~
+A key lies here.~
+unknown~
+key PU 0
+0 0 0 0 0
+0 0 0 P
+#11017
+soft fire~
+a soft {!f{1ir{!e{X~
+A soft {!f{1ir{!e{X is here burning in a small pit.~
+unknown~
+portal 0 0
+0 A 0 CDEGIJLN 0
+101 0 0 P
+#11018
+Zaraphist's Pulse~
+{DZa{wra{Wph{wis{Dt's{X {#P{3uls{#e{X~
+{DZa{wra{Wph{wis{Dt's{X long lost {#P{3uls{#e{X lies here.~
+unknown~
+light AHMYZ AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 0 101000 P
+A
+18 -5
+A
+19 20
+A
+17 -18
+A
+12 -275
+#11019
+Shield of the Keeper~
+{DSh{wi{We{wl{Dd o{Xf {Dt{1h{De {!K{Deepe{!r{X~
+The {DSh{wi{We{wl{Dd o{Xf {Dt{1h{De {!K{Deepe{!r{X lies here.~
+unknown~
+armor ACEJ AJ
+BCDE BCDE BCDE BCDE 0
+101 1 0 P
+A
+12 -75
+A
+1 -2
+A
+19 15
+A
+17 -10
+#11020
+Chipped demon tooth~
+{XChipped {DD{1emo{Dn{!'s{X {Dt{woot{Dh{X~
+A small tooth lies here.~
+unknown~
+treasure CEJ AS
+0 0 0 0 0
+101 0 101000 P
+A
+13 200
+F
+A 0 0 P
+F
+A 0 0 T
+A
+18 -10
+A
+19 20
+#11021
+Garthyll's Tooth~
+{!Garthyll's{X {DTo{wo{Dth{X~
+A sharp tooth lies here.~
+unknown~
+weapon GJ AN
+exotic 18 11 frbite BJ
+101 3 101000 P
+A
+19 20
+A
+3 -4
+A
+18 -15
+A
+13 200
+A
+12 -50
+F
+V 0 0 C
+#11022
+a rock~
+{XA {Dr{woc{Dk{X~
+{XA {Dr{woc{Dk{X is here.~
+unknown~
+furniture AG 0
+B DFGHIJ EHK BCEH BCEH
+90 0 0 P
+#11023
+blue pill~
+a {4blue{X pill{X~
+A pill lies on the floor here.~
+unknown~
+pill A AO
+101 'pass door' 'displace' 'protection evil' 'cure serious'
+101 0 50000 P
+#11024
+red pill~
+a {1red{X pill~
+A pill lies on the ground here.~
+unknown~
+pill G AO
+120 'haste' 'frenzy' 'bless' 'stone skin'
+101 0 80000 P
+#11025
+green pill~
+a {2green{X pill~
+A small pill lies on the ground here.~
+unknown~
+pill B AO
+130 'mass invis' 'shield' 'steel flesh' 'armor'
+100 0 100000 P
+#11026
+pound cake~
+pound cake~
+A peice of pound cake lies on the ground here.~
+unknown~
+food G AO
+100 100 0 0 0
+90 0 20000 P
+#11027
+Yellow potion~
+a {3yellow{X potion~
+A potion lies on the ground here.~
+unknown~
+potion 0 AO
+110 'heal' 'mass healing' 'mass healing' 'heal'
+101 0 80000 P
+#11028
+cyan potion~
+a {6cyan{X potion~
+A {6cyan{X potion lies on the floor here.~
+unknown~
+potion B AO
+110 'detect motion' 'detect invis' 'detect magic' 'protection evil'
+101 0 85000 P
+#11029
+ruby bracelet~
+a {1r{!ub{1y{X {3b{wracele{3t{X~
+A ruby bracelet lies here.~
+unknown~
+jewelry AG AM
+0 0 0 0 0
+101 0 350000 P
+A
+19 15
+A
+17 -20
+#11030
+Grythup's Saber~
+{XGrythup's {4S{$abe{4r{X~
+A large saber lies here.~
+unknown~
+weapon B AN
+sword 6 34 cleave A
+101 3 101000 P
+A
+2 -3
+A
+18 -8
+A
+19 18
+#11031
+Seal of Tyrqu~
+{XSeal of {3Tyrqu{X~
+A Seal lies here on the ground.~
+unknown~
+treasure A AV
+0 0 0 0 0
+101 0 101000 P
+A
+28 20
+A
+19 7
+#11032
+key~
+key~
+A key!~
+unknown~
+key 0 0
+0 0 0 0 0
+0 0 0 P
+#11033
+key~
+key~
+Key!~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#11034
+Qhor's Belt~
+{3Q{4ho{3r'{Ds {DB{1el{Dt{X~
+A small belt lies here.~
+unknown~
+armor A AL
+ADE ADE ADE ADE 0
+101 1 101000 P
+A
+19 12
+A
+12 200
+A
+1 -2
+A
+28 7
+#11035
+Mathusan's Helm~
+{4M{1athusa{4n'{Ds {1H{Del{1m{X~
+A helm lies on the ground here.~
+unknown~
+jewelry BG AE
+0 0 0 0 0
+101 0 0 P
+F
+R 0 0 J
+A
+12 100
+A
+20 -8
+A
+18 6
+#11036
+Typus' Carnage~
+{1T{Dypu{1s' {!Car{1na{!ge{X~
+Something is glowing on the ground here.~
+unknown~
+treasure G AO
+0 0 0 0 0
+101 0 101000 P
+A
+19 20
+A
+26 6
+A
+4 -3
+A
+18 10
+F
+R 0 0 I
+#11037
+Hymir's Armplates~
+{!H{wy{#m{wi{!r{#'{Ds{X {@A{Drmplate{@s{X~
+A set of armplates lie on the ground here.~
+unknown~
+armor 0 AI
+BCF BCF BCF BCF 0
+101 2 101000 P
+A
+19 12
+A
+3 -2
+A
+13 75
+#11038
+Evil's Signet Ring~
+{DE{1vi{Dl's {DS{1igne{Dt {DR{wi{Wn{Dg{X~
+Evil incarnate's ring lies on the floor here.~
+unknown~
+treasure BGJ AB
+0 0 0 0 0
+101 0 101000 P
+A
+19 17
+A
+13 200
+A
+9 20
+A
+3 -3
+A
+12 -100
+A
+18 5
+#11039
+good's signet ring~
+{#G{3oo{#d's {DS{3igne{Dt {3R{#in{3g{X~
+{#G{3oo{#d's {DS{3igne{Dt {3R{#in{3g{X lies on the ground here.~
+unknown~
+treasure BGK AB
+0 0 0 0 0
+101 0 101000 P
+A
+2 -3
+A
+17 -15
+A
+28 5
+A
+12 250
+A
+19 15
+#11381
+Pouch of Souls~
+{DP{1ouc{Dh{X {Do{wf{X {8S{5o{8u{5l{8s{X~
+Bree's pouch, dont touch!~
+unknown~
+container A AO
+20000 A 0 40000 100
+110 0 0 P
+#11382
+Demonic Rune Carved Crystal Box~
+{DA {DDe{wm{Wo{wni{Dc{X {!R{Dun{!e {DC{!arve{Dd {!C{Dr{!y{Ds{!t{Da{!l{X {DB{Wo{wx{X~
+Demonic light.~
+unknown~
+light A AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 0 P
+#11383
+Demonic Diamond of Courage~
+{DDe{wm{Wo{wni{Dc{X {!D{Diamon{!d{X {Dof{X {!C{Do{!u{Dr{!a{Dg{!e{X~
+Earring~
+unknown~
+treasure A AS
+0 0 0 0 0
+110 0 0 P
+A
+18 300
+A
+19 100
+#11384
+Demonic Shield of Kingship~
+{DDe{wm{Wo{wni{Dc{X {!S{Dhiel{!d{X {Dof{X {!K{Di{!n{Dg{!s{Dh{!i{Dp{X~
+Demonic shield~
+unknown~
+armor A AJ
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+17 -100
+A
+13 500
+#11385
+demonic cloak of vengence~
+{DDe{wm{Wo{wni{Dc{X {!C{Dloa{!k{X {Dof{X {!V{De{!n{Dg{!e{Dn{!c{De{X~
+Demonic cloak.~
+unknown~
+trash A AK
+0 0 0 0 0
+110 0 0 P
+A
+26 200
+A
+18 450
+#11386
+demonic circles of destruction~
+{DDe{wm{Wo{wni{Dc{X {!C{Dircle{!s {Do{Wf{X {$D{4estructio{$n{X~
+Demonic circles~
+unknown~
+treasure A AT
+0 0 0 0 0
+110 0 0 P
+A
+18 200
+A
+9 500
+#11387
+Demon's Annointed Silk Belt~
+{DDe{wm{Wo{wn'{Ds{X {!A{Dnnointe{!d{X {DS{Xil{Dk{X {!B{De{!l{Dt{X~
+Demon belt~
+unknown~
+treasure A AL
+0 0 0 0 0
+110 0 0 P
+A
+19 800
+#11388
+Demonic leggings of horror~
+{DDe{wm{Wo{wni{Dc{X {!L{Degging{!s{X {Dof {DH{!o{Dr{!r{Do{!r{X~
+Demonic leggings lie here.~
+unknown~
+treasure A AF
+0 0 0 0 0
+110 0 0 P
+A
+17 -500
+A
+12 1000
+A
+13 1000
+A
+19 500
+A
+9 500
+#11389
+Demonic Gothic Platemail of The Inferno~
+{DDe{wm{Wo{wni{Dc{X {1G{Dothi{1c{X {DPl{wat{Wem{wai{Dl{X {Do{wf{X {DT{Wh{De{X {1I{!nfern{1o{X~
+Platemail lies here.~
+unknown~
+armor A AD
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+19 750
+A
+17 -250
+#11390
+Demonic Boots of Reaving~
+{DDe{wm{Wo{wni{Dc{X {!B{Doot{!s{X {Dof {!R{De{!a{Dv{!i{Dn{!g{X~
+Demonic boots lie here.~
+unknown~
+armor A AG
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+17 -750
+#11391
+A Pair of Cursed Demonic Eyes~
+{DA {!P{Dai{!r{D o{Wf{D {!C{Du{1r{Ds{!e{Dd{X {DDe{wm{Wo{wni{Dc{X {!E{Dye{!s{X~
+{DA {!P{Dai{!r{D o{Wf{D {!C{Du{1r{Ds{!e{Dd{X {DDe{wm{Wo{wni{Dc{X {!E{Dye{!s{X~
+unknown~
+treasure A AQ
+0 0 0 0 0
+110 0 0 P
+A
+9 200
+A
+26 50
+A
+28 50
+A
+19 600
+#11392
+demonic facemask of evil~
+{!O{2rnat{!e{X {DDe{wm{Wo{wni{Dc{X {!F{Dacemas{!k{X {Dof{X {DE{!v{Di{!l{X~
+Facemask lies here.~
+unknown~
+jewelry A AR
+0 0 0 0 0
+110 0 0 P
+A
+12 1000
+A
+13 1000
+A
+19 500
+#11393
+Demonic Skins of the Damned~
+{DDe{wm{Wo{wni{Dc{X {!S{Dkin{!s{X {Dof{X {Dt{wh{De{X {DD{!a{Dm{!n{Ded{X~
+Demonic skin here.~
+unknown~
+jewelry A AC
+0 0 0 0 0
+110 0 0 P
+A
+2 20
+A
+3 20
+A
+1 20
+A
+5 20
+A
+4 20
+A
+19 200
+A
+19 200
+#11394
+Demon's Faith in Retribution~
+{DDe{wm{Wo{Dn'{ws {!F{Dait{!h{X {Din{X {!Re{!tributi{!on{X~
+Demon's faith is here.~
+unknown~
+armor A AU
+BEF BEF BEF BEF 0
+110 0 0 P
+F
+A 0 0 J
+F
+A 0 0 a
+A
+19 400
+A
+19 400
+#11395
+demonic wings of death~
+{DDe{wm{Wo{wni{Dc{X {!W{Ding{!s {Dof{X {DD{we{Wa{wt{Dh{X~
+Demonic wings lie here.~
+unknown~
+armor A AX
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+19 400
+A
+19 400
+F
+A 0 1 a
+F
+A 0 0 V
+#11396
+Demonic Crown of The Aesir~
+{DDe{wm{Wo{wni{Dc{X {6C{7row{^n{X {DOf {DT{wh{De{X {@A{#e{Ws{#i{@r{X~
+Demon crown, yay!~
+unknown~
+armor A AE
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+28 100
+A
+26 100
+A
+18 250
+A
+19 250
+#11397
+demon's faith in Bree~
+{DDe{wm{Wo{Dn'{ws{X {!F{Dait{!h{X {Din {DB{wr{We{De{X~
+Faith in bree!~
+unknown~
+jewelry A AV
+0 0 0 0 0
+110 0 0 P
+A
+3 10
+A
+1 10
+A
+20 -200
+A
+20 -100
+#11398
+Demonic Wristbands of Fear~
+{DDe{wm{Wo{wni{Dc{X {$W{4ristband{$s{X {Do{wf{X {!F{De{wa{!r{X~
+Wristbands, groovy!~
+unknown~
+armor A AM
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+9 100
+A
+2 10
+A
+17 -50
+A
+28 50
+A
+26 50
+#11399
+Demonic ring of bree~
+{DDe{wm{Wo{wni{Dc{X {!R{1in{!g{X {Dof{X {DB{wr{We{De{X~
+Bree's lost ring sit's here.~
+unknown~
+armor A AB
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+17 -100
+F
+A 0 1 T
+F
+A 0 0 L
+A
+18 750
+A
+19 750
+#11400
+King's Glorious Demonic Battle Blade of Bree~
+{DKi{wng{W's {wGl{Dor{Wio{wus {!D{1emoni{!c{X {@B{2attl{@e{X {DBl{wa{Wd{we {Dof {WB{wre{De{X~
+King's Glorious Demonic Battle Blade of Bree~
+unknown~
+weapon A AN
+sword 200 250 wrath ABCDEGJ
+110 0 0 P
+A
+19 1000
+A
+9 750
+F
+S 0 0 D
+#0
+
+
+
+#ROOMS
+#11000
+{XEntrance to {DSa{wnc{Wtu{war{Dy{X Monastry~
+A huge marble archway surrounded by miles of stone wall greets you
+as you approach the {DSa{wnc{Wtu{war{Dy{X Monastry. Intricate designs
+have been carved all over the inside and outside of the huge arch-
+way. A small {2grassy{X path goes to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 6101
+S
+#11001
+{XA {2Grassy{X Path{X~
+The path you are walking appears to have been well worn. Foot
+marks can been seen impressed in the grass, the path continues
+north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11002
+D2
+~
+~
+0 0 11000
+S
+#11002
+{XA {2Grassy{X Path{X~
+The path you are walking appears to have been well worn. Foot
+marks can been seen impressed in the grass, the path continues
+north, south, and west.
+~
+0 0 0
+D0
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11011
+S
+#11003
+{XA {2Grassy{X Path{X~
+The path you are walking appears to have been well worn. Foot
+marks can been seen impressed in the grass, the path continues
+north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11004
+D2
+~
+~
+0 0 11002
+S
+#11004
+{XA {2Grassy{X Path{X~
+The path you are walking appears to have been well worn. Foot
+marks can been seen impressed in the grass, the path continues
+north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11003
+S
+#11005
+{XA {2Grassy{X Path{X~
+The path you are walking appears to have been well worn. Foot
+marks can been seen impressed in the grass, the path continues
+north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11006
+D2
+~
+~
+0 0 11004
+S
+#11006
+{XBefore a {DW{wh{Wi{wt{De {XRoad{X~
+The road directly infront appears to change in appearance. The {1red{X
+brick gives way to a smooth white marble polished to a high
+gleam. The white road continues on as long as you can see.
+~
+0 0 0
+D0
+~
+~
+0 0 11007
+D2
+~
+~
+0 0 11005
+S
+#11007
+{XA {DW{wh{Wi{wt{De {XRoad{X~
+The white road continues on here, heading both north and
+south.
+~
+0 0 0
+D0
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11006
+S
+#11008
+{XA {DW{wh{Wi{wt{De {XRoad{X~
+The white road continues on here, heading both south and
+up.
+~
+0 0 0
+D2
+~
+~
+0 0 11007
+D4
+~
+~
+0 0 11009
+S
+#11009
+{XA {DW{wh{Wi{wt{De {XRoad{X~
+The white road continues on here, heading both north and
+down.
+~
+0 0 0
+D0
+~
+~
+0 0 11010
+D5
+~
+~
+0 0 11008
+S
+#11010
+{XBefore The Halls of {DSa{wnc{Wtu{war{Dy{X~
+Before you is prehaps one of the most fascinating buildings in the
+world. The design appears to be completely foreign, with spirals
+and pillars adorning the tops of the monastary. All in all, very
+impressive.
+~
+0 0 0
+D0
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11009
+S
+#11011
+{XThe {1Village{X Path~
+Walking the path to the {1village{X, many busy villagers can be seen
+hard at work, both studying and working in the fields. The path
+continues on to the west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11012
+S
+#11012
+{XThe {1Village{X Path~
+Walking the path to the {1village{X, many busy villagers can be seen
+hard at work, both studying and working in the fields. The path
+continues on to the west, east, and north.
+~
+0 0 0
+D0
+~
+~
+0 0 11013
+D1
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11024
+S
+#11013
+{XThe {1Village{X Path~
+Walking the path to the {1village{X, many busy villagers can be seen
+hard at work, both studying and working in the fields. The path
+continues on to the south and west.
+~
+0 0 0
+D2
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11014
+S
+#11014
+{XThe {1Village{X Path~
+Small huts can be seen off the {1village{X path, and alot more people
+can now been seen going about their daily lives. The road continues
+to the east and west, with a small hut to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11015
+S
+#11015
+{XThe {1Village{X Path~
+Small huts can be seen off the {1village{X path, and alot more people
+can now been seen going about their daily lives. The road continues
+to the east and west, with a hut to both the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11016
+S
+#11016
+{XThe {1Village{X Path~
+The village path ends, with a small hut to the north with a large sign
+over the top that reads 'forge master'. The sounds of hammer on iron
+and steel can be heard echoing down the street. There is a large well
+near by.
+~
+0 0 0
+D0
+~
+~
+0 0 11023
+D1
+~
+~
+0 0 11015
+D5
+~
+~
+0 0 11020
+S
+#11017
+Potion Master's Hut~
+This is the hut of the village potion master. Whenever anyone in
+the village needs medicine, they go see him. He has a wide variety
+of potions for whatever ails you.
+~
+0 0 0
+D2
+~
+~
+0 0 11014
+S
+#11018
+{XA Small {DHut{X~
+This hut appears to lack any comfort what so ever. There is only a
+small stone bed in the corner of the room, and an equally small
+table sitting next to it.
+~
+0 0 0
+D2
+~
+~
+0 0 11015
+S
+#11019
+{XA Small {DHut{X~
+This hut appears to lack any comfort what so ever. There is only a
+small stone bed in the corner of the room, and an equally small
+table sitting next to it.
+~
+0 0 0
+D0
+~
+~
+0 0 11015
+S
+#11020
+Falling Down the Well~
+falling down a well, yay!
+~
+0 0 0
+D4
+~
+~
+0 0 11016
+D5
+~
+~
+0 0 11021
+S
+#11021
+The Bottom of the Well~
+Darkness surrounds you as you finally hit rock bottom. Now what
+are you going to do?
+~
+0 0 0
+D0
+~
+~
+4 11000 11022
+D4
+~
+~
+0 0 11020
+S
+#11022
+A Secret Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 11031
+D2
+~
+~
+1 0 11021
+S
+#11023
+{XThe Village {!F{1org{!e{X~
+This is the hut of the village forge master. Brand new weapons and
+armor adorn the walls of his hut, with customers buzzing all around
+infront of the counter. There is a rather large man standing behind
+the counter with a hammer in his hand grinning at you.
+~
+0 0 0
+D2
+~
+~
+0 0 11016
+S
+#11024
+{XThe {1Village{X Path{X~
+Walking the path to the {1village{X, many busy villagers can be seen
+hard at work, both studying and working in the fields. The path
+continues on to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11025
+S
+#11025
+{XThe {1Village{X Path{X~
+Walking the path to the {1village{X, many busy villagers can be seen
+hard at work, both studying and working in the fields. The path
+continues on to the east and south.
+~
+0 0 0
+D1
+~
+~
+0 0 11024
+D2
+~
+~
+0 0 11026
+S
+#11026
+{XBefore The {$L{4ibrar{$y{X~
+You are standing before the largest building in the village: The
+Library. This is where all of the town records are kept for
+safe keeping. It has been run by the same head librarian for
+the last 45 years.
+~
+0 0 0
+D0
+~
+~
+0 0 11025
+D3
+~
+~
+0 0 11027
+S
+#11027
+{XThe {$L{4ibrar{$y{X Foyer~
+You are now entering the library proper. It is not as big as it appears
+from the outside, but it is still impressive never the less. Everything
+in here leans towards design, carvings, paintings, etchings, everything.
+Books surround you on all sides in large cases.
+~
+0 256 0
+D1
+~
+~
+0 0 11026
+D3
+~
+~
+0 0 11028
+S
+#11028
+{XThe {@L{2esse{@r{X {$L{4ibrar{$y{X~
+You are now entering the library proper. It is not as big as it appears
+from the outside, but it is still impressive never the less. Everything
+in here leans towards design, carvings, paintings, etchings, everything.
+Books surround you on all sides in large cases.
+~
+0 256 0
+D1
+~
+~
+0 0 11027
+D4
+~
+~
+1 0 11029
+S
+#11029
+{XBefore an {3Oak{X Door~
+Standing before a large {3oak{X door, flanked on both sides by
+ridiculously large guards, you feel that maybe you may have
+made a bad choice.
+~
+0 256 0
+D0
+~
+~
+1 0 11030
+D5
+~
+~
+1 0 11028
+S
+#11030
+{XThe {$L{4ibrarian{$'s{X Chambers.~
+This is the head Librarian's office. A huge desk sits near the
+center of the room, with 2 chairs opposite each other. Paintings
+and etchings hang everywhere along the black polished marble
+walls.
+~
+0 0 0
+D2
+~
+~
+1 0 11029
+S
+#11031
+A Secret Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 11032
+D2
+~
+~
+0 0 11022
+S
+#11032
+A Secret Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 11033
+D2
+~
+~
+0 0 11031
+S
+#11033
+A Secret Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11032
+S
+#11034
+A Secret Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11033
+S
+#11035
+A Secret Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11034
+S
+#11036
+A Secret Passage~
+~
+0 0 0
+D2
+~
+~
+0 0 11035
+D4
+~
+~
+0 0 11037
+S
+#11037
+The End~
+~
+0 0 0
+D4
+~
+~
+0 0 11075
+D5
+~
+~
+0 0 11036
+S
+#11038
+{DSa{wnc{Wtu{war{Dy{X {4F{$oye{4r{X~
+The foyer of the monastary is very decorative. The walls appear to be
+made up of pure ivory, carved into the likeness of a giant battle
+between good and evil. A coat rack sits in the corner of the room
+next to a large mirror hanging from the wall. The floor is made
+up of what appears to be pure white marble.
+~
+0 0 0
+D0
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11010
+S
+#11039
+{XA {!Tr{@i-C{#ol{@or{!ed{X Room~
+You are standing in one of the oddest looking rooms you have ever
+seen. The room appears to have been cut into three equal pieces,
+each painted a differant color. One wall is {!red{X, another is
+{#yellow{X, and the last is {@green{X. A door is cut into the center
+of the wall in each color wall.
+~
+0 0 0
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11040
+S
+#11040
+{XA {!Red{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway is very bright, but not as decorative as the foyer of
+the monastary was. The walls are white marble with red trim, as
+are the floors. Nothing adorns the walls.
+~
+0 0 0
+D1
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11041
+S
+#11041
+{XA {!Red{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway is very bright, but not as decorative as the foyer of
+the monastary was. The walls are white marble with red trim, as
+are the floors. Nothing adorns the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11042
+S
+#11042
+{XA {!Red{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway is very bright, but not as decorative as the foyer of
+the monastary was. The walls are white marble with red trim, as
+are the floors. Nothing adorns the walls.
+~
+0 0 0
+D1
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11043
+S
+#11043
+{XA {!Red{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway is very bright, but not as decorative as the foyer of
+the monastary was. The walls are white marble with red trim, as
+are the floors. Nothing adorns the walls.
+~
+0 0 0
+D1
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11044
+S
+#11044
+{XA {!Red{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway is very bright, but not as decorative as the foyer of
+the monastary was. The walls are white marble with red trim, as
+are the floors. Nothing adorns the walls.
+~
+0 0 0
+D1
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11045
+S
+#11045
+{DSa{wnc{Wtu{war{Dy{X {#H{3ealin{#g{X Room~
+This is the {#healing{X room of the {DSa{wnc{Wtu{war{Dy{X {DMo{wna{Wst{war{Dy{X, Benvou has
+been the healer for this complex for time out of mind, and can surely
+tend to your wounds, just ask!
+~
+0 9216 0
+D1
+~
+~
+0 0 11044
+S
+#11046
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D1
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11039
+S
+#11047
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D1
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11046
+S
+#11048
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D1
+~
+~
+0 0 11049
+D2
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11047
+S
+#11049
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D1
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11048
+S
+#11050
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D1
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11049
+S
+#11051
+{XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway~
+This hallway appears to have been made up of some {@green{X substance.
+The floor is made of up white marble that seems to have lost it's
+gleam. Cobwebs aborn the ceiling in most places, and dust is everywhere.
+Obviously this corridor is not used much.
+~
+0 0 0
+D0
+~
+~
+2 0 11080
+D3
+~
+~
+0 0 11050
+S
+#11052
+{XA {#Ye{3ll{#ow{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11039
+S
+#11053
+{XA {#Ye{3llo{#w{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11055
+D1
+~
+~
+0 0 11076
+D2
+~
+~
+0 0 11052
+S
+#11054
+{XA {#Ye{3ll{#ow{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+1 11012 11058
+D2
+~
+~
+0 0 11057
+S
+#11055
+{XA {#Ye{3llo{#w{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11056
+D2
+~
+~
+0 0 11053
+S
+#11056
+{XA {#Ye{3llo{#w{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11077
+S
+#11057
+{XA {#Ye{3llo{#w{X Hallway~
+This hallway appears to be made up of a {3yellow{X substance, very dull
+to the eye. The walls appear bare, and the floor is made up of simple
+white marble, polished to a high gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11054
+D2
+~
+~
+0 0 11056
+S
+#11058
+Head Monk's Room~
+Garvis' room is rather small for a monk of his stature. An {3oak{X desk
+sits against the far wall, adjacent to a small bed. A stand sits next
+to the bed, with a small candle burning on top of it. All in all, very
+cozy.
+~
+0 8449 0
+D2
+~
+~
+1 11012 11054
+D5
+~
+~
+1 11012 11059
+S
+#11059
+The End~
+~
+0 8193 0
+D4
+~
+~
+1 0 11058
+S
+#11075
+A Ray of Light~
+~
+0 4 0
+D2
+~
+~
+0 0 20204
+D5
+~
+~
+0 0 11037
+S
+#11076
+Guard Station~
+This guard station is very plain. Two military style cots jut out
+from the wall, next to which a small table stands. A candle sits
+atop the table, and a rather large sword has been thrown on one
+of the cots.
+~
+0 0 0
+D3
+~
+~
+0 0 11053
+S
+#11077
+{DLe{ws{Ws{wer {DPr{wi{We{ws{Dt C{wha{Wmb{we{Drs{X~
+The chambers of the lesser priests are not very spectacular. The
+walls are all plain white and bare, two small cots are wedged
+against the walls, and a large table sits in between them.
+~
+0 0 0
+D1
+~
+~
+0 0 11056
+S
+#11078
+Guard Station~
+This guard station is pretty spartan. A pair of stone tables
+sit on opposite walls next to two small beds. A large sword
+has been thrown on one of the beds, half out of it's sheath.
+~
+0 0 0
+D2
+~
+~
+0 0 11041
+S
+#11079
+Guard Station~
+This guard station is very spartan indeed. A stone table sits in
+the center of the room, with two very crude chairs flanking it.
+No decoration or adornment is evident in the room what so ever.
+~
+0 0 0
+D0
+~
+~
+0 0 11048
+S
+#11080
+{DA {DD{wa{Wr{wk{X {DRoom{X~
+This entire room is shrouded in darkness, there is no decoration
+or furniture of any kind. A dark figure stands in the middle of
+the room looking down at you.
+~
+0 8192 0
+D2
+~
+~
+1 11016 11051
+D5
+~
+~
+0 0 11081
+S
+#11081
+{DEn{wtr{Wan{wc{De{X {Dto{X {Wt{wh{We {DCa{wta{Wco{wm{Dbs{X~
+This is the entrance to the Catacombs of the Sanctuary Monastary. Long
+ago this way was buried, until just recently a young monk reopened
+the entrance to the catacombs. Since then many have ventured down there
+and few have returned. Be warned!
+~
+0 4 0
+D4
+~
+~
+0 0 11080
+D5
+~
+~
+0 0 11082
+S
+#11082
+{DDe{wce{Wnd{win{Dg{X {DI{wnt{Do{X {1D{Darknes{1s{X~
+Decending down into the darkness below, screams and howls can be heard
+down past the stairs in the distance. The stairwell is completely shrouded
+in darkness.
+~
+0 8192 0
+D4
+~
+~
+0 0 11081
+D5
+~
+~
+0 0 11083
+S
+#11083
+{DL{weve{Dl{X {DOne of the {DCa{wta{Wco{wm{Dbs{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11084
+D4
+~
+~
+0 0 11082
+S
+#11084
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11085
+D2
+~
+~
+0 0 11083
+S
+#11085
+{XA {DSp{Wl{Dit{X in the {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11084
+D3
+~
+~
+0 0 11086
+S
+#11086
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11085
+D3
+~
+~
+0 0 11087
+S
+#11087
+{XA Bend in The {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11088
+D1
+~
+~
+0 0 11086
+S
+#11088
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11089
+D2
+~
+~
+0 0 11087
+S
+#11089
+{XA Bend in The {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D2
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11090
+S
+#11090
+{XA Flight of Stairs~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11089
+D5
+~
+~
+0 0 11091
+S
+#11091
+{DDe{wce{Wnd{wi{Dng{X {DI{wnt{Do{X {1D{Darknes{1s{X~
+Walking down this dark, dank stairwell, you cannot help but wonder
+what kind of vile beasts await you below. Dim light can be seen
+at the bottom of the stairs, casting moving shadows in all directions.
+~
+0 8193 0
+D4
+~
+~
+0 0 11090
+D5
+~
+~
+0 0 11092
+S
+#11092
+{DL{we{Wv{we{Dl{X {DT{ww{Do{X {Dof the {DCa{wta{Wco{wm{Dbs{X~
+You are now entering level two of the {DCa{wta{Wco{wm{Dbs{X. The entire look is
+pretty much the same as the last level. Darkness and echos are the only
+constants.
+~
+0 4 0
+D4
+~
+~
+0 0 11091
+D5
+~
+~
+0 0 11102
+S
+#11093
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11094
+D3
+~
+~
+0 0 11085
+S
+#11094
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11093
+S
+#11095
+{XA Bend in The {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11096
+D3
+~
+~
+0 0 11094
+S
+#11096
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11097
+D2
+~
+~
+0 0 11095
+S
+#11097
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D0
+~
+~
+0 0 11098
+D2
+~
+~
+0 0 11096
+S
+#11098
+{XA Bend in The {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D2
+~
+~
+0 0 11097
+D3
+~
+~
+0 0 11099
+S
+#11099
+{XThe {1C{Dorrido{1r{X~
+Decending down into the darkness below, chills run all over your body.
+Echoing screams and howls can be heard in the surrounding darkness.
+~
+0 8193 0
+D1
+~
+~
+0 0 11098
+D5
+~
+~
+0 0 11101
+S
+#11100
+{DQu{wes{Wt {DRo{wa{Dd{X~
+No recall these rooms
+Mprog to explain what to do for the quest.
+Trans' from 11173
+~
+0 533504 0
+D0
+~
+~
+0 0 11174
+S
+#11101
+{DA {DD{we{Wa{wd {DEn{wd{X~
+A dead end runs up and smacks you in the face. Now what?
+~
+0 8193 0
+D4
+~
+~
+0 0 11099
+S
+#11102
+{DEn{wtr{Wan{wce {Dto {wLe{Wve{wl {DTw{wo o{Wf t{Dhe {DCa{wta{Wcom{wb{Ds{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but
+nothing can be seen.
+~
+0 8193 0
+D2
+~
+~
+0 0 11103
+D4
+~
+~
+0 0 11092
+S
+#11103
+{XA {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11104
+S
+#11104
+{XA {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11103
+D2
+~
+~
+0 0 11105
+S
+#11105
+{XA {DSp{wl{Wi{wt{X in {DT{1h{De {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11104
+D1
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11108
+S
+#11106
+{XA Carved out {DR{1oc{Dk{X~
+A peice of rock has been carved out here, and made into
+what looks like a make-shift shelter.
+~
+0 8197 0
+D1
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11105
+S
+#11107
+{XA Carved out {DR{1oc{Dk{X~
+A peice of rock has been carved out here, and made into
+what looks like a make-shift shelter. A Healer stands in
+the center of the room, chanting softly.
+~
+0 9216 0
+D3
+~
+~
+0 0 11106
+S
+#11108
+{XA {1W{Did{1e{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11105
+D3
+~
+~
+0 0 11109
+S
+#11109
+{XA {1W{Did{1e{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11110
+S
+#11110
+{XA {1W{Did{1e{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11109
+D3
+~
+~
+0 0 11111
+S
+#11111
+{XA {1W{Did{1e{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11112
+D1
+~
+~
+0 0 11110
+S
+#11112
+{XA {1F{Dor{1k{X in {DThe {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11116
+D2
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11113
+S
+#11113
+{XA {DS{1mal{Dl{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11112
+D3
+~
+~
+0 0 11114
+S
+#11114
+{XA {DS{1mal{Dl{X {DCo{wr{Wr{wid{Dor{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11115
+D1
+~
+~
+0 0 11113
+S
+#11115
+{!A {DD{1ea{Dd {DE{wn{Dd{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D2
+~
+~
+0 0 11114
+S
+#11116
+A {DD{war{Dk {1C{Dorrido{1r{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11112
+S
+#11117
+A {DD{war{Dk {1C{Dorrido{1r{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11118
+D3
+~
+~
+0 0 11116
+S
+#11118
+A {DD{war{Dk {1C{Dorrido{1r{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11117
+S
+#11119
+A {1T{wur{1n{X in {DThe {DD{war{Dk {1C{Dorrido{1r{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11118
+S
+#11120
+A {DD{war{Dk {1C{Dorrido{1r{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D0
+~
+~
+0 0 11121
+D2
+~
+~
+0 0 11119
+S
+#11121
+{DDe{wci{Wsi{wo{Dn {DT{1im{De{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11122
+S
+#11122
+{1B{Defor{1e{X a {DLa{wd{Wd{we{Dr{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11121
+D5
+~
+~
+0 0 11124
+S
+#11123
+{XA {DDark {1P{Dat{1h{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11133
+D3
+~
+~
+0 0 11121
+S
+#11124
+A {DL{1adde{Dr{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D4
+~
+~
+0 0 11122
+D5
+~
+~
+0 0 11125
+S
+#11125
+A {DL{1adde{Dr{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D4
+~
+~
+0 0 11124
+D5
+~
+~
+0 0 11126
+S
+#11126
+{XA {DD{wan{Dk {1T{Du{wnne{1l{X~
+A Small light can be seen to the north along this dank and semi-
+dark passageway.
+~
+0 8193 0
+D0
+~
+~
+0 0 11127
+D4
+~
+~
+0 0 11125
+S
+#11127
+{1E{Dntr{wa{Dnce{X to a {DTu{wn{Wn{we{Dl{X~
+A soft light can be seen leaking from the outline of a door to
+the east, it may be the way out!
+~
+0 8196 0
+D2
+~
+~
+0 0 11126
+D3
+~
+~
+1 0 11128
+S
+#11128
+{1T{Dh{1e {DEx{wit {WTu{wnn{Del{X~
+This is the exit tunnel, at the end, you will find the exit to
+{DThe {DCa{wta{Wco{wm{Dbs{X.
+~
+0 8193 0
+D1
+~
+~
+1 0 11127
+D3
+~
+~
+0 0 11129
+S
+#11129
+{1T{Dh{1e {DEx{wit {WTu{wnn{Del{X~
+This is the exit tunnel, at the end, you will find the exit to
+{DThe {DCa{wta{Wco{wm{Dbs{X.
+~
+0 8193 0
+D1
+~
+~
+0 0 11128
+D3
+~
+~
+0 0 11130
+S
+#11130
+{1T{Dh{1e {DEx{wit {WTu{wnn{Del{X~
+This is the exit tunnel, at the end, you will find the exit to
+{DThe {DCa{wta{Wco{wm{Dbs{X.
+~
+0 8193 0
+D1
+~
+~
+0 0 11129
+D3
+~
+~
+0 0 11131
+S
+#11131
+{1T{Dh{1e {DEx{wit {WTu{wnn{Del{X~
+This is the exit tunnel, at the end, you will find the exit to
+{DThe {DCa{wta{Wco{wm{Dbs{X.
+~
+0 8193 0
+D1
+~
+~
+0 0 11130
+D4
+~
+~
+0 0 11132
+S
+#11132
+{1T{Dh{1e {DEx{wit {WTu{wnn{Del{X~
+This is the exit tunnel, at the end, you will find the exit to
+{DThe {DCa{wta{Wco{wm{Dbs{X.
+~
+0 8193 0
+D0
+~
+~
+0 0 11137
+D5
+~
+~
+0 0 11131
+S
+#11133
+{XA {DDark {1P{Dat{1h{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11134
+D3
+~
+~
+0 0 11123
+S
+#11134
+{XA {DDark {1P{Dat{1h{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D1
+~
+~
+0 0 11135
+D3
+~
+~
+0 0 11133
+S
+#11135
+{XA {DDark {1P{Dat{1h{X~
+Darkness is the only way to describe this room. Screams can
+be heard echoing off the walls in every direction, but nothing
+can be seen.
+~
+0 8193 0
+D3
+~
+~
+0 0 11134
+D5
+~
+~
+0 0 11136
+S
+#11136
+{!Garthyll's Pit{X~
+This is Garthyll's pit, he was banished here a long time ago by 
+five of the most powerful {1d{Demon{1s{X to ever walk this land.
+It took all five of them to contain him, but yet they could not
+destroy him. So they banished him here, for what they thought
+was all eternity...
+~
+0 134225921 0
+D4
+~
+~
+0 0 11135
+S
+#11137
+Road to The {4L{Dos{4t{X {3C{Dit{3y{X of Carthap~
+The road is made up of {1red{X brick that has been allowed to
+fall into almost complete dissrepair. The road continues North
+and South.
+~
+0 0 0
+D0
+~
+~
+0 0 11138
+D2
+~
+~
+0 0 11132
+S
+#11138
+Road to The {4L{Dos{4t{X {3C{Dit{3y{X of Carthap~
+The road is made up of {1red{X brick that has been allowed to
+fall into almost complete dissrepair. The road continues North
+and South.
+~
+0 0 0
+D0
+~
+~
+0 0 11139
+D2
+~
+~
+0 0 11137
+S
+#11139
+Road to The {4L{Dos{4t{X {3C{Dit{3y{X of Carthap~
+The road is made up of {1red{X brick that has been allowed to
+fall into almost complete dissrepair. The road continues North
+and South.
+~
+0 0 0
+D0
+~
+~
+0 0 11140
+D2
+~
+~
+0 0 11138
+S
+#11140
+Road to The {4L{Dos{4t{X {3C{Dit{3y{X of Carthap~
+The road is made up of {1red{X brick that has been allowed to
+fall into almost complete dissrepair. The road continues North
+and South.
+~
+0 0 0
+D0
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11139
+S
+#11141
+Before Carthap~
+This Legendary City was thought only to exist in stories and fables.
+Legend has it that the few warriors and travelers who did get stuck
+in the catacombs, but managed to get their way out, started the city
+many thousands of years ago. Since then a traveler or two who has
+found his way out of the catacombs alive has moved in, but no one
+has ever moved out.
+~
+0 0 0
+D0
+~
+~
+0 0 11142
+D2
+~
+~
+0 0 11140
+S
+#11142
+Before The City~
+The city is very small compared to most, it is enclosed in a
+small wall made up of white marble, gleaming in the daytime
+sunlight.
+~
+0 0 0
+D0
+~
+~
+0 0 11143
+D2
+~
+~
+0 0 11141
+S
+#11143
+Common Square~
+This is the common square for the city, where almost all of
+the other roads intersect, so many people can be seen here
+during the right time of day.
+~
+0 0 0
+D0
+~
+~
+0 0 11153
+D1
+~
+~
+0 0 11145
+D2
+~
+~
+0 0 11142
+D3
+~
+~
+0 0 11144
+S
+#11144
+West Lane~
+This is West lane, the lane continues west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11143
+D3
+~
+~
+0 0 11146
+S
+#11145
+East Lane~
+This is East lane, the lane continues west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11158
+D3
+~
+~
+0 0 11143
+S
+#11146
+South Lane~
+This is South lane, the lane continues north and east.
+~
+0 0 0
+D0
+~
+~
+0 0 11147
+D1
+~
+~
+0 0 11144
+S
+#11147
+South Lane~
+This is South lane, the lane continues north and south, with
+a door to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 11148
+D1
+~
+~
+1 0 11165
+D2
+~
+~
+0 0 11146
+S
+#11148
+South Lane~
+This is South lane, the lane continues north and south, with
+a door to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 11149
+D1
+~
+~
+1 0 11166
+D2
+~
+~
+0 0 11147
+S
+#11149
+West Lane~
+This is West lane, the lane continues west and south.
+~
+0 0 0
+D1
+~
+~
+0 0 11150
+D2
+~
+~
+0 0 11148
+S
+#11150
+West Lane~
+This is West lane, the lane continues west and east, with a
+small shop to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11161
+D1
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11149
+S
+#11151
+A Three-Way Split~
+There is a split in the lane here, the road continues to the west,
+east, and south.
+~
+0 0 0
+D1
+~
+~
+0 0 11154
+D2
+~
+~
+0 0 11152
+D3
+~
+~
+0 0 11150
+S
+#11152
+North Lane~
+This is North Lane, the road continues north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 11151
+D1
+~
+~
+1 0 11160
+D2
+~
+~
+0 0 11153
+D4
+~
+~
+1 0 11167
+S
+#11153
+North Lane~
+This is North Lane, the road continues north and south,
+with a door to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 11143
+D3
+~
+~
+1 0 11159
+S
+#11154
+East Lane~
+This is East lane, the lane continues west and east, with a
+small shop to the south.
+~
+0 0 0
+D1
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11162
+D3
+~
+~
+0 0 11151
+S
+#11155
+East Lane~
+This is East lane, the lane continues south and east.
+~
+0 0 0
+D2
+~
+~
+0 0 11156
+D3
+~
+~
+0 0 11154
+S
+#11156
+South Lane~
+This is South lane, the lane continues south and north,
+with a door to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11157
+D3
+~
+~
+1 0 11163
+S
+#11157
+South Lane~
+This is South lane, the lane continues south and north,
+with a door to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 11156
+D2
+~
+~
+0 0 11158
+D3
+~
+~
+1 0 11164
+S
+#11158
+South Lane~
+This is South lane, the lane continues west and north.
+~
+0 0 0
+D0
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11145
+S
+#11159
+Grythup's Home~
+~
+0 256 0
+D1
+~
+~
+1 0 11153
+S
+#11160
+Tyrqu's Home~
+~
+0 256 0
+D3
+~
+~
+1 0 11152
+S
+#11161
+A Small Shop~
+This shop is full of everything. Pills, potions, baked food, and
+much more. If you can't find it here, you can't find it anywhere!
+~
+0 0 0
+D2
+~
+~
+0 0 11150
+S
+#11162
+A Small Shop~
+This appears to be a very small shop indeed. Jewelry hangs from the
+walls, but there is very little else in here.
+~
+0 0 0
+D0
+~
+~
+0 0 11154
+S
+#11163
+Mathusan's Home~
+~
+0 0 0
+D1
+~
+~
+1 0 11156
+S
+#11164
+Qhor's Home~
+~
+0 0 0
+D1
+~
+~
+1 0 11157
+S
+#11165
+Typus' Home~
+~
+0 0 0
+D3
+~
+~
+1 0 11147
+S
+#11166
+Hymir's Home~
+~
+0 0 0
+D3
+~
+~
+1 0 11148
+S
+#11167
+{DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X~
+This tower stands in the center of town, and it is rumored that an old
+and very wise Elder of the first {DSa{wnc{Wtu{wa{Dry{X settlers. It is said that
+he knows a way out of this place...
+~
+0 0 0
+D4
+~
+~
+0 0 11168
+D5
+~
+~
+1 0 11152
+S
+#11168
+{DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X~
+This stairwell is lined with silver on all sides, the
+steps are made up of marble, polished to a very high
+gleam.
+~
+0 0 0
+D4
+~
+~
+0 0 11169
+D5
+~
+~
+0 0 11167
+S
+#11169
+{DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X~
+This stairwell is lined with silver on all sides, the
+steps are made up of marble, polished to a very high
+gleam
+~
+0 0 0
+D4
+~
+~
+0 0 11170
+D5
+~
+~
+0 0 11168
+S
+#11170
+{DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X~
+This stairwell is lined with silver on all sides, the
+steps are made up of marble, polished to a very high
+gleam.
+~
+0 0 0
+D4
+~
+~
+0 0 11171
+D5
+~
+~
+0 0 11169
+S
+#11171
+{DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X~
+This stairwell is lined with silver on all sides, the
+steps are made up of marble, polished to a very high
+gleam.
+~
+0 0 0
+D0
+~
+~
+0 0 11172
+D5
+~
+~
+0 0 11170
+S
+#11172
+{DTh{we S{Wky {wTo{Dwe{wr{X~
+This tower is very tall, yet not very wide. There is very little
+room at the top. There are slits for windows high above the ground
+on the side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 11173
+D2
+~
+~
+0 0 11171
+S
+#11173
+{DTh{we S{Wky {wTo{Dwe{wr{X~
+This tower is very tall, yet not very wide. There is very little
+room at the top. There are slits for windows high above the ground
+on the side of the walls.
+~
+0 0 0
+D2
+~
+~
+0 0 11172
+S
+#11174
+{DQu{wes{Wt {DRo{wa{Dd{X~
+~
+0 9216 0
+D0
+~
+~
+0 0 11175
+D2
+~
+~
+0 0 11100
+S
+#11175
+{DQu{wes{Wt {DRo{wa{Dd{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 11176
+D2
+~
+~
+0 0 11174
+S
+#11176
+{DQu{wes{Wt {DRo{wa{Dd{X~
+There is a small sign hanging on the wall, it reads:
+"Followers of the Light Go east, Followers of the Darkness go west."
+~
+0 8192 0
+D1
+~
+~
+1 0 11178
+D2
+~
+~
+0 0 11175
+D3
+~
+~
+1 0 11177
+S
+#11177
+{DThe {3Q{1ues{3t{X {wof {DDa{wrk{Wn{we{Dss{X~
+~
+0 533504 0
+D1
+~
+~
+1 11032 11176
+D3
+~
+~
+0 0 11179
+S
+#11178
+{DThe {3Q{1ues{3t{X {wof {#Li{3g{#ht{X~
+~
+0 533504 0
+D1
+~
+~
+0 0 11188
+D3
+~
+~
+1 11033 11176
+S
+#11179
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 532480 0
+D1
+~
+~
+0 0 11177
+D3
+~
+~
+0 0 11180
+S
+#11180
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 532480 0
+D1
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11181
+S
+#11181
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 532480 0
+D1
+~
+~
+0 0 11180
+D3
+~
+~
+0 0 11182
+S
+#11182
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 532480 0
+D0
+~
+~
+0 0 11183
+D1
+~
+~
+0 0 11181
+S
+#11183
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 533504 0
+D0
+~
+~
+0 0 11184
+D2
+~
+~
+0 0 11182
+S
+#11184
+{DTh{we {DPa{wth{X {Dof {1D{Darknes{1s{X~
+~
+0 534528 0
+D0
+~
+~
+0 0 11185
+D2
+~
+~
+0 0 11183
+S
+#11185
+{DTh{we F{Win{Dal {wTe{Ws{Dt{X~
+~
+0 534528 0
+D2
+~
+~
+0 0 11184
+S
+#11186
+Congradulations!~
+~
+0 9216 0
+D0
+~
+~
+0 0 11187
+S
+#11187
+Your prize~
+go south for your prize!
+~
+0 1024 0
+D2
+~
+~
+0 0 11186
+S
+#11188
+{DTh{we P{Wa{Dth {3of {#L{3igh{#t{X~
+~
+0 532480 0
+D1
+~
+~
+0 0 11189
+D3
+~
+~
+0 0 11178
+S
+#11189
+{DTh{we P{Wa{Dth {3of {#L{3igh{#t{X~
+~
+0 532480 0
+D1
+~
+~
+0 0 11190
+D3
+~
+~
+0 0 11188
+S
+#11190
+{DTh{we P{Wa{Dth {3of {#L{3igh{#t{X~
+~
+0 532480 0
+D0
+~
+~
+0 0 11191
+D3
+~
+~
+0 0 11189
+S
+#11191
+{DTh{we P{Wa{Dth {3of {#L{3igh{#t{X~
+~
+0 532480 0
+D0
+~
+~
+0 0 11192
+D2
+~
+~
+0 0 11190
+S
+#11192
+{DTh{we P{Wa{Dth {3of {#L{3igh{#t{X~
+~
+0 533504 0
+D0
+~
+~
+0 0 11193
+D2
+~
+~
+0 0 11191
+S
+#11193
+{DThe {#F{3ina{#l {#T{3es{#t{X~
+~
+0 534528 0
+D0
+~
+~
+0 0 11194
+D2
+~
+~
+0 0 11192
+S
+#11194
+{DThe {#F{3ina{#l {#T{3es{#t{X~
+~
+0 534528 0
+D2
+~
+~
+0 0 11193
+S
+#11195
+Congrats!~
+~
+0 533504 0
+D0
+~
+~
+0 0 11196
+S
+#11196
+{#Your Prize!{X~
+~
+0 525312 0
+D2
+~
+~
+0 0 11195
+S
+#0
+
+
+
+#SPECIALS
+M 11001 spec_cast_cleric Load to: an Apprentice Monk
+M 11002 spec_cast_adept Load to: A Guard Monk
+M 11003 spec_breath_any Load to: The {$L{4ibraria{$n{X
+M 11004 spec_cast_adept Load to: A Monk
+M 11010 spec_breath_any Load to: {X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X
+M 11011 spec_breath_frost Load to: Garvis
+M 11012 spec_cast_adept Load to: {DA {DLe{ws{Ws{wer {DPr{wi{We{ws{Dt{X
+M 11013 spec_cast_adept Load to: a {Dcl{we{Wr{wi{Dc{X
+M 11014 spec_breath_frost Load to: {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 11018 spec_breath_gas Load to: {XA {DZo{wm{Wb{wi{De{X
+M 11019 spec_cast_undead Load to: {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 11020 spec_breath_any Load to: {XA {!K{Deepe{!r{X
+M 11023 spec_breath_any Load to: Garthyll
+M 11025 spec_cast_mage Load to: {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 11026 spec_breath_gas Load to: {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 11029 spec_breath_lightning Load to: Grythup
+M 11036 spec_cast_mage Load to: Qhor
+M 11037 spec_cast_adept Load to: Mathusan
+M 11038 spec_cast_mage Load to: Typus
+M 11039 spec_breath_any Load to: Hymir
+M 11041 spec_breath_lightning Load to: {DE{1vi{Dl{X
+M 11045 spec_cast_cleric Load to: {#G{3oo{#d{X {#I{3ncarnat{#e{X
+S
+
+
+
+#RESETS
+D 0 11021 0 1 The north door of The Bottom of the Well is closed
+D 0 11022 2 1 The south door of A Secret Passage is closed
+D 0 11028 4 1 The up door of {XThe {@L{2esse{@r{X {$L{4ibrar{$y{X is closed
+D 0 11029 0 1 The north door of {XBefore an {3Oak{X Door is closed
+D 0 11029 5 1 The down door of {XBefore an {3Oak{X Door is closed
+D 0 11030 2 1 The south door of {XThe {$L{4ibrarian{$'s{X Chambers. is closed
+D 0 11051 0 2 The north door of {XA {@Green{X and {DSi{wl{Wv{we{Dr{X Hallway is closed and locked
+D 0 11054 0 2 The north door of {XA {#Ye{3ll{#ow{X Hallway is closed and locked
+D 0 11058 2 2 The south door of Head Monk's Room is closed and locked
+D 0 11058 5 2 The down door of Head Monk's Room is closed and locked
+D 0 11059 4 2 The up door of The End is closed and locked
+D 0 11127 3 1 The west door of {1E{Dntr{wa{Dnce{X to a {DTu{wn{Wn{we{Dl{X is closed
+D 0 11128 1 1 The east door of {1T{Dh{1e {DEx{wit {WTu{wnn{Del{X is closed
+D 0 11147 1 1 The east door of South Lane is closed
+D 0 11148 1 1 The east door of South Lane is closed
+D 0 11152 1 1 The east door of North Lane is closed
+D 0 11152 4 1 The up door of North Lane is closed
+D 0 11153 3 1 The west door of North Lane is closed
+D 0 11156 3 1 The west door of South Lane is closed
+D 0 11157 3 1 The west door of South Lane is closed
+D 0 11159 1 1 The east door of Grythup's Home is closed
+D 0 11160 3 1 The west door of Tyrqu's Home is closed
+D 0 11163 1 1 The east door of Mathusan's Home is closed
+D 0 11164 1 1 The east door of Qhor's Home is closed
+D 0 11165 3 1 The west door of Typus' Home is closed
+D 0 11166 3 1 The west door of Hymir's Home is closed
+D 0 11167 5 1 The down door of {DTh{we S{Wky {wTo{Dwe{wr {DSt{wai{Wrw{we{Dll{X is closed
+D 0 11176 1 1 The east door of {DQu{wes{Wt {DRo{wa{Dd{X is closed
+D 0 11176 3 1 The west door of {DQu{wes{Wt {DRo{wa{Dd{X is closed
+D 0 11177 1 1 The east door of {DThe {3Q{1ues{3t{X {wof {DDa{wrk{Wn{we{Dss{X is closed
+D 0 11178 3 1 The west door of {DThe {3Q{1ues{3t{X {wof {#Li{3g{#ht{X is closed
+M 0 11004 7 11000 6 *Load A Monk
+M 0 11000 10 11001 9 *Load A Villager
+M 0 11001 8 11002 6 *Load an Apprentice Monk
+M 0 11004 7 11003 6 *Load A Monk
+M 0 11004 7 11005 6 *Load A Monk
+M 0 11000 10 11011 9 *Load A Villager
+M 0 11000 10 11012 9 *Load A Villager
+M 0 11001 8 11012 6 *Load an Apprentice Monk
+M 0 11000 10 11013 9 *Load A Villager
+M 0 11000 10 11015 9 *Load A Villager
+M 0 11001 8 11015 6 *Load an Apprentice Monk
+M 0 11000 10 11016 9 *Load A Villager
+M 0 11001 8 11016 6 *Load an Apprentice Monk
+M 0 11000 10 11017 9 *Load A Villager
+M 0 11006 1 11017 1 *Load Inkly
+G 0 11002 0 *A {!red{x potion{x is given to Inkly
+G 0 11003 0 *A {#yellow{x potion is given to Inkly
+G 0 11004 0 *A {$blue{x potion is given to Inkly
+G 0 11005 0 *A {%hea{5l{%ing{x potion is given to Inkly
+M 0 11000 10 11018 9 *Load A Villager
+M 0 11000 10 11019 9 *Load A Villager
+M 0 11001 8 11023 6 *Load an Apprentice Monk
+M 0 11005 1 11023 1 *Load The {!F{1org{!e{X Master
+G 0 11001 0 *{dtw{win{w-b{wlad{ded{x dagger is given to The {!F{1org{!e{X Master
+G 0 11006 0 *The {#g{3loriou{#s{x {4sword{x is given to The {!F{1org{!e{X Master
+M 0 11004 7 11024 6 *Load A Monk
+M 0 11004 7 11026 6 *Load A Monk
+M 0 11004 7 11027 6 *Load A Monk
+M 0 11002 2 11029 2 *Load A Guard Monk
+M 0 11003 1 11030 1 *Load The {$L{4ibraria{$n{X
+G 0 11000 0 *A small key is given to The {$L{4ibraria{$n{X
+M 0 11009 2 11038 2 *Load {DSa{wnc{Wtu{war{Dy{X {!G{1at{!e{X Guard
+E 0 11009 0 27 *The {dsa{wnc{wtu{war{dy{x {$s{4as{$h{x is loaded as a patch of {DSa{wnc{Wtu{war{Dy{X {!G{1at{!e{X Guard
+M 0 11008 4 11039 4 *Load A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X
+E 0 11008 0 11 *{xa {dsa{wnc{wtu{war{dy{x {!g{1uar{!d{x shield is loaded as a shield of A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X
+O 0 11015 0 11039 *{xa {dsi{wl{wv{we{dr{x and {!red{x fountain{x loaded to {XA {!Tr{@i-C{#ol{@or{!ed{X Room
+M 0 11008 4 11040 4 *Load A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X
+M 0 11013 2 11041 2 *Load a {Dcl{we{Wr{wi{Dc{X
+M 0 11013 2 11042 2 *Load a {Dcl{we{Wr{wi{Dc{X
+M 0 11015 1 11045 1 *Load Benvou
+O 0 11014 0 11045 *A {dsi{wl{wv{we{dr {xcouch loaded to {DSa{wnc{Wtu{war{Dy{X {#H{3ealin{#g{X Room
+O 0 11017 0 11045 *A soft {!f{1ir{!e{x loaded to {DSa{wnc{Wtu{war{Dy{X {#H{3ealin{#g{X Room
+M 0 11008 4 11046 4 *Load A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X
+M 0 11008 4 11052 4 *Load A {DSa{wnc{Wtu{war{Dy{X {DGu{wa{Drd{X
+M 0 11010 2 11054 2 *Load {X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X
+G 0 11012 0 *A white key is given to {X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X
+E 0 11011 0 16 *{dbl{we{ws{wse{dd{x {$a{4x{$e{x {dof {#en{3lightenme{#nt{x is loaded wielded of {X{DSa{wnc{Wtu{war{Dy{X {#D{3efende{#r{X
+M 0 11011 1 11058 1 *Load Garvis
+E 0 11010 0 10 *{ddi{wv{wi{wn{de{x {@a{drmguard{@s{x is loaded on the arms of Garvis
+E 0 11013 0 14 *{xan {2o{drn{2at{de{x {dwr{wis{wtb{wan{dd{x is loaded on the left wrist of Garvis
+M 0 11014 6 11076 2 *Load {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 0 11012 2 11077 2 *Load {DA {DLe{ws{Ws{wer {DPr{wi{We{ws{Dt{X
+M 0 11014 6 11078 2 *Load {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 0 11014 6 11078 2 *Load {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 0 11014 6 11079 2 *Load {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 0 11014 6 11079 2 *Load {DSa{wnc{Wtu{war{Dy{X {$S{4ecurit{$y{X Officer
+M 0 11016 1 11080 1 *Load {DA {Dcl{wo{Wa{wk{Ded{X {Df{wigur{De{X
+G 0 11016 0 *A key is given to {DA {Dcl{wo{Wa{wk{Ded{X {Df{wigur{De{X
+M 0 11017 1 11082 1 *Load Jusvue
+E 0 11018 0 17 *{dza{wra{wph{wis{dt's{x {#p{3uls{#e{x is loaded held in the hands of Jusvue
+M 0 11018 15 11083 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11019 10 11083 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11018 15 11084 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11019 10 11084 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11018 15 11085 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11085 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11019 10 11085 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11018 15 11086 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11087 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11088 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11089 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11089 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11018 15 11093 10 *Load {XA {DZo{wm{Wb{wi{De{X
+M 0 11019 10 11094 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11019 10 11095 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11019 10 11095 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11019 10 11096 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11019 10 11098 8 *Load {XA {DWa{wnd{Wer{wi{Dng{X {!C{Dreatur{!e{X
+M 0 11033 1 11100 1 *Load A rat
+M 0 11020 1 11102 1 *Load {XA {!K{Deepe{!r{X
+E 0 11019 0 11 *{dsh{wi{we{wl{dd o{xf {dt{1h{de {!k{deepe{!r{x is loaded as a shield of {XA {!K{Deepe{!r{X
+M 0 11021 4 11103 4 *Load {XA {1P{Di{1t{X {DD{1emo{Dn{X
+E 0 11020 0 21 *{xchipped {dd{1emo{dn{!'s{x {dt{woot{dh{x is loaded on the ears of {XA {1P{Di{1t{X {DD{1emo{Dn{X
+M 0 11021 4 11104 4 *Load {XA {1P{Di{1t{X {DD{1emo{Dn{X
+M 0 11022 1 11107 1 *Load Sergy
+O 0 11022 0 11107 *{xa {dr{woc{dk{x loaded to {XA Carved out {DR{1oc{Dk{X
+M 0 11024 6 11108 6 *Load {XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X
+M 0 11024 6 11109 6 *Load {XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X
+M 0 11024 6 11110 6 *Load {XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X
+M 0 11025 6 11110 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11024 6 11111 6 *Load {XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X
+M 0 11024 6 11112 6 *Load {XA {DWa{wn{Wd{wer{Din{wg{X {!D{1emo{!n{X
+M 0 11025 6 11113 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11025 6 11114 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11025 6 11116 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11026 8 11117 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11026 8 11119 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11025 6 11120 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11026 8 11121 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11025 6 11123 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11026 8 11123 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11025 6 11133 6 *Load {XA {4F{Dloatin{4g {!H{Dea{!d{X
+M 0 11026 8 11133 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11026 8 11134 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11026 8 11135 8 *Load {XA {DLe{wss{Wer {wD{De{Wm{Don{X
+M 0 11023 1 11136 1 *Load Garthyll
+G 0 11021 0 *{!garthyll's{x {dto{wo{dth{x is given to Garthyll
+M 0 11029 1 11159 1 *Load Grythup
+G 0 11030 0 *{xgrythup's {4s{$abe{4r{x is given to Grythup
+M 0 11030 1 11160 1 *Load Tyrqu
+E 0 11031 0 26 *{xseal of {3tyrqu{x is loaded as a religious patch of Tyrqu
+M 0 11027 1 11161 1 *Load A sales clerk
+G 0 11023 0 *A {4blue{x pill{x is given to A sales clerk
+G 0 11024 0 *A {1red{x pill is given to A sales clerk
+G 0 11025 0 *A {2green{x pill is given to A sales clerk
+G 0 11026 0 *Pound cake is given to A sales clerk
+G 0 11027 0 *A {3yellow{x potion is given to A sales clerk
+G 0 11028 0 *A {6cyan{x potion is given to A sales clerk
+M 0 11028 1 11162 1 *Load Shopkeeper
+G 0 11029 0 *A {1r{!ub{1y{x {3b{wracele{3t{x is given to Shopkeeper
+M 0 11037 1 11163 1 *Load Mathusan
+E 0 11035 0 6 *{4m{1athusa{4n'{ds {1h{del{1m{x is loaded over the head of Mathusan
+M 0 11036 1 11164 1 *Load Qhor
+E 0 11034 0 13 *{3q{4ho{3r'{ds {db{1el{dt{x is loaded around the waist of Qhor
+M 0 11038 1 11165 1 *Load Typus
+E 0 11036 0 17 *{1t{dypu{1s' {!car{1na{!ge{x is loaded held in the hands of Typus
+M 0 11039 1 11166 1 *Load Hymir
+E 0 11037 0 10 *{!h{wy{#m{wi{!r{#'{ds{x {@a{drmplate{@s{x is loaded on the arms of Hymir
+M 0 11031 1 11173 1 *Load {DA {DSa{wnc{Wtu{wa{Dry{X {DGu{war{Wdi{wa{Dn{X
+M 0 11032 1 11174 1 *Load {XA {DSa{wnc{Wtu{wa{Dry{X {DGu{wi{Wd{De{X
+M 0 11034 1 11177 1 *Load {XA {1H{Dar{wb{Wi{wn{Dge{1r{X {wof{X {DDa{wr{Wk{wne{Dss{X
+G 0 11032 0 *Key is given to {XA {1H{Dar{wb{Wi{wn{Dge{1r{X {wof{X {DDa{wr{Wk{wne{Dss{X
+M 0 11035 1 11178 1 *Load {XA {3H{Darbinge{3r of {#L{3igh{#t{X
+G 0 11033 0 *Key is given to {XA {3H{Darbinge{3r of {#L{3igh{#t{X
+M 0 11040 1 11183 1 *Load {XA {DSh{wa{Wd{wo{Dwy{X {Df{1igur{De{X
+M 0 11041 1 11185 1 *Load {DE{1vi{Dl{X
+E 0 11038 0 2 *{de{1vi{dl's {ds{1igne{dt {dr{wi{wn{dg{x is loaded on the right finger of {DE{1vi{Dl{X
+M 0 11042 1 11186 1 *Load a rat
+M 0 11043 1 11187 1 *Load {DE{1vi{Dl's {1R{Digh{1t{X {$H{Dan{$d{X
+M 0 11044 1 11192 1 *Load {DA {dwhite{X {#r{3obe{#d{X {3figure{X
+M 0 11045 1 11194 1 *Load {#G{3oo{#d{X {#I{3ncarnat{#e{X
+M 0 11046 1 11195 1 *Load a rat
+M 0 11047 1 11196 1 *Load {#G{3oo{#d'{3s {DR{3igh{Dt {3H{#an{3d{X
+S
+
+
+
+#SHOPS
+11005 5 0 0 0 0 100 100 0 23
+11006 10 2 3 0 0 100 100 0 23
+11027 33 26 10 0 19 100 100 0 23
+11028 33 0 0 0 0 100 100 0 23
+11031 0 0 0 0 0 100 100 0 23
+11032 0 0 0 0 0 100 100 0 23
+11033 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#11000
+chu
+close south
+lock south
+mob echo The door key suddenly dissolves to dust!
+mob echo {DA {Dcl{wo{Wa{wk{Ded{X {Df{wigur{De{X beings to laugh uncontrolably while reaching under his robe...
+mob junk key
+mob damage self 4000 4000 4000
+~
+#11001
+say Hello there, my name is Jusvue. I am a traveler from another realm. But i seem to have gotten lost, can you show me the way out?
+say I've been down there before...
+twitch
+say Screams and howls echo down there all night, from creatures not of this realm. If you venture down, be warned, you may not make it back alive.
+say I'd rather die then stay down here another minute.
+mob damage self 4000 4000 4000
+~
+#11031
+say You have made it this far young warrior, but this is only a way point.
+say To truly make it out of this place, you must undertake a quest of great importance and of great value.
+say Will you accept my quest?
+~
+#11032
+say Very well then, may luck be with you.
+mob transfer $n questrat
+~
+#11033
+say At the end of this corridor lies two doors. One leads on the Quest of Darkness, the other on the Quest of Light.
+say Both have differant and unqiue perils, just like both have differant and unique awards upon completion.
+say Choose wisely, for now that you are on this road, you may not go back until you have finished your task or until i remove your corpse like the others.
+chu
+~
+#11177
+lock east
+mob echo The door key suddenly dissapears in a blinding flash!
+cac
+mob junk key
+mob damage self 4000 4000 4000
+~
+#11178
+lock west
+mob echo The door key suddenly dissapears in a blinding flash!
+cac
+mob junk key
+mob damage self 4000 4000 4000
+~
+#11183
+say From here on out you must walk alone.
+say Only one will be permited inside, and only one will be left alive when it is over.
+say You may enter your final test when ready.
+~
+#11185
+mob transfer $n 'ratquest'
+~
+#11186
+mob remember $n
+~
+#11187
+say Congrats! You have passed the test, and you are truely Evil!
+say Here is a little token of my esteem.
+mob oload 11038
+give ring $n
+mob transfer $n 11000
+~
+#11192
+say From here on out you must walk alone.
+say Only one will be permited inside, and only one will be left alive when it is over.
+say You may enter your final test when ready.
+~
+#11194
+mob transfer $n 'goodquestrat'
+~
+#11195
+mob remember $n
+~
+#11196
+say Congrats! You have passed the test, and you are truely a divine being!
+say Here is a little token of my esteem.
+mob oload 11039
+give ring $n
+mob transfer $n 11000
+~
+#0
+
+#$

@@ -1,0 +1,3197 @@
+#AREADATA
+Name Gauntlet~
+Builders Unlinked~
+VNUMs 35300 35499
+Continent 0
+Credits [80 99} Jair    Gauntet~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#35300
+Zeiks Healer~
+Zeiks the Healer~
+Zeiks the healer stands here helping newbie questors.
+~
+Zeiks is here to help newbie questors as well as all others.
+Type 'heal' to get a list of her spells.
+~
+human~
+ABa DEF CDE 0 0
+120 50 1d1+10000 1d1+10000 1d1+0 thwack
+40 40 40 40
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#35301
+Golem~
+A golem~
+A golem stands here trying to block your path.
+~
+This golem is very big and forboding, he wanders the gauntlet preventing
+people's passage.  
+~
+doll~
+AFG DFJZ H 0 0
+150 -300 1d1+30000 1d1+1 1d1+0 crush
+0 0 0 0
+CFHK ABCDILMNPQR ES GHJKO
+stand stand none 40000
+AEHJMVc ABCDEFGHIJK giant unknown
+#35302
+black rook~
+{8The Black Rook{0~
+{8The black rook is here showing off its finely groomed ramparts.{0
+~
+~
+doll~
+AB 0 H -1000 0
+140 140 25d25+20000 0d0+0 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN ILMNPQR ES GHJKO
+stand stand none 20000
+EJMc 0 giant unknown
+F par ABCGHK
+#35303
+white rook~
+{&The White Rook{0~
+{&The white rook is here scratching its battlemounts.{0
+~
+~
+human~
+AB 0 0 1000 0
+140 140 25d25+20000 0d0+0 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN ILMNPQR ES GHJKO
+stand stand none 20000
+AEHJMVc ABCDEFGHIJK giant unknown
+#35304
+black knight~
+{8The Black Knight{0~
+{8The black knight is here trying to mount...his steed.{0
+~
+~
+human~
+AB J 0 -1000 0
+140 140 25d25+20000 0d0+0 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN 0 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35305
+white knight~
+{&The White Knight{0~
+{&The white knight wants to always ride in L's.{0
+~
+~
+human~
+AB 0 0 1000 0
+140 140 25d25+20000 0d0+0 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35306
+black bishop~
+{8The Black Bishop{0~
+{8The black bishop contemplates the reason for his big hat.{0
+~
+~
+human~
+AB 0 0 -1000 0
+140 140 25d25+20000 25d25+5000 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35307
+white bishop~
+{&The White Bishop{0~
+{&The white bishop is recalling all of the dirty confessions he heard.{0
+~
+~
+human~
+AB 0 0 1000 0
+140 140 25d25+20000 25d25+5000 25d25+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35308
+black queen~
+{8The Black Queen{0~
+{8The black queen latifa.{0
+~
+~
+human~
+AB 0 0 -1000 0
+150 140 25d25+22500 25d25+5000 35d35+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand female 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35309
+white queen~
+{&The White Queen{0~
+{&The white queen is here thinking about the size of black king.{0
+~
+~
+human~
+AB 0 0 1000 0
+150 140 25d25+22500 25d25+5000 35d35+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand female 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35310
+black king~
+{8The Black King{0~
+{8The black king needs no description.{0
+~
+~
+human~
+AB 0 0 -1000 0
+150 140 25d25+22500 25d25+5000 35d35+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35311
+white king~
+{&The White King{0~
+{&The white king still can't figure out the toilet seat issue.{0
+~
+~
+human~
+AB 0 0 1000 0
+150 140 25d25+22500 25d25+5000 35d35+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35312
+black pawn~
+{8The Black Pawn{0~
+{8The black pawn struts around.{0
+~
+~
+human~
+AB 0 0 -1000 0
+130 140 25d25+17500 0d0+0 20d20+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+#35313
+white pawn~
+{&The White Pawn{0~
+{&The white pawn had his cake and ate it too.{0
+~
+~
+human~
+AB 0 0 1000 0
+130 140 25d25+17500 0d0+0 20d20+70 charge
+-50 -50 -50 -50
+CEFIKN B 0 0
+stand stand male 20000
+AEHJMVc ABCDEFGHIJK medium unknown
+M SPEECH 35300 pawn move~
+#0
+
+
+
+#OBJECTS
+#35300
+trash bin~
+a trash bin~
+A trash bin has been left here, maybe something you want is inside?~
+unknown~
+container RTYd 0
+100 0 0 100 100
+0 1000 0 P
+#35301
+portal nexus gate~
+{$A Portal{0~
+{$A portal is here opening back to the beginning of the gauntlet.{0~
+unknown~
+portal 0 0
+0 0 0 CFGHILP 0
+0 0 0 P
+#35302
+portal nexus gate~
+{$The Gauntlet Portal~
+{$A portal is here opening back to the beginning of the gauntlet.{0~
+unknown~
+portal 0 0
+0 0 0 DGJLP 0
+0 0 0 P
+#35350
+A key~
+a key to the Gauntlet~
+A key has been left here.~
+unknown~
+key PTUVd AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#35300
+Entrance to the Gauntlet~
+{@You are standing at the opening of a huge maze.
+ {!Rules:
+      {#1) Do not go until the questor informs you to.
+      {#2) You must find a key to finish this quest.
+      {#3) If you get to the end and do not have the key, you may
+         enter a portal and start over.
+      {#4) If you do not want to keep going, you may recall.
+         Note: You will not get a prize if you leave.
+      {#5) If you leave, please quit to remove your quest flag. 
+      {#6) First three win.  Consolation prizes are given.
+      {#7) {!NO: {#Sneaking, Invis, Blend, Earthmelding
+      {#8) {!NO: {#Following, Grouping
+      {#9) Landmarks are allowed, but do not disobey regular rules.
+{0
+~
+0 4 0
+D2
+~
+~
+0 0 35309
+S
+#35301
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35302
+D2
+~
+~
+0 0 35311
+S
+#35302
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35303
+D3
+~
+~
+0 0 35301
+S
+#35303
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35313
+D3
+~
+~
+0 0 35302
+S
+#35304
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35314
+S
+#35305
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35306
+D2
+~
+~
+0 0 35315
+S
+#35306
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35307
+D3
+~
+~
+0 0 35305
+S
+#35307
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35308
+D3
+~
+~
+0 0 35306
+S
+#35308
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35309
+D3
+~
+~
+0 0 35307
+S
+#35309
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35300
+D3
+~
+~
+0 0 35308
+S
+#35310
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35320
+S
+#35311
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+1 0 35301
+D2
+~
+~
+0 0 35321
+S
+#35312
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35313
+D2
+~
+~
+0 0 35322
+S
+#35313
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35303
+D3
+~
+~
+0 0 35312
+S
+#35314
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35304
+D1
+~
+~
+0 0 35315
+D2
+~
+~
+0 0 35324
+S
+#35315
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35305
+D2
+~
+~
+0 0 35325
+D3
+~
+~
+0 0 35314
+S
+#35316
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35317
+D2
+~
+~
+0 0 35326
+S
+#35317
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D3
+~
+~
+0 0 35316
+S
+#35318
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35319
+D2
+~
+~
+0 0 35328
+S
+#35319
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35320
+D3
+~
+~
+0 0 35318
+S
+#35320
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35310
+D2
+~
+~
+0 0 35330
+D3
+~
+~
+0 0 35319
+S
+#35321
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35311
+D2
+~
+~
+0 0 35331
+S
+#35322
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35312
+D1
+~
+~
+0 0 35323
+S
+#35323
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35324
+D3
+~
+~
+0 0 35322
+S
+#35324
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35314
+D3
+~
+~
+0 0 35323
+S
+#35325
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35315
+D2
+~
+~
+0 0 35335
+S
+#35326
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35316
+D1
+~
+~
+0 0 35327
+S
+#35327
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35328
+D3
+~
+~
+0 0 35326
+S
+#35328
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35318
+D3
+~
+~
+0 0 35327
+S
+#35329
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35330
+D2
+~
+~
+0 0 35339
+S
+#35330
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35320
+D3
+~
+~
+0 0 35329
+S
+#35331
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35321
+D1
+~
+~
+0 0 35332
+S
+#35332
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35342
+D3
+~
+~
+0 0 35331
+S
+#35333
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35334
+D2
+~
+~
+0 0 35343
+S
+#35334
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35344
+D3
+~
+~
+0 0 35333
+S
+#35335
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35325
+D1
+~
+~
+0 0 35336
+S
+#35336
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35337
+D3
+~
+~
+0 0 35335
+S
+#35337
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35347
+D3
+~
+~
+0 0 35336
+S
+#35338
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35339
+D2
+~
+~
+0 0 35348
+S
+#35339
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35329
+D1
+~
+~
+0 0 35340
+D2
+~
+~
+0 0 35349
+D3
+~
+~
+0 0 35338
+S
+#35340
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35350
+D3
+~
+~
+0 0 35339
+S
+#35341
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D2
+~
+~
+0 0 35351
+S
+#35342
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35332
+D1
+~
+~
+0 0 35343
+S
+#35343
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35333
+D2
+~
+~
+0 0 35353
+D3
+~
+~
+0 0 35342
+S
+#35344
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35334
+D2
+~
+~
+0 0 35354
+S
+#35345
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35346
+S
+#35346
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35347
+D2
+~
+~
+0 0 35356
+D3
+~
+~
+0 0 35345
+S
+#35347
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35337
+D3
+~
+~
+0 0 35346
+S
+#35348
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35338
+D2
+~
+~
+0 0 35358
+S
+#35349
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35339
+D2
+~
+~
+0 0 35359
+S
+#35350
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35340
+D2
+~
+~
+0 0 35360
+S
+#35351
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35341
+D1
+~
+~
+0 0 35352
+S
+#35352
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D1
+~
+~
+0 0 35353
+D3
+~
+~
+0 0 35351
+S
+#35353
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35343
+D3
+~
+~
+0 0 35352
+S
+#35354
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 4 0
+D0
+~
+~
+0 0 35344
+D1
+~
+~
+0 0 35355
+S
+#35355
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D2
+~
+~
+0 0 35365
+D3
+~
+~
+0 0 35354
+S
+#35356
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35346
+D2
+~
+~
+0 0 35366
+S
+#35357
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D2
+~
+~
+0 0 35367
+S
+#35358
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35348
+D2
+~
+~
+0 0 35368
+S
+#35359
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35349
+D2
+~
+~
+0 0 35369
+S
+#35360
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35350
+S
+#35361
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35362
+D2
+~
+~
+0 0 35371
+S
+#35362
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35363
+D3
+~
+~
+0 0 35361
+S
+#35363
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35364
+D3
+~
+~
+0 0 35362
+S
+#35364
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35365
+D3
+~
+~
+0 0 35363
+S
+#35365
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35355
+D3
+~
+~
+0 0 35364
+S
+#35366
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35356
+D2
+~
+~
+0 0 35376
+S
+#35367
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35357
+D1
+~
+~
+0 0 35368
+D2
+~
+~
+0 0 35377
+S
+#35368
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35358
+D2
+~
+~
+0 0 35378
+D3
+~
+~
+0 0 35367
+S
+#35369
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35359
+D1
+~
+~
+0 0 35370
+S
+#35370
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D2
+~
+~
+0 0 35380
+D3
+~
+~
+0 0 35369
+S
+#35371
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35361
+D2
+~
+~
+0 0 35381
+S
+#35372
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35373
+D2
+~
+~
+0 0 35382
+S
+#35373
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D2
+~
+~
+0 0 35383
+D3
+~
+~
+0 0 35372
+S
+#35374
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35375
+D2
+~
+~
+0 0 35384
+S
+#35375
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35376
+D3
+~
+~
+0 0 35374
+S
+#35376
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35366
+D3
+~
+~
+0 0 35375
+S
+#35377
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35367
+S
+#35378
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35368
+D2
+~
+~
+0 0 35388
+S
+#35379
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35380
+D2
+~
+~
+0 0 35389
+S
+#35380
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35370
+D3
+~
+~
+0 0 35379
+S
+#35381
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35371
+D2
+~
+~
+0 0 35391
+S
+#35382
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35372
+S
+#35383
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35373
+D1
+~
+~
+0 0 35384
+S
+#35384
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35374
+D3
+~
+~
+0 0 35383
+S
+#35385
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35386
+D2
+~
+~
+0 0 35395
+S
+#35386
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35387
+D3
+~
+~
+0 0 35385
+S
+#35387
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35388
+D3
+~
+~
+0 0 35386
+S
+#35388
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35378
+D3
+~
+~
+0 0 35387
+S
+#35389
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35379
+D1
+~
+~
+0 0 35390
+S
+#35390
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+A door is to the south.
+~
+0 0 0
+D2
+~
+~
+4 35350 35400
+D3
+~
+~
+0 0 35389
+S
+#35391
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35381
+D1
+~
+~
+0 0 35392
+S
+#35392
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35393
+D3
+~
+~
+0 0 35391
+S
+#35393
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35394
+D3
+~
+~
+0 0 35392
+S
+#35394
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35395
+D3
+~
+~
+0 0 35393
+S
+#35395
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D0
+~
+~
+0 0 35385
+D1
+~
+~
+0 0 35396
+D3
+~
+~
+0 0 35394
+S
+#35396
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35397
+D3
+~
+~
+0 0 35395
+S
+#35397
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35398
+D3
+~
+~
+0 0 35396
+S
+#35398
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D1
+~
+~
+0 0 35399
+D3
+~
+~
+0 0 35397
+S
+#35399
+Inside the Gauntlet~
+Before you lies a maze of green.  Bushes line paths in cutting directions
+and seem impenetrable.  You cannot see farther than the next dead end and
+even that doesn't seem real. 
+~
+0 0 0
+D3
+~
+~
+0 0 35398
+S
+#35400
+The End of the Gauntlet~
+{@  You have reached the end of the gauntlet.  Your goal is now over.  Make
+sure to inform the rest of the questors and make it known that you are
+better.  Have fun laughing at the people who can't do it.  
+{0
+~
+0 0 0
+D0
+~
+~
+4 35350 35390
+S
+#35401
+A bystanders view of the Chess Board~
+~
+0 0 0
+D1
+~
+~
+0 0 35468
+D3
+~
+~
+0 0 35467
+D5
+~
+~
+0 0 35402
+S
+#35402
+{&White Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35403
+D2
+~
+~
+0 0 35410
+D4
+~
+~
+0 0 35401
+S
+#35403
+{8Black Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35404
+D2
+~
+~
+0 0 35411
+D3
+~
+~
+0 0 35402
+S
+#35404
+{&White Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35405
+D2
+~
+~
+0 0 35412
+D3
+~
+~
+0 0 35403
+S
+#35405
+{8Black Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35406
+D2
+~
+~
+0 0 35413
+D3
+~
+~
+0 0 35404
+S
+#35406
+{&White Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35407
+D2
+~
+~
+0 0 35414
+D3
+~
+~
+0 0 35405
+S
+#35407
+{8Black Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35408
+D2
+~
+~
+0 0 35415
+D3
+~
+~
+0 0 35406
+S
+#35408
+{&White Square{0~
+~
+0 0 0
+D1
+~
+~
+0 0 35409
+D2
+~
+~
+0 0 35416
+D3
+~
+~
+0 0 35407
+S
+#35409
+{8Black Square{0~
+~
+0 0 0
+D2
+~
+~
+0 0 35417
+D3
+~
+~
+0 0 35408
+S
+#35410
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35402
+D1
+~
+~
+0 0 35411
+D2
+~
+~
+0 0 35418
+S
+#35411
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35403
+D1
+~
+~
+0 0 35412
+D2
+~
+~
+0 0 35419
+D3
+~
+~
+0 0 35410
+S
+#35412
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35404
+D1
+~
+~
+0 0 35413
+D2
+~
+~
+0 0 35420
+D3
+~
+~
+0 0 35411
+S
+#35413
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35405
+D1
+~
+~
+0 0 35414
+D2
+~
+~
+0 0 35421
+D3
+~
+~
+0 0 35412
+S
+#35414
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35406
+D1
+~
+~
+0 0 35415
+D2
+~
+~
+0 0 35422
+D3
+~
+~
+0 0 35413
+S
+#35415
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35407
+D1
+~
+~
+0 0 35416
+D2
+~
+~
+0 0 35423
+D3
+~
+~
+0 0 35414
+S
+#35416
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35408
+D1
+~
+~
+0 0 35417
+D2
+~
+~
+0 0 35424
+D3
+~
+~
+0 0 35415
+S
+#35417
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35409
+D2
+~
+~
+0 0 35425
+D3
+~
+~
+0 0 35416
+S
+#35418
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35410
+D1
+~
+~
+0 0 35419
+D2
+~
+~
+0 0 35426
+S
+#35419
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35411
+D1
+~
+~
+0 0 35420
+D2
+~
+~
+0 0 35427
+D3
+~
+~
+0 0 35418
+S
+#35420
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35412
+D1
+~
+~
+0 0 35421
+D2
+~
+~
+0 0 35428
+D3
+~
+~
+0 0 35419
+S
+#35421
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35413
+D1
+~
+~
+0 0 35422
+D2
+~
+~
+0 0 35429
+D3
+~
+~
+0 0 35420
+S
+#35422
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35414
+D1
+~
+~
+0 0 35423
+D2
+~
+~
+0 0 35430
+D3
+~
+~
+0 0 35421
+S
+#35423
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35415
+D1
+~
+~
+0 0 35424
+D2
+~
+~
+0 0 35431
+D3
+~
+~
+0 0 35422
+S
+#35424
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35416
+D1
+~
+~
+0 0 35425
+D2
+~
+~
+0 0 35432
+D3
+~
+~
+0 0 35423
+S
+#35425
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35417
+D2
+~
+~
+0 0 35433
+D3
+~
+~
+0 0 35424
+S
+#35426
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35418
+D1
+~
+~
+0 0 35427
+D2
+~
+~
+0 0 35434
+S
+#35427
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35419
+D1
+~
+~
+0 0 35428
+D2
+~
+~
+0 0 35435
+D3
+~
+~
+0 0 35426
+S
+#35428
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35420
+D1
+~
+~
+0 0 35429
+D2
+~
+~
+0 0 35436
+D3
+~
+~
+0 0 35427
+S
+#35429
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35421
+D1
+~
+~
+0 0 35430
+D2
+~
+~
+0 0 35437
+D3
+~
+~
+0 0 35428
+S
+#35430
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35422
+D1
+~
+~
+0 0 35431
+D2
+~
+~
+0 0 35438
+D3
+~
+~
+0 0 35429
+S
+#35431
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35423
+D1
+~
+~
+0 0 35432
+D2
+~
+~
+0 0 35439
+D3
+~
+~
+0 0 35430
+S
+#35432
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35424
+D1
+~
+~
+0 0 35433
+D2
+~
+~
+0 0 35440
+D3
+~
+~
+0 0 35431
+S
+#35433
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35425
+D2
+~
+~
+0 0 35441
+D3
+~
+~
+0 0 35432
+S
+#35434
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35426
+D1
+~
+~
+0 0 35435
+D2
+~
+~
+0 0 35442
+S
+#35435
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35427
+D1
+~
+~
+0 0 35436
+D2
+~
+~
+0 0 35443
+D3
+~
+~
+0 0 35434
+S
+#35436
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35428
+D1
+~
+~
+0 0 35437
+D2
+~
+~
+0 0 35444
+D3
+~
+~
+0 0 35435
+S
+#35437
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35429
+D1
+~
+~
+0 0 35438
+D2
+~
+~
+0 0 35445
+D3
+~
+~
+0 0 35436
+S
+#35438
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35430
+D1
+~
+~
+0 0 35439
+D2
+~
+~
+0 0 35446
+D3
+~
+~
+0 0 35437
+S
+#35439
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35431
+D1
+~
+~
+0 0 35440
+D2
+~
+~
+0 0 35447
+D3
+~
+~
+0 0 35438
+S
+#35440
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35432
+D1
+~
+~
+0 0 35441
+D2
+~
+~
+0 0 35448
+D3
+~
+~
+0 0 35439
+S
+#35441
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35433
+D2
+~
+~
+0 0 35449
+D3
+~
+~
+0 0 35440
+S
+#35442
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35434
+D1
+~
+~
+0 0 35443
+D2
+~
+~
+0 0 35451
+S
+#35443
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35435
+D1
+~
+~
+0 0 35444
+D2
+~
+~
+0 0 35452
+D3
+~
+~
+0 0 35442
+S
+#35444
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35436
+D1
+~
+~
+0 0 35445
+D2
+~
+~
+0 0 35453
+D3
+~
+~
+0 0 35443
+S
+#35445
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35437
+D1
+~
+~
+0 0 35446
+D2
+~
+~
+0 0 35454
+D3
+~
+~
+0 0 35444
+S
+#35446
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35438
+D1
+~
+~
+0 0 35447
+D2
+~
+~
+0 0 35455
+D3
+~
+~
+0 0 35445
+S
+#35447
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35439
+D1
+~
+~
+0 0 35448
+D2
+~
+~
+0 0 35456
+D3
+~
+~
+0 0 35446
+S
+#35448
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35440
+D1
+~
+~
+0 0 35449
+D2
+~
+~
+0 0 35457
+D3
+~
+~
+0 0 35447
+S
+#35449
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35441
+D2
+~
+~
+0 0 35458
+D3
+~
+~
+0 0 35448
+S
+#35450
+{&White Square{0~
+~
+0 4 0
+S
+#35451
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35442
+D1
+~
+~
+0 0 35452
+D2
+~
+~
+0 0 35459
+S
+#35452
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35443
+D1
+~
+~
+0 0 35453
+D2
+~
+~
+0 0 35460
+D3
+~
+~
+0 0 35451
+S
+#35453
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35444
+D1
+~
+~
+0 0 35454
+D2
+~
+~
+0 0 35461
+D3
+~
+~
+0 0 35452
+S
+#35454
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35445
+D1
+~
+~
+0 0 35455
+D2
+~
+~
+0 0 35462
+D3
+~
+~
+0 0 35453
+S
+#35455
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35446
+D1
+~
+~
+0 0 35456
+D2
+~
+~
+0 0 35463
+D3
+~
+~
+0 0 35454
+S
+#35456
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35447
+D1
+~
+~
+0 0 35457
+D2
+~
+~
+0 0 35464
+D3
+~
+~
+0 0 35455
+S
+#35457
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35448
+D1
+~
+~
+0 0 35458
+D2
+~
+~
+0 0 35465
+D3
+~
+~
+0 0 35456
+S
+#35458
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35449
+D2
+~
+~
+0 0 35466
+D3
+~
+~
+0 0 35457
+S
+#35459
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35451
+D1
+~
+~
+0 0 35460
+S
+#35460
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35452
+D1
+~
+~
+0 0 35461
+D3
+~
+~
+0 0 35459
+S
+#35461
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35453
+D1
+~
+~
+0 0 35462
+D3
+~
+~
+0 0 35460
+S
+#35462
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35454
+D1
+~
+~
+0 0 35463
+D3
+~
+~
+0 0 35461
+S
+#35463
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35455
+D1
+~
+~
+0 0 35464
+D3
+~
+~
+0 0 35462
+S
+#35464
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35456
+D1
+~
+~
+0 0 35465
+D3
+~
+~
+0 0 35463
+S
+#35465
+{8Black Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35457
+D1
+~
+~
+0 0 35466
+D3
+~
+~
+0 0 35464
+S
+#35466
+{&White Square{0~
+~
+0 0 0
+D0
+~
+~
+0 0 35458
+D3
+~
+~
+0 0 35465
+S
+#35467
+~
+~
+0 0 0
+D1
+~
+~
+0 0 35401
+S
+#35468
+~
+~
+0 0 0
+D3
+~
+~
+0 0 35401
+S
+#0
+
+
+
+#SPECIALS
+M 35300 spec_cast_adept Load to: Zeiks the Healer
+M 35306 spec_cast_mage Load to: {8The Black Bishop{0
+M 35307 spec_cast_judge Load to: {&The White Bishop{0
+M 35308 spec_cast_mage Load to: {8The Black Queen{0
+M 35309 spec_cast_mage Load to: {&The White Queen{0
+M 35310 spec_breath_any Load to: {8The Black King{0
+M 35311 spec_breath_any Load to: {&The White King{0
+S
+
+
+
+#RESETS
+D 0 35390 2 2 The south door of Inside the Gauntlet is closed and locked
+D 0 35400 0 2 The north door of The End of the Gauntlet is closed and locked
+M 0 35300 2 35300 1 *Load Zeiks the Healer
+M 0 35301 5 35320 1 *Load A golem
+M 0 35301 5 35340 1 *Load A golem
+M 0 35301 5 35360 1 *Load A golem
+M 0 35301 5 35380 1 *Load A golem
+M 0 35301 5 35399 1 *Load A golem
+M 0 35300 2 35400 1 *Load Zeiks the Healer
+M 0 35302 2 35402 1 *Load {8The Black Rook{0
+M 0 35304 2 35403 1 *Load {8The Black Knight{0
+M 0 35306 2 35404 1 *Load {8The Black Bishop{0
+M 0 35308 1 35405 1 *Load {8The Black Queen{0
+M 0 35310 1 35406 1 *Load {8The Black King{0
+M 0 35306 2 35407 1 *Load {8The Black Bishop{0
+M 0 35304 2 35408 1 *Load {8The Black Knight{0
+M 0 35302 2 35409 1 *Load {8The Black Rook{0
+M 0 35312 8 35410 1 *Load {8The Black Pawn{0
+M 0 35312 8 35411 1 *Load {8The Black Pawn{0
+M 0 35312 8 35412 1 *Load {8The Black Pawn{0
+M 0 35312 8 35413 1 *Load {8The Black Pawn{0
+M 0 35312 8 35414 1 *Load {8The Black Pawn{0
+M 0 35312 8 35415 1 *Load {8The Black Pawn{0
+M 0 35312 8 35416 1 *Load {8The Black Pawn{0
+M 0 35312 8 35417 1 *Load {8The Black Pawn{0
+M 0 35313 8 35451 1 *Load {&The White Pawn{0
+M 0 35313 8 35452 1 *Load {&The White Pawn{0
+M 0 35313 8 35453 1 *Load {&The White Pawn{0
+M 0 35313 8 35454 1 *Load {&The White Pawn{0
+M 0 35313 8 35455 1 *Load {&The White Pawn{0
+M 0 35313 8 35456 1 *Load {&The White Pawn{0
+M 0 35313 8 35457 1 *Load {&The White Pawn{0
+M 0 35313 8 35458 1 *Load {&The White Pawn{0
+M 0 35303 2 35459 1 *Load {&The White Rook{0
+M 0 35305 2 35460 1 *Load {&The White Knight{0
+M 0 35307 2 35461 1 *Load {&The White Bishop{0
+M 0 35309 1 35462 1 *Load {&The White Queen{0
+M 0 35311 1 35463 1 *Load {&The White King{0
+M 0 35307 2 35464 1 *Load {&The White Bishop{0
+M 0 35305 2 35465 1 *Load {&The White Knight{0
+M 0 35303 2 35466 1 *Load {&The White Rook{0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#35300
+~
+#0
+
+#$

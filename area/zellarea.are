@@ -1,0 +1,737 @@
+#AREADATA
+Name Zellie's Playland~
+Builders Zellie Unlinked~
+VNUMs 42300 42399
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#42300
+angelic wings~
+{&A{#n{&g{#e{&l{#i{&c {#W{&i{#n{&g{#s{x~
+A pair of heaven's wings.  Wait, these aren't supposed to be removable.~
+Feathers~
+armor ABKLRY AX
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+104 1 0 P
+#42301
+sword heaven~
+{&S{#w{&o{#r{&d {#o{&f {#H{&e{#a{&v{#e{&n{x~
+The {&S{#w{&o{#r{&d {#o{&f {#H{&e{#a{&v{#e{&n {2is heaven's most powerful weapon.  It strikes fear in those who look at it.{x~
+unknown~
+weapon AKLRY AN
+exotic 69 69 divine A
+104 0 2147483647 P
+#42302
+awsome bean bag~
+{!Zellie's {1Awsome {!B{1e{!a{1n {!B{1a{!g{x~
+An {1Awsome {!B{1e{!a{1n {1B{!a{1g {0sits here looking very comfortable.{x~
+silk styrofoam~
+furniture ABFGR A
+A ABCDIJKN EHK DFGHIJ CFG
+104 1 0 P
+#42303
+quest key~
+{!Zellie's {5Quest {2Key{x~
+{!Zellie's {5Quest {2Key is used for a quest, duh.{x~
+unknown~
+key S AO
+0 0 0 0 0
+1 0 0 P
+#42304
+quest key~
+{!Zellie's {3Quest {2Key{x~
+{!Zellie's {3Quest {2Key is used for a quest, duh.{x~
+unknown~
+key S AO
+0 0 0 0 0
+1 1 0 P
+#42305
+quest key one~
+{!Zellie's {#Quest {&Key{x~
+{!Zellie's {#Quest {&Key {2is used for a quest, duh.{x~
+unknown~
+key RSY AO
+0 0 0 0 0
+1 1 0 P
+#42306
+chest treasure quest~
+{!Zellie's {1Treasure {2Chest{x~
+{!Zellie's {1Treasure {2Chest lies here, waiting to be opened.  Does it have the prize?{x~
+unknown~
+container RY 0
+5000 AC 0 2000 20
+1 5000 0 P
+#42307
+halo~
+{&H{#e{&a{#v{&e{#n{&'{#s {&H{#a{&l{#o{x~
+{&H{#e{&a{#v{&e{#n{&'{#s {&H{#a{&l{#o {2sparkles as the sun hits it.{x~
+unknown~
+armor ABKLR AE
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+102 1 100000 P
+F
+A 19 13 V
+#42308
+quest potatoe~
+zellie's {!Hot {1Potatoe{x~
+This is Zellie's quest item for the fabulous game of {!Hot {1Potatoe{2.{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#42309
+angel mark~
+{&M{#a{&r{#k {&o{#f {&t{#h{&e {#A{&n{#g{&e{#l{&s{x~
+An emblem of the Angels.{x~
+unknown~
+armor ABFGKL AV
+ADE ADE ADE ADE 0
+104 0 0 P
+A
+26 9
+#42310
+quest clan token~
+{&Z{#e{&l{#l{&i{#e{&'{#s {!Clan {1Quest {0token{x~
+Here lies a token representing the {!Clan {1Quest{0.{x~
+paper~
+trash ABORTa A
+0 0 0 0 0
+1 1 0 P
+#42311
+maxe treasure chest~
+{xMaze Quest Treasure Chest~
+Here lies the Maze's treasure chest.~
+unknown~
+container RT 0
+50 AC 0 100 0
+0 0 0 P
+#42312
+maze portal quest~
+portal to Quest Maze~
+Here stands the glimmering gate to the Quest Maze.~
+unknown~
+portal RT 0
+A 0 0 ADGIKNP 0
+0 0 0 P
+#42313
+maze portal~
+portal to Midgard.~
+The last portal to Midgard is in the corner.~
+unknown~
+portal R 0
+0 0 0 BCGHIJL 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#42300
+Zellie's Room~
+You are in Zellie's Room. SWEET!
+~
+0 32772 0
+D0
+~
+~
+0 0 42301
+S
+#42301
+{&H{#e{&a{#v{&e{#n{&'{#s {&S{#h{&o{#p{x ~
+Here is were Heaven sells it's gear.
+Be warned, the guard does not like cheaters.
+~
+0 384 0
+D2
+~
+~
+0 0 42300
+S
+#42302
+{!Zellie's {1Quest-o-Matic {2Room{x~
+The rules are simple: Here lies three Evil twins.  Each one holds a key.
+Each key unlocks a specific door.  Behind one door lies the reward.  Good
+Luck. 
+~
+0 8 3
+D0
+~
+~
+4 42305 42305
+D4
+~
+~
+4 42303 42303
+D5
+~
+~
+4 42304 42304
+S
+#42303
+{!Zellie's {1Treasure {2Room{x~
+Here lies a chest.  Does it hold the prize?
+~
+0 2048 0
+D5
+~
+~
+4 0 42302
+S
+#42304
+{!Zellie's {1Treasure {2Room{x~
+Here lies a chest.  Does it hold the prize?
+~
+0 2048 0
+D4
+~
+~
+0 42304 42302
+S
+#42305
+{!Zellie's {1Treasure {2Room{x~
+Here lies a chest.  Does it hold the prize?
+~
+0 2560 0
+D2
+~
+~
+4 0 42302
+S
+#42306
+{!Hot {1Potatoe {2Room{x~
+This quest is simple.  One player will randomly start off with the Hot Potatoe.
+They will pass it to someone, and that person will pass it to another.
+After time has ran out, the person holding the potatoe is eliminated.
+The last person wins.
+Only one rule, everyone has to be COMPLETELY visible, no hide, sneak, invis, etc.
+~
+0 4 0
+D0
+~
+~
+0 0 42309
+D1
+~
+~
+0 0 42312
+D2
+~
+~
+0 0 42310
+D3
+~
+~
+0 0 42311
+D4
+~
+~
+0 0 42307
+D5
+~
+~
+0 0 42308
+S
+#42307
+{!Hot {1Potatoe {6Room{x~
+Here lies another room in the endless game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D4
+~
+~
+0 0 42308
+D5
+~
+~
+0 0 42306
+S
+#42308
+{!Hot {1Potatoe {7Room{x~
+Here lies another room in the endless game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D4
+~
+~
+0 0 42306
+D5
+~
+~
+0 0 42307
+S
+#42309
+{!Hot {1Potatoe {5Room{x~
+Another room in the endless game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D0
+~
+~
+0 0 42310
+D2
+~
+~
+0 0 42306
+S
+#42310
+{!Hot {1Potatoe {3Room{x~
+Another room in the endless game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D0
+~
+~
+0 0 42306
+D2
+~
+~
+0 0 42309
+S
+#42311
+{!Hot {1Potatoe {8Room{x~
+A room in the game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D1
+~
+~
+0 0 42306
+D3
+~
+~
+0 0 42312
+S
+#42312
+{!Hot {1Potatoe {4Room{x~
+A room in the game of {!Hot {1Potatoe{2.{x
+~
+0 0 0
+D1
+~
+~
+0 0 42311
+D3
+~
+~
+0 0 42306
+S
+#42313
+Beginning of the Maze~
+Here stands the entrance to the Maze.
+The Maze is complicated with several dead ends.
+Those who try the maze will only end up lost,
+but those who are couragous will complete the
+Maze and uncover its secrets.
+~
+0 0 1
+D0
+~
+~
+0 0 42314
+S
+#42314
+First Room of the Maze~
+Here is the first room of the Maze.
+Which way to go.
+Everything looks the same.
+Is there something in the distance?
+ 
+Is this the same room as the last one?
+~
+0 0 0
+D0
+~
+~
+0 0 42318
+D1
+~
+~
+0 0 42315
+D2
+~
+~
+0 0 42313
+D3
+~
+~
+0 0 42319
+S
+#42315
+A Room in the Maze~
+Another room in the maze.
+Is this the right way?
+Confusing begins to set in.
+~
+0 0 0
+D0
+~
+~
+0 0 42320
+D1
+~
+~
+0 0 42316
+D3
+~
+~
+0 0 42314
+S
+#42316
+A Room in the Maze~
+Continuing into the Maze.
+Is this the path?
+~
+0 0 0
+D0
+~
+~
+0 0 42321
+D1
+~
+~
+0 0 42317
+D3
+~
+~
+0 0 42315
+S
+#42317
+A Room in the Maze~
+Oopps.
+Dead end in the Maze.
+Sorry.
+~
+0 0 0
+D0
+~
+~
+0 0 42313
+S
+#42318
+A Room in the Maze~
+Ouch.
+Dead end in the beginning.
+Try again.
+~
+0 0 0
+D0
+~
+~
+0 0 42313
+S
+#42319
+A Room in the Maze~
+Room after room, everything looks the same.
+Confusion and frustration begins to overcome the body.
+~
+0 0 0
+D0
+~
+~
+0 0 42316
+D1
+~
+~
+0 0 42314
+D3
+~
+~
+0 0 42317
+S
+#42320
+A Room in the Maze~
+Confusion has set in.
+Is this a new room?
+Or is it an old room?
+~
+0 0 0
+D0
+~
+~
+0 0 42316
+D1
+~
+~
+0 0 42322
+D2
+~
+~
+0 0 42323
+D3
+~
+~
+0 0 42319
+S
+#42321
+A Room in the Maze~
+More rooms?
+Where to go?
+~
+0 0 0
+D0
+~
+~
+0 0 42322
+D1
+~
+~
+0 0 42315
+D2
+~
+~
+0 0 42316
+D3
+~
+~
+0 0 42319
+S
+#42322
+A Room in the Maze~
+More and more rooms.
+When will it end?
+~
+0 0 0
+D0
+~
+~
+0 0 42317
+D1
+~
+~
+0 0 42324
+D2
+~
+~
+0 0 42321
+D3
+~
+~
+0 0 42320
+S
+#42323
+A Room in the Maze~
+Where is this?
+This looks familiar.
+Souls begin to scream.
+Is the ending near?
+~
+0 0 0
+D0
+~
+~
+0 0 42320
+D2
+~
+~
+0 0 42317
+D3
+~
+~
+0 0 42324
+S
+#42324
+A Room in the Maze~
+The Maze continues.
+Don't know where to go.
+Every turn is the same.
+~
+0 0 0
+D0
+~
+~
+0 0 42316
+D1
+~
+~
+0 0 42323
+D2
+~
+~
+0 0 42315
+D3
+~
+~
+0 0 42325
+S
+#42325
+A Room in the Maze~
+More rooms!
+Insanity has set in.
+Every room looks the same.
+This can't be the right way.
+~
+0 0 0
+D0
+~
+~
+0 0 42326
+D1
+~
+~
+0 0 42324
+D2
+~
+~
+0 0 42317
+D3
+~
+~
+0 0 42317
+S
+#42326
+A Room in the Maze~
+Every room is causing more insanity.
+Or is it frustration?
+Whatever it is, when will the maze end?
+~
+0 0 0
+D0
+~
+~
+0 0 42327
+D1
+~
+~
+0 0 42322
+D2
+~
+~
+0 0 42325
+D3
+~
+~
+0 0 42316
+S
+#42327
+A Room in the Maze~
+This has to be the same room as the last.
+They all look the same.
+Where to go?
+~
+0 0 0
+D0
+~
+~
+0 0 42319
+D1
+~
+~
+0 0 42328
+D2
+~
+~
+0 0 42326
+D3
+~
+~
+0 0 42317
+S
+#42328
+A Room in the Maze~
+Another room!
+Frustration is boiling.
+The end has to be near.
+~
+0 0 0
+D0
+~
+~
+0 0 42329
+D1
+~
+~
+0 0 42321
+D2
+~
+~
+0 0 42315
+D3
+~
+~
+0 0 42327
+S
+#42329
+A Room in the Maze~
+There is a light nearby.
+The exit is almost there.
+~
+0 0 0
+D0
+~
+~
+0 0 42330
+D1
+~
+~
+0 0 42317
+D2
+~
+~
+0 0 42328
+D3
+~
+~
+0 0 42317
+S
+#42330
+The end of the Maze~
+Congratulations!
+Through frustration and confusion,
+the maze has been conquered.
+Enjoy the prize.
+~
+0 0 0
+D2
+~
+~
+0 0 42329
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 42302 0 2 The north door of {!Zellie's {1Quest-o-Matic {2Room{x is closed and locked
+D 0 42302 4 2 The up door of {!Zellie's {1Quest-o-Matic {2Room{x is closed and locked
+D 0 42302 5 2 The down door of {!Zellie's {1Quest-o-Matic {2Room{x is closed and locked
+D 0 42303 5 2 The down door of {!Zellie's {1Treasure {2Room{x is closed and locked
+D 0 42305 2 2 The south door of {!Zellie's {1Treasure {2Room{x is closed and locked
+O 0 42306 0 42303 *{!zellie's {1treasure {2chest{x loaded to {!Zellie's {1Treasure {2Room{x
+O 0 42306 0 42304 *{!zellie's {1treasure {2chest{x loaded to {!Zellie's {1Treasure {2Room{x
+O 0 42306 0 42305 *{!zellie's {1treasure {2chest{x loaded to {!Zellie's {1Treasure {2Room{x
+O 0 42313 0 42313 *Portal to midgard. loaded to Beginning of the Maze
+O 0 42311 0 42330 *{xmaze quest treasure chest loaded to The end of the Maze
+P 0 50 1 42311 1 *A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 put inside a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0
+P 0 50 1 42311 1 *A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 put inside a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0
+P 0 50 1 42311 1 *A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 put inside a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#42300
+The Clan Quest mob cries out as its soul is bound into a token.
+mob oload 42310
+~
+#0
+
+#$

@@ -1,0 +1,966 @@
+#AREADATA
+Name Colosseum~
+Builders Unlinked~
+VNUMs 42500 60001
+Continent 1
+Credits DELETE ME~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#50000
+morwen defender sanctuary~
+{#Morwen{x~
+Morwen stands here arms crossed, eyeing you.
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50001
+storyteller old man~
+the {^Storyteller{x~
+A storyteller stands here, reading aloud to the group.
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50002
+the aviary book~
+the Aviary~
+A book on the birds of the land is lying here.
+~
+~
+human~
+ABG 0 0 1 0
+148 160 50d10+14500 10d10+100 6d25+60 slash
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#50200
+Templar Defender~
+a Templar~
+A templar stands here defending his faith.
+~
+~
+human~
+AB 0 0 1000 0
+95 0 200d3+2500 1d1+100 5d6+20 slash
+-20 -20 -20 -20
+CI 0 N 0
+stand stand male 9000
+HMV ABCDEFGHIJK medium unknown
+F for A
+#50201
+rat~
+a Rat~
+A dirty rat is here looking for food.
+~
+~
+human~
+A 0 0 0 0
+80 0 20d10+2000 1d1+0 10d2+10 bite
+-30 -30 -30 -25
+FH 0 0 0
+stand stand none 5000
+GV ACFH tiny unknown
+F for AHM
+F par BDEGIJK
+#50202
+man assassin plot~
+the Assassin~
+A man sits here plotting the death of the bishop.
+~
+~
+human~
+ABT V 0 -1000 0
+110 1000 1d1+7999 1d1+0 8d10+300 stab
+-60 -60 -60 -60
+EFHK 0 CD 0
+stand stand none 30000
+HMV ABCDEFGHIJK medium unknown
+F for A
+#50203
+recruit new~
+a New Recruit~
+A recuit is wandering here, unsure of his next task.
+~
+~
+human~
+A 0 0 1000 0
+90 30 10d50+2000 0d0+0 5d4+20 pound
+-20 -20 -20 -20
+I 0 0 0
+stand stand none 9000
+HM ABCDEGHIJK medium unknown
+F for AV
+F par F
+#50204
+officer citadel paladin~
+an Officer of the Citadel~
+An officer of the citadel stands here keeping everything in order.
+~
+~
+human~
+AB 0 0 1000 0
+100 0 100d5+2750 1d1+0 30d2+0 crush
+-20 -20 -20 -20
+CIK 0 N 0
+stand stand none 15000
+HM ABDEFHIJK medium unknown
+F for AV
+F par CG
+#50205
+paladin trainer muscle~
+the Trainer~
+A muscle bound paladin stands here waiting to train you.
+~
+~
+human~
+ABJ 0 0 0 0
+100 0 1d1+10000 1d1+0 20d20+50 crush
+0 0 0 0
+0 0 N 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50206
+wimpy recruit~
+a Wimpy Recruit~
+A wimpy recruit is here being whipped into shape.
+~
+~
+human~
+AB 0 0 0 0
+90 0 100d5+2250 1d1+0 4d6+20 slice
+-30 -30 -30 -25
+N 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50207
+practice drill master~
+the Drill Master~
+An experienced paladin here working with the new recruits.
+~
+~
+human~
+ABKb 0 0 0 0
+100 0 1d1+10000 1d1+0 20d20+50 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50208
+practice training dummy~
+a Training Dummy~
+A training dummy is here waiting for a beating.
+~
+~
+human~
+AB V 0 0 0
+500 0 1d1+5999 0d0+0 1d1+0 magic
+0 0 0 0
+HMO ABCDFG P 0
+stand stand none 0
+CJM ABCGH medium unknown
+F for AHV
+F par DEFIJK
+#50209
+paladin squatting~
+the Squatting Paladin~
+A paladin is here squatting over the chamber pot.
+~
+~
+human~
+AB 0 0 1000 0
+95 0 100d5+2250 1d1+0 5d6+30 slash
+-30 -30 -30 -25
+D 0 0 0
+stand stand none 9000
+HM ABCDEFGIJK medium unknown
+F for AV
+F par H
+#50210
+healer priest~
+the Priest of Healing~
+A robed figure stands here attending to the alter.
+~
+~
+human~
+ABa 0 0 1000 0
+150 0 1d1+9999 1d1+999 10d10+10 divine
+0 0 0 0
+0 0 0 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50211
+sleeping recruit~
+A Sleepy Recruit~
+A tired recruit is sleeping here
+~
+~
+human~
+A 0 0 1000 0
+90 0 10d50+2000 1d1+0 5d4+20 punch
+-30 -30 -30 -30
+N 0 0 0
+sleep stand none 9000
+HM 0 medium unknown
+F for AV
+F par ABCDEFGHIJK
+#50212
+recruit advanced sparring~
+a Sparring Recruit~
+An advanced recruit is here swinging around a wooden sword.
+~
+~
+human~
+AB V 0 1000 0
+95 200 50d10+2500 1d1+0 5d5+40 punch
+-25 -25 -25 -25
+EH 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50213
+recruit training~
+a Recruit in Training~
+A recruit stands here dreading the next drill.
+~
+~
+human~
+AB 0 0 1000 0
+93 0 10d50+2250 1d1+0 5d5+20 stab
+-20 -20 -20 -20
+I 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50214
+Barington~
+Barington~
+Barington stands here sharpening some knives.
+~
+~
+human~
+AB 0 0 1000 0
+100 0 1d1+9999 1d1+0 10d10+100 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50215
+captain fenadin~
+Captain Fenadin~
+Captain Fenadin sits here polishing his armor.
+~
+~
+human~
+ABT V 0 1000 0
+100 750 1d1+6499 1d1+0 10d8+20 crush
+-65 -65 -65 -65
+DFHIK N 0 0
+stand stand none 20000
+M ABCDEFGHIJK medium unknown
+F for AHV
+#50216
+mitex lieutenant~
+Lieutenant Mitex~
+Lieutenant Mitex is on his way to his daily workout.
+~
+~
+human~
+ABT V 0 1000 0
+100 750 1d1+5999 1d1+0 100d2+200 pierce
+-60 -60 -60 -60
+CFHK 0 N 0
+stand stand none 12000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50217
+quick boy page~
+A page~
+A young boy quickly darts past you.
+~
+~
+human~
+AB 0 0 1000 0
+0 50 10d50+2000 0d0+0 5d4+30 pound
+-25 -25 -25 -25
+FN 0 0 0
+stand stand male 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50218
+General Aelreson~
+General Aelreson~
+General Aelreson is here planning the next move.
+~
+~
+human~
+ABT V N 1000 0
+105 1000 1d1+7999 1d1+0 10d10+300 slash
+-30 -30 -30 -30
+CFHK N BCD 0
+stand stand male 30000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50300
+shadow demon~
+{8S{7h{8a{7d{8o{7w {8D{7e{8m{7o{8n{0~
+A {8S{7h{8a{7d{8o{7w {8D{7e{8m{7o{8n{0 stands here.
+~
+~
+dragon~
+ABGOPWc JPTUVZce CDE -1000 0
+150 200 20d100+10000 150d150+999 20d20+75 claw
+70 70 70 70
+CDFIJKMNO 0 JQ ABFHNS
+stand stand male 5000
+AHZ ACDEFGHIJKPQUVX huge unknown
+F res BEH
+F vul I
+#50301
+gila monster~
+{3G{1i{3l{1a {8M{7o{8n{7s{8t{7e{8r{0~
+A {3G{1i{3l{1a {8M{7o{8n{7s{8t{7e{8r{0 is standing here.
+~
+~
+human~
+Ac VZ 0 -1000 0
+160 100 200d200+999 150d10+100 15d15+150 bite
+-50 -50 -50 -50
+0 AB 0 HNS
+stand stand none 60000
+AX ABCDEFGHIJKLMNOPQUVWXY medium unknown
+F for HMV
+#50302
+Sand Dracolich~
+{&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0~
+A {&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0 is standing here.
+~
+~
+human~
+A 0 0 -1000 0
+160 250 350d350+999 200d10+100 15d15+150 psias
+-45 -45 -45 -45
+CDFIJKMNO 0 JQ HNS
+stand stand none 60000
+AE ABCDEFGHIJKLMNOPQUVWXY huge unknown
+F for HMV
+#50304
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50321
+pill pop popper~
+{WPill P{coppe{WR{x~
+Strung out on pills, the Popper rises to save his stash.
+~
+~
+storm-giant~
+AF DFPQTVa CDEH 0 0
+180 0 1d1+65000 0d0+0 250d5+1 none
+10 10 10 10
+0 J EG P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#50322
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50344
+genie mystical~
+Mystical Genie~
+Beware of the {BMy{bs{Wti{bc{Bal G{be{Wn{bi{Be{x
+~
+~
+kenku~
+ABFGS FLPQT 0 1000 0
+145 200 1d1+50000 250d5+1 250d5+1 none
+-25 -25 -25 -20
+BDFHJKN ABX 0 EQ
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#50345
+Leveler~
+leveler~
+Here stands leveler, kill me
+~
+~
+human~
+AB 0 0 0 0
+2000 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#50000
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+A
+22 1
+#50050
+memorial fountain~
+the memorial fountain~
+A memorial fountain is flowing here, in honor of the Gods.~
+unknown~
+fountain AB 0
+-1 -1 'firebreather' 0 0
+1 50000 1 P
+#50200
+snake fang stiletto~
+the "S{2na{7ke Fa{2n{@g" {8Stiletto{0~
+A modified snake fang is here forming a pool of venom of the floor.~
+unknown~
+weapon CE AN
+dagger 11 12 stab EH
+73 3 20000 P
+A
+18 6
+A
+19 10
+#50201
+head assassin decapitated~
+the {1De{!capi{1tate{!d Hea{1d {0of the {8Assassin{0~
+A bloody head is here rolling on the floor.~
+unknown~
+trash EST AO
+0 0 0 0 0
+1 1 1 P
+#50202
+chamber pot fountain~
+the Chamber Pot~
+A large pot sits here ready to collect ....... stuff.~
+unknown~
+fountain 0 0
+0 0 'slime mold juice' 0 0
+0 0 0 P
+#50203
+Alter healing~
+the Alter of Healing~
+A glowing alter is here waiting for the wounded.~
+unknown~
+furniture A 0
+A DFGHIJ EHK CEFGHI 0
+50 100 0 P
+#50204
+table~
+a Table.~
+A small dirty table sits here begging for cleaning.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50205
+table grand~
+the Grand Dining Table~
+An Elegant Dining Table stands here surrounded by lavish chairs.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50206
+table large planning~
+the Planning Table~
+A large table stacked high with maps and diagrams sits in the middle of the room.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50207
+plush chair~
+a Plush Chair~
+A soft looking plush chair sits against the wall.~
+unknown~
+furniture 0 0
+A CEFGHI E CDFI DGH
+50 0 0 P
+#50208
+bed neat~
+a neat looking bed.~
+A neat looking bed sits here in the corner of the room.~
+unknown~
+furniture 0 0
+B CEFGHI EHK DGH DGH
+40 0 0 P
+#50209
+portal~
+generic portal~
+Generic portal~
+unknown~
+portal 0 0
+0 0 A ABEFGKOP 0
+102 0 0 P
+#50250
+knife small~
+a Small Knife~
+A small knife has been lost here.~
+unknown~
+weapon 0 AN
+dagger 9 10 slice 0
+50 3 8000 P
+A
+18 10
+A
+19 9
+#50251
+blessed broad sword broadsword justice~
+a {3Blessed {8Broadsword {0of {7Justice{0~
+A holy broadsword is here waiting to dispense justice.~
+unknown~
+weapon IK AN
+sword 11 10 cleave E
+65 7 0 P
+A
+19 12
+A
+18 5
+A
+1 1
+#50252
+plate mail platemail light~
+a Light Suit of Platemail~
+A shiny suit of light yet sturdy platemail rests here.~
+unknown~
+armor 0 AD
+CE CE CE CE 0
+60 15 5000 P
+A
+13 25
+#50253
+wooden sword practice~
+a Wooden Practice Sword~
+A wooden sword is here collecting dust.~
+unknown~
+weapon S AN
+sword 1 1 thwack 0
+50 5 0 P
+A
+19 5
+A
+18 50
+#50254
+platemail mail suit gleaming~
+{8A Suit of {3Gleaming {8Platemail{0~
+A suit of very shiny platemail sits in the corner.~
+unknown~
+armor AIK AD
+CE CE CE CE 0
+75 15 0 P
+A
+19 5
+A
+18 5
+#50255
+Blue Halberd Head Splitter~
+the {4Blue Halberd {0known as "{1Head{8Splitter{0"~
+A large blue halberd sits in the corner waiting for a head to split.~
+unknown~
+weapon BG AN
+polearm 20 7 cleave EF
+75 14 10000 P
+A
+19 6
+#50256
+blue cape seal justice~
+{4Blue Cape {3Emblazioned {0with the {3Seal {0of {7Justice{0~
+A cumpled blue cape is collecting dust on the floor.~
+unknown~
+armor 0 AK
+ABCD ABCD ABCD BD 0
+70 4 1000 P
+A
+19 6
+A
+13 50
+#50257
+iron wall tower shield justice~
+the {8Iron Wall {0of {7Justice{0~
+General Aelreson's iron towershield seems to have been misplaced.~
+unknown~
+armor AIK AJ
+ABCD ABCD ABCD ABCD 0
+80 13 10000 P
+A
+17 -15
+#50258
+mace fire burning justice~
+"{!B{1ur{!n{#in{3g J{#us{7ti{&c{7e{0"~
+General Aelreson's firey mace sits here burning a hole through the floor.~
+unknown~
+weapon ABIK AN
+mace 10 15 flame A
+80 12 10000 P
+A
+19 10
+#50259
+stick padded~
+a Padded Beating Stick~
+How the fuck did you get this off the dummy?~
+unknown~
+weapon MSZ AN
+exotic 1 1 pound 0
+1 0 0 P
+A
+19 -30
+#50298
+scroll sonic~
+something~
+Something~
+unknown~
+scroll SY A
+200 'sonic blast' 'sonic blast' 'sonic blast' 'sonic blast'
+105 0 0 P
+#50300
+sign~
+sign~
+A sign is stuck in the ground.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+_
+This area is for LGD's only. IF you  are not
+a LGD and want to travel on into the area I
+say that you have been Warned that these mobs
+are no day in the park and Death walks this
+Lands destruction is what these mob are great at.
+_
+Thank you
+Area creator
+Raziel
+~
+#50301
+sword fire~
+{7sw{8o{7rd{0 of {1f{3i{1r{3e{0~
+A {7sw{8o{7rd{0 of {1f{3i{1r{3e{0 lies here.~
+fire~
+weapon ARTY AN
+sword 10 19 slice AF
+101 30 50000 P
+A
+19 10
+A
+13 100
+A
+18 5
+A
+14 50
+#50321
+scar poppers~
+{WP{coppe{WR's {RS{rc{Ra{rr{x~
+A scar from a pillhead who could not stand up~
+clot~
+armor ABFT AL
+BCD E E BD 0
+101 1 25000 P
+A
+19 10
+A
+1 1
+A
+13 30
+#50322
+key untold treasures~
+key to untold {YTreasures{x~
+A key of bone, unlocking a treasure room of miracles~
+bone~
+key NOST AO
+0 0 0 0 0
+1 0 0 P
+#50333
+Turkey~
+a {YT{yu{wrk{ye{Yy {xGobbles here~
+A {YT{yu{wrk{ye{Yy {xGobbles here~
+unknown~
+trash OTYa A
+0 0 0 0 0
+1 0 0 P
+#50334
+calamirs anger~
+{WC{xalamir{Ws A{xnge{Wr{x~
+Here lies Calamirs pissy mood~
+unknown~
+armor A AW
+0 0 0 0 0
+101 0 0 P
+A
+19 20
+#50342
+pool cave cavern~
+{cA {CG{Wl{ci{wm{Cm{We{cr{wi{Cn{Wg {CP{coo{Cl{x~
+A {CG{Wl{ci{wm{Cm{We{cr{wi{Cn{Wg {CP{coo{Cl{x gurgles here.~
+unknown~
+portal OR 0
+0 0 ABC BDGHKOP 0
+0 0 0 P
+#50344
+Mystical genie armband~
+{BM{by{Wstic{ba{Bl G{be{Wni{be{Bs {YG{yo{Yl{yd{Ye{yn {WArmband{x~
+Here lies the golden armband of a mystical genie.~
+gold~
+armor AB AM
+ACE CE AE AE 0
+101 10 101000 P
+A
+18 10
+A
+13 -150
+A
+1 -2
+A
+19 15
+#0
+
+
+
+#ROOMS
+#42500
+~
+~
+0 4 0
+D2
+~
+~
+0 0 42501
+S
+#42551
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42544
+D2
+~
+~
+0 0 42552
+S
+#42552
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42551
+D3
+~
+~
+0 0 42553
+S
+#42553
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42552
+D2
+~
+~
+0 0 42554
+S
+#42554
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42553
+D2
+~
+~
+0 0 42555
+D3
+~
+~
+0 0 42560
+S
+#42555
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42554
+D2
+~
+~
+0 0 42556
+D3
+~
+~
+0 0 42559
+S
+#42556
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42555
+D2
+~
+~
+0 0 42557
+S
+#42557
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42556
+D1
+~
+~
+0 0 42558
+S
+#42558
+~
+~
+0 0 0
+D3
+~
+~
+0 0 42557
+S
+#42559
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42560
+D1
+~
+~
+0 0 42555
+S
+#42560
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42554
+D2
+~
+~
+0 0 42559
+D3
+~
+~
+0 0 42561
+S
+#42561
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42560
+D3
+~
+~
+0 0 42562
+S
+#42562
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42561
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

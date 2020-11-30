@@ -1,0 +1,104 @@
+#AREADATA
+Name Vinir shiznet~
+Builders Gavorkian Unlinked~
+VNUMs 27700 27999
+Credits [-----} Gav     Vinir~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#27700
+vinir boots flight winged wing~
+{^V{6i{7n{6i{^r{( boots of flight~
+Here lies a pair of winged boots bound with the finest leather in the land.~
+leather~
+armor ABGIORSTY AG
+ACDE ABCE ABDE BF 0
+15 0 87000 P
+A
+13 50
+A
+14 100
+A
+19 15
+A
+14 275
+A
+2 3
+A
+13 150
+A
+12 110
+A
+18 20
+#27701
+gold wedding ring~
+a gold wedding ring~
+A gold wedding ring sits here.~
+gold~
+armor IY AB
+ABCD BD ABCD BD 0
+1 1 2147483647 P
+A
+24 -3
+A
+19 10
+A
+18 10
+A
+13 100
+#27702
+gold wedding band~
+a gold wedding band~
+A gold wedding band rests here~
+gold~
+armor IY AB
+ABCD BD ABCD BD 0
+1 1 2147483647 P
+A
+19 10
+A
+18 10
+A
+24 -3
+A
+13 100
+#0
+
+
+
+#ROOMS
+#27700
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

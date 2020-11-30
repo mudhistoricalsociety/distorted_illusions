@@ -1,0 +1,2526 @@
+#AREADATA
+Name Sahuagin Bridge~
+Builders None~
+VNUMs 41000 41099
+Continent 1
+Credits {y[{D70--87{y]{c Digaaz   {RSahuagin Bridge{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#41000
+sahuagin guard~
+A sahuagin guard~
+A sahuagin guard stands here blocking your path.
+~
+~
+human~
+ABT 0 0 -1000 0
+130 50 7500d1+0 1d1+100 5d9+5 slice
+0 0 0 0
+E AB 0 0
+stand stand none 10000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41001
+sahuagin worker~
+A sahuagin worker~
+A sahuagin worker stands here working on something.
+~
+A strong worker who seems like he could easily toss a
+hefty amount of weight without breaking a sweat.
+~
+human~
+AG 0 0 -1000 0
+135 150 1d1+10000 1d1+500 12d15+1 stab
+-25 -25 -25 -21
+E B 0 0
+stand stand none 10000
+AMV ABCDEFGH medium unknown
+F for H
+F par IJK
+#41002
+sahuagin inventory worker~
+A sahuagin worker~
+A sahuagin worker is here counting the inventory.
+~
+~
+human~
+ABGST 0 0 -1000 0
+130 125 1d1+10000 1d1+750 6d17+0 stab
+-22 -22 -22 -19
+EH B 0 0
+stand stand female 2000
+AMV ABCDEFGH medium unknown
+F for H
+F par IJK
+#41003
+drowsy sahuagin guard~
+A drowsy guard~
+A sahuagin guard is here sleeping on the job.
+~
+~
+human~
+ABT 0 0 -1000 0
+130 100 1d1+9500 1d1+1500 5d15+0 punch
+-15 -15 -15 -11
+E B 0 0
+sleep sleep male 10000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41004
+sahuagin guard~
+A sahuagin guard~
+A sahuagin guard is here guarding the massive doorway.
+~
+~
+human~
+ABT 0 0 -1000 0
+135 115 10000d1+0 10d10+10 5d18+2 pound
+-15 -15 -15 -12
+H B 0 0
+stand stand male 20000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41005
+sahuagin pillar worker~
+A sahuagin pillar worker~
+A sahuagin pillar worker working feverishly on the pillar support.
+~
+~
+human~
+ABG 0 0 -1000 0
+130 105 1d1+11999 10d10+100 11d19+15 none
+-13 -13 -13 -9
+EH AB 0 0
+stand stand none 1000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41006
+sahuagin assassin ght~
+A sahuagin assassin~
+A sahuagin assassin lurks in the shadows here.
+~
+~
+human~
+ABFS PQ B -1000 0
+135 40 1d1+5500 10d10+300 8d12+15 none
+-5 -5 -5 0
+AFJ AB 0 0
+stand stand female 1500
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41007
+sahuagin metal worker~
+A sahuagin metal worker~
+A sahuagin metal worker stands here bending metal.
+~
+~
+human~
+AG 0 0 -1000 0
+130 80 1d1+11999 10d10+250 13d10+10 pound
+-7 -7 -7 -3
+E AB 0 0
+stand stand male 1000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#41008
+sahuagin beast sgb~
+A sahuagin beast~
+A huge beast stands here snarling at you angrily.
+~
+~
+wolf~
+ABFGST CDEFGZ 0 -1000 0
+130 50 1d1+9999 500d1+0 8d13+5 claw
+-11 -11 -11 -1
+FHMN AB 0 0
+stand stand none 2000
+AGV ACDEFJKQUVW large unknown
+#41009
+sahuagin peasant~
+A sahuagin peasant~
+A sahuagin peasant wanders aimlessly looking for handouts.
+~
+~
+human~
+ACS 0 0 -1000 0
+120 0 7500d1+0 1d1+100 5d15+0 scratch
+-1 -1 -1 4
+0 AB 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#41051
+Mord black cloaked figure~
+{*Mord{x~
+{*A figure is here cloaked in black.{x
+~
+~
+human~
+AEFRST CDEFG BNO 0 0
+300 150 25000d1+0 25000d1+0 250d4+100 stab
+-60 -60 -60 -60
+ADEFHJK AB S 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 41002 100~
+M DEATH 41003 100~
+#41052
+Kalt~
+{&Kalt{x~
+{& A gray cloaked figure is lurking here.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#41080
+panda~
+{0A {*P{0a{*n{0d{*a{x~
+A large panda is here eating bamboo.
+~
+~
+bear~
+ABST CDEFG BCDEH 0 0
+150 350 100000d1+0 25000d1+0 50d1000+100000 claw
+-100 -100 -100 -100
+DEFGHKLMO A EI 0
+stand stand none 0
+AGV ABCDEFHJKUV large unknown
+M SPEECH 41080 urd~
+M SPEECH 41083 skuld~
+M RANDOM 41081 5~
+M SPEECH 41082 spellup~
+#41081
+zombie panda~
+{*A {1Z{*o{1m{*b{1i{*e {*P{0a{*n{0d{*a{x~
+A hulking decayed panda lashes violently out at you.
+~
+~
+bear~
+AFRST CDEFG O -1000 0
+180 350 150000d1+0 5000d1+0 50d350+150 claw
+-80 -80 -80 -80
+ACDEFGHJO ABLMPQT EGIK NS
+stand stand none 0
+AGV ABCDEFHJKUV large unknown
+#41096
+dani filth~
+{1Dani {*Filth{x~
+Dani Filth stands here being godly.
+~
+~
+human~
+ALPQRST CDEFGJZ O -1000 0
+1000 350 10000000d1+0 50000d1+0 2d500+250 chomp
+-66 -66 -66 -66
+CDEFGHK AB MPT 0
+stand stand none 500000
+AHMV ABCDEFGHIJK medium unknown
+#41097
+Melaktishu~
+Melaktishu~
+Melaktishu stands here.
+~
+~
+human~
+A 0 0 0 0
+5000 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#41098
+Soldier call to arm~
+a powerful soldier.~
+Here stands a powerful solider, apparently called into duty.
+~
+~
+human~
+A V 0 0 0
+100 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+M GIVE 41098 all~
+#0
+
+
+
+#OBJECTS
+#41000
+Viktor's Boots~
+{RV{riktor's {RB{roots{x~
+A gift to Hannah. ~
+unknown~
+armor 0 AG
+ADE ADE ADE ADE 0
+101 0 0 P
+A
+19 10
+A
+18 10
+#41002
+digaazs crack pills~
+{!D{1igaaz's {!C{1rack {!P{1ills{x~
+Digaaz's Crack Pills lie here.~
+unknown~
+pill A A
+110 'giant strength' 'frenzy' 'haste' 'feeble mind'
+109 0 0 P
+#41003
+old rusted collar~
+an old rusted collar~
+An old rusted collar lies here.~
+unknown~
+armor 0 AC
+0 0 0 0 0
+110 0 0 P
+A
+17 -150
+A
+19 500
+A
+9 55
+A
+9 150
+A
+17 -500
+#41004
+sad panda petpet~
+{8S{0a{8d {0P{8a{0n{8d{0a {2P{@e{2t{@P{2e{@t{x~
+A panda petpet lies here lost.~
+unknown~
+treasure CFa AO
+0 0 0 0 0
+110 0 0 P
+A
+12 -100
+A
+14 -100
+A
+13 -100
+A
+17 -50
+A
+26 5
+#41006
+might aesir~
+{B[{GM{Yi{Wg{Yh{Gt{B] {Wof the {B[{GA{Ye{Ws{Yi{Gr{B]{x~
+A strong presence is eminating here.~
+unknown~
+armor IS AU
+CDEFHJ CDEFHJ CDEFHJ CDEFHJ 0
+109 0 0 P
+A
+13 50000
+A
+19 500
+#41009
+study key~
+{!T{1he {!S{1tudy {!K{1ey{x~
+A deluxe master key is sitting here forgotten.~
+bone~
+key CFG AO
+0 0 0 0 0
+110 0 0 P
+#41010
+large guard door key~
+a guard station door key~
+A large steel key has been left here.~
+unknown~
+key U A
+0 0 0 0 0
+0 0 0 P
+#41011
+massive steel key~
+a massive steel key~
+A massive steel key lies here.~
+steel~
+key U A
+0 0 0 0 0
+0 5 0 P
+#41012
+guards sword~
+a guard's sword~
+A guards sword lies here.~
+steel~
+weapon 0 AN
+sword 8 20 slice 0
+80 0 10000 P
+A
+18 5
+#41013
+iron bar staff~
+a sharp iron bar~
+A sharp iron bar lies here collecting dust.~
+iron~
+weapon 0 AN
+mace 8 20 crush DF
+77 3 0 P
+A
+19 5
+#41014
+sahuagin dagger~
+an sahuagin dagger~
+A poorly designed dagger lies here in the dirt.~
+unknown~
+weapon 0 AN
+dagger 7 20 stab 0
+70 0 15000 P
+A
+19 7
+A
+18 7
+#41015
+blood stained ring~
+a blood stained ring~
+A blood stained ring from a falled adventurer lies here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+65 0 0 P
+A
+13 25
+A
+18 5
+A
+19 5
+#41016
+skeleton corpse remains fallen adventurer~
+remains of a fallen adventurer~
+The skeletal remains of a fallen adveturer rests in the corner.~
+unknown~
+container R 0
+0 0 0 10 0
+0 0 0 P
+#41017
+dismembered leg adventurer~
+a dismembered leg~
+A dismembered leg of an adventurer lies here.~
+unknown~
+container 0 0
+0 0 0 10 0
+0 0 0 P
+#41018
+blood stained anklet~
+a blood stained anklet~
+A anklet covered in blood lies here.~
+unknown~
+jewelry 0 AT
+0 0 0 0 0
+65 0 0 P
+A
+20 -5
+A
+17 -5
+#41050
+digaazs scroll destruction~
+{!D{1igaaz's {!S{1croll {!O{1f {!D{1estruction{x~
+An acnient scroll of weapon descrution lies here.~
+unknown~
+scroll 0 AO
+110 'enchant weapon' 'enchant weapon' 'enchant weapon' 'enchant weapon'
+101 0 0 P
+#41060
+black metal dark armour~
+{DBlack {WM{weta{Wl{x~
+A hefty set of {DDark Armour{x has been left here.~
+black metal~
+armor CEJLRd AD
+ACDF ACDF ACDF ACDF 0
+109 7 1000000 P
+A
+2 -5
+A
+17 -25
+A
+20 15
+A
+19 20
+A
+13 150
+#41061
+streaks blood~
+{RS{rt{Rr{re{Ra{rk{Rs {Dof {RB{rl{Ro{ro{Rd{x~
+{x~
+blood~
+armor CEJLRYd AH
+ADE ADE ADE ADE 0
+109 2 1000000 P
+A
+20 10
+A
+3 -4
+A
+4 -4
+A
+19 30
+#41062
+serpent tounge~
+{GS{g{Wer{Gp{Wen{Gt {yTounge{x~
+A servered tounge is here.~
+unknown~
+armor CEJLRd AR
+ADE ADE ADE ADE 0
+109 0 0 P
+A
+19 20
+F
+A 0 0 L
+F
+A 0 0 Z
+F
+A 0 0 D
+F
+A 0 0 F
+F
+A 0 0 J
+#41063
+coffin fodder~
+{DC{doffi{Dn {DF{dodde{Dr{x~
+A strange type of fodder is here.~
+unknown~
+treasure CEJL AO
+0 0 0 0 0
+109 2 500000 P
+A
+14 -200
+A
+13 -200
+A
+17 20
+A
+19 30
+#41064
+satanic mantra~
+{RS{ratani{Rc {DM{dantr{Da{x~
+{x~
+unknown~
+gem CE AV
+0 0 0 0 0
+109 0 0 P
+A
+14 50000
+#41080
+bamboo stick~
+a {#b{3a{#m{3b{#o{3o {#s{3t{#i{3c{#k{x~
+A solid bamboo stick lies here.~
+unknown~
+weapon G AN
+exotic 1028 1 thwack BDEFHJ
+108 0 0 P
+A
+19 500
+#41090
+sense of humor quit~
+a {#s{3e{#n{3s{#e {*of {%h{^u{%m{^o{%r{x~
+A sense of humor has been lost here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 0 0 P
+A
+17 -100
+A
+17 100
+#41091
+bodybag cadaverbag~
+{@Contents: {1Persons corpse{x~
+A typical black body bag lies in the dirt.~
+ectoplasm~
+container AOR AO
+600 ABD 41009 1000 0
+101 10 0 P
+#41094
+phallus gelivir dvr~
+{Dthe {GPh{Ya{wl{Yl{Gus {dof {RG{De{Wl{ri{Wv{Di{Rr{x~
+A throbbing entity is here.~
+dadt~
+weapon ABGRSTYad AN
+exotic 666 666 thrust ABCDEFGHJ
+105 500 0 P
+A
+18 5000
+A
+19 5000
+A
+13 50000
+A
+13 50000
+A
+13 50000
+A
+13 50000
+#41095
+mark testers~
+{GMa{grk o{Gf t{ghe {GTest{gers{x~
+A forboding mark lies here.~
+unknown~
+armor 0 AU
+0 0 0 0 0
+1 0 0 P
+A
+5 20
+A
+3 20
+A
+1 20
+A
+4 20
+A
+2 20
+F
+A 0 101 J
+F
+A 0 101 D
+F
+A 0 101 E
+F
+A 0 101 F
+F
+A 0 101 C
+F
+A 0 101 G
+F
+A 0 101 L
+F
+A 0 101 U
+F
+A 0 101 T
+C storm~
+#41096
+wand many uses special~
+revye's Special Wand of Many Uses~
+A happy special wand.~
+unknown~
+scroll 0 AO
+101 'courage' 'imbue weapon' 'cremate' 'voodoo'
+101 100 0 P
+#41097
+candy cane~
+{1C{Wa{1n{Wd{1y{X {1C{Wa{1n{We{X~
+A candy cane lies here.~
+candy corn!~
+pill ABY AO
+113 'haste' 'frenzy' 'giant strength' 'steel flesh'
+0 0 0 P
+#41098
+a legend~
+{YA Legend{x~
+Legend~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#41099
+breastplate physical power fesdor drunk~
+{RThe Breastplate of Physical Power{x~
+A breastplate of intense physical prowess lies here, created by fesdor while he was shitfaced.~
+unknown~
+armor AB AK
+BEF BEF BEF EF 0
+101 0 10000 P
+A
+18 15
+A
+20 20
+A
+19 15
+F
+V 13 200 C
+#0
+
+
+
+#ROOMS
+#41000
+Digaaz's Study~
+You are in Digaaz's Study.  Either you were naughty or you were
+tranported here, or you're an Immortal.  
+~
+0 532996 0
+D4
+~
+~
+4 41009 9502
+D5
+~
+~
+4 41009 3014
+M 100000 H 100000
+S
+#41001
+Top of the Stairs~
+The room is completely empty except for a staircase in the center of 
+the room. It is a solid concrete staircase about 10 feet wide obviously
+made so large objects could be transported onto the bridge.
+~
+0 8 0
+D0
+~
+~
+0 0 41002
+D5
+~
+~
+0 0 41091
+S
+#41002
+Guard's Station~
+Before you stands a grand door made of heavy grade
+steel and very little wood. As you try to proceed you relize
+that no amount of raw strength or skill will open this door.
+You will need the key to get in the massive structure.
+~
+0 8 0
+D0
+~
+~
+3 41010 41003
+D2
+~
+~
+0 0 41001
+S
+#41003
+Grand Entrance Hall~
+You are in the grand entrance hall of the massive
+structure. You hear footsteps echoing from every direction
+making it hard to distinguish where they are comming from.
+~
+0 8 0
+D0
+~
+~
+0 0 41004
+D1
+~
+~
+0 0 41012
+D2
+~
+~
+3 41010 41002
+D3
+~
+~
+0 0 41020
+S
+#41004
+An Intersection~
+You are at a intersection.  You hear lots of commotion
+comming from the east and west. 
+~
+0 8 0
+D0
+~
+~
+0 0 41005
+D1
+~
+~
+0 0 41013
+D2
+~
+~
+0 0 41003
+D3
+~
+~
+0 0 41014
+S
+#41005
+Approaching the Doorway~
+You notice instantly that the ceiling is raised by a minimum
+of thirty feet.  Looking in all directions helps you only by
+letting you know that you are equal distance from the oposing
+walls.
+~
+0 8 0
+D0
+~
+~
+0 0 41006
+D1
+~
+~
+0 0 41021
+D2
+~
+~
+0 0 41004
+D3
+~
+~
+0 0 41022
+S
+#41006
+In Front of the Iron Door~
+You stand in front of yet another massive doorway
+that has more steel then wood.  The door has all the main
+build in steel and looks like only a key will open it.
+~
+0 8 0
+D0
+~
+~
+3 41011 41025
+D1
+~
+~
+0 0 41007
+D2
+~
+~
+0 0 41005
+D3
+~
+~
+0 0 41015
+S
+#41007
+Approaching the Doorway~
+You continue along the halls you see a painting of what
+appears to be the current queen.  You look at the paining
+a few more seconds before continueing on your path.
+~
+0 8 0
+D1
+~
+~
+0 0 41008
+D2
+~
+~
+0 0 41021
+D3
+~
+~
+0 0 41006
+S
+#41008
+NorthEast Corner~
+The hall seemingly goes on forever with no sight of an
+ending. You are releived as you realized the horrid stench
+from the barracks is no longer wafting to your nostrils.
+~
+0 8 0
+D2
+~
+~
+0 0 41009
+D3
+~
+~
+0 0 41007
+S
+#41009
+Eastern Wing~
+Looking westward you can vaugly make out the end of
+the hall. You come to the conclusion that its a rather small
+structure one way.
+~
+0 8 0
+D0
+~
+~
+0 0 41008
+D2
+~
+~
+0 0 41010
+D3
+~
+~
+0 0 41021
+S
+#41010
+Eastern Wing~
+You see more paintings of beautuful women lining the
+massive wall. You glance to the otherside and see men,
+obviously past cheifs or men who have held military
+positions.
+~
+0 8 0
+D0
+~
+~
+0 0 41009
+D2
+~
+~
+0 0 41011
+S
+#41011
+SouthEast Wing~
+Walking along you find paintings of beautiful women all
+on the walls. You can only assume that they are the past
+priestesses of the king and queen.
+~
+0 8 0
+D0
+~
+~
+0 0 41010
+D3
+~
+~
+0 0 41012
+S
+#41012
+Southeast Wing~
+This room reeks of sweat and stale food.  The only thought
+you have is leaving the room as quickly as possible.
+~
+0 8 0
+D1
+~
+~
+0 0 41011
+D2
+~
+~
+0 0 41024
+D3
+~
+~
+0 0 41003
+S
+#41013
+A Storage Room~
+Boxes. Boxes and more boxes. Obviously a storage room
+that has no order at all.  There is several worker tools and
+other random stuff. Nothing that is of use to you.
+~
+0 8 0
+D3
+~
+~
+0 0 41004
+S
+#41014
+A Storage Room~
+Boxes. Boxes and more boxes. Obviously a storage room
+that has no order at all.  There is several worker tools and
+other random stuff. Nothing that is of use to you.
+~
+0 8 0
+D1
+~
+~
+0 0 41004
+S
+#41015
+Approaching the Doorway~
+You continue along the halls you see a painting of what
+appears to be the current king.  You look at the paining a
+few more seconds before continueing on your path.
+~
+0 8 0
+D1
+~
+~
+0 0 41006
+D2
+~
+~
+0 0 41022
+D3
+~
+~
+0 0 41016
+S
+#41016
+NorthWest Corner~
+The hall seemingly goes on forever with no sight of
+an ending.  You are releived as you relize the horrid
+stench from the barracks is no longer wafting to your
+nostrils.
+~
+0 8 0
+D1
+~
+~
+0 0 41015
+D2
+~
+~
+0 0 41017
+S
+#41017
+Western Wing~
+Looking eastward you can vaugly make out the end of
+the hall.  You come to the conclusion that its a rather
+small structure one way. 
+~
+0 8 0
+D0
+~
+~
+0 0 41016
+D1
+~
+~
+0 0 41022
+D2
+~
+~
+0 0 41018
+S
+#41018
+Western Wing~
+More paintings and tapestries line the wall as you 
+proceed along the western wing of the structure.  Upon
+closer inspection you conclude that they are past king's
+and queen's.
+~
+0 8 0
+D0
+~
+~
+0 0 41017
+D2
+~
+~
+0 0 41019
+S
+#41019
+SouthWest Corner~
+Southeastern corner of the structure holding various 
+paintings and tapestries all along the wall.  You see
+a pile of dirt in the corner showing that nothing has been
+cleaned in quite some time.
+~
+0 8 0
+D0
+~
+~
+0 0 41018
+D1
+~
+~
+0 0 41020
+S
+#41020
+SouthWest Wing~
+The room reeks of sweat and stale food. The only thought
+you have is leaving the room as fast as possible.
+~
+0 8 0
+D1
+~
+~
+0 0 41003
+D2
+~
+~
+0 0 41023
+D3
+~
+~
+0 0 41019
+S
+#41021
+A Side Room~
+You are in a barren room thats been gutted of anything
+that was previously in it.  You see only markings of where
+furniture used to be.
+~
+0 8 0
+D0
+~
+~
+0 0 41007
+D1
+~
+~
+0 0 41009
+D3
+~
+~
+0 0 41005
+S
+#41022
+A Side Room~
+You are in a barren room thats been gutted of anything
+that was previously in it.  You see only markings of where
+furniture used to be.
+~
+0 8 0
+D0
+~
+~
+0 0 41015
+D1
+~
+~
+0 0 41005
+D3
+~
+~
+0 0 41017
+S
+#41023
+Resting Barracks~
+Tables and food, a few cots lie in the corners declaring
+that this is a guards resting barracks.  Nothing is in order 
+and the room is a giant mess.
+~
+0 0 0
+D0
+~
+~
+0 0 41020
+S
+#41024
+Resting Barracks~
+Tables and food, a few cots lie in the corners declaring
+that this is a guards resting barracks.  Nothing is in order 
+and the room is a giant mess.
+~
+0 0 0
+D0
+~
+~
+0 0 41012
+S
+#41025
+Windy Corridor~
+You enter the room and you instantly feel a very strong
+wind comming from the west that almost knocks you off of
+your feet. You take a moment to adjust to the wind and then
+you continue along your path.
+~
+0 8 0
+D0
+~
+~
+0 0 41040
+D1
+~
+~
+0 0 41026
+D2
+~
+~
+3 41011 41006
+D3
+~
+~
+0 0 41038
+S
+#41026
+Windy Corridor~
+As you are carried with the wind you manage to stop after
+a great deal of effort. The wind isn't as strong but is still very
+powerful. There is yet more scrap iron lying around but there is
+a piece long enough to be a staff lieing in the corner.
+~
+0 12 0
+D0
+~
+~
+0 0 41041
+D1
+~
+~
+0 0 41027
+D3
+~
+~
+0 0 41025
+S
+#41027
+Windy Corridor~
+As the wind propels you along you manage to stop before
+slamming face first into the wall. You look around and notice 
+that the room funnels out to about twice what what it originally
+was.
+~
+0 12 0
+D0
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41026
+S
+#41028
+Windy Corridor~
+You enter the room and the first thing you notice is that that
+the wall stops. There is no ceiling or side walls. You look out
+and you have a magnificent view of the lands.
+~
+0 12 0
+D0
+~
+~
+0 0 41029
+D2
+~
+~
+0 0 41027
+S
+#41029
+An Open Hall~
+You look out over the lands and you can make out a portion
+of what looks like Moria. Looking down you decide that its a
+good idea to step away from the ledge before a gust of wind
+sends you pummeling to imminent death.
+~
+0 4 0
+D0
+~
+~
+0 0 41030
+D2
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41042
+S
+#41030
+An Open Hall~
+You look out over the lands and you can make out a
+portion of what looks like Land of the Cult. Looking down
+you decide that it is a good idea to step away from the
+ledge before a gust of wind sends you pummeling to
+imminent death.
+~
+0 4 0
+D2
+~
+~
+0 0 41029
+D3
+~
+~
+0 0 41031
+S
+#41031
+Pillar Support Entrance~
+You notice the shift in the floor as the ground moves from a
+steel type iron to rugged concrete that continues to the north. You
+look up and there is a massive concrete doorway that continues
+and gives you the distinct impression it is built to withstand the
+elements for a great while.
+~
+0 4 0
+D0
+~
+~
+0 0 41052
+D1
+~
+~
+0 0 41030
+D3
+~
+~
+0 0 41032
+S
+#41032
+Before The Bridge~
+Streched out before you is a massive and dark iron bridge
+that looks like it could support a hefty amount of weight. As you 
+look north you can barely make out anything as its very dark.
+~
+0 4 0
+D0
+~
+~
+0 0 41049
+D1
+~
+~
+0 0 41031
+D2
+~
+~
+0 0 41043
+D3
+~
+~
+0 0 41033
+S
+#41033
+Pillar Support Entrance~
+You notice the shift in the floor as the ground moves from a
+steel type iron to rugged concrete that continues to the north. You
+look up and there is a massive concrete doorway that continues
+and gives you the distinct impression it is built to withstand the
+elements for a great while.
+~
+0 4 0
+D0
+~
+~
+0 0 41045
+D1
+~
+~
+0 0 41032
+D3
+~
+~
+0 0 41034
+S
+#41034
+An Open Hall~
+You look out over the lands and you can make out a
+portion of what looks like Midgaard. Looking down you
+decide that it is a good idea to step away from the ledge 
+before a gust of wind sends you pummeling to
+imminent death.
+~
+0 4 0
+D1
+~
+~
+0 0 41033
+D2
+~
+~
+0 0 41035
+S
+#41035
+An Open Hall~
+You look out over the lands and you can make out a
+portion of what looks like Cloudy Mountian. Looking
+down you decide that it is a good idea to step away from
+the ledge before a gust of wind sends you pummeling to
+imminent death.
+~
+0 4 0
+D0
+~
+~
+0 0 41034
+D1
+~
+~
+0 0 41044
+D2
+~
+~
+0 0 41036
+S
+#41036
+Windy Corridor~
+You enter the room and the first thing you notice is that
+the wall stops. There is no ceiling or side walls. You look
+out and you have a magnificent view of the lands.
+~
+0 4 0
+D0
+~
+~
+0 0 41035
+D2
+~
+~
+0 0 41037
+S
+#41037
+Windy Corridor~
+You manage to push your way enough to reach a turn
+in the corridor. As you round the corner the breeze gets
+stronger as the corridor widens quite a bit . The corridor
+funnels out to about twice what it originally was before.
+~
+0 12 0
+D0
+~
+~
+0 0 41036
+D1
+~
+~
+0 0 41038
+S
+#41038
+Windy Corridor~
+As you push forward against the strong wind  you notice
+that there is fresh air comming from up ahead. You push 
+forward in spite of the strong winds.
+~
+0 12 0
+D0
+~
+~
+0 0 41039
+D1
+~
+~
+0 0 41025
+D3
+~
+~
+0 0 41037
+S
+#41039
+Wind Shielded Hallway~
+As you enter you hear the constant whistling of the fast wind
+to the south of you.  As you look around you see the wall is in
+various forms of corrosion despite its rather new look. You hear
+a low whistle of wind from the rooms east of you.
+~
+0 12 0
+D1
+~
+~
+0 0 41040
+D2
+~
+~
+0 0 41038
+S
+#41040
+Wind Shielded Hallway~
+As you enter you hear the constant whistling of the fast wind
+to the south of you.  The wall in front of you has rather odd marks
+in it almost in the form of words. There is a low whistle from the
+east and west of you from other sheltered rooms.
+~
+0 12 0
+E
+wall~
+Constructed By: Digaaz
+~
+D1
+~
+~
+0 0 41041
+D2
+~
+~
+0 0 41025
+D3
+~
+~
+0 0 41039
+S
+#41041
+Wind Shielded Hallway~
+As you enter you hear the constant whistling of the fast wind
+to the south of you.  The wall has what looks like a long slash in
+it from some careless workers. You hear the feirce wind to the 
+south of you and a low hum of wind to the west of you.
+~
+0 12 0
+D2
+~
+~
+0 0 41026
+D3
+~
+~
+0 0 41040
+S
+#41042
+A Side Room~
+You step into a rather calm winded room considering
+that there is no structure shielding you from the elements
+at all. You look around and you see discarded iron scraps
+strewn about. All the peices are too small to be of any use 
+and you decide to continue.
+~
+0 12 0
+D1
+~
+~
+0 0 41029
+D3
+~
+~
+0 0 41043
+S
+#41043
+Approaching The Bridge~
+As you push onward you notice a massive structure
+looming nearby to the north. As you look at the outline 
+you conclude its what all the workers and all of the scrap
+iron about is for.
+~
+0 12 0
+D0
+~
+~
+0 0 41032
+D1
+~
+~
+0 0 41042
+D3
+~
+~
+0 0 41044
+S
+#41044
+A Side Room~
+You step into a rather calm winded room considering
+that there is no structure shielding you from the elements
+at all. You look around and you see discarded iron scraps
+strewn about. All the peices are too small to be of any use 
+and you decide to continue.
+~
+0 12 0
+D1
+~
+~
+0 0 41043
+D3
+~
+~
+0 0 41035
+S
+#41045
+SouthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41046
+D2
+~
+~
+0 0 41033
+S
+#41046
+SouthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D2
+~
+~
+0 0 41045
+D3
+~
+~
+0 0 41047
+S
+#41047
+SouthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D1
+~
+~
+0 0 41046
+D2
+~
+~
+0 0 41048
+S
+#41048
+SouthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41047
+S
+#41049
+On The Bridge~
+Concrete. Steel. The greatest structure that could be spanning
+across the land. Dark shadows linger all across it as the pillars
+block out the light. Across the way you can make out a massive
+building.
+~
+0 4 0
+D0
+~
+~
+0 0 41050
+D2
+~
+~
+0 0 41032
+S
+#41050
+On The Bridge~
+Concrete. Steel. The greatest structure that could be spanning
+across the land. Dark shadows linger all across it as the pillars
+block out the light. Mist creeps up from Dragon Ocean making it
+even harder to see.
+~
+0 4 0
+D0
+~
+~
+0 0 41051
+D2
+~
+~
+0 0 41049
+S
+#41051
+On The Bridge~
+A brush of wind goes past and more mist enters the room. The
+looming shadow in the distance becomes more clear. The unriveled
+building of the Fortress looms in the distance. 
+~
+0 4 0
+D0
+~
+~
+0 0 41056
+D2
+~
+~
+0 0 41050
+S
+#41052
+SouthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41053
+D2
+~
+~
+0 0 41031
+S
+#41053
+SouthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D1
+~
+~
+0 0 41054
+D2
+~
+~
+0 0 41052
+S
+#41054
+SouthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D2
+~
+~
+0 0 41055
+D3
+~
+~
+0 0 41053
+S
+#41055
+SouthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41054
+S
+#41056
+On The Bridge~
+Completely dark and silent as if there was nothing living. The
+end of the bridge is near. Seeing the Fortress from this perspective
+makes the stories seem fables. Nothing was accurate as the structure
+seemingly rises up before you.
+~
+0 4 0
+D0
+~
+~
+0 0 41057
+D2
+~
+~
+0 0 41051
+S
+#41057
+A Courtyard~
+Stepping off the bridge there is a rather large courtyard vacant of any
+trees or flowers save one. The ground is stained in the blood from battles
+past and has slashes and gouges from various weaponry hitting it. To
+the north the ramparts of the fortress are visible. To the east and west 
+there is a damp musky smell.
+~
+0 4 0
+D0
+~
+~
+0 0 41073
+D1
+~
+~
+0 0 41058
+D2
+~
+~
+0 0 41056
+D3
+~
+~
+0 0 41064
+S
+#41058
+A Courtyard~
+The stench of mold wafts out of the concrete doorway to the east. The
+ground has very little blood spatter on it. There is very little evidence of
+and type of fighting, most likely due to the horrid stench comming from
+the east.
+~
+0 4 0
+D0
+~
+~
+0 0 41074
+D1
+~
+~
+0 0 41059
+D3
+~
+~
+0 0 41057
+S
+#41059
+Pillar Support Entrance~
+Rough concrete compilation with bits of metal provideing entry into the
+pillar support hallway. The hallway itself reeks of stale air and death from
+past adventurers. There is rough engravings on the doorway.
+~
+0 4 0
+E
+doorway~
+*** NorthEast Pillar Support Entrance ***
+~
+D2
+~
+~
+0 0 41060
+D3
+~
+~
+0 0 41058
+S
+#41060
+NorthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41059
+D2
+~
+~
+0 0 41061
+S
+#41061
+NorthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41060
+D3
+~
+~
+0 0 41062
+S
+#41062
+NorthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41063
+D1
+~
+~
+0 0 41061
+S
+#41063
+NorthEast Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D2
+~
+~
+0 0 41062
+S
+#41064
+A Courtyard~
+The stench of mold wafts out of the concrete doorway to the west. The
+ground has very little blood spatter on it. There is very little evidence of
+and type of fighting, most likely due to the horrid stench comming from
+the west.
+~
+0 4 0
+D0
+~
+~
+0 0 41070
+D1
+~
+~
+0 0 41057
+D3
+~
+~
+0 0 41065
+S
+#41065
+Pillar Support Entrance~
+Rough concrete compilation with bits of metal provideing entry into the
+pillar support hallway. The hallway itself reeks of stale air and death from
+past adventurers. There is rough engravings on the doorway.
+~
+0 4 0
+E
+doorway~
+*** NorthWest Pillar Entrance ***
+~
+D1
+~
+~
+0 0 41064
+D2
+~
+~
+0 0 41066
+S
+#41066
+NorthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41065
+D2
+~
+~
+0 0 41067
+S
+#41067
+NorthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41066
+D1
+~
+~
+0 0 41068
+S
+#41068
+NorthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D0
+~
+~
+0 0 41069
+D3
+~
+~
+0 0 41067
+S
+#41069
+NorthWest Pillar Support~
+You enter a room that is completely made of concrete. The 
+entire room is nothing but concrete for the structure support and
+by the looks of it the support will last for a very very long time.
+~
+0 4 0
+D2
+~
+~
+0 0 41068
+S
+#41070
+A Courtyard~
+The stone ground is covered with dried blood and gashes of the battles
+long past. There is a sturdy 10 foot wrought iron fence running north and
+south with no gate to the west. The doorway to the west is dark  and a 
+a rather cool breeze flows through into the Courtyard.
+~
+0 4 0
+D0
+~
+~
+0 0 41083
+D1
+~
+~
+0 0 41073
+D2
+~
+~
+0 0 41064
+D3
+~
+~
+0 0 41071
+S
+#41071
+A Side Hallway~
+A standard side hallway with tools and more scrap metal scattered all
+over the room. There is several broken tools in a barrel, none of which
+can be used for anything. The hall ends abrubtly to the north.
+~
+0 4 0
+D0
+~
+~
+0 0 41072
+D1
+~
+~
+0 0 41070
+S
+#41072
+A Side Hallway~
+The room is completely clear of any tools and scrap metal. It's as if it
+was cleaned completely. The only thing in the room is the light, which
+displays nothing out of the ordinary. 
+~
+0 4 0
+D2
+~
+~
+0 0 41071
+S
+#41073
+Center of the Courtyard~
+Standing within the courtyard with the flowers completely trampled
+there is a lone flower in the very center.  The stone path is scraped with
+gashes and blood from battles past. Every direction seems to look like
+the same as the others.
+~
+0 4 0
+D0
+~
+~
+0 0 41082
+D1
+~
+~
+0 0 41074
+D2
+~
+~
+0 0 41057
+D3
+~
+~
+0 0 41070
+S
+#41074
+A Courtyard~
+The stone ground is covered with dried blood and gashes of the battles
+long past. There is a sturdy 10 foot wrought iron fence running north and
+south with no gate to the east. The doorway to the east is dimly lit and
+a rather cool breeze flows through into the Courtyard.
+~
+0 4 0
+D0
+~
+~
+0 0 41077
+D1
+~
+~
+0 0 41075
+D2
+~
+~
+0 0 41058
+D3
+~
+~
+0 0 41073
+S
+#41075
+A Side Hallway~
+A standard side hallway with tools and more scrap metal scattered all
+over the room. There is several broken tools in a barrel, none of which
+can be used for anything. The hall ends abrubtly to the north.
+~
+0 4 0
+D0
+~
+~
+0 0 41076
+D3
+~
+~
+0 0 41074
+S
+#41076
+A Side Hallway~
+The room is completely clear of any tools and scrap metal. It's as if it
+was cleaned completely. The only thing in the room is the light, which
+displays nothing out of the ordinary. 
+~
+0 4 0
+D2
+~
+~
+0 0 41075
+S
+#41077
+A Courtyard~
+The blood stains on the stones trail to the north. There is absolutly no
+light comming from the hallway as a low growl emminates from the dark
+hall. There is a cool inviting breaze comming from the south.
+~
+0 4 0
+D0
+~
+~
+0 0 41078
+D2
+~
+~
+0 0 41074
+D3
+~
+~
+0 0 41082
+S
+#41078
+A Dark Hall~
+The hallway reeks of death and rotted flesh. The slime covered walls
+apparently haven't detered past adventurers from advancing. A low
+menacing growl echos through the hallway.
+~
+0 5 0
+D0
+~
+~
+0 0 41079
+D2
+~
+~
+0 0 41077
+S
+#41079
+A Dark Hall~
+The stench of death wafts heavily from the east. A large pool of blood
+has flown and collected in various areas of the room. The blood has 
+seeminly dried up.
+~
+0 5 0
+D1
+~
+~
+0 0 41080
+D2
+~
+~
+0 0 41078
+S
+#41080
+A Dark Hall~
+A small stream of blood flows through the room and goes west. There
+is a inhuman growl comming from the south. Slumped in the corner there
+is the skeletal remains of a dead adventurer who seems to have met an
+untimely fate. 
+~
+0 4 0
+D2
+~
+~
+0 0 41081
+D3
+~
+~
+0 0 41079
+S
+#41081
+A Dark Hall~
+Human skeletons and dried blood are abundant in this room. In the 
+corner gnawing on a bone is a vile beast about the size of a horse. It 
+turns suddenly and lunges violently at your throat.
+~
+0 5 0
+D0
+~
+~
+0 0 41080
+S
+#41082
+A Courtyard~
+The fence come to a doorway an instantly angles up and is about 15 
+feet high and looks very deadly. The ground has a bit more dried blood
+then the other parts and it seems to start at the doorway thus stating the
+awful true intended purpose for it is. The fortress ramparts loom just a
+stones throw north.
+~
+0 4 0
+D0
+~
+~
+0 0 41088
+D1
+~
+~
+0 0 41077
+D2
+~
+~
+0 0 41073
+D3
+~
+~
+0 0 41083
+S
+#41083
+A Courtyard~
+The blood stains on the stones trail to the north. There is absolutly no
+light comming from the hallway as a low growl emminates from the dark
+hall. There is a cool inviting breaze comming from the south.
+~
+0 4 0
+D0
+~
+~
+0 0 41084
+D1
+~
+~
+0 0 41082
+D2
+~
+~
+0 0 41070
+S
+#41084
+A Dark Hall~
+The hallway reeks of death and rotted flesh. The slime covered walls
+apparently haven't detered past adventurers from advancing. A low
+menacing growl echos through the hallway.
+~
+0 5 0
+D0
+~
+~
+0 0 41085
+D2
+~
+~
+0 0 41083
+S
+#41085
+A Dark Hall~
+The stench of death wafts heavily from the east. A large pool of blood
+has flown and collected in various areas of the room. The blood has 
+seeminly dried up.
+~
+0 5 0
+D2
+~
+~
+0 0 41084
+D3
+~
+~
+0 0 41086
+S
+#41086
+A Dark Hall~
+A small stream of blood flows through the room and goes west. There
+is a inhuman growl comming from the south. Slumped in the corner there
+is the skeletal remains of a dead adventurer who seems to have met an
+untimely fate. 
+~
+0 5 0
+D1
+~
+~
+0 0 41085
+D2
+~
+~
+0 0 41087
+S
+#41087
+A Dark Hall~
+Human skeletons and dried blood are abundant in this room. In the 
+corner gnawing on a bone is a vile beast about the size of a horse. It 
+turns suddenly and lunges violently at your throat.
+~
+0 5 0
+D0
+~
+~
+0 0 41086
+S
+#41088
+Approaching the Fortress~
+Approching the massive fortress the cannons on the ramparts sit unused
+since the last battle. The ramparts are covered with vines and moss, as
+are the cannonballs. There is noone watching over the lands, nor the bridge
+providing entry unnoticed.
+~
+0 4 0
+D0
+~
+~
+0 0 41089
+D2
+~
+~
+0 0 41082
+S
+#41089
+Above the Fortress~
+Shouting can be heard from down below inside the fortress. There is a
+brief hustle of movement then there is silence. To the north the hall ends
+with what looks like a staircase.
+~
+0 4 0
+D0
+~
+~
+0 0 41090
+D2
+~
+~
+0 0 41088
+S
+#41090
+Above the Fortress~
+The room is completely empty except for a staircase in the center of 
+the room. It is a solid concrete staircase about 10 feet wide obviously
+made so large objects could be transported onto the bridge.
+~
+0 4 0
+D2
+~
+~
+0 0 41089
+D5
+~
+~
+0 0 41097
+S
+#41091
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D4
+~
+~
+0 0 41001
+D5
+~
+~
+0 0 41092
+S
+#41092
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D4
+~
+~
+0 0 41091
+D5
+~
+~
+0 0 41093
+S
+#41093
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D2
+~
+~
+1 0 10630
+D4
+~
+~
+0 0 41092
+S
+#41094
+~
+~
+0 4 0
+S
+#41095
+~
+~
+0 4 0
+S
+#41096
+~
+~
+0 4 0
+S
+#41097
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D4
+~
+~
+0 0 41090
+D5
+~
+~
+0 0 41098
+S
+#41098
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D4
+~
+~
+0 0 41097
+D5
+~
+~
+0 0 41099
+S
+#41099
+On the Staircase~
+The stairs are expertly crafted and are uniformly made. The banister 
+is golden and is incased solidly into the concrete molding. It really is a
+magnificintly made staircase.
+~
+0 4 0
+D0
+~
+~
+0 0 5411
+D4
+~
+~
+0 0 41098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 41000 4 2 The up door of Digaaz's Study is closed and locked
+D 0 41000 5 2 The down door of Digaaz's Study is closed and locked
+D 0 41002 0 2 The north door of Guard's Station is closed and locked
+D 0 41003 2 2 The south door of Grand Entrance Hall is closed and locked
+D 0 41006 0 2 The north door of In Front of the Iron Door is closed and locked
+D 0 41025 2 2 The south door of Windy Corridor is closed and locked
+D 0 41093 2 1 The south door of On the Staircase is closed
+M 0 41080 1 41000 1 *Load {0A {*P{0a{*n{0d{*a{x
+E 0 41080 0 16 *A {#b{3a{#m{3b{#o{3o {#s{3t{#i{3c{#k{x is loaded wielded of {0A {*P{0a{*n{0d{*a{x
+E 0 41009 0 17 *{!t{1he {!s{1tudy {!k{1ey{x is loaded held in the hands of {0A {*P{0a{*n{0d{*a{x
+M 0 41096 1 41000 1 *Load {1Dani {*Filth{x
+M 0 41000 1 41002 1 *Load A sahuagin guard
+G 0 41010 0 *A guard station door key is given to A sahuagin guard
+E 0 41012 0 16 *A guard's sword is loaded wielded of A sahuagin guard
+M 0 41001 10 41005 1 *Load A sahuagin worker
+M 0 41004 1 41006 1 *Load A sahuagin guard
+G 0 41011 0 *A massive steel key is given to A sahuagin guard
+M 0 41001 10 41008 2 *Load A sahuagin worker
+M 0 41001 10 41011 2 *Load A sahuagin worker
+M 0 41002 2 41013 2 *Load A sahuagin worker
+M 0 41002 2 41014 2 *Load A sahuagin worker
+M 0 41001 10 41016 2 *Load A sahuagin worker
+M 0 41001 10 41019 2 *Load A sahuagin worker
+M 0 41001 10 41021 1 *Load A sahuagin worker
+M 0 41001 10 41022 1 *Load A sahuagin worker
+M 0 41003 4 41023 2 *Load A drowsy guard
+M 0 41003 4 41024 2 *Load A drowsy guard
+O 0 41013 0 41026 *A sharp iron bar loaded to Windy Corridor
+M 0 41007 5 41029 1 *Load A sahuagin metal worker
+M 0 41007 5 41030 1 *Load A sahuagin metal worker
+M 0 41007 5 41034 1 *Load A sahuagin metal worker
+M 0 41007 5 41035 1 *Load A sahuagin metal worker
+M 0 41007 5 41043 1 *Load A sahuagin metal worker
+M 0 41005 4 41046 1 *Load A sahuagin pillar worker
+M 0 41005 4 41054 1 *Load A sahuagin pillar worker
+M 0 41006 1 41056 1 *Load A sahuagin assassin
+E 0 41014 0 16 *An sahuagin dagger is loaded wielded of A sahuagin assassin
+M 0 41009 4 41058 1 *Load A sahuagin peasant
+M 0 41009 4 41064 1 *Load A sahuagin peasant
+M 0 41009 4 41077 1 *Load A sahuagin peasant
+O 0 41016 0 41080 *Remains of a fallen adventurer loaded to A Dark Hall
+P 0 41015 1 41016 1 *A blood stained ring put inside a blood stained ring
+M 0 41008 2 41081 1 *Load A sahuagin beast
+M 0 41009 4 41083 1 *Load A sahuagin peasant
+O 0 41017 0 41086 *A dismembered leg loaded to A Dark Hall
+P 0 41018 1 41017 1 *A blood stained anklet put inside a blood stained anklet
+M 0 41008 2 41087 1 *Load A sahuagin beast
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#41000
+backstab $n
+~
+#41002
+mob echo $i looks at you in extreme agony.
+say You may have gotten me but you will never retrieve that which you seek!
+mob echo {*S{0a{*d {0P{*a{0n{*d{0a {2P{@e{2t{@P{2e{@t{x vanishes before your eyes.
+mob echo $i looks to the ground in extreme concentration and snarls a muffled word.
+mob cast 'acid blast' $r
+mob echo $i mumbles a few words and morphs.
+mob purge $i
+~
+#41003
+mob mload 41052
+say flee Kalt!
+~
+#41004
+say Mord, Your death will not be in vain.
+mob bow mord
+mob cast 'teleport'
+~
+#41060
+~
+#41080
+mob echo $i listens to $n and nods.
+wave $n
+mob echo {*P{0a{*n{0d{*a{x's claw {%does {%U{@N{#S{^P{!E{^A{!K{^A{#B{@L{%E things to {6you! {3[87351 ]{x
+mob trans $n urd
+~
+#41081
+mob echo $i chews its {#B{3a{#m{3b{#o{3o {#S{3t{#i{3c{#k{x happily.
+mob echo $i smiles happily.
+~
+#41082
+mob cast 'giant strength' $n
+mob cast 'haste' $n
+mob cast 'armor' $n
+mob cast 'shield' $n
+mob cast 'heal' $n
+mob cast 'refresh' $n
+mob smile $n
+~
+#41083
+mob echo $i listens to $n and nods.
+mob echo {*P{0a{*n{0d{*a{x's claw {%does {%U{@N{#S{^P{!E{^A{!K{^A{#B{@L{%E things to {6you! {3[14951 ]{x
+mob trans $n skuld
+~
+#41084
+say no, I'm tired of taking your shit.
+say all day it's "Panda, spell me up, spell me up"
+say fuck that, how about I kill you?
+kill digaaz
+~
+#41098
+remove all
+drop all
+~
+#41099
+remove all
+drop all
+~
+#0
+
+#$

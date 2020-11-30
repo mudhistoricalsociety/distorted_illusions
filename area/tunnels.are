@@ -1,0 +1,1817 @@
+#AREADATA
+Name Tunnels~
+Builders Unlinked Bree~
+VNUMs 4500 4699
+Continent 3
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#4500
+Garvin~
+{DGa{wr{Wv{wi{Dn{X~
+{DGa{wr{Wv{wi{Dn{X is here, chanting softly.
+~
+{DGa{wr{Wv{wi{Dn{X stands roughly five feet in height, and isn't very
+large size wise. He was once lost in these tunnels, wandering around
+for close to fourty years. Now he camps near the entrance to this place
+waiting to warn those who come down, and for those who insist on
+continuing their journey here, he gives some small measure of help.
+~
+human~
+ABGa DFJZ 0 1000 0
+0 0 1d1+50000 1d1+50000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 90000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 4500 1000~
+M SPEECH 4502 no~
+M SPEECH 4501 sure~
+#4501
+lost soul~
+{DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X~
+{DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X is here, floating around.
+~
+{DThis wyvern is just floating around here, searching for
+something. It appears to have been lost down here for quite
+some time.{X
+~
+wyvern~
+AEFGT DFJPQTZ B -1000 0
+155 100 1d1+13000 1d1+7000 20d40+120 frbite
+-90 -90 -90 -90
+CFH ABL MP S
+stand stand none 14000
+ABGZ ACDEFHJKQVX medium unknown
+M FIGHT 4503 100~
+#4502
+shadow~
+a {Ds{wh{Wa{wd{Do{ww{X~
+A {Ds{wh{Wa{wd{Do{ww{X blends in with the wall here.
+~
+Almost indistinguishable from the surrounding wall, this
+shadow is creepy!
+~
+wyvern~
+AFGR DFJPQTZ BD -1000 0
+150 100 1d1+11000 1d1+5000 25d42+130 flbite
+-90 -90 -90 -90
+CFHJK ABLP H S
+stand stand none 20000
+ABGZ ACDEFHJKQVX medium unknown
+M GRALL 4505 1000~
+M RANDOM 4504 100~
+#4503
+wyvern~
+a {Dw{wy{Wv{we{Dr{wn{X~
+A {Dw{wy{Wv{we{Dr{wn{X is here, looking your way.
+~
+There's nothing to see! You can see straight through his body and
+see the wall behind him!
+~
+wyvern~
+AFGQ DFJPQTZ B -1000 0
+155 125 1d1+14500 1d1+5000 20d40+100 flash
+-90 -90 -90 -90
+CDEFGH ALP 0 S
+stand stand none 10000
+ABGZ ACDEFHJKQVX medium unknown
+#4504
+Rytol~
+Rytol~
+Rytol the {Dde{wm{Wo{wn {Dha{wn{Wd{wle{Dr{X is here
+~
+Rytol stands about six feet in height, with long, jet black hair
+hanging down to his waist. He is the famed demon handler, one of the
+few mortals who has an unatural control over various demons.
+~
+human~
+ABG 0 0 0 0
+0 0 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4500
+gift light gem pulsating~
+a {Dpu{wls{Wat{win{Dg{X {#gem{X~
+A small, {Dpu{wls{Wat{win{Dg{X object lies on the ground here.~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 1 50000 P
+A
+13 100
+A
+9 8
+A
+18 12
+#4501
+Map of the first level~
+map of the {DFi{wrs{Wt L{wev{Del{X~
+A map lies here, gathering dust~
+unknown~
+map 0 A
+0 0 0 0 0
+0 0 0 P
+E
+map~
+|
+            |
+           -|-------
+            |      |
+            |      |
+            |      |
+            |      |
+            |      -
+   ---------|
+     |        |
+     |        |
+     |        |
+     |________|
+              |
+              |
+              |--------
+              |        |
+              |        |
+              |        |
+              |________|
+~
+#0
+
+
+
+#ROOMS
+#4500
+A {2Forest{X {3P{8at{3h{X~
+Entrance to the Tunnels area, continent #3
+~
+0 4 3
+D0
+~
+~
+0 0 4501
+D2
+~
+~
+0 0 5821
+S
+#4501
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4500
+S
+#4502
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4503
+D2
+~
+~
+0 0 4501
+S
+#4503
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4504
+D2
+~
+~
+0 0 4502
+S
+#4504
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4503
+S
+#4505
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4506
+D2
+~
+~
+0 0 4504
+S
+#4506
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D2
+~
+~
+0 0 4505
+D5
+~
+~
+0 0 4507
+S
+#4507
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+This tunnel is very close quarters, and smells of mold and just
+general dankness. The walls are made of stone, as is the dust
+covered floor.
+~
+0 0 0
+D4
+~
+~
+0 0 4506
+D5
+~
+~
+0 0 4508
+S
+#4508
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+This tunnel is very close quarters, and smells of mold and just
+general dankness. The walls are made of stone, as is the dust
+covered floor.
+~
+0 0 0
+D4
+~
+~
+0 0 4507
+D5
+~
+~
+0 0 4509
+S
+#4509
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+This tunnel is very close quarters, and smells of mold and just
+general dankness. The walls are made of stone, as is the dust
+covered floor.
+~
+0 8192 0
+D2
+~
+~
+0 0 4510
+D4
+~
+~
+0 0 4508
+S
+#4510
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+This tunnel is very close quarters, and smells of mold and just
+general dankness. The walls are made of stone, as is the dust
+covered floor.
+~
+0 8192 0
+D0
+~
+~
+0 0 4509
+D2
+~
+~
+0 0 4511
+S
+#4511
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+An intersection begs for attention. To the west, the path appears to stop,
+and a man is evident. The east passage is completely dark, as is the
+southern one. To the north, a small glimmer of {#light{X can be seen.
+~
+0 8192 0
+D0
+~
+~
+0 0 4510
+D1
+~
+~
+0 0 4513
+D2
+~
+~
+0 0 4521
+D3
+~
+~
+0 0 4512
+S
+#4512
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4511
+S
+#4513
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4514
+D3
+~
+~
+0 0 4511
+S
+#4514
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4515
+D3
+~
+~
+0 0 4513
+S
+#4515
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4514
+D2
+~
+~
+0 0 4516
+S
+#4516
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4515
+D5
+~
+~
+0 0 4517
+S
+#4517
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8196 0
+D4
+~
+~
+0 0 4516
+D5
+~
+~
+0 0 4518
+S
+#4518
+{1Be{Dgi{wni{Wng {wof {Dth{1e {DLo{wwe{Wr L{wev{De{1ls{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4519
+D4
+~
+~
+0 0 4517
+S
+#4519
+{1Be{Dgi{wni{Wng {wof {Dth{1e {DLo{wwe{Wr L{wev{De{1ls{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4520
+D2
+~
+~
+0 0 4518
+S
+#4520
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4547
+D2
+~
+~
+0 0 4519
+S
+#4521
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4511
+D2
+~
+~
+0 0 4522
+S
+#4522
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4521
+D2
+~
+~
+0 0 4523
+S
+#4523
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4522
+D2
+~
+~
+0 0 4525
+D3
+~
+~
+0 0 4524
+S
+#4524
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4523
+D3
+~
+~
+0 0 4526
+S
+#4525
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4523
+D2
+~
+~
+0 0 4535
+D3
+~
+~
+0 0 4534
+S
+#4526
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4524
+D3
+~
+~
+0 0 4527
+S
+#4527
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4528
+D1
+~
+~
+0 0 4526
+S
+#4528
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4529
+D2
+~
+~
+0 0 4527
+S
+#4529
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4528
+D3
+~
+~
+0 0 4530
+S
+#4530
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4529
+D3
+~
+~
+0 0 4531
+S
+#4531
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 0 0
+D1
+~
+~
+0 0 4530
+D2
+~
+~
+0 0 4532
+S
+#4532
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4531
+D2
+~
+~
+0 0 4533
+S
+#4533
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4532
+D2
+~
+~
+0 0 4534
+S
+#4534
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4533
+D1
+~
+~
+0 0 4525
+S
+#4535
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4525
+D2
+~
+~
+0 0 4536
+S
+#4536
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4535
+D1
+~
+~
+0 0 4537
+D2
+~
+~
+0 0 4538
+S
+#4537
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4540
+D3
+~
+~
+0 0 4536
+S
+#4538
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4536
+D2
+~
+~
+0 0 4539
+S
+#4539
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4538
+D1
+~
+~
+0 0 4546
+S
+#4540
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4541
+D3
+~
+~
+0 0 4537
+S
+#4541
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4542
+D3
+~
+~
+0 0 4540
+S
+#4542
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4543
+D3
+~
+~
+0 0 4541
+S
+#4543
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4542
+D2
+~
+~
+0 0 4544
+S
+#4544
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4543
+D3
+~
+~
+0 0 4545
+S
+#4545
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4544
+D3
+~
+~
+0 0 4546
+S
+#4546
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4545
+D3
+~
+~
+0 0 4539
+S
+#4547
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4551
+D1
+~
+~
+0 0 4548
+D2
+~
+~
+0 0 4520
+S
+#4548
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4549
+D3
+~
+~
+0 0 4547
+S
+#4549
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4550
+D3
+~
+~
+0 0 4548
+S
+#4550
+{DGa{wr{Wb{wo{Dk'{ws{X {DE{wn{Wd{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4549
+S
+#4551
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4552
+D2
+~
+~
+0 0 4547
+S
+#4552
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4553
+D2
+~
+~
+0 0 4551
+S
+#4553
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4554
+D2
+~
+~
+0 0 4552
+D3
+~
+~
+0 0 4560
+S
+#4554
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4555
+D2
+~
+~
+0 0 4553
+S
+#4555
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4556
+D2
+~
+~
+0 0 4554
+S
+#4556
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4555
+D3
+~
+~
+0 0 4557
+S
+#4557
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4556
+D3
+~
+~
+0 0 4558
+S
+#4558
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4559
+D1
+~
+~
+0 0 4557
+S
+#4559
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4558
+S
+#4560
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4553
+D3
+~
+~
+0 0 4561
+S
+#4561
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4560
+D3
+~
+~
+0 0 4562
+S
+#4562
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4561
+D3
+~
+~
+0 0 4563
+S
+#4563
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4562
+D2
+~
+~
+0 0 4564
+S
+#4564
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4563
+D2
+~
+~
+0 0 4565
+S
+#4565
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4564
+D2
+~
+~
+0 0 4581
+D3
+~
+~
+0 0 4566
+S
+#4566
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4565
+D3
+~
+~
+0 0 4567
+S
+#4567
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4566
+D3
+~
+~
+0 0 4568
+S
+#4568
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4567
+D3
+~
+~
+0 0 4569
+S
+#4569
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4570
+D1
+~
+~
+0 0 4568
+D3
+~
+~
+0 0 4575
+S
+#4570
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4571
+D2
+~
+~
+0 0 4569
+S
+#4571
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4572
+D2
+~
+~
+0 0 4570
+S
+#4572
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4571
+D3
+~
+~
+0 0 4573
+S
+#4573
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4574
+D1
+~
+~
+0 0 4572
+S
+#4574
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4573
+S
+#4575
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4569
+D3
+~
+~
+0 0 4576
+S
+#4576
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4575
+D3
+~
+~
+0 0 4577
+S
+#4577
+{DT{wh{We {wW{Des{wt P{Was{Dsa{wge{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4576
+D2
+~
+~
+0 0 4578
+S
+#4578
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4577
+D2
+~
+~
+0 0 4579
+S
+#4579
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4578
+D3
+~
+~
+0 0 4580
+S
+#4580
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4579
+S
+#4581
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4565
+D2
+~
+~
+0 0 4582
+S
+#4582
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4581
+D2
+~
+~
+0 0 4583
+S
+#4583
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4582
+D2
+~
+~
+0 0 4584
+S
+#4584
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4583
+D1
+~
+~
+0 0 4585
+D2
+~
+~
+0 0 4590
+S
+#4585
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4586
+D3
+~
+~
+0 0 4584
+S
+#4586
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4587
+D3
+~
+~
+0 0 4585
+S
+#4587
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4586
+D2
+~
+~
+0 0 4588
+S
+#4588
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4587
+D5
+~
+~
+0 0 4589
+S
+#4589
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 0 0
+D4
+~
+~
+0 0 4588
+D5
+~
+~
+0 0 4599
+S
+#4590
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4584
+D2
+~
+~
+0 0 4591
+S
+#4591
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4590
+D2
+~
+~
+0 0 4598
+D3
+~
+~
+0 0 4592
+S
+#4592
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4591
+D3
+~
+~
+0 0 4593
+S
+#4593
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4592
+D2
+~
+~
+0 0 4594
+S
+#4594
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4593
+D2
+~
+~
+0 0 4595
+S
+#4595
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4594
+D1
+~
+~
+0 0 4596
+S
+#4596
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4597
+D3
+~
+~
+0 0 4595
+S
+#4597
+{DTh{we{X {DLo{wwe{Wr{X {DL{wev{We{wl{Ds{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4598
+D3
+~
+~
+0 0 4596
+S
+#4598
+{DT{wh{We {wN{Dor{wth P{Was{Dsa{wge{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4591
+D3
+~
+~
+0 0 4597
+S
+#4599
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4600
+D4
+~
+~
+0 0 4589
+S
+#4600
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4599
+D2
+~
+~
+0 0 4601
+S
+#4601
+SOUTH HERE~
+~
+0 8192 0
+D0
+~
+~
+0 0 4600
+D1
+~
+~
+0 0 4602
+D3
+~
+~
+0 0 4616
+S
+#4602
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4603
+D3
+~
+~
+0 0 4601
+S
+#4603
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4604
+D3
+~
+~
+0 0 4602
+S
+#4604
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4605
+D3
+~
+~
+0 0 4603
+S
+#4605
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4606
+D2
+~
+~
+0 0 4604
+S
+#4606
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4607
+D2
+~
+~
+0 0 4605
+S
+#4607
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4606
+D3
+~
+~
+0 0 4608
+S
+#4608
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4607
+D3
+~
+~
+0 0 4609
+S
+#4609
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4608
+D3
+~
+~
+0 0 4610
+S
+#4610
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4609
+D3
+~
+~
+0 0 4611
+S
+#4611
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4610
+D2
+~
+~
+0 0 4612
+S
+#4612
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4611
+D2
+~
+~
+0 0 4613
+S
+#4613
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4612
+D2
+~
+~
+0 0 4614
+S
+#4614
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4613
+D2
+~
+~
+0 0 4615
+S
+#4615
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4614
+D2
+~
+~
+0 0 4618
+S
+#4616
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4601
+D3
+~
+~
+0 0 4617
+S
+#4617
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4618
+S
+#4618
+{DTh{we {WDa{wrk{Dne{wss{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4615
+D1
+~
+~
+0 0 4617
+S
+#0
+
+
+
+#SPECIALS
+M 4501 spec_cast_mage Load to: {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X
+M 4502 spec_cast_mage Load to: a {Ds{wh{Wa{wd{Do{ww{X
+M 4503 spec_cast_cleric Load to: a {Dw{wy{Wv{we{Dr{wn{X
+S
+
+
+
+#RESETS
+M 0 4503 4 4510 4 *Load a {Dw{wy{Wv{we{Dr{wn{X
+M 0 4501 4 4511 5 *Load {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X
+M 0 4500 1 4512 1 *Load {DGa{wr{Wv{wi{Dn{X
+M 0 4502 4 4513 4 *Load a {Ds{wh{Wa{wd{Do{ww{X
+M 0 4503 4 4513 4 *Load a {Dw{wy{Wv{we{Dr{wn{X
+M 0 4502 4 4514 4 *Load a {Ds{wh{Wa{wd{Do{ww{X
+M 0 4502 4 4515 4 *Load a {Ds{wh{Wa{wd{Do{ww{X
+M 0 4502 4 4516 4 *Load a {Ds{wh{Wa{wd{Do{ww{X
+M 0 4503 4 4521 4 *Load a {Dw{wy{Wv{we{Dr{wn{X
+M 0 4501 4 4522 5 *Load {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X
+M 0 4501 4 4523 5 *Load {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X
+M 0 4503 4 4525 4 *Load a {Dw{wy{Wv{we{Dr{wn{X
+M 0 4501 4 4526 5 *Load {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wu{Wl{X
+M 0 4504 1 4544 1 *Load Rytol
+S
+
+
+
+#SHOPS
+4504 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#4500
+say Hello there, stay a while and talk with me.
+~
+#4501
+say This is a dangerous place you wandered into. I was lost near fourty years down here.
+say I just found my way out not long ago. I beg you to reconsider your path.
+~
+#4502
+if carries $n pulsating
+say Ah, one of your party already carries my gift. Godspeed!
+else
+if wears $n pulsating
+say Ah, one of your party already carries my gift. Godspeed!
+else
+mob oload 4500
+give gift $n
+say Then may this aid you on your journey! Good luck!
+~
+#4503
+mob remember $r
+mob echoat $q {DA{X {DL{wo{Ws{Dt{X {DS{wo{Wul{X jumps on you and draw the life from you!
+mob damage $q 1500 3000 lethal
+mob forget
+~
+#4504
+~
+#4505
+mob remember $n
+~
+#0
+
+#$

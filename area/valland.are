@@ -1,0 +1,1821 @@
+#AREADATA
+Name Valland~
+Builders Unlinked~
+VNUMs 17000 17273
+Continent 0
+Credits Snaek~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#17000
+The Inner Cloister~
+You stand at the heart of the temple of Valland.  The stone walls of this
+chamber arch upwards, with each cardinal direction depicting a seperate
+type of scene on the walls.  To the north the directions seems to be dark
+and uncertain.  To the east, strange machinations line the walls.  To the south,
+the hallway is giving a pulsing glow, off the marble walls.  To the west,
+blood and gore ooze from orafaces on the crimson walls.
+~
+0 8 0
+D0
+~
+~
+0 0 17012
+D1
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17027
+D3
+~
+~
+0 0 17003
+S
+#17002
+Falling through Time and Space~
+As your body is plunged into darkness, you get the feeling of falling downward.
+although there is only darkness around you, your body seems as visible
+as if under the Afternoon Sun.
+~
+0 1 9
+D5
+~
+~
+0 0 17000
+S
+#17003
+The Path of {!Violence{x~
+Blood and Gore pour from orafaces shaped like the faces of men.  A strange
+mural dipicts the Violent and dangerous ways of men.  You can continue west
+along the path of Violence, or head east towards the Inner Cloister.
+~
+0 8 0
+D1
+~
+~
+0 0 17000
+D3
+~
+~
+0 0 17017
+S
+#17004
+The Path of {^Diplomacy{x~
+Steel plates line the walls, and strange gauges are attached to various
+pipes.  A Mural is here depicting the accomplishments of Law, and treaty
+over brute force.  To the west lies the Inner Cloister.  To the east
+is an Azure Gate.
+~
+0 8 0
+D1
+~
+~
+0 0 17005
+D3
+~
+~
+0 0 17000
+S
+#17005
+Along the Outer Cloister, before the Gate of {^Diplomacy{X~
+As you gaze to the east, a Utopia of Technology lies before you.  A vast
+ocean is crossed with the aid of strage floating Docks that appear to 
+shift and change with the tide.  The Outer Cloister runs to the north and 
+south.  To the west is the Path of Diplomacy.
+~
+0 8 0
+D0
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17026
+D3
+~
+~
+0 0 17004
+S
+#17006
+The Outer Cloister~
+This plain stone hallway runs north and South.  To the south you see an 
+Azure gate.
+~
+0 8 0
+D0
+~
+~
+0 0 17007
+D2
+~
+~
+0 0 17005
+S
+#17007
+The Outer Cloister~
+This plain stone hallway runs north and South.  To the north you see a bend 
+in the hallway.
+~
+0 8 0
+D0
+~
+~
+0 0 17008
+D2
+~
+~
+0 0 17006
+S
+#17008
+A Bend in the Outer Cloister~
+This plain stone hallway runs south, and to the west.
+~
+0 8 0
+D2
+~
+~
+0 0 17007
+D3
+~
+~
+0 0 17009
+S
+#17009
+The Outer Cloister~
+This plain stone hallway runs east and west, to the west you see a black Gate.
+To the east you see a bend in the Hallway.
+~
+0 8 0
+D1
+~
+~
+0 0 17008
+D3
+~
+~
+0 0 17010
+S
+#17010
+Along the Outer Cloister, before the Gate of the {8Wicked{x~
+as you gaze to the North, the night sky, stretches along the Horizon.  
+a black forrest fills your vision.  To the east and west the Outer Cloister
+continues.  To the south begains the Path of the Wicked.
+~
+0 8 0
+D0
+~
+~
+0 0 17221
+D1
+~
+~
+0 0 17009
+D2
+~
+~
+0 0 17011
+D3
+~
+~
+0 0 17013
+S
+#17011
+Path of the {8Wicked{x~
+Although torches line the walls, the black pitch of the walls make the
+strange carvings appear almost non-existant.  The Mural depicts the
+horror and injustice that Mankind has inflicted upon itself.  To the north 
+is a large black gate. to the south the Path continues.
+~
+0 8 0
+D0
+~
+~
+0 0 17010
+D2
+~
+~
+0 0 17012
+S
+#17012
+Path of the {8Wicked{x~
+Although torches line the walls, the black pitch of the walls make the
+strange carvings appear almost non-existant.  The Mural depicts the
+horror and injustice that Mankind has inflicted upon itself.  To the north 
+the Path continues.  To the south is the Inner Cloister.
+~
+0 8 0
+D0
+~
+~
+0 0 17011
+D2
+~
+~
+0 0 17000
+S
+#17013
+The Outer Cloister~
+This plain stone hallway runs east and west.  To the west you see a bend
+in the Hallway.  To the east you see what appears to be a large black gate.
+~
+0 0 0
+D1
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 17014
+S
+#17014
+A Bend in the Outer Cloister~
+This plain stone hallway runs south, and to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 17013
+D2
+~
+~
+0 0 17015
+S
+#17015
+The Outer Cloister~
+This plain stone hallway runs north and south.  To the north you see a bend
+in the Hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 17014
+D2
+~
+~
+0 0 17016
+S
+#17016
+The Outer Cloister~
+This plain stone hallway runs north and south.  To the south you see a 
+Crimson gate. 
+~
+0 8 0
+D0
+~
+~
+0 0 17015
+D2
+~
+~
+0 0 17017
+S
+#17017
+Along the Outer Cloister, before the Gate of {!Violence{X~
+As you approach the crimson gate, you catch a glimpse of what lies beyond.
+A constant battle appears to be waging, in a vast desert, scattered rocky cliffs
+mar what lies further to the west.  Far to the east lies the Inner Cloister. 
+To the north and south the Outer Cloister continues.
+~
+0 8 0
+D0
+~
+~
+0 0 17016
+D1
+~
+~
+0 0 17003
+D2
+~
+~
+0 0 17018
+S
+#17018
+The Outer Cloister~
+This plain stone hallway runs north and south.  To the north is a Crimson gate.
+~
+0 8 0
+D0
+~
+~
+0 0 17017
+D2
+~
+~
+0 0 17019
+S
+#17019
+The Outer Cloister~
+This plain stone hallway runs north and south.  To the south is a bend in
+the hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 17018
+D2
+~
+~
+0 0 17020
+S
+#17020
+A Bend in the Outer Cloister~
+This plain stone hallway runs north, and to the east.
+~
+0 8 0
+D0
+~
+~
+0 0 17019
+D1
+~
+~
+0 0 17021
+S
+#17021
+The Outer Cloister~
+This plain stone hallway runs east and west.  To the west you see a bend
+in the hallway.  To the east you see a Pearl gate.
+~
+0 8 0
+D1
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17020
+S
+#17022
+Along the Outer Cloister, before the Gate of the {&Righteous{x~
+As you gaze to the south, A vast treeline encompasses your vision.  Teeming
+with life, and cant see an end to the Vegetation.  Off in the distance you
+see a huge white Mesa reaching to the heavans.  The Outer Cloister runs
+east and west.  To the North is the Path of the Righteous.
+~
+0 8 0
+D0
+~
+~
+0 0 17028
+D1
+~
+~
+0 0 17023
+D2
+~
+~
+0 0 17029
+D3
+~
+~
+0 0 17021
+S
+#17023
+The Outer Cloister~
+This plain stone hallway runs east and west.  To the west Lies a Pearl Gate.
+to the east is a bend in the Hallway.
+~
+0 8 0
+D1
+~
+~
+0 0 17024
+D3
+~
+~
+0 0 17022
+S
+#17024
+A Bend in the Outer Cloister~
+This plain stone hallway runs north, and to the west.
+~
+0 8 0
+D0
+~
+~
+0 0 17025
+D3
+~
+~
+0 0 17023
+S
+#17025
+The Outer Cloister~
+This plain stone hallway runs north and south, to the south you see a bend
+in the Hallway.
+~
+0 8 0
+D0
+~
+~
+0 0 17026
+D2
+~
+~
+0 0 17024
+S
+#17026
+The Outer Cloister~
+This plain stone hallway runs north and south, to the north you see an Azure Gate.
+~
+0 8 0
+D0
+~
+~
+0 0 17005
+D2
+~
+~
+0 0 17025
+S
+#17027
+Path of the {&Righteous{x~
+A soft white light emites from the Marble walls.  Smooth and seemles, the 
+texture of the wall clearly shows the Mural illustrating the Various acts of
+Heroism and bravery that mankind has achieved throughout time.  To the north
+is the Inner Cloister.  To the south the Path of the Righteous continues.
+~
+0 8 0
+D0
+~
+~
+0 0 17000
+D2
+~
+~
+0 0 17028
+S
+#17028
+Path of the {&Righteous{x~
+A soft white light emites from the Marble walls.  Smooth and seemles, the 
+texture of the wall clearly shows the Mural illustrating the Various acts of
+Heroism and bravery that mankind has achieved throughout time.  To the north
+The Path Continues, to the south you see a Pearl Gate.
+~
+0 8 0
+D0
+~
+~
+0 0 17027
+D2
+~
+~
+0 0 17022
+S
+#17029
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17030
+S
+#17030
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17029
+D3
+~
+~
+0 0 17031
+S
+#17031
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17030
+D2
+~
+~
+0 0 17032
+S
+#17032
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17031
+D3
+~
+~
+0 0 17033
+S
+#17033
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17032
+D2
+~
+~
+0 0 17034
+S
+#17034
+{@A {@C{2learing {@i{2n {@T{2he {@J{2ungle{x ~
+~
+0 0 0
+D0
+~
+~
+0 0 17033
+D2
+~
+~
+0 0 6011
+D3
+~
+~
+0 0 17035
+S
+#17035
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17036
+D1
+~
+~
+0 0 17034
+S
+#17036
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D2
+~
+~
+0 0 17035
+D3
+~
+~
+0 0 17037
+S
+#17037
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17036
+D3
+~
+~
+0 0 17039
+S
+#17039
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17037
+D2
+~
+~
+0 0 17040
+S
+#17040
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17039
+D2
+~
+~
+0 0 17041
+S
+#17041
+{@A {@C{2learing {@i{2n {@T{2he {@J{2ungle{x ~
+~
+0 0 0
+D0
+~
+~
+0 0 17040
+D2
+~
+~
+0 0 17042
+D3
+~
+~
+0 0 6014
+S
+#17042
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17041
+D2
+~
+~
+0 0 17043
+S
+#17043
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17042
+D3
+~
+~
+0 0 17044
+S
+#17044
+{@T{2he {@E{2uphrates {@J{2ungle{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17043
+D3
+~
+~
+0 0 17045
+S
+#17045
+{@A{2pproaching {@T{2he {@R{2uins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17044
+D2
+~
+~
+0 0 17046
+S
+#17046
+{@B{2efore {@T{2he {@T{2emple {@G{2ate{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17045
+D4
+~
+~
+0 0 17047
+S
+#17047
+Inside The {1R{3o{!h{#a{1k{3u{x {$Ruins{X~
+~
+0 0 0
+D1
+~
+~
+0 0 17052
+D5
+~
+~
+0 0 17046
+S
+#17052
+A Hallway in The {1R{3o{!h{#a{1k{3u{x {$Ruins{X~
+~
+0 0 0
+D1
+~
+~
+0 0 17053
+D3
+~
+~
+0 0 17047
+S
+#17053
+A Hallway in The {1R{3o{!h{#a{1k{3u{x {$Ruins{X~
+~
+0 0 0
+D1
+~
+~
+0 0 17054
+D3
+~
+~
+0 0 17052
+S
+#17054
+A Bend in the Hallway ~
+~
+0 0 0
+D2
+~
+~
+0 0 17055
+D3
+~
+~
+0 0 17053
+S
+#17055
+A Hallway in The {1R{3o{!h{#a{1k{3u{x {$Ruins{X~
+~
+0 0 0
+D0
+~
+~
+0 0 17054
+D2
+~
+~
+0 0 17056
+D3
+~
+~
+0 0 1018
+S
+#17056
+A Hallway in The {1R{3o{!h{#a{1k{3u{x {$Ruins{X~
+~
+0 0 0
+D0
+~
+~
+0 0 17055
+D2
+~
+~
+0 0 17057
+S
+#17057
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17056
+D2
+~
+~
+0 0 17058
+S
+#17058
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17057
+D2
+~
+~
+0 0 17059
+S
+#17059
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17058
+D2
+~
+~
+0 0 17060
+S
+#17060
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17059
+D2
+~
+~
+0 0 17061
+S
+#17061
+A Bend in the Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17060
+D3
+~
+~
+0 0 17062
+S
+#17062
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17061
+D3
+~
+~
+0 0 17063
+S
+#17063
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17062
+D3
+~
+~
+0 0 17064
+S
+#17064
+Before The Grand Gate in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17065
+D1
+~
+~
+0 0 17063
+D3
+~
+~
+0 0 17075
+S
+#17065
+Through The Gate.~
+~
+0 0 0
+D0
+~
+~
+0 0 17066
+D2
+~
+~
+0 0 17064
+D3
+~
+~
+0 0 1013
+S
+#17066
+Into The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17071
+D1
+~
+~
+0 0 17067
+D2
+~
+~
+0 0 17065
+D3
+~
+~
+0 0 17074
+S
+#17067
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17068
+D3
+~
+~
+0 0 17066
+S
+#17068
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17069
+D2
+~
+~
+0 0 17067
+D3
+~
+~
+0 0 17071
+S
+#17069
+The {1R{3o{!h{#a{1k{3u {$Sauna{x~
+~
+0 0 0
+D2
+~
+~
+0 0 17068
+D3
+~
+~
+0 0 17070
+S
+#17070
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17069
+D2
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17072
+S
+#17071
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17070
+D1
+~
+~
+0 0 17068
+D2
+~
+~
+0 0 17066
+D3
+~
+~
+0 0 17073
+S
+#17072
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17070
+D2
+~
+~
+0 0 17073
+S
+#17073
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17072
+D1
+~
+~
+0 0 17071
+D2
+~
+~
+0 0 17074
+S
+#17074
+The {1R{3o{!h{#a{1k{3u {$Dojo{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17073
+D1
+~
+~
+0 0 17066
+S
+#17075
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17064
+D3
+~
+~
+0 0 17076
+S
+#17076
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17075
+D3
+~
+~
+0 0 17077
+S
+#17077
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17076
+D3
+~
+~
+0 0 17078
+S
+#17078
+A Hallway in The {1R{3o{!h{#a{1k{3u {$Ruins{x~
+~
+0 0 0
+D1
+~
+~
+0 0 17077
+D3
+~
+~
+0 0 17079
+S
+#17079
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17078
+S
+#17221
+{8Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17222
+D2
+~
+~
+0 0 17010
+S
+#17222
+{8Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17224
+D2
+~
+~
+0 0 17221
+S
+#17223
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17225
+D1
+~
+~
+0 0 17224
+S
+#17224
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17264
+D2
+~
+~
+0 0 17222
+D3
+~
+~
+0 0 17223
+S
+#17225
+{*Bleak Woods{x~
+~
+0 0 3
+D2
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17226
+S
+#17226
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17227
+D1
+~
+~
+0 0 17225
+S
+#17227
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17229
+D2
+~
+~
+0 0 17226
+S
+#17228
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17231
+D1
+~
+~
+0 0 17229
+S
+#17229
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17230
+D2
+~
+~
+0 0 17227
+D3
+~
+~
+0 0 17228
+S
+#17230
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17232
+D1
+~
+~
+0 0 17263
+D2
+~
+~
+0 0 17229
+D3
+~
+~
+0 0 17231
+S
+#17231
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17230
+D2
+~
+~
+0 0 17228
+S
+#17232
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17233
+D2
+~
+~
+0 0 17230
+S
+#17233
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17234
+D2
+~
+~
+0 0 17232
+S
+#17234
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17235
+D3
+~
+~
+0 0 17233
+S
+#17235
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17236
+D3
+~
+~
+0 0 17234
+S
+#17236
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17237
+D2
+~
+~
+0 0 17235
+S
+#17237
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17239
+D3
+~
+~
+0 0 17236
+S
+#17239
+{*Bleak Woods{x~
+~
+0 0 3
+D2
+~
+~
+0 0 17240
+D3
+~
+~
+0 0 17237
+S
+#17240
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17239
+D1
+~
+~
+0 0 17241
+D2
+~
+~
+0 0 17259
+S
+#17241
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17242
+D3
+~
+~
+0 0 17240
+S
+#17242
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17243
+D2
+~
+~
+0 0 17273
+D3
+~
+~
+0 0 17241
+S
+#17243
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17244
+D3
+~
+~
+0 0 17242
+S
+#17244
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17245
+D3
+~
+~
+0 0 17243
+S
+#17245
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17246
+D2
+~
+~
+0 0 17244
+S
+#17246
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17247
+D3
+~
+~
+0 0 17245
+S
+#17247
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17248
+D3
+~
+~
+0 0 17246
+S
+#17248
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17249
+D2
+~
+~
+0 0 17247
+S
+#17249
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17250
+D2
+~
+~
+0 0 17248
+S
+#17250
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17251
+D3
+~
+~
+0 0 17249
+S
+#17251
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17252
+D3
+~
+~
+0 0 17250
+S
+#17252
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17253
+D3
+~
+~
+0 0 17251
+S
+#17253
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17254
+D3
+~
+~
+0 0 17252
+S
+#17254
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17255
+D2
+~
+~
+0 0 17253
+S
+#17255
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17256
+D2
+~
+~
+0 0 17254
+S
+#17256
+{*Bleak Woods{x~
+~
+0 0 3
+D2
+~
+~
+0 0 17255
+D3
+~
+~
+0 0 17257
+S
+#17257
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17256
+S
+#17259
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17240
+D2
+~
+~
+0 0 17260
+S
+#17260
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17259
+D3
+~
+~
+0 0 17261
+S
+#17261
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17260
+D3
+~
+~
+0 0 17262
+S
+#17262
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17261
+D3
+~
+~
+0 0 17263
+S
+#17263
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17262
+D3
+~
+~
+0 0 17230
+S
+#17264
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17265
+D3
+~
+~
+0 0 17224
+S
+#17265
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17267
+D3
+~
+~
+0 0 17264
+S
+#17267
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17268
+D2
+~
+~
+0 0 17265
+S
+#17268
+{*Bleak Woods{x~
+~
+0 0 3
+D1
+~
+~
+0 0 17269
+D3
+~
+~
+0 0 17267
+S
+#17269
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17270
+D3
+~
+~
+0 0 17268
+S
+#17270
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17271
+D2
+~
+~
+0 0 17269
+S
+#17271
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17272
+D2
+~
+~
+0 0 17270
+S
+#17272
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17273
+D2
+~
+~
+0 0 17271
+S
+#17273
+{*Bleak Woods{x~
+~
+0 0 3
+D0
+~
+~
+0 0 17242
+D2
+~
+~
+0 0 17272
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

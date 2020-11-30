@@ -1,0 +1,1754 @@
+#AREADATA
+Name Quest Land~
+Builders Unlinked Bree Zyx~
+VNUMs 38000 38999
+Continent 1
+Credits Ishamael Bree~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#38100
+poker chicken~
+a poker chiken~
+A poker chicken
+~
+~
+human~
+AG 0 0 0 0
+1 0 1d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38800
+troll scout~
+a troll scout~
+A troll snarls as he scans the area.
+~
+~
+troll~
+ABF DFJVc 0 0 0
+105 200 1d1+25000 0d0+0 12d45+100 pound
+-10 -10 -10 -10
+CDEFHK 0 BE HK
+stand stand none 50000
+ABHMV ABCDEFGHIJKUV large unknown
+#38801
+troll leader~
+a troll scout master~
+A large troll directs the other trolls around him.
+~
+~
+troll~
+ABa DFJPc 0 0 0
+100 200 1d1+45000 0d0+0 10d55+100 pound
+-70 -70 -70 -70
+CDE 0 BE HK
+stand stand none 50000
+ABHMV ABCDEFGHIJKUV large unknown
+#38802
+troll shaman~
+a troll shaman~
+A gnarled old troll stands here hunched over.
+~
+~
+troll~
+ABS DFJPc 0 0 0
+150 0 1d1+45000 0d0+0 10d21+50 drain
+0 0 0 0
+D C BE HK
+stand stand none 50000
+ABHMV ABCDEFGHIJKUV medium unknown
+M ACT 38800 leaves~
+M DELAY 38801 100~
+#38804
+algorath weaponsmith smith~
+Algorath~
+Algorath, barterer of weapons stands here.
+~
+~
+human~
+A DEFJ 0 0 0
+150 0 25d25+1000 10d10+100 25d25+100 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOQRSTXYZ 0 P
+stand stand none 10000000
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38805
+kalrag armor shop smith~
+Kalrag~
+Kalrag, master armor-smith of all the lands stands here.
+~
+~
+human~
+A 0 0 0 0
+150 0 10d10+10 10d10+10 10d10+10 none
+-50 -50 -50 -50
+0 BCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38806
+syskil pawn shop~
+Syskil~
+Syskil, pawn shop master stands here waiting.
+~
+~
+human~
+A 0 0 0 0
+150 0 1d1+0 1d1+0 1d1+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38807
+master assassin~
+a master assassin~
+A lone assassin stands in the shadows idly flicking his dagger.
+~
+~
+human~
+A V 0 0 0
+150 10 1d1+10000 0d0+0 1d1+10 pierce
+0 0 0 0
+HK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38808
+master assassin apprentice~
+another assassin~
+Another assassin stands here.  woopde doo!
+~
+~
+human~
+A V 0 0 0
+100 10 1d1+10000 0d0+0 1d1+10 pierce
+0 0 0 0
+HK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38809
+tank~
+tank~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+40 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38810
+black falcon atlanta~
+a black falcon~
+A black falcon struggles to fly in the wind.
+~
+~
+human~
+A 0 0 0 0
+3000 0 1d1+50 0d0+0 1d1+10 none
+0 0 0 0
+0 AB A 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#38811
+sammael forsaken hope~
+Sammael~
+The Destroyer of Hope stands here.
+~
+~
+human~
+ABFGRS DFJTV 0 -1000 0
+170 500 1d1+150000 110d10+100 950d10+100 bite
+-100 -85 -85 -85
+AEFGHK ACIJ ACDEMZ H
+stand stand male 80000
+I ABCDEFGHIJK medium unknown
+F for AHMV
+#0
+
+
+
+#OBJECTS
+#38000
+Duece of spades~
+duece of spades~
+The Duece of spades lies here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 0 0 P
+#38001
+three of spades~
+three of spades~
+Three of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 0 0 P
+#38002
+four of spades~
+four of spades~
+Four of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38003
+five of spades~
+five of spades~
+Five of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38004
+six of spades~
+six of spades~
+Six of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38005
+seven of spades~
+seven of spades~
+Seven of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38006
+eight of spades~
+eight of spades~
+Eight of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38007
+nine of spades~
+nine of spades~
+Nine of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38008
+ten of spades~
+ten of spades~
+Ten of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38009
+Jack of spades~
+jack of spades~
+Jack of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38010
+Queen of spades~
+queen of spades~
+Queen of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38011
+King of spades~
+king of spades~
+King of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38012
+Ace of spades~
+ace of spades~
+Ace of spades~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38013
+Duece of diamonds~
+duece of diamonds~
+Duece of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38014
+Three of diamonds~
+three of diamonds~
+Three of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38015
+Four of diamonds~
+four of diamonds~
+Four of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38016
+Five of diamonds~
+five of diamonds~
+Five of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38017
+Six of diamonds~
+six of diamonds~
+Six of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38018
+Seven of diamonds~
+seven of diamonds~
+Seven of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38019
+Eight of diamonds~
+eight of diamonds~
+Eight of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38020
+Nine of diamonds~
+nine of diamonds~
+Nine of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38021
+Ten of diamonds~
+ten of diamonds~
+Ten of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38022
+Jack of diamonds~
+jack of diamonds~
+Jack of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38023
+Queen of diamonds~
+queen of diamonds~
+Queen of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38024
+King of diamonds~
+king of diamonds~
+King of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38025
+Ace of diamonds~
+ace of diamonds~
+Ace of diamonds~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38026
+duece of hearts~
+duece of hearts~
+Duece of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38027
+Three of hearts~
+three of hearts~
+Three of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38028
+Four of hearts~
+four of hearts~
+Four of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38029
+Five of hearts~
+five of hearts~
+Five of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38030
+Six of hearts~
+six of hearts~
+Six of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38031
+Seven of hearts~
+seven of hearts~
+Seven of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38032
+Eight of hearts~
+eight of hearts~
+Eight of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38033
+Nine of hearts~
+nine of hearts~
+Nine of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38034
+Ten of hearts~
+ten of hearts~
+Ten of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38035
+Jack of hearts~
+jack of hearts~
+Jack of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38036
+Queen of hearts~
+queen of hearts~
+Queen of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38037
+King of hearts~
+king of hearts~
+King of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38038
+Ace of hearts~
+ace of hearts~
+Ace of hearts~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38039
+Duece of clubs~
+duece of clubs~
+Duece of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38040
+Three of clubs~
+three of clubs~
+Three of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38041
+Four of clubs~
+four of clubs~
+Four of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38042
+Five of clubs~
+five of clubs~
+Five of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38043
+Six of clubs~
+six of clubs~
+Six of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38044
+Seven of clubs~
+seven of clubs~
+Seven of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38045
+Eight of clubs~
+eight of clubs~
+Eight of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38046
+Nine of clubs~
+nine of clubs~
+Nine of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38047
+Ten of clubs~
+ten of clubs~
+Ten of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38048
+Jack of clubs~
+jack of clubs~
+Jack of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38049
+Queen of clubs~
+queen of clubs~
+Queen of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38050
+King of clubs~
+king of clubs~
+King of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38051
+Ace of clubs~
+ace of clubs~
+Ace of clubs~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#38052
+Bree's chicken poker card case~
+{RB{Dr{Re{De{w'{Rs{X {RCh{Wick{Re{rn{X {RP{Goke{Rr{X Card Case~
+{RB{Dr{Re{De{w'{Rs{X {RCh{Wick{Re{rn{X {RP{Goke{Rr{X Card Case lies on the ground here.~
+unknown~
+container AY AO
+10000 A 0 100000 10
+110 0 0 P
+#38800
+blue door~
+a {$blue{x door~
+A {$blue{x door stands here.~
+unknown~
+portal R 0
+0 0 A CEHIJKMP 0
+0 1000 0 P
+#38801
+red door~
+a {!red{x door~
+A {!red{x door stands here.~
+unknown~
+portal R 0
+0 0 A ACEHIJKMP 0
+0 1000 0 P
+#38802
+green door~
+a {@green{x door~
+A {@green{x door stands here.~
+unknown~
+portal R 0
+0 0 A BCEHIJKMP 0
+0 1000 0 P
+#38804
+blue door~
+a {$blue{x door~
+A {$blue{x door stands here.~
+unknown~
+portal R 0
+0 0 A ABEHIJKMP 0
+0 1000 0 P
+#38805
+red door~
+a {!red{x door~
+A {!red{x door stands here.~
+unknown~
+portal R 0
+0 0 A ABEHIJKMP 0
+0 1000 0 P
+#38806
+green door~
+a {@green{x door~
+A {@green{x door stands here.~
+unknown~
+portal R 0
+0 0 A ABEHIJKMP 0
+0 1000 0 P
+#38807
+portal gurt~
+a portal to midgard~
+A portal to midgard rests here.~
+unknown~
+portal 0 0
+0 0 A BCGHIJL 0
+0 1 0 P
+#38808
+falcon talon~
+a sharp talon~
+A falcons talon lies in the sun.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#38810
+gleaming broadsword sword gurt~
+a gleaming broadsword~
+A shining broadsword lies on the ground, obviously well-tended.~
+steel~
+weapon ATY AN
+sword 18 11 thwack 0
+101 15 10000000 P
+A
+19 12
+#38811
+wickedly barbed flail gurt~
+a wickedly barbed flail~
+A wickedly barbed flail lies here.~
+steel~
+weapon TY AN
+flail 72 2 smash H
+101 15 10000000 P
+A
+18 -25
+A
+2 -5
+A
+19 25
+#38812
+enormous battle axe gurt~
+an enormous battle axe~
+An axe lies on the ground sparking and putting a feeling of static in the air.~
+steel~
+weapon TY AN
+axe 18 11 cleave E
+101 20 10000000 P
+#38813
+massive mattock gurt~
+a massive bone-handled mattock~
+A massive mattock lies on the ground with a handle resembling bone.~
+steel~
+weapon TY AN
+mace 45 4 blast EF
+101 20 10000000 P
+A
+18 -5
+#38814
+serrated galant dagger gurt~
+a serrated galant dagger~
+A long slender dagger lies here.~
+steel~
+weapon TY AN
+dagger 12 17 stab H
+101 5 10000000 P
+A
+18 5
+A
+19 10
+A
+2 1
+#38815
+steel barbed whip cord gurt~
+a steel-barbed whip~
+A long cord of leather tipped with steel barbs lies here.~
+leather~
+weapon TY AN
+whip 3 72 beating C
+101 8 10000000 P
+A
+19 -10
+#38816
+bronze-tipped pike tipped gurt~
+a bronze-tipped pike~
+A long pike lies on the ground here tipped with a nasty bronze spike.~
+steel~
+weapon TY AN
+polearm 10 21 smash BF
+101 20 10000000 P
+A
+19 5
+#38817
+long spear gurt~
+a long hunting spear~
+A long spear lies on the ground obviously made for hunting.~
+wood~
+weapon TY AN
+staff 12 18 thrust E
+101 8 10000000 P
+A
+19 6
+A
+3 -2
+A
+4 -2
+A
+18 -10
+A
+1 -2
+#38818
+holy hand grenade gurt~
+a pile of holy hand grenades~
+A pile of grenades lie on the ground humming!~
+gernade stuff~
+weapon TY AN
+exotic 14 14 blast AF
+101 2 10000000 P
+A
+4 2
+A
+18 15
+#38819
+A dark blue patch lies discarded.~
+the {BBlue Patch{x of {WVictory{x~
+The blue patch of victory sits here.~
+unknown~
+trash 0 AX
+0 0 0 0 0
+101 0 0 P
+A
+26 40
+E
+patch~
+The blue patch depicts a knight standing over a defeated foe.  The
+standard of the knight waving in the wind proclaiming victory.  
+~
+#38820
+baby small~
+a small baby~
+A small baby sits here wrapped in cloth.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#38822
+head dargog troll~
+the head of Dargog~
+A severed head lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+101 0 0 P
+#38823
+potion restoration~
+a potion of restoration~
+A gnomish potion bubbles.~
+unknown~
+potion 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#38900
+ebon wristguard gurt guard~
+an ebon wristguard~
+An ebon wristguard lies here studded with bronze shots.~
+steel~
+armor TY AM
+E BCD E E 0
+101 2 7000000 P
+A
+18 12
+#38901
+ratskin skin hood gurt~
+a ratskin hood~
+A hood lies on the ground seemingly made from rat pelts.~
+ratskin~
+armor TY AE
+FH 0 0 0 0
+101 2 4000000 P
+#38902
+steel visor helm gurt~
+a steel-visored helm~
+A lone helm sits here with its visor tucked down.~
+steel~
+armor TY AE
+BCDE BCDE BCDE BCDE 0
+101 0 5000000 P
+A
+13 100
+A
+19 7
+#38903
+chaos mark gurt~
+a mark of {!chaos{x~
+A writhing religion badge lies on the ground here.~
+unknown~
+armor JLTY AV
+0 0 0 0 0
+101 0 9000000 P
+A
+1 2
+A
+5 -3
+A
+13 30
+#38904
+mark neutrality gurt~
+a mark of {2neutrality{x~
+A fluidic line weaves about on the ground never going too far out of your sight.~
+unknown~
+armor JKTY AV
+CE CE CE CE 0
+101 0 9000000 P
+A
+18 2
+A
+19 2
+A
+9 10
+A
+20 -2
+#38905
+mark justice gurt~
+a mark of {7justice{x~
+A mark lies on the ground perfectly formed and solid.~
+unknown~
+armor KLTY AV
+BD BD BD BD 0
+101 0 9000000 P
+A
+18 10
+A
+19 10
+A
+13 50
+A
+20 -4
+#38906
+plate greaves gurt~
+a set of plate greaves~
+Two plate greaves lie here perfectly formed and gleaming with luminescence.~
+unknown~
+armor TY AF
+CE CE CE CE 0
+101 4 7500000 P
+A
+19 10
+A
+13 100
+A
+20 -5
+A
+18 -10
+A
+2 -1
+#38907
+bronze gauntlets gurt~
+a pair of bronze gauntlets~
+A shining pair of gauntlets lie here.~
+unknown~
+armor TY AH
+BCE BCE BCE CE 0
+101 4 7500000 P
+A
+20 -4
+A
+19 10
+A
+18 -10
+#38908
+steel armbands gurt~
+a pair of steel armbands~
+A pair of steel armbands lie on the ground here.~
+unknown~
+armor TY AI
+CD CD CD D 0
+101 4 7500000 P
+A
+20 -4
+A
+19 8
+A
+13 80
+A
+18 -10
+#38909
+hematite earring gurt~
+a {8hematite{x earring~
+A shiny black earring lies on the ground waiting to be picked up.~
+unknown~
+armor TY AS
+ABC D D ABC 0
+101 2 10000000 P
+A
+13 98
+A
+20 -4
+A
+19 10
+#38910
+cloak shadows gurt~
+a cloak of {7s{8hadows{x~
+A cloak lies on the ground blending in with dark crevices.~
+shadow~
+armor TY AK
+CE CE CE CE 0
+101 2 10000000 P
+A
+13 65
+A
+20 -8
+A
+18 5
+A
+2 2
+A
+5 -4
+A
+19 -15
+F
+A 0 1 P
+#38950
+kayak gurt~
+a {!r{1e{!d{x kayak~
+A {!r{1e{!d{x kayak lies here unperturbed.~
+unknown~
+boat STY A
+0 0 0 0 0
+1 12 50000 P
+#38951
+green kayak gurt~
+a professional {@g{2r{@e{2e{@n{x kayak~
+A professional {@g{2r{@e{2e{@n{x kayak rests here in perfect condition.~
+unknown~
+boat ABSTY A
+0 0 0 0 0
+101 1 100000 P
+#38952
+scroll sex change gurt~
+a sex scroll~
+A scroll lies here with vulgar imprints on the cover page.~
+unknown~
+scroll T A
+50 'change sex' 'reserved' 'reserved' 'reserved'
+1 0 50000 P
+#38953
+backpack pack gurt~
+a {8backpack{x~
+A {8backpack{x lies on the floor here.~
+unknown~
+container TY AX
+200 A 0 200 50
+101 5 2000000 P
+#38954
+backpack pack gurt~
+a {6backpack{x~
+A {6backpack{x lies here disintegrating.~
+unknown~
+container TY AX
+200 A 0 200 50
+101 5 2000000 P
+#38955
+rubik cube gurt~
+a rubik's cube~
+A rubik's cube sits here.~
+cube~
+trash STY AO
+0 0 0 0 0
+1 0 10000 P
+#38956
+potion gurt leveling~
+a potion of leveling~
+A potion of leveling lies here.~
+unknown~
+potion 0 A
+15 'haste' 'giant strength' 'armor' 'fly'
+1 0 500 P
+#38957
+age bag gurt~
+a bag of age~
+Bag of age lies here~
+unknown~
+armor TY AN
+0 0 0 0 0
+106 1 1 P
+A
+13 200
+#38996
+pile dubloons gold~
+a pile of gold dubloons~
+A pile of gold dubloons sits here~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 500000 P
+#38997
+pike head stake~
+a long pike~
+The severed head of {CUrd{x sits atop a pike.~
+wood~
+trash R 0
+0 0 0 0 0
+0 0 0 P
+E
+note~
+Let this serve notice to all who wish to stand in our way.  You will be
+divided and conquered, you will be unable to stop the horde from regaining
+what is rightfully ours.  
+ 
+Arnok the scout master of the troll horde
+~
+E
+pike~
+The now decaying head of {CUrd{x sits skewered atop the long pike.  On
+the shaft a note scrawled in blood attracts your attention.  
+~
+#38998
+darkside clan gurt~
+darkside clan skills~
+Darkside clan skills~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+F
+A 0 1 e
+#38999
+greenblade clan gurt~
+greenblade clan skills~
+Greenblade clan skills~
+unknown~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#38000
+QuestLand Start Room~
+~
+0 4 0
+S
+#38100
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D1
+~
+~
+0 0 38107
+D2
+~
+~
+0 0 38101
+S
+#38101
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38100
+D1
+~
+~
+0 0 38108
+D2
+~
+~
+0 0 38102
+S
+#38102
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38101
+D1
+~
+~
+0 0 38103
+S
+#38103
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38108
+D1
+~
+~
+0 0 38104
+D3
+~
+~
+0 0 38102
+S
+#38104
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38105
+D3
+~
+~
+0 0 38103
+S
+#38105
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38106
+D2
+~
+~
+0 0 38104
+D3
+~
+~
+0 0 38108
+S
+#38106
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D2
+~
+~
+0 0 38105
+D3
+~
+~
+0 0 38107
+S
+#38107
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D1
+~
+~
+0 0 38106
+D2
+~
+~
+0 0 38108
+D3
+~
+~
+0 0 38100
+S
+#38108
+{!Hot{#Potato {$Quest{x~
+~
+0 256 0
+D0
+~
+~
+0 0 38107
+D1
+~
+~
+0 0 38105
+D2
+~
+~
+0 0 38103
+D3
+~
+~
+0 0 38101
+S
+#38109
+{!Hot{#Potato {$Quest{x~
+~
+0 0 0
+D5
+~
+~
+0 0 38108
+S
+#38200
+{YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Waiting Room~
+{YW{ye{Rl{Wc{Ro{ym{Ye{X To {YCh{yic{Yke{yn{X {YP{Wo{Dk{We{Yr!{X
+ 
+{RRules:{X
+1. One player will be allowed inside the arena at a time.
+2. That player will kill chickens until they have 5 or 6 cards.
+3. Each chicken holds either 2 or 3 cards. Once you have 5 or 6 cards, whichever comes first,
+  You will stop killing chickens and return through the door to the waiting room.
+4. The next person goes, and so on, until all players have 5 cards.
+5. The best 5 card hand will win that hand.
+6. The Immortal in charge will determine how many hands are included in the Iquest, and also
+   How the prizes will be doled out. Whether by hand or by game, and how many places will receive 
+   A prize. The Immortal's word is final, as always.
+{YTO THE WEST IS A ROOM WITH THE DESCRIPTIONS AND RANKS OF POKER HANDS{X
+~
+0 0 0
+D0
+~
+~
+1 0 38201
+D3
+~
+~
+1 0 38210
+D5
+~
+~
+1 0 38211
+S
+#38201
+{YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Rooms!~
+~
+0 0 0
+D0
+~
+~
+0 0 38202
+D2
+~
+~
+1 0 38200
+D3
+~
+~
+0 0 38204
+S
+#38202
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D0
+~
+~
+0 0 38207
+D2
+~
+~
+0 0 38201
+D3
+~
+~
+0 0 38203
+S
+#38203
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D0
+~
+~
+0 0 38208
+D1
+~
+~
+0 0 38202
+D2
+~
+~
+0 0 38204
+D3
+~
+~
+0 0 38205
+S
+#38204
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D0
+~
+~
+0 0 38203
+D1
+~
+~
+0 0 38201
+D3
+~
+~
+0 0 38206
+S
+#38205
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D0
+~
+~
+0 0 38209
+D1
+~
+~
+0 0 38203
+D2
+~
+~
+0 0 38206
+S
+#38206
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D0
+~
+~
+0 0 38205
+D1
+~
+~
+0 0 38204
+S
+#38207
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D2
+~
+~
+0 0 38202
+D3
+~
+~
+0 0 38208
+S
+#38208
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D1
+~
+~
+0 0 38207
+D2
+~
+~
+0 0 38203
+D3
+~
+~
+0 0 38209
+S
+#38209
+{rCh{Yick{ren {YP{yo{Wk{ye{Yr{X {YRoom{X!~
+~
+0 0 0
+D1
+~
+~
+0 0 38208
+D2
+~
+~
+0 0 38205
+S
+#38210
+{YTh{ye R{Yo{Wom {DO{Yf P{Dok{yer {YHa{ynd {WR{Da{Yn{yk{Yi{Dn{Wg{Ys{X~
+{YThese are the top rated poker hands in order of strongest to weakest.{X
+ 
+{RRoyal Flush{D : A K Q J T All the same suit{X
+{RStraight Flush{D : A straight that is all the same suit (2 3 4 5 6 spades){X
+{RFour of a Kind{D : Four of the same card{X
+{RFull House{D : 3 of one card, 2 of another (J J J 10 10){X
+{RFlush{D : 5 cards all the same suit{X
+{RStraight{D : 5 cards in a row (2 3 4 5 6){X
+{RThree of a Kind{D : 3 of the same cards{X
+{RTwo Pair{D : 2 differant pairs (A A K K 6){X
+{RA Pair{D : 2 of the same card ( A A 5 3 2){X
+~
+0 0 0
+D1
+~
+~
+1 0 38200
+S
+#38211
+{YChicken Poker Current High Hand Record Room{X~
+{Y1/27/09{D : Nilaht - {RStraight Flush 4,5,6,7,8{X of spades{X
+ 
+ 
+{RThis is the person who holds the most current high hand for chicken poker{X
+~
+0 0 0
+D4
+~
+~
+1 0 38200
+D5
+~
+~
+0 0 38212
+S
+#38212
+{YChicken Poker Running Records{X~
+{RThis is the list of all of the past and present holders of the highest hand in chicken poker:{X
+ 
+{Y1/27/09{D : Lucidvein - {RBroadway Straight 10, J, Q, K, A{X
+{Y1/27/09{D : Nilaht - {RStraight Flush 4,5,6,7,8{X of spades{X
+~
+0 0 0
+D4
+~
+~
+0 0 38211
+S
+#38800
+A Dark Room~
+This is a really dark room
+~
+0 4 0
+S
+#38801
+Dimly lit path~
+Wandering down this path several lights flicker on the side
+on the side.  A faint scurrying alongside brings a rustle of
+leaves and autumn scents to your nose.  Joyous shouts break
+further down the path and sights of kids running around with
+happy faces come into view.
+~
+0 0 0
+D0
+~
+~
+0 0 38802
+S
+#38802
+Vine-Terraced archway~
+A great archway traverses the path here breaking a gap in
+a very thick thorn hedge which extends beyond sight to the
+right and left.  Many kids scamper through it playing
+and even older folks seem to have a laughing composure as
+they leave and enter the area.
+~
+0 0 0
+D0
+~
+~
+0 0 38803
+D2
+~
+~
+0 0 38801
+S
+#38803
+Central Square~
+The arch breaks into a wide courtyard with many doors and shops
+littered about the sides of the promenade. A hustle of
+activity rises from all around as people go on their daily hunt
+for the best deals and the best pick-up. The shops line the walls
+significant only by the color of their doors.
+~
+0 525316 0
+D2
+~
+~
+0 0 38802
+S
+#38804
+Weaponsmith~
+Weapons of every known variety hang from the walls of this
+building.  Whatever may be imagined could exist here, the 
+ancient broadswords of might heroes may very well be mixed in
+with all the rest of the artifacts lying around.  All weapons
+seem very well taken care of, oiled down, and sharp.
+~
+0 525444 0
+S
+#38805
+Armor Shop~
+~
+0 525444 0
+S
+#38806
+Pawn Shop~
+This room is stocked high with miscellaneous goods ranging from
+old buckets to brand new state of the art crossbows.  Several
+unknown objects lie to one side of the room, and a desk raises
+in front of you with a few small but very worthwhile items on
+it.  A rubik's cube being not the worst, but one of the most
+enjoyable items to play with.
+~
+0 525444 0
+S
+#0
+
+
+
+#SPECIALS
+M 38811 spec_cast_mage Load to: Sammael
+S
+
+
+
+#RESETS
+D 0 38200 0 1 The north door of {YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Waiting Room is closed
+D 0 38200 3 1 The west door of {YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Waiting Room is closed
+D 0 38200 5 1 The down door of {YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Waiting Room is closed
+D 0 38201 2 1 The south door of {YCh{yic{Yke{yn{X {RP{Do{wk{De{Rr{X Rooms! is closed
+D 0 38210 1 1 The east door of {YTh{ye R{Yo{Wom {DO{Yf P{Dok{yer {YHa{ynd {WR{Da{Yn{yk{Yi{Dn{Wg{Ys{X is closed
+D 0 38211 4 1 The up door of {YChicken Poker Current High Hand Record Room{X is closed
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38001 0 *Three of spades is given to a poker chiken
+G 0 38001 0 *Three of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38002 0 *Four of spades is given to a poker chiken
+G 0 38003 0 *Five of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38004 0 *Six of spades is given to a poker chiken
+G 0 38005 0 *Seven of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38006 0 *Eight of spades is given to a poker chiken
+G 0 38007 0 *Nine of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38008 0 *Ten of spades is given to a poker chiken
+G 0 38009 0 *Jack of spades is given to a poker chiken
+G 0 38010 0 *Queen of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38011 0 *King of spades is given to a poker chiken
+G 0 38012 0 *Ace of spades is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38000 0 *Duece of spades is given to a poker chiken
+G 0 38013 0 *Duece of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38014 0 *Three of diamonds is given to a poker chiken
+G 0 38015 0 *Four of diamonds is given to a poker chiken
+G 0 38016 0 *Five of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38017 0 *Six of diamonds is given to a poker chiken
+G 0 38018 0 *Seven of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38019 0 *Eight of diamonds is given to a poker chiken
+G 0 38020 0 *Nine of diamonds is given to a poker chiken
+G 0 38021 0 *Ten of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38022 0 *Jack of diamonds is given to a poker chiken
+G 0 38023 0 *Queen of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38024 0 *King of diamonds is given to a poker chiken
+G 0 38025 0 *Ace of diamonds is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38027 0 *Three of hearts is given to a poker chiken
+G 0 38026 0 *Duece of hearts is given to a poker chiken
+G 0 38028 0 *Four of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38029 0 *Five of hearts is given to a poker chiken
+G 0 38030 0 *Six of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38031 0 *Seven of hearts is given to a poker chiken
+G 0 38032 0 *Eight of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38034 0 *Ten of hearts is given to a poker chiken
+G 0 38033 0 *Nine of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38035 0 *Jack of hearts is given to a poker chiken
+G 0 38036 0 *Queen of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38037 0 *King of hearts is given to a poker chiken
+G 0 38038 0 *Ace of hearts is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38039 0 *Duece of clubs is given to a poker chiken
+G 0 38040 0 *Three of clubs is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38042 0 *Five of clubs is given to a poker chiken
+G 0 38041 0 *Four of clubs is given to a poker chiken
+G 0 38044 0 *Seven of clubs is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38043 0 *Six of clubs is given to a poker chiken
+G 0 38045 0 *Eight of clubs is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38046 0 *Nine of clubs is given to a poker chiken
+G 0 38047 0 *Ten of clubs is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38048 0 *Jack of clubs is given to a poker chiken
+G 0 38049 0 *Queen of clubs is given to a poker chiken
+M 0 38100 26 38209 26 *Load a poker chiken
+G 0 38050 0 *King of clubs is given to a poker chiken
+G 0 38051 0 *Ace of clubs is given to a poker chiken
+O 0 38801 0 38803 *A {!red{x door loaded to Central Square
+O 0 38800 0 38803 *A {$blue{x door loaded to Central Square
+O 0 38802 0 38803 *A {@green{x door loaded to Central Square
+O 0 38804 0 38804 *A {$blue{x door loaded to Weaponsmith
+M 0 38804 1 38804 1 *Load Algorath
+O 0 38805 0 38805 *A {!red{x door loaded to Armor Shop
+M 0 38805 1 38805 1 *Load Kalrag
+O 0 38806 0 38806 *A {@green{x door loaded to Pawn Shop
+M 0 38806 1 38806 1 *Load Syskil
+S
+
+
+
+#SHOPS
+38804 5 0 0 0 0 100 100 0 24
+38805 9 0 0 0 0 100 75 0 24
+38806 13 10 2 15 22 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#38000
+if clan $n == 'builder'
+mob transfer $n 20401
+else
+mob echoat $n
+mob echoat $n {#You are kicked out of the room by {4$I{# when you try to flee!!!{x
+mob echoat $n
+NL
+mob echoaround $n
+mob echoaround $n {#$n is kicked out of the room as they try to flee from {$$I{#!{x
+mob echoaround $n
+mob transfer $n 7112
+cackle
+endif
+~
+#38001
+if clan $n 'darkside'
+mob transfer $n 68
+mob echo $n leaves north 
+break
+else
+mob echoat $n
+mob echoat $n {#You are kicked out of the room by{x $I {#when you try to flee!!!{x
+ mob echoat $n
+ nl
+ mob echoaround $n
+mob echoaround $n {#$n is kicked out of the room as $e try to flee from {$$I{#!{x
+ mob echoaround $n
+mob transfer $n 5386
+ cackle
+ endif
+~
+#38002
+if clan $n 'wolfriders'
+ mob transfer $n 20353
+ break
+ else
+ mob echoat $n
+ mob echoat $n You are kicked out of the room by $I when you try to flee!!!
+ mob echoat $n {#You are kicked out of the room by the {@guard when you try to flee!!!{x
+ mob echoat $n
+NL
+ mob echoaround $n
+ mob echoaround $n {#$n is kicked out of the room as $e try to flee from the {@guard{#{x
+ mob echoaround $n
+ mob transfer $n 10076
+ cackle
+ endif
+~
+#38800
+if rand 50
+mob remember $n
+mob delay 1
+endif
+~
+#38801
+mob goto $q
+mob trans $q 3014
+mob goto 3014
+mob echo Strange magics pull $q back into the battle.
+kill $q
+mob forget $q
+~
+#38802
+mob cast teleport
+~
+#38803
+mob oload 38808
+~
+#38805
+backstab $n
+~
+#38806
+mob cast teleport $n
+~
+#0
+
+#$

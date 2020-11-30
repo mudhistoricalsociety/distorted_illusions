@@ -1,0 +1,1602 @@
+#AREADATA
+Name Iquest Areas~
+Builders Unlinked~
+VNUMs 32300 32399
+Continent 1
+Credits [------] Jair    Iquest Areas~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#32300
+scary pumpkin guy pumpkinguy~
+A Scary PumpkinGuy~
+A Scary PumpkinGuy is here!
+~
+~
+human~
+AB 0 H -1000 0
+101 300 1d1+70000 1d1+100 1d1+90 wave
+-50 -50 -50 -50
+H 0 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#32301
+chick~
+a small chick~
+A small chick pecks at the dirt.
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABC 0 0
+stand stand none 0
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32302
+hen~
+a hen~
+A hen clucks loudly at your arrival.
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABC 0 0
+stand stand none 0
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32303
+rooster~
+a large rooster~
+A rooster struts about proudly.
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABC 0 0
+stand stand none 0
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32304
+rainbow babble~
+{RR{YA{GI{CN{BB{MO{DW{x {WBABBLE{x~
+{RR{YA{GI{CN{BB{MO{DW{x {WBABBLE{x
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 300000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 32304 100~
+#0
+
+
+
+#OBJECTS
+#32300
+two clubs card~
+a two of clubs~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32301
+two hearts card~
+a two of hearts~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32302
+two diamonds card~
+a two of diamonds~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32303
+two spades card~
+a two of spades~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32304
+three clubs card~
+a three of clubs~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32305
+three diamonds card~
+a three of diamonds~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32306
+three hearts card~
+a three of hearts~
+A card lies here discarded.~
+card~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#32307
+three spades card~
+a three of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32308
+four clubs card~
+a four of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32309
+four hearts card~
+a four of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32310
+four diamonds card~
+a four of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32311
+four spades card~
+a four of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32312
+five spades card~
+a five of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32313
+five hearts card~
+a five of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32314
+five clubs card~
+a five of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32315
+five diamonds card~
+a five of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32316
+six diamonds card~
+a six of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32317
+seven diamonds card~
+a seven of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32318
+eight diamonds card~
+a eight of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32319
+nine diamonds card~
+a nine of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32320
+ten diamonds card~
+a ten of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32321
+jack diamonds card~
+a jack of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32322
+queen diamonds card~
+a queen of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32323
+king diamonds card~
+a king of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32324
+ace diamonds card~
+a ace of diamonds~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32325
+six clubs card~
+a six of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32326
+seven clubs card~
+a seven of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32327
+eight clubs card~
+a eight of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32328
+nine clubs card~
+a nine of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32329
+ten clubs card~
+a ten of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32330
+jack clubs card~
+a jack of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32331
+queen clubs card~
+a queen of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32332
+king clubs card~
+a king of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32333
+ace clubs card~
+a ace of clubs~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32334
+ace hearts card~
+a ace of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32335
+king hearts card~
+a king of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32336
+queen hearts card~
+a queen of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32337
+jack hearts card~
+a jack of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32338
+ten hearts card~
+a ten of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32339
+nine hearts card~
+a nine of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32340
+eight hearts card~
+a eight of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32341
+seven hearts card~
+a seven of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32342
+six hearts card~
+a six of hearts~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32343
+six spades card~
+a six of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32344
+seven spades card~
+a seven of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32345
+eight spades card~
+a eight of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32346
+nine spades card~
+a nine of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32347
+ten spades card~
+a ten of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32348
+jack spades card~
+a jack of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32349
+queen spades card~
+a queen of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32350
+king spades card~
+a king of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#32351
+ace spades card~
+a ace of spades~
+A card lies here discarded.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#32300
+{$*START* {!Red {#Light {@Green {#Light {$*START*{0~
+{!Either the quest is just starting or you were bad.
+ 
+{@At any rate, here are the rules:
+{#1) You only move when I say go, otherwise you are back to the start.
+{#2) You stop when I say stop, if I see you move afterwards you go
+{#   back to start.
+{#3) First one to the end wins.
+{#4) Have fun and good luck! {0
+{#5) No running.{0
+
+{@ Another useless quest brought to you by Jair.{0
+
+~
+0 0 0
+D0
+~
+~
+0 0 32301
+S
+#32301
+{$*1* {!Red {#Light {@Green {#Light {$*1*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32302
+S
+#32302
+{$*2* {!Red {#Light {@Green {#Light {$*2*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32303
+S
+#32303
+{$*3* {!Red {#Light {@Green {#Light {$*3*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32304
+S
+#32304
+{$*4* {!Red {#Light {@Green {#Light {$*4*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32305
+S
+#32305
+{$*5* {!Red {#Light {@Green {#Light {$*5*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32306
+S
+#32306
+{$*6* {!Red {#Light {@Green {#Light {$*6*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32307
+S
+#32307
+{$*7* {!Red {#Light {@Green {#Light {$*7*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32308
+S
+#32308
+{$*8* {!Red {#Light {@Green {#Light {$*8*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32309
+S
+#32309
+{$*9* {!Red {#Light {@Green {#Light {$*9*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32310
+S
+#32310
+{$*10* {!Red {#Light {@Green {#Light {$*10*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32311
+S
+#32311
+{$*11* {!Red {#Light {@Green {#Light {$*11*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32312
+S
+#32312
+{$*12* {!Red {#Light {@Green {#Light {$*12*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32313
+S
+#32313
+{$*13* {!Red {#Light {@Green {#Light {$*13*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32314
+S
+#32314
+{$*14* {!Red {#Light {@Green {#Light {$*14*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32315
+S
+#32315
+{$*15* {!Red {#Light {@Green {#Light {$*15*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32316
+S
+#32316
+{$*16* {!Red {#Light {@Green {#Light {$*16*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32317
+S
+#32317
+{$*17* {!Red {#Light {@Green {#Light {$*17*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32318
+S
+#32318
+{$*18* {!Red {#Light {@Green {#Light {$*18*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32319
+S
+#32319
+{$*19* {!Red {#Light {@Green {#Light {$*19*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32320
+S
+#32320
+{$*20* {!Red {#Light {@Green {#Light {$*20*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32321
+S
+#32321
+{$*21* {!Red {#Light {@Green {#Light {$*21*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32322
+S
+#32322
+{$*22* {!Red {#Light {@Green {#Light {$*22*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32323
+S
+#32323
+{$*23* {!Red {#Light {@Green {#Light {$*23*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32324
+S
+#32324
+{$*24* {!Red {#Light {@Green {#Light {$*24*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32325
+S
+#32325
+{$*25* {!Red {#Light {@Green {#Light {$*25*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32326
+S
+#32326
+{$*26* {!Red {#Light {@Green {#Light {$*26*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32327
+S
+#32327
+{$*27* {!Red {#Light {@Green {#Light {$*27*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32328
+S
+#32328
+{$*28* {!Red {#Light {@Green {#Light {$*28*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32329
+S
+#32329
+{$*29* {!Red {#Light {@Green {#Light {$*29*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32330
+S
+#32330
+{$*30* {!Red {#Light {@Green {#Light {$*30*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32331
+S
+#32331
+{$*31* {!Red {#Light {@Green {#Light {$*31*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32332
+S
+#32332
+{$*32* {!Red {#Light {@Green {#Light {$*32*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32333
+S
+#32333
+{$*33* {!Red {#Light {@Green {#Light {$*33*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32334
+S
+#32334
+{$*34* {!Red {#Light {@Green {#Light {$*34*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32335
+S
+#32335
+{$*35* {!Red {#Light {@Green {#Light {$*35*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32336
+S
+#32336
+{$*36* {!Red {#Light {@Green {#Light {$*36*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32337
+S
+#32337
+{$*37* {!Red {#Light {@Green {#Light {$*37*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32338
+S
+#32338
+{$*38* {!Red {#Light {@Green {#Light {$*38*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32339
+S
+#32339
+{$*39* {!Red {#Light {@Green {#Light {$*39*{0~
+~
+0 0 0
+D1
+~
+~
+0 0 32340
+S
+#32340
+{$*40* {!Red {#Light {@Green {#Light {$*40*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32341
+S
+#32341
+{$*41* {!Red {#Light {@Green {#Light {$*41*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32342
+S
+#32342
+{$*42* {!Red {#Light {@Green {#Light {$*42*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32343
+S
+#32343
+{$*43* {!Red {#Light {@Green {#Light {$*43*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32344
+S
+#32344
+{$*44* {!Red {#Light {@Green {#Light {$*44*{0~
+~
+0 0 0
+D3
+~
+~
+0 0 32345
+S
+#32345
+{$*45* {!Red {#Light {@Green {#Light {$*45*{0~
+~
+0 0 0
+D2
+~
+~
+0 0 32346
+S
+#32346
+{$*46* {!Red {#Light {@Green {#Light {$*46*{0~
+~
+0 0 0
+D4
+~
+~
+0 0 32347
+S
+#32347
+{$*47* {!Red {#Light {@Green {#Light {$*47*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32348
+S
+#32348
+{$*48* {!Red {#Light {@Green {#Light {$*48*{0~
+~
+0 0 0
+D5
+~
+~
+0 0 32349
+S
+#32349
+{$*49* {!Red {#Light {@Green {#Light {$*49*{0~
+~
+0 0 0
+D0
+~
+~
+0 0 32350
+S
+#32350
+{$*FINISH* {!Red {#Light {@Green {#Light {$*FINISH*{0~
+~
+0 4 0
+S
+#32351
+Welcome to Chicken Poker!!!!!~
+How to play chicken poker:
+1.  When the Immortal Opens the gate run through and kill chickens.
+2.  Cards will load on chickens make sure you have autoloot on to collect cards.
+3.  When all chickens have been killed, return to this room.
+4.  Poker rules apply to the cards, only turn in the best hand you can make with 5 cards.
+5.  Best Hand wins!
+6.  No Peeking!
+7.  Being caught with a card outside this zone will be punished harshly.
+ 
+Betting:
+1.  Betting ammounts are subject to change dependent on participants
+2.  25 platinum ante pay up before it starts
+3.  after players collect cards,  1 round of betting max bet 50 plat
+4.  players share number of cards they hold, 2nd round of betting max of 225 plat
+5.  players show cards winner takes all
+ 
+~
+0 4 0
+D0
+~
+~
+1 0 32352
+S
+#32352
+Before the Chicken Coup~
+To the north is the entrance to a wooden building used for housing
+chickens.  To the east and west a yard where chickens can run freely.  To
+the south the entrance to chicken poker!  
+~
+0 8192 0
+D0
+~
+~
+0 0 32357
+D1
+~
+~
+0 0 32361
+D2
+~
+~
+1 0 32351
+D3
+~
+~
+0 0 32353
+S
+#32353
+Chicken Pen~
+To the south a fence prevents chickens from escaping.  To the east the
+entrance to the coup.  To the west and north the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32356
+D1
+~
+~
+0 0 32352
+D3
+~
+~
+0 0 32354
+S
+#32354
+Chicken Pen~
+To the south and west a fence prevents chickens from escaping.  To the
+north and east the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32355
+D1
+~
+~
+0 0 32353
+S
+#32355
+Chicken Pen~
+To the north a path leads around the chicken coup.  To the west the fence
+keeps chickens from escaping.  To the south and east the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32366
+D1
+~
+~
+0 0 32356
+D2
+~
+~
+0 0 32354
+S
+#32356
+Chicken Pen~
+To the north and east the coup blocks your path.  To the south and west
+the yard continues.  
+~
+0 8192 0
+D2
+~
+~
+0 0 32353
+D3
+~
+~
+0 0 32355
+S
+#32357
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32358
+D1
+~
+~
+0 0 32360
+D2
+~
+~
+0 0 32352
+D3
+~
+~
+0 0 32369
+S
+#32358
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32359
+D2
+~
+~
+0 0 32357
+D3
+~
+~
+0 0 32370
+S
+#32359
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32368
+D2
+~
+~
+0 0 32360
+D3
+~
+~
+0 0 32358
+S
+#32360
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32359
+D3
+~
+~
+0 0 32357
+S
+#32361
+Chicken Pen~
+To the south a fence prevents chickens from escaping.  To the west the
+entrance to the coup.  To the east and north the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32362
+D1
+~
+~
+0 0 32364
+D3
+~
+~
+0 0 32352
+S
+#32362
+Chicken Pen~
+To the north and west the coup blocks your path.  To the south and east
+the yard continues.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32363
+D2
+~
+~
+0 0 32361
+S
+#32363
+Chicken Pen~
+To the north a path leads around the chicken coup.  To the east the fence
+keeps chickens from escaping.  To the south and west the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32367
+D2
+~
+~
+0 0 32364
+D3
+~
+~
+0 0 32362
+S
+#32364
+Chicken Pen~
+To the south and east a fence prevents chickens from escaping.  To the
+north and west the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32363
+D3
+~
+~
+0 0 32361
+S
+#32365
+Side Entrance to the Coup~
+To the east a side entrance to the chicken coup.  To the south a path
+around the chicken coup.  To the west a yard.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32370
+D2
+~
+~
+0 0 32366
+D3
+~
+~
+0 0 32375
+S
+#32366
+Chicken Pen~
+To the north a side entrance to the coup and small yard.  To the south a
+small yard.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32365
+D2
+~
+~
+0 0 32355
+S
+#32367
+Chicken Pen~
+To the north a side entrance to the coup and small yard.  To the south a
+small yard.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32368
+D2
+~
+~
+0 0 32363
+S
+#32368
+Side Entrance to the Coup~
+To the west a side entrance to the chicken coup.  To the south a path
+around the chicken coup.  To the east a yard.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32371
+D2
+~
+~
+0 0 32367
+D3
+~
+~
+0 0 32359
+S
+#32369
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32370
+D1
+~
+~
+0 0 32357
+S
+#32370
+In the Chicken Coup~
+Hay is scattered everywhere and small hay lined shelves have been setup
+for chickens to roost on.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32358
+D2
+~
+~
+0 0 32369
+D3
+~
+~
+0 0 32365
+S
+#32371
+Chicken Pen~
+To the west the side entrance to the chicken coup.  To the south a fence
+prevents chickens from escaping.  To the east and north the yard continues. 
+~
+0 8192 0
+D0
+~
+~
+0 0 32372
+D1
+~
+~
+0 0 32374
+D3
+~
+~
+0 0 32368
+S
+#32372
+Chicken Pen~
+To the north and west a fence prevents chickens from escaping.  To the
+south and east the yard continues.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32373
+D2
+~
+~
+0 0 32371
+S
+#32373
+Chicken Pen~
+To the north and east a fence prevents chickens from escaping.  To the
+south and west the yard continues.  
+~
+0 8192 0
+D2
+~
+~
+0 0 32374
+D3
+~
+~
+0 0 32372
+S
+#32374
+Chicken Pen~
+To the south and east a fence prevents chickens from escaping.  To the
+north and west the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32373
+D3
+~
+~
+0 0 32371
+S
+#32375
+Chicken Pen~
+To the east the side entrance to the chicken coup.  To the south a fence
+prevents chickens from escaping.  To the west and north the yard continues. 
+~
+0 8192 0
+D0
+~
+~
+0 0 32378
+D1
+~
+~
+0 0 32365
+D3
+~
+~
+0 0 32376
+S
+#32376
+Chicken Pen~
+To the south and west a fence prevents chickens from escaping.  To the
+north and east the yard continues.  
+~
+0 8192 0
+D0
+~
+~
+0 0 32377
+D1
+~
+~
+0 0 32375
+S
+#32377
+Chicken Pen~
+To the north and west a fence prevents chickens from escaping.  To the
+south and east the yard continues.  
+~
+0 8192 0
+D1
+~
+~
+0 0 32378
+D2
+~
+~
+0 0 32376
+S
+#32378
+Chicken Pen~
+To the north and east a fence prevents chickens from escaping.  To the
+south and west the yard continues.  
+~
+0 8192 0
+D2
+~
+~
+0 0 32375
+D3
+~
+~
+0 0 32377
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 32351 0 1 The north door of Welcome to Chicken Poker!!!!! is closed
+M 0 32303 18 32352 1 *Load a large rooster
+G 0 32337 0 *A jack of hearts is given to a large rooster
+M 0 32301 21 32353 1 *Load a small chick
+G 0 32311 0 *A four of spades is given to a small chick
+M 0 32303 18 32353 1 *Load a large rooster
+G 0 32351 0 *A ace of spades is given to a large rooster
+M 0 32301 21 32354 1 *Load a small chick
+G 0 32300 0 *A two of clubs is given to a small chick
+M 0 32303 18 32354 1 *Load a large rooster
+G 0 32327 0 *A eight of clubs is given to a large rooster
+M 0 32302 13 32355 1 *Load a hen
+G 0 32338 0 *A ten of hearts is given to a hen
+M 0 32303 18 32355 1 *Load a large rooster
+G 0 32319 0 *A nine of diamonds is given to a large rooster
+M 0 32301 21 32356 1 *Load a small chick
+G 0 32345 0 *A eight of spades is given to a small chick
+M 0 32302 13 32356 1 *Load a hen
+G 0 32304 0 *A three of clubs is given to a hen
+M 0 32301 21 32357 1 *Load a small chick
+G 0 32313 0 *A five of hearts is given to a small chick
+M 0 32302 13 32357 1 *Load a hen
+G 0 32302 0 *A two of diamonds is given to a hen
+M 0 32303 18 32358 1 *Load a large rooster
+G 0 32321 0 *A jack of diamonds is given to a large rooster
+M 0 32302 13 32358 1 *Load a hen
+G 0 32330 0 *A jack of clubs is given to a hen
+M 0 32301 21 32359 1 *Load a small chick
+G 0 32303 0 *A two of spades is given to a small chick
+M 0 32303 18 32359 1 *Load a large rooster
+G 0 32350 0 *A king of spades is given to a large rooster
+M 0 32301 21 32360 1 *Load a small chick
+G 0 32314 0 *A five of clubs is given to a small chick
+M 0 32303 18 32360 1 *Load a large rooster
+G 0 32325 0 *A six of clubs is given to a large rooster
+M 0 32303 18 32361 1 *Load a large rooster
+G 0 32342 0 *A six of hearts is given to a large rooster
+M 0 32302 13 32361 1 *Load a hen
+G 0 32322 0 *A queen of diamonds is given to a hen
+M 0 32303 18 32362 1 *Load a large rooster
+G 0 32335 0 *A king of hearts is given to a large rooster
+M 0 32301 21 32362 1 *Load a small chick
+G 0 32306 0 *A three of hearts is given to a small chick
+M 0 32301 21 32363 1 *Load a small chick
+G 0 32349 0 *A queen of spades is given to a small chick
+M 0 32302 13 32363 1 *Load a hen
+G 0 32308 0 *A four of clubs is given to a hen
+M 0 32301 21 32364 1 *Load a small chick
+G 0 32315 0 *A five of diamonds is given to a small chick
+M 0 32302 13 32364 1 *Load a hen
+G 0 32346 0 *A nine of spades is given to a hen
+M 0 32303 18 32365 1 *Load a large rooster
+G 0 32309 0 *A four of hearts is given to a large rooster
+M 0 32301 21 32366 1 *Load a small chick
+G 0 32339 0 *A nine of hearts is given to a small chick
+M 0 32301 21 32367 1 *Load a small chick
+G 0 32305 0 *A three of diamonds is given to a small chick
+M 0 32303 18 32367 1 *Load a large rooster
+G 0 32334 0 *A ace of hearts is given to a large rooster
+M 0 32301 21 32368 1 *Load a small chick
+G 0 32332 0 *A king of clubs is given to a small chick
+M 0 32303 18 32369 1 *Load a large rooster
+G 0 32331 0 *A queen of clubs is given to a large rooster
+M 0 32301 21 32369 1 *Load a small chick
+G 0 32348 0 *A jack of spades is given to a small chick
+M 0 32303 18 32370 1 *Load a large rooster
+G 0 32320 0 *A ten of diamonds is given to a large rooster
+M 0 32301 21 32370 1 *Load a small chick
+G 0 32341 0 *A seven of hearts is given to a small chick
+M 0 32301 21 32371 1 *Load a small chick
+G 0 32312 0 *A five of spades is given to a small chick
+M 0 32302 13 32371 1 *Load a hen
+G 0 32344 0 *A seven of spades is given to a hen
+M 0 32303 18 32371 1 *Load a large rooster
+G 0 32323 0 *A king of diamonds is given to a large rooster
+M 0 32301 21 32372 1 *Load a small chick
+G 0 32316 0 *A six of diamonds is given to a small chick
+M 0 32302 13 32372 1 *Load a hen
+G 0 32326 0 *A seven of clubs is given to a hen
+M 0 32303 18 32372 1 *Load a large rooster
+G 0 32336 0 *A queen of hearts is given to a large rooster
+M 0 32302 13 32373 1 *Load a hen
+G 0 32347 0 *A ten of spades is given to a hen
+M 0 32301 21 32373 1 *Load a small chick
+G 0 32324 0 *A ace of diamonds is given to a small chick
+M 0 32301 21 32374 1 *Load a small chick
+G 0 32307 0 *A three of spades is given to a small chick
+M 0 32303 18 32374 1 *Load a large rooster
+G 0 32317 0 *A seven of diamonds is given to a large rooster
+M 0 32301 21 32375 1 *Load a small chick
+G 0 32329 0 *A ten of clubs is given to a small chick
+M 0 32302 13 32375 1 *Load a hen
+G 0 32310 0 *A four of diamonds is given to a hen
+M 0 32301 21 32376 1 *Load a small chick
+G 0 32328 0 *A nine of clubs is given to a small chick
+M 0 32303 18 32376 1 *Load a large rooster
+G 0 32340 0 *A eight of hearts is given to a large rooster
+M 0 32302 13 32377 1 *Load a hen
+G 0 32333 0 *A ace of clubs is given to a hen
+M 0 32301 21 32377 1 *Load a small chick
+G 0 32318 0 *A eight of diamonds is given to a small chick
+M 0 32303 18 32378 1 *Load a large rooster
+G 0 32301 0 *A two of hearts is given to a large rooster
+M 0 32302 13 32378 1 *Load a hen
+G 0 32343 0 *A six of spades is given to a hen
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#32304
+mob echoat $n The {RR{YA{GI{CN{BB{MO{DW{x {WBABBLE{x bones you in the butt, what a gay babble!
+mob echoaround $n The {RR{YA{GI{CN{BB{MO{DW{x {WBABBLE{x bends $n over and puts it in their butt!
+mob echo The {RR{YA{GI{CN{BB{MO{DW{x {WBABBLE{x bones $n in the butt, what a gay babble!
+~
+#0
+
+#$

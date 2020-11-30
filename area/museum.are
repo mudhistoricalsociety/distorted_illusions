@@ -1,0 +1,2286 @@
+#AREADATA
+Name The Museum of Creatures~
+Builders None~
+VNUMs 4200 4499
+Continent 1
+Credits {y[{G  ALL {y]{c Kefka    {GMuseum of Creatures{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#4201
+guard museum~
+the museum guard~
+A museum guard is standing at his post. He salutes you as you walk by.
+~
+The guard is human, and looks about middle age. His job, apparently, must be
+well paid, for it is one hellishly boring one.
+~
+human~
+ABEGHTY Jc N 750 0
+30 5 12d14+307 12d14+307 4d7+19 slash
+-5 -5 -5 0
+ACDEFIKP 0 0 0
+sit sit male 30000
+AGHMV ABCDEFGHIJKL medium unknown
+#4202
+poltergeist~
+the poltergeist~
+A wavy spirit is floating here. It's a Poltergeist!
+~
+The spirit is pinkish, 6' tall, wearing white rags, and hold chains.
+~
+unique~
+ABGMNO DFJUZ BO -500 0
+7 0 5d5+43 5d5+43 2d2+4 claw
+9 9 9 15
+EFK BLMQRXZ 0 0
+stand stand male 0
+DILc ABCDEFGHIJKL medium unknown
+#4203
+animal skeleton~
+the animal skeleton~
+A skeleton in the form of an animal is here.
+~
+It is shaped like a large dog, with sharp teeth and everything.
+~
+dog~
+ABGO Z 0 -300 0
+10 0 5d8+67 5d8+67 2d3+5 scratch
+7 7 7 10
+EFHK BLPQ X 0
+stand stand none 1000
+ABGIMVc ABCDEFGHIJKLUV small unknown
+#4204
+skeleton~
+the skeleton~
+A tall skeleton is shackled to the wall.
+~
+The skeleton looks like that of an orc. He has a few ribs missing, and his
+lower jaw is gone.
+~
+human~
+ABGO Z 0 -500 0
+13 0 6d9+91 6d9+91 2d4+7 scratch
+3 3 3 5
+EFK BLPQ X 0
+stand stand none 1000
+ABHIMVc ABCDEFGHIJKL medium unknown
+#4205
+ghoul~
+the ghoul~
+A ghoul is here, contemplating your existance.
+~
+The ghoul has recently been killed, or well preserved, for there is still some
+blood pouring out of it's skin. It is wearing shabby rags, and its tongue hangs
+down to its chin!
+~
+unique~
+ABGO Q O -700 0
+15 0 6d11+107 6d11+107 3d4+9 slash
+4 4 4 8
+EFK B 0 0
+stand stand none 1000
+ABIc ABCDEFGHIJKL medium unknown
+#4206
+lacedon~
+the lacedon~
+A lacedon is here, looking for his ghoul buddies.
+~
+The lacedon is a form of marine ghoul, found on docks, and ghost ships.
+~
+unique~
+ABGO Q O -700 0
+17 0 7d11+125 7d11+125 3d4+9 slash
+2 2 2 5
+EFK B 0 0
+stand stand none 1000
+ABIc ABCDEFGHIJKL medium unknown
+#4207
+ghast~
+the ghast~
+The ghast is here, looking for flesh.
+~
+The ghast is nastier version of a ghoul, with bigger teeth, large claws,
+and a longer tongue!
+~
+unique~
+ABGO Q O -800 0
+20 0 9d10+157 7d11+125 2d9+11 scratch
+1 1 1 1
+EFK B 0 0
+stand stand none 1500
+ABIc ABCDEFGHIJKL medium unknown
+#4208
+heucuva~
+the heucuva~
+A heucuva stands here, waiting for you to kill it.
+~
+The heucuva appears to be a humanoid skeleton of normal size. His bones are 
+covered by a robe that is little more than tattered rags.
+~
+unique~
+ABGO VZ O -1000 0
+22 0 9d10+157 7d11+125 2d9+11 claw
+1 1 1 0
+EFK BLQ 0 NO
+stand stand none 9999
+ABIc ABCDEFGHIJKL medium unknown
+#4209
+zombie~
+the zombie~
+A zombie is slouched against the wall.
+~
+The zombie is slung against the wall. It is missing it's left arm, and quite
+a few bones too.
+~
+unique~
+ABGO Z O -299 0
+23 0 9d10+165 10d10+1 2d9+11 scratch
+1 1 1 0
+EFK BLQ 0 NO
+stand stand none 10000
+ABIc ABCDEFGHIJKL medium unknown
+#4210
+shadow~
+the shadow~
+A dark shadow is stuck to the north wall.
+~
+It is dark, wavy, and disappears in shadows. It is shaped like a hideous demon.
+~
+unique~
+ABGMNO Q O -450 0
+28 0 6d24+238 1d1+499 4d6+16 drain
+-3 -3 -3 0
+EFK BKQRXYZ 0 NO
+stand stand none 0
+ABC ABCDEFGHIJKL medium unknown
+#4211
+juju zombie~
+the JuJu zombie~
+A stronger than normal zombie is propped up against the wall.
+~
+It looks a lot like a zombie, except it is more alive.
+~
+unique~
+ABGO Z O -295 0
+34 0 13d16+389 1d1+999 3d11+19 scratch
+-5 -5 -5 -5
+EFK BMPT 0 0
+stand stand none 10000
+ABC ABCDEFGHIJKL medium unknown
+#4212
+wight~
+the wight~
+A wight is shackled to the wall.
+~
+The wight is a nightmarish reflection of a human, with cruel, burning eyes
+set in mummified flesh over a twisted skeleton with hands that end in sharp
+claws.
+~
+unique~
+ABGO Z O -300 0
+39 0 15d18+534 15d18+534 5d7+23 scratch
+-6 -6 -6 -2
+EFK BMPT 0 0
+stand stand none 10000
+ABC ABCDEFGHIJKL medium unknown
+#4213
+giant skeleton~
+the giant skeleton~
+A giant skeleton is pinned down to the floor.
+~
+The skeleton is that of a huge human, with a firey magical glow in it's rib
+cage.
+~
+human~
+ABGO Z O -340 0
+42 0 7d44+589 1d1+15555 4d10+24 slash
+-7 -7 -7 -3
+EFK BMPT 0 0
+stand stand none 10001
+ABCHMV ABCDEFGHIJKL medium unknown
+#4214
+haunt form~
+the haunt~
+A wavy form flutters though the air.. It's a haunt!
+~
+The haunt looks like that of a retard, who has unfulfilled some life quest.
+~
+unique~
+ABGMNO DFTU O 0 0
+49 5 15d25+802 1d1+11110 6d8+31 drain
+-10 -10 -10 -10
+DEFK KLMQRXYZ 0 CN
+stand stand none 0
+DIL 0 medium unknown
+#4215
+wraith~
+the wraith~
+A wavy black cloud floats here... It's a wraith!
+~
+The horrible creature is a black cloud, vaguely in the shape of a man.
+~
+unique~
+ABGMNO DFTU O 0 0
+54 5 16d27+977 1d1+1110 7d7+32 drain
+-18 -18 -18 -15
+DEFK KLMQRXZ 0 CNY
+stand stand none 0
+DIL 0 medium unknown
+#4216
+mummy~
+the mummy~
+A drunken mummy is here, walking around the cage
+~
+This mummy is clothed in rotting strips of linen. He stand 6 feet tall and
+is obviously immensely strong.
+~
+unique~
+ABGO Z O -500 0
+60 5 8d65+1221 8d65+1221 7d8+35 slash
+-22 -22 -22 -15
+DEFK BLMPQ 0 N
+stand stand male 0
+ABIMc ABCDEFGHIJKLM medium unknown
+#4217
+zombie lord~
+the zombie lord~
+A still living zombie is sitting here.
+~
+The zombie lord is a living creature that has taken on the foul powers and
+abilities of the undead. Zombie lords look as they did in life, save that
+their skin has turned to the pale grey of death, and their flesh is rotting,
+and decaying. The odor of vile corruption and rotting meat hangs about them,
+and carrion feeding insects buzz about them to dine on the bits of flesh and
+ichor that drop from their bodies.
+~
+unique~
+ABGO Z O -500 0
+63 5 13d42+1361 13d42+1361 6d10+37 slash
+-21 -21 -21 -15
+EFK BLQ M N
+stand stand none 1000
+ABIM ABCDEFGHIJKL medium unknown
+#4218
+banshee~
+the banshee~
+A groaning spirit (or banshee) is floating here, wailing.
+~
+The banshee appears as a floating, luminous phantasm of its former self. The
+banshee is that of an old and withered elf, it's face a mask of pain.
+~
+unique~
+ABGMNO CDEFITUZ O -780 0
+69 5 23d27+1696 23d27+1696 2d39+41 drain
+-23 -23 -23 -20
+EFK BKLQRXZ MO N
+stand stand female 100
+ABIM ABCDEFGHIJKL medium unknown
+#4219
+undead beholder~
+the undead beholder~
+A shirvled beholder floats here, being undead.
+~
+This death tyrant is a rotting, mold-encrusted beholder. It is shrivled and
+there are wounds exposing it's internal, spherical network of ribs, among
+the remnants of its exoskeletal plates.
+~
+unique~
+ABGO CFTZ O -800 0
+74 10 22d31+2029 22d31+2000 3d27+44 wrath
+-25 -25 -25 -25
+EFK BLQ MO N
+stand stand none 10000
+ABIM DEFKMNVX medium unknown
+#4220
+spectre~
+the spectre~
+A spectre is floating through the air, looking for life.
+~
+It appears as a semitransparent being, in the shape of a human.
+~
+unique~
+ABGO CDFJPTUVZc O -1000 0
+78 10 15d51+2361 15d51+2361 4d21+47 magic
+-28 -28 -28 -28
+EFK BKLQRXZ MOT NSY
+stand stand either 25000
+DIKL ABCDEFGHIJKL medium unknown
+#4221
+revenant~
+the revenant~
+A revenant is standing here, looking for it's murderer.
+~
+The revenant appears as a spectral, decayed version of its appearance at the
+time of its death. Its pallid skin is drawn tightly over its bones.  The flesh
+is cold and clammy.  The sunken eyes are dull and heavy-lidded but, when the
+revenant faces you, the eyes blaze with unnatural intensity.  The revenant
+bears an aura of sadness, anger, and determination.
+~
+human~
+ABO Z 0 -400 0
+83 0 28d29+2762 28d29+2762 9d9+49 claw
+-31 -31 -31 -28
+0 0 0 0
+stand stand either 27000
+AHMV ABCDEFGHIJK medium unknown
+#4222
+vampire~
+the vampire~
+A vampire is standing here, as if it was frozen in time.
+~
+The vampire looks absolutely human, cept for its pailing skin, and the dark
+reddish cloak about, and its huge fangs protruding from its mouth.
+~
+human~
+ABO Z 0 -900 0
+95 0 14d47+6500 19d47+3117 6d15+52 bite
+-31 -31 -31 -35
+0 0 0 0
+stand stand either 28000
+AHMV ABCDEFGHIJK medium unknown
+#4223
+death knight~
+the death knight~
+A death knight clad in the armor of a solamnic night is here.
+~
+The death knight resembles a hulking knight, typically taller than 6 feet
+and weighing about than 300 pounds.  Its face is a blackened skull covered
+with shards or shrivled, rotting flesh.  It has two tiny, glowing orange-red
+pinpoints for eyes.  Its armour is scorched black as if it had been in a
+fire.  The demeanor of a death knight is so terrifying that even kender have
+been known to become frightened.  
+~
+human~
+ABO VZ 0 -900 0
+93 115 1d1+8500 100d100+99 7d7+5 slash
+-50 -50 -50 -50
+CFGIKU 0 B 0
+stand stand male 29000
+AHMV ABCDEFGHIJK medium unknown
+#4224
+skeleton warrior~
+the skeleton warrior~
+A large skeletal warrior is standing here, hoping to free his soul soon.
+~
+The skeletal warrior appears as a cracked and yellowing skeleton covered with
+shards of decaying flesh.  Its eyes are black holes containing pinpoints of
+reddish light. It is clad in the blackened armor and rotted trappings that
+it wore when it was alive.
+~
+unique~
+ABO Z 0 -500 0
+125 125 15d80+9000 15d80+5900 9d11+65 slash
+-50 -50 -50 -50
+0 0 0 0
+stand stand either 29000
+0 0 medium unknown
+#4225
+ghost~
+the {7ghost{0~
+A ghost is is waving in the air, before your face.
+~
+The ghost looks like that of a half-elf, caught halfway between the prime material,
+and astral planes.
+~
+unique~
+ABO Z 0 -900 0
+135 135 18d71+10000 18d17+5817 12d12+65 drain
+-50 -50 -50 50
+0 ABKLQR CXZ HIJNOTY
+stand stand none 0
+0 0 medium unknown
+#4226
+lich~
+the lich~
+A lich is lurking here, looking very dangerous.
+~
+The lich resembles a mummy, being gaunt and skeletal in form. The creature's
+eye sockets are black and empty save for the fierce pinpoints of light which
+serve the lich as eyes.
+~
+unique~
+ABO Z 0 -1000 0
+145 145 18d71+11000 18d71+5971 8d15+80 drain
+-50 -50 -50 -25
+0 ABIJLQRSXZ CN HKNTY
+stand stand either 29000
+0 0 medium unknown
+#4227
+dracolich skeleton dragon~
+the dracolich~
+A skeleton dragon is standing before you.
+~
+The dracolich is a giant dragon that has been turned into a skeleton, but has
+remained in its dragon form. Its eyes appear as glowing points of light floating
+in the shadowy eye sockets.
+~
+unique~
+ABO Z 0 -1000 0
+150 150 39d39+12001 39d39+9201 5d23+80 claw
+-25 -25 -25 -50
+0 ABIJLPQR CM HKNOSXYZ
+stand stand none 30000
+0 0 giant unknown
+#4228
+orc~
+The orc~
+An orc stands here, smelling very bad.
+~
+~
+orc~
+ABS J 0 0 0
+60 75 1d1+500 0d0+0 1d1+50 punch
+10 10 10 30
+NR 0 0 S
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#4327
+bodyguard body guard~
+The Royal Bodyguard~
+The Royal Bodyguard
+~
+This is the royal bodyguard.  He is garbed in all black and wields a
+deadly dagger that looks pretty nasty.  Other than that he looks like he has
+a key at his waist.  
+~
+human~
+ABF Q 0 0 0
+150 50 100d300+0 0d0+0 60d10+0 pierce
+-50 -50 -50 -50
+B A 0 0
+stand stand none 50000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4329
+dark king black figure~
+The Dark King~
+A dark figure is here
+~
+As you look at the dark king the thing you notice first are his eyes. 
+Instead of being white, with a dark center they are compleatly black.  He is
+garbed in deep black armour that has somewhat of a dull shine.  
+~
+human~
+ABF QV N -1000 0
+160 40 500d100+0 0d0+0 150d10+100 wrath
+-60 -60 -60 -60
+0 AB IK E
+stand stand none 150000
+0 ABDFJK medium unknown
+F for AHMV
+F par CEGHI
+#4330
+holy king white figure~
+The holy King~
+A Garbed white figure is here.
+~
+The first thing you notice about this person is that his eyes are all
+white.  He has no pupil to speak of.  He is garbed in pure white attire from
+his feet up to the crown he wears on his head.  
+~
+human~
+AB V O 1000 0
+160 40 500d100+0 0d0+0 100d10+100 divine
+-60 -60 -60 -60
+0 AB HI S
+stand stand male 150000
+0 ADFJK medium unknown
+F for AHMV
+F par BCEGHI
+#0
+
+
+
+#OBJECTS
+#4201
+sword guard museum~
+the museum guard's sword~
+A sword lies on the ground. There is a flea crawling on it.~
+silver~
+weapon GIT AN
+sword 4 9 slash D
+23 70 30000 P
+A
+18 5
+A
+19 3
+#4202
+shield guard museum~
+the museum guard's shield~
+A shield lies on the ground. There is a tick sitting on it.~
+silver~
+armor GIT AJ
+BC BC BC B B
+23 50 20000 P
+A
+5 2
+#4203
+honey coloured fountain~
+a fountain~
+A fountain is mounted into the ground, spewing forth a honey coloured liquid.~
+mithril~
+fountain O 0
+1 1 'mead' 0 0
+1 1 1 P
+#4204
+relaxing couch~
+A relaxing couch~
+A brown couch is propped up against the northern wall. Looks rather relaxing.~
+softwood~
+furniture O 0
+AC DFGHIJ BEHKN CEFGHI CEFGHI
+30 1 1 P
+#4205
+giant toilet~
+the giant toilet~
+A giant toilet is installed here. You can't see the bottom!~
+porcelain~
+portal AGO 0
+0 A A BCEFKLM 0
+1 0 0 P
+#4206
+death sword~
+the sword of {8death{0~
+A grey hilted sword is lying on the ground.~
+etherealness~
+weapon ABCEGR AN
+sword 11 13 cleave CDEFGH
+80 50 10000 P
+A
+18 -10
+A
+3 -1
+A
+19 3
+#4207
+skeletal sword~
+the {7skeletal{0 sword~
+A two-handed sword, as white as bone is lying on the ground.~
+platinum~
+weapon ABCEGR AN
+sword 4 35 cleave BDEFH
+75 30 10000 P
+A
+19 8
+#4308
+gold key grad~
+a grand {#gold{x key~
+A large {#gold{x key lies here~
+unknown~
+key 0 A
+0 0 0 0 0
+1 0 1000 P
+#4327
+dark dagger black~
+a {8Dark{x dagger~
+A {8black{x dagger lies here on the floor~
+unknown~
+weapon 0 AN
+dagger 10 19 pierce DE
+101 100 50000 P
+A
+19 5
+A
+18 10
+#4329
+sword shielded flame black dark~
+the Shielded {$D{4arkflame{x~
+A {$F{4laming{x sword lies here on the ground~
+unknown~
+weapon JL AN
+sword 3 66 flame AE
+101 100 100000 P
+A
+17 -15
+A
+19 10
+#4330
+spellshock bullwhip whip~
+{WSpellshock Bullwhip{x~
+A long bullwhip lies here, humming with energy~
+WhiteGold~
+weapon BKL AN
+whip 4 51 suction EJ
+101 10 100000 P
+A
+19 -10
+A
+20 -3
+#0
+
+
+
+#ROOMS
+#4201
+The middle of nowhere~
+You are standing in the middle of nowhere. You can see a distant dot on the
+horizon to the west. The forest is back to the east. A sign is pounded into
+the dirt.
+~
+0 262144 2
+E
+sign dirt~
+/*------------------------------*\
+|    The Museum of Creatures     |
+|     This area is made by       |
+|            Kefka               |
+|    Designed for all levels     |
+\*------------------------------*/
+~
+D1
+You see the dark forest.
+~
+~
+0 -1 6137
+D3
+You see a dot on the horizon.
+~
+~
+0 -1 4202
+S
+#4202
+On a rough, dusty trail~
+You are walking on the trail leading east-west. Dust floats around you as you
+kick it up. Far to the west you can make out the shape of a huge building.
+The trail continues to the east.
+~
+0 262144 2
+D1
+The trail continues.
+~
+~
+0 -1 4201
+D3
+The trail continues.
+~
+~
+0 -1 4203
+S
+#4203
+Approaching the Museum~
+The trail you travel is still rather dusty, and the dry air tickles your throat.
+To the west, you can see a huge building, and to the east, the trail continues.
+~
+0 262144 2
+D1
+The trail continues.
+~
+~
+0 -1 4202
+D3
+The museum can be seen
+~
+~
+0 -1 4204
+S
+#4204
+Before the museum~
+From where you stand on the dusty trail, you can see the fine marble structure
+of the well crafted museum. It's craftsmanship is so well done, it looks as if
+it was made by the gods them selves.. but no, it was dwarves! The trail heads
+west towards the museum, and east into nowhere.
+~
+0 262144 2
+D1
+The trail continues.
+~
+~
+0 -1 4203
+D3
+The entrance to museum awaits.
+~
+~
+0 -1 4205
+S
+#4205
+The entrance to the museum~
+You stand before the gates of the museum. The air here is moist, and gives you
+a feeling of refreshment. The trail extends to the east, back to no man's land.
+~
+0 262144 2
+D1
+The trail continues.
+~
+~
+0 -1 4204
+D3
+White wooden doors block your path.
+~
+door gate~
+1 -1 4206
+S
+#4206
+Inside the museum~
+You are stranding just inside of the entrance of the museum.  The lobby
+is to the west, and to the north, you can see an elevator, taking you to the
+various sections of the museum.  A map is posted on the wall.  
+~
+0 8 0
+E
+map wall~
+The museum of creatures:
+                    Basement: Magical Animated Creatures
+                 First Floor: Mammals
+                Second Floor: Aquatic Creatures
+                 Third Floor: Avians
+                Fourth Floor: Reptiles
+                 Fifth Floor: Miscellaneous (Misfits, Freaks, Plants, etc.)
+                 Sxith Floor: Outer Planar Creatures
+               Seventh Floor: Insects & Arachnoids
+                Eighth Floor: Dragons
+                                      Elevator
+                                           |
+                                           |
+                                  Lobby---------Entrance
+                                    |
+                                    |
+                                 Bathroom
+~
+D0
+You the doors to an elevator.
+~
+door elevator~
+1 -1 4209
+D1
+White wooden doors block your path.
+~
+door gate~
+1 -1 4205
+D3
+You see the lobby of the museum.
+~
+~
+0 -1 4207
+S
+#4207
+The lobby of the museum~
+The lobby is decorated with rich tapestries, and fabulous rugs. A feeling of
+holyness surrounds you. Strangely coloured lights are placed along the walls
+of the room, making anything with lustre glint in strange tones. The entrance
+is to the east, and the bathroom, to the south.
+~
+0 8 0
+D1
+You see the entrance to the museum.
+~
+~
+0 -1 4206
+D2
+The bathroom awaits.
+~
+~
+0 -1 4208
+S
+#4208
+The bathroom~
+The bathroom is basically what you expected. There is a sink on the west wall.
+The floor is covered in white tiles, and the room reeks.
+~
+0 8 0
+D0
+You see the lobby of the museum.
+~
+~
+0 -1 4207
+D3
+~
+~
+1 0 4400
+S
+#4209
+The elevator~
+The elevator is constructed of a strange steel and glows with a magical aura.
+You go down into the basement or up to the upper levels.
+~
+0 8 0
+D2
+You see the entrance to the museum.
+~
+~
+0 -1 4206
+D5
+The elevator continues down.
+~
+~
+0 -1 4210
+S
+#4210
+The bottom floor of the elevator shaft~
+This floor consists of those creatures that have been constructed by the means
+of magic. Undead, golems, spirits, etc. can be found here. Tread carefully.
+~
+0 8 0
+D3
+The entrance to the basement.
+~
+~
+0 -1 4219
+D4
+The elevator continues up.
+~
+~
+0 -1 4209
+S
+#4211
+The elevator at the first floor~
+This is the elevator in the museum of creatures.  This elevator, wich
+looks rather ordinary, accually isnt.  The walls, made of brushed steel,
+gleam back at you as if they were freshly polished.  As you look around the
+rest of the elevator also seems to be polished.  From the small chrome level
+selection buttons to the polished granite floor, everything has a somewhat
+magical appearnace.  In front of you lays a large chamber that has a massive
+knight statue in the center.  You can see the first floor, the floor of the
+humanoids, past the ominous figure.  
+~
+0 8 0
+D0
+~
+~
+0 0 4300
+D4
+The elevator continues up.
+~
+~
+0 -1 4212
+S
+#4212
+The elevator at the second floor~
+boogers?
+~
+0 8 0
+D5
+The elevator continues down.
+~
+~
+0 -1 4211
+S
+#4213
+The elevator at the third floor~
+This floor is covered by the avians. Birds and birdmen alike are here. The floor
+below holds the foul creatures of the waters, and the floor above hold the lizards
+and reptiles.
+~
+0 8 0
+D4
+The elevator continues up.
+~
+~
+0 -1 4214
+S
+#4214
+The elevator at the fourth floor~
+This floor is covered by the reptiles of the realms. Dragons, even though they
+are reptiles, have their own floor near the top. The floor below holds the avians
+and the floor above holds the creatures that don't fit into anything.
+~
+0 8 0
+D4
+The elevator continues up.
+~
+~
+0 -1 4215
+D5
+The elevator continues down.
+~
+~
+0 -1 4213
+S
+#4215
+The elevator at the fifth floor~
+This floor is covered by the misfits of the world. Things that have no place
+else where in this building belong here. The floor below holds reptiles, and
+the floor above, holds creatures from other planes of existance.
+~
+0 8 0
+D4
+The elevator continues up.
+~
+~
+0 -1 4216
+D5
+The elevator continues down.
+~
+~
+0 -1 4214
+S
+#4216
+The elevator at the sixth floor~
+This floor holds those creatures from other planes. Such as those from the planes
+of elementals, or the giths. Hell is also a feature here. The floor below holds
+creatures that belong no where else, and above, there are the insects and arachnoids.
+~
+0 8 0
+D4
+The elevator continues up.
+~
+~
+0 -1 4217
+D5
+The elevator continues down.
+~
+~
+0 -1 4215
+S
+#4217
+The elevator at the seventh floor~
+This floor holds the bugs, spiders and scorpions that the world so highly hates.
+The floor above you holds the huge dragons. The floor below, holds creatures
+from the other planes.
+~
+0 8 0
+D4
+The elevator continues up.
+~
+~
+0 -1 4218
+D5
+The elevator continues down.
+~
+~
+0 -1 4216
+S
+#4218
+The top of the elevator shaft~
+This top floor, holds the huge, magnificent dragons. The floor below, holds
+the highly hated and feared insects and arachnoids.
+~
+0 8 0
+D5
+The elevator leads down.
+~
+~
+0 -1 4217
+S
+#4219
+The basement~
+The basement is where you stand now. The basement is divided into three sections.
+The middle row is the undead. The southern row is the row of magical constructions.
+And the last row, the northern row, is miscellaneous.
+~
+0 8 0
+D1
+The elevator beckons you.
+~
+~
+0 -1 4210
+D3
+The Undead hallway beckons you.
+~
+~
+0 -1 4220
+S
+#4220
+The Undead Hallway~
+The dismal hallway is light by a series of torches. The room to the north reads:
+Poltergeist. The room to the south reads: Animal Skeleton.
+~
+0 8 0
+D0
+The Poltergeist Room
+~
+~
+0 -1 4221
+D1
+The Hallway beckons
+~
+~
+0 -1 4219
+D2
+The Animal Skeleton Room
+~
+~
+0 -1 4222
+D3
+The Hallway continues.
+~
+~
+0 -1 4223
+S
+#4221
+The Poltergeist Room~
+There is a large strange cage on the northern wall, where the creature is kept.
+~
+0 8 0
+D2
+The Undead hallway.
+~
+~
+0 -1 4220
+S
+#4222
+The Animal Skeleton Room~
+There is a large cage on the southern wall, where the creature is kept.
+~
+0 8 0
+D0
+The Undead Hallway.
+~
+~
+0 -1 4220
+S
+#4223
+The Undead Hallway~
+The hallway stretches farther than you can see. You can see the lights of the
+torches hung on the walls heading far to the west. The room to the north reads:
+Skeleton, and the room to the south reads: Ghoul.
+~
+0 8 0
+D0
+The Skeleton Room.
+~
+~
+0 -1 4224
+D1
+The hallway continues.
+~
+~
+0 -1 4220
+D2
+The Ghoul Room.
+~
+~
+0 -1 4225
+D3
+The hallway beckons.
+~
+~
+0 -1 4226
+S
+#4224
+The Skeleton Room~
+There is a large cage on the southern wall, where the creature is kept.
+~
+0 8 0
+D2
+The Undead Hallway.
+~
+~
+0 -1 4223
+S
+#4225
+The Ghoul Room~
+There is a large cage on the southern wall, where the creature is kept.
+~
+0 8 0
+D0
+The Undead Hallway.
+~
+~
+0 -1 4223
+S
+#4226
+The Undead Hallway~
+The hallway stretches farther than you can see. You can see the lights of the
+torches hung on the walls heading far to the west. The room to the north reads:
+Lacedon, and the room to the south reads: Ghast.
+~
+0 8 0
+D0
+The Lacedon Room.
+~
+~
+0 -1 4227
+D1
+The hallway continues.
+~
+~
+0 -1 4223
+D2
+The Ghast Room.
+~
+~
+0 -1 4228
+D3
+The hallway beckons.
+~
+~
+0 -1 4229
+S
+#4227
+The Lacedon Room.~
+There is a large cage on the northern wall, where the creature is kept.
+~
+0 8 0
+D2
+The Undead Hallway.
+~
+~
+0 -1 4226
+S
+#4228
+The Ghast Room.~
+There is a large cage on the southern wall, where the creature is kept.
+~
+0 8 0
+D0
+The Undead Hallway.
+~
+~
+0 -1 4226
+S
+#4229
+The Undead Hallway~
+The hallway stretches farther than you can see. You can see the lights of the
+torches hung on the walls heading far to the west and to the east. The room 
+to the north reads: Heucuva, and the room to the south reads: Zombie.
+~
+0 8 0
+D0
+The Heucuva Room.
+~
+~
+0 -1 4230
+D1
+The Undead Hallway.
+~
+~
+0 -1 4226
+D2
+The Zombie Room.
+~
+~
+0 -1 4231
+D3
+The hallway beckons.
+~
+~
+0 -1 4232
+S
+#4230
+The Heucuva Room.~
+There is some huge shackles strapped on the northern wall. There ware many
+bones scattered about the floor.
+~
+0 8 0
+D2
+The Undead Hallway
+~
+~
+0 -1 4229
+S
+#4231
+The Zombie Room.~
+There are some shackles on the southern wall, used for obvious reasons.
+A few limbs scattered about, looking useless.
+~
+0 8 0
+D0
+The Undead Hallway
+~
+~
+0 -1 4229
+S
+#4232
+The Undead Hallway~
+The hallway stinks like that of death and decay. The room to the north
+houses the shadow, and to the room to the south is the Ju-Ju Zombie!
+~
+0 262153 0
+D0
+The Shadow's Room.
+~
+~
+0 0 4233
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4229
+D2
+The Ju-Ju Zombies Room.
+~
+~
+0 0 4234
+D3
+The hallway beckons.
+~
+~
+0 -1 4235
+S
+#4233
+The Shadow's Room~
+Darkness surrounds you. You think that there are walls around you,
+yet you cannot see nor feel them.
+~
+0 9 0
+D2
+The Undead Hallway.
+~
+~
+0 0 4232
+S
+#4234
+Ju-Ju Zombie Room~
+Two shackles hold a limp corpse against the far wall.
+The room stinks like that of death. Breathing takes quite
+a challenge here.
+~
+0 9 0
+D0
+The Undead Hallway.
+~
+~
+0 0 4232
+S
+#4235
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Wight.
+The room to the south houses the Giant Skeleton. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Wight's room.
+~
+~
+0 0 4236
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4232
+D2
+The Giant Skeleton's room.
+~
+~
+0 0 4237
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4238
+S
+#4236
+The Wight Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4235
+S
+#4237
+The Giant Skeleton Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4235
+S
+#4238
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Haunt.
+The room to the south houses the Wraith. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Haunt's room.
+~
+~
+0 0 4239
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4235
+D2
+The Wraith's room.
+~
+~
+0 0 4240
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4241
+S
+#4239
+The Haunt Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4238
+S
+#4240
+The Wraith Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4238
+S
+#4241
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Mummy.
+The room to the south houses the Lord Zombie. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Mummy's room.
+~
+~
+0 0 4242
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4238
+D2
+The Lord Zombie's room.
+~
+~
+0 0 4243
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4244
+S
+#4242
+The Mummy Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4241
+S
+#4243
+The Lord Zombie Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4241
+S
+#4244
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Banshee.
+The room to the south houses the Undead Beholder. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Banshee's room.
+~
+~
+0 0 4245
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4241
+D2
+The Undead Beholder's room.
+~
+~
+0 0 4246
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4247
+S
+#4245
+The Banshee Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4244
+S
+#4246
+The Undead Beholder Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4244
+S
+#4247
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Spectre.
+The room to the south houses the Revenant. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Spectre's room.
+~
+~
+0 0 4248
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4244
+D2
+The Revenant's room.
+~
+~
+0 0 4249
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4250
+S
+#4248
+The Spectre Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4247
+S
+#4249
+The Revenant Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4247
+S
+#4250
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Vampire.
+The room to the south houses the Death Knight. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Vampire's room.
+~
+~
+0 0 4251
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4247
+D2
+The Death Knight's room.
+~
+~
+0 0 4252
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4253
+S
+#4251
+The Vampire Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4250
+S
+#4252
+The Death Knight Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4250
+S
+#4253
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Skeleton Warrior.
+The room to the south houses the Ghost. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Skeleton Warrior's room.
+~
+~
+0 0 4254
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4250
+D2
+The Ghost's room.
+~
+~
+0 0 4255
+D3
+The Undead Hallway Continues
+~
+~
+0 0 4256
+S
+#4254
+The Skeleton Warrior Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4253
+S
+#4255
+The Ghost Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4253
+S
+#4256
+The Undead Hallway~
+The hallway smells of putrid death and decay. You find it hard to
+Breathe in the smoggy air. The room to the north houses the Lich.
+The room to the south houses the Dracolich. The hallway continues to
+east and west.
+~
+0 9 0
+D0
+The Lich's room.
+~
+~
+0 0 4257
+D1
+The Undead Hallway Continues
+~
+~
+0 0 4253
+D2
+The Dracolich's room.
+~
+~
+0 0 4258
+S
+#4257
+The Lich Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back north to the hallway
+~
+0 9 0
+D2
+The Undead Hallway Beckons.
+~
+~
+0 0 4256
+S
+#4258
+The Dracolich Room.~
+The Room is seems very small, but can still fit the monster in.
+The only entrance is back south to the hallway
+~
+0 9 0
+D0
+The Undead Hallway Beckons.
+~
+~
+0 0 4256
+S
+#4290
+vampire room~
+A room without vampires.  
+~
+0 0 0
+D0
+~
+~
+1 0 4291
+S
+#4291
+Vampire room~
+A vampire room duh.  
+~
+0 4 0
+S
+#4300
+The entrance to the Grand Hallway~
+You stand in a marble hallway.  The walls, covered with magnificiant red
+wallpapper, reach high above your head.  The ceiling, wich is arched,
+contains a constant mural of days gone past, of wars , exploration, and
+famine behind you stands the elevator that brought you up to this level. 
+Infront of you stands a massive statue of a knight, in all his splendid
+glory.  Past the knight you can see farther down in to the hallway.  The
+walls lined with doors, becon for you to come and explore their contents 
+~
+0 0 0
+D0
+~
+~
+0 0 4301
+D2
+~
+~
+0 0 4211
+S
+#4301
+The Grand Hallway~
+As you walk down this hallway, a sudden chill runns down your spine.  You
+turn around and look behind you but nothing can be seen except for more
+hallway.  The walls here are covered in brilliant red wallpaper, and the
+ground, white marble.  To either side of you there are exits to exhibits. 
+One labled Orcs and the other Peseants.  
+~
+0 0 0
+D0
+~
+~
+0 0 4302
+D1
+~
+~
+0 0 4313
+D2
+~
+~
+0 0 4300
+D3
+~
+~
+0 0 4314
+S
+#4302
+The Grand Hallway~
+This room, very similar to the other rooms of the hallway, is wall to
+wall in red wall paper, and flored with marble.  The only visable difference
+is that this room has a pedistal sitting in the center of it.  On the
+pedistal there is a sign that reads "Please Excuse the Odor.  Due to the
+fact that most of our sculptures are as lifelike as we can get them, we
+sprinkle them with their Natural odor."  On either side of you there are
+doors going to exhibits.  One labled Goblins and the other Squires.  
+~
+0 0 0
+D0
+~
+~
+0 0 4303
+D1
+~
+~
+0 0 4315
+D2
+~
+~
+0 0 4301
+D3
+~
+~
+0 0 4316
+S
+#4303
+The Grand Hallway~
+This, like all the other rooms, is part of a vast hallway.  Candles line
+the walls immuminating every nook, every cranny.  Although these candles
+provide light, you still feel there is a darkness immiting from one of the
+two doors that branch off of this room.  One Door is labled Dark Elves, and
+the other Wood Elves.  
+~
+0 0 0
+D0
+~
+~
+0 0 4304
+D1
+~
+~
+0 0 4317
+D2
+~
+~
+0 0 4302
+D3
+~
+~
+0 0 4318
+S
+#4304
+The Grand Hallway~
+This Room is quite odd.  Instead of the normal red wall paper and marble
+floors, the walls are all polished granite.  The floors, a different shade
+of granite are inlayed with a dark green rock that is slightly transparent. 
+The inlay is actually a picture of a massive mountian with various doors and
+exits.  There is a door to either side of you, one labled Dark Dwarves, the
+other Light Dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 4305
+D1
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4320
+S
+#4305
+The Grand Hallway~
+As you walk through this room you decide that something is following you.
+You cant quite decide what, but you know its hostile.  Your eyes dart around
+from corner to corner never catching a glimpse of the mysterious follower. 
+Again, you turn around only too see the previous room looming behind you. 
+You shrug off any feeling of fear and walk on.  To either side of you there
+are doors, one labled Ogers, the other labled Knights.  
+~
+0 0 0
+D0
+~
+~
+0 0 4306
+D1
+~
+~
+0 0 4321
+D2
+~
+~
+0 0 4304
+D3
+~
+~
+0 0 4322
+S
+#4306
+The Grand Hallway~
+As you walk in to this room you feel a calm fall over you.  This room
+seems to kept well in order, all of the marble polished to perfection, the
+walls dusted frequently.  To either side of you there are grand archways
+leading to two different exhibits.  One labled the Grand Knight, and the
+other labled The Ogre Mage 
+~
+0 0 0
+D0
+~
+~
+0 0 4307
+D1
+~
+~
+0 0 4323
+D2
+~
+~
+0 0 4305
+D3
+~
+~
+0 0 4324
+S
+#4307
+The Grand Hallway~
+This room wreaks of garlic and other unescribeable odors.  Faint
+chantings of intancations in a mysterious language float in to the room. 
+The room itself is not noticeably different than that of the last polished
+floors, grand archways, and that same feeling of peace. To either side of you
+there are large doorways one labled White Mage and the other labled Black
+Mage 
+~
+0 0 0
+D0
+~
+~
+0 0 4308
+D1
+~
+~
+0 0 4325
+D2
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4326
+S
+#4308
+The Grand Hallway~
+You still smell the odd odors wafting in from the room before this one. 
+The room is also very similar to that of the previous, polished marble
+floors, and deep red wallpaper.  To the north is a solid oak door that will
+stop virtually anything, it seems to be glowing with some sort of magic.  In
+the center of the door there is a solid gold latch with a large key hole in
+it.  Perhaps you should get a key?  
+~
+0 0 0
+D0
+~
+~
+4 4308 4309
+D1
+~
+~
+0 0 4327
+D2
+~
+~
+0 0 4307
+D3
+~
+~
+0 0 4328
+S
+#4309
+The end of the Grad Hallway~
+This room seems to split right down the center.  On one side, everything
+is made of the blackest of black marble.  On the other, everything is made
+of the purest white marble.  Either side is an exact mirror of the other,
+everything placed exactly the same.  This room is quite magnifcigant.  On
+the white half of the room, the door and all of the decorations are made of
+polished gold.  On the black half, everything is made of the purest
+platinum.  
+~
+0 0 0
+D1
+~
+~
+0 0 4329
+D2
+~
+~
+4 0 4308
+D3
+~
+~
+0 0 4330
+S
+#4310
+The Grand Hallway~
+Bodyguard/bodyguard
+~
+0 0 0
+D0
+~
+~
+0 0 4311
+D1
+~
+~
+0 0 4331
+D3
+~
+~
+0 0 4332
+S
+#4311
+The Grand Hallway~
+Queen/Mistress@
+~
+0 0 0
+D0
+~
+~
+0 0 4312
+D1
+~
+~
+0 0 4333
+D2
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4334
+S
+#4312
+The end of the Grand Hallway~
+King/Overlord
+~
+0 0 0
+D1
+~
+~
+0 0 4335
+D2
+~
+~
+0 0 4311
+D3
+~
+~
+0 0 4336
+S
+#4313
+The Room of the Orcs~
+~
+0 0 0
+D3
+~
+~
+0 0 4301
+S
+#4314
+The room of the Pesants~
+~
+0 0 0
+D1
+~
+~
+0 0 4301
+S
+#4315
+The Room of the Goblins~
+~
+0 0 0
+D3
+~
+~
+0 0 4302
+S
+#4316
+The Room of the Squires~
+~
+0 0 0
+D1
+~
+~
+0 0 4302
+S
+#4317
+The Room of the Dark Elfs~
+~
+0 0 0
+D3
+~
+~
+0 0 4303
+S
+#4318
+The room of the Wood Elfs~
+~
+0 0 0
+D1
+~
+~
+0 0 4303
+S
+#4319
+The room of the Dark Dwarfs~
+~
+0 0 0
+D3
+~
+~
+0 0 4304
+S
+#4320
+The room of the Dwarfs~
+~
+0 0 0
+D1
+~
+~
+0 0 4304
+S
+#4321
+The room of the Ogres~
+~
+0 0 0
+D3
+~
+~
+0 0 4305
+S
+#4322
+The Room of the Knights~
+~
+0 0 0
+D1
+~
+~
+0 0 4305
+S
+#4323
+The Room of the Ogre Mages~
+~
+0 0 0
+D3
+~
+~
+0 0 4306
+S
+#4324
+The room of the Proud Knights~
+~
+0 0 0
+D1
+~
+~
+0 0 4306
+S
+#4325
+The Room of the Black Mages~
+~
+0 0 0
+D3
+~
+~
+0 0 4307
+S
+#4326
+the Room of the White Mages~
+~
+0 0 0
+D1
+~
+~
+0 0 4307
+S
+#4327
+The bodyguards quarters~
+~
+0 0 0
+D3
+~
+~
+0 0 4308
+S
+#4328
+The bodyguards quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 4308
+S
+#4329
+The Room of the Dark King~
+~
+0 0 0
+D3
+~
+~
+0 0 4309
+S
+#4330
+The Room of the Holy King~
+~
+0 0 0
+D1
+~
+~
+0 0 4309
+S
+#4331
+The room of the Black Bodyguards~
+~
+0 0 0
+D3
+~
+~
+0 0 4310
+S
+#4332
+The room of the White Bodyguards~
+~
+0 0 0
+D1
+~
+~
+0 0 4310
+S
+#4333
+The room of the Overlord's Mistress~
+~
+0 0 0
+D3
+~
+~
+0 0 4311
+S
+#4334
+The room of the Queen~
+~
+0 0 0
+D1
+~
+~
+0 0 4311
+S
+#4335
+The room of the Evil Overlord~
+~
+0 0 0
+D3
+~
+~
+0 0 4312
+S
+#4336
+The Room of the King~
+~
+0 0 0
+D1
+~
+~
+0 0 4312
+S
+#4400
+A closet in the museum~
+There is dusk pileing up here.  There is many mops an brooms, but no one
+has used these in years.  
+~
+0 0 0
+D1
+~
+~
+1 0 4208
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4205 3 1 The west door of The entrance to the museum is closed
+D 0 4206 1 1 The east door of Inside the museum is closed
+D 0 4208 3 2 The west door of The bathroom is closed and locked
+D 0 4290 0 2 The north door of vampire room is closed and locked
+D 0 4308 0 2 The north door of The Grand Hallway is closed and locked
+D 0 4309 2 2 The south door of The end of the Grad Hallway is closed and locked
+D 0 4400 1 2 The east door of A closet in the museum is closed and locked
+M 0 4201 10 4205 2 *Load the museum guard
+E 0 4201 0 16 *The museum guard's sword is loaded wielded of the museum guard
+E 0 4202 0 11 *The museum guard's shield is loaded as a shield of the museum guard
+O 0 4203 0 4207 *A fountain loaded to The lobby of the museum
+O 0 4204 0 4207 *A relaxing couch loaded to The lobby of the museum
+O 0 4205 0 4208 *The giant toilet loaded to The bathroom
+M 0 4202 10 4221 3 *Load the poltergeist
+M 0 4203 10 4222 3 *Load the animal skeleton
+M 0 4204 10 4224 3 *Load the skeleton
+M 0 4205 10 4225 3 *Load the ghoul
+M 0 4206 10 4227 3 *Load the lacedon
+M 0 4207 10 4228 3 *Load the ghast
+M 0 4208 10 4230 3 *Load the heucuva
+M 0 4209 10 4231 3 *Load the zombie
+M 0 4210 10 4233 3 *Load the shadow
+M 0 4211 10 4234 3 *Load the JuJu zombie
+M 0 4212 10 4236 3 *Load the wight
+M 0 4213 10 4237 3 *Load the giant skeleton
+M 0 4214 10 4239 3 *Load the haunt
+M 0 4215 10 4240 3 *Load the wraith
+M 0 4216 10 4242 3 *Load the mummy
+M 0 4217 10 4243 3 *Load the zombie lord
+M 0 4218 10 4245 3 *Load the banshee
+M 0 4219 10 4246 3 *Load the undead beholder
+M 0 4220 10 4248 3 *Load the spectre
+M 0 4221 10 4249 3 *Load the revenant
+M 0 4222 10 4251 3 *Load the vampire
+M 0 4223 10 4252 3 *Load the death knight
+E 0 4206 0 16 *The sword of {8death{0 is loaded wielded of the death knight
+M 0 4224 10 4254 3 *Load the skeleton warrior
+E 0 4207 0 16 *The {7skeletal{0 sword is loaded wielded of the skeleton warrior
+M 0 4225 10 4255 3 *Load the {7ghost{0
+M 0 4226 10 4257 3 *Load the lich
+M 0 4227 10 4258 3 *Load the dracolich
+O 0 4308 0 4308 *A grand {#gold{x key loaded to The Grand Hallway
+M 0 4327 3 4309 1 *Load The Royal Bodyguard
+E 0 4327 0 16 *A {8dark{x dagger is loaded wielded of The Royal Bodyguard
+M 0 4228 3 4313 3 *Load The orc
+M 0 4228 3 4313 3 *Load The orc
+M 0 4228 3 4313 3 *Load The orc
+M 0 4327 3 4327 1 *Load The Royal Bodyguard
+E 0 4327 0 16 *A {8dark{x dagger is loaded wielded of The Royal Bodyguard
+G 0 4308 0 *A grand {#gold{x key is given to The Royal Bodyguard
+M 0 4327 3 4328 1 *Load The Royal Bodyguard
+E 0 4327 0 16 *A {8dark{x dagger is loaded wielded of The Royal Bodyguard
+G 0 4308 0 *A grand {#gold{x key is given to The Royal Bodyguard
+M 0 4329 1 4329 1 *Load The Dark King
+E 0 4329 0 16 *The shielded {$d{4arkflame{x is loaded wielded of The Dark King
+M 0 4330 1 4330 1 *Load The holy King
+E 0 4330 0 17 *{wspellshock bullwhip{x is loaded held in the hands of The holy King
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,110 @@
+#AREADATA
+Name Raid Quest~
+Builders Unlinked~
+VNUMs 40000 40199
+Continent 0
+Credits Tien~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#40000
+raider leader~
+{&U{7ndead {!RAID {@Leader{x~
+{&U{7ndead {!RAID {@Leader{x is here directing the attack on Midgaard.
+~
+~
+human~
+ABMO 0 0 0 0
+150 500 50d50+50000 0d0+0 50d50+5000 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40001
+ragnarok survivors leader~
+{&R{7agnarok {!S{1urvivors {@Leader{x~
+{&R{7agnarok {!S{1urvivors {@Leader{x stands here defending Midgard.
+~
+~
+human~
+ABMO 0 0 0 0
+150 500 50d50+50000 0d0+0 50d50+5000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40006
+undead raider skeleton~
+{&U{7ndead {7S{*keleton {!R{1aider{x~
+An {&U{7ndead {7S{*keleton {!R{1aider{x is here attacking Midgard!
+~
+~
+lizardman~
+A b 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+AFIK 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#40000
+Raid Quest Planning Room~
+~
+0 4 0
+S
+#40001
+{&U{7ndead {!R{1aiders {#HQ{x~
+~
+0 4 0
+S
+#40002
+{&R{7agnarok {!S{1urvivors {#HQ{x~
+~
+0 4 0
+S
+#40003
+{&U{7ndead {!R{1aiders {#B{3unk{@h{3ouse{x~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 40006 spec_troll_member Load to: {&U{7ndead {7S{*keleton {!R{1aider{x
+S
+
+
+
+#RESETS
+M 0 40000 1 40001 1 *Load {&U{7ndead {!RAID {@Leader{x
+M 0 40001 1 40002 1 *Load {&R{7agnarok {!S{1urvivors {@Leader{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

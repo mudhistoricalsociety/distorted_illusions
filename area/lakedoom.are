@@ -1,0 +1,1188 @@
+#AREADATA
+Name Lake of Doom~
+Builders Unlinked~
+VNUMs 11401 11499
+Continent 1
+Credits [80 95 ] Nimaci   Lake Doom~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#11401
+guardian doom~
+{DG{wuar{Ddi{wan {wof {RD{room{x~
+{WT{whe {DG{wuar{Ddi{wan of {RD{room{x attacks you in {Rf{rear{R!{x
+~
+White hair flows down through the grey cloak hood, around a narrow fair
+chin,and pouted sapphire lips. The guardian stands around 6'5 holding an oak
+staff. His cloak smoke grey, with a wooden brooch, representing the sign of
+Hell. The seems of his cloak outlined in darkness, he slightly, as he is pleased to see a new victim.
+pleased to see you.  
+~
+human~
+ABFGLW VZc ENO -1000 0
+155 300 15d10+7000 1d115+1000 20d25+100 thwack
+100 100 100 100
+EFGHK ABJLNQST 0 MY
+stand stand none 1000
+C 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11402
+small imp~
+{*S{7mall{x {!I{1mp{x~
+A {*S{7mall{x {!I{1mp{x is flying by looking for food.
+~
+A tiny humanoid creature with leathery batwings, barbed tail, and sharp, twisted horns.
+The skin is dark red, the horns and jagged teeth are white. It stands 2 feet tall and
+weight about 8 pounds.
+~
+wyvern~
+ABR DFT 0 -1000 0
+155 0 15d10+7000 1d115+1000 20d25+100 sting
+-20 -20 -30 -50
+CFH HL 0 N
+stand stand none 1000
+ABGZ ACDEFHJKQUVX tiny unknown
+F vul S
+#11403
+small hell hound~
+{DS{wmall {RH{rell {RH{round{x~
+A {DS{wmall {RH{rell {RH{round{x is watching for new {Rv{rictims{w.{x
+~
+The creature resembles a large, powerfully built dog with short,
+rusted red fur. Its markings, teeth and tongue are sooty black.
+~
+dog~
+ABCT 0 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 bite
+-20 -20 -30 -50
+H H 0 0
+stand stand none 1000
+AGV ACDEFHJKUV small unknown
+#11404
+lemure~
+{!L{1emure{x~
+A {!L{1emure{x is here looking for blood.
+~
+A revolting blob of molten flesh, about 5 feet tall, with
+vaguely humanoid torsos and heads. Their features are twisted
+into permanent expressions of anguish.
+~
+beastman~
+ABT DFJTc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-20 -20 -30 -50
+CDFH HL 0 N
+stand stand none 1000
+ABG ABCDEFGHIJKQUVX medium unknown
+F res C
+F for HMV
+#11405
+osyluth~
+{!O{1syluth{x~
+An {!O{1syluth{x is here patrolling the area.
+~
+The creature looks bony and wretched, almost a husk of a humanoid form,
+torped with a fearsome skull whose sickly, dried skin is stretched tight.
+It has a tail like a scorpion and exudes a foul odor of decay. It stands
+about 9 feet tall.
+~
+beastman~
+ABT DFJTc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 sting
+-20 -20 -30 -50
+CDFH HL 0 N
+stand stand none 1000
+ABGHM ABCDEFGHIJKQUVX large unknown
+F res C
+F for V
+#11406
+kyton~
+{!K{1yton{x~
+A {!K{1yton{x is here looking for someone to torture.
+~
+A humanoid creature wrapped in the chains and hooks of hell.
+~
+beastman~
+ABT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-20 -20 -30 -50
+CDFH HL 0 N
+stand stand none 1000
+ABGM ABCDEFGHIJKQUVX medium unknown
+F res C
+F for HV
+#11407
+barbazu~
+{!B{1arbazu{x~
+A {!B{1arbazu{x patrols the halls of the castle.
+~
+A foul humanoid creature about 6 feet tall, with a long tail clawed hands and feet,
+pointed ears, and a snaky disgusting beard. Its skin is moist, though scaly like a
+reptile's.
+~
+beastman~
+ABGT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-35 -35 -45 -65
+CDFH HL 0 N
+stand stand none 1000
+ABGM ABCDEFGHIJKQUVX medium unknown
+F res C
+F for HV
+#11408
+slave~
+{!S{1lave{x~
+A {!S{1lave{x is here waiting to serve his demon masters.
+~
+The tormented slaves have fear in their eyes, but also an evil
+presence, showing their true nature.
+~
+beastman~
+ABGT DFJ 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 smash
+-20 -20 -30 -50
+CDFH 0 0 0
+stand stand male 1000
+ABGMV ABCDEFGHIJKQUVX medium unknown
+F res C
+F for H
+#11409
+chupacabras~
+{*C{&hu{*p{&ac{*ab{&r{*as{x~
+The {*C{&hu{*p{&ac{*ab{&r{*as{x is here chained to the wall.
+~
+The creature resembles a large, powerfully built dog with short,
+rusted red fur. Its markings, teeth and tongue are sooty black.
+~
+dog~
+ABFGT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 pierce
+-40 -40 -50 -70
+CDFHKM HL 0 N
+stand stand none 1000
+ABGMV ABCDEFGHIJKQUVX large unknown
+#11410
+mondragon~
+{*M{&on{*d{&rag{*on{x~
+{*M{&on{*d{&rag{*on{x the demon commander is here.
+~
+The demon commander stands 7 feet tall and is covered with sharp barbs,
+right down to the tip of its long, meaty tail. The commander has long,
+sharp claws on its hands and keen eyes that shift and dart about, making
+it look perpetually nervous.
+~
+beastman~
+ABFGT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-40 -40 -50 -70
+CDFHKM HL 0 N
+stand stand none 1000
+ABGHMV ABCDEFGHIJKQUVX large unknown
+F res C
+#11411
+cornugon~
+{!C{1ornugon{x~
+A {!C{1ornugon{x guards this area.
+~
+The creature is 9 feet tall, only vaguely humanoid, and covered
+with hideous scales. Its huge wings and snaking, prehensile tail
+add to its intimidating appearance.
+~
+beastman~
+ABFGT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-35 -35 -45 -65
+CDFH HL 0 N
+stand stand none 1000
+ABGM ABCDEFGHIJKQUVX large unknown
+F res C
+F for HV
+#11412
+king sokazub~
+{*K{&in{*g {!S{*ok{!az{*u{!b{x~
+{*K{&in{*g {!S{*ok{!az{*u{!b{x is here sitting on his throne.
+~
+The King of the castle stands here 9 feet tall, vaguely humanoid and covered
+with hideous scales. Its huge wings and snaking, prehensile tail add to its
+intimidating appearance. The king is protected by a custom made demon armor
+and wields a scepter covered with hellish markings.
+~
+beastman~
+ABFGT DFJc 0 -1000 0
+155 0 15d10+7000 0d0+0 20d25+100 slash
+-45 -45 -55 -75
+CDFHKM HL 0 N
+stand stand none 1000
+ABGHMV ABCDEFGHIJKQUVX large unknown
+F res C
+#0
+
+
+
+#OBJECTS
+#11401
+key doom~
+key to the {RD{room{x~
+A strang key is lying on the floor.~
+iron~
+key AC A
+0 0 0 0 0
+1 0 0 P
+#11402
+tooth chupacabras demon~
+{*D{&em{*o{&n{x {&T{*oo{&t{*h{x~
+A {*D{&em{*o{&n{x {&T{*oo{&t{*h{x lies here.~
+Bone~
+weapon Y AN
+dagger 90 1 pierce EH
+85 2 5000 P
+A
+2 -2
+A
+5 -2
+A
+1 -2
+A
+19 5
+#11403
+demon hide chupacabras~
+{*D{&em{*o{&n H{*id{&e{x~
+A {*D{&em{*o{&n H{*id{&e{x lies here.~
+unknown~
+armor Y AK
+BCDE BCDE BCDE BCDE 0
+85 7 5000 P
+#11404
+sword doom~
+{!S{1word{x of {!D{1oom{x~
+The {!S{1word{x of {!D{1oom{x lies here.~
+Steel~
+weapon Y AN
+sword 90 1 slash EH
+85 5 5000 P
+A
+18 -15
+#11405
+demon armor~
+{!D{1emon {!A{1rmor{x~
+A {!D{1emon {!A{1rmor{x lies here.~
+unknown~
+armor Y AD
+BCDE BCDE BCDE BCDE 0
+85 7 5000 P
+#11406
+throne room key~
+{!T{1hrone {!R{1oom {!K{1ey{x~
+A {!T{1hrone {!R{1oom {!K{1ey{x lies here.~
+unknown~
+key U AO
+0 0 0 0 0
+0 0 0 P
+#11407
+scepter hell~
+{!S{1cepter{x of {!H{1ell{x~
+The {!S{1cepter{x of {!H{1ell{x lies here.~
+Steel~
+weapon Y AN
+mace 93 1 slash AE
+90 5 5000 P
+A
+17 13
+#11408
+sokazub armor breastplate~
+{!S{*ok{!az{*u{!b B{1reastplate{x~
+{!S{*ok{!az{*u{!b B{1reastplate{x lies here.~
+unknown~
+armor Y AD
+BCDE BCDE BCDE BCDE 0
+90 7 5000 P
+A
+13 30
+A
+1 -1
+#11409
+sokazub armor armplate~
+{!S{*ok{!az{*u{!b {!A{1rmplate{x~
+{!S{*ok{!az{*u{!b {!A{1rmplate{x lies here.~
+unknown~
+armor Y AI
+BCDE BCDE BCDE BCDE 0
+90 7 5000 P
+A
+18 5
+A
+3 -1
+#11410
+sokazub armor head~
+{!S{*ok{!az{*u{!b {!H{1elmet{x~
+{!S{*ok{!az{*u{!b {!H{1elmet{x lies here.~
+list~
+armor Y AE
+BCDE BCDE BCDE BCDE 0
+90 7 5000 P
+A
+19 5
+A
+4 -1
+#11411
+sokazub armor legs~
+{!S{*ok{!az{*u{!b {!L{1egplate{x~
+{!S{*ok{!az{*u{!b {!L{1egplate{x lies here.~
+unknown~
+armor Y AF
+BCDE BCDE BCDE BCDE 0
+90 7 5000 P
+A
+20 -1
+#11412
+sokazub armor shield~
+{!S{*oz{!az{*u{!b S{1hield{x~
+{!S{*oz{!az{*u{!b S{1hield{x lies here.~
+unknown~
+armor Y AJ
+DF DF DF DF 0
+90 7 5000 P
+A
+2 -3
+#11413
+sokazub armor ring~
+{!S{*ok{!az{*u{!b R{1ing{x~
+{!S{*ok{!az{*u{!b R{1ing{x lies here.~
+unknown~
+armor Y AB
+0 0 0 0 0
+90 7 5000 P
+A
+5 2
+A
+2 2
+A
+4 2
+A
+20 1
+A
+13 100
+#11414
+sokazub armor earrings~
+{!S{*ok{!az{*u{!b E{1arrings{x~
+{!S{*ok{!az{*u{!b E{1arrings{x is here.~
+unknown~
+armor Y AS
+BD BD BD BD 0
+90 7 5000 P
+A
+9 20
+A
+20 -1
+A
+18 -5
+#11415
+portal hell~
+{!P{*or{!ta{*l {!to {!H{1ell{x~
+A {!P{*or{!ta{*l {1to {!H{1ell {#burns{x at the end of the room.~
+unknown~
+portal RY 0
+0 K A ACFHLN 0
+0 0 0 P
+#11498
+portal kingdoms~
+a {DPortal {wleading to {DKingdoms{x~
+{Wa {DPortal {Wleading to {CK{cing{Cdom{cs{x~
+unknown~
+portal AB 0
+0 0 0 ACDEGKO 0
+1 0 0 P
+#11499
+chair~
+{CM{cur{Cph{cy{C's {GC{gha{Gi{gr{x~
+{CM{cur{Cph{cy{C's {GC{gha{Gi{gr{x is standing by his throne.~
+unknown~
+furniture ABGI 0
+A DHIJM EHK CEFGHI CEFGHI
+106 500 0 P
+#0
+
+
+
+#ROOMS
+#11401
+{DE{wntr{Dan{wce {wto the {CL{cake{x~
+Before you stands the Lake of Doom. A small hole in the base of the mountain leads
+down to what was once a holy place. The hole is guarded by a demon-like creature.
+A mockery of the old guardians of the lake. A druid converted to the whorship of evil.
+~
+0 4 4
+D0
+~
+~
+1 11401 11402
+D2
+~
+~
+0 0 3527
+S
+#11402
+{DCross{wroads {iin the {b{CL{cake{x~
+Rolling up through a hole surrounded by small stones, an ethreal
+flame.  Glowing of a bright blue hue, it tumbles up wards, to the tree tops.
+No heat is emmited from this mysterious monument, only the light of pure
+balance burns.  Four paths follow the cardnal directions, wavering on into
+the unknown lands of Harlow.
+~
+0 0 4
+D1
+~
+~
+0 0 11413
+D2
+~
+~
+1 0 11401
+D3
+~
+~
+0 0 11403
+S
+#11403
+{DWestern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the west and east to the crossroads.
+~
+0 0 4
+D1
+~
+~
+0 0 11402
+D3
+~
+~
+0 0 11404
+S
+#11404
+{DWestern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the north and east.
+~
+0 0 4
+D0
+~
+~
+0 0 11405
+D1
+~
+~
+0 0 11403
+S
+#11405
+{DH{weading {DN{worth to the {RC{rastle{x~
+The path becomes more smooth, indicating some kind of manual work. A crude road 
+begins to form as you head north. Fire and smoke still growns from the unholy
+land and the smell of sulfur is stronger. To the north the road continues
+leading to some kind of construction. The unholy lake continues to the south.
+~
+0 0 4
+D0
+~
+~
+0 0 11406
+D2
+~
+~
+0 0 11404
+S
+#11406
+{DOn {Dt{whe {Dpath {wto the {RC{rastle{x~
+The road is now clear on the floor. It is made of some red stone and leads north
+to what now seems to be a building in the format of a castle. 
+Fire and smoke still growns from the unholy land and the smell of sulfur is stronger.
+The path also continues to the south where the strange road begins.
+~
+0 0 4
+D0
+~
+~
+0 0 11407
+D2
+~
+~
+0 0 11405
+S
+#11407
+{DFurther {Don {Wthe {Dpath {wto the {RC{rastle{x~
+The red stone road continues to the east, heading closer to the castle.
+Fire and smoke still growns from the unholy land and the smell of sulfur is even stronger.
+The path also continues to the south still on the strange road.
+~
+0 0 4
+D1
+~
+~
+0 0 11408
+D2
+~
+~
+0 0 11406
+S
+#11408
+{DFurther {Don {Wthe {Dpath {wto the {RC{rastle{x~
+The road ends in a staircase built on the rock formation. It leads down to the
+castle entrance. Viewed from above the castle seems to be big and well secured.
+The path also continues to the west still on the strange road.
+~
+0 0 5
+D3
+~
+~
+0 0 11407
+D5
+~
+~
+0 0 11409
+S
+#11409
+{DEntering {Wthe {RC{rastle{x~
+The staircase ends neaer the castle entrance. The castle itself is surrounded by  
+a lake of lava. As you approach the door the edge to find a way in, the metal
+bridge is lowered as if you were expected. To the south the castle awaits and the
+staircase leads up towards the strange red road.
+~
+0 0 4
+D2
+~
+~
+0 0 11410
+D4
+~
+~
+0 0 11408
+S
+#11410
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. To the north a metal
+bridge leads back to the strange road and to the east the halls of the castle continues.
+~
+0 0 0
+D0
+~
+~
+0 0 11409
+D1
+~
+~
+0 0 11411
+S
+#11411
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the east and west towards the castle exit.
+~
+0 0 0
+D1
+~
+~
+0 0 11412
+D3
+~
+~
+0 0 11410
+S
+#11412
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the east and west towards the castle exit.
+~
+0 0 0
+D1
+~
+~
+0 0 11420
+D3
+~
+~
+0 0 11411
+S
+#11413
+{DEastern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the east and west to the crossroads.
+~
+0 0 4
+D1
+~
+~
+0 0 11414
+D3
+~
+~
+0 0 11402
+S
+#11414
+{DEastern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 11415
+D3
+~
+~
+0 0 11413
+S
+#11415
+{DEastern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 11416
+D3
+~
+~
+0 0 11414
+S
+#11416
+{DEastern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 11417
+D3
+~
+~
+0 0 11415
+S
+#11417
+{DEastern {wPart of the {b{CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to all directions.
+~
+0 0 4
+D0
+~
+~
+0 0 11431
+D1
+~
+~
+0 0 11433
+D2
+~
+~
+0 0 11432
+D3
+~
+~
+0 0 11416
+S
+#11418
+~
+~
+0 4 0
+S
+#11419
+~
+~
+0 4 0
+S
+#11420
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the east, west and south towards the throne room.
+~
+0 0 0
+D1
+~
+~
+0 0 11421
+D2
+~
+~
+0 0 11422
+D3
+~
+~
+0 0 11412
+S
+#11421
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the east and west towards the intersection.
+~
+0 0 0
+D1
+~
+~
+0 0 11428
+D3
+~
+~
+0 0 11420
+S
+#11422
+{DEntering {wthe {RT{rhrone{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the north and south towards the throne room.
+~
+0 0 0
+D0
+~
+~
+0 0 11420
+D2
+~
+~
+0 0 11423
+S
+#11423
+{DTowards {wthe {RT{rhrone{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the north and south towards the throne room.
+~
+0 0 0
+D0
+~
+~
+0 0 11422
+D2
+~
+~
+0 0 11424
+S
+#11424
+{DBefore {wthe {RT{rhrone{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. The path continues
+to the east and west leading for what seems to be the slave pits and south
+towards the throne room.
+~
+0 0 0
+D0
+~
+~
+0 0 11423
+D1
+~
+~
+0 0 11427
+D2
+~
+~
+1 11406 11425
+D3
+~
+~
+0 0 11426
+S
+#11425
+{RT{rhrone {wof {RS{Dok{Raz{Du{Rb{x~
+The throne room is the biggest and most hellish part of the castle.
+The concentration of sulfur and smoke makes it almost impossible to
+see the end of the room. As your vision get use to the atmosphere two
+silhouettes appear. A throne and a large winged demon siting on it. 
+~
+0 0 0
+D0
+~
+~
+1 0 11424
+S
+#11426
+{RS{rlave {DRoom{x~
+The slave pits are made of some kind red metal. The floor emanates heat
+making the room very unpleasant for the slaves. The only exit is trough 
+the east door.
+~
+0 0 0
+D1
+~
+~
+0 0 11424
+S
+#11427
+{RS{rlave {DRoom{x~
+The slave pits are made of some kind red metal. The floor emanates heat
+making the room very unpleasant for the slaves. The only exit is trough 
+the west door.
+~
+0 0 0
+D3
+~
+~
+0 0 11424
+S
+#11428
+{DHalls {wof the {RC{rastle{x~
+The castle walls are made of the same red stone used on the road above.
+But unlike the road, the stones here glows red like a pulsation. The smell
+of sulfur is strong, making the walk and vision more dense and heavy.
+The halls are patrolled by higher hellish creatures. To the north a loud roar
+can be heard, as the noise of chains beating against stone. To the south an
+evil presence can be felt in the air. The path goes back west to the castle halls.
+~
+0 0 0
+D0
+~
+~
+0 0 11429
+D2
+~
+~
+0 0 11430
+D3
+~
+~
+0 0 11421
+S
+#11429
+{RL{rair {wof {DC{Whu{Dp{Wac{Dab{Wr{Das{x~
+The room is filled with bones and rotten meat. Against the south wall a creature
+is chained against the wall. The chains keeping the creature are old and could break
+at any time as the creature advances towards unwelcome visitors.
+~
+0 0 0
+D2
+~
+~
+0 0 11428
+S
+#11430
+{RL{rair {wof {DM{Won{Dd{Wrag{Don{x~
+The room of the demon commander is cleaner than most of the castle.
+The red stone walls are covered with demonic markings, maybe some sort
+of protect enchantment. A stone desk stands in the middle of the room
+where the schedule of the castle troops can be seen.
+~
+0 0 0
+D0
+~
+~
+0 0 11428
+S
+#11431
+{*Dead {&End{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the north a natural stone wall blocks the passage. The desolate lands continues
+to the south.
+~
+0 0 4
+D2
+~
+~
+0 0 11417
+S
+#11432
+{DSouthern {wpart of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the south and north.
+~
+0 0 4
+D0
+~
+~
+0 0 11417
+D2
+~
+~
+0 0 11434
+S
+#11433
+{DDead {WEnd{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the east a natural stone wall blocks the passage. The desolate lands continues
+to the west.
+~
+0 0 4
+D3
+~
+~
+0 0 11417
+S
+#11434
+{DSouthern {wpart of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the south and north.
+~
+0 0 4
+D0
+~
+~
+0 0 11432
+D2
+~
+~
+0 0 11435
+S
+#11435
+{DSouthern {wpart of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the south and north.
+~
+0 0 4
+D0
+~
+~
+0 0 11434
+D2
+~
+~
+0 0 11436
+S
+#11436
+{DSouthern {wpart of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+The desolate lands continues to the north and east.
+~
+0 0 4
+D0
+~
+~
+0 0 11435
+D1
+~
+~
+0 0 11437
+S
+#11437
+{DSouth-Eastern {wwall of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the south a natural stone wall blocks the passage. The desolate lands continues
+to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 11438
+D3
+~
+~
+0 0 11436
+S
+#11438
+{DSouth-Eastern {wwall of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the south a natural wall blocks all passage. The desolate lands
+continues to the south and west.
+~
+0 0 4
+D2
+~
+~
+0 0 11439
+D3
+~
+~
+0 0 11437
+S
+#11439
+{DSouthern {wwall of the {CL{cake{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the east and west natural walls blocks all passage. The desolate lands
+continues to the south and north.
+~
+0 0 4
+D0
+~
+~
+0 0 11438
+D2
+~
+~
+0 0 11440
+S
+#11440
+{DDead {WEnd{x~
+The bottom of the old sacred lake now is the home of hellish creatures.
+Fire and smoke growns from the land itself. The stones and earth are
+now dry and unholy. The smell of Sulfur is strong, even in this open area.
+To the south a natural wall blocks all passage. The desolate lands
+continues to the north.
+~
+0 0 4
+D0
+~
+~
+0 0 11439
+S
+#11499
+{CM{cur{Cph{cy{C's {DC{wr{Di{wb{x~
+If you want to sleep, then i pray to the gods to give you this Dream:
+ 
+ 
+                ,="` `""=,       o
+               / ' ,=="""'=:        , __
+       -      /.:    ,--'/=,)  o    \`\\"._     _,
+             |   .='/ <9(9.="       / _  |||:._//)
+            / .:' (J    ^\ \     o_/@ @  ///  |=(
+          .'    .' \  '='/  '-.  ( (`__,     ,`\|
+         / .'  /    \`-:_ . '  \  '.\_/ |\_.'
+   *   /      | ' /` _  \  ::' )   `""```
+       | , .'  :  /`\/ `\ \.::'/.-._///_
+       |/     '   \_,\__/\ \.-'.'----'`
+        \|     '.   \     \   /`-,   *
+          `\ '.' _.-'\    (`-`  .'
+            `-.-' _.-')__./,--'`
+         .--'`,-'`'""`    ` \
+        /`"`-`  :'      ::'  |          *
+       |  .:  .::'   ::  ::' /
+    *  | .:' .-'__    .::  .'
+        \   :'"`  `""----'`
+         \ .'\
+          '.  `\
+            ):' `-.            *
+           / :..:' `-._
+          |  :' ,      `-,
+       *  \   .' `''----`
+           `.(
+ 
+Now i'm sure that you want to be that fish now.......
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 11401 0 2 The north door of {DE{wntr{Dan{wce {wto the {CL{cake{x is closed and locked
+D 0 11424 2 2 The south door of {DBefore {wthe {RT{rhrone{x is closed and locked
+D 0 11425 0 2 The north door of {RT{rhrone {wof {RS{Dok{Raz{Du{Rb{x is closed and locked
+M 0 11401 1 11401 1 *Load {DG{wuar{Ddi{wan {wof {RD{room{x
+G 0 11401 0 *Key to the {rd{room{x is given to {DG{wuar{Ddi{wan {wof {RD{room{x
+M 0 11403 10 11402 2 *Load {DS{wmall {RH{rell {RH{round{x
+M 0 11403 10 11403 2 *Load {DS{wmall {RH{rell {RH{round{x
+M 0 11403 10 11404 2 *Load {DS{wmall {RH{rell {RH{round{x
+M 0 11405 10 11405 2 *Load {!O{1syluth{x
+M 0 11405 10 11406 2 *Load {!O{1syluth{x
+M 0 11406 10 11407 2 *Load {!K{1yton{x
+M 0 11406 10 11408 2 *Load {!K{1yton{x
+M 0 11411 4 11409 2 *Load {!C{1ornugon{x
+M 0 11406 10 11410 2 *Load {!K{1yton{x
+M 0 11406 10 11411 2 *Load {!K{1yton{x
+M 0 11406 10 11412 2 *Load {!K{1yton{x
+M 0 11402 10 11413 2 *Load {*S{7mall{x {!I{1mp{x
+M 0 11402 10 11414 2 *Load {*S{7mall{x {!I{1mp{x
+M 0 11402 10 11415 2 *Load {*S{7mall{x {!I{1mp{x
+M 0 11402 10 11416 2 *Load {*S{7mall{x {!I{1mp{x
+M 0 11402 10 11417 2 *Load {*S{7mall{x {!I{1mp{x
+M 0 11407 10 11420 2 *Load {!B{1arbazu{x
+M 0 11407 10 11421 2 *Load {!B{1arbazu{x
+M 0 11407 10 11422 2 *Load {!B{1arbazu{x
+M 0 11407 10 11423 2 *Load {!B{1arbazu{x
+M 0 11411 4 11424 2 *Load {!C{1ornugon{x
+E 0 11406 0 17 *{!t{1hrone {!r{1oom {!k{1ey{x is loaded held in the hands of {!C{1ornugon{x
+M 0 11412 1 11425 1 *Load {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11407 0 16 *{!s{1cepter{x of {!h{1ell{x is loaded wielded of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11408 0 5 *{!s{*ok{!az{*u{!b b{1reastplate{x is loaded on the body of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11409 0 10 *{!s{*ok{!az{*u{!b {!a{1rmplate{x is loaded on the arms of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11410 0 6 *{!s{*ok{!az{*u{!b {!h{1elmet{x is loaded over the head of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11411 0 7 *{!s{*ok{!az{*u{!b {!l{1egplate{x is loaded on the legs of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11412 0 11 *{!s{*oz{!az{*u{!b s{1hield{x is loaded as a shield of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11413 0 1 *{!s{*ok{!az{*u{!b r{1ing{x is loaded on the left finger of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+E 0 11414 0 21 *{!s{*ok{!az{*u{!b e{1arrings{x is loaded on the ears of {*K{&in{*g {!S{*ok{!az{*u{!b{x
+M 0 11408 10 11426 5 *Load {!S{1lave{x
+M 0 11408 10 11427 5 *Load {!S{1lave{x
+M 0 11407 10 11428 2 *Load {!B{1arbazu{x
+M 0 11409 1 11429 1 *Load {*C{&hu{*p{&ac{*ab{&r{*as{x
+E 0 11402 0 16 *{*d{&em{*o{&n{x {&t{*oo{&t{*h{x is loaded wielded of {*C{&hu{*p{&ac{*ab{&r{*as{x
+E 0 11403 0 12 *{*d{&em{*o{&n h{*id{&e{x is loaded about the shoulders of {*C{&hu{*p{&ac{*ab{&r{*as{x
+M 0 11410 1 11430 1 *Load {*M{&on{*d{&rag{*on{x
+E 0 11404 0 16 *{!s{1word{x of {!d{1oom{x is loaded wielded of {*M{&on{*d{&rag{*on{x
+E 0 11405 0 5 *{!d{1emon {!a{1rmor{x is loaded on the body of {*M{&on{*d{&rag{*on{x
+M 0 11403 10 11431 2 *Load {DS{wmall {RH{rell {RH{round{x
+M 0 11403 10 11432 2 *Load {DS{wmall {RH{rell {RH{round{x
+M 0 11404 10 11433 2 *Load {!L{1emure{x
+M 0 11404 10 11434 2 *Load {!L{1emure{x
+M 0 11404 10 11435 2 *Load {!L{1emure{x
+M 0 11404 10 11436 2 *Load {!L{1emure{x
+M 0 11404 10 11437 2 *Load {!L{1emure{x
+M 0 11405 10 11438 2 *Load {!O{1syluth{x
+M 0 11405 10 11439 2 *Load {!O{1syluth{x
+M 0 11405 10 11440 2 *Load {!O{1syluth{x
+O 0 11499 0 11499 *{cm{cur{cph{cy{c's {gc{gha{gi{gr{x loaded to {CM{cur{Cph{cy{C's {DC{wr{Di{wb{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

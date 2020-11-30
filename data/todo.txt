@@ -1,0 +1,31 @@
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y All-in-one Babble done{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Forsaken get Torrent at 49.{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Conjurer's get Iceward, Fireward, Acidward. Breath Spells gain level lowered{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Archmage gets unite at lvl 75 now instead of 90.{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Wizard classes get spear at 3rd tier{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Hunters get advanced spear at 70{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Bards get advanced dagger at 70{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Alchemist get nexus and portal at 76, and advanced spear at 100.{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Alchemist get iceward at 70{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Banshee gets dual wield at 101{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Voodans get fireward at 90.{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Ninja gets advanced dagger at 100{X
+[{wBree        {B] {yMar  8: {w{Y**{GDONE{Y**{y Necro's get Phase at 75{X
+[{wBree        {B] {yMar  9: {wAudentia gets Modi's Anger
+[{wBree        {B] {yMar  9: {wEnforcer gets Nightwish
+[{wBree        {B] {yMar  9: {wchosen bloodlust
+[{wBree        {B] {yMar  9: {w15 blues for lvl 60 mage
+[{wBree        {B] {yMar  9: {wlvl 25 shop keep 5 blues :: lvl 30 priest 12 blues.
+[{wBree        {B] {yMar  9: {wblacksmithlevel 25 10 blues
+[{wBree        {B] {yMar  9: {w8 blues for kingdoms portal and sky kingdoms portal
+[{wBree        {B] {yMar  9: {w2 blues to start
+[{wBree        {B] {yMar  9: {w2.5 blues for sauna
+[{wBree        {B] {yMar  9: {w2.5 blues for fountain
+[{wBree        {B] {yMar  9: {w60 blues
+[{wBree        {B] {yMar  9: {w58 blues for one eq with 15 hit/dam -15 ac 125 hp/mana 5 regen 4 manaregen
+[{wBree        {B] {yMar  9: {w118 blues total
+[{wBree        {B] {yMar  9: {w17 blues lvl 100 trainer
+[{wBree        {B] {yMar  9: {w135 blues
+[{wBree        {B] {yMar 11: {wgotta add clan look up in the code for the skill for each clan
+[{wBree        {B] {yMay 31: {wfei skuhlk
+[{wBree        {B] {yJun 23: {wDauthi Evawkcohs Gai Highwind Natsu Igneel Wayyne Wigi hush

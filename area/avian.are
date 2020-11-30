@@ -1,0 +1,3320 @@
+#AREADATA
+Name Kingdom Of Gruldoth~
+Builders Shimtis~
+VNUMs 30300 30699
+Credits [HRO]  Shimtis  Kingdom Of Avaindoth~
+Security 9
+End
+
+#MOBILES
+#30300
+tower guard~
+{*{xTower Guard~
+An Avaingoth Tower Guard stands here watching passers by.
+~
+~
+aarakocra~
+ABT DFLTZ 0 -1000 0
+102 60 50d10+9600 1d10+4500 5d10+50 slash
+42 42 42 20
+CDEIKRU ABCFIJM D EHJKP
+stand stand male 2100
+AHMV ABCDEFGHIJKP large unknown
+#30301
+watchtower guard~
+{*{xWatchtower Guard~
+A large black creature with wings spins around to face you.
+~
+~
+aarakocra~
+ABFGTc DFLTZ 0 -1000 0
+102 60 80d12+11000 1d10+4500 10d10+40 slash
+42 42 42 20
+CDEIKRU ABCFIJM D EHJKP
+stand stand male 2500
+AHMV ABCDEFGHIJKP large unknown
+#30302
+high gatekeeper dark angel~
+High Gatekeeper~
+A High Gatekeeper stands here giving out orders.
+~
+~
+aarakocra~
+ABGTc DFLTZ 0 -1000 0
+102 60 100d12+20000 1d10+4500 15d15+100 chop
+53 54 54 59
+CDEIKRU ABCFIJM D EHJKP
+stand stand male 1200
+AHMV ABCDEFGHIJKP large unknown
+#30303
+city guard~
+{*{xCity Guard~
+An Avaingoth City Guard stands here.
+~
+~
+aarakocra~
+ABGTc DFLTZ 0 -1000 0
+102 60 80d10+10000 1d10+4500 10d10+80 slash
+40 42 42 51
+CDEIKRU ABCFIJM D EHJKP
+stand stand male 800
+AHMV ABCDEFGHIJKP large unknown
+#30304
+young slave boy~
+They're slave~
+A slave boy stands here by his master's side.
+~
+This young child has welps from lashing and looks starved half to death.
+~
+human~
+ABHIJc PSTUXYZd 0 1000 0
+40 5 10d20+1700 3d10+100 4d5+15 punch
+13 13 13 9
+EFKLNR IK BCEX HJPS
+stand stand male 1200
+AHMV ABCDEFGHIJK medium unknown
+#30305
+aarakocra slave merchant~
+{*{xAarakocra Slave Merchant~
+A huge aarakocran is here threatening a young child with a whip.
+~
+~
+aarakocra~
+ABGT DFLTZ 0 -1000 0
+102 60 50d10+9600 1d10+4500 5d10+50 slash
+44 44 44 50
+CDEIKR ABCFIJKM D EHJP
+stand stand male 10000
+AHMV ABCDEFGHIJKP large unknown
+#30306
+aarakocran slave merchant shopkeeper~
+Methesin Ga'tyn ~
+A huge aarakocran is here threatening a young child with a whip.
+~
+~
+aarakocra~
+ABGT DFLTZ 0 -1000 0
+102 60 50d10+9600 1d10+4500 5d10+50 slash
+44 44 44 50
+CDEIKR ABCFIJKM D EHJP
+stand stand male 10000
+AHMV ABCDEFGHIJKP large unknown
+#30307
+aarakocran citizen ~
+An Aarakocran Citizen~
+An aarakocran citizen walks by. 
+~
+You see a tall avian wearing long black robes. The bottoms of the robe cover his feet completely, making a quiet rustling sound as he moves.
+He carries one pouch at his side and a rosary in one hand.
+~
+aarakocra~
+ABHT DFJLQTVZc 0 -1000 0
+102 60 50d10+5000 1d10+4500 10d10+50 punch
+30 30 32 40
+CDEIKR ABCFIJM D EHJKP
+stand stand male 10000
+AHMV ABCDEFGHIJKP large unknown
+#30308
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30309
+young slave girl~
+{*{xThey're slave~
+A young, slave girl stands here by her master's side.
+~
+This young child has welps from lashing and looks starved half to death.
+~
+human~
+ABCHI PSTUXYZd 0 1000 0
+40 5 10d20+1700 3d10+100 4d5+15 punch
+13 13 13 9
+EFKLNR IK BCEX HJPS
+stand stand female 15000
+AHMV ABCDEFGHIJK medium unknown
+#30310
+good winged creature~
+good winged creature~
+Good winged creature is here
+~
+~
+aarakocra~
+ABGTc DFLTZ 0 3000 0
+102 60 100d12+20000 1d10+4500 15d15+100 chop
+53 54 54 59
+CDEIKRU ABCFIJM D EHJKP
+stand stand male 1200
+AHMV ABCDEFGHIJKP large unknown
+#30311
+aarakocran clerk~
+{*{xAarakocran Clerk~
+A clerk stands here giving out post assignments
+~
+Tall and slim, the clerk walks from guard to guard explaining their patrol assignments for the shift. Pouches line the sides of his waist and the helt of a long sword pretrudes above his back.
+~
+aarakocra~
+ABHT DFJLQTVZc 0 -1000 0
+102 60 50d10+5000 1d10+4500 10d10+50 punch
+30 30 32 40
+CDEIKR ABCFIJM D EHJKP
+stand stand male 31560
+AHMV ABCDEFGHIJKP large unknown
+#30312
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30313
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30314
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30315
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30316
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30317
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30318
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30319
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30320
+keeper deadly pet owner shopkeeper~
+the keeper of the deadly beasts~
+The Keeper of the Deadly Beasts is here, selling is animals!
+~
+He is a very clean man, with deep black eyes, the build of a warrior and the 
+face of a mage. He seems to be selling the best battle animals in the world. 
+Perhaps he could interest you in some of his beasts?
+~
+unique~
+ABT FJ 0 -1000 0
+70 0 50d10+4500 1d1+212 5d8+19 pierce
+-20 -20 -20 3
+CDEFIKN ABL N K
+stand stand male 5000
+0 0 large unknown
+#0
+
+
+
+#OBJECTS
+#30300
+light flame of hatred~
+{*{xFlame of Hatred~
+A burning red flame hovers here~
+fire~
+light AFIJT A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 0 55000 P
+A
+1 2
+A
+5 2
+A
+13 250
+A
+12 100
+A
+19 15
+A
+18 15
+E
+hatred~
+Overwhelming hatred fills your heart and begins to draw you toward the flame.
+~
+E
+flame~
+Overwhelming hatred fills your heart and begins to draw you toward the flame.
+~
+#30301
+katana aviangoth~
+{*{xAviangoth Katana~
+A dark katana blade gleams with a redish black emptyness.~
+mithril~
+weapon BCI AN
+sword 17 15 pierce BCDFH
+101 325 5000 P
+A
+18 65
+#30302
+wand of acid breath~
+{*{xWand of Acid Breath~
+A long dark metal rod hovers here.~
+bone~
+wand AGJT AO
+101 35 6 'acid breath' 0
+53 130 30300 P
+#30303
+key slavers dark metal~
+{*{xSlavers Key~
+A small spot on the ground seems to be completely void light.~
+unknown~
+key HTZ A
+0 0 0 0 0
+100 4 200 P
+#30304
+axe gatekeeper aviangoth~
+{*{xGatekeeper Axe ~
+A dark metal axe glows here.~
+mithril~
+weapon BCIJL AN
+axe 8 15 drain BCDFH
+101 355 5000 P
+A
+18 75
+A
+19 75
+#30305
+halberd dark metal aviangoth~
+{*{xDark Metal Halberd~
+A long dark metal polearm lies here.~
+Dark Metal~
+weapon BCEFIJLM AN
+polearm 15 20 slice ABDFH
+99 325 8900 P
+A
+18 80
+A
+20 20
+A
+9 4
+A
+13 350
+A
+2 8
+A
+1 5
+A
+19 50
+#30306
+mask dark aarakocran~
+{*{xAarakocran Dark Mask~
+A dark face visor lies here in the dirt.~
+Dark Metal~
+armor AIJL AR
+CE CE CE E 0
+99 30 8500 P
+A
+2 2
+A
+13 200
+A
+18 15
+A
+19 15
+#30307
+helm guard dark angel aviangoth~
+{*{xDarkangel Helm~
+A large guard helmet lies here.~
+hair~
+armor ABCEFGIJLY AE
+ADE BCDE ADE BCDE 0
+95 100 15000 P
+A
+18 10
+A
+19 10
+A
+1 2
+A
+23 50
+#30308
+slaves shackles ~
+slave's shackles~
+A pair of shackles with blood on them.~
+Drak Metal~
+armor ABFGKMTYZ AI
+0 0 0 EG 0
+30 150 1100 P
+A
+14 -3000
+A
+12 -4300
+A
+16 -6000
+A
+5 -20
+A
+1 -10
+A
+18 -50
+A
+19 -5
+#30309
+fountain aarakocran stone carved boy girl~
+an aarakocran stone carved fountian~
+Water flows out of a large stone carved fountain.~
+metal~
+fountain BGI 0
+50000 30000 'water' 0 0
+30 0 0 P
+E
+fountain~
+The carvings seem to have been defiled and the runes erased from this ancient looking fountain. The only things noticable are a small mithril plack at the bottom of one sitting stone in the wall and two large statues in the center of the water.
+~
+E
+statue~
+Made from mithril, the statue has a strange glare in the dark light from above.
+Looking over this rather large statue you see that the face has been worn away, the arms and legs eaten at corrosively and at the feet a small inscription.
+~
+#30310
+boots city guard aviangoth darkangel~
+{*{xDark Angel Guard Boots~
+A pair of drak metal boots lies here in the dirt.~
+Dark Metal~
+armor CFIJLM AG
+ADE ADE ADE BCDE 0
+101 65 53800 P
+F
+A 0 0 P
+A
+19 10
+A
+18 10
+A
+2 6
+A
+13 110
+#30311
+dirk citizen aviangoth~
+{*{xAviangoth Dirk~
+A long dagger made of dark metal is here.~
+Dark Metal~
+weapon AGITY AN
+dagger 10 10 acbite ABEFG
+101 180 21000 P
+A
+18 20
+A
+19 20
+#30312
+shield high guard aviangoth dark angel~
+{*{xDark Angel Shield~
+A four foot long shield is sticking upright in the road.~
+Dark Metal~
+armor ACFIJLT AJQ
+ADE ADE ADE BCDE 0
+101 50 50300 P
+A
+20 -15
+A
+17 -25
+A
+5 6
+A
+13 200
+#30313
+key guard dark metal~
+{*{xDark Angel Guard Key~
+A small spot on the ground seems to be completely void light.~
+unknown~
+key HTZ A
+0 0 0 0 0
+100 4 200 P
+#30314
+longsword clerk aviangoth dark angel~
+{*{xAarakocran Longsword~
+A dark longsword, glowing red, hovers slightly off the ground here. ~
+Dark Metal~
+weapon ABEFGMSTY AN
+sword 17 21 flbite ABDFG
+92 200 54000 P
+A
+19 25
+A
+19 35
+A
+23 -50
+A
+18 20
+#30315
+broach dark angel aarakocran ~
+{*{xBroach of Aarak~
+A clasp, used to fasten cloaks around the neck, has been drop here.~
+Dark Metal~
+armor ABCFIJLT AC
+CE CE CE DF 0
+93 20 43000 P
+A
+19 10
+A
+12 100
+A
+13 160
+A
+18 8
+A
+5 6
+#30316
+kenkuan wooden desk~
+{*{xWooden Clerk's Desk~
+A kenku made, wooden desk sits in the southwest corner.~
+wood ~
+container 0 P
+1000 A 0 1000 50
+0 0 0 P
+#30317
+archway arena~
+the arena ~
+Archway leading into the arena.~
+Stone~
+portal 0 0
+0 K A ABEIJKMNO 0
+90 0 0 P
+#30318
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#30319
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#30320
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#30400
+shimtis axe mob slayer~
+{*{x{$M{&o{$b {$Sl{&ay{$er{x~
+Shimtis' Axe Lies Here.~
+mithril~
+weapon BCI AN
+sword 20 25 none BDGH
+101 355 5000 P
+A
+18 75
+A
+19 75
+A
+18 100
+#0
+
+
+
+#ROOMS
+#30300
+Southern Gates~
+You make your way past the guards to find that the city seems to close in around you with the grip of a death vice.
+The clouds have grown very dark and the thunder louder. The smell of burt flesh seems to hang in the air like a nightmare that took to long to wake up from. The rainy mist makes viewing your surroundings almost impossible.
+You manage to make out the walls of the city with paths leading off to the east and west, and up ahead, the light from a torch smokes and flickers.
+~
+0 1 0
+D0
+~
+~
+0 0 30301
+D1
+~
+~
+0 0 30311
+D2
+~
+~
+0 0 30351
+D3
+~
+~
+0 0 30316
+S
+#30301
+Trade Street~
+Walking between the buildings you see blood trails leading everywhere.
+Off in the distance a load scream sends a chill down your back. The cobblestones seem to make the air thin and cold.
+~
+0 1 0
+D0
+~
+~
+0 0 30302
+D2
+~
+~
+0 0 30300
+S
+#30302
+Trade Street~
+Everywhere you look you see tall, stone carved buildings. Windows, from the second floor of one are casting a strange blue light on the road. Up ahead the screams grow louder. 
+To the north you see aarakocran's holding slaves by chains and carring torches. The sounds of lashings being dealt, pierce through the air every so often.
+~
+0 1 0
+D0
+~
+~
+0 0 30303
+D2
+~
+~
+0 0 30301
+S
+#30303
+Guilds Court~
+A huge open area with merchants and slave everywhere. Guards stand by the sides of slavers as the bargain with one another for different races.
+A large fountain rests in the center on the court. Two tall statues have been placed in the middle of the fountain.
+In the east corner of the court, a judge procides over a heiring between two slavers.
+~
+0 1 0
+D0
+~
+~
+0 0 30304
+D1
+~
+~
+0 0 30441
+D2
+~
+~
+0 0 30302
+D3
+~
+~
+0 0 30440
+S
+#30304
+Trade Street~
+The buildings here look as if they've been looted. The store fronts littered with broken glass and clay shards. From the south you can hear sounds of an auction where slaves are being sold.
+To the north, the roar of a crowd rises over the streets and you can see two city guards walk away from you. Out the corner of your eye you notice a shadow slipping into an alley.
+~
+0 1 0
+D0
+~
+~
+0 0 30305
+D2
+~
+~
+0 0 30303
+S
+#30305
+Grand Arena~
+~
+0 1 0
+D0
+~
+~
+0 0 30306
+D1
+~
+~
+0 0 30449
+D2
+~
+~
+0 0 30304
+D3
+~
+~
+0 0 30450
+S
+#30306
+Trade Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30307
+D2
+~
+~
+0 0 30305
+S
+#30307
+Grand Temple of Azsheek~
+The street opens into a massive cobblestone park. Merchants selling goods, as human slaves load the wagons.
+In the center of the park rests the Grand Temple of Azshreek. Two large statues mark the entrance to temple. The stairs seem to glow and shimmer in the dark glare from the clouds above.
+~
+0 1 0
+D0
+~
+~
+0 0 30308
+D1
+~
+~
+0 0 30432
+D2
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30433
+S
+#30308
+Trade Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30309
+D2
+~
+~
+0 0 30307
+S
+#30309
+Trade Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30310
+D2
+~
+~
+0 0 30308
+S
+#30310
+Gates to Aviandoth~
+~
+0 1 0
+D0
+~
+~
+0 0 30380
+D1
+~
+~
+0 0 30335
+D2
+~
+~
+0 0 30309
+D3
+~
+~
+0 0 30321
+S
+#30311
+South Guard Avenue~
+You begin making your way down this deserted avenue. Flashs of lighnting cross the sky, followed by thundering in your ears. The darkness surrounds you death shroud. 
+To the south is a wider than normal door with what sounds like the barking of orders in another language coming from behind it. To the north, another door, this one with glass panes which show you nothing of the inside. 
+The avenue continues on east and west.
+~
+0 1 0
+D0
+~
+~
+1 0 30482
+D1
+~
+~
+0 0 30312
+D2
+~
+~
+1 0 30427
+D3
+~
+~
+0 0 30300
+S
+#30312
+South Guard Avenue~
+The walls here are covered in a dark burgandy stain. Suddenly you here screams off in the distance followed by the crack of a whip. This sound is replaced by the marching of a guard up on the south wall. 
+The avenue comtinues east and west.
+~
+0 1 0
+D1
+~
+~
+0 0 30313
+D3
+~
+~
+0 0 30311
+S
+#30313
+South Guard Avenue~
+For a moment, the only sound is the deep, uneven rises in your breath, made all that more labored by the cold, thin air. Laughter breaks in from the building to the north. All you can see is that there iis light inside
+but the windows are to steamy to tell anymore. The avenue continues on to the east and west.
+~
+0 1 0
+D1
+~
+~
+0 0 30314
+D3
+~
+~
+0 0 30312
+S
+#30314
+South Guard Avenue~
+You go stumbling into the south wall as you trip over a large sack.  Brushing yourself off, you look around to find that the glow from the sack is casting a rich blue hue on the surrounding walls.  
+The air almost tastes acidic, which may explain the burning in your eyes.  That damp, dank smell still enters your mind with each step getting
+stronger. The footsteps of the wall guard seem to creep nearer. 
+The avenue continues on to the east and west along the southren wall.
+~
+0 5 0
+D1
+~
+~
+0 0 30315
+D3
+~
+~
+0 0 30313
+S
+#30315
+Corner of South and Bloodbain~
+You stand at the bottom of the two huge guard towers. Guard posts at the doors to both have one small light stone giving the streets a less uneasy 
+feeling. The worn road goes on north and west.
+~
+0 1 0
+D0
+~
+~
+0 0 30341
+D1
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 30402
+D3
+~
+~
+0 0 30314
+S
+#30316
+South Guard Avenue~
+Doors can planly be seen to the north and south. The north, having the look of a shop of some sort, while the south appears to be a roughly fashioned steel door bolted to the south wall of the city.
+You get that acidic taste in your mouth as you hear two guards conversing up on the wall.
+The avenue continues on east and west.
+~
+0 1 0
+D0
+~
+~
+0 0 30478
+D1
+~
+~
+0 0 30300
+D2
+~
+~
+1 30313 30468
+D3
+~
+~
+0 0 30317
+S
+#30317
+South Guard Avenue~
+The walls of the city and the ones surounding the buildings which tower over your head, grow darker with each passing moment. Clouds above seem to block out hope itself. 
+The cobblestone road goes on east and west.
+~
+0 1 0
+D1
+~
+~
+0 0 30316
+D3
+~
+~
+0 0 30318
+S
+#30318
+South Guard Avenue~
+The cobblestones here look to be very worn and cracked. To the west you see a bit of light and can hear horses crossing the avenue.
+~
+0 1 0
+D1
+~
+~
+0 0 30317
+D3
+~
+~
+0 0 30319
+D4
+~
+~
+0 0 30454
+S
+#30319
+South Guard Avenue~
+A group of Aarakocras on horse back are here mounting to leave.  
+Human slaves bring the guardsmen filing out of the steel door in the south wall, horses from the city stables to the north.
+The avenue moves on to the east and west.
+~
+0 5 0
+D1
+~
+~
+0 0 30318
+D2
+~
+~
+0 0 30464
+D3
+~
+~
+0 0 30320
+S
+#30320
+Corner of South and Meshith~
+You stand at the bottom of the two huge guard towers. Guard posts at the doors to both have one small light stone giving the streets a less uneasy 
+feeling. The worn road goes on north and east.
+~
+0 1 0
+D0
+~
+~
+0 0 30326
+D1
+~
+~
+0 0 30319
+D2
+~
+~
+0 0 30355
+D3
+~
+~
+0 0 30356
+S
+#30321
+North Guard Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30310
+D3
+~
+~
+0 0 30322
+S
+#30322
+North Guard Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30321
+D3
+~
+~
+0 0 30323
+S
+#30323
+North Guard Avenue~
+~
+0 65537 0
+D1
+~
+~
+0 0 30322
+D3
+~
+~
+0 0 30324
+S
+#30324
+North Guard Avenue~
+~
+0 5 0
+D1
+~
+~
+0 0 30323
+D3
+~
+~
+0 0 30325
+S
+#30325
+Meshith and North~
+You stand at the bottom of the two huge guard towers. Guard posts at the doors to both have one small light stone giving the streets a less uneasy 
+feeling. The worn road goes on south and east.
+~
+0 1 0
+D0
+~
+~
+0 0 30357
+D1
+~
+~
+0 0 30324
+D2
+~
+~
+0 0 30334
+D3
+~
+~
+0 0 30358
+S
+#30326
+Meshith Street~
+~
+0 5 0
+D0
+~
+~
+0 0 30327
+D2
+~
+~
+0 0 30320
+S
+#30327
+Meshith Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30328
+D2
+~
+~
+0 0 30326
+S
+#30328
+Meshith and Domnes ~
+~
+0 1 0
+D0
+~
+~
+0 0 30329
+D1
+~
+~
+0 0 30437
+D2
+~
+~
+0 0 30327
+S
+#30329
+Meshith Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30330
+D2
+~
+~
+0 0 30328
+S
+#30330
+Meshith and Stravent ~
+~
+0 1 0
+D0
+~
+~
+0 0 30331
+D1
+~
+~
+0 0 30453
+D2
+~
+~
+0 0 30329
+S
+#30331
+Meshith Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30332
+D2
+~
+~
+0 0 30330
+S
+#30332
+Meshith St. and Temple Ave.~
+~
+0 1 0
+D0
+~
+~
+0 0 30333
+D1
+~
+~
+0 0 30436
+D2
+~
+~
+0 0 30331
+S
+#30333
+Meshith Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30334
+D2
+~
+~
+0 0 30332
+S
+#30334
+Meshith Street~
+~
+0 5 0
+D0
+~
+~
+0 0 30325
+D2
+~
+~
+0 0 30333
+S
+#30335
+North Guard Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30336
+D3
+~
+~
+0 0 30310
+S
+#30336
+North Guard Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30337
+D3
+~
+~
+0 0 30335
+S
+#30337
+North Guard Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30338
+D3
+~
+~
+0 0 30336
+S
+#30338
+North Guard Avenue~
+~
+0 5 0
+D1
+~
+~
+0 0 30339
+D3
+~
+~
+0 0 30337
+S
+#30339
+Corner of North and Bloodbain~
+You stand at the bottom of the two huge guard towers. Guard posts at the doors to both have one small light stone giving the streets a less uneasy 
+feeling. The worn road goes on south and west.
+~
+0 1 0
+D0
+~
+~
+0 0 30359
+D1
+~
+~
+0 0 30340
+D2
+~
+~
+0 0 30349
+D3
+~
+~
+0 0 30338
+S
+#30340
+North East Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D3
+~
+~
+0 0 30339
+D4
+~
+~
+0 0 30421
+S
+#30341
+Bloodbain Street~
+Trails of blood lead into a door to the west. To the north you can see a torch being carried by an armed guard patroling the city streets. The sounds of slaves screaming and onlookers laughing, can be heard this far from the center of the city.
+~
+0 5 0
+D0
+~
+~
+0 0 30342
+D2
+~
+~
+0 0 30315
+D3
+~
+~
+1 30303 30455
+S
+#30342
+Bloodbain Street~
+The slightest shiver crosses your neck. You see nothing but the huge walls of the buildings on both sides of you. The screams grow louder as the the lights above the center of town provide more light to the dismal streets.
+~
+0 1 0
+D0
+~
+~
+0 0 30343
+D2
+~
+~
+0 0 30341
+D3
+~
+~
+1 30303 30456
+S
+#30343
+Bloodbain and Domnes~
+The intersection of Bloodbain Street and Domnes Avenue marks the spot on which the castle was first stormed 8 years ago. The cobblstones here are completely stained with dark red blood.
+Domnes Of Garhab, self proclaimed ruler of Avaingoth, named this site and roads which connect to it after himself and his triumphs.
+~
+0 1 0
+D0
+~
+~
+0 0 30344
+D2
+~
+~
+0 0 30342
+D3
+~
+~
+0 0 30444
+S
+#30344
+Bloodbain Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30345
+D2
+~
+~
+0 0 30343
+S
+#30345
+Bloodbain and Stravent~
+~
+0 1 0
+D0
+~
+~
+0 0 30346
+D2
+~
+~
+0 0 30344
+D3
+~
+~
+0 0 30446
+S
+#30346
+Bloodbain Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30347
+D2
+~
+~
+0 0 30345
+S
+#30347
+Bloobain and Temple~
+~
+0 1 0
+D0
+~
+~
+0 0 30348
+D2
+~
+~
+0 0 30346
+D3
+~
+~
+0 0 30429
+S
+#30348
+Bloodbain Street~
+~
+0 1 0
+D0
+~
+~
+0 0 30349
+D2
+~
+~
+0 0 30347
+S
+#30349
+Bloodbain Street~
+~
+0 5 0
+D0
+~
+~
+0 0 30339
+D2
+~
+~
+0 0 30348
+S
+#30350
+~
+~
+0 5 0
+S
+#30351
+Out side city gates~
+~
+0 1 0
+D0
+~
+~
+0 0 30300
+D1
+~
+~
+0 0 30360
+D3
+~
+~
+0 0 30397
+S
+#30352
+~
+~
+0 1 0
+D2
+~
+~
+0 0 30375
+D3
+~
+~
+0 0 30376
+S
+#30353
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30385
+D2
+~
+~
+0 0 30386
+S
+#30354
+~
+~
+0 5 0
+S
+#30355
+South West Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 0 0
+D0
+~
+~
+0 0 30320
+D1
+~
+~
+1 0 30465
+D4
+~
+~
+0 0 30412
+S
+#30356
+South West Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D1
+~
+~
+0 0 30320
+D4
+~
+~
+0 0 30409
+S
+#30357
+North West Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D2
+~
+~
+0 0 30325
+D4
+~
+~
+0 0 30415
+S
+#30358
+North West Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D1
+~
+~
+0 0 30325
+D4
+~
+~
+0 0 30418
+S
+#30359
+North East Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D2
+~
+~
+0 0 30339
+D4
+~
+~
+0 0 30424
+S
+#30360
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30361
+D3
+~
+~
+0 0 30351
+S
+#30361
+~
+~
+0 65537 0
+D1
+~
+~
+0 0 30362
+D3
+~
+~
+0 0 30360
+S
+#30362
+~
+~
+0 65537 0
+D1
+~
+~
+0 0 30363
+D3
+~
+~
+0 0 30361
+S
+#30363
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30364
+D3
+~
+~
+0 0 30362
+S
+#30364
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30365
+D3
+~
+~
+0 0 30363
+S
+#30365
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30366
+D3
+~
+~
+0 0 30364
+S
+#30366
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30367
+D2
+~
+~
+0 0 30365
+S
+#30367
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30368
+D2
+~
+~
+0 0 30366
+S
+#30368
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30369
+D2
+~
+~
+0 0 30367
+S
+#30369
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30370
+D2
+~
+~
+0 0 30368
+S
+#30370
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30371
+D2
+~
+~
+0 0 30369
+S
+#30371
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30372
+D2
+~
+~
+0 0 30370
+S
+#30372
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30373
+D2
+~
+~
+0 0 30371
+S
+#30373
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30374
+D2
+~
+~
+0 0 30372
+S
+#30374
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30375
+D2
+~
+~
+0 0 30373
+S
+#30375
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30352
+D2
+~
+~
+0 0 30374
+S
+#30376
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30352
+D3
+~
+~
+0 0 30377
+S
+#30377
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30376
+D3
+~
+~
+0 0 30378
+S
+#30378
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30377
+D3
+~
+~
+0 0 30379
+S
+#30379
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30378
+D3
+~
+~
+0 0 30380
+S
+#30380
+Hall of Souls~
+~
+0 1 0
+D1
+~
+~
+0 0 30379
+D2
+~
+~
+0 0 30310
+D3
+~
+~
+0 0 30381
+S
+#30381
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30380
+D3
+~
+~
+0 0 30382
+S
+#30382
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30381
+D3
+~
+~
+0 0 30383
+S
+#30383
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30382
+D3
+~
+~
+0 0 30384
+S
+#30384
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30383
+D3
+~
+~
+0 0 30385
+S
+#30385
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30384
+D3
+~
+~
+0 0 30353
+S
+#30386
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30353
+D2
+~
+~
+0 0 30387
+S
+#30387
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30386
+D2
+~
+~
+0 0 30388
+S
+#30388
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30387
+D2
+~
+~
+0 0 30389
+S
+#30389
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30388
+D2
+~
+~
+0 0 30390
+S
+#30390
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30389
+D2
+~
+~
+0 0 30391
+S
+#30391
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30390
+D2
+~
+~
+0 0 30392
+S
+#30392
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30391
+D2
+~
+~
+0 0 30393
+S
+#30393
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30392
+D2
+~
+~
+0 0 30394
+S
+#30394
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30393
+D2
+~
+~
+0 0 30395
+S
+#30395
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30394
+D2
+~
+~
+0 0 30396
+S
+#30396
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30395
+D1
+~
+~
+0 0 30400
+S
+#30397
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30351
+D3
+~
+~
+0 0 30398
+S
+#30398
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30397
+D3
+~
+~
+0 0 30399
+S
+#30399
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30398
+D3
+~
+~
+0 0 30400
+S
+#30400
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30399
+D3
+~
+~
+0 0 30396
+S
+#30401
+South East Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D3
+~
+~
+0 0 30315
+D4
+~
+~
+0 0 30403
+S
+#30402
+South East Watchtower~
+Your standing inside of the tower entrance. The steps rise in a spiral stone staircase and disappear around the guide post.
+You reach your hand out to touch the cold, moist, stone wall and make way toward the stairs.
+~
+0 1 0
+D0
+~
+~
+0 0 30315
+D3
+~
+~
+1 0 30462
+D4
+~
+~
+0 0 30406
+S
+#30403
+South East Watchtower~
+~
+0 1 0
+D4
+~
+~
+0 0 30404
+D5
+~
+~
+0 0 30401
+S
+#30404
+South East Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 5 0
+D4
+~
+~
+0 0 30405
+D5
+~
+~
+0 0 30403
+S
+#30405
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30404
+S
+#30406
+South East Watchtower~
+~
+0 1 0
+D4
+~
+~
+0 0 30407
+D5
+~
+~
+0 0 30402
+S
+#30407
+South East Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 5 0
+D3
+~
+~
+0 0 30477
+D4
+~
+~
+0 0 30408
+D5
+~
+~
+0 0 30406
+S
+#30408
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30407
+S
+#30409
+South West Watchtower~
+~
+0 8197 0
+D4
+~
+~
+0 0 30410
+D5
+~
+~
+0 0 30356
+S
+#30410
+South West Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 8193 0
+D4
+~
+~
+0 0 30411
+D5
+~
+~
+0 0 30409
+S
+#30411
+Watchtower Lookout~
+Once coming up the stairwell, you can see out past the small hills to the southwest. The swamp lies on the other side, dark and dismal, seems a forebodeing place.
+~
+0 1 0
+D5
+~
+~
+0 0 30410
+S
+#30412
+South West Watchtower~
+~
+0 1 0
+D4
+~
+~
+0 0 30413
+D5
+~
+~
+0 0 30355
+S
+#30413
+South West Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 5 0
+D1
+~
+~
+0 0 30469
+D4
+~
+~
+0 0 30414
+D5
+~
+~
+0 0 30412
+S
+#30414
+Watchtower Lookout~
+A Dark Angel eyes you as you come up the stairs. Reaching the top, you find a breathtaking view across the desert. The darkness coming from the clouds above begins to give way to the sun shining down on the hot sands. 
+~
+0 1 0
+D5
+~
+~
+0 0 30413
+S
+#30415
+North West Watchtower~
+~
+0 8197 0
+D4
+~
+~
+0 0 30416
+D5
+~
+~
+0 0 30357
+S
+#30416
+North West Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 8193 0
+D4
+~
+~
+0 0 30417
+D5
+~
+~
+0 0 30415
+S
+#30417
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30416
+S
+#30418
+North West Watchtower~
+The walls of the stairs are finely carved and smooth. A gust of wind blows by your head, causing that chill to run your spine again. Seemingly  
+harmless rats run by and you notice a stone that looks as though the mortar has been chipped away
+~
+0 8197 0
+D4
+~
+~
+0 0 30419
+D5
+~
+~
+0 0 30358
+S
+#30419
+North West Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 8193 0
+D4
+~
+~
+0 0 30420
+D5
+~
+~
+0 0 30418
+S
+#30420
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30419
+S
+#30421
+North East Watchtower~
+~
+0 1 0
+D4
+~
+~
+0 0 30422
+D5
+~
+~
+0 0 30340
+S
+#30422
+North East Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 5 0
+D4
+~
+~
+0 0 30423
+D5
+~
+~
+0 0 30421
+S
+#30423
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30422
+S
+#30424
+North East Watchtower~
+~
+0 8197 0
+D4
+~
+~
+0 0 30425
+D5
+~
+~
+0 0 30359
+S
+#30425
+North East Watchtower~
+From around the guide stone, you can see quite clearly out of a large open, arched window.
+The spiral stairs continue up and down and there's an open archway leading out on to the guard wall.
+~
+0 8193 0
+D4
+~
+~
+0 0 30426
+D5
+~
+~
+0 0 30424
+S
+#30426
+Watchtower Lookout~
+~
+0 1 0
+D5
+~
+~
+0 0 30425
+S
+#30427
+Guard Barracks~
+~
+0 1 0
+D0
+~
+~
+1 0 30311
+D1
+~
+~
+0 0 30457
+S
+#30428
+relocate~
+~
+0 1 0
+S
+#30429
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30347
+D3
+~
+~
+0 0 30430
+S
+#30430
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30429
+D3
+~
+~
+0 0 30431
+S
+#30431
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30430
+D3
+~
+~
+0 0 30432
+S
+#30432
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30431
+D3
+~
+~
+0 0 30307
+S
+#30433
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30307
+D3
+~
+~
+0 0 30434
+S
+#30434
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30433
+D3
+~
+~
+0 0 30435
+S
+#30435
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30434
+D3
+~
+~
+0 0 30436
+S
+#30436
+Temple Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30435
+D3
+~
+~
+0 0 30332
+S
+#30437
+Domnes Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30438
+D3
+~
+~
+0 0 30328
+S
+#30438
+Domnes Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30439
+D3
+~
+~
+0 0 30437
+S
+#30439
+Domnes Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30440
+D3
+~
+~
+0 0 30438
+S
+#30440
+Domnes Avenue~
+who
+~
+0 1 0
+D1
+~
+~
+0 0 30303
+D2
+~
+~
+1 0 30479
+D3
+~
+~
+0 0 30439
+S
+#30441
+Domnes Avenue~
+The stones of the road are cracked and weathered. The sounds of the Guilds Court to the west begin to fade and are replaced by the music of a bard coming from the inn to the south. Looking down the road to the east,
+you can make out two large Dark Angels capturing a human. A satisfied merchant stands close by waiting to have his property returned.
+~
+0 1 0
+D1
+~
+~
+0 0 30442
+D2
+~
+~
+1 0 30481
+D3
+~
+~
+0 0 30303
+S
+#30442
+Domnes Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30443
+D3
+~
+~
+0 0 30441
+S
+#30443
+Domnes Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30444
+D3
+~
+~
+0 0 30442
+S
+#30444
+Domnes Avenue~
+The buildings surround you again in that familar uneasy feeling.To the east you see the intersection of to roads and a guard up on the walls partoling.  To the west you see bright lights covering a large intersection. 
+~
+0 1 0
+D1
+~
+~
+0 0 30343
+D3
+~
+~
+0 0 30443
+S
+#30445
+Stravent Avenue~
+~
+0 5 0
+S
+#30446
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30345
+D3
+~
+~
+0 0 30447
+S
+#30447
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30446
+D3
+~
+~
+0 0 30448
+S
+#30448
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30447
+D3
+~
+~
+0 0 30449
+S
+#30449
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30448
+D3
+~
+~
+0 0 30305
+S
+#30450
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30305
+D3
+~
+~
+0 0 30451
+S
+#30451
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30450
+D3
+~
+~
+0 0 30452
+S
+#30452
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30451
+D3
+~
+~
+0 0 30453
+S
+#30453
+Stravent Avenue~
+~
+0 1 0
+D1
+~
+~
+0 0 30452
+D3
+~
+~
+0 0 30330
+S
+#30454
+Ornate Massonary~
+~
+0 1 0
+D5
+~
+~
+0 0 30318
+S
+#30455
+Slaver's Office~
+~
+0 525313 0
+D0
+~
+~
+1 0 30456
+D1
+~
+~
+1 30303 30341
+S
+#30456
+Storage Room~
+~
+0 9217 0
+D1
+~
+~
+1 0 30342
+D2
+~
+~
+1 0 30455
+S
+#30457
+Guard Barracks~
+~
+0 1 0
+D1
+~
+~
+0 0 30459
+D3
+~
+~
+0 0 30427
+S
+#30458
+~
+~
+0 1 0
+D3
+~
+~
+0 0 30457
+S
+#30459
+Guard Barracks~
+~
+0 532481 0
+D1
+~
+~
+0 0 30460
+D3
+~
+~
+0 0 30457
+S
+#30460
+Guard Barracks~
+~
+0 532481 0
+D1
+~
+~
+0 0 30461
+D3
+~
+~
+0 0 30459
+S
+#30461
+Guard Barracks~
+~
+0 532481 0
+D2
+~
+~
+0 0 30462
+D3
+~
+~
+0 0 30460
+S
+#30462
+Assignment Room~
+The room has five benches lined up neatly from east to west.
+The floor shows stains of blood that are most likely very old. All about the walls, there are hastly inscribed runes.  To the north is housing for the guards which from here seems to be the main smell that hangs in the air.
+To the west, an office, while east is the door to the southeast watchtower.
+~
+0 532481 0
+D0
+~
+~
+0 0 30461
+D1
+~
+~
+1 0 30402
+D3
+~
+~
+0 0 30463
+S
+#30463
+City Clerk's Office~
+Rolls of parchment line the walls of this small office. A tiny light stone glows inside of a holder, allowing the ten foot long room to be searched with the eyes quickly.
+There's a large wooden desk here with a small chair pushed underneath, apon which the light hold sits. Down the hallway you can clearly hear City Guards recieving orders for the day.
+~
+0 532481 0
+D1
+~
+~
+0 0 30462
+S
+#30464
+~
+~
+0 1 0
+D0
+~
+~
+0 0 30319
+D1
+~
+~
+0 0 30466
+D3
+~
+~
+0 0 30465
+S
+#30465
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30464
+D3
+~
+~
+1 0 30355
+S
+#30466
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30467
+D3
+~
+~
+0 0 30464
+S
+#30467
+~
+~
+0 1 0
+D1
+~
+~
+0 0 30468
+D3
+~
+~
+0 0 30466
+S
+#30468
+~
+~
+0 1 0
+D0
+~
+~
+1 30313 30316
+D3
+~
+~
+0 0 30467
+S
+#30469
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30470
+D3
+~
+~
+0 0 30413
+S
+#30470
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30471
+D3
+~
+~
+0 0 30469
+S
+#30471
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30472
+D3
+~
+~
+0 0 30470
+S
+#30472
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30473
+D3
+~
+~
+0 0 30471
+S
+#30473
+Southern Lookout~
+~
+0 532481 0
+D1
+~
+~
+0 0 30474
+D3
+~
+~
+0 0 30472
+S
+#30474
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30475
+D3
+~
+~
+0 0 30473
+S
+#30475
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30476
+D3
+~
+~
+0 0 30474
+S
+#30476
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30477
+D3
+~
+~
+0 0 30475
+S
+#30477
+South Guard Wall~
+~
+0 532481 0
+D1
+~
+~
+0 0 30407
+D3
+~
+~
+0 0 30476
+S
+#30478
+Slavers Office~
+~
+0 0 0
+D0
+~
+~
+1 0 30479
+D2
+~
+~
+0 0 30316
+S
+#30479
+Methesin's Slave Shop~
+~
+0 533504 0
+D0
+~
+~
+1 0 30440
+D2
+~
+~
+1 0 30478
+S
+#30480
+Store of Methesin's Slave Shop~
+Store of the deadly beast
+~
+0 9220 0
+S
+#30481
+The Inn~
+~
+0 524288 0
+D0
+~
+~
+1 0 30441
+D2
+~
+~
+0 0 30482
+S
+#30482
+Kitchen ~
+~
+0 532480 0
+D0
+~
+~
+0 0 30481
+D2
+~
+~
+1 0 30311
+S
+#30483
+Arena~
+~
+0 0 0
+S
+#30499
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+M 30301 spec_cast_mage Load to: {*{xWatchtower Guard
+M 30302 spec_cast_mage Load to: High Gatekeeper
+M 30303 spec_breath_acid Load to: {*{xCity Guard
+M 30307 spec_breath_acid Load to: An Aarakocran Citizen
+M 30310 spec_cast_mage Load to: good winged creature
+M 30311 spec_breath_acid Load to: {*{xAarakocran Clerk
+S
+
+
+
+#RESETS
+D 0 30311 0 1 The north door of South Guard Avenue is closed
+D 0 30316 2 2 The south door of South Guard Avenue is closed and locked
+D 0 30341 3 2 The west door of Bloodbain Street is closed and locked
+D 0 30342 3 2 The west door of Bloodbain Street is closed and locked
+D 0 30355 1 1 The east door of South West Watchtower is closed
+D 0 30402 3 1 The west door of South East Watchtower is closed
+D 0 30427 0 1 The north door of Guard Barracks is closed
+D 0 30440 2 1 The south door of Domnes Avenue is closed
+D 0 30455 0 2 The north door of Slaver's Office is closed and locked
+D 0 30455 1 2 The east door of Slaver's Office is closed and locked
+D 0 30456 1 2 The east door of Storage Room is closed and locked
+D 0 30456 2 2 The south door of Storage Room is closed and locked
+D 0 30462 1 1 The east door of Assignment Room is closed
+D 0 30465 3 1 The west door of  is closed
+D 0 30468 0 2 The north door of  is closed and locked
+D 0 30478 0 1 The north door of Slavers Office is closed
+D 0 30479 0 1 The north door of Methesin's Slave Shop is closed
+D 0 30479 2 1 The south door of Methesin's Slave Shop is closed
+D 0 30482 2 1 The south door of Kitchen  is closed
+M 0 30302 1 30300 1 *Load High Gatekeeper
+E 0 30306 0 20 *{*{xaarakocran dark mask is loaded on the face of High Gatekeeper
+E 0 30304 0 16 *{*{xgatekeeper axe  is loaded wielded of High Gatekeeper
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of High Gatekeeper
+M 0 30303 20 30300 3 *Load {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+M 0 30303 20 30303 2 *Load {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+M 0 30304 60 30303 2 *Load They're slave
+E 0 30308 0 10 *Slave's shackles is loaded on the arms of They're slave
+M 0 30309 60 30303 1 *Load {*{xThey're slave
+E 0 30308 0 10 *Slave's shackles is loaded on the arms of {*{xThey're slave
+M 0 30305 1 30303 1 *Load {*{xAarakocra Slave Merchant
+M 0 30307 20 30303 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+O 0 30309 0 30303 *An aarakocran stone carved fountian loaded to Guilds Court
+M 0 30303 20 30305 3 *Load {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+M 0 30307 20 30305 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+O 0 30317 0 30305 *The arena  loaded to Grand Arena
+M 0 30303 20 30307 2 *Load {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+M 0 30307 1 30313 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+M 0 30300 20 30315 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30303 20 30319 2 *Load {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+M 0 30300 20 30320 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30307 20 30320 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+M 0 30300 20 30325 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 20 30339 2 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30340 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30307 1 30343 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+M 0 30300 1 30355 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30356 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30357 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30359 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30401 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30300 1 30402 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30301 8 30405 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30408 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30411 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30414 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30417 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30420 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30423 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30301 8 30426 1 *Load {*{xWatchtower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xWatchtower Guard
+M 0 30307 1 30448 1 *Load An Aarakocran Citizen
+E 0 30311 0 16 *{*{xaviangoth dirk is loaded wielded of An Aarakocran Citizen
+M 0 30300 20 30462 1 *Load {*{xTower Guard
+E 0 30301 0 16 *{*{xaviangoth katana is loaded wielded of {*{xTower Guard
+M 0 30303 20 30462 4 *Load {*{xCity Guard
+E 0 30307 0 6 *{*{xdarkangel helm is loaded over the head of {*{xCity Guard
+E 0 30305 0 16 *{*{xdark metal halberd is loaded wielded of {*{xCity Guard
+M 0 30311 3 30462 1 *Load {*{xAarakocran Clerk
+E 0 30315 0 3 *{*{xbroach of aarak is loaded around the neck (1) of {*{xAarakocran Clerk
+E 0 30315 0 4 *{*{xbroach of aarak is loaded around the neck (2) of {*{xAarakocran Clerk
+E 0 30314 0 16 *{*{xaarakocran longsword is loaded wielded of {*{xAarakocran Clerk
+M 0 30304 90 30499 1 *Load They're slave
+M 0 30309 90 30499 1 *Load {*{xThey're slave
+S
+
+
+
+#SHOPS
+30306 27 0 0 0 0 150 25 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

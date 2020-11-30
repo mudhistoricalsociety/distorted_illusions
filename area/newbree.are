@@ -1,0 +1,296 @@
+#AREADATA
+Name NewBree~
+Builders Unlinked Bree~
+VNUMs 4500 4699
+Continent 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4500
+A {2Forest{X {3P{8at{3h{X~
+~
+0 4 3
+D0
+~
+~
+0 0 4501
+S
+#4501
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4500
+S
+#4502
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4503
+D2
+~
+~
+0 0 4501
+S
+#4503
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4504
+D2
+~
+~
+0 0 4502
+S
+#4504
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4503
+S
+#4505
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D0
+~
+~
+0 0 4506
+D2
+~
+~
+0 0 4504
+S
+#4506
+A {2Forest{X {3P{8at{3h{X~
+~
+0 0 3
+D2
+~
+~
+0 0 4505
+D5
+~
+~
+0 0 4507
+S
+#4507
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 0 0
+D4
+~
+~
+0 0 4506
+D5
+~
+~
+0 0 4508
+S
+#4508
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 0 0
+D4
+~
+~
+0 0 4507
+D5
+~
+~
+0 0 4509
+S
+#4509
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4510
+D4
+~
+~
+0 0 4508
+S
+#4510
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4509
+D2
+~
+~
+0 0 4511
+S
+#4511
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4510
+D1
+~
+~
+0 0 4513
+D3
+~
+~
+0 0 4512
+S
+#4512
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4511
+S
+#4513
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D1
+~
+~
+0 0 4514
+D3
+~
+~
+0 0 4511
+S
+#4514
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4515
+D3
+~
+~
+0 0 4513
+S
+#4515
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4514
+D2
+~
+~
+0 0 4516
+S
+#4516
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4515
+D5
+~
+~
+0 0 4517
+S
+#4517
+{DA{wn{X {DUn{wder{Wg{wrou{Dnd{X {DTu{wn{Wn{we{Dl{X~
+~
+0 8192 0
+D4
+~
+~
+0 0 4516
+D5
+~
+~
+0 0 4518
+S
+#4518
+{1Be{Dgi{wni{Wng {wof {Dth{1e {DLo{wwe{Wr L{wev{De{1ls{X~
+~
+0 8192 0
+D0
+~
+~
+0 0 4519
+D4
+~
+~
+0 0 4517
+S
+#4519
+name {1Be{Dgi{wni{Wng {wof {Dth{1e {DLo{wwe{Wr L{wev{De{1ls{X~
+~
+0 8192 0
+D2
+~
+~
+0 0 4518
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

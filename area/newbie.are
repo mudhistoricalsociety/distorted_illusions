@@ -1,0 +1,914 @@
+#AREADATA
+Name Newbie Playground~
+Builders Atheism Unlinked~
+VNUMs 40300 40399
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#40301
+scarecrow crow~
+{w a {YS{ycare{Yc{yrow{x~
+{wa {YS{ycare{Yc{yrow{w stands here.
+~
+{wa man made out of straw and covored in bird feces stands on guard
+~
+human~
+A 0 0 0 0
+80 0 1d1+4000 0d0+0 10d10+1 none
+30 30 30 30
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#40300
+item~
+item~
+Item~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#40300
+{wEntrance to the {MR{royal {GG{garde{Gn{x~
+~
+0 4 0
+D0
+~
+~
+0 0 40301
+S
+#40301
+{wJust inside the {GG{garde{Gn {cG{Cat{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40324
+D2
+~
+~
+0 0 40300
+D3
+~
+~
+0 0 40302
+S
+#40302
+{w Along the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches both directions behind you{x
+~
+0 0 0
+D0
+~
+~
+0 0 40331
+D1
+~
+~
+0 0 40301
+D3
+~
+~
+0 0 40303
+S
+#40303
+{w Along the {GG{garde{Gn {cF{Cenc{ce{x at the row of {YC{yo{Yr{yn{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+{w An impressively large row of {YC{yo{Yr{yn{w grows infront of you{x
+~
+0 0 0
+D0
+~
+~
+0 0 40312
+D1
+~
+~
+0 0 40302
+D3
+~
+~
+0 0 40304
+S
+#40304
+{w Along the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40303
+D3
+~
+~
+0 0 40305
+S
+#40305
+{wA corner of the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches north and east{x
+~
+0 0 0
+D0
+~
+~
+0 0 40306
+D1
+~
+~
+0 0 40304
+S
+#40306
+{wAlong the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40307
+D2
+~
+~
+0 0 40305
+S
+#40307
+{wAlong the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40308
+D2
+~
+~
+0 0 40306
+S
+#40308
+{wAlong the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40309
+D2
+~
+~
+0 0 40307
+S
+#40309
+{wAlong the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40310
+D2
+~
+~
+0 0 40308
+S
+#40310
+{wA Corner of the {GG{garde{Gn {cF{Cenc{ce{x~
+this Fence streches far to the south and east
+theres a large manmade hole in this section of fence, comprimising the security of the entire structure
+~
+0 0 0
+D1
+~
+~
+0 0 40311
+D2
+~
+~
+0 0 40309
+S
+#40311
+{w Along the {GG{garde{Gn {cF{Cenc{ce{x~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40314
+D2
+~
+~
+0 0 40349
+D3
+~
+~
+0 0 40310
+S
+#40312
+{xInbetween the rows of {YC{yo{Yr{yn{x~
+the force is strong with this corn
+you feel claustrophobic walking along this path, the towering corn is all you see
+~
+0 0 0
+D0
+~
+~
+0 0 40313
+D2
+~
+~
+0 0 40303
+S
+#40313
+{xInbetween the rows of {YC{yo{Yr{yn{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40314
+D2
+~
+~
+0 0 40312
+S
+#40314
+{w Along the {GG{garde{Gn {cF{Cenc{ce{x At a row of {YC{yo{Yr{yn{x~
+a large fence stretches along side you as you stroll down the garden path
+An impressively large row of {YC{yo{Yr{yn{w grows infront of you
+~
+0 0 0
+D1
+~
+~
+0 0 40315
+D2
+~
+~
+0 0 40313
+D3
+~
+~
+0 0 40311
+S
+#40315
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40316
+D3
+~
+~
+0 0 40314
+S
+#40316
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40317
+D3
+~
+~
+0 0 40315
+S
+#40317
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D1
+~
+~
+0 0 40318
+D2
+~
+~
+0 0 40328
+D3
+~
+~
+0 0 40316
+S
+#40318
+{w A corner of the {GG{garde{Gn {cF{Cenc{ce{w ~
+~
+0 0 0
+D2
+~
+~
+0 0 40319
+D3
+~
+~
+0 0 40317
+S
+#40319
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40318
+D2
+~
+~
+0 0 40320
+S
+#40320
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40319
+D2
+~
+~
+0 0 40321
+S
+#40321
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40320
+D2
+~
+~
+0 0 40322
+S
+#40322
+{w Along the {GG{garde{Gn {cF{Cenc{ce{w ~
+{w a large fence stretches along side you as you stroll down the garden path{x
+~
+0 0 0
+D0
+~
+~
+0 0 40321
+D2
+~
+~
+0 0 40323
+S
+#40323
+{w A corner of the {GG{garde{Gn {cF{Cenc{ce{w ~
+~
+0 0 0
+D0
+~
+~
+0 0 40322
+D3
+~
+~
+0 0 40324
+S
+#40324
+{wAlong the {GG{garde{Gn {cF{Cenc{ce{w at a path of {mP{Mretty{my {YFlo{yw{Yers{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40325
+D1
+~
+~
+0 0 40323
+D3
+~
+~
+0 0 40301
+S
+#40325
+{wdirt path along the flowers~
+~
+0 0 0
+D0
+~
+~
+0 0 40326
+D2
+~
+~
+0 0 40324
+S
+#40326
+{wdirt path along the flowers{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40327
+D2
+~
+~
+0 0 40325
+D3
+~
+~
+0 0 40329
+S
+#40327
+{wdirt path along the flowers~
+~
+0 0 0
+D0
+~
+~
+0 0 40328
+D2
+~
+~
+0 0 40326
+S
+#40328
+{wdirt path along the flowers~
+~
+0 0 0
+D0
+~
+~
+0 0 40317
+D2
+~
+~
+0 0 40327
+S
+#40329
+{wTrampling the {RR{rose {RB{rushe{Rs{x~
+{w Congratsulations, you've ruined the King's prized rose bushes{x
+~
+0 0 0
+D1
+~
+~
+0 0 40326
+D3
+~
+~
+0 0 40330
+S
+#40330
+{wStomping the {GV{geg{Ge{gta{Gb{gl{Ge G{ga{Grd{ge{Gn{x~
+~
+0 0 0
+D1
+~
+~
+0 0 40329
+D3
+~
+~
+0 0 40332
+S
+#40331
+{wBetween the {GV{geg{Ge{gta{Gb{gl{Ge G{ga{Grd{ge{Gns{x~
+oversized vegetables grow all around you, careful not to squash the Kings pride and joy
+~
+0 0 0
+D0
+~
+~
+0 0 40332
+D2
+~
+~
+0 0 40302
+S
+#40332
+{wBetween the {GV{geg{Ge{gta{Gb{gl{Ge G{ga{Grd{ge{Gns{x~
+oversized vegetables grow all around you, careful not to squash the Kings pride and joy
+~
+0 0 0
+D0
+~
+~
+0 0 40334
+D1
+~
+~
+0 0 40330
+D2
+~
+~
+0 0 40331
+D3
+~
+~
+0 0 40333
+S
+#40333
+{wStomping the {GV{geg{Ge{gta{Gb{gl{Ge G{ga{Grd{ge{Gn{x~
+~
+0 0 0
+D1
+~
+~
+0 0 40332
+D2
+~
+~
+0 0 40335
+S
+#40334
+{wBench in the {GV{geg{Ge{gta{Gb{gl{Ge G{ga{Grd{ge{Gns{x~
+a beautiful place to sit and admire the produce
+~
+0 0 0
+D2
+~
+~
+0 0 40332
+S
+#40335
+{RC{rrushed {RP{roduce{x~
+the ground is soft and slippery from all the trampled vegetables
+~
+0 0 0
+D0
+~
+~
+0 0 40333
+D3
+~
+~
+0 0 40336
+S
+#40336
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40343
+D1
+~
+~
+0 0 40335
+D2
+~
+~
+0 0 40337
+D3
+~
+~
+0 0 40341
+S
+#40337
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40336
+D2
+~
+~
+0 0 40336
+D3
+~
+~
+0 0 40338
+S
+#40338
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40341
+D1
+~
+~
+0 0 40337
+D2
+~
+~
+0 0 40336
+D3
+~
+~
+0 0 40340
+S
+#40339
+~
+~
+0 0 0
+D1
+~
+~
+0 0 40338
+S
+#40340
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40342
+D1
+~
+~
+0 0 40338
+D2
+~
+~
+0 0 40336
+D3
+~
+~
+0 0 40336
+S
+#40341
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40344
+D1
+~
+~
+0 0 40336
+D2
+~
+~
+0 0 40338
+D3
+~
+~
+0 0 40342
+S
+#40342
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40345
+D1
+~
+~
+0 0 40341
+D2
+~
+~
+0 0 40340
+D3
+~
+~
+0 0 40336
+S
+#40343
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40336
+D2
+~
+~
+0 0 40336
+D3
+~
+~
+0 0 40344
+S
+#40344
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40336
+D1
+~
+~
+0 0 40343
+D2
+~
+~
+0 0 40341
+D3
+~
+~
+0 0 40345
+S
+#40345
+{WAmong the {YC{yo{Yr{yn{x~
+you feel trapped by the thick corn stalks surrounding you
+~
+0 0 0
+D0
+~
+~
+0 0 40336
+D1
+~
+~
+0 0 40344
+D2
+~
+~
+0 0 40342
+D3
+~
+~
+0 0 40346
+S
+#40346
+{WLeaving the {YC{yo{Yr{yn{x~
+thick corn surrounds what might be a clearing
+~
+0 0 0
+D1
+~
+~
+0 0 40345
+D3
+~
+~
+0 0 40347
+S
+#40347
+{wT{Wr{can{Cq{cu{Wi{wl path at the {yK{roi {CP{con{Cd{x~
+the black marble you travel on surrounds a beautiful pool as you approach it
+this peacefull setting is reserved for the rich and powerful
+~
+0 0 0
+D0
+~
+~
+0 0 40348
+D1
+~
+~
+0 0 40346
+D2
+~
+~
+0 0 40350
+S
+#40348
+{wT{Wr{can{Cq{cu{Wi{wl path to the {yK{roi {CP{con{Cd{x~
+a luxurious black marble path almost hidden from view beckons you down it as you feel yourself relax
+~
+0 0 0
+D0
+~
+~
+0 0 40349
+D2
+~
+~
+0 0 40347
+S
+#40349
+{wT{Wr{can{Cq{cu{Wi{wl path to the {yK{roi {CP{con{Cd{x~
+a luxurious black marble path almost hidden from view beckons you down it as you feel yourself relax
+~
+0 0 0
+D0
+~
+~
+0 0 40311
+D2
+~
+~
+0 0 40348
+S
+#40350
+{wThe {yK{roi {CP{con{Cd{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40347
+D1
+~
+~
+0 0 40351
+D2
+~
+~
+0 0 40353
+S
+#40351
+{wThe {yK{roi {CP{con{Cd{x~
+~
+0 0 0
+D2
+~
+~
+0 0 40352
+D3
+~
+~
+0 0 40350
+S
+#40352
+{wThe {yK{roi {CP{con{Cd{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40351
+D3
+~
+~
+0 0 40353
+S
+#40353
+{wThe {yK{roi {CP{con{Cd{x~
+~
+0 0 0
+D0
+~
+~
+0 0 40350
+D1
+~
+~
+0 0 40352
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 40301 1 40313 1 *Load {w a {YS{ycare{Yc{yrow{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

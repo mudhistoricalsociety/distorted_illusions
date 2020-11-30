@@ -1,0 +1,2080 @@
+#AREADATA
+Name The Northern Mines~
+Builders None~
+VNUMs 44000 44199
+Continent 2
+Credits {y[ {GALL {y] {cBree/Mira {GNorthern Mines{x~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#44000
+Cloaked figure~
+cloaked figure~
+A cloaked figure is here.
+~
+~
+human~
+ABGT DFJZ H -1000 0
+300 200 1d1+20000 1d1+2000 1d1+2000 pound
+-100 -100 -100 -100
+0 ABEHNS 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 44000 100~
+#44001
+a villager~
+a villager~
+A villager is walking around here, looking busy.
+~
+Not much to look at, just your average villager puttering around
+in your average looking village. He is draped in a long flowing
+brown wool cloak, with a hood hanging behind long silver looking
+hair, flowing down to this shoulders. A walking stick is in his
+right hand, helping with a slight limp he seems to have.
+~
+human~
+AGT a 0 1000 0
+99 150 1d1+14000 1d1+2000 4d23+20 pound
+-50 -50 -50 -50
+FI ANS 0 H
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#44002
+wandering merchant~
+a wandering merchant~
+A wandering merchant is here looking for the next deal.
+~
+This merchant seems to be the veteran of many travels. His
+cloths seem to be worn down to the threads, and his worn
+leather belt seems to hold many pouches, of which there are
+doubtlessly many new and exotic items from all around the
+Dark Continent.
+~
+human~
+AG a 0 1000 0
+90 150 1d1+13000 1d1+20000 4d20+30 pound
+-40 -40 -40 -40
+CHI N S H
+stand stand male 9000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#44003
+shopkeeper~
+a shopkeeper~
+A shopkeeper is standing here behind a counter.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+101 200 1d1+2000 1d1+200 1d1+200 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#44004
+traveling dwarf~
+a traveling dwarf~
+A traveling dwarf is walking along here.
+~
+~
+dwarf~
+AG JV 0 1000 0
+85 200 1d1+11000 1d1+200 5d21+25 pound
+-30 -30 -30 -30
+EFK 0 L 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#44005
+dwarven miner~
+dwarven miner~
+A dwarven miner is here, chipping away at some rocks.
+~
+~
+dwarf~
+AG JV 0 1000 0
+80 150 1d1+11000 1d1+200 5d21+25 pound
+-30 -30 -30 -30
+CFK 0 L 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#44015
+Ghost of Keplic~
+the {DG{Wh{wo{Ws{Dt{X of Keplic~
+The {DG{Wh{wo{Ws{Dt{X of Keplic is here floating around.
+~
+~
+wyvern~
+AFGT DFT E -1000 0
+190 300 1d1+24000 1d1+20009 9d31+25 wrath
+-190 -190 -190 -190
+ABCDEFHIJK L D ABCMS
+stand stand none 20000
+ABGZ ACDEFHJKQVX huge unknown
+#0
+
+
+
+#OBJECTS
+#44000
+Keplic's Journal~
+keplic's Journal~
+A large leather bound journal has been left here.~
+leather~
+trash A 0
+0 0 0 0 0
+50 5 10000 P
+E
+journal~
+My name is Keplic, I am the leader of this expedition into the mines. As i write this, myself
+and what remains of my people, are barricading ourselves into the room. Orc's and other dark
+creatures have besieged us here, and have driven us into a corner. What follows is my account
+of our last hours, and of what secrets we have uncovered during our tenure here. Take heed!
+ 
+We have uncovered new land underneath these mine shafts, it leads to a MASSIVE area, the likes
+of which i have never seen! Also, these mines seem to link to the north into the realm of Troy.
+God speed!
+~
+#44001
+mythril bar~
+a mythril bar~
+A mythril bar has been left here.~
+mythril~
+treasure A AO
+0 0 0 0 0
+90 100 400000 P
+#44002
+potion of sight~
+potion of {ys{Mi{yg{Mh{yt{X~
+Potion of sight is here.~
+unknown~
+potion A AO
+110 'detect invis' 'detect motion' 'infravision' 'detect motion'
+90 1 90000 P
+#0
+
+
+
+#ROOMS
+#44032
+The Underground lake expanse~
+Darkness surrounds and overcomes everything around.  The dark water makes
+seeing only a hope.  The bubbling sounds seem closer than before.  
+~
+0 0 5
+D0
+~
+~
+0 0 44086
+D1
+~
+~
+0 0 44033
+D3
+~
+~
+0 0 44020
+S
+#44033
+The Underground lake expanse~
+This underground lake finally mellowing out.  No waves, so currents, just
+a calmness embalms the vessel.  Its so peaceful, sleep sounds like a grand
+idea.  
+~
+0 0 5
+D0
+~
+~
+0 0 44085
+D1
+~
+~
+0 0 44034
+D3
+~
+~
+0 0 44032
+S
+#44034
+The Underground lake expanse~
+Calming waters rock the vessel making sleep almost undenible.  The air
+has turned warmer, making for a restful slumber.  Naptime is unresistable at
+this time.  
+~
+0 0 5
+D1
+~
+~
+0 0 44035
+D3
+~
+~
+0 0 44033
+S
+#44035
+The Underground lake expanse~
+A rocky cliff stops the lake from going any further.  The waves spray a
+mist of water as they hit the rocks.  The only way to go is west.  Back
+across the lake and deeper into the mountain.  
+~
+0 0 5
+D3
+~
+~
+0 0 44034
+S
+#44036
+An underground passage~
+A tunnel opens up into a cavern like cave.  This passage is narrow and
+musty.  Water drips from the ceiling of the passage.  Upward a unground
+highway can be seen, downward leads deeper into the cavern passage.  
+~
+0 0 5
+D4
+~
+~
+0 0 44021
+D5
+~
+~
+0 0 44037
+S
+#44037
+An underground passage~
+Boards and boulders litter the ground here.  A hiden entrance can barely
+be seen to the north.  The workers must have quit because of the untolerable
+working conditions in this passage.  
+~
+0 0 5
+D0
+~
+~
+1 0 44038
+D4
+~
+~
+0 0 44036
+S
+#44038
+A passageway~
+A dark, tightly narrow tunnel leads to the north.  The pounding of miners
+can be heard faintly in the far distance.  They must be mining the beautiful
+gems that are embedded within the walls of the passageway.  
+~
+0 0 5
+D0
+~
+~
+0 0 44039
+D2
+~
+~
+1 0 44037
+S
+#44039
+A passageway~
+The passageway here is dark and bare.  The miners have removed all the
+gems from this part of the passageway.  A ladder go downward further into
+the passageway.  
+~
+0 0 5
+D2
+~
+~
+0 0 44038
+D5
+~
+~
+0 0 44040
+S
+#44040
+A passageway~
+The ladder leads both up and down here.  Mining here has not been
+completed as huge gems still are seen in the walls.  
+~
+0 0 5
+D4
+~
+~
+0 0 44039
+D5
+~
+~
+0 0 44041
+S
+#44041
+A passageway~
+The passageway is crowded with boulders that have fallen.  A ladder leads
+both up and down further into the passageway.  A bright light can be seen
+from the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 44043
+D4
+~
+~
+0 0 44040
+D5
+~
+~
+0 0 44042
+S
+#44042
+A Dead End~
+Pools of puddles surround the ladder.  The walls here have no gems but
+are slimy with condensation.  A very small hole is in the wall on the
+eastern side.  
+~
+0 0 5
+D1
+~
+~
+1 0 44046
+D4
+~
+~
+0 0 44041
+S
+#44043
+A passageway~
+Two torches burn brightly illuminating the path into the Nymia mines to
+the north.  Pickaxe, helmets, and other mining equipment lay in a pile to
+the side.  The equipment looks to small for a normal person.  
+~
+0 0 5
+D0
+~
+~
+1 0 44044
+D2
+~
+~
+0 0 44041
+S
+#44044
+The {YN{cy{Dm{ci{Ya{X mines~
+The entrance of the mine is lined with small helmets,heavy jackets, and
+various other mining equipment.  A small table sits to the side for the
+miners to have their breaks.  A sticker on the table reads, "Miners like it
+best low, in the dark, and dirty" The mine leads to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 44045
+D2
+~
+~
+1 0 44043
+S
+#44045
+The {YN{cy{Dm{ci{Ya{X mines~
+The walls here have been broken apart in search of gems.  Rubble and
+stones litter the ground.  North leads deeper into the mine.  
+~
+0 0 5
+D0
+~
+~
+0 0 44073
+D2
+~
+~
+0 0 44044
+S
+#44046
+The {cT{Dr{wa{Wn{ws{Di{wa{cn{X mines~
+This part of the mine has been hiden.  Gold lines the ground, walls and
+everything around you.  A small bucket containing cleaning materials and
+small tools used to caring for the gold is here.  
+~
+0 0 5
+D1
+~
+~
+0 0 44047
+D3
+~
+~
+1 0 44042
+S
+#44047
+The {cT{Dr{wa{Wn{ws{Di{wa{cn{X mines~
+This part of the mine all the gold is piled high next to a furnace to
+melted down.  A burly dwarf is pouring the melted gold into molds to make
+bricks.  
+~
+0 0 5
+D0
+~
+~
+0 0 44048
+D3
+~
+~
+0 0 44046
+S
+#44048
+The {cT{Dr{wa{Wn{ws{Di{wa{cn{X mines~
+Gold has been completly stripped off the walls and put into wheelbarrels
+and buckets.  The gold is being prepared to be melted down.  The only exit
+here is to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 44047
+D5
+~
+~
+1 0 44049
+S
+#44049
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+A small fire burns at the edge of the tracks to keep the dwarves warm as
+they pound away at the walls of the shaft to collect gems.  The railcart is
+ready to be filled.  The track runs to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 44050
+D4
+~
+~
+1 0 44048
+S
+#44050
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+Piles of gems lay to the left, and piles of gold to the right.  Dwarves
+shovel them into railcarts, and diligently pick at the remaining gold in the
+walls.  The track runs north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44051
+D2
+~
+~
+0 0 44049
+S
+#44051
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+In a intersection railcarts are lined up overflowing with gold and gems
+awaiting the engine to take them off.  The track goes in all directions
+except east.  The ceiling here is dripping water through a small crack.  
+~
+0 0 5
+D0
+~
+~
+0 0 44052
+D2
+~
+~
+0 0 44050
+D3
+~
+~
+0 0 44102
+S
+#44052
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+A path breaks away from the tracks.  The path is littered with broken
+shards of gems.  To the north the path continues, to the south leads to the
+tracks near the shaft.  
+~
+0 0 5
+D0
+~
+~
+0 0 44053
+D2
+~
+~
+0 0 44051
+D5
+~
+~
+1 0 46000
+S
+#44053
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+The faint sound of a train can be heard in the distance.  The path is
+busy with dwarves running around with wheelbarrels and buckets going towards
+the south to work.  The path extends to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44054
+D2
+~
+~
+0 0 44052
+D5
+~
+~
+1 0 46000
+S
+#44054
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+Puddles of mud and golden dust are hard to avoid as walking the path.  A
+lantern hangs on a hook here lighting the path.  The path heads north and
+south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44055
+D2
+~
+~
+0 0 44053
+S
+#44055
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+The path widens allowing access for miners to get to work.  Broken tools
+have been tossed aside to be burnt in the corner.  North and south the path
+continues on.  
+~
+0 0 5
+D0
+~
+~
+0 0 44056
+D2
+~
+~
+0 0 44054
+S
+#44056
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+The path here is smooth and without holes.  The walls are bare and look
+as if they've been picked clean.  A lantern hangs unlit on a hook here.  The
+path exits to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44057
+D2
+~
+~
+0 0 44055
+S
+#44057
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+The walls are speckled with gold and small shards of gems.  The ground
+looks as if its been paved in a variety of colored gems.  The path leads
+north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44058
+D2
+~
+~
+0 0 44056
+S
+#44058
+The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path~
+The path is wide and full of noise.  Dwarves run all about this path
+going and coming from working in the mines.  The coastline lies to the
+north, as the path opens up to the south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44059
+D2
+~
+~
+0 0 44057
+S
+#44059
+Walking over the coastline~
+A rickety old plank bridge spans across the coastline to the north toward
+Troy.  The bridge sways as the wind blows.  There are planks missing
+throughout the bridge.  Watch your step!  To the south is a path leading
+toward the mines.  
+~
+0 0 5
+D0
+~
+~
+0 0 44060
+D2
+~
+~
+0 0 44058
+S
+#44060
+Walking over the coastline~
+The old plank bridge is crowded with dwarves carrying mining equipment as
+they travel to work to the mines in the south.  The sea water has caused
+some of the planks to rot from erosion.  The bridge spans to the north
+across the coastline.  
+~
+0 0 5
+D0
+~
+~
+0 0 44061
+D2
+~
+~
+0 0 44059
+S
+#44061
+Walking over the coastline~
+The plank bridge sways as the waves below splash onto the bridge.  More
+rotted plank have gave way here making travel across the bridge hazardous. 
+The bridge continues to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44062
+D2
+~
+~
+0 0 44060
+S
+#44062
+Walking over the coastline~
+Planks on the bridge are soft and brittle, cracking more as each traveler
+walks across it.  Seagulls sweep in from the coast and rest on the post of
+the bridge.  The bridge can be traveled to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44063
+D2
+~
+~
+0 0 44061
+S
+#44063
+Walking over the coastline~
+Time has taken its toll on this bridge.  The bridge needs serious
+repairs.  To many travelers cross this bridge to shut it down for repairs,
+so it will have to hold up for the time being.  The bridge expands northward
+and southward.  
+~
+0 0 5
+D0
+~
+~
+0 0 44072
+D2
+~
+~
+0 0 44062
+S
+#44064
+Approaching Troy~
+The morning sky is painted with peach, pink and blue.  The view is
+unbelievable.  Refreshed with the morning air, amazed by the sights travel
+now seems to go smoother and easier than ever before.  
+~
+0 0 5
+D1
+~
+~
+0 0 10905
+D3
+~
+~
+0 0 44065
+S
+#44065
+Approaching Troy~
+Birds fly all around, diving into the waters along the coastline of the
+south.  Watch out for falling poop !  They screech as swarm all around.  
+~
+0 0 5
+D1
+~
+~
+0 0 44064
+D2
+~
+~
+0 0 44066
+S
+#44066
+Approaching Troy~
+The air smells of fresh seawater.  A long bridge that looks as if its
+about to fall apart lies to the south above the coastline.  The northern
+route brings Troy closer than before.  
+~
+0 0 5
+D0
+~
+~
+0 0 44065
+D2
+~
+~
+0 0 44067
+S
+#44067
+Walking over the coastline~
+An old rickety plank bridge crosses over the coastline beneath.  Many of
+the planks are either missing or rotted.  Use caution when crossing.  To the
+north you can approach Troy, the bridge spans to the mines to the south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44066
+D2
+~
+~
+0 0 44068
+S
+#44068
+Walking over the coastline~
+Every other plank is missing on this part of the bridge over the
+coastline.  Its seem that the planks that are still in place could give out
+at any moment.  Watch your step!  North and south are the only way to go
+from here.  
+~
+0 0 5
+D0
+~
+~
+0 0 44067
+D2
+~
+~
+0 0 44069
+S
+#44069
+Walking over the coastline~
+The old bridge gives access to Troy and to the mines.  Although the
+safety of the bridge is questionable there is no other way to travel between
+the two places.  The bridge spans north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44068
+D2
+~
+~
+0 0 44070
+S
+#44070
+Walking over the coastline~
+This bridge seems to be as old as the Gods who created the world.  Its
+weakened planks barely hold up under the weight of the many travelers that
+pass across it.  The bridge spans further along the coastline to the north
+and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44069
+D2
+~
+~
+0 0 44071
+S
+#44071
+Walking over the coastline~
+There are marks on the bridge claiming territory over the bridge by a
+local clan.  Maybe one of them will repair the bridge before it falls into
+the sea below.  North and south the bridge continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 44070
+D2
+~
+~
+0 0 44072
+S
+#44072
+Walking over the coastline~
+In the far distance the end of the bridge can be seen.  The air is very
+damp and cold from the breeze blowing water in from the coast.  Travel is
+only possible to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 44071
+D2
+~
+~
+0 0 44063
+S
+#44073
+The {YN{cy{Dm{ci{Ya{X mines~
+Bucket of gems sit to the side, while others are scattered on the ground.
+The dust is thick here where the miners have been actively collecting their
+gemstones.  
+~
+0 0 5
+D0
+~
+~
+0 0 44074
+D2
+~
+~
+0 0 44045
+S
+#44074
+The {YN{cy{Dm{ci{Ya{X mines~
+The bareness of the walls show that this room has been cleared of all
+gems.  A ladder leads downward into the mine where dwarfs are currently
+working to find more precious stones.  South leads back out of the mine.  
+~
+0 0 5
+D2
+~
+~
+0 0 44073
+D5
+~
+~
+0 0 44075
+S
+#44075
+The {YN{cy{Dm{ci{Ya{X mines~
+The walls glitter as the light from the lanterns reflect off the gems. 
+Dwarfen miners scurry in and out carrying buckets bigger than they are full
+of gems.  The mine extends to the east, and up the ladder back out of the
+mine.  
+~
+0 0 5
+D1
+~
+~
+0 0 44076
+D4
+~
+~
+0 0 44074
+S
+#44076
+The {YN{cy{Dm{ci{Ya{X mines~
+A rainbow must have exploded in this room.  The colors are so vivid
+sunglasses are almost needed here.  The gems are bigger than the dwarfs
+mining them.  To the north and west workers continue getting the gems out of
+the walls.  
+~
+0 0 5
+D0
+~
+~
+0 0 44078
+D1
+~
+~
+0 0 44077
+D3
+~
+~
+0 0 44075
+S
+#44077
+The {YN{cy{Dm{ci{Ya{X mines~
+Ropes hang from the ceiling with harnesses still attached to them where
+the dwarfs have been working.  Gems can be seen only on the ceiling in this
+room.  The only exit is to the west.  
+~
+0 0 5
+D3
+~
+~
+0 0 44076
+S
+#44078
+The {YN{cy{Dm{ci{Ya{X mines~
+A rope ladder leads upward where more mining is going on.  The walls are
+bare with no gems in sight.  Banging of axes and picks echo from up the
+ladder.  
+~
+0 0 5
+D0
+~
+~
+1 0 44079
+D2
+~
+~
+0 0 44076
+D4
+~
+~
+0 0 44080
+S
+#44079
+Keplic's last stand~
+Furniture of all sorts have been positioned behind a half opened door, which is now
+cracked down the middle where an axe seems to have hit it. There is a large tomb in
+the center of the room, with dead orcs and vampire carcasses scattered haphazardly 
+all around the base of it. Dried blood stains both the walls and floor or this room,
+a last stand was obviously in progress, with the dwarves barricading themselves into
+this room in a last ditch effort to survive. Skeletal remains of what appears to be
+dwarves lie in four sperate heaps near the left side of the room. A large leather
+bound journal appears to be laying on the floor near the tomb. The only exit is south.
+~
+0 0 5
+D2
+~
+~
+1 0 44078
+S
+#44080
+The {YN{cy{Dm{ci{Ya{X mines~
+Two torches shine brightly casting colorful shadows off the reflections
+of the gems.  A ladder leads downward into the main shaft of the mine. 
+North expands into another mining room.  
+~
+0 0 5
+D0
+~
+~
+0 0 44081
+D5
+~
+~
+0 0 44078
+S
+#44081
+The {YN{cy{Dm{ci{Ya{X mines~
+The torches have burned out, you are in complete darkness.  The only
+light is coming from the north.  A racket of hammering is coming from the
+north.  
+~
+0 0 5
+D0
+~
+~
+0 0 44082
+D2
+~
+~
+0 0 44080
+S
+#44082
+The {YN{cy{Dm{ci{Ya{X mines~
+Dwarfs run around like chickens with their heads cut off trying to get
+their work done as quick as they can.  A small, fat dwarf is hammering away
+at the wall trying to bust gems out of the rocks.  The mine expands to the
+east and west and back to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 44083
+D2
+~
+~
+0 0 44081
+D3
+~
+~
+0 0 44084
+S
+#44083
+The {YN{cy{Dm{ci{Ya{X mines~
+A dwarf hangs from the ceiling knocking gems down onto the ground.  No
+gems are in the walls here.  Dirt falling from the ceiling makes it hard to
+see.  The only exit is to the west.  
+~
+0 0 5
+D3
+~
+~
+0 0 44082
+S
+#44084
+A dead end~
+This is the end of the mine.  Buckets of gems are lined neatly in rows
+all around the room.  All gems mined end up here to be examined.  The only
+exit is back to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 44082
+S
+#44085
+On the lake~
+Leftover nets with hooks in it dwift by.  The fishermen must have moved
+to another part of the lake to try to catch their prized Serphish.  
+~
+0 0 0
+D0
+~
+~
+0 0 44089
+D2
+~
+~
+0 0 44033
+D3
+~
+~
+0 0 44086
+S
+#44086
+On the lake~
+Waves splash all around.  Within the darkness of the lake something makes
+a loud echoing moan.  A light mist chills the air as that eerie moan
+continues to howl throughout the lake.  
+~
+0 0 0
+D0
+~
+~
+0 0 44090
+D1
+~
+~
+0 0 44085
+D2
+~
+~
+0 0 44032
+D3
+~
+~
+0 0 44087
+S
+#44087
+On the lake~
+The lake seems to be all around.  Only darkness and water can be seen. 
+The lantern isnt bright enough to see if anything is lurking in the waters
+beneath.  Scratching sounds come from the bottom of your vessel.  
+~
+0 0 6
+D0
+~
+~
+0 0 44091
+D1
+~
+~
+0 0 44086
+D2
+~
+~
+0 0 44020
+D3
+~
+~
+0 0 44088
+S
+#44088
+On the lake~
+Looking around it seems to grow darker by the second.
+The waters are still rough, but not as bad as they were.
+Something Splashes around the vessels, it sounds like fish.
+Wheres that fishing pole when you need it!
+~
+0 0 6
+D0
+~
+~
+0 0 44092
+D1
+~
+~
+0 0 44087
+D2
+~
+~
+0 0 44022
+S
+#44089
+On the lake~
+Vessels full of fish flood the lake as they show off their latest and
+biggest catches.  The unbearable stench would explain why no women are on
+these vessel.  Completely primitive behavior is being seen here as men bite
+the heads off the fish they've caught.  
+~
+0 0 6
+D0
+~
+~
+0 0 44093
+D2
+~
+~
+0 0 44085
+D3
+~
+~
+0 0 44090
+S
+#44090
+On the lake~
+A swift undertow pulls harder.  Making it hard to control any vessel. 
+The water is muddy, murky and dark.  Something seems to be pulling downward
+on the vessel.  
+~
+0 0 6
+D0
+~
+~
+0 0 44094
+D1
+~
+~
+0 0 44089
+D2
+~
+~
+0 0 44086
+D3
+~
+~
+0 0 44091
+D5
+~
+~
+1 0 44097
+S
+#44091
+On the lake~
+A swift undertow makes it hard to back out now.
+A massive wave crushes down on a boulder sticking out of the water
+Trying not to hit the boulder, onward the vessel sails into deeper water.
+~
+0 0 6
+D0
+~
+~
+0 0 44095
+D1
+~
+~
+0 0 44090
+D2
+~
+~
+0 0 44087
+D3
+~
+~
+0 0 44092
+S
+#44092
+On the lake~
+On the murly, dark waters a mountain opening is way off in the distance.
+Violent waves start yo overcome the vessel.
+An eerie feeling is all around as if something is watching your ever move.
+You consider turning back.
+~
+0 0 6
+D0
+~
+~
+0 0 44096
+D1
+~
+~
+0 0 44091
+D2
+~
+~
+0 0 44088
+S
+#44093
+On the lake~
+Canyon walls make traveling north or east impossible.  The lake flows
+southly in a light current.  The lake water seems lighter than it once was. 
+The water doesnt seem as deep here as well.
+~
+0 0 6
+D2
+~
+~
+0 0 44089
+D3
+~
+~
+0 0 44094
+S
+#44094
+On the lake~
+A fog engulfs across the lake making it hard to see.  The lake is quiet
+and calm.  The sounds of fish jumping and serpents splashing is the only
+noise.  The voyage across the lake has become peaceful for the moment.  
+~
+0 0 6
+D1
+~
+~
+0 0 44093
+D2
+~
+~
+0 0 44090
+D3
+~
+~
+0 0 44095
+S
+#44095
+On the lake~
+Splish, splash! Waves overcome the small vessel.
+The air seems to turn to ice, and theres a fishy smell in the breeze.
+Dark, cold, wet and fishy, not somewhere to be stranded thats for sure.
+~
+0 0 6
+D1
+~
+~
+0 0 44094
+D2
+~
+~
+0 0 44091
+D3
+~
+~
+0 0 44096
+S
+#44096
+On the lake~
+The only sound heard is crashing of waves in this utter darkness.
+The dampness and creepy aura makes you consider turning back.
+Something in the far distance beckons further exploration.
+~
+0 0 6
+D1
+~
+~
+0 0 44095
+D2
+~
+~
+0 0 44092
+S
+#44097
+A hole in the bottom~
+A hole in the lake caused by the swiftness of the current leads downward
+into the darkness and damp hole.  The mud is so thick that is makes the
+ladder slick and barely able to navigate.  
+~
+0 0 6
+D4
+~
+~
+1 0 44090
+D5
+~
+~
+0 0 44098
+S
+#44098
+Down the hole~
+The ladder is slippery with mud.  The ladder continues upward and
+downward.  The fireflies are swarming overhead, while the roaches crawl on
+the ladder.  
+~
+0 0 6
+D4
+~
+~
+0 0 44097
+D5
+~
+~
+0 0 44099
+S
+#44099
+Down the hole~
+A ladder is inside a narrow hole in the ground.  Small fireflies swarm
+around giving the only light in this hole.  Northward goes further down the
+hole.  Up leads into the hole.  
+~
+0 0 6
+D0
+~
+~
+0 0 44100
+D4
+~
+~
+0 0 44098
+S
+#44100
+Further down the hole~
+The hole has become musky, and damp.  Mud and silt drips off the walls. 
+The darkness makes it hard to see the small opening to the south.  
+~
+0 0 6
+D0
+~
+~
+1 0 44101
+D2
+~
+~
+0 0 44099
+S
+#44101
+End of the hole~
+The hole ends here in a small crawl space.  Dirt and mud fill the small
+area.  Leeches and small rodents crawl all over the place.  The only way out
+is back to the south.  
+~
+0 0 6
+D2
+~
+~
+1 0 44100
+S
+#44102
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+An engine that pulls the railcarts sits here waiting for carts to be
+attached.  The smell of burning coal from the engine flows throughout the
+shaft.  
+~
+0 0 0
+D1
+~
+~
+0 0 44051
+D3
+~
+~
+0 0 44103
+S
+#44103
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+The tracks of the railcarts are covered with gold dust, and gems lay to
+the side that have fallen out of the carts while being transported.  A small
+dwarf walks along the tracks picking up the gems and another sweeping the
+gold dust from the tracks.  The tracks continue to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 44104
+D1
+~
+~
+0 0 44102
+S
+#44104
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+Railcarts sit on a track here full with gold and precious gems.  The
+tracks runs through the shaft to the south and west.  A narrow walkway runs
+beside the tracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 44106
+D2
+~
+~
+0 0 44103
+D3
+~
+~
+0 0 44105
+S
+#44105
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+An empty railcart sits on the track here as a dwarven miner picks away
+the gold from the walls.  The track leads back out to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 44104
+S
+#44106
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+Golden rocks line the floor.  The shaft is just wide enough for a
+wheelbarrel to pass through.  The exits are to the south and up on the
+ladder.  
+~
+0 0 0
+D2
+~
+~
+0 0 44104
+D4
+~
+~
+0 0 44107
+S
+#44107
+The {cT{Cr{Da{wn{Ws{wi{Ca{cn{X Shaft~
+Golden specks are embedded in the earth all around.  The shaft is used by
+the dwarves to transport the gold and gems they mine to where they need to
+go.  The only exit is down the ladder.  
+~
+0 0 0
+D5
+~
+~
+0 0 44106
+S
+#44000
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region.
+~
+0 0 4
+D0
+~
+~
+0 0 44001
+D2
+~
+~
+0 0 14537
+S
+#44001
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region.
+~
+0 0 4
+D0
+~
+~
+0 0 44002
+D2
+~
+~
+0 0 44000
+S
+#44002
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region.
+~
+0 0 4
+D0
+~
+~
+0 0 44003
+D1
+~
+~
+0 0 44011
+D2
+~
+~
+0 0 44001
+D3
+~
+~
+0 0 44010
+S
+#44003
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region.
+~
+0 0 4
+D0
+~
+~
+0 0 44004
+D1
+~
+~
+0 0 44012
+D2
+~
+~
+0 0 44002
+S
+#44004
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region.
+~
+0 0 4
+D0
+~
+~
+0 0 44005
+D2
+~
+~
+0 0 44003
+S
+#44005
+Northern village way~
+This is the main village path, and it runs from the north end of the village
+to the south end. The road is very well worn, with wagon tracks very well imprinted
+into the hard clay road. The way is very dirty, as it is apparent that this is not
+one of the more wealthy villages in the region. The road appears to be at it's end here,
+with the only obvious exits to the south and up the mountain cliff face.
+~
+0 0 4
+D2
+~
+~
+0 0 44004
+D4
+~
+~
+0 0 44006
+S
+#44006
+Climbing the Ledge~
+Climbing the rock face, look out for falling hazards! The rock face continues
+up and down.
+~
+0 0 5
+D4
+~
+~
+0 0 44007
+D5
+~
+~
+0 0 44005
+S
+#44007
+Climbing the Ledge~
+Climbing the rock face, look out for falling hazards! The rock face continues
+up and down.
+~
+0 0 5
+D0
+~
+~
+1 0 44018
+D4
+~
+~
+0 0 44008
+D5
+~
+~
+0 0 44006
+S
+#44008
+Climbing the Ledge~
+Climbing the rock face, look out for falling hazards! The rock face continues
+up and down.
+~
+0 0 5
+D0
+~
+~
+0 0 44009
+D5
+~
+~
+0 0 44007
+S
+#44009
+On a Ledge~
+The path here is narrow and rocky.  Barely enough room to walk without
+falling off the ledge.  Continue walking on the ledge to the south.  To the
+west the ledge becomes wider.  
+~
+0 0 5
+D2
+~
+~
+0 0 44008
+D3
+~
+~
+0 0 44014
+S
+#44010
+A small town shop~
+This appears to be a small abandoned shop of some kind. There is a large glass
+counter stretching all along the far war, pulled out a few feet from the corner.
+Cobwebs and dust are everywhere, making it very apparent that the shop has been
+abandoned for a very long time now indeed. Broken glass bottles are seen all over
+the floor, giving the impression that this was perhaps a potion shop of some kind.
+~
+0 0 0
+D1
+~
+~
+0 0 44002
+S
+#44011
+A town home~
+This appears to be the home of a very poor peasant. There is little in
+the way of furnishings besides a small table, chair, and an oak bed in
+the far corner.
+~
+0 0 0
+D3
+~
+~
+0 0 44002
+S
+#44012
+Entrance to the Chuckling Chupacabra Inn~
+This is the entrance to the famed Inn on the Dark Continent. There have been
+stories told far and wide about the Chuckling Chupacabra Inn. Tales of tankards,
+blood, weapons, betrayal, and good times. Loud noises can be heard from the bar
+to the north. Be very certain that you can take it before you enter!
+~
+0 0 0
+D0
+~
+~
+0 0 44013
+D3
+~
+~
+0 0 44003
+S
+#44013
+The Chuckling Chupacabra Inn bar and grill~
+This is a bar like most others; There is a large L shaped oak bar that stretches
+from one corner of the room to the other, with several hard wooden benches sitting
+in front of the bar. A large jukebox can be seen in the corner of the room, sitting
+next to a rather large dwarf that is passed out drunk in a pool of his own vomit. The
+only exit is south.
+~
+0 0 5
+D2
+~
+~
+0 0 44012
+S
+#44014
+Walking The Ledge~
+The path is wider but rockier than before.  Huge boulders that have
+fallen block part of the path.  Be careful not to fall off the ledge when
+maneuvering around the rubble that has fallen here.  
+~
+0 0 5
+D1
+~
+~
+0 0 44009
+D3
+~
+~
+0 0 44015
+S
+#44015
+Walking The Ledge~
+Many boulders are piled as a baracade around the ledge.  This part of the
+path is clear and not as rocky as those towards the east.  A faint smell of
+smoke fills the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 44014
+D3
+~
+~
+0 0 44016
+S
+#44016
+Walking The Ledge~
+The boulders here are smaller but not like any others ever seen.  Their
+colors are a bright and vibrant.  Each stone and boulder is a different
+color and shade.  The smell of smoke has become stronger.  
+~
+0 0 5
+D1
+~
+~
+0 0 44015
+D3
+~
+~
+0 0 44017
+S
+#44017
+Walking The Ledge~
+As the ledge ends here, a campfire smolters at the edge.  The spectacular
+rocks line the firepit.  The rest of the ground here has been cleared.  This
+looks like a great place to camp for the night.  
+~
+0 0 5
+D1
+~
+~
+0 0 44016
+S
+#44018
+Through The Mountain~
+The path opens wider and southward toward a ledge.  The rocks that once
+blocked this path are neatly piled to the side.  Making passage to the near
+town easier to travel.  
+~
+0 0 5
+D0
+~
+~
+0 0 44019
+D2
+~
+~
+1 0 44007
+S
+#44019
+Through The Mountain~
+Land!  And a path.  The rocky path seems to lead upward back into the
+mountains.  The path is soggy, mixed with mud and blood.  
+~
+0 0 5
+D0
+~
+~
+0 0 44020
+D2
+~
+~
+0 0 44018
+S
+#44020
+The Underground lake expanse~
+Drifting into deeper water, it seems to become darker.  Gourgling noises
+are loudly echoing through the lake cavern.  Luckily none sounds to close.  
+~
+0 0 5
+D0
+~
+~
+0 0 44087
+D1
+~
+~
+0 0 44032
+D2
+~
+~
+0 0 44019
+D3
+~
+~
+0 0 44022
+D5
+~
+~
+1 0 44021
+S
+#44021
+Entrance to the Unground Highway~
+A highway opens up here.  Leading downward to a cavern passage. 
+Sparkling rocks can be seen deeply implanted into the walls.  Small
+footprints of dwarf travelers are embedded in the muddy ground of the road. 
+Up the road a underground lake can be seen.  
+~
+0 0 5
+D4
+~
+~
+1 0 44020
+D5
+~
+~
+0 0 44036
+S
+#44022
+The Underground lake expanse~
+The lake seem to open up underneath the mountain. 
+There are no signs of the shore, just water everywhere.
+The waves seem to be calmer here, but still splashes into the small vessel.
+~
+0 0 5
+D0
+~
+~
+0 0 44088
+D1
+~
+~
+0 0 44020
+D3
+~
+~
+0 0 44023
+S
+#44023
+The Underground lake expanse~
+Floating skulls, and other various bones float by in this cove part of
+the lake.  The water is still red but at least its calm for the moment. 
+Hissing sounds can be heard all around.  
+~
+0 0 5
+D0
+~
+~
+0 0 44024
+D1
+~
+~
+0 0 44022
+S
+#44024
+The Underground lake expanse~
+The water here is murky, thick and red.  Bodys of creatures are hung from
+the walls of the cavern in this back corner of the lake.  Snakes slitter
+pass going towards the dead beings.  
+~
+0 0 5
+D0
+~
+~
+0 0 44025
+D2
+~
+~
+0 0 44023
+S
+#44025
+The Underground lake expanse~
+Greenish-blue water starts to show signs of something red in it........ 
+Could it be blood?  Oh no!  A severed arm floats pass.  
+Where is the body the arm belongs to???
+~
+0 0 5
+D0
+~
+~
+0 0 44026
+D2
+~
+~
+0 0 44024
+S
+#44026
+The Underground lake expanse~
+The dark murky water is turning to a greenish-blue color.  Water drips
+from above through a crack in the mountain wall.  A faint sound of a beast
+howling far away can be heard in the silence.  
+~
+0 0 5
+D0
+~
+~
+0 0 44027
+D2
+~
+~
+0 0 44025
+S
+#44027
+The Underground lake expanse~
+The current of this lake is unexpectable.  Some places its peaceful,
+others rowdy.  Right now its a mix of both.  Watch out a wave could sweep
+someone overboard in the blink of an eye.  
+~
+0 0 5
+D1
+~
+~
+0 0 44028
+D2
+~
+~
+0 0 44026
+S
+#44028
+The Underground lake expanse~
+The water becomes a darky green, and the stench of rotting carcasses make
+it almost unbearable to continue.  The current is pulling harder now making
+it harder to control any seaworthy vessel.  
+~
+0 0 5
+D1
+~
+~
+0 0 44029
+D3
+~
+~
+0 0 44027
+S
+#44029
+The Underground lake expanse~
+The murkyness of the lake would be a good hiding place for any creature
+to stalk its prey.  Fog covers this area making visibility harder than ever.
+The echos of moaning of screching become even more creepy.  
+~
+0 0 5
+D1
+~
+~
+0 0 44030
+D3
+~
+~
+0 0 44028
+S
+#44030
+The Underground lake expanse~
+More body parts float by, what could be out there to cause such damage. 
+Staying low in your vessel and being silent is advised on this lake of the
+unknown.  
+~
+0 0 5
+D1
+~
+~
+0 0 44031
+D3
+~
+~
+0 0 44029
+S
+#44031
+The Underground lake expanse~
+A high enbankment stop passage any futher, west seems the only way out of
+this dark, dreadful abyss.  Blood drips down off the cliffs and rotting
+corpse can be seen when looking up.  
+~
+0 0 5
+D3
+~
+~
+0 0 44030
+S
+#0
+
+
+
+#SPECIALS
+M 44015 spec_cast_mage Load to: the {DG{Wh{wo{Ws{Dt{X of Keplic
+S
+
+
+
+#RESETS
+D 0 44037 0 1 The north door of An underground passage is closed
+D 0 44038 2 1 The south door of A passageway is closed
+D 0 44042 1 1 The east door of A Dead End is closed
+D 0 44043 0 1 The north door of A passageway is closed
+D 0 44044 2 1 The south door of The {YN{cy{Dm{ci{Ya{X mines is closed
+D 0 44046 3 1 The west door of The {cT{Dr{wa{Wn{ws{Di{wa{cn{X mines is closed
+D 0 44048 5 1 The down door of The {cT{Dr{wa{Wn{ws{Di{wa{cn{X mines is closed
+D 0 44049 4 1 The up door of The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path is closed
+D 0 44052 5 1 The down door of The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path is closed
+D 0 44053 5 1 The down door of The {cT{Cr{Da{wn{Ws{Di{Ca{cn{X Path is closed
+D 0 44078 0 1 The north door of The {YN{cy{Dm{ci{Ya{X mines is closed
+D 0 44079 2 1 The south door of Keplic's last stand is closed
+D 0 44090 5 1 The down door of On the lake is closed
+D 0 44097 4 1 The up door of A hole in the bottom is closed
+D 0 44100 0 1 The north door of Further down the hole is closed
+D 0 44101 2 1 The south door of End of the hole is closed
+D 0 44007 0 1 The north door of Climbing the Ledge is closed
+D 0 44018 2 1 The south door of Through The Mountain is closed
+D 0 44020 5 1 The down door of The Underground lake expanse is closed
+D 0 44021 4 1 The up door of Entrance to the Unground Highway is closed
+M 0 44004 10 44032 10 *Load a traveling dwarf
+M 0 44004 10 44033 10 *Load a traveling dwarf
+M 0 44004 10 44037 10 *Load a traveling dwarf
+M 0 44004 10 44038 10 *Load a traveling dwarf
+M 0 44004 10 44039 10 *Load a traveling dwarf
+M 0 44005 11 44040 11 *Load dwarven miner
+M 0 44005 11 44041 11 *Load dwarven miner
+M 0 44005 11 44044 11 *Load dwarven miner
+M 0 44005 11 44047 11 *Load dwarven miner
+M 0 44005 11 44049 11 *Load dwarven miner
+M 0 44005 11 44050 11 *Load dwarven miner
+M 0 44005 11 44051 11 *Load dwarven miner
+M 0 44005 11 44073 11 *Load dwarven miner
+O 0 44000 0 44079 *Keplic's journal loaded to Keplic's last stand
+M 0 44015 1 44079 1 *Load the {DG{Wh{wo{Ws{Dt{X of Keplic
+O 0 44001 0 44101 *A mythril bar loaded to End of the hole
+M 0 44005 11 44102 11 *Load dwarven miner
+M 0 44005 11 44104 11 *Load dwarven miner
+M 0 44005 11 44107 11 *Load dwarven miner
+M 0 44001 10 44001 10 *Load a villager
+M 0 44001 10 44001 10 *Load a villager
+M 0 44001 10 44002 10 *Load a villager
+M 0 44001 10 44002 10 *Load a villager
+M 0 44002 6 44002 6 *Load a wandering merchant
+M 0 44001 10 44003 10 *Load a villager
+M 0 44001 10 44003 10 *Load a villager
+M 0 44002 6 44003 6 *Load a wandering merchant
+M 0 44001 10 44004 10 *Load a villager
+M 0 44001 10 44004 10 *Load a villager
+M 0 44002 6 44004 6 *Load a wandering merchant
+M 0 44001 10 44005 10 *Load a villager
+M 0 44002 6 44005 6 *Load a wandering merchant
+M 0 44003 1 44010 1 *Load a shopkeeper
+G 0 44002 0 *Potion of {ys{mi{yg{mh{yt{x is given to a shopkeeper
+M 0 44002 6 44012 6 *Load a wandering merchant
+M 0 44004 10 44018 10 *Load a traveling dwarf
+M 0 44004 10 44019 10 *Load a traveling dwarf
+M 0 44004 10 44020 10 *Load a traveling dwarf
+M 0 44004 10 44021 10 *Load a traveling dwarf
+M 0 44004 10 44022 10 *Load a traveling dwarf
+M 0 44004 10 44025 10 *Load a traveling dwarf
+S
+
+
+
+#SHOPS
+44003 33 8 15 9 10 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#44000
+mob transfer $i
+~
+#0
+
+#$

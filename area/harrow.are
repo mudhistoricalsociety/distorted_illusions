@@ -1,0 +1,233 @@
+#AREADATA
+Name The Harrowing Castle~
+Builders Bree Unlinked~
+VNUMs 44000 44999
+Continent 0
+Credits [ CONST] Bree     The Harrowing Castle~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#44000
+harrowing castle guardian~
+{*Harr{wo{*wing{X {8C{Wa{ws{Wt{8l{we{X Gaurdian~
+The {*Harr{wo{*wing{X {8C{Wa{ws{Wt{8l{we{X Gaurdian is here, peering at you.
+~
+Atleast nine feet in height, this giant guardian would be one
+of the last people you would want to mess with. His calm demeanor
+indicates that he beleives he would have no trouble with you at all.
+~
+fire-giant~
+ABGT DFJVZ 0 -1000 0
+170 145 1d1+19000 1d1+300 20d20+200 pound
+-100 -100 -100 -100
+FHI ABH M IN
+stand stand male 39222
+AHMV ABCDEFGHIJK large unknown
+#44001
+servant~
+an undead {*servant{X~
+A {*servant{X is here, going about his duties.
+~
+This short drow stands only about five feet in height, and weights
+a slim 120 pounds. But there is something in his eye that makes you
+nervous.
+~
+dark-elf~
+AGO DFJZ 0 -1000 0
+175 145 1d1+17500 1d1+2000 9d25+25 flash
+-90 -90 -90 -90
+DHIKU AB CP NS
+stand stand male 2001
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#44000
+black key~
+a black key~
+A small black key lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#44001
+The Harrowing patch~
+the {*Harrowing{X patch~
+A {*Harrowing{X patch lies here, forgotten.~
+unknown~
+armor 0 AW
+CDE CDE CDE CDE 0
+101 0 30244 P
+A
+17 -10
+A
+12 -150
+A
+4 -2
+A
+19 15
+#0
+
+
+
+#ROOMS
+#44000
+Before a large Castle~
+The grass recedes here, and a large castle appears directly infront of the path.
+It must be atleast five stories high, with a large metal door at it's base,
+flanked on both sides by statues of gargoyles.
+~
+0 4 3
+D0
+~
+~
+0 0 44001
+S
+#44001
+On the Doorstep to The {*Harrowing{X Castle{X~
+Closer inspection reveals that the door is made of solid platinum, and the
+statues flanking the door seem to be made of obsidian, with rubies for the 
+eyes. A large guard stands here, guarding the entrance.
+~
+0 0 3
+D0
+~
+~
+1 44000 44002
+D2
+~
+~
+0 0 44000
+S
+#44002
+The Castle Foyer~
+The castle foyer looks rather sparse for a castle this large. A few
+paintings are hung on the walls to either side, and a small coat rack
+rests in the corner of the room, between the door and the wall.
+~
+0 0 0
+D0
+~
+~
+0 0 44003
+D2
+~
+~
+1 0 44001
+S
+#44003
+Intersection in a {*Dark{X Hallway~
+Dim light leaks in from slits in above the ground, lightly glimmering off the two
+suits of armor, situated at both sides of the hallway. Beyond this room, it is 
+very difficult to see what lies ahead. A large painting hangs in the middle of 
+the armor, depicting the Lord of the castle.
+~
+0 0 0
+D1
+~
+~
+0 0 44005
+D2
+~
+~
+0 0 44002
+D3
+~
+~
+0 0 44004
+S
+#44004
+{XA {*Dark{X Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 44006
+D1
+~
+~
+0 0 44003
+S
+#44005
+{XA {*Dark{X Hallway~
+~
+0 0 0
+D3
+~
+~
+0 0 44003
+S
+#44006
+{XA {*Dark{X Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 44007
+D2
+~
+~
+0 0 44004
+S
+#44007
+{XA {*Dark{X Stairwell~
+~
+0 0 0
+D2
+~
+~
+0 0 44006
+D4
+~
+~
+0 0 44008
+S
+#44008
+{XAt the Top of the Stairs~
+~
+0 0 0
+D5
+~
+~
+0 0 44007
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 44001 0 1 The north door of On the Doorstep to The {*Harrowing{X Castle{X is closed
+D 0 44002 2 1 The south door of The Castle Foyer is closed
+M 0 44000 1 44001 1 *Load {*Harr{wo{*wing{X {8C{Wa{ws{Wt{8l{we{X Gaurdian
+G 0 44000 0 *A black key is given to {*Harr{wo{*wing{X {8C{Wa{ws{Wt{8l{we{X Gaurdian
+E 0 44001 0 27 *The {*harrowing{x patch is loaded as a patch of {*Harr{wo{*wing{X {8C{Wa{ws{Wt{8l{we{X Gaurdian
+M 0 44001 6 44002 1 *Load an undead {*servant{X
+M 0 44001 6 44004 1 *Load an undead {*servant{X
+M 0 44001 6 44005 1 *Load an undead {*servant{X
+M 0 44001 6 44007 1 *Load an undead {*servant{X
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#44000
+~
+#0
+
+#$

@@ -1,0 +1,1536 @@
+#AREADATA
+Name viktor~
+Builders None~
+VNUMs 41000 41099
+Continent 1
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#41000
+Guardian Goldfish~
+Viktors Guardian Goldfish~
+The Guardian of Viktor's Study, which is a giant Goldfish.
+~
+Well, its a giant goldfish. What kind of desc do you want here?!
+~
+human~
+ABEFQRS DFJUVZb CHNO 0 0
+180 300 1d1+60000 1d1+50000 25d30+400 bite
+-90 -90 -90 -70
+GHMW AEIMPRT YZ H
+stand stand none 0
+b AOQX medium unknown
+C aesir~
+F for AHMV
+F par BCDEFGHIJK
+#41099
+a n00blet!~
+a n00blet!~
+A n00blet!
+~
+~
+human~
+A 0 0 0 0
+5000 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#41000
+Viktor's Boots~
+{RV{riktor's {RB{roots{x~
+A gift to Hannah. ~
+unknown~
+armor 0 AG
+BCDE BCDE BCDE BCDE 0
+30 0 0 P
+A
+26 10
+A
+19 15
+A
+18 15
+#41001
+Viktor's Guidance~
+{RG{ruidance {Ro{rf {RV{riktor{x~
+The guidance used by {RV{riktor{x radiates here.~
+unknown~
+armor 0 AQ
+ABF ABF ABF ABF 0
+110 0 0 P
+A
+19 20
+A
+18 20
+#41002
+Viktor's ring~
+{RV{riktor's {RR{ring{x~
+A ring with the name 'Viktor' engraved in it has been discarded here.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+110 0 0 P
+A
+19 30
+A
+18 30
+#41003
+fireball~
+a {RF{ri{Rr{re{Rb{ra{Rl{rl{x~
+A burning ball of {RF{ri{Rr{re{x rests here.~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 0 0 P
+A
+26 10
+A
+18 50
+A
+19 50
+#41004
+Viktors Claws~
+{RV{riktors {RC{rlaws{x~
+A very scarey claw has been lost here~
+unknown~
+weapon CFHS AN
+exotic 50 15 claw CEH
+110 0 0 P
+#41005
+Viktor Faith~
+{RV{riktor's {RF{raith {Ri{rn {RB{rlood{x~
+A blood stained religion patch.~
+unknown~
+armor 0 AV
+CE CE CE CE 0
+110 0 0 P
+A
+17 -250
+A
+9 250
+#41006
+might aesir~
+{B[{GM {Yi{Gg{Yh{Gt{B]{x of the{B[{GA{Ye{Gs{Yi{Gr{B]{x~
+A strong presence is eminating here.~
+unknown~
+armor ABIS AU
+BEF BEF BEF BEF 0
+110 0 0 P
+A
+17 -100
+A
+18 100
+A
+19 100
+#41007
+Viktors Knapsack~
+{RV{riktor's {RK{rnapsack{x~
+A very well made bag with the name 'Viktor' sits here.~
+unknown~
+container R AX
+10000000 A 0 10000000 0
+110 0 0 P
+#41008
+stat booster patch~
+stat Booster for TestChar~
+TestChar's stat booster lies here.~
+unknown~
+armor 0 AW
+0 0 0 0 0
+101 0 0 P
+A
+18 100
+A
+19 50
+A
+17 -300
+#41010
+large guard door key~
+a guard station door key~
+A large steel key has been left here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#41000
+Viktor's Study~
+You see many papers strewn about, very unorganized and in
+no real order. Tacked to a wall you see a planned layout. You 
+feel you should leave before Viktor returns.
+~
+0 8204 0
+D5
+~
+~
+0 0 3014
+S
+#41001
+Top of the Stairs~
+      After climbing the stairwell you have come to top of the
+massive structure.  You come to the conclusion that you are
+roughly 20 stories up and are on a well built structure that
+took many many years to build.
+~
+0 4 0
+D0
+~
+~
+0 0 41002
+S
+#41002
+Guard's Station~
+     Before you stands a grand door made of heavy grade
+steel and very little wood. As you try to proceed you relize
+that no amount of raw strength or skill will open this door.
+You will need the key to get in the massive structure.
+~
+0 0 0
+D0
+~
+~
+4 41010 41003
+D2
+~
+~
+0 0 41001
+S
+#41003
+Grand Entrance Hall~
+     You are in the grand entrance hall of the massive
+structure. You hear footsteps echoing from every direction
+making it hard to distinguish where they are comming from.
+~
+0 0 0
+D0
+~
+~
+0 0 41004
+D1
+~
+~
+0 0 41012
+D2
+~
+~
+4 0 41002
+D3
+~
+~
+0 0 41020
+S
+#41004
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41005
+D1
+~
+~
+0 0 41013
+D2
+~
+~
+0 0 41003
+D3
+~
+~
+0 0 41014
+S
+#41005
+[name]~
+~
+0 8192 0
+D0
+~
+~
+0 0 41006
+D1
+~
+~
+0 0 41021
+D2
+~
+~
+0 0 41004
+D3
+~
+~
+0 0 41022
+S
+#41006
+linking room to section 2~
+~
+0 0 0
+D0
+~
+~
+0 0 41025
+D1
+~
+~
+0 0 41007
+D2
+~
+~
+0 0 41005
+D3
+~
+~
+0 0 41015
+S
+#41007
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41008
+D2
+~
+~
+0 0 41021
+D3
+~
+~
+0 0 41006
+S
+#41008
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41009
+D3
+~
+~
+0 0 41007
+S
+#41009
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41008
+D2
+~
+~
+0 0 41010
+D3
+~
+~
+0 0 41021
+S
+#41010
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41009
+D2
+~
+~
+0 0 41011
+S
+#41011
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41010
+D3
+~
+~
+0 0 41012
+S
+#41012
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41011
+D2
+~
+~
+0 0 41024
+D3
+~
+~
+0 0 41003
+S
+#41013
+~
+~
+0 0 0
+D3
+~
+~
+0 0 41004
+S
+#41014
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41004
+S
+#41015
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41006
+D2
+~
+~
+0 0 41022
+D3
+~
+~
+0 0 41016
+S
+#41016
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41015
+D2
+~
+~
+0 0 41017
+S
+#41017
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41016
+D1
+~
+~
+0 0 41022
+D2
+~
+~
+0 0 41018
+S
+#41018
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41017
+D2
+~
+~
+0 0 41019
+S
+#41019
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41018
+D1
+~
+~
+0 0 41020
+S
+#41020
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41003
+D2
+~
+~
+0 0 41023
+D3
+~
+~
+0 0 41019
+S
+#41021
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41007
+D1
+~
+~
+0 0 41009
+D3
+~
+~
+0 0 41005
+S
+#41022
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41015
+D1
+~
+~
+0 0 41005
+D3
+~
+~
+0 0 41017
+S
+#41023
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41020
+S
+#41024
+last room made in section 1~
+~
+0 0 0
+D0
+~
+~
+0 0 41012
+S
+#41025
+sect 2 start~
+~
+0 0 0
+D0
+~
+~
+0 0 41040
+D1
+~
+~
+0 0 41026
+D2
+~
+~
+0 0 41006
+D3
+~
+~
+0 0 41038
+S
+#41026
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41041
+D1
+~
+~
+0 0 41027
+D3
+~
+~
+0 0 41025
+S
+#41027
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41026
+S
+#41028
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41030
+D2
+~
+~
+0 0 41027
+D3
+~
+~
+0 0 41043
+S
+#41029
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41028
+S
+#41030
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41031
+S
+#41031
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41045
+D1
+~
+~
+0 0 41030
+D3
+~
+~
+0 0 41032
+S
+#41032
+Path to Sect 3~
+~
+0 0 0
+D0
+~
+~
+0 0 41053
+D1
+~
+~
+0 0 41031
+D2
+~
+~
+0 0 41042
+D3
+~
+~
+0 0 41033
+S
+#41033
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41049
+D1
+~
+~
+0 0 41032
+D3
+~
+~
+0 0 41034
+S
+#41034
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41033
+D2
+~
+~
+0 0 41035
+S
+#41035
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41034
+D1
+~
+~
+0 0 41044
+D2
+~
+~
+0 0 41036
+S
+#41036
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41035
+D2
+~
+~
+0 0 41037
+S
+#41037
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41036
+D1
+~
+~
+0 0 41038
+S
+#41038
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41039
+D1
+~
+~
+0 0 41025
+D3
+~
+~
+0 0 41037
+S
+#41039
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41040
+D2
+~
+~
+0 0 41038
+S
+#41040
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41041
+D2
+~
+~
+0 0 41025
+D3
+~
+~
+0 0 41039
+S
+#41041
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41026
+D3
+~
+~
+0 0 41040
+S
+#41042
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41032
+D1
+~
+~
+0 0 41043
+D3
+~
+~
+0 0 41044
+S
+#41043
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41042
+S
+#41044
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41042
+D3
+~
+~
+0 0 41035
+S
+#41045
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41046
+D2
+~
+~
+0 0 41031
+S
+#41046
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41047
+D2
+~
+~
+0 0 41045
+S
+#41047
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41048
+D3
+~
+~
+0 0 41046
+S
+#41048
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41047
+S
+#41049
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41050
+D2
+~
+~
+0 0 41033
+S
+#41050
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41049
+D3
+~
+~
+0 0 41051
+S
+#41051
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41050
+D2
+~
+~
+0 0 41052
+S
+#41052
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41051
+S
+#41053
+sect 3 start~
+~
+0 0 0
+D0
+~
+~
+0 0 41054
+D2
+~
+~
+0 0 41032
+S
+#41054
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41055
+D2
+~
+~
+0 0 41053
+S
+#41055
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41056
+D2
+~
+~
+0 0 41054
+S
+#41056
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41057
+D2
+~
+~
+0 0 41055
+S
+#41057
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41058
+D1
+~
+~
+0 0 41063
+D2
+~
+~
+0 0 41056
+D3
+~
+~
+0 0 41069
+S
+#41058
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41059
+D1
+~
+~
+0 0 41083
+D2
+~
+~
+0 0 41057
+D3
+~
+~
+0 0 41075
+S
+#41059
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41060
+D1
+~
+~
+0 0 41086
+D2
+~
+~
+0 0 41058
+D3
+~
+~
+0 0 41078
+S
+#41060
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41061
+D2
+~
+~
+0 0 41059
+S
+#41061
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41062
+D2
+~
+~
+0 0 41060
+S
+#41062
+to sah fort~
+~
+0 0 0
+D2
+~
+~
+0 0 41061
+S
+#41063
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41083
+D1
+~
+~
+0 0 41064
+D3
+~
+~
+0 0 41057
+S
+#41064
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41065
+D3
+~
+~
+0 0 41063
+S
+#41065
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41064
+D2
+~
+~
+0 0 41066
+S
+#41066
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41065
+D3
+~
+~
+0 0 41067
+S
+#41067
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41068
+D1
+~
+~
+0 0 41066
+S
+#41068
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41067
+S
+#41069
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41075
+D1
+~
+~
+0 0 41057
+D3
+~
+~
+0 0 41070
+S
+#41070
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41069
+D2
+~
+~
+0 0 41071
+S
+#41071
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41070
+D2
+~
+~
+0 0 41072
+S
+#41072
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41071
+D1
+~
+~
+0 0 41073
+S
+#41073
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41074
+D3
+~
+~
+0 0 41072
+S
+#41074
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41073
+S
+#41075
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41078
+D1
+~
+~
+0 0 41058
+D2
+~
+~
+0 0 41069
+D3
+~
+~
+0 0 41076
+S
+#41076
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41077
+D1
+~
+~
+0 0 41075
+S
+#41077
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41076
+S
+#41078
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41079
+D1
+~
+~
+0 0 41059
+D2
+~
+~
+0 0 41075
+S
+#41079
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41080
+D2
+~
+~
+0 0 41078
+S
+#41080
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41079
+D3
+~
+~
+0 0 41081
+S
+#41081
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41080
+D2
+~
+~
+0 0 41082
+S
+#41082
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41081
+S
+#41083
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41086
+D1
+~
+~
+0 0 41084
+D2
+~
+~
+0 0 41063
+D3
+~
+~
+0 0 41058
+S
+#41084
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41085
+D3
+~
+~
+0 0 41083
+S
+#41085
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41084
+S
+#41086
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41087
+D2
+~
+~
+0 0 41083
+D3
+~
+~
+0 0 41059
+S
+#41087
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41088
+D1
+~
+~
+0 0 41089
+D2
+~
+~
+0 0 41086
+S
+#41088
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41087
+S
+#41089
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41090
+D3
+~
+~
+0 0 41087
+S
+#41090
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41089
+S
+#41091
+~
+~
+0 4 0
+S
+#41092
+~
+~
+0 4 0
+S
+#41093
+~
+~
+0 4 0
+S
+#41094
+~
+~
+0 4 0
+S
+#41095
+~
+~
+0 4 0
+S
+#41096
+~
+~
+0 4 0
+S
+#41097
+~
+~
+0 4 0
+S
+#41098
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 41002 0 2 The north door of Guard's Station is closed and locked
+D 0 41003 2 2 The south door of Grand Entrance Hall is closed and locked
+M 0 41000 1 41000 1 *Load Viktors Guardian Goldfish
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

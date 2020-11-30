@@ -1,0 +1,142 @@
+#AREADATA
+Name Wallstreet~
+Builders Bree Noquest~
+VNUMs 47501 47599
+Continent 1
+Credits {y[  {GALL {y]{c Bree     {GWallstreet{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#47501
+stock broker~
+a stock broker~
+A stock broker is standing here.
+~
+~
+human~
+ABG DFJZ 0 0 0
+1 0 1d1+200 0d0+0 1d1+200 none
+0 0 0 0
+0 0 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#47501
+Stock Bree inc~
+{DStock {DCe{Wrti{wfi{Wca{Dte{X for 'Bree Inc.'~
+A Stock Certificate for 'Bree Inc.' has been carelessly dropped here.~
+Bree Inc.~
+drink AORSY AO
+0 0 'water' 0 0
+1 0 876 R
+#47502
+stock certificate for fesdor unlimited~
+{DStock {DCe{Wrti{wfi{Wca{Dte{X for 'Fesdor Unlimited.'~
+A Stock Certificate for 'Fesdor Unlimited' has been carelessly dropped here.~
+Fesdor Unlimited~
+drink AORSY AO
+0 0 'water' 0 0
+1 0 754 R
+#47503
+Asgardian Pharmaceuticals stock certificate~
+{DStock {DCe{Wrti{wfi{Wca{Dte{X for 'Asgardian Pharmaceuticals'~
+A Asgardian Pharmaceuticals Stock Certificate has been carelessly dropped here.~
+Asgardian Pharmaceuticals~
+drink AORSY AO
+0 0 'water' 0 0
+1 0 572 R
+#47504
+Distorted Illusions of Grandeur stock certificate~
+{DStock {DCe{Wrti{wfi{Wca{Dte{X for 'Distorted Illusions of Grandeur'~
+A {DStock {DCe{Wrti{wfi{Wca{Dte{X for 'Distorted Illusions of Grandeur' has been carelessly dropped here.~
+Distorted Illusions of Grandeur~
+drink AORSY AO
+0 0 'water' 0 0
+1 0 521 R
+#47505
+stock certificate bobs babble bonanza~
+{DStock Ce{Wrti{dfi{Wca{Dte{x for 'Bob's Babble Bonanza.'~
+A {DStock Ce{Wrti{dfi{Wca{Dte{x for 'Bob's Babble Bonanza.' has been carelessly dropped here.~
+Bob's Babble Bonanza~
+drink AORSY AO
+0 0 'water' 0 0
+1 0 830 R
+#47506
+stock certificate aesir clan~
+a Stock Certificate For '{b[{YA{Ge{Ws{Yi{Gr{b]{X Clan'~
+A Stock Certificate For '[Aesir] Clan' has been left here.~
+unknown~
+trash A AO
+0 0 0 0 0
+-731 -982 18645 B
+#47520
+bankrupt stock~
+{DA Bankrupt Stock Certificate{x~
+A worthless stock certificate lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#47501
+Entrance To Wallstreet~
+~
+0 0 0
+D0
+~
+~
+0 0 47502
+D3
+~
+~
+0 0 3007
+S
+#47502
+{GI{Yn{Wv{Ge{Ys{Wt{Gm{Ye{Wn{Gt{X {YBr{yok{Yer's{X Office~
+{YWE ARE CURRENTLY BETA TESTING THE STOCK MARKET SYSTEM.{x
+Use {W'{Chelp stock{W'{x to learn more.
+~
+0 0 0
+D2
+~
+~
+0 0 47501
+S
+#0
+
+
+
+#SPECIALS
+M 47501 spec_stockman Load to: a stock broker
+S
+
+
+
+#RESETS
+M 0 47501 1 47502 1 *Load a stock broker
+S
+
+
+
+#SHOPS
+47501 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

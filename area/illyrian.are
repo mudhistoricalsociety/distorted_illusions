@@ -1,0 +1,1883 @@
+#AREADATA
+Name Illyrian~
+Builders Unlinked Bree~
+VNUMs 11000 11400
+Continent 3
+Credits [ ALL  ] Bree      Illaryian~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#11000
+Sytol jeweler~
+Sytol~
+Sytol the jeweler is here, polishing something.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11001
+Grovoso~
+Grovoso~
+Grovoso is here, sharpening an axe.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11002
+Ymichas~
+Ymichas~
+Ymichas, the master armorer is here.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11003
+Hyven~
+Hyven~
+Hyven the scroll master is here.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11004
+Rytharias~
+Rytharias~
+Rytharias, the ancient brewer stands here.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11005
+Zuberius~
+Zuberius~
+Zuberius is here, brandishing a staff.
+~
+~
+human~
+ABG 0 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 900000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11006
+Klytho~
+Klytho~
+Klytho is here, baking something.
+~
+~
+human~
+ABG 0 0 0 0
+125 0 1d1+1200 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 90000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11007
+healer ancient Vramoth~
+Vramoth~
+Vramoth, the ancient healer is here chanting something.
+~
+Vramoth was once a great traveler of the realms, until the
+unfortunate accident that left this continent cut off from
+the others. Since then, he has settled down here, and helped
+his fellow man.
+~
+human~
+ABGa 0 0 1000 0
+150 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11008
+Q'hor questmaster~
+Q'hor~
+Q'hor, the ancient Illyrian questmaster is here.
+~
+Q'hor has been in this city longer then anyone still
+alive. He took over for the old questmaster when tradgity
+befell him, and that was many many centuries ago.
+~
+human~
+ABG DFJZ 0 1000 0
+200 200 50d50+100000 0d0+0 50d50+999 wrath
+-200 -200 -200 -200
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11009
+Guildmaster~
+The Guildmaster~
+Your Guildmaster is here, waiting to train you.
+~
+~
+human~
+ABGJK DFJZ 0 1000 0
+125 200 1d1+200000 0d0+0 50d50+1000 fury
+-200 -200 -200 -200
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11010
+Illyrian Cityguard~
+An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X~
+An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X is here preserving the peace.
+~
+Short of stature but built like a dragon, it would be an
+unwise thing to tangle with this cityguard.
+~
+~
+~
+human~
+AGS DFJVZ 0 -1000 0
+75 125 1d1+5000 1d1+2300 8d10+40 pierce
+-60 -60 -60 -60
+0 0 0 0
+stand stand male 5030
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11012
+merchant~
+a merchant~
+A merchant is here, looking for a deal.
+~
+~
+human~
+AGT V 0 1000 0
+75 145 1d1+6000 1d1+5400 9d11+45 pound
+-40 -40 -40 -40
+CFI 0 0 0
+stand stand none 3202
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#11000
+potion marked 'protection'~
+potion marked 'protection'~
+A potion marked 'protection' lies on the ground here.~
+unknown~
+potion 0 AO
+40 'armor' 'shield' 'steel flesh' 'stone skin'
+40 0 10000 P
+#11001
+potion marked 'combat'~
+potion marked 'combat'~
+A potion marked 'combat' lies on the ground here.~
+unknown~
+potion 0 A
+50 'haste' 'frenzy' 'bless' 'giant strength'
+40 0 10000 P
+#11002
+small potion~
+a small potion~
+A potion lies on the ground here.~
+unknown~
+potion 0 AO
+100 'haste' 'invisibility' 'frenzy' ''
+95 0 20000 P
+#11003
+large potion~
+a large potion~
+A large potion lies on the ground here.~
+unknown~
+potion 0 AO
+100 'mana shield' 'bless' '' 'haste'
+95 0 20000 P
+#11004
+clay potion~
+a clay potion~
+A small clay potion lies here.~
+unknown~
+potion 0 AO
+135 'mass healing' 'mass healing' 'heal' 'refresh'
+101 0 50000 P
+#11005
+brittle scroll~
+a brittle scroll~
+A small scroll lies here.~
+unknown~
+scroll 0 AO
+110 'dispel magic' 'dispel invis' 'dispel magic' 'curse'
+100 0 70500 P
+#11006
+small scroll~
+a small scroll~
+A small scroll is here.~
+unknown~
+scroll 0 AO
+60 'fireball' 'flamestrike' 'reserved' 'reserved'
+50 0 20000 P
+#11007
+scroll identify~
+a scroll of identify~
+A scroll of identify lies here.~
+unknown~
+scroll 0 AO
+60 'identify' 'reserved' 'reserved' 'reserved'
+20 0 2300 P
+#11008
+blue diamond~
+a {4blue{X diamond~
+A blue diamond lies here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 8500000 P
+#11009
+potion sight~
+a {4si{$g{4ht{X potion~
+A small potion lies on the floor here.~
+unknown~
+potion 0 AO
+110 'farsight' 'detect invis' 'detect motion' 'infravision'
+90 0 10000 P
+#11010
+healing sauna~
+a {^he{6al{^in{6g{X sauna~
+A {^he{6al{^in{6g{X sauna is here.~
+unknown~
+furniture A 0
+D EIJKN BEHKL ABDEGHI ABDEGHI
+0 0 0 P
+#11011
+bar stool~
+a bar stool~
+A bar stool is here, looking inviting.~
+unknown~
+furniture 0 0
+A DEGJ BEH DGH DGH
+0 0 0 P
+#11012
+pink wand~
+a {%pink{X wand~
+A small wand lies on the ground here.~
+unknown~
+wand B AO
+90 5 5 'dispel magic' 0
+80 0 23000 P
+#11013
+black charred staff~
+a black charred staff~
+A long black staff is here.~
+unknown~
+staff G AO
+105 10 10 'mass invis' 0
+95 0 35000 P
+#11014
+long white staff~
+a long white staff~
+A long white staff lies here.~
+unknown~
+staff B AO
+120 8 8 'mass healing' 0
+100 0 43500 P
+#11015
+canolli~
+a canolli~
+A peice of desert lies here.~
+unknown~
+food 0 A
+20 20 0 0 0
+30 0 995 P
+#11016
+small cake~
+a small cake~
+A small cake lies here.~
+unknown~
+food 0 A
+14 14 0 0 0
+20 1 750 P
+#11017
+cookie big~
+a big cookie~
+A HUGE cookie is lying here!~
+unknown~
+food 0 A
+9 9 0 0 0
+10 1 250 P
+#11018
+belt chain linked~
+a {*ch{wa{*in{X belt~
+A large chain belt lies here.~
+unknown~
+armor 0 AL
+ADE ADE ADE ADE 0
+80 4 95000 P
+A
+2 -1
+A
+17 -10
+#11019
+Solid armplates pewter~
+solid {Dp{we{Wwt{we{Dr{X armplates~
+A set of armplates lie here.~
+pewter~
+armor 0 AI
+CE CE CE CE 0
+80 4 87500 P
+A
+2 -2
+A
+19 9
+A
+17 -5
+#11020
+sharp axe~
+a sharp axe~
+A sharp axe has been left here.~
+unknown~
+weapon 0 AN
+axe 4 8 cleave D
+15 0 5500 P
+A
+2 -2
+#11021
+double-bladed dagger~
+a {Ddo{wub{Wle{w-b{Dla{wde{Wd{X dagger~
+A double-bladed dagger has been carelessly left here.~
+unknown~
+weapon 0 AN
+dagger 4 12 none DE
+25 1 9750 P
+A
+1 -1
+A
+12 -75
+#0
+
+
+
+#ROOMS
+#11000
+Outside the Eastern Gate of Illyrian~
+There is a large gate and gate house directly infront of you to the
+west. The city appears to be surrounded by a huge, white curtain wall
+that extends around the city on all sides. There are a pair of guards
+protecting the gate to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 11001
+S
+#11001
+Inside the Eastern Gate of Illyrian~
+Standing inside the Eastern Gate of Illyrian, you can see the massive rune
+carvings on the inside of the gate. Roads run to the north and south, 
+and also to the west ,towards the center of town.
+~
+0 0 0
+D0
+~
+~
+0 0 11002
+D1
+~
+~
+0 0 11000
+D2
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11045
+S
+#11002
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11001
+S
+#11003
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11004
+D2
+~
+~
+0 0 11002
+S
+#11004
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11003
+D3
+~
+~
+0 0 11070
+S
+#11005
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D2
+~
+~
+0 0 11004
+D3
+~
+~
+0 0 11006
+S
+#11006
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11005
+D3
+~
+~
+0 0 11007
+S
+#11007
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11006
+D3
+~
+~
+0 0 11008
+S
+#11008
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11009
+S
+#11009
+Inside the Northern Gate of Illyrian~
+Directly inside the gate, large runes can be seen that are carved into the
+gate and the surrounding gate house. The walls are also covered in runes,
+maybe a protection spell.
+~
+0 0 0
+D0
+~
+~
+0 0 11010
+D1
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11011
+S
+#11010
+Outside the Northern Gate of Illyrian~
+There is a large gate and gate house directly infront of you to the
+south. The city appears to be surrounded by a huge, white curtain wall
+that extends around the city on all sides. There are a pair of guards
+protecting the gate to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 11071
+D2
+~
+~
+0 0 11009
+S
+#11011
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11012
+S
+#11012
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11013
+S
+#11013
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11014
+S
+#11014
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11013
+D2
+~
+~
+0 0 11015
+S
+#11015
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11064
+D2
+~
+~
+0 0 11016
+S
+#11016
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11015
+D2
+~
+~
+0 0 11017
+S
+#11017
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11018
+S
+#11018
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11017
+D2
+~
+~
+0 0 11019
+S
+#11019
+Inside the Western Gate of Illyrian~
+Directly inside the gate, large runes can be seen that are carved into
+the gate and the surrounding gate house. The walls are also covered
+in runes, a protection spell maybe.
+~
+0 0 0
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11020
+S
+#11020
+Outside the Western Gate of Illyrian~
+There is a large gate and gate house directly infront of you to the
+east. The city appears to be surrounded by a huge, white curtain wall
+that extends around the city on all sides. There are a pair of guards
+protecting the gate to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 11019
+S
+#11021
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11022
+S
+#11022
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11021
+D1
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11023
+S
+#11023
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11022
+D2
+~
+~
+0 0 11024
+S
+#11024
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11025
+S
+#11025
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11024
+D1
+~
+~
+0 0 11026
+S
+#11026
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11025
+S
+#11027
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11028
+D3
+~
+~
+0 0 11026
+S
+#11028
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11027
+S
+#11029
+Inside the Southern Gate of Illyrian~
+Directly inside the gate, large runes can be seen that are carved into
+the gate and the surrounding gate house. The walls are also covered
+in runes, a protection spell maybe.
+~
+0 0 0
+D1
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11030
+D3
+~
+~
+0 0 11028
+S
+#11030
+Outside the Southern Gate of Illyrian~
+There is a large gate and gate house directly infront of you to the
+north. The city appears to be surrounded by a huge, white curtain wall
+that extends around the city on all sides. There are a pair of guards
+protecting the gate to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11029
+S
+#11031
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11029
+S
+#11032
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11033
+D3
+~
+~
+0 0 11031
+S
+#11033
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D1
+~
+~
+0 0 11034
+D3
+~
+~
+0 0 11032
+S
+#11034
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11033
+S
+#11035
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11036
+D2
+~
+~
+0 0 11034
+S
+#11036
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11061
+S
+#11037
+Bell Road~
+Walking the ancient Bell Road, the entire area seems to have such an
+ancient feel to it. This road runs all along the perimeter of the city
+inside the wall. The {3co{Dbb{3le{Dst{3on{Des{X creek as you walk along them.
+~
+0 0 0
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11036
+S
+#11038
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+To the south is the weapons shop, and the road continues to the west
+and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11019
+S
+#11039
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+The ground creeks beneith your boot falls, as the road continues to
+the west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11038
+S
+#11040
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+To the north is the Jeweler's shop, and the road continues to the west
+and east.
+~
+0 0 0
+D0
+~
+~
+0 0 11049
+D1
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11039
+S
+#11041
+{DCe{wnt{Wer {wSq{Dua{wr{We{X~
+Center square in the great city of the ancients is all that would
+be expected. Runes cover the ground and pillars, as beautiful and
+inspiring statues line the sides of the square. People bustle and
+hurry all through out the square, anxious to make a deal.
+~
+0 0 0
+D0
+~
+~
+0 0 11042
+D1
+~
+~
+0 0 11043
+D2
+~
+~
+0 0 11053
+D3
+~
+~
+0 0 11040
+S
+#11042
+{DTe{wmp{Wle {wSq{Dua{wr{De{X~
+There are many great temples here, some with decorated jewels and
+gold in a god-like design. Chanting sounds can be heard comming
+from all around, and an aura of tranquility can be felt.
+~
+0 0 0
+D0
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11041
+S
+#11043
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+To the south is the armor shop, and the road continues to the west and
+east.
+~
+0 0 0
+D1
+~
+~
+0 0 11044
+D2
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11041
+S
+#11044
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+To the north is the scroll shop, and the road continues to the west and
+east.
+~
+0 0 0
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11045
+D3
+~
+~
+0 0 11043
+S
+#11045
+{DMa{wi{Wn {wSt{Dre{we{Wt{X~
+This is the famous Main Street in the city of Illyrian. The entire
+street has the feel of ancient architecture, and of divine inspiration.
+The ground creeks beneith your boot falls, as the road continues to
+the west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11044
+S
+#11046
+{DGo{wd'{Ws {wTe{Dmp{wl{De{X~
+This temple was devote to the great god Loki, the trickster God,
+back when the city was built. There is still a large statue of
+him in the center of the room, however, the Illyrian's had long
+ago decided to worship all gods, not just Loki.
+~
+0 0 0
+D0
+~
+~
+0 0 11047
+D2
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11048
+S
+#11047
+{DHe{wal{Win{wg {DRo{wo{Dm{X~
+This is the healing room of Illyrian. It is where tired and weary
+travelers can come to find respite from their woes. A small man
+dressed in a white robe stands almost in the center of the room,
+with his hands held high chanting something.
+~
+0 0 0
+D2
+~
+~
+0 0 11046
+S
+#11048
+The {@L{2o{@k{2i{X {4I{$n{4n{X~
+This is the famous {@L{2o{@k{2i{X {4I{$n{4n{X, an establishment that was founded
+well over four centuries ago. It has seen the reign and the fall of
+many kings, and is poised to see many, many more. There is a small
+bar to the west, and the door leading out is to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 11046
+D3
+~
+~
+0 0 11076
+S
+#11049
+Jeweler~
+This is Sytol's jewelry shop. Scattered all around the room are
+many rare and priceless gems and jewels. A small glass care is
+apparent on the far wall, housing what looks to be several small
+rings and amulets.
+~
+0 0 0
+D2
+~
+~
+0 0 11040
+S
+#11050
+Weapon Shop~
+This is the weapon shop of Illyrian. Grovoso, the master weaponsmith,
+is standing near the back, surrounded by weapons of every shape and
+size immaginable. Currently he is sharpening a large battle axe,
+which is also certain to be modestly priced.
+~
+0 0 0
+D0
+~
+~
+0 0 11038
+S
+#11051
+Armor Shop~
+The armor shop of Illyrian appears to be also the most cluttered
+place in the city. Suits of armor, both old and brand new, are
+scattered all around the room. Some pieces are in various stages
+of disarry. A tall man stands near the back of the room, polishing
+a piece of armor.
+~
+0 0 0
+D0
+~
+~
+0 0 11043
+S
+#11052
+Scroll Shop~
+The scroll shop appears to be somewhat cluttered. There is no discernable
+order in which the scrolls are placed, and many seem to be on the ground.
+There is a small man near the side wall, writing something on a scroll, 
+and chanting some words.
+~
+0 0 0
+D2
+~
+~
+0 0 11044
+S
+#11053
+{DTh{wro{Wug{wh {DSq{wua{Wr{De{X~
+This square marks the intersection of in town between the two
+shop roads. Several of the town folk have set up food carts and
+are yelling about today's specials to any who will listen. To
+the south, shop road begins, and center square is to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11041
+D2
+~
+~
+0 0 11054
+S
+#11054
+{DShop Road Intersection{X~
+This intersection links the center part of town with the southern
+which consists mainly of the shop road. People bustly about their
+daily lives, hurrying to and fro, carrying out the buisness of 
+the day.
+~
+0 0 0
+D0
+~
+~
+0 0 11053
+D1
+~
+~
+0 0 11059
+D3
+~
+~
+0 0 11055
+S
+#11055
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. To the south is the potion 
+shop, and the road continues east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11054
+D2
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11056
+S
+#11056
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. Several openings can be
+seen where shops would have been. The road continues to the east
+and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11057
+S
+#11057
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. Several openings can be
+seen where shops would have been. The road continues to the east
+and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11022
+S
+#11058
+Potion Shop~
+There are several large cases lining both the east wall and the
+west wall, all filled to the top with potions. There are a wide
+variety of potions here, evident by the differant colors swirling
+around in the bottles.
+~
+0 0 0
+D0
+~
+~
+0 0 11055
+S
+#11059
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. The wand shop is to south,
+while the road continues east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11062
+D3
+~
+~
+0 0 11054
+S
+#11060
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. Several openings can be
+seen where shops would have been. The road continues to the east
+and west.
+~
+0 0 0
+D1
+~
+~
+0 0 11061
+D3
+~
+~
+0 0 11059
+S
+#11061
+{DShop Road{X~
+Cutting the city in half is the ancient {*Shop Road{X. There used
+to be many more shops along this road, however a great earthquake
+many years back left several destroyed. The baker's shop is to
+the north, while the road continues east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 11063
+D1
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11060
+S
+#11062
+Wands and Things~
+Wands and staffs litter the counter and the back shelves, flanking
+a small elf. He appears to be brandishing some sort of magical
+device, although what it is remains a mystery.
+~
+0 0 0
+D0
+~
+~
+0 0 11059
+S
+#11063
+Baker Shop~
+The smells eminating from this shop are mouth watering. A fresh
+tray of cookies have just been pulled from the oven by a rather
+large man in an apron. He is standing behind a counter, sweating
+from the heat of the oven.
+~
+0 0 0
+D2
+~
+~
+0 0 11061
+S
+#11064
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D0
+~
+~
+0 0 11077
+D1
+~
+~
+0 0 11065
+D3
+~
+~
+0 0 11015
+S
+#11065
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D0
+~
+~
+0 0 11079
+D1
+~
+~
+0 0 11066
+D2
+~
+~
+0 0 11080
+D3
+~
+~
+0 0 11064
+S
+#11066
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11065
+S
+#11067
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D1
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11082
+D3
+~
+~
+0 0 11066
+S
+#11068
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D1
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11067
+S
+#11069
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D0
+~
+~
+0 0 11083
+D1
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11068
+S
+#11070
+{4Gu{$il{Dd {wS{Wt{$re{4et{X~
+This street was set aside long ago in the city for all of the guilds
+of the realm. Everything on this street has something to do with the
+guilds. They were put this way by the original city planners to make
+it more efficent, and so as not to pollute the entire city with the
+noise of training and combat practicing.
+~
+0 0 0
+D1
+~
+~
+0 0 11004
+D2
+~
+~
+0 0 11078
+D3
+~
+~
+0 0 11069
+S
+#11071
+Path into the {2Fo{@re{2st{X~
+~
+0 0 0
+D0
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11010
+S
+#11072
+Path into the {2Fo{@re{2st{X~
+~
+0 0 0
+D0
+~
+~
+0 0 11073
+D1
+~
+~
+0 0 11074
+D2
+~
+~
+0 0 11071
+S
+#11073
+Path into the {2Fo{@re{2st{X~
+New Area north
+~
+0 0 0
+D2
+~
+~
+0 0 11072
+S
+#11074
+The Surrounding {2Fo{@re{2st{X~
+~
+0 0 0
+D1
+~
+~
+0 0 11075
+D3
+~
+~
+0 0 11072
+S
+#11075
+The Surrounding {2Fo{@re{2st{X~
+~
+0 0 0
+D0
+~
+~
+0 0 41700
+D3
+~
+~
+0 0 11074
+S
+#11076
+The {@L{2o{@k{2i{X {4I{$n{4n{X Bar~
+This small bar is home to a few permanent customers that do not appear
+to ever leave. A large oak bar is along the west wall, with a mean
+looking bartender behind it. Q'hor, one of the questmasters of the
+realm stands off to the opposite side, chanting something under his
+breath.
+~
+0 0 0
+D1
+~
+~
+0 0 11048
+S
+#11077
+Druid's Guild~
+~
+0 0 0
+D2
+~
+~
+0 0 11064
+S
+#11078
+Shade's Guild~
+~
+0 0 0
+D0
+~
+~
+0 0 11070
+S
+#11079
+Ranger's Guild~
+~
+0 0 0
+D2
+~
+~
+0 0 11065
+S
+#11080
+Warrior's Guild~
+~
+0 0 0
+D0
+~
+~
+0 0 11065
+S
+#11081
+Thieve's Guild~
+~
+0 0 0
+D2
+~
+~
+0 0 11066
+S
+#11082
+Cleric's Guild~
+~
+0 0 0
+D0
+~
+~
+0 0 11067
+S
+#11083
+Mage's Guild~
+~
+0 0 0
+D2
+~
+~
+0 0 11069
+S
+#0
+
+
+
+#SPECIALS
+M 11008 spec_questmaster Load to: Q'hor
+S
+
+
+
+#RESETS
+M 0 11012 7 11004 9 *Load a merchant
+M 0 11012 7 11007 9 *Load a merchant
+M 0 11012 7 11009 9 *Load a merchant
+M 0 11012 7 11012 9 *Load a merchant
+M 0 11012 7 11015 9 *Load a merchant
+M 0 11010 10 11039 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11010 10 11041 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11010 10 11044 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11010 10 11046 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11007 1 11047 1 *Load Vramoth
+O 0 11010 0 11047 *A {^he{6al{^in{6g{x sauna loaded to {DHe{wal{Win{wg {DRo{wo{Dm{X
+M 0 11000 1 11049 1 *Load Sytol
+G 0 11008 0 *A {4blue{x diamond is given to Sytol
+M 0 11010 10 11050 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11001 1 11050 1 *Load Grovoso
+G 0 11020 0 *A sharp axe is given to Grovoso
+G 0 11021 0 *A {ddo{wub{wle{w-b{dla{wde{wd{x dagger is given to Grovoso
+M 0 11002 1 11051 1 *Load Ymichas
+G 0 11018 0 *A {*ch{wa{*in{x belt is given to Ymichas
+G 0 11019 0 *Solid {dp{we{wwt{we{dr{x armplates is given to Ymichas
+M 0 11003 1 11052 1 *Load Hyven
+G 0 11005 0 *A brittle scroll is given to Hyven
+G 0 11006 0 *A small scroll is given to Hyven
+G 0 11007 0 *A scroll of identify is given to Hyven
+M 0 11010 10 11054 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11010 10 11056 6 *Load An {XIllyrian {4Ci{Dty{4gu{Dar{4d{X
+M 0 11004 1 11058 1 *Load Rytharias
+G 0 11003 0 *A large potion is given to Rytharias
+G 0 11000 0 *Potion marked 'protection' is given to Rytharias
+G 0 11001 0 *Potion marked 'combat' is given to Rytharias
+G 0 11002 0 *A small potion is given to Rytharias
+G 0 11004 0 *A clay potion is given to Rytharias
+G 0 11009 0 *A {4si{$g{4ht{x potion is given to Rytharias
+M 0 11005 1 11062 1 *Load Zuberius
+G 0 11012 0 *A {%pink{x wand is given to Zuberius
+G 0 11013 0 *A black charred staff is given to Zuberius
+G 0 11014 0 *A long white staff is given to Zuberius
+M 0 11006 1 11063 1 *Load Klytho
+G 0 11015 0 *A canolli is given to Klytho
+G 0 11016 0 *A small cake is given to Klytho
+G 0 11017 0 *A big cookie is given to Klytho
+M 0 11012 7 11065 9 *Load a merchant
+M 0 11008 1 11076 1 *Load Q'hor
+O 0 11011 0 11076 *A bar stool loaded to The {@L{2o{@k{2i{X {4I{$n{4n{X Bar
+M 0 11009 10 11077 1 *Load The Guildmaster
+M 0 11009 10 11078 1 *Load The Guildmaster
+M 0 11009 10 11079 1 *Load The Guildmaster
+M 0 11009 10 11080 1 *Load The Guildmaster
+M 0 11009 10 11081 1 *Load The Guildmaster
+M 0 11009 10 11082 1 *Load The Guildmaster
+M 0 11009 10 11083 1 *Load The Guildmaster
+S
+
+
+
+#SHOPS
+11000 0 33 0 0 0 100 100 0 23
+11001 0 5 0 0 0 100 100 0 23
+11002 0 9 0 0 0 100 100 0 23
+11003 0 2 0 0 0 100 100 0 23
+11004 0 10 0 0 0 100 100 0 23
+11005 0 3 4 0 0 100 100 0 23
+11006 0 19 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

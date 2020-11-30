@@ -1,0 +1,276 @@
+act_wiz.c:	    if ( fAll || is_name( argument, pMobIndex->player_name ) )
+act_wiz.c:		    pMobIndex->vnum, pMobIndex->short_descr );
+comm.c:		  pMobIndex  = pMobIndex->next )
+comm.c:		if ( is_name( name, pMobIndex->player_name ) )
+db2.c:        pMobIndex->vnum                 = vnum; 
+db2.c:        pMobIndex->area                 = area_last;               /* OLC */ 
+db2.c:        pMobIndex->new_format           = TRUE; 
+db2.c:        pMobIndex->player_name          = fread_string( fp ); 
+db2.c:        pMobIndex->short_descr          = fread_string( fp ); 
+db2.c:        pMobIndex->long_descr           = fread_string( fp ); 
+db2.c:        pMobIndex->description          = fread_string( fp ); 
+db2.c:        pMobIndex->race                 = race_lookup(fread_string( fp )); 
+db2.c:        pMobIndex->long_descr[0]        = UPPER(pMobIndex->long_descr[0]); 
+db2.c:        pMobIndex->description[0]       = UPPER(pMobIndex->description[0]); 
+db2.c:        pMobIndex->act                  = fread_flag( fp ) | ACT_IS_NPC 
+db2.c:                                        | race_table[pMobIndex->race].act; 
+db2.c:        pMobIndex->affected_by          = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].aff; 
+db2.c:        pMobIndex->shielded_by          = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].shd; 
+db2.c:        pMobIndex->pShop                = NULL; 
+db2.c:        pMobIndex->alignment            = fread_number( fp ); 
+db2.c:        pMobIndex->group                = fread_number( fp ); 
+db2.c:        pMobIndex->level                = fread_number( fp ); 
+db2.c:        pMobIndex->hitroll              = fread_number( fp );   
+db2.c:        pMobIndex->hit[DICE_NUMBER]     = fread_number( fp );   
+db2.c:        pMobIndex->hit[DICE_TYPE]       = fread_number( fp ); 
+db2.c:        pMobIndex->hit[DICE_BONUS]      = fread_number( fp );  
+db2.c:        pMobIndex->mana[DICE_NUMBER]    = fread_number( fp ); 
+db2.c:        pMobIndex->mana[DICE_TYPE]      = fread_number( fp ); 
+db2.c:        pMobIndex->mana[DICE_BONUS]     = fread_number( fp ); 
+db2.c:        pMobIndex->damage[DICE_NUMBER]  = fread_number( fp ); 
+db2.c:        pMobIndex->damage[DICE_TYPE]    = fread_number( fp ); 
+db2.c:        pMobIndex->damage[DICE_BONUS]   = fread_number( fp ); 
+db2.c:        pMobIndex->dam_type             = attack_lookup(fread_word(fp)); 
+db2.c:        pMobIndex->ac[AC_PIERCE]        = fread_number( fp ) * 10; 
+db2.c:        pMobIndex->ac[AC_BASH]          = fread_number( fp ) * 10; 
+db2.c:        pMobIndex->ac[AC_SLASH]         = fread_number( fp ) * 10; 
+db2.c:        pMobIndex->ac[AC_EXOTIC]        = fread_number( fp ) * 10; 
+db2.c:        pMobIndex->off_flags            = fread_flag( fp )  
+db2.c:                                        | race_table[pMobIndex->race].off; 
+db2.c:        pMobIndex->imm_flags            = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].imm; 
+db2.c:        pMobIndex->res_flags            = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].res; 
+db2.c:        pMobIndex->vuln_flags           = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].vuln; 
+db2.c:        pMobIndex->start_pos            = position_lookup(fread_word(fp)); 
+db2.c:        pMobIndex->default_pos          = position_lookup(fread_word(fp)); 
+db2.c:        pMobIndex->sex                  = sex_lookup(fread_word(fp)); 
+db2.c:        pMobIndex->wealth               = fread_number( fp ); 
+db2.c:        pMobIndex->form                 = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].form; 
+db2.c:        pMobIndex->parts                = fread_flag( fp ) 
+db2.c:                                        | race_table[pMobIndex->race].parts; 
+db2.c:        pMobIndex->size                 = size_lookup(fread_word(fp)); 
+db2.c:        pMobIndex->material             = str_dup(fread_word( fp )); 
+db2.c:        pMobIndex->die_descr            = ""; 
+db2.c:        pMobIndex->say_descr            = ""; 
+db2.c:                    REMOVE_BIT(pMobIndex->act,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->affected_by,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->shielded_by,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->off_flags,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->imm_flags,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->res_flags,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->vuln_flags,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->form,vector); 
+db2.c:                    REMOVE_BIT(pMobIndex->parts,vector); 
+db2.c:                pMobIndex->die_descr            = fread_string( fp ); 
+db2.c:                pMobIndex->say_descr            = fread_string( fp ); 
+db2.c:                pMobIndex->say_descr[0]         = UPPER(pMobIndex->say_descr[0]); 
+db2.c:                if (pMobIndex->clan) 
+db2.c:                pMobIndex->clan = clan_lookup(fread_string(fp)); 
+db2.c:                SET_BIT( pMobIndex->mprog_flags, trigger ); 
+db2.c:                pMprog->next            = pMobIndex->mprogs; 
+db2.c:                pMobIndex->mprogs       = pMprog; 
+db2.c:        pMobIndex->next         = mob_index_hash[iHash]; 
+db2.c:        kill_table[URANGE(0, pMobIndex->level, MAX_LEVEL-1)].number++; 
+db2.c:    if ( !pMobIndex || pMobIndex->new_format ) return; 
+db2.c:    level = pMobIndex->level; 
+db2.c:    pMobIndex->act              |= ACT_WARRIOR; 
+db2.c:    pMobIndex->hit[DICE_NUMBER]    = number; 
+db2.c:    pMobIndex->hit[DICE_TYPE]      = type; 
+db2.c:    pMobIndex->hit[DICE_BONUS]     = bonus; 
+db2.c:    pMobIndex->mana[DICE_NUMBER]   = level; 
+db2.c:    pMobIndex->mana[DICE_TYPE]     = 10; 
+db2.c:    pMobIndex->mana[DICE_BONUS]    = 100; 
+db2.c:    pMobIndex->damage[DICE_NUMBER] = number; 
+db2.c:    pMobIndex->damage[DICE_TYPE]   = type; 
+db2.c:    pMobIndex->damage[DICE_BONUS]  = bonus; 
+db2.c:        case (1): pMobIndex->dam_type =  3;       break;  /* slash  */ 
+db2.c:        case (2): pMobIndex->dam_type =  7;       break;  /* pound  */ 
+db2.c:        case (3): pMobIndex->dam_type = 11;       break;  /* pierce */ 
+db2.c:        pMobIndex->ac[i]         = interpolate( level, 100, -100); 
+db2.c:    pMobIndex->ac[3]             = interpolate( level, 100, 0);    /* exotic */ 
+db2.c:    pMobIndex->wealth           /= 100; 
+db2.c:    pMobIndex->size              = SIZE_MEDIUM; 
+db2.c:    pMobIndex->material          = str_dup("none"); 
+db2.c:    pMobIndex->new_format        = TRUE; 
+db.c:	pMobIndex->vnum			= vnum;
+db.c:        pMobIndex->area                 = area_last;               /* OLC */
+db.c:	pMobIndex->new_format		= FALSE;
+db.c:	pMobIndex->player_name		= fread_string( fp );
+db.c:	pMobIndex->short_descr		= fread_string( fp );
+db.c:	pMobIndex->long_descr		= fread_string( fp );
+db.c:	pMobIndex->description		= fread_string( fp );
+db.c:	pMobIndex->long_descr[0]	= UPPER(pMobIndex->long_descr[0]);
+db.c:	pMobIndex->description[0]	= UPPER(pMobIndex->description[0]);
+db.c:	pMobIndex->act			= fread_flag( fp ) | ACT_IS_NPC;
+db.c:	pMobIndex->affected_by		= fread_flag( fp );
+db.c:	pMobIndex->pShop		= NULL;
+db.c:	pMobIndex->alignment		= fread_number( fp );
+db.c:	pMobIndex->level		= fread_number( fp );
+db.c:        pMobIndex->wealth               = fread_number( fp )/20;	
+db.c:	pMobIndex->start_pos		= fread_number( fp );	/* Unused */
+db.c:	pMobIndex->default_pos		= fread_number( fp );	/* Unused */
+db.c:  	if (pMobIndex->start_pos < POS_SLEEPING)
+db.c:	    pMobIndex->start_pos = POS_STANDING;
+db.c:	if (pMobIndex->default_pos < POS_SLEEPING)
+db.c:	    pMobIndex->default_pos = POS_STANDING;
+db.c:	pMobIndex->sex			= fread_number( fp );
+db.c:   	one_argument(pMobIndex->player_name,name);
+db.c:            pMobIndex->race = race_lookup("human");
+db.c:            pMobIndex->off_flags = OFF_DODGE|OFF_DISARM|OFF_TRIP|ASSIST_VNUM;
+db.c:            pMobIndex->imm_flags = 0;
+db.c:            pMobIndex->res_flags = 0;
+db.c:            pMobIndex->vuln_flags = 0;
+db.c:            pMobIndex->form = FORM_EDIBLE|FORM_SENTIENT|FORM_BIPED|FORM_MAMMAL;
+db.c:            pMobIndex->parts = PART_HEAD|PART_ARMS|PART_LEGS|PART_HEART|
+db.c:            pMobIndex->race = race;
+db.c:            pMobIndex->off_flags = OFF_DODGE|OFF_DISARM|OFF_TRIP|ASSIST_RACE|
+db.c:            pMobIndex->imm_flags = race_table[race].imm;
+db.c:            pMobIndex->res_flags = race_table[race].res;
+db.c:            pMobIndex->vuln_flags = race_table[race].vuln;
+db.c:            pMobIndex->form = race_table[race].form;
+db.c:            pMobIndex->parts = race_table[race].parts;
+db.c:	pMobIndex->next		= mob_index_hash[iHash];
+db.c:	kill_table[URANGE(0, pMobIndex->level, MAX_LEVEL-1)].number++;
+db.c:	pMobIndex->pShop	= pShop;
+db.c:	    pMobIndex->spec_fun	= spec_lookup	( fread_word   ( fp ) );
+db.c:	    if ( pMobIndex->spec_fun == 0 )
+db.c:		bug( "Load_specials: 'M': vnum %d.", pMobIndex->vnum );
+db.c:	      pMobIndex   = pMobIndex->next )
+db.c:	    for( list = pMobIndex->mprogs; list != NULL; list = list->next )
+db.c:            if ( pMobIndex->count >= pReset->arg2 )
+db.c:    mob->name		= str_dup( pMobIndex->player_name );    /* OLC */
+db.c:    mob->short_descr	= str_dup( pMobIndex->short_descr );    /* OLC */
+db.c:    mob->long_descr	= str_dup( pMobIndex->long_descr );     /* OLC */
+db.c:    mob->description	= str_dup( pMobIndex->description );    /* OLC */
+db.c:    mob->spec_fun	= pMobIndex->spec_fun;
+db.c:    if (pMobIndex->wealth == 0)
+db.c:	wealth = number_range(100 * pMobIndex->level, 200 * pMobIndex->level);
+db.c:	wealth = (pMobIndex->level + 68) / 200.0 * wealth;
+db.c:    if (pMobIndex->new_format)
+db.c: 	mob->group		= pMobIndex->group;
+db.c:	mob->act 		= pMobIndex->act;
+db.c:	mob->affected_by	= pMobIndex->affected_by;
+db.c:	mob->shielded_by	= pMobIndex->shielded_by;
+db.c:	mob->alignment		= pMobIndex->alignment;
+db.c:	mob->level		= pMobIndex->level;
+db.c:	mob->hitroll		= pMobIndex->hitroll;
+db.c:	mob->damroll		= pMobIndex->damage[DICE_BONUS];
+db.c:	mob->max_hit		= dice(pMobIndex->hit[DICE_NUMBER],
+db.c:				       pMobIndex->hit[DICE_TYPE])
+db.c:				  + pMobIndex->hit[DICE_BONUS];
+db.c:	mob->max_mana		= dice(pMobIndex->mana[DICE_NUMBER],
+db.c:				       pMobIndex->mana[DICE_TYPE])
+db.c:				  + pMobIndex->mana[DICE_BONUS];
+db.c:	mob->damage[DICE_NUMBER]= pMobIndex->damage[DICE_NUMBER];
+db.c:	mob->damage[DICE_TYPE]	= pMobIndex->damage[DICE_TYPE];
+db.c:	mob->dam_type		= pMobIndex->dam_type;
+db.c:	    mob->armor[i]	= pMobIndex->ac[i]; 
+db.c:	mob->off_flags		= pMobIndex->off_flags;
+db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+db.c:	mob->res_flags		= pMobIndex->res_flags;
+db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+db.c:	mob->start_pos		= pMobIndex->start_pos;
+db.c:	mob->default_pos	= pMobIndex->default_pos;
+db.c:	mob->sex		= pMobIndex->sex;
+db.c:	mob->race		= pMobIndex->race;
+db.c:	mob->form		= pMobIndex->form;
+db.c:	mob->parts		= pMobIndex->parts;
+db.c:	mob->size		= pMobIndex->size;
+db.c:	mob->material		= str_dup(pMobIndex->material);
+db.c:	mob->die_descr		= pMobIndex->die_descr;
+db.c:	mob->say_descr		= pMobIndex->say_descr;
+db.c:        mob->clan               = pMobIndex->clan;
+db.c:	mob->act		= pMobIndex->act;
+db.c:	mob->affected_by	= pMobIndex->affected_by;
+db.c:	mob->shielded_by	= pMobIndex->shielded_by;
+db.c:	mob->alignment		= pMobIndex->alignment;
+db.c:	mob->level		= pMobIndex->level;
+db.c:	mob->hitroll		= pMobIndex->hitroll;
+db.c:	mob->race		= pMobIndex->race;
+db.c:	mob->off_flags		= pMobIndex->off_flags;
+db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+db.c:	mob->res_flags		= pMobIndex->res_flags;
+db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+db.c:	mob->start_pos		= pMobIndex->start_pos;
+db.c:	mob->default_pos	= pMobIndex->default_pos;
+db.c:	mob->sex		= pMobIndex->sex;
+db.c:	mob->form		= pMobIndex->form;
+db.c:	mob->parts		= pMobIndex->parts;
+db.c:    mob->clan               = pMobIndex->clan;
+db.c:    pMobIndex->count++;
+db.c:	  pMobIndex  = pMobIndex->next )
+db.c:	if ( pMobIndex->vnum == vnum )
+db.c:		pMobIndex->vnum,pMobIndex->count,
+db.c:		pMobIndex->killed,pMobIndex->short_descr);
+olc_act.c:            if ( fAll || is_name( arg, pMobIndex->player_name ) )  
+olc_act.c:                    pMobIndex->vnum, total_length( pMobIndex->short_descr, 17 ) );
+olc_act.c:    if ( pMobIndex->area != pRoom->area )  
+olc_act.c:    pReset->arg1        = pMobIndex->vnum;  
+olc_act.c:        pMobIndex->short_descr,
+olc_act.c:        pMobIndex->vnum,  
+olc_save.c:    sh_int race = pMobIndex->race;  
+olc_save.c:    fprintf( fp, "#%d\n",       pMobIndex->vnum );  
+olc_save.c:    fprintf( fp, "%s~\n",       pMobIndex->player_name );  
+olc_save.c:    fprintf( fp, "%s~\n",       pMobIndex->short_descr );  
+olc_save.c:    fprintf( fp, "%s~\n",       fix_string( pMobIndex->long_descr ) );  
+olc_save.c:    fprintf( fp, "%s~\n",       fix_string( pMobIndex->description) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->act,            buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->affected_by,    buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->shielded_by,    buf ) );  
+olc_save.c:    fprintf( fp, "%d %d\n",     pMobIndex->alignment , pMobIndex->group);  
+olc_save.c:    fprintf( fp, "%d ",         pMobIndex->level );  
+olc_save.c:    fprintf( fp, "%d ",         pMobIndex->hitroll );  
+olc_save.c:    fprintf( fp, "%dd%d+%d ",   pMobIndex->hit[DICE_NUMBER],   
+olc_save.c:                                pMobIndex->hit[DICE_TYPE],   
+olc_save.c:                                pMobIndex->hit[DICE_BONUS] );  
+olc_save.c:    fprintf( fp, "%dd%d+%d ",   pMobIndex->mana[DICE_NUMBER],   
+olc_save.c:                                pMobIndex->mana[DICE_TYPE],   
+olc_save.c:                                pMobIndex->mana[DICE_BONUS] );  
+olc_save.c:    fprintf( fp, "%dd%d+%d ",   pMobIndex->damage[DICE_NUMBER],   
+olc_save.c:                                pMobIndex->damage[DICE_TYPE],   
+olc_save.c:                                pMobIndex->damage[DICE_BONUS] );  
+olc_save.c:    fprintf( fp, "%s\n",        attack_table[pMobIndex->dam_type].name );  
+olc_save.c:                                pMobIndex->ac[AC_PIERCE] / 10,   
+olc_save.c:                                pMobIndex->ac[AC_BASH]   / 10,   
+olc_save.c:                                pMobIndex->ac[AC_SLASH]  / 10,   
+olc_save.c:                                pMobIndex->ac[AC_EXOTIC] / 10 );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->off_flags,  buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->imm_flags,  buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->res_flags,  buf ) );  
+olc_save.c:    fprintf( fp, "%s\n",        fwrite_flag( pMobIndex->vuln_flags, buf ) );  
+olc_save.c:                                position_table[pMobIndex->start_pos].short_name,  
+olc_save.c:                                position_table[pMobIndex->default_pos].short_name,  
+olc_save.c:                                sex_table[pMobIndex->sex].name,  
+olc_save.c:                                pMobIndex->wealth );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->form,  buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         fwrite_flag( pMobIndex->parts, buf ) );  
+olc_save.c:    fprintf( fp, "%s ",         size_table[pMobIndex->size].name );  
+olc_save.c:    fprintf( fp, "%s\n",        IS_NULLSTR(pMobIndex->material) ? pMobIndex->material : "unknown" );
+olc_save.c:    if (pMobIndex->clan > 0)
+olc_save.c:     fprintf ( fp, "C %s~\n" , clan_table[pMobIndex->clan].name );  
+olc_save.c:    if ((temp = DIF(race_table[race].act,pMobIndex->act)))  
+olc_save.c:    if ((temp = DIF(race_table[race].aff,pMobIndex->affected_by)))  
+olc_save.c:    if ((temp = DIF(race_table[race].off,pMobIndex->off_flags)))  
+olc_save.c:    if ((temp = DIF(race_table[race].imm,pMobIndex->imm_flags)))  
+olc_save.c:    if ((temp = DIF(race_table[race].res,pMobIndex->res_flags)))  
+olc_save.c:    if ((temp = DIF(race_table[race].vuln,pMobIndex->vuln_flags)))  
+olc_save.c:    if ((temp = DIF(race_table[race].form,pMobIndex->form)))  
+olc_save.c:    if ((temp = DIF(race_table[race].parts,pMobIndex->parts)))  
+olc_save.c:    for (pMprog = pMobIndex->mprogs; pMprog; pMprog = pMprog->next)  
+olc_save.c:        for( pMobIndex = mob_index_hash[iHash]; pMobIndex; pMobIndex = pMobIndex->next )  
+olc_save.c:            if ( pMobIndex && pMobIndex->area == pArea && pMobIndex->spec_fun )  
+olc_save.c:                fprintf( fp, "M %d %s Load to: %s\n", pMobIndex->vnum,  
+olc_save.c:                                                      spec_name( pMobIndex->spec_fun ),  
+olc_save.c:                                                      pMobIndex->short_descr );  
+olc_save.c:                fprintf( fp, "M %d %s\n", pMobIndex->vnum,  
+olc_save.c:                              spec_name( pMobIndex->spec_fun ) );  
+olc_save.c:        for( pMobIndex = mob_index_hash[iHash]; pMobIndex; pMobIndex = pMobIndex->next )  
+olc_save.c:            if ( pMobIndex && pMobIndex->area == pArea && pMobIndex->pShop )  
+olc_save.c:                pShopIndex = pMobIndex->pShop;  
+save.c:                  pMobIndex  = pMobIndex->next )
+save.c:                if ( is_name( name, pMobIndex->player_name ) )

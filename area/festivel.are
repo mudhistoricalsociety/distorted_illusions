@@ -1,0 +1,238 @@
+#AREADATA
+Name Festival~
+Builders Unlinked~
+VNUMs 39100 39199
+Continent 0
+Credits Gurt~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#39100
+Zarnoth~
+Zarnoth~
+Zarnoth is here mending some armor.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 2d2+50 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39101
+Ritheo~
+Ritheo~
+Ritheo is here, smiling at you.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 3d3+400 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39102
+Yartic~
+Yartic~
+Yartic stands here, eyeing you...
+~
+~
+human~
+ABG 0 0 0 0
+0 0 30d30+500 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39103
+Harnith~
+Harnith~
+Harnith stands here, sharpening something.
+~
+~
+human~
+ABG D 0 0 0
+50 0 30d230+34 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39104
+Vendor~
+Vendor~
+A Vendor is here, selling something
+~
+~
+human~
+ABG 0 0 0 0
+0 0 3d3+400 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 39100 1000~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#39100
+Entrance to the Festival~
+Welcome To the second anual festival of Asgard! You can smell the sweet
+of coton candey and carmel apples everywhere and start to get hungry. North 
+will take you into the festival, or you can leave the way you came in.
+~
+0 0 0
+D0
+~
+~
+0 0 39101
+S
+#39101
+Road through the Festival~
+Walking along this worn in grass path, you can notice tents to your west and
+to your east. The path continues north, but not too far.
+~
+0 0 0
+D0
+~
+~
+0 0 39104
+D1
+~
+~
+0 0 39103
+D2
+~
+~
+0 0 39100
+D3
+~
+~
+0 0 39102
+S
+#39102
+Festival armor shop~
+This is the armor tent of the festival. Zarnoth has come from very far away
+to show you these wears he has aquired. There is armor everywhere around
+this tent, the only exit is East.
+~
+0 128 0
+D1
+~
+~
+0 0 39101
+S
+#39103
+Festival weapon shop~
+In all your years roaming Thera, you have prehaps never seen so many weapons
+in one spot in your entire life. There are weapons scattered every where in
+this tent. You see a man at the counter sharpening a dagger, the only exit is
+West.
+~
+0 0 0
+D3
+~
+~
+0 0 39101
+S
+#39104
+Road through the Festival~
+You have reached the end of the festival, there are two tents with vendors
+to your west and east, there is a huge fence infront of you with a sign
+on it that reads, 'End of Festival, do not pass'.
+~
+0 0 0
+D1
+~
+~
+0 0 39106
+D2
+~
+~
+0 0 39101
+D3
+~
+~
+0 0 39105
+S
+#39105
+Potions and such~
+Upon entering, the smell hits you...What the hell is that?! Damn, you don't
+want to stay a second longer then you have to. Upon the table there are a few
+potions lying around. The only exit is East
+~
+0 0 0
+D1
+~
+~
+0 0 39104
+S
+#39106
+Packs and nic-nacks~
+As you enter this tent, you notice alot of jewlery on racks and on the walls.
+A few backpacks and napsacks hang from posts all around the counter and on the
+walls. You are very intregued by most of the stuff here.
+~
+0 0 0
+D3
+~
+~
+0 0 39104
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 39104 1 39100 1 *Load Vendor
+M 0 39100 1 39102 1 *Load Zarnoth
+M 0 39103 1 39103 1 *Load Harnith
+M 0 39102 1 39105 1 *Load Yartic
+M 0 39101 1 39106 1 *Load Ritheo
+S
+
+
+
+#SHOPS
+39100 0 9 0 0 0 100 100 0 23
+39101 33 15 0 0 0 100 100 0 23
+39102 0 10 0 0 0 100 100 0 23
+39103 0 5 0 0 0 100 100 0 23
+39104 0 19 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#39100
+say Get yer cotton candy here, cotton candy!
+beam
+~
+#0
+
+#$

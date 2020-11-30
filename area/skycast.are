@@ -1,0 +1,6774 @@
+#AREADATA
+Name The Sky Kingdoms~
+Builders Bree  Noquest Adelia~
+VNUMs 39600 39999
+Continent 1
+Credits {y[{Y  LGD{y ]{c Bree{Y     The Sky Kingdoms  ~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#39600
+Sky Guard~
+{XA {DSk{wy G{Wua{wr{Dd{X~
+{XA {DSk{wy G{Wua{wr{Dd{X is here patroling.
+~
+Clad all in mail, every inch of this guard is shiny metal.
+A large sword is held in his fist, along with an axe
+strapped to his back.
+~
+human~
+ABGT DFJVZa 0 1000 0
+150 125 1d1+10000 1d1+5000 25d65+60 slash
+-60 -60 -60 -60
+DEFIKU 0 0 0
+stand stand male 32212
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39601
+servant boo~
+a {Dse{wr{Wv{wa{Dnt{X~
+A {Dse{wr{Wv{wa{Dnt{X is here, awaiting your desire.
+~
+~
+sylvan-elf~
+AG DFJVZ 0 1000 0
+130 120 1d1+9000 1d1+300 20d50+75 pound
+-30 -30 -30 -30
+CEIU B 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#39602
+royal guard~
+{DRo{wy{Wa{wl G{Du{wa{Wr{wd{X~
+{XA member of the {DRo{wy{Wa{wl G{Du{wa{Wr{wd{X is here patroling the halls.
+~
+~
+human~
+AEGT DFJVZa N 1000 0
+175 150 1d1+15600 1d1+5000 29d71+100 wrath
+-100 -100 -100 -100
+EFHIKLOU ABNP D HK
+stand stand none 1000
+0 A large unknown
+F for AHMV
+F par BCDEFGHIJK
+#39603
+Bartender~
+{DTh{we B{War{wte{Dnd{wer{X~
+{DTh{we B{War{wte{Dnd{wer{X is here, angry your behind his bar!
+~
+~
+human~
+ABFGT DFVZa O -1000 0
+180 190 1d1+24000 1d1+5000 50d98+170 wrath
+-100 -100 -100 -100
+ACEFIK ABP H N
+stand stand none 50000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39604
+Tartus~
+Tartus~
+Tartus, the bar owner is here.
+~
+~
+human~
+ABFGT DFJVZ C -1000 0
+175 190 1d1+20000 1d1+56000 50d75+150 beating
+-60 -60 -60 -60
+ACDEFI ABP I KN
+stand stand male 70000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39605
+Sheri bartender~
+Sheri~
+Sheri, the new bartender is here serving drinks.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+101 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 54000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39606
+House Guard~
+{4H{Dous{4e{X {4G{Duar{4d{X~
+A {4H{Dous{4e{X {4G{Duar{4d{X is here walking around.
+~
+~
+human~
+AEGT DFJVZ N 1000 0
+165 150 1d1+18000 1d1+5000 40d75+115 slash
+-97 -97 -97 -97
+CEFIKO ABN D HK
+stand stand none 1000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39607
+intern~
+An intern~
+An intern is here, fumbling with papers.
+~
+~
+human~
+ABG V 0 1000 0
+110 150 1d1+17500 1d1+10000 40d60+100 scratch
+-50 -50 -50 -50
+ADEFGK ABHN 0 F
+stand stand none 2000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39608
+Robed Healer~
+A Robed {#H{3eale{#r{X~
+A Robed {#H{3eale{#r{X is here chanting something.
+~
+~
+human~
+ABGa DFJZ 0 0 0
+160 0 1d1+5000 1d1+5000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 39999
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39609
+Elite Sky Guard~
+{#E{wl{Wi{wt{#e{X {DS{^k{Dy{X {DG{wu{Wa{wr{Dd{X~
+An {#E{wl{Wi{wt{#e{X {DS{^k{Dy{X {DG{wu{Wa{wr{Dd{X is here standing motionless.
+~
+~
+human~
+ABEFGRT DFJVZa N 100 0
+185 200 1d1+26500 1d1+50000 58d100+94 fury
+-140 -140 -140 -140
+CEFHIJKLOU ABNP I HK
+stand stand male 5000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39610
+King Hyphus~
+{#K{win{#g{X Hyphus~
+{#K{win{#g{X Hyphus is here glaring down at you.
+~
+~
+human~
+ABG DFJVZa CN 1000 0
+200 225 1d1+29000 1d1+20000 75d100+75 magic
+-120 -120 -120 -180
+ACDEFGHIK ABNP CI F
+stand stand male 90000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39611
+Queen's Guard~
+{#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X~
+A member of {DT{^h{De{X {#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X is here.
+~
+~
+human~
+ABEFGT DFJVZa CN 1000 0
+195 200 1d1+25000 1d1+50000 75d90+80 cleave
+-130 -130 -130 -130
+ACDEFHIKU ABNP DI HK
+stand stand none 50000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39612
+Queen Sarquik~
+{#Q{^u{#e{^e{#n{X Sarquik~
+{#Q{^u{#e{^e{#n{X Sarquik is here, angry that you've disturbed her!
+~
+~
+human~
+ABFGR DFJVZa CN 1000 0
+193 200 1d1+29000 1d1+50000 65d100+75 magic
+-70 -70 -70 -140
+ACEFGHIJK ABINP CK F
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39613
+roaming guard~
+a {1roaming{X {1g{Du{^a{Dr{1d{X~
+{XA {1roaming{X {1g{Du{^a{Dr{1d{X is here, walking around.
+~
+~
+human~
+AGT DFJVZ N 1000 0
+150 125 1d1+15000 1d1+5000 60d80+75 slash
+-70 -70 -70 -70
+CEFHIJK ANP I HK
+stand stand male 5000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39614
+Bartho~
+Bartho~
+Bartho is here, sharpening an axe.
+~
+~
+human~
+ABGT DFJVZa CN 1000 0
+190 175 1d1+28000 1d1+5000 40d60+1000 cleave
+-90 -90 -90 -100
+CDFHIK ABNP DI HK
+stand stand male 50000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39615
+Shaimoy~
+Shaimoy~
+Shaimoy is here, wondering why you have disturbed him.
+~
+~
+human~
+AEGT DFJVZa N 1000 0
+190 200 1d1+28000 1d1+50000 75d100+190 drain
+-100 -100 -100 -100
+ACEFGHIJK ABNP D CHK
+stand stand none 90000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39616
+Gragen~
+Gragen~
+Gragen the Great stands here, in all his {#g{3lor{#y{X
+~
+~
+human~
+ABEFGT DFJVZa EN 1000 0
+195 225 1d1+29000 1d1+50000 66d99+125 wave
+-130 -130 -130 -130
+ABEFHIJK ABNPS D H
+stand stand male 30900
+0 A huge unknown
+F for AHMV
+F par BCDEFGHIJK
+#39617
+Torture Master~
+{!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X~
+{!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X stands here, grinning at you.
+~
+~
+human~
+ABEFGT DFJPTVZac DO -1000 0
+200 250 1d1+30000 1d1+20000 50d100+175 blaze
+-150 -150 -150 -150
+ABCEFGHIJKO ABHKP J I
+stand stand none 200
+C A giant unknown
+F for AHMV
+F par BCDEFGHIJK
+#39618
+Hellion~
+{!A {!H{1e{!ll{1io{!n{X~
+{!A {!H{1e{!ll{1io{!n{X is here, cackling.
+~
+~
+human~
+ABG DFJVZa DO -1000 0
+100 100 1d1+10000 1d1+500 20d64+90 scratch
+-50 -50 -50 -50
+EHI 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 39710 1000~
+#39619
+a knight~
+{DA K{wn{Wi{wgh{Dt{X~
+{DA K{wn{Wi{wgh{Dt{X is here training.
+~
+~
+human~
+ABG V 0 1000 0
+165 150 1d1+15000 1d1+500 30d80+95 slash
+-90 -90 -90 -90
+CDEFHIK AN 0 HK
+stand stand male 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39620
+An old brewer~
+an old brewer~
+An old brewer is here, mixing something.
+~
+~
+human~
+ABG DFJZ 0 0 0
+150 0 1d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 2000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39621
+Old jeweler~
+An Old jeweler~
+An Old jeweler is here, polishing a rock.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+200000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 200000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39622
+sky ghost~
+a sky {Dg{wh{Wo{Ds{wt{X~
+A sky {Dg{wh{Wo{Ds{wt{X is here, floating around.
+~
+~
+human~
+ABFGR DFJTVZ C -1000 0
+150 200 1d1+19000 1d1+10000 20d45+75 magic
+-100 -100 -100 -100
+ADEFGHK A C NS
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39623
+fawn~
+a fawn~
+A fawn is here, bounding around playfully.
+~
+~
+rabbit~
+ABG 0 0 1000 0
+160 200 1d1+16000 1d1+2000 20d45+45 scratch
+-70 -70 -70 -70
+FH 0 0 0
+stand stand none 10000
+AGV ACDEFHJK medium unknown
+#39624
+wandering elf~
+a wandering {Ge{gl{Gf{x~
+A wandering {Ge{gl{Gf{x is here, making his way through the {Gf{go{Gr{ge{Gs{gt{X
+~
+This seems to be an elf of some kind. He looks like he
+may be a half breed, half elf, half human. While still
+endowing him with special abilities, they would more then
+likely be severly limited. A long grey cloak hangs over his
+entire body, covering everything below a raised hood of similar
+color. A sword belt clearly protrudes from his waist.
+~
+halfelf~
+AGR DFJLPVZ DH -1000 0
+170 200 20d5+26000 1d1+200000 20d60+75 magic
+-90 -90 -90 -90
+AEFGHK AB CMO FNS
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+#39625
+carnage soldier~
+a {Rcar{rn{Rage{X {gs{boldie{gr{x~
+A {Rcar{rn{Rage{X {gs{boldie{gr{x is here looking for his next kill.
+~
+~
+human~
+ABGT DFJVZac 0 -1000 0
+160 200 1d1+1700 1d1+2000 18d78+50 pound
+-105 -105 -105 -150
+FIK A G CNS
+stand stand none 30000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39626
+sky frost giant~
+a sky {Cf{cr{Wo{cs{Ct{x giant~
+A rather large sky {Cf{cr{Wo{cs{Ct{x giant is here looking for someone to kill.
+~
+Huge and aggressive, you wont find a bigger, meaner, or
+deadlier beast in all of the land, he attacks without warning
+when anyone comes within killing distance. He does it just for 
+fun i mean shit, he's huge!
+~
+frost-giant~
+ABFG DFJVZa C -1000 0
+170 200 1d1+20000 1d1+1000 20d60+120 wrath
+-100 -100 -100 -100
+AEFGHIK I C HNS
+stand stand male 30000
+AHMV ABCDEFGHIJK huge unknown
+#39627
+The Negotiator~
+The {bN{Beg{bo{Dt{bia{Bto{br{X~
+The {bN{Beg{bo{Dt{bia{Bto{br{X is here, watching you approach.
+~
+Standing tall with long white flowing hair, dangling half
+way down his back, the Negotiator is an imposing figure
+indeed. He is dressed all in black leather, with a long, tailed
+black leather coat draped over all of his apparel.
+~
+human~
+ABG DFJZ 0 500 0
+180 2000 1d1+20000 1d1+20000 1d1+2000 pound
+-100 -100 -100 -100
+0 AB 0 0
+stand stand none 200000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 39604 39643~
+#39628
+wandering merchant~
+a wandering merchant~
+A wandering merchant is here, looking for the next deal.
+~
+Dressed in a long, tattered looking cloth cloak that extents beyond
+his ankles, he looks to have been going through a rough patch in the
+trading department lately. His long black hair spills out of the back
+of his cloak's hood. A walking stick is in his right hand, and he has
+an obvious limb on his leg also.
+~
+human~
+AGT V 0 1000 0
+140 125 1d1+16000 1d1+21000 15d40+40 thwack
+-90 -90 -90 -90
+EHI ABN S H
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39629
+nomadic villager~
+a nomadic villager~
+A nomadic villager is here walking around slowly.
+~
+He appears to be a nomad of some kind. A long tan colored robe
+is draped over his shoulders, extending down to his well worn
+brown leather boots. A small belt with a few pouches hangs at his
+waist, along with a small short sword, which hangs from a scabbard
+on his right side. His head and partially his face are both covered
+by a low drooping hood.
+~
+human~
+AGS Fa 0 1000 0
+135 125 1d1+14500 1d1+1000 15d40+40 pound
+-60 -60 -60 -60
+CFHI ABN S H
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39630
+healer~
+a healer~
+A healer is here, chanting softly.
+~
+Draped from head to toe in a low flowing divinely white
+robe, this is an imposing figure indeed. He has long white
+hair flowing down past the small of his back, spilling out
+of a hood thrown behind his cloak. A large walking staff is
+in his right hand, apparently helping to prop him up in his
+old age.
+~
+human~
+ABGa DFJTZ H -1000 0
+190 200 1d1+20000 1d1+20000 1d1+2000 wrath
+-200 -200 -200 -200
+0 ABCDHIN 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39631
+peon~
+a peon~
+A wandering peon is here looking around.
+~
+Dressed in a rotten looking cloak, the color of which, appears
+to MAYBE have been white, at one point in the far past anyway.
+It is obviously that he is of the extreme lower class in this 
+part of the world.
+~
+human~
+AGT V 0 1000 0
+140 124 1d1+15000 1d1+2000 15d40+40 scratch
+-50 -50 -50 -50
+EFHI ABN S H
+stand stand none 10000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39632
+wandering dwarf~
+a wandering dwarf~
+A wandering dwarf is walking down the path here.
+~
+This dwarf appears to be a little taller then most of the others.
+He is draped from head to toe in a flowing black, leather cloak,
+covering a full set of body armor that looks to be made of black
+steel. A large double bladed battle axe hangs from his back, on
+top of flowing red colored hair.
+~
+dwarf~
+AGT DFJVZ 0 1000 0
+146 200 1d1+15500 1d1+2000 10d30+45 divine
+-90 -90 -90 -90
+DEFHIK ABN LS H
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#39633
+The keeper of history~
+The Keeper~
+The keeper of the history of Asgard is standing here, chanting softly.
+~
+Dressed head to toe in the most divinely white robe, this man seems
+to be glowing softly even in lei any light source around. His head is
+covered with a hood, that partially conceals his long white hair, giving 
+the impression that he is very old indeed. A small leather bound book is
+in his right hand, while a glowing short sword hangs on his waist.
+~
+elf~
+ABGT DFJLUVac CDEHN 1000 0
+250 300 1d1+88000 1d1+34000 50d250+400 divine
+-400 -400 -400 -400
+ACDFGHIJKMNO ABDKNS 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+M GRALL 39999 1000~
+#39634
+The Carnage Keeper~
+The {RCarnage{X Keeper~
+The {RCarnage{X Keeper is here fuming in anger.
+~
+~
+storm-giant~
+ABFGT DFJVZ DH -1000 0
+185 300 1d1+20000 20d20+30000 20d50+190 wrath
+-120 -120 -120 -120
+DEFGHK ABJ H NPS
+stand stand male 40000
+AHMV ABCDEFGHIJK large unknown
+#39635
+General Dragonic~
+General Dragonic~
+General Dragonic is here, looking at war plans.
+~
+~
+dragon~
+ABGR DFVZ C -1000 0
+190 300 1d1+29000 1d1+200000 30d70+400 flbite
+-200 -200 -200 -200
+DEFGHKM A BEH FI
+stand stand female 90000
+AHZ ACDEFGHIJKPQUVX huge unknown
+F aff JT
+#39636
+mage of the path~
+mage of the path~
+A mage of the path is here, floating an inch off the ground.
+~
+~
+human~
+ABFGR DFJTUVZa H -1000 0
+190 300 1d1+30000 1d1+20000 28d65+220 magic
+-200 -200 -200 -200
+CEFGHJK AB H NS
+stand stand male 30000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39637
+The Teacher~
+The Teacher~
+The Teacher is here, looking around the room.
+~
+~
+dark-elf~
+ABFGR J DHO -1000 0
+200 350 1d1+45000 1d1+20000 47d105+325 magic
+-230 -230 -230 -230
+ADEFGHK ABJ 0 HPS
+stand stand male 90000
+AHMV ABCDEFGHIJK large unknown
+M DELAY 39601 100~
+M GREET 39600 100~
+#39638
+adept of the path~
+adept of the path~
+An adept of the path is here, angry you have disturbed her.
+~
+~
+dark-elf~
+ABFGR DFVZ E -1000 0
+170 300 1d1+26000 1d1+20000 30d70+190 magic
+-140 -140 -140 -140
+0 AB 0 N
+stand stand female 30000
+AHMV ABCDEFGHIJK large unknown
+F aff J
+F vul S
+#39639
+wandering elf~
+a wandering elf~
+A wandering elf is here looking around.
+~
+~
+dark-elf~
+AGS J 0 -1000 0
+155 150 1d1+15500 1d1+2000 20d30+20 pound
+-40 -40 -40 -40
+0 0 0 S
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#39640
+lost soldier~
+a lost soldier~
+A lost soldier is here, wandering around in a circle.
+~
+~
+dark-elf~
+AGT VZ 0 -1000 0
+155 200 1d1+15500 1d1+200 20d40+90 pound
+-40 -40 -40 -40
+C 0 0 NS
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#39641
+underground critter~
+an underground critter~
+An underground critter is here scurrying around.
+~
+~
+demon~
+AGR JU 0 -1000 0
+155 150 1d1+15500 1d1+2000 20d30+90 scratch
+-50 -50 -50 -50
+0 0 CM NS
+stand stand none 12000
+AHMV ABCDEFGHIJKQ medium unknown
+#39642
+Lesser Trainer~
+Lesser Trainer~
+The Lesser Trainer is here walking around slowly.
+~
+~
+dark-elf~
+ABGT JV 0 -1000 0
+180 250 1d1+20000 1d1+20000 20d70+190 magic
+-150 -150 -150 -150
+CDEFGHKO ABH D S
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+#39643
+lost athasian priest~
+lost athasian priest~
+A lost athasian priest is here walking down the path slowly.
+~
+~
+athasian~
+AGT J 0 1000 0
+155 150 1d1+15500 1d1+2000 5d40+100 pound
+-32 -30 -30 -30
+C 0 0 PS
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#39644
+a bear~
+a bear~
+A bear is here roaming around.
+~
+~
+bear~
+AGT 0 0 1000 0
+145 150 1d1+15500 1d1+2000 20d90+100 scratch
+-20 -20 -20 -20
+CDO 0 EI 0
+stand stand male 20000
+AGV ABCDEFHJKUV medium unknown
+F off E
+#39645
+journeyman~
+a journeyman~
+A journeyman is here walking around.
+~
+~
+dwarf~
+AGT J 0 1000 0
+150 150 1d1+15500 1d1+200 20d70+60 peck
+-40 -40 -40 -40
+FIN NS L H
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#39646
+fire-giant soldier~
+a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier~
+A {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier is here standing guard.
+~
+~
+fire-giant~
+AGT DFJZ O -1000 0
+155 200 1d1+15500 1d1+2000 25d80+90 pound
+-50 -50 -50 -50
+CEI H 0 IN
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+#39647
+shaylious elf dark~
+Shaylious~
+A dark elf is pacing around his cell, a small light glowing about his fingertips.
+~
+Her once proud dark {Bblue{X cloak is now in tatters, and very faded. It
+does however still flow down to the backs of her ankles, half covering her worn
+dark black leather boots. Blue hair spills out from what is left of the hood on
+her robe, tumbling down well past her shoulders to around the small of her back.
+The most captivating thing about her though is her eyes; violet, with pupils as
+small as pinpricks. They seem to be dancing around, always with a hint of amusement
+behind them.
+~
+dark-elf~
+ABGR J E -1000 0
+195 300 1d1+29000 1d1+20000 30d90+200 magic
+-200 -200 -200 -200
+AEFGK AB CH N
+stand stand female 45000
+AHMV ABCDEFGHIJK large unknown
+F vul S
+M SPEECH 39603 yes~
+M GREET 39602 100~
+#39648
+imprisoned dwarf~
+an imprisoned dwarf~
+An imprisoned dwarf is here, pacing his cell.
+~
+~
+dwarf~
+ABGT JVa 0 1000 0
+170 200 1d1+25000 1d1+20000 30d95+200 pound
+-100 -100 -100 -100
+CEHI AB L 0
+stand stand male 40000
+AHMV ABCDEFGHIJK large unknown
+#39649
+lightning giant guard~
+a {Gl{Big{6h{wt{^ni{Bn{Gg{x giant guard~
+A {Gl{Big{6h{wt{^ni{Bn{Gg{x giant guard is standing here, keeping watch.
+~
+~
+frost-giant~
+ABFGT DFJTVZ C -1000 0
+170 200 1d1+25000 1d1+20000 40d80+190 shock
+-150 -140 -140 -140
+0 ABI C HN
+stand stand male 30000
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#39600
+Guard Sword~
+{4G{$u{Da{$r{4d {4S{Dwor{4d{X~
+A long sword lies here.~
+unknown~
+weapon A AN
+sword 5 40 slash A
+98 2 95000 P
+A
+13 75
+A
+18 -5
+A
+2 -3
+A
+19 10
+#39601
+royal guard emblem~
+{XA {4R{Doya{4l{X {DGu{wa{Wr{wd {#E{Dmb{wle{#m{X~
+{XA {4R{Doya{4l{X {DGu{wa{Wr{wd {#E{Dmb{wle{#m{X lies on the ground here.~
+unknown~
+treasure A AU
+0 0 0 0 0
+101 0 101000 P
+A
+12 -100
+A
+13 200
+A
+19 12
+A
+2 3
+#39602
+a key~
+a key~
+A key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#39603
+purple  mood ring~
+a {5purple{X {Dm{4o{2o{Dd{X {Dr{win{Dg{X~
+A purple ring is on the floor here.~
+unknown~
+jewelry AG AB
+0 0 0 0 0
+101 1 101000 P
+A
+12 75
+A
+1 2
+A
+19 10
+A
+13 175
+#39604
+peice of ice~
+a peice of {^i{Dc{^e{X~
+A peice of {^i{Dc{^e{X is lying on the ground here.~
+unknown~
+treasure AG AO
+0 0 0 0 0
+101 1 101000 P
+A
+3 2
+A
+20 -6
+A
+12 200
+F
+R 0 0 I
+#39605
+bar stool~
+a bar stool~
+A bar stool is here.~
+unknown~
+furniture A 0
+A CHIJ EH EHI EHI
+20 0 0 P
+#39606
+grey goose shot~
+shot of {Dg{4r{we{Dy{X {4g{Do{wo{Ds{We{X~
+A shot of {Dg{4r{we{Dy{X {4g{Do{wo{Ds{We{X is on the floor here.~
+unknown~
+drink 0 AO
+10 10 'vodka' 0 0
+75 0 900 P
+#39607
+a desk~
+a desk~
+A desk is here in the center of the room.~
+unknown~
+furniture A 0
+0 0 0 0 0
+0 0 0 P
+#39608
+plush red couch~
+a {!p{1lus{!h{X {1red{X {Dc{wouc{Dh{X~
+A {!p{1lus{!h{X {1red{X {Dc{wouc{Dh{X is here against a wall.~
+unknown~
+furniture 0 0
+C DFIJN EHK CEFGHI CEFGHI
+0 0 0 P
+#39609
+carved golden high seat~
+the {3G{#olde{3n{X {#H{3ig{#h{X {3S{Dea{3t{X of The {DS{^k{Dy{X~
+The {3G{#olde{3n{X {#H{3ig{#h{X {3S{Dea{3t{X of The {DS{^k{Dy{X is here, glowing softly.~
+unknown~
+furniture A 0
+A CHIJ EH CDFI CDFI
+0 0 0 P
+#39610
+soft fire~
+a {#s{1of{#t{X {!f{1i{!r{1e{X~
+A {#s{1of{#t{X {!f{1i{!r{1e{X sits in the corner.~
+unknown~
+portal A 0
+0 0 0 ACEIJLMP 0
+0 0 0 P
+#39611
+the sky crown~
+{DT{wh{De{X {DS{^k{Dy{X {#C{Dr{^o{Dw{#n{X~
+A large crown lies on the ground here.~
+unknown~
+armor AGK AE
+CE CE CE BCDE 0
+101 1 101000 P
+F
+A 0 0 T
+A
+19 8
+A
+9 15
+A
+12 200
+F
+R 0 0 C
+#39612
+Staff of Noise~
+{DS{wt{Wa{wf{Df{X {^o{6f{X {^N{Dois{^e{X~
+A noisey staff lies on the ground here.~
+unknown~
+staff AG AO
+175 5 5 'sonic blast' 0
+101 1 101000 P
+#39613
+Eye of the Sky~
+{DE{^y{De{X {1o{Df th{!e{X {DS{^k{Dy{X~
+A small eye is lying on the floor here.~
+unknown~
+treasure AG AQ
+0 0 0 0 0
+101 1 101000 P
+A
+20 -2
+A
+3 -2
+A
+1 -3
+A
+12 -100
+A
+13 200
+A
+19 20
+F
+A 0 0 T
+#39614
+Armor bladed cloak~
+an {^A{Drmo{^r{X bladed {Dc{wl{Wo{wa{Dk{X~
+A large cloak is here.~
+unknown~
+armor A AC
+0 0 0 0 0
+101 2 101000 P
+A
+19 5
+A
+17 -50
+A
+2 -5
+A
+18 5
+#39615
+Gem of Bartho~
+{^G{#e{^m{X {3o{^f{X {DBa{wr{Wt{wh{Do{X~
+The {^G{#e{^m{X {3o{^f{X {DBa{wr{Wt{wh{Do{X is here, pulsating.~
+unknown~
+treasure AG AS
+0 0 0 0 0
+101 0 101000 P
+A
+17 -10
+A
+12 200
+A
+20 -5
+A
+18 5
+#39616
+Pulsating Onyx Sword~
+{XA {DPu{3ls{^at{3in{Dg{X {DO{wn{Wy{Dx{X {^S{6wor{^d{X~
+{XA {DPu{3ls{^at{3in{Dg{X {DO{wn{Wy{Dx{X {^S{6wor{^d{X lies here.~
+unknown~
+weapon BGf AN
+sword 14 15 fury AJ
+101 2 101000 P
+A
+18 -15
+A
+20 4
+A
+2 -3
+A
+19 10
+#39617
+Belt of Illusion~
+{^B{De{wl{Dt{X {wof{X {^I{Dll{wu{Ws{wi{Do{^n{X~
+A shimmering belt lies here.~
+unknown~
+armor AGK AL
+ADE ADE ADE ADE 0
+101 1 101000 P
+A
+19 10
+A
+13 100
+A
+2 2
+A
+4 -2
+F
+R 0 0 K
+F
+V 0 0 H
+#39618
+medallion of might~
+{^M{Ded{wal{Wli{wo{Dn{X {^o{#f{X {#M{3i{#g{3h{#t{X~
+A mighty looking medallion lies here.~
+unknown~
+jewelry AGK AC
+0 0 0 0 0
+101 1 101000 P
+A
+1 4
+A
+19 19
+#39619
+Shield of Gargen~
+{^S{#hiel{^d{X {Do{wf{X {#G{3arge{#n{X~
+The {^S{#hiel{^d{X {Do{wf{X {#G{3arge{#n{X lies here.~
+unknown~
+armor AGK AJ
+DF DF DF DF 0
+101 2 101000 P
+A
+2 -4
+A
+17 -20
+A
+13 75
+A
+12 -75
+#39620
+key~
+a key~
+A key is here.~
+unknown~
+key A A
+0 0 0 0 0
+0 0 0 P
+#39621
+Mask of Torture~
+{!M{1as{!k{X {Do{wf{X {!T{1o{!r{1t{!u{1r{!e{X~
+A strange mask lies here.~
+unknown~
+armor ACGJM AR
+ABE ABE ABE ABE 0
+101 2 101000 P
+A
+3 -5
+A
+19 25
+A
+4 -5
+A
+5 -5
+A
+1 3
+#39622
+Shackles of Hate~
+{!S{1hac{!k{1le{!s{X {Do{wf{X {!H{1a{!t{1e{X~
+Strange looking shackles lie on the ground here.~
+unknown~
+treasure ABEJM AM
+0 0 0 0 0
+101 2 101000 P
+A
+2 -4
+A
+26 5
+A
+13 250
+A
+9 20
+#39623
+Jagged sword~
+{XA {^J{Da{wgg{De{^d{X {DS{ww{Wo{wr{Dd{X~
+A small sword lies here.~
+unknown~
+weapon G AN
+exotic 5 40 wrath CJ
+101 4 10100 P
+A
+2 -3
+A
+19 9
+A
+13 100
+A
+12 -100
+A
+17 -25
+A
+18 -17
+#39624
+couch~
+{Xa small couch~
+{XA small couch is here.~
+unknown~
+furniture A 0
+AB AB EHK EHI EHI
+0 0 0 P
+#39625
+an old saber~
+{XAn old {^S{Dabe{^r{X~
+An old saber lies on the ground here.~
+unknown~
+weapon B AN
+sword 8 22 cleave BDGJ
+95 4 95000 P
+A
+19 18
+A
+2 -3
+A
+18 -10
+#39626
+A Display Case~
+a {#d{^is{Dpl{^a{#y{X case~
+A {#d{^is{Dpl{^a{#y{X case is in the corner of the room.~
+unknown~
+container AB 0
+5000 ABCD 39627 10000 90
+0 0 0 P
+#39627
+a key~
+a key~
+A key is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#39628
+glowing granite bench~
+a {Yg{ylo{Yw{yin{Yg{X {Dg{wr{Wa{Dn{Wi{wt{De{X bench~
+A {Yg{ylo{Yw{yin{Yg{X {Dg{wr{Wa{Dn{Wi{wt{De{X bench sits in the center of the crossroads.~
+unknown~
+furniture A 0
+C DFIJN EHK BDEFGH BDEFGH
+0 0 0 P
+#39629
+bubbling granite fountain~
+a {yb{Dub{Wbl{Di{wn{yg{X {Dg{Wr{wa{Dn{wi{Wt{De{x fountain~
+A {yb{Dub{Wbl{Di{wn{yg{X {Dg{Wr{wa{Dn{wi{Wt{De{x fountain is sitting next to a bench.~
+unknown~
+fountain A 0
+-1 -1 'absinthe' 0 0
+1 2000 0 P
+#39630
+heal potion~
+potion of {CHealing{X~
+A potion of {CHealing{X is lying on the ground here.~
+unknown~
+potion AG A
+130 'heal' 'heal' 'heal' 'heal'
+90 1 90000 P
+#39631
+potion of curing~
+potion of {WCu{Dr{Wing{X~
+A  potion of {WCu{Dr{Wing{X is lying on the ground here.~
+unknown~
+potion AG A
+140 'cure blindness' 'cure blindness' 'cure disease' 'cure poison'
+90 1 60000 P
+#39632
+potion of combat~
+potion of {RCo{rm{Rbat{x~
+A potion of {RCo{rm{Rbat{x lies here on the ground.~
+unknown~
+potion AG A
+101 'haste' 'giant strength' 'frenzy' 'bless'
+90 1 60000 P
+#39633
+potion of defense~
+potion of {BDef{be{Bnse{X~
+A potion of {BDef{be{Bnse{X lies on the ground here.~
+unknown~
+potion AG A
+101 'steel flesh' 'stone skin' 'armor' 'shield'
+90 1 60000 P
+#39634
+Potion of the divine~
+potion of the {CD{ci{Wv{wi{Wn{Ce{x~
+A potion of the {CD{ci{Wv{wi{Wn{Ce{x lies here on the ground.~
+unknown~
+potion AG A
+110 'refresh' 'holy word' 'restore mana' 'constance'
+100 1 95000 P
+#39635
+potion of mana~
+potion of {RM{Ba{Rn{Ba{x~
+A potion of {RM{Ba{Rn{Ba{x lies on the ground here.~
+unknown~
+potion AG A
+120 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+100 1 75000 P
+#39636
+potion of darkshield~
+potion of {DDa{wr{Dk{Ws{Dh{wi{We{Dld{x~
+A potion of {DDa{wr{Dk{Ws{Dh{wi{We{Dld{x lies on the ground here.~
+unknown~
+potion AEG A
+130 'darkshield' 'darkshield' 'restore mana' 'refresh'
+100 0 75000 P
+#39637
+Earring of the Sky~
+earring of the {CS{Wk{cy{X~
+The Earring of the {CS{Wk{cy{X lies here.~
+unknown~
+jewelry A AS
+0 0 0 0 0
+101 4 900000 P
+F
+A 0 0 T
+F
+A 0 1 U
+A
+3 4
+A
+12 300
+A
+19 12
+#39638
+anklet of the sky~
+anklet of the {Cs{Wk{cy{X~
+An anklet of the {Cs{Wk{cy{X lies here.~
+unknown~
+jewelry AG AT
+0 0 0 0 0
+101 1 900000 P
+A
+3 4
+A
+2 3
+A
+17 -20
+A
+12 -100
+F
+A 0 0 T
+#39639
+staff of flame~
+{bs{Dt{Wa{Df{bf{X {cof{x {Rf{rl{Ra{rm{Re{x~
+A {bs{Dt{Wa{Df{bf{X {cof{x {Rf{rl{Ra{rm{Re{x lies on the ground here, burning softly.~
+silver~
+staff AEGJ AO
+150 2 2 'torrents of flame' 0
+101 1 101000 P
+F
+I 0 0 C
+#39640
+wisdom~
+{CW{%i{&s{Dd{%o{Cm{x~
+{CW{%i{&s{Dd{%o{Cm{x lies on the ground here, pulsating.~
+unknown~
+armor AG AX
+CE CE CE CE 0
+101 0 90000 P
+F
+A 0 0 T
+F
+A 0 1 L
+A
+3 5
+A
+12 500
+A
+18 -15
+#39641
+axe of carnage~
+{DAxe {wof {Rcar{rn{Rage{x~
+The {Daxe {wof {Rcar{rn{Rage{x is lying here on the ground.~
+unknown~
+weapon BE AN
+axe 5 41 cleave CG
+101 5 101000 P
+A
+19 20
+A
+2 -4
+A
+18 -10
+A
+13 50
+#39642
+shield of frost~
+{CS{wh{Die{wl{Cd{C of {CF{cr{Wo{cs{Ct{x~
+The {CS{wh{Die{wl{Cd{C of {CF{cr{Wo{cs{Ct{x lies on the ground here.~
+mythril~
+armor AEGJ AJ
+ABF ABF ABF ABF 0
+101 3 101000 P
+A
+17 -20
+A
+13 100
+A
+2 -3
+F
+R 0 0 I
+A
+19 10
+A
+5 -5
+#39643
+Signet of approval~
+the {bs{Dig{Wn{De{bt{x of {ra{wpprova{rl{x~
+A strange looking signet lies here.~
+unknown~
+treasure APU AO
+0 0 0 0 0
+100 1 100 P
+#39644
+bloody axe~
+a {Rb{rl{Ro{ro{Rd{ry{x {waxe{x~
+A bloody looking axe lies here.~
+mythril~
+weapon A AN
+axe 8 25 chop ADE
+100 20 130000 P
+A
+19 5
+A
+18 -15
+A
+1 3
+#39645
+monument of asgard~
+the monument of {GA{Ys{Wg{Ya{Gr{Yd{X~
+A towering monument sits in the center of the room. Type 'read monument'.~
+unknown~
+furniture A 0
+0 0 0 0 0
+110 200 0 P
+E
+monument~
+This is a monument dedicated to the people who sacrificed their time and
+energy to write code and/or build areas solely for the enjoyment of others. 
+These are the names of the Immortals through out the years, there have been
+so many that if any are forgotten i apologize, it is hard to remember everyone. 
+Tas, Kefka, Tien, Skyntil, Lucifer, Gavorkian, Raistlyn, Anonymous, Jair,
+Fesdor, Shayla, Bree, Dusk, Sturm, Ishamael, Snaek, Zeddicus, Callin, Pious,
+Digaaz, Zellie, Roq.
+I'm sure there are others i have forgotten, and one i left out on purpose, but
+Asgard would not be what it is today without the fore mentioned people. There
+will always be others to continue on with the work once the old guard and the
+semi-new are gone, continuing to add to the history of our beloved world.
+We bring our dreams to life here because we know that this World will always
+continue on, and continue to be a place where people will enjoy themselves.
+~
+#39646
+carnage flare~
+{RCa{Dr{Wn{Da{Rge{X {Rf{rl{Ra{rr{Re{X~
+A flare lies here, pulsing with anger.~
+magical construct~
+light A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 1 101000 P
+A
+13 225
+A
+19 15
+A
+17 -5
+A
+18 8
+#39647
+face of carnage~
+face of {Rc{ra{Rr{rn{Ra{rg{Re{x~
+The face plate of carnage lies here.~
+unknown~
+armor B AR
+CDE CDE CDE CDE 0
+101 1 101000 P
+A
+13 200
+A
+18 -10
+A
+19 16
+A
+17 -3
+#39648
+white silk cloak~
+a white {Ds{wi{Wl{wk{X {Dc{wl{Wo{wa{Dk{x~
+A white silk cloak lies on the ground here.~
+white silk~
+armor AB AC
+CD CD CD CD 0
+101 1 101000 P
+A
+12 200
+A
+3 3
+A
+19 10
+A
+9 5
+A
+20 -5
+A
+18 -5
+#39649
+ring of time~
+{Dring{X of {BT{bi{Bm{be{X~
+A strange looking ring lies here.~
+mythril~
+jewelry AJL AB
+0 0 0 0 0
+101 1 151000 P
+A
+12 200
+A
+18 10
+A
+20 -2
+A
+9 20
+#39650
+black silk badge~
+a {Dblack{X {Ds{wi{Wl{wk{X {Gb{radg{Ge{X~
+A black silk badge lies here, forgotten.~
+black silk~
+treasure AEJ AV
+0 0 0 0 0
+101 1 101000 P
+A
+19 15
+A
+17 -10
+A
+9 5
+A
+3 2
+A
+13 100
+#39651
+healing aura~
+a healing aura~
+A healing aura lies here.~
+magic~
+treasure AJ AQ
+0 0 0 0 0
+101 0 101000 P
+A
+26 15
+A
+20 -4
+#39652
+dagger of perdition~
+dagger of {Dp{we{Wr{Rdi{Dt{wi{Wo{wn{X~
+A damned dagger lies here~
+mythril~
+weapon AEHJLf AN
+dagger 7 32 shock CG
+101 4 101000 P
+A
+2 -5
+A
+13 -200
+A
+9 10
+A
+3 3
+A
+5 -3
+#39653
+small shank~
+a small {Ds{Bh{Da{Bn{Dk{X~
+A small {Ds{Bh{Da{Bn{Dk{X lies on the ground here.~
+unknown~
+weapon AG A
+dagger 2 103 pierce CJ
+101 1 101000 P
+A
+18 11
+A
+9 3
+A
+1 3
+A
+3 -5
+#39654
+plush blue couch~
+a {Rp{Gl{wu{Gs{Rh{x {Bb{bl{Bu{be{X couch~
+A {Rp{Gl{wu{Gs{Rh{x {Bb{bl{Bu{be{X couch sits in the center of the room.~
+unknown~
+furniture A 0
+C EGHIJK EHK EHI EHI
+101 400 10 P
+#39655
+carnage clan patch~
+{RC{ra{Rr{rn{Ra{rg{Re{x {Dclan{X patch~
+A hateful looking clan patch lies on the ground here.~
+unknown~
+treasure ABEG AU
+0 0 0 0 0
+101 1 151000 P
+A
+18 7
+A
+9 8
+A
+5 -3
+A
+17 -10
+A
+13 100
+A
+20 -5
+A
+19 13
+#39656
+monument of achievements~
+the monument of {GA{Yc{Wh{Yi{Ge{Wv{Ye{Gm{We{Yn{Gt{Ws{x~
+The monument of {GA{Yc{Wh{Yi{Ge{Wv{Ye{Gm{We{Yn{Gt{Ws{x is pulsating in the center of the room.(type 'read monument')~
+unknown~
+trash A 0
+0 0 0 0 0
+100 100 10 P
+E
+monument~
+These are the records from the entire history of Asgardian Nightmare/Distorted
+Illusions. These are the players who have stood out over the course of our very
+long 11 year history. All of these records are as of 10/24/2008. Since alot of
+these stats are from players from the 90's and early 2000's, some of the exact
+numbers may be off slightly.
+{R*{XMost Player Kills: Ravn : 180pkills
+{R*{XMost Player Deaths: Darf : over 200 PKdeaths
+{R*{XMost Helpful Player: Bobby, Rocky, and Mirage.
+{R*{XUndefeated PKer's (25+ kills min.) : Bree : 30 Pkills 0 Pdeaths
+     Atheism : 27 Pkills 0 Pdeaths | Roq 25+Pkills (exact unknown) | Shane 25+ Pkills (exact unknown)
+{R*{X Most Feared Pkers: Ravn, Fesdor, Roq, Wriech, Josh, Atheism
+{R*{X Most Feared Clan: Renegade and Renshai | Honorable Mention: Wolfriders
+{B*{X Best Mob Program Writer: Fesdor, Fesdor, and Fesdor. :)
+{B*{X Best Piece of Coding: Tas : Completely Original Random Code
+{R*{X First Player To {YLGD{X On Distorted Illusions v2.5b : Wriech
+{R*{X Most Feared Old School PKer: Quintalis
+{B*{X Most Beloved Immortals: Tas, Fesdor, Tien, Bree, Lucifer
+{R*{X Most Hours Played As a Mortal: Noghir : Thousands of hours.
+{B*{X Most Hours Played As an Immortal: Bree : 5021
+{Y*{X Honorable PK record mention: Roq 146-18 (First Asgard)
+     {Y*{X Anonymous 217-14 (First Asgard)
+done
+~
+#39999
+some blow~
+some {wb{Wl{wo{Ww{x~
+Some {wb{Wl{wo{Ww{x has been chopped up into lines here.~
+unknown~
+pill AB AO
+400 'haste' 'haste' 'haste' 'haste'
+110 0 101000 P
+#0
+
+
+
+#ROOMS
+#39600
+Before a Giant Stone Carved Staircase~
+The view from this place is surreal; a towering mountain stands before
+you, white as the powder snow. It seems to have no end in sight, save for
+a small glimmer near the very top that could be a structure of some kind.
+There is a large staircase cut into the very rock of the mountain, although
+it looks steep, small, and at times, downright dangerous, however it does
+look negotiable.
+~
+0 0 4
+D0
+~
+~
+0 0 39601
+D2
+~
+~
+0 0 1820
+D3
+~
+~
+0 0 39808
+S
+#39601
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+~
+0 0 0
+D2
+~
+~
+0 0 39600
+D4
+~
+~
+0 0 39602
+S
+#39602
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+~
+0 0 0
+D4
+~
+~
+0 0 39603
+D5
+~
+~
+0 0 39601
+S
+#39603
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+~
+0 0 0
+D4
+~
+~
+0 0 39604
+D5
+~
+~
+0 0 39602
+S
+#39604
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+~
+0 0 0
+D4
+~
+~
+0 0 39605
+D5
+~
+~
+0 0 39603
+S
+#39605
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+A way station seems to have been cut into the stone wall to the east of here.
+~
+0 0 0
+D1
+~
+~
+0 0 39635
+D4
+~
+~
+0 0 39606
+D5
+~
+~
+0 0 39604
+S
+#39606
+The Entrance Stairs~
+This is some kind of stairwell, it appears to have been cut directly into the
+rock face, shaping them into steep stairs. The staircase appears to go up for awhile.
+~
+0 0 0
+D4
+~
+~
+0 0 39607
+D5
+~
+~
+0 0 39605
+S
+#39607
+Before an Enourmous Castle~
+An enourmous castle stands to the north.  The size and beauty of the
+castle is breathtaking.  Sparkles reflect off the pearl colored castle as
+the sunbeams shine upon the kingdom.  
+~
+0 0 0
+D0
+~
+~
+0 0 39608
+D5
+~
+~
+0 0 39606
+S
+#39608
+Entrance to the {DSk{wy C{Was{Dtl{we{X~
+Huge engraved bronze doors lead into the castle.  The steps are made of
+polished ivory with specks of silver and gold embedded in them.  The south
+leads away from the castle.  The north goes into the castle.  
+~
+0 4 0
+D0
+~
+~
+1 0 39609
+D2
+~
+~
+0 0 39607
+S
+#39609
+Castle {DF{wo{Wy{we{Dr{X~
+The marble floors shine as is they've just been polished.  The ceiling is
+painted with pictures of the Gods in gold.  Guards roam throughout to ensure
+the safety of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 39612
+D1
+~
+~
+0 0 39611
+D2
+~
+~
+1 0 39608
+D3
+~
+~
+0 0 39610
+S
+#39610
+The West {DHa{wl{Wl{ww{Day{X~
+Royal blue carpet, silver trimmed walls make this part of the hallway
+look very regal.  To the east is the castle foyer, the west hallway to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39609
+D3
+~
+~
+0 0 39621
+S
+#39611
+The East {DHa{wl{Wl{ww{Day{X~
+The hallway here turn kinda relaxed looking.  A huge fluffy couch sits to
+the sit beckoning you to take a rest upon it.  The hallway leads east, west
+leads to the Castle Foyer.  
+~
+0 0 0
+D1
+~
+~
+0 0 39626
+D3
+~
+~
+0 0 39609
+S
+#39612
+A {DHa{wl{Wl{ww{Day{X~
+This hallway is lined with pictures of past royalty of the Sky Kingdom. 
+Small potted flowers sit on marble topped tables.  The hallway leads to the
+north.  To the south back into the foyer.  
+~
+0 0 0
+D0
+~
+~
+0 0 39613
+D2
+~
+~
+0 0 39609
+S
+#39613
+A {DHa{wl{Wl{ww{Day{X~
+Small silver statues of heros and mighty warriors are being polished by
+servants.  The hallway extends to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39614
+D2
+~
+~
+0 0 39612
+S
+#39614
+A Split in the {DHa{wl{Wl{ww{Day{X~
+The grand hallway splits off to the east and west and back to the south. 
+Guards and servants walk about cleaning and keeping the peace.  
+~
+0 0 0
+D1
+~
+~
+0 0 39618
+D2
+~
+~
+0 0 39613
+D3
+~
+~
+0 0 39615
+S
+#39615
+Northwest Hallway~
+Pure white marble flooring leads down this hallway.  A large fishtank
+that hold many exotic fish sits on an oak circular table.  Exits are back to
+the east and to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 39616
+D1
+~
+~
+0 0 39614
+S
+#39616
+Before a Stairwell~
+Standing on a landing before a huge set of stairs that have a gold colored carpet with wine fringe trim on it.
+A painting of the Sky Kingdoms hangs on the wall.
+Up leads onto the stairs, south back into the hallway.
+~
+0 0 0
+D2
+~
+~
+0 0 39615
+D4
+~
+~
+0 0 39617
+S
+#39617
+A Stairwell~
+The massive stairs seem to go upward pretty far.  Lanterns made of gold
+with different Gods on them light up the stairwell.  Exits are up and down
+the stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 39672
+D5
+~
+~
+0 0 39616
+S
+#39618
+Northeast Hallway~
+The walls here are a deep, royal wine color.  An elaborately carved
+archway lead to the north.  To the west lead back into the main hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39619
+D3
+~
+~
+0 0 39614
+S
+#39619
+Before a Stairwell~
+A red carpeted landing leads upward onto the stairwell.  A servant with a
+silver tray full of tasty appetizers.  While a guard stands here to make
+sure no harm is done within the castle.  
+~
+0 0 0
+D2
+~
+~
+0 0 39618
+D4
+~
+~
+0 0 39620
+S
+#39620
+A Stairwell~
+The carpet is wine colored and the handrails of the stairs are gold.  The
+walls are covered in rare artwork.  The stairs continue to upward and back
+down.  
+~
+0 0 0
+D4
+~
+~
+0 0 39694
+D5
+~
+~
+0 0 39619
+S
+#39621
+The West {DHa{wl{Wl{ww{Day{X~
+This royal looking hallway a bronzen set of armor stands to the side
+here.  It seems to be as if its staring straight at the servant.  The west
+hallway lead in both directions east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39610
+D3
+~
+~
+0 0 39622
+S
+#39622
+The West {DHa{wl{Wl{ww{Day{X~
+On the wall a painting of the kingdoms from long ago hangs here.  The
+painting seems to jump off the canvas it was painted on because of such
+great detailmenship.  The hallway continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39621
+D3
+~
+~
+0 0 39623
+S
+#39623
+The West {DHa{wl{Wl{ww{Day{X~
+An antique table with a globe sits in the corner of this part of the
+hallway.  A book beside it tells about all the wars the Sky Kingdom has been
+in and all the territories it has conquered.  The hallway turns to the north
+here.  It also continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 39624
+D1
+~
+~
+0 0 39622
+D3
+~
+~
+0 0 39633
+S
+#39624
+The West {DHa{wl{Wl{ww{Day{X~
+A cart of cleaning supplies sits to the side, left by a servant.  This
+part of the hallway looks as if it needs to be cleaned.  
+~
+0 0 0
+D0
+~
+~
+0 0 39625
+D2
+~
+~
+0 0 39623
+S
+#39625
+The West {DHa{wl{Wl{ww{Day{X~
+The west hallway of blue and silver decor ends here.  To the north leads
+to a large common room.  The south leads back into the west hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39632
+D2
+~
+~
+0 0 39624
+S
+#39626
+The East {DHa{wl{Wl{ww{Day{X~
+A dim blue colored lamp gives off a peaceful glow here.  A chair and
+table sit to the side.  The table has the recent newspaper sitting on it. 
+The hallway leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39627
+D3
+~
+~
+0 0 39611
+S
+#39627
+The East {DHa{wl{Wl{ww{Day{X~
+Guards hover over what seems to be a drunken dwarf.  One things for sure
+this castle is well secured with guards, even the servants go through some
+type of training to defend the castle is necessary.  
+~
+0 0 0
+D1
+~
+~
+0 0 39628
+D3
+~
+~
+0 0 39626
+S
+#39628
+The East {DHa{wl{Wl{ww{Day{X~
+House guards stand here waiting on someone to mess up so they can have
+something to do.  One looks as if hes sleeping with his eyes open.  A light
+snoring can be heard.  The hallway leads north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 39629
+D3
+~
+~
+0 0 39627
+S
+#39629
+The East {DHa{wl{Wl{ww{Day{X~
+Another comfortable couch sits here, big fluffy pillows sit on it.  A
+table with a pitcher of water and a tray of glasses is next to the couch. 
+The hallway leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39630
+D2
+~
+~
+0 0 39628
+S
+#39630
+The East {DHa{wl{Wl{ww{Day{X~
+A troft-like thing lines the wall here.  A nasty smell of puke fills this
+part of the hallway.  The hallway goes north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39631
+D2
+~
+~
+0 0 39629
+S
+#39631
+Before a Large Common Room~
+Neon signs are on the walls.  Empty kegs are piled to the ceiling in the
+corner.  No wonder so many House Guards are wondering the hallways.  
+~
+0 0 0
+D1
+~
+~
+0 0 39653
+D2
+~
+~
+0 0 39630
+S
+#39632
+Before a Large Common Room~
+A bench with blue silk padding sits on both sides of this room.  Huge
+silver double doors lead into a large common room to the north.  South goes
+towards to west hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39636
+D2
+~
+~
+0 0 39625
+S
+#39633
+Before a Stairwell~
+A huge set of stair lead downward.  They are made of marble with a gold
+trimmed runner going the length of the stairs.  The hallway goes to the
+east.  The stairwell is downward.  
+~
+0 0 0
+D1
+~
+~
+0 0 39623
+D5
+~
+~
+0 0 39634
+S
+#39634
+{DStairwell to the Basement{X~
+The stairs are musty smelling and look like they havent been cleanen in
+forever.  The granite floors are black from the mud and dirt.  The walls
+that are suppose to silver and more grayish-brown from dust and silt.  
+~
+0 0 0
+D4
+~
+~
+0 0 39633
+D5
+~
+~
+0 0 39656
+S
+#39635
+Way Station~
+Carved into stone a hut-like shelter is here giving the guards a place to
+sit and rest.  The sky guards take turns on their breaks resting here.  
+~
+0 0 0
+D3
+~
+~
+0 0 39605
+S
+#39636
+A Common Room~
+Ancient looking tables with high backed chairs sit around this room. 
+This room is used for meeting of the staff and armies.  To the west this
+common room extends.  To the south leads back to the west hallway.  
+~
+0 0 0
+D2
+~
+~
+0 0 39632
+D3
+~
+~
+0 0 39637
+S
+#39637
+A Common Room~
+This part of the room a huge buffet lines the wall.  Full of pastries and
+other finger foods for the guest to snack on while in meetings.  A set of
+silver double doors open to the west.  The east leads into another part of
+the common room.  
+~
+0 0 0
+D1
+~
+~
+0 0 39636
+D3
+~
+~
+0 0 39638
+S
+#39638
+A Split in the {DHa{wl{Wl{ww{Day{X~
+The hallway splits to the north and south.  The north leads to the Hero
+Hallway.  The south leads into another hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39640
+D1
+~
+~
+0 0 39637
+D2
+~
+~
+0 0 39639
+S
+#39639
+A {DHa{wl{Wl{ww{Day{X~
+Another hallway going to only God knows where.  Whoever first built this
+castle long ago put too many hallways in.  This hallway leads north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39638
+D2
+~
+~
+0 0 39647
+S
+#39640
+{#H{3er{#o{X {DHa{wl{Wl{ww{Day{X~
+As entering the Hero Hallway pictures of warrior past line the walls. 
+The Sky Kingdom warriors are never forgotten, the names of all warrior past
+and present that have perished for their kingdom are on a bronzen tablet
+hanging here.  
+~
+0 0 0
+D0
+~
+~
+0 0 39641
+D2
+~
+~
+0 0 39638
+S
+#39641
+{#H{3er{#o{X {DHa{wl{Wl{ww{Day{X~
+On the wall here hangs a picture one of the legenary warrior, Barto. 
+Legend says many past warrior had spells cast on them allowing them to live
+forever, and they hide within this hallway somewhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 39643
+D2
+~
+~
+0 0 39640
+D3
+~
+~
+1 0 39642
+S
+#39642
+Bartho's Room~
+The legends must be true!  Bartho stands here sharpening weapons.  He
+looks as if hes still in his prime and could defend armys by himself.  
+~
+0 0 0
+D1
+~
+~
+1 0 39641
+S
+#39643
+{#H{3er{#o{X {DHa{wl{Wl{ww{Day{X~
+Another painting hangs here, the name plate reads "Shaimoy, the
+Illusionist warrior."  His painting shows him looking very mean and grouchy.
+The hallway leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39644
+D2
+~
+~
+0 0 39641
+D3
+~
+~
+1 0 39645
+S
+#39644
+{#H{3er{#o{X {DHa{wl{Wl{ww{Day{X~
+On both sides of the hallway painting of the greatest warrior hang here. 
+Gragen the Great, was said to kill an entire army by himselve.  This is the
+end of the Hero Hallway.  South leads back through the hallway.  
+~
+0 0 0
+D0
+~
+~
+1 0 39646
+D2
+~
+~
+0 0 39643
+S
+#39645
+Shaimoy's Room~
+The legend continues to come true as the mean looking Illusionist
+warrior, Shaimoy stares angrily at you.  
+~
+0 0 0
+D1
+~
+~
+1 0 39643
+S
+#39646
+Gragen's Room~
+A warrior that stands over 10 feet tall lurks over the whole room.  This
+is the Great Gragen.  
+~
+0 0 0
+D2
+~
+~
+1 0 39644
+S
+#39647
+A {DHa{wl{Wl{ww{Day{X~
+This part of the hallway sits a table to the side piled high with folders
+and important looking documents.  A small box holds messages for different
+generals and knights.  The hallway leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39639
+D2
+~
+~
+0 0 39648
+S
+#39648
+A {DHa{wl{Wl{ww{Day{X~
+A tall potted tree sits in the corner here.  Dead leaves lie on the
+floor.  The servant should be here soon to clean it up.  The hallway leads
+to the north, to the west an office can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 39647
+D3
+~
+~
+0 0 39649
+S
+#39649
+Entrance to an Office~
+A large oak desk full of clutter sits in the center of the room.  A
+pretty blonde intern is here trying to figure out what she did with those
+important orders she was suppose to give to her captain.  
+~
+0 0 0
+D1
+~
+~
+0 0 39648
+D3
+~
+~
+0 0 39650
+S
+#39650
+An Office~
+It looks like this is an office of a very important person.  All the
+furnishings look new and shiny.  Many diplomas hang on the walls.  The desk
+look like it belongs to a giant its so big.  
+~
+0 0 0
+D0
+~
+~
+1 0 39652
+D1
+~
+~
+0 0 39649
+D3
+~
+~
+1 0 39651
+S
+#39651
+The Back Office~
+This hidden room is full of filing cabinets full of Sky Kingdoms secret
+documents.  Huge locks are on each cabinet along with a force field of some
+sort to ensure they stay secret.  
+~
+0 0 0
+D1
+~
+~
+1 0 39650
+S
+#39652
+The Back Room~
+~
+0 0 0
+D2
+~
+~
+1 0 39650
+S
+#39653
+At the Bar~
+"Come on it!"  The bartender yells.  Many warriors sit around have
+themselves a nightcap before heading home after a long day of battle.  Get a
+drink and have a seat on the barstool.  
+~
+0 0 0
+D0
+~
+~
+0 0 39654
+D3
+~
+~
+0 0 39631
+S
+#39654
+Behind The Bar~
+If the bartender ever gets up off her 400 pound butt you may get
+something to drink.  Or better yet go get it yourself.  
+~
+0 256 0
+D2
+~
+~
+0 0 39653
+D5
+~
+~
+1 39602 39655
+S
+#39655
+Back Room Under The Bar~
+The owner of the bar is here drinking up all his profits.  He hides down
+here so no one knows hes a closet drunk.  The only exit is up.  
+~
+0 8448 0
+D4
+~
+~
+1 0 39654
+S
+#39656
+{DStairwell to the Basement{X~
+There are dead rodents laying in the corner of the stairs.  This is the
+slums of the castle so it seems.  
+~
+0 0 0
+D4
+~
+~
+0 0 39634
+D5
+~
+~
+0 0 39657
+S
+#39657
+{DStairwell to the Basement{X~
+The bottom of the stairwell is slick with mud and debri.  A dark hallway
+can be seen to the north.  Up leads back up the stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 39658
+D4
+~
+~
+0 0 39656
+S
+#39658
+{DA {DDa{wrk H{Wa{wllw{Day{X~
+This hallway looks gloomy and spooky.  Its good that you have a light or
+you wouldnt be able to see the nose on your face.  The hallway continue
+north and south.  
+~
+0 8192 0
+D0
+~
+~
+0 0 39659
+D2
+~
+~
+0 0 39657
+S
+#39659
+{DA {DDa{wrk H{Wa{wllw{Day{X~
+Darkness looms all around, shadows on the walls play tricks on your eyes.
+The darkness is so thick that you can barely see where your stepping.  
+~
+0 8192 0
+D0
+~
+~
+0 0 39706
+D1
+~
+~
+0 0 39661
+D2
+~
+~
+0 0 39658
+D3
+~
+~
+0 0 39660
+S
+#39660
+{DA {DDa{wrk H{Wa{wllw{Day{X~
+Darkness is still all around, and the temperature in this part of the
+hallway seems to be colder than anywhere else.  This hallway becomes
+creepier by the second.  The hallway leads east and west.  
+~
+0 8192 0
+D1
+~
+~
+0 0 39659
+D3
+~
+~
+0 0 39662
+S
+#39661
+A Small Room~
+In this small room a plush couch beckons you to take a rest upon it.  A
+strange robed healer sells his services here for a price.  West leads back
+to the hallway.  
+~
+0 9216 0
+D3
+~
+~
+0 0 39659
+S
+#39662
+{DA {DDa{wrk H{Wa{wllw{Day{X~
+Throught the darkness a suit of armor can be seen propped up againest the
+wall.  Red eyes glow through the mask of the armor.  The hallway leads south
+and east.  
+~
+0 8192 0
+D1
+~
+~
+0 0 39660
+D2
+~
+~
+0 0 39663
+S
+#39663
+{DA {DDa{wrk H{Wa{wllw{Day{X~
+Ten sets of beedy eyes stare from the corner.  As approaching, it seems a
+family of mice have made a nest in the corner and are frightfully cowering
+in their nest.  A small light comes from the west as the dark hallway ends. 
+To the north is the dark hallway.  
+~
+0 8192 0
+D0
+~
+~
+0 0 39662
+D3
+~
+~
+0 0 39664
+S
+#39664
+{DJ{wailo{Dr's {1P{Dat{1h{X~
+Keys hangs on a hook on the wall next to the torch that lights this path.
+It looks like this is the dungeon of the castle.  The north leads further on
+the path, to the east leads back to the dark hallway.  
+~
+0 8192 0
+D0
+~
+~
+0 0 39665
+D1
+~
+~
+0 0 39663
+S
+#39665
+{DJ{wailo{Dr's {1P{Dat{1h{X~
+The walls here are made of stone and mortar.  A door to the west can
+barely be seen.  The path leads north and south.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39667
+D2
+~
+~
+0 0 39664
+D3
+~
+~
+1 0 39666
+S
+#39666
+A Cell~
+A small cell with mud packed floors and nothing of comfort here.  A small
+figure hides in the corner as the light from outside this cell just about
+blinds him.  Its been a very long time since hes seen the light of day.  
+~
+0 8193 0
+D1
+~
+~
+1 0 39665
+S
+#39667
+{DJ{wailo{Dr's {1P{Dat{1h{X~
+A small wooden bench sits to the side.  The boards on the seat are just
+about rotted.  The path goes north and south.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39668
+D2
+~
+~
+0 0 39665
+S
+#39668
+{DJ{wailo{Dr's {1P{Dat{1h{X~
+Part of the morter bricks are crumbling off the walls.  A small peephole
+gives the only clue to a door to the west.  North and south the path
+continues.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39669
+D2
+~
+~
+0 0 39667
+D3
+~
+~
+1 0 39671
+S
+#39669
+{DJ{wailo{Dr's {1P{Dat{1h{X~
+Torches are lit on both sides of the path.  A table sits againest the
+wall with baked goods on it.  The path turns to the west and back to the
+south.  
+~
+0 8193 0
+D2
+~
+~
+0 0 39668
+D3
+~
+~
+0 0 39670
+S
+#39670
+The Guard's Break Room~
+In the guards break room sits a fluffy blue couch.  A pillow and blanket
+are laying beside it where a guard has obviously taken a nap.  The only exit
+is east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 39669
+S
+#39671
+A Cell~
+Its a small cramped cell with a straw mat for a bed.  A pitcher of water
+and a glass sits at the end of the mat.  The person kept here must be a real
+threat.  
+~
+0 8193 0
+D1
+~
+~
+1 0 39668
+S
+#39672
+A Stairwell~
+Almost to the top of the stairwell, the paintings on the walls become
+more visible.  They depict scenes of past wars that this kingdoms have
+endured.  
+~
+0 0 0
+D4
+~
+~
+0 0 39673
+D5
+~
+~
+0 0 39617
+S
+#39673
+A Stairwell~
+The top of the stairwell the golden carpet with wine fringe trim ends,
+but continues down the stairs.  Guards patrol the area to help keep the
+castle safe from all threats.  To the west is a hallway, or down onto the
+stairwell.  
+~
+0 0 0
+D3
+~
+~
+0 0 39674
+D5
+~
+~
+0 0 39672
+S
+#39674
+{1S{wecon{1d{X Floor {DHa{wl{Wl{ww{Day{X~
+This is the second floor hallway.  It is used mainly by servants and
+guards.  It is very plain compared to the hallway on the lower floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 39673
+D3
+~
+~
+0 0 39675
+S
+#39675
+A Split in The {DHa{wl{Wl{ww{Day{X~
+A split in the hallway leads into the southern hallway and the northern
+hallway.  The south the carpet turns a bright green and to the north the
+carpet is a royal blue.  The east lead back towards the stairwell.  
+~
+0 0 0
+D0
+~
+~
+0 0 39676
+D1
+~
+~
+0 0 39674
+D2
+~
+~
+0 0 39677
+S
+#39676
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+This area of the hallway is lined with bright blue carpet and plain grey
+walls.  A few worn chairs sit to the side for guards to rest while on
+breaks.  The south leads back into a split in the hallway, the north leads
+further down the northern hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39681
+D2
+~
+~
+0 0 39675
+S
+#39677
+{3S{2outher{3n{X {DHa{wl{Wl{ww{Day{X~
+On the bright green carpet sits a small table with battle orders that
+someone must have left behind.  
+~
+0 0 0
+D0
+~
+~
+0 0 39675
+D2
+~
+~
+0 0 39678
+S
+#39678
+{3S{2outher{3n{X {DHa{wl{Wl{ww{Day{X~
+Bright green carpet line the floor in this hallway.  The ceiling is lower
+here as small ferns hang from brass hooks of the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 39677
+D2
+~
+~
+0 0 39679
+S
+#39679
+{3S{2outher{3n{X {DHa{wl{Wl{ww{Day{X~
+The hallway end here.  A narrow yellow painted ladder hangs down from the
+ceiling leading up into the attic.  
+~
+0 0 0
+D0
+~
+~
+0 0 39678
+D4
+~
+~
+0 0 39680
+S
+#39680
+The Attic~
+Boxes of old books, weapons, and armor are piled high to ceiling in this
+cluttered attic.  This must be where they store all their junk.  The only
+way out is back down the ladder.  
+~
+0 0 0
+D5
+~
+~
+0 0 39679
+S
+#39681
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+The hallway walls of grey make the hall very dim.  Thankfully theres a
+small light hanging above that flickers giving some light.  
+~
+0 0 0
+D0
+~
+~
+0 0 39682
+D2
+~
+~
+0 0 39676
+S
+#39682
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+Again the hallway splits off into three directions.  To the west the hall
+seems brighter and more decorated.  To the east the same blue carpet and
+gray walls make it seem less attractive.  South leads back down the hallway.
+~
+0 0 0
+D1
+~
+~
+0 0 39684
+D2
+~
+~
+0 0 39681
+D3
+~
+~
+0 0 39683
+S
+#39683
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+The hall begins to brighten as the blue carpet seems brighter and the
+gray of the walls turns a shiny silver.  A table with red roses sits here
+with a wine colored suede chair.  
+~
+0 0 0
+D1
+~
+~
+0 0 39682
+D3
+~
+~
+0 0 39687
+S
+#39684
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+More blue carpet and gray walls.  The only thing different here is a
+potted flowery tree that sits off to the side.  The hallway run east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39685
+D3
+~
+~
+0 0 39682
+S
+#39685
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+The grayness of the walls runs into the carpet here.  They are the same
+color, making it almost hard to see that the hall turn to the north.  It
+also goes back to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 39686
+D3
+~
+~
+0 0 39684
+S
+#39686
+Secret Passage Room~
+The gray carpet and walls almost hide this room.  There is a narrow dim
+stairwell that leads up that has been hidden in the back of this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 39685
+D4
+~
+~
+0 0 39702
+S
+#39687
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+Painting of young women hang on the silver shiny walls.  They must be
+pictures of all the prior Queens and Princesses.  The hallway continues to
+the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39683
+D3
+~
+~
+0 0 39688
+S
+#39688
+{4N{Dorther{4n{X {DHa{wl{Wl{ww{Day{X~
+Brightness flows into the room from the north as the decor changes
+drastically.  The blue and silver-grey hallways ends here but flows back
+towards the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 39689
+D1
+~
+~
+0 0 39687
+S
+#39689
+{2T{@h{2e{X {!R{#o{!y{#a{!l{X {DHa{wl{Wl{ww{Day{X~
+The Royal Hallway is decorated in brightly colored flowers and wallpaper.
+Obviously a woman has decorated this part of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 39690
+D2
+~
+~
+0 0 39688
+S
+#39690
+{2T{@h{2e{X {!R{#o{!y{#a{!l{X {DHa{wl{Wl{ww{Day{X~
+Flowery carpet, flowery wallpaper, foofooie pink and purple lamps on
+white wicker tables make this room way to prissy for a man to stay in long. 
+~
+0 0 0
+D0
+~
+~
+0 0 39691
+D2
+~
+~
+0 0 39689
+S
+#39691
+{2T{@h{2e{X {!R{#o{!y{#a{!l{X {DHa{wl{Wl{ww{Day{X~
+A circular shag red couch sits here in the corner of the room.  One on
+the Queens personal guards is here looking quite fashionable in his new red
+and blue uniform with huge gold buttons and a triangluar hat with a feather
+in it.  
+~
+0 0 0
+D0
+~
+~
+1 0 39692
+D2
+~
+~
+0 0 39690
+S
+#39692
+Common Area~
+The softness in this room makes it seem comfy and cozy.  Pale pink and
+peach drapes match the chairs that sit here.  A small opening in the drapes
+is being hid by the Queens guard to the east.  
+~
+0 0 0
+D2
+~
+~
+1 0 39691
+D3
+~
+~
+1 0 39693
+S
+#39693
+{2T{@h{2e{X {!R{#o{!y{#a{!l{X {!C{1h{#a{3m{#b{1e{!r{#s{X~
+The Queen sits upon a large golden throne thats is cushioned with pink
+pillows.  She sits writing in her journal and making plans for new decor
+throughout the castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 39692
+S
+#39694
+{2T{@h{@e{X {!R{#o{!y{#a{!l{X {!S{1t{#ai{3rw{#e{1l{!l{X~
+Wine colored carpet with gold fringe trim run up this royal stairwell.  A
+crystal chandeler hangs above to light the staircase.  
+~
+0 0 0
+D4
+~
+~
+0 0 39695
+D5
+~
+~
+0 0 39620
+S
+#39695
+{2T{@h{@e{X {!R{#o{!y{#a{!l{X {!S{1t{#ai{3rw{#e{1l{!l{X~
+Wine colored carpet with gold fringe trim run up this royal stairwell. 
+The stairs run upward and downward.  
+~
+0 0 0
+D4
+~
+~
+0 0 39696
+D5
+~
+~
+0 0 39694
+S
+#39696
+{2T{@h{@e{X {!R{#o{!y{#a{!l{X {!S{1t{#ai{3rw{#e{1l{!l{X~
+A picture of the current king hang on the gold panelled wall.  The wine
+colored carpet with gold fringe trim goes up and down the stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 39697
+D5
+~
+~
+0 0 39695
+S
+#39697
+{2T{@h{@e{X {!R{#o{!y{#a{!l{X {!S{1t{#ai{3rw{#e{1l{!l{X~
+The top of this royal stairwell can now be seen and is only a few more
+steps away.  The sound of rustling feet can be heard from the top of the
+stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 39698
+D5
+~
+~
+0 0 39696
+S
+#39698
+{2T{@h{@e{X {!R{#o{!y{#a{!l{X {!S{1t{#ai{3rw{#e{1l{!l{X~
+A servant stands here at the top of this stairwell to make sure everyones
+shoes are off before entering into the Grand Audience Chamber.  Exits are
+back down the stairwell or north into the Grand Audience Chamber.  
+~
+0 0 0
+D0
+~
+~
+0 0 39699
+D5
+~
+~
+0 0 39697
+S
+#39699
+Before a {#G{3ran{#d{X {#A{2ud{@ie{2nc{#e{X {DCh{wa{Wm{wb{Der{X~
+Long wine and gold colored suede curtains hang down blocking sight into
+the Chamber.  The ceiling is now a pearl dome.  The faint smell of wood
+burning can be smelt here.  
+~
+0 0 0
+D0
+~
+~
+0 0 39700
+D2
+~
+~
+0 0 39698
+S
+#39700
+{wA {#G{3ran{#d{X {#A{2ud{@ie{2nc{#e{X {DCh{wa{Wm{wb{Der{X~
+The great King Hyphus sits here upon his Golden seat.  There is something
+mystical about the fire in the corner.  The fire looks almost translucent,
+like its able to be walked through.  
+~
+0 0 0
+D2
+~
+~
+0 0 39699
+S
+#39701
+Secret Portal Room~
+Through the fire a secret portal room is revealed.  There are no exits
+here.  Stay here and hide or recall.  
+~
+0 4 0
+S
+#39702
+{1T{whir{1d{X {DF{wl{Wo{wo{Dr{X {DSt{wai{Wrw{we{Dll{X~
+The stairwell is dark and hard to navigate.  A very small lantern is the
+only light to light the whole flight of stairs.  
+~
+0 0 0
+D4
+~
+~
+0 0 39703
+D5
+~
+~
+0 0 39686
+S
+#39703
+{1T{whir{1d{X {DF{wl{Wo{wo{Dr{X {DSt{wai{Wrw{we{Dll{X~
+Darkness is all around as the small lantern hanging above starts to
+flicker on and off.  The stairs are made of stone and a becoming slick as if
+freshly waxed.  
+~
+0 0 0
+D4
+~
+~
+0 0 39704
+D5
+~
+~
+0 0 39702
+S
+#39704
+{1T{whir{1d{X {DF{wl{Wo{wo{Dr{X {DSt{wai{Wrw{we{Dll{X~
+This is the top of the stairwell to the third floor.  The stairwell
+downward is dim and slick.  To the north is the the third floor of the
+castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 39705
+D5
+~
+~
+0 0 39703
+S
+#39705
+{DT{wh{De{X {1T{whir{1d{X {DF{wl{Wo{wo{Dr{X~
+The third floor seems to be very small.  The walls are made of stone as
+is the floors here.  South leads to a stairwell.  North into another
+hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39712
+D2
+~
+~
+0 0 39704
+S
+#39706
+{DA {6D{wimml{6y{X {DL{3i{Dt {DHa{wl{Wl{ww{Day{X~
+A small lantern sits on a worn out wooden table.  It barely gives off
+enough light to see where your going.  The hallway leads north and south.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39707
+D2
+~
+~
+0 0 39659
+S
+#39707
+{DA {6D{wimml{6y{X {DL{3i{Dt {DHa{wl{Wl{ww{Day{X~
+A torch flickers on the wall here giving off enough light to make out a
+painted portrait of the King on the wall.  The hallway continues north and
+south.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39709
+D2
+~
+~
+0 0 39706
+S
+#39708
+{DA {6D{wimml{6y{X {DL{3i{Dt {DHa{wl{Wl{ww{Day{X~
+A torch lights this part of the hallway.  It looks like this is the end
+of the hallway...  Or is it?  The torch give enough light to notice there is
+a hatch that goes down.  The hallway is to the south.  
+~
+0 8193 0
+D2
+~
+~
+0 0 39709
+D5
+~
+~
+1 0 39710
+S
+#39709
+{DA {6D{wimml{6y{X {DL{3i{Dt {DHa{wl{Wl{ww{Day{X~
+A table sits along the wall with lit candles upon it.  The dimness of the
+hallway makes your eyes hurt.  North and south the hallway continues.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39708
+D2
+~
+~
+0 0 39707
+S
+#39710
+{!C{1h{Da{1m{!b{De{1r{X of {1H{!orro{1r{X~
+Blood drips off the walls and puddles in the mud floors.  Torture devices
+hang from blood stained hooks on the wall.  
+~
+0 8193 0
+D0
+~
+~
+0 0 39711
+D4
+~
+~
+1 39620 39708
+S
+#39711
+{!C{1h{Da{1m{!b{De{1r{X of {1H{!orro{1r{X~
+Every torture device imaginable is in this room.  A massive beast drinks
+blood from a gauntlet.  He looks as if he could eat an ogre in one bite.  
+~
+0 8193 0
+D2
+~
+~
+0 0 39710
+S
+#39712
+{DA {DHa{wl{Wl{ww{Day{X~
+The hallway is made of all stone.  There are no lavish decorations in
+sight.  The hallway expands to the north.  To the south a stairwell can be
+seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 39714
+D2
+~
+~
+0 0 39705
+D3
+~
+~
+1 0 39713
+S
+#39713
+The Library~
+The walls are lined with bookcases and cabinets full of weapons.  A small
+couch is here to sit on while you study up on all these different types of
+weapons.  
+~
+0 0 0
+D1
+~
+~
+1 0 39712
+S
+#39714
+{DA {DHa{wl{Wl{ww{Day{X~
+The stone on the walls and floors here have been freshly cleaned and
+polished.  The fresh smell of lemon still lingers in this room.  The hall
+runs to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39716
+D1
+~
+~
+1 0 39715
+D2
+~
+~
+0 0 39712
+S
+#39715
+A {^S{Dittin{^g {DR{wo{Wo{wm{X~
+Plush benches line the walls of this room.  A large table sit in the
+middle with a variety of baked goods on it.  
+~
+0 0 0
+D3
+~
+~
+1 0 39714
+S
+#39716
+{DA {DHa{wl{Wl{ww{Day{X~
+This is the end of this stone hallway.  A bright stairwell leads
+downward, while the hallway goes to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 39714
+D5
+~
+~
+0 0 39717
+S
+#39717
+{DT{wh{De{X {^B{Dac{^k{X {DSt{wa{Wi{wrw{Dell{X~
+Wide stairs lead downward towards the back of the castle.  A huge stained
+glass window allows sunlight to shine through casting many colors all
+around.  
+~
+0 0 0
+D4
+~
+~
+0 0 39716
+D5
+~
+~
+0 0 39718
+S
+#39718
+{DT{wh{De{X {^B{Dac{^k{X {DSt{wa{Wi{wrw{Dell{X~
+The reflecting beams of light from the stained glass window are almost
+blinding.  The handrail here helps the climb up and down the stairs.  
+~
+0 0 0
+D4
+~
+~
+0 0 39717
+D5
+~
+~
+0 0 39719
+S
+#39719
+{DT{wh{De{X {^B{Dac{^k{X {DSt{wa{Wi{wrw{Dell{X~
+The stairwell needs no decoration.  The stain glass window runs from the
+bottom to the top of castle wall.  Making it all the decor it needs.  The
+stairs continue up and down.  
+~
+0 0 0
+D4
+~
+~
+0 0 39718
+D5
+~
+~
+0 0 39720
+S
+#39720
+{DT{wh{De{X {^B{Dac{^k{X {DSt{wa{Wi{wrw{Dell{X~
+The bottom of the stairwell is now in sight.  The wide stairs are now
+lined with an old worn rug.  
+~
+0 0 0
+D4
+~
+~
+0 0 39719
+D5
+~
+~
+0 0 39721
+S
+#39721
+{DT{wh{De{X {^B{Dac{^k{X {DSt{wa{Wi{wrw{Dell{X~
+At the bottom of the stairs turns to the north where a set of double
+doors are.  The doors lead into the backyard of the castle.  Up leads back
+into the stairwell.  
+~
+0 4 0
+D0
+~
+~
+0 0 39722
+D4
+~
+~
+0 0 39720
+S
+#39722
+{DEn{wtr{Wan{wc{De{X to the Back {@Y{2ar{@d{X~
+Outside a huge grassy green yard lays to the north.  Many things seem to
+be going on out here.  The south leads back inside the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 39723
+D2
+~
+~
+0 0 39721
+S
+#39723
+{^T{Dh{^e {^B{Dac{^k{X {^W{Dal{Wk{Dwa{^y{X~
+The walkway is lined with perfectly trimmed hedges.  The walkway is made
+of concret with small colorful pebbles in it.  
+~
+0 0 0
+D0
+~
+~
+0 0 39724
+D2
+~
+~
+0 0 39722
+D3
+~
+~
+0 0 39728
+S
+#39724
+{^T{Dh{^e {^B{Dac{^k{X {^W{Dal{Wk{Dwa{^y{X~
+In between the finely trimmed hedges rose bushes bloom in the bright
+sunlight.  A fountain can be seen to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 39725
+D2
+~
+~
+0 0 39723
+D3
+~
+~
+0 0 39729
+S
+#39725
+{^T{Dh{^e {^B{Dac{^k{X {^W{Dal{Wk{Dwa{^y{X~
+A fountain stands in the middle of this part of the walkway.  Rainbow
+colored water flows out of the fountain.  The walkway lead north and south. 
+Training grounds of the Sky Kingdoms' warriors lies to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 39726
+D2
+~
+~
+0 0 39724
+D3
+~
+~
+0 0 39730
+S
+#39726
+{^T{Dh{^e {^B{Dac{^k{X {^W{Dal{Wk{Dwa{^y{X~
+There are fewer hedges and flowers here.  The flowers here look as if
+theyve been trampled on.  The walkway leads onward to the north and south. 
+More training grounds lead to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 39727
+D2
+~
+~
+0 0 39725
+D3
+~
+~
+0 0 39731
+S
+#39727
+{^T{Dh{^e {^B{Dac{^k{X {^W{Dal{Wk{Dwa{^y{X~
+This is the end of the back walkway.  Stairs lead down to a cobblestone
+road.  To the south the walkway goes back towards the castle.  
+~
+0 4 0
+D2
+~
+~
+0 0 39726
+D5
+~
+~
+0 0 39732
+S
+#39728
+Training Grounds~
+On the plush green grass knights are here to get their training before
+going into battle.  East goes back to the walkway.  North into the training
+grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 39729
+D1
+~
+~
+0 0 39723
+S
+#39729
+Training Grounds~
+Training dummies hang from a platform here for the knights to train with.
+Knights move throughout the grounds getting their needed skills for battle. 
+~
+0 0 0
+D0
+~
+~
+0 0 39730
+D1
+~
+~
+0 0 39724
+D2
+~
+~
+0 0 39728
+S
+#39730
+Training Grounds~
+Retired knights full with wisdom from many battles give lessons in
+knighthood here.  North and south are training ground.  East leads to the
+back walkway.  
+~
+0 0 0
+D0
+~
+~
+0 0 39731
+D1
+~
+~
+0 0 39725
+D2
+~
+~
+0 0 39729
+S
+#39731
+Training Grounds~
+Knights dual each other with wooden swords.  It looks like they have a
+small tourney going on to see whos the best.  
+~
+0 0 0
+D1
+~
+~
+0 0 39726
+D2
+~
+~
+0 0 39730
+S
+#39732
+A {yc{Do{yb{Db{yl{De{ys{Dt{yo{Dn{ye{x road~
+This cobblestone road is very old and worn.  Many warriors have traveled
+on this path as well as many of the citizens of the sky kingdom.  Stairs
+lead down further down the cobblestone road.  Going up the stairs is the way
+to the back walkway to the castle/ 
+~
+0 0 0
+D4
+~
+~
+0 0 39727
+D5
+~
+~
+0 0 39733
+S
+#39733
+A {yc{Do{yb{Db{yl{De{ys{Dt{yo{Dn{ye{x road~
+The yellowish grey road is stained with blood mixed with dirt.  Many
+fights have taken place here and many more to come.  To the north the road
+continues, up the stairs lies the back walkway.  
+~
+0 0 0
+D4
+~
+~
+0 0 39732
+D5
+~
+~
+0 0 39734
+S
+#39734
+A {yc{Do{yb{Db{yl{De{ys{Dt{yo{Dn{ye{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and up.
+~
+0 0 4
+D0
+~
+~
+0 0 39735
+D4
+~
+~
+0 0 39733
+S
+#39735
+A {yc{Do{yb{Db{yl{De{ys{Dt{yo{Dn{ye{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39736
+D2
+~
+~
+0 0 39734
+S
+#39736
+A {yc{Do{yb{Db{yl{De{ys{Dt{yo{Dn{ye{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39737
+D2
+~
+~
+0 0 39735
+S
+#39737
+A {yc{Do{yb{yb{Dl{ye{Ds{yt{Do{yn{De{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39738
+D2
+~
+~
+0 0 39736
+S
+#39738
+A {yc{Do{yb{yb{Dl{ye{Ds{yt{Do{yn{De{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39739
+D2
+~
+~
+0 0 39737
+S
+#39739
+A {yc{Do{yb{yb{Dl{ye{Ds{yt{Do{yn{De{x road~
+Traveling along a well made cobblestone road, rolling plains
+and kills can be seen on both sides of the road. The cobblestone
+is a dull looking yellow and grayish mix, giving it the appearance
+of being very well worn. The road continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39740
+D2
+~
+~
+0 0 39738
+S
+#39740
+A Crossroads~
+This is a large crossroad that intersects a three-way intersection in
+the road. A large tower can be seen in the far distance to the north, but
+seems to have an evil vibe being thrown off of it in all directions. There
+are more rolling hills and plains to the north, while the west path seems
+to favor a dark, haunting, and forbidding forest. The very sky to the west
+seems to have darkened several shades for what it ought to be for this time
+of day. A large fountain sits in the center of the square, flanked on the
+right side by a large granite bench.
+~
+0 0 4
+D0
+~
+~
+0 0 39741
+D2
+~
+~
+0 0 39739
+D3
+~
+~
+0 0 39773
+S
+#39741
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 4 4
+D0
+~
+~
+0 0 39742
+D2
+~
+~
+0 0 39740
+S
+#39742
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39743
+D1
+~
+~
+0 0 39867
+D2
+~
+~
+0 0 39741
+S
+#39743
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39744
+D2
+~
+~
+0 0 39742
+S
+#39744
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39745
+D2
+~
+~
+0 0 39743
+S
+#39745
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39746
+D2
+~
+~
+0 0 39744
+S
+#39746
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39747
+D2
+~
+~
+0 0 39745
+S
+#39747
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39748
+D2
+~
+~
+0 0 39746
+S
+#39748
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39749
+D2
+~
+~
+0 0 39747
+S
+#39749
+A painted {Ds{wi{Wlv{we{Dr{x road~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39750
+D2
+~
+~
+0 0 39748
+S
+#39750
+Before A Small Tower~
+Traveling along a well painted silver road, rolling plains
+and hills can be seen on both sides of the road. The silvery
+tiles that make up this unusual looking road seem to be made
+of a brightly polished titanium. The road continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 39751
+D2
+~
+~
+0 0 39749
+S
+#39751
+At the {DGrey{x Gate~
+Standing before an enormous grey gate, there are adjoining walls that
+intersect the gate on both sides, forming a shield wall of sorts. The
+gate appears to be open, with a guard on either side of it. The only 
+exits are north and south
+~
+0 0 0
+D0
+~
+~
+1 0 39752
+D2
+~
+~
+0 0 39750
+S
+#39752
+Inside The Keep of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39753
+D2
+~
+~
+1 0 39751
+S
+#39753
+Foyer of {RC{rar{Rn{rag{Re{x~
+This is the foyer that marks the entrance to one of the most infamous
+towers in all the land. There have been stories told for generations about
+this place; the torture, the deaths, the conjuring of strange and powerful
+demons. A large crystal chandelier hands from the center of the ceiling
+above. There are exits in all directions.
+~
+0 0 0
+D0
+~
+~
+0 0 39756
+D1
+~
+~
+0 0 39754
+D2
+~
+~
+0 0 39752
+D3
+~
+~
+0 0 39833
+D4
+~
+~
+0 0 39766
+S
+#39754
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39755
+D3
+~
+~
+0 0 39753
+S
+#39755
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39757
+D3
+~
+~
+0 0 39754
+S
+#39756
+Dead Man's Path~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39762
+D2
+~
+~
+0 0 39753
+S
+#39757
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39758
+D3
+~
+~
+0 0 39755
+S
+#39758
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39759
+D2
+~
+~
+0 0 39757
+S
+#39759
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39760
+D2
+~
+~
+0 0 39758
+S
+#39760
+Path of {RC{rar{Rn{rag{Re{x~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+1 0 39761
+D2
+~
+~
+0 0 39759
+S
+#39761
+The {RCa{rr{Rn{ra{Rge{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D2
+~
+~
+1 0 39760
+S
+#39762
+Dead Man's Path~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39763
+D2
+~
+~
+0 0 39756
+S
+#39763
+Dead Man's Path~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39764
+D2
+~
+~
+0 0 39762
+S
+#39764
+Dead Man's Path~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D2
+~
+~
+0 0 39763
+D3
+~
+~
+0 0 39765
+S
+#39765
+The {RCa{rr{Rn{ra{Rge{X {DW{wa{Dr{x Room~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39764
+S
+#39766
+The {RCa{rr{Rn{ra{Rge{X {DT{wo{Ww{De{wr{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39767
+D5
+~
+~
+0 0 39753
+S
+#39767
+The {RCa{rr{Rn{ra{Rge{X {DT{wo{Ww{De{wr{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39768
+D5
+~
+~
+0 0 39766
+S
+#39768
+The {RCa{rr{Rn{ra{Rge{X {DT{wo{Ww{De{wr{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39769
+D5
+~
+~
+0 0 39767
+S
+#39769
+The {RCa{rr{Rn{ra{Rge{X {DT{wo{Ww{De{wr{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39770
+D5
+~
+~
+0 0 39768
+S
+#39770
+The {RCa{rr{Rn{ra{Rge{X {DT{wo{Ww{De{wr{X~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+0 0 39771
+D5
+~
+~
+0 0 39769
+S
+#39771
+Before The {RC{rar{Rn{rag{Re{x Room~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+1 0 39772
+D2
+~
+~
+0 0 39770
+S
+#39772
+The Path of Carnage~
+Traveling down the way of the Path, strange vibes travel all around
+you, the cold touching deep down to the bone. The walls are made up of
+a shimmering blue material, with an erie glow emanating from it. 
+~
+0 0 0
+D0
+~
+~
+0 0 39897
+D2
+~
+~
+1 0 39771
+S
+#39773
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 4 4
+D1
+~
+~
+0 0 39740
+D3
+~
+~
+0 0 39774
+S
+#39774
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 0 4
+D1
+~
+~
+0 0 39773
+D3
+~
+~
+0 0 39775
+S
+#39775
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 0 4
+D1
+~
+~
+0 0 39774
+D2
+~
+~
+0 0 39840
+D3
+~
+~
+0 0 39776
+S
+#39776
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 0 4
+D0
+~
+~
+0 0 39777
+D1
+~
+~
+0 0 39775
+D3
+~
+~
+0 0 39778
+S
+#39777
+Into The {GForest{X~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39780
+D2
+~
+~
+0 0 39776
+S
+#39778
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 0 4
+D1
+~
+~
+0 0 39776
+D3
+~
+~
+0 0 39779
+S
+#39779
+The Western Way~
+This is the western way path, a path that has grown in both
+myths and legend over the course of the last few hundred years or
+so. These parts are rumored to be haunted by all sorts of evil things
+out of nightmares. The forest presses in close around on both sides
+of the road, giving it a gloominess that adds to the atmosphere.
+~
+0 0 4
+D1
+~
+~
+0 0 39778
+D2
+~
+~
+0 0 39791
+S
+#39780
+Into The {GForest{X~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39781
+D1
+~
+~
+0 0 39821
+D2
+~
+~
+0 0 39777
+S
+#39781
+Into The {GForest{X~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39788
+D2
+~
+~
+0 0 39780
+D3
+~
+~
+0 0 39782
+S
+#39782
+The {gForest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 0
+D1
+~
+~
+0 0 39781
+D3
+~
+~
+0 0 39783
+S
+#39783
+The {gForest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39784
+D1
+~
+~
+0 0 39782
+S
+#39784
+The {gForest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39787
+D1
+~
+~
+0 0 39785
+D2
+~
+~
+0 0 39783
+S
+#39785
+The {gForest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D2
+~
+~
+0 0 39786
+D3
+~
+~
+0 0 39784
+S
+#39786
+The {gForest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39785
+S
+#39787
+The Outside Path~
+The hedges beside the path here are shaped into wild animals.  A lion
+looks as if he could pounce at any moment.  The forest is to the north and
+south.  The path leads to the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 39856
+D2
+~
+~
+0 0 39784
+D3
+~
+~
+0 0 39792
+S
+#39788
+The Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39789
+D2
+~
+~
+0 0 39781
+S
+#39789
+The Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39846
+D1
+~
+~
+0 0 39790
+D2
+~
+~
+0 0 39788
+S
+#39790
+A Dead End~
+~
+0 0 3
+D3
+~
+~
+0 0 39789
+S
+#39791
+Town Path~
+This is the main road into what looks to be an ancient town. There
+are still a lot of people about, giving the impression that it is very
+well used, and still fully functional, despite how old it looks. There
+are people bustling all about on the road, selling and buying wares. The
+road itself is made up of a smooth polished black stone, that might be
+obsidian. The road continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 39779
+D2
+~
+~
+0 0 39812
+D3
+~
+~
+0 0 39816
+S
+#39792
+The Outside Path~
+A marble bench sits on the side of the path for weary traveler to rest
+for a bit.  The path continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39787
+D3
+~
+~
+0 0 39793
+S
+#39793
+The Outside Path~
+The path seems to go on forever.  There are flower boxes lining the
+pathway that are empty.  The path comtinues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39792
+D3
+~
+~
+0 0 39794
+S
+#39794
+The Outside Path~
+A small statue sits in between two red rose bunches.  A tribute to the
+past King whom was killed in an ambush attack during the first war of the
+sky kingdom.  The path goes west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 39793
+D3
+~
+~
+0 0 39795
+S
+#39795
+The Outside Path~
+A cross bearing the names of all the past royality stands tall here in
+their honor.  Flowers have been thrown on the ground at the base of the
+cross.  The path leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39794
+D3
+~
+~
+0 0 39796
+S
+#39796
+The Outside Path~
+A fountain surrounded by sunflowers sits in the middle of the path. 
+Seeds from the flowers are scattered all around.  The path turns south, and
+heads back to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 39795
+D2
+~
+~
+0 0 39797
+S
+#39797
+The Outside Path~
+Designs have been etched into the stones in the pathway.  Pictures
+depicting battles and wars can be seen beneath your feet.  The path leads
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39796
+D2
+~
+~
+0 0 39798
+S
+#39798
+The Outside Path~
+Thick moss grows on the boulders that line the pathway.  The ground is
+very wet and soggy as a underground spring has busted to the surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 39797
+D2
+~
+~
+0 0 39799
+S
+#39799
+The Outside Path~
+A warrior lies in the plush green grass taking a nap.  He has his boots
+off and his coat jacket covers his face.  The path leads onward to the north
+and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39798
+D2
+~
+~
+0 0 39800
+S
+#39800
+The Outside Path~
+Branches from a weeping willow tree hangs over the path.  Its small white
+flowers cover the pathway.  The path leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39799
+D2
+~
+~
+0 0 39801
+S
+#39801
+The Outside Path~
+The stones in the path are broken and chipped on the edges.  Grass and
+weeds grow in the cracks.  North and south the path leads on.  
+~
+0 0 0
+D0
+~
+~
+0 0 39800
+D2
+~
+~
+0 0 39802
+S
+#39802
+The Outside Path~
+A rope swing hangs down from the top of a huge oak tree.  Wooden toy
+swords lie around the tree.  Children must have been here recently
+pretending to be warriors.  North and south the path continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 39801
+D2
+~
+~
+0 0 39803
+S
+#39803
+The Outside Path~
+Under an apple tree deer eat on the apples that have fallen off the tree.
+A baby deer stands at the edge of the path chewing on dandelions.  The path
+leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39802
+D2
+~
+~
+0 0 39804
+S
+#39804
+The Outside Path~
+A little pond full of rainbow colored fish is to the side of the path. 
+On a bench, a centaur fishes trying to catch some lunch.  The path goes
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 39803
+D2
+~
+~
+0 0 39805
+S
+#39805
+The Outside Path~
+Huge venus fly traps snap at the air.  One just caught an eagle.  The
+path seems to turn to the north here.  As well as goes back east.  
+~
+0 0 0
+D0
+~
+~
+0 0 39804
+D1
+~
+~
+0 0 39806
+S
+#39806
+The Outside Path~
+This long path outside the Sky Kingdom seems to go on forever.  Small
+creatures scurry about the the side of the path.  The path still continues
+east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39807
+D3
+~
+~
+0 0 39805
+S
+#39807
+The Outside Path~
+Bricks make a chest high wall here blocking small creatures from entering
+the path.  Sounds of the forest can be heard coming from the other side of
+the wall.  East and west the path goes.  
+~
+0 0 0
+D1
+~
+~
+0 0 39811
+D3
+~
+~
+0 0 39806
+S
+#39808
+The Outside Path~
+The path is made of stone with small pebbles enbedded in them.  Flowers
+blooms all around.  The fragrance is sweet and enjoyable.  The path leads
+east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39600
+D3
+~
+~
+0 0 39809
+S
+#39809
+The Outside Path~
+The path is lined with rose bushes of every color.  Some of the stones in
+the pathway are cracked and broken.  The path leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39808
+D3
+~
+~
+0 0 39810
+S
+#39810
+The Outside Path~
+Various greenery lines this part of the path.  Small forest creatures can
+be seen peeking out of the greenery.  The path leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39809
+D3
+~
+~
+0 0 39811
+S
+#39811
+The Outside Path~
+Small boulders line flower beds with gnome statue in the middle of them. 
+Pink flamingos sit in between each flower bed.  The path comtinues east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 39810
+D3
+~
+~
+0 0 39807
+S
+#39812
+Town Path~
+This is the main road into what looks to be an ancient town. There
+are still a lot of people about, giving the impression that it is very
+well used, and still fully functional, despite how old it looks. There
+are people bustling all about on the road, selling and buying wares. The
+road itself is made up of a smooth polished black stone, that might be
+obsidian. The road continues north and south, with a small shop to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 39791
+D1
+~
+~
+0 0 39817
+D2
+~
+~
+0 0 39813
+S
+#39813
+Town Path~
+This is the main road into what looks to be an ancient town. There
+are still a lot of people about, giving the impression that it is very
+well used, and still fully functional, despite how old it looks. There
+are people bustling all about on the road, selling and buying wares. The
+road itself is made up of a smooth polished black stone, that might be
+obsidian. The road continues north and south, with a small shop to the west.
+~
+0 0 1
+D0
+~
+~
+0 0 39812
+D2
+~
+~
+0 0 39814
+D3
+~
+~
+0 0 39818
+S
+#39814
+Town Path~
+This is the main road into what looks to be an ancient town. There
+are still a lot of people about, giving the impression that it is very
+well used, and still fully functional, despite how old it looks. There
+are people bustling all about on the road, selling and buying wares. The
+road itself is made up of a smooth polished black stone, that might be
+obsidian. The road continues north and south, with a small house to the
+east.
+~
+0 0 1
+D0
+~
+~
+0 0 39813
+D1
+~
+~
+0 0 39819
+D2
+~
+~
+0 0 39815
+S
+#39815
+Town Path~
+This is the main road into what looks to be an ancient town. There
+are still a lot of people about, giving the impression that it is very
+well used, and still fully functional, despite how old it looks. There
+are people bustling all about on the road, selling and buying wares. The
+road itself is made up of a smooth polished black stone, that might be
+obsidian. The road continues north and south, with a small house to the
+west.
+~
+0 0 1
+D0
+~
+~
+0 0 39814
+D3
+~
+~
+0 0 39820
+S
+#39816
+A large dwelling~
+This appears to be a large dwelling that has been in use very
+recently. There is a bed against the far wall, with a small wooden
+stand next to it. There is a large dresser on the west wall, along
+with a small wet bar flanking it.
+~
+0 0 0
+D1
+~
+~
+0 0 39791
+S
+#39817
+An Ancient Potion Shop~
+This ancient potion shop seems to have it all. There are so many
+shelves on the walls, with little glass bottles sitting on them,
+that it's surprising the walls do not fall down. There are also a 
+pair of matching wooden cabinets that have the doors swung all the
+way open, revealing a storehouse of different colored potions. A 
+large man is standing at the end of the room, admiring his latest
+creations.
+~
+0 0 0
+D3
+~
+~
+0 0 39812
+S
+#39818
+An Old Jeweler's Shop~
+This shop appears to be very well stocked. There are three glass
+cases that work a horseshoe, and there is a stout looking man in the
+center of that horseshoe. He has a small eye piece that is located on
+his right eye, and he appears to be peering down at a shining rock that
+is sitting upon one of the glass cases. There are several other types of
+jewelry located within the cases, all with price tags hanging off of them.
+~
+0 0 0
+D1
+~
+~
+0 0 39813
+S
+#39819
+A large dwelling~
+This appears to be an abandoned home of some kind, long since
+forgotten. There are no furnishings in the room of any kind, nor
+any type of decor. The only exit is west.
+~
+0 0 0
+D3
+~
+~
+0 0 39814
+S
+#39820
+An Abandoned Home~
+This appears to be an abandoned home of some kind, long since
+forgotten. There are no furnishings in the room of any kind, nor
+any type of decor. The only exit is east.
+~
+0 0 0
+D1
+~
+~
+0 0 39815
+S
+#39821
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39822
+D3
+~
+~
+0 0 39780
+S
+#39822
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39823
+D3
+~
+~
+0 0 39821
+S
+#39823
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39824
+D2
+~
+~
+0 0 39822
+S
+#39824
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39825
+D2
+~
+~
+0 0 39823
+S
+#39825
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39826
+D2
+~
+~
+0 0 39824
+S
+#39826
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39827
+D3
+~
+~
+0 0 39825
+S
+#39827
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39828
+D1
+~
+~
+0 0 39830
+D3
+~
+~
+0 0 39826
+S
+#39828
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39829
+D1
+~
+~
+0 0 39831
+D2
+~
+~
+0 0 39827
+S
+#39829
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 0
+D2
+~
+~
+0 0 39828
+S
+#39830
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D3
+~
+~
+0 0 39827
+S
+#39831
+The Fringe Forest~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39832
+D3
+~
+~
+0 0 39828
+S
+#39832
+The Fringe Forest~
+~
+0 0 3
+D2
+~
+~
+0 0 39831
+S
+#39833
+{RC{ra{Rr{rn{Ra{rg{Re{x Way~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39753
+D3
+~
+~
+0 0 39834
+S
+#39834
+{RC{ra{Rr{rn{Ra{rg{Re{x Way~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39833
+D3
+~
+~
+0 0 39835
+S
+#39835
+{RC{ra{Rr{rn{Ra{rg{Re{x Way~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D1
+~
+~
+0 0 39834
+D4
+~
+~
+0 0 39836
+S
+#39836
+The Lower Tower~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39837
+D5
+~
+~
+0 0 39835
+S
+#39837
+The Lower Tower~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D4
+~
+~
+0 0 39838
+D5
+~
+~
+0 0 39836
+S
+#39838
+The Lower Tower~
+The keep of carnage emits a certain level of hatred that only the most
+stout of evil beings can tolerate. A light source appears to be comming
+from the top of the room, although no apparent source can be seen. The
+walls are made up of a red looking material, perhaps with ruby studs here
+and there.
+~
+0 0 0
+D0
+~
+~
+1 0 39839
+D5
+~
+~
+0 0 39837
+S
+#39839
+The Negotiator's room~
+This room seems to be dark all around. The walls are shimmering slightly with
+an eerie blue-grey color that seems to be giving off light from an unknown source.
+The walls are bare otherwise, and the rest of the room is almost impossible to see.
+The only exit is south.
+~
+0 1024 0
+D2
+~
+~
+1 0 39838
+S
+#39840
+Into The Ghost Town~
+Walking along this dusty road, a chill runs throughout the entire
+area, seemingly dropping the outside temp to almost freezing. The road
+appears to be ancient, and rarely used, at least by those with feet.
+The road continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 39775
+D2
+~
+~
+0 0 39841
+S
+#39841
+The Ghost Town~
+Walking along this dusty road, a chill runs throughout the entire
+area, seemingly dropping the outside temp to almost freezing. The road
+appears to be ancient, and rarely used, at least by those with feet.
+The road continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 39840
+D2
+~
+~
+0 0 39842
+S
+#39842
+The Ghost Town~
+Walking along this dusty road, a chill runs throughout the entire
+area, seemingly dropping the outside temp to almost freezing. The road
+appears to be ancient, and rarely used, at least by those with feet.
+The road continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 39841
+D2
+~
+~
+0 0 39843
+S
+#39843
+The Ghost Town~
+Walking along this dusty road, a chill runs throughout the entire
+area, seemingly dropping the outside temp to almost freezing. The road
+appears to be ancient, and rarely used, at least by those with feet.
+the road goes north, with small buildings to both the east and to the
+west.
+~
+0 0 1
+D0
+~
+~
+0 0 39842
+D1
+~
+~
+0 0 39844
+D3
+~
+~
+0 0 39845
+S
+#39844
+The Ghost Town~
+This appears to be an abandoned building that has not seen any use
+for a very long time. There are cobwebs hanging all along the ceiling
+and the walls, with dust covering the floor so perfectly it seems that
+nobody has walked in here for a very long time. The walls are painted
+a black color, with a few splatters or red here and there in a substance
+that looks to be blood. The only exit is west.
+~
+0 0 0
+D3
+~
+~
+0 0 39843
+S
+#39845
+The Ghost Town~
+This appears to be an abandoned building that has not seen any use
+for a very long time. There are cobwebs hanging all along the ceiling
+and the walls, with dust covering the floor so perfectly it seems that
+nobody has walked in here for a very long time. The walls are painted
+a black color, with a few splatters or red here and there in a substance
+that looks to be blood. The only exit is west.
+~
+0 0 0
+D1
+~
+~
+0 0 39843
+S
+#39846
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39847
+D2
+~
+~
+0 0 39789
+S
+#39847
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39851
+D1
+~
+~
+0 0 39848
+D2
+~
+~
+0 0 39846
+S
+#39848
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39849
+D3
+~
+~
+0 0 39847
+S
+#39849
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39850
+D3
+~
+~
+0 0 39848
+S
+#39850
+End of The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D2
+~
+~
+0 0 39849
+S
+#39851
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39852
+D2
+~
+~
+0 0 39847
+S
+#39852
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39853
+D3
+~
+~
+0 0 39851
+S
+#39853
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39854
+D2
+~
+~
+0 0 39852
+S
+#39854
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D2
+~
+~
+0 0 39853
+D3
+~
+~
+0 0 39855
+S
+#39855
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39859
+D1
+~
+~
+0 0 39854
+D3
+~
+~
+0 0 39858
+S
+#39856
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39857
+D2
+~
+~
+0 0 39787
+S
+#39857
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39858
+D2
+~
+~
+0 0 39856
+S
+#39858
+The {gFo{Gr{gest{x~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D1
+~
+~
+0 0 39855
+D2
+~
+~
+0 0 39857
+S
+#39859
+The {CW{#i{Cl{#d{X {GForest{X~
+The forest is dense and forbidding here, and it seems to press
+in on you from all sides. The sky is noticeably less bright here,
+adding to the ominous tone.
+~
+0 0 3
+D0
+~
+~
+0 0 39860
+D2
+~
+~
+0 0 39855
+S
+#39860
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D0
+~
+~
+1 0 39895
+D2
+~
+~
+0 0 39859
+D3
+~
+~
+0 0 39861
+S
+#39861
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D1
+~
+~
+0 0 39860
+D3
+~
+~
+0 0 39862
+S
+#39862
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D0
+~
+~
+0 0 39863
+D1
+~
+~
+0 0 39861
+S
+#39863
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D0
+~
+~
+0 0 39864
+D2
+~
+~
+0 0 39862
+S
+#39864
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D1
+~
+~
+0 0 39865
+D2
+~
+~
+0 0 39863
+S
+#39865
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D2
+~
+~
+0 0 39866
+D3
+~
+~
+0 0 39864
+S
+#39866
+The {CW{#i{Cl{#d{X {GForest{X~
+~
+0 0 3
+D0
+~
+~
+0 0 39865
+S
+#39867
+Off The Beaten Path~
+{REAST TO DOWN UNDERGROUND IS DONE {X
+{R NEEDS ROOM DESCS TO EAST THEN DOWN THAT'S ALL {X
+~
+0 0 3
+D1
+~
+~
+0 0 39868
+D3
+~
+~
+0 0 39742
+S
+#39868
+A Path~
+~
+0 0 3
+D1
+~
+~
+0 0 39869
+D3
+~
+~
+0 0 39867
+S
+#39869
+A Path~
+~
+0 0 3
+D3
+~
+~
+0 0 39868
+D5
+~
+~
+1 0 39870
+S
+#39870
+Down The Hole~
+~
+0 0 0
+D4
+~
+~
+1 0 39869
+D5
+~
+~
+0 0 39871
+S
+#39871
+Down The Hole~
+~
+0 0 0
+D4
+~
+~
+0 0 39870
+D5
+~
+~
+0 0 39872
+S
+#39872
+Down The Hole~
+~
+0 0 0
+D1
+~
+~
+0 0 39873
+D4
+~
+~
+0 0 39871
+S
+#39873
+The Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39874
+D3
+~
+~
+0 0 39872
+S
+#39874
+The Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39875
+D3
+~
+~
+0 0 39873
+S
+#39875
+The Underground~
+SOUTH TO NOTHING ALCOVE ONE ROOM
+NORTH TO A DEAD END EVENTUALLY AFTER DOWN
+~
+0 1 0
+D0
+~
+~
+0 0 39876
+D2
+~
+~
+0 0 39877
+D3
+~
+~
+0 0 39874
+S
+#39876
+The Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39878
+D2
+~
+~
+0 0 39875
+S
+#39877
+An Alcove~
+~
+0 1 0
+D0
+~
+~
+0 0 39875
+S
+#39878
+The Underground~
+~
+0 1 0
+D2
+~
+~
+0 0 39876
+D5
+~
+~
+0 0 39879
+S
+#39879
+The Underground Stairwell~
+~
+0 1 0
+D4
+~
+~
+0 0 39878
+D5
+~
+~
+0 0 39880
+S
+#39880
+The Underground Stairwell~
+~
+0 1 0
+D4
+~
+~
+0 0 39879
+D5
+~
+~
+0 0 39881
+S
+#39881
+Farther Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39882
+D4
+~
+~
+0 0 39880
+S
+#39882
+Farther Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39883
+D3
+~
+~
+0 0 39881
+S
+#39883
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39884
+D3
+~
+~
+0 0 39882
+S
+#39884
+Farther Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39885
+D2
+~
+~
+0 0 39883
+S
+#39885
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39887
+D2
+~
+~
+0 0 39886
+D3
+~
+~
+0 0 39884
+S
+#39886
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39885
+D1
+~
+~
+0 0 39893
+S
+#39887
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39888
+D2
+~
+~
+0 0 39885
+S
+#39888
+Farther Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39889
+D2
+~
+~
+0 0 39887
+S
+#39889
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+0 0 39890
+D3
+~
+~
+0 0 39888
+S
+#39890
+Farther Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39891
+D2
+~
+~
+0 0 39889
+S
+#39891
+Farther Underground~
+~
+0 1 0
+D0
+~
+~
+1 0 39892
+D3
+~
+~
+0 0 39890
+S
+#39892
+The End of the Underground~
+~
+0 1 0
+D2
+~
+~
+1 0 39891
+S
+#39893
+The Underground~
+~
+0 1 0
+D1
+~
+~
+0 0 39894
+D3
+~
+~
+0 0 39886
+S
+#39894
+The Underground~
+~
+0 1 0
+D3
+~
+~
+0 0 39893
+S
+#39895
+Inside a hollowed out tree~
+Inside this hollowed out tree, it becomes obvious that a very powerful
+type of magic has made the inside twenty times the size of the tree that
+it inhabits. The walls go up for what seems like miles, and are made up
+of a blindly white marble, with small veins of green emeralds running up
+and down at seemingly random places. A huge monument is standing in the
+center of the room, and is obviously the center piece and main purpose
+of the room. It is a towering piece of green and black marble, glimmering
+in the soft light of the room. A large plaque is at the base of the monument.
+There appears to be a small hallway leading towards the east, with a closed
+door to the south. There is a hall for Mortal Records to the east.
+~
+0 525312 0
+D1
+~
+~
+0 0 39896
+D2
+~
+~
+1 0 39860
+S
+#39896
+Hall of Records~
+This hall is very similar to the last chamber, the walls are made up of the
+same marble like substance, going up about twenty feet into the air. Three
+rather large chandeliers are hanging from the top of the ceiling in successive
+order, with the two smaller lights flanking the larger of the three. A large
+monument is sitting in the center of the room, and is obviously the reason for
+this room's existence. The only exit is to the west.
+~
+0 525312 0
+D3
+~
+~
+0 0 39895
+S
+#39897
+The Path of Carnage~
+Traveling down the way of the Path, strange vibes travel all around
+you, the cold touching deep down to the bone. The walls are made up of
+a shimmering blue material, with an erie glow emanating from it. 
+~
+0 0 0
+D0
+~
+~
+0 0 39898
+D2
+~
+~
+0 0 39772
+S
+#39898
+The Path of Carnage~
+Traveling down the way of the Path, strange vibes travel all around
+you, the cold touching deep down to the bone. The walls are made up of
+a shimmering blue material, with an erie glow emanating from it. 
+~
+0 0 0
+D0
+~
+~
+1 0 39899
+D2
+~
+~
+0 0 39897
+S
+#39899
+End of the Path~
+Traveling down the way of the Path, strange vibes travel all around
+you, the cold touching deep down to the bone. The walls are made up of
+a shimmering blue material, with an erie glow emanating from it. 
+~
+0 0 0
+D2
+~
+~
+1 0 39898
+S
+#0
+
+
+
+#SPECIALS
+M 39601 spec_janitor Load to: a {Dse{wr{Wv{wa{Dnt{X
+M 39607 spec_breath_fire Load to: An intern
+M 39610 spec_breath_lightning Load to: {#K{win{#g{X Hyphus
+M 39612 spec_breath_acid Load to: {#Q{^u{#e{^e{#n{X Sarquik
+M 39617 spec_breath_fire Load to: {!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X
+M 39618 spec_breath_any Load to: {!A {!H{1e{!ll{1io{!n{X
+M 39622 spec_cast_adept Load to: a sky {Dg{wh{Wo{Ds{wt{X
+M 39624 spec_cast_adept Load to: a wandering {Ge{gl{Gf{x
+M 39626 spec_summoner Load to: a sky {Cf{cr{Wo{cs{Ct{x giant
+M 39629 spec_thief Load to: a nomadic villager
+M 39630 spec_cast_cleric Load to: a healer
+M 39633 spec_breath_lightning Load to: The Keeper
+M 39634 spec_breath_frost Load to: The {RCarnage{X Keeper
+M 39635 spec_breath_fire Load to: General Dragonic
+M 39636 spec_cast_mage Load to: mage of the path
+M 39637 spec_breath_fire Load to: The Teacher
+M 39638 spec_cast_mage Load to: adept of the path
+M 39642 spec_cast_mage Load to: Lesser Trainer
+M 39647 spec_cast_mage Load to: Shaylious
+M 39649 spec_breath_lightning Load to: a {Gl{Big{6h{wt{^ni{Bn{Gg{x giant guard
+S
+
+
+
+#RESETS
+D 0 39608 0 1 The north door of Entrance to the {DSk{wy C{Was{Dtl{we{X is closed
+D 0 39609 2 1 The south door of Castle {DF{wo{Wy{we{Dr{X is closed
+D 0 39641 3 1 The west door of {#H{3er{#o{X {DHa{wl{Wl{ww{Day{X is closed
+D 0 39642 1 1 The east door of Bartho's Room is closed
+D 0 39643 3 1 The west door of {#H{3er{#o{X {DHa{wl{Wl{ww{Day{X is closed
+D 0 39644 0 1 The north door of {#H{3er{#o{X {DHa{wl{Wl{ww{Day{X is closed
+D 0 39645 1 1 The east door of Shaimoy's Room is closed
+D 0 39646 2 1 The south door of Gragen's Room is closed
+D 0 39650 0 1 The north door of An Office is closed
+D 0 39650 3 1 The west door of An Office is closed
+D 0 39651 1 1 The east door of The Back Office is closed
+D 0 39652 2 1 The south door of The Back Room is closed
+D 0 39654 5 2 The down door of Behind The Bar is closed and locked
+D 0 39655 4 2 The up door of Back Room Under The Bar is closed and locked
+D 0 39665 3 1 The west door of {DJ{wailo{Dr's {1P{Dat{1h{X is closed
+D 0 39666 1 1 The east door of A Cell is closed
+D 0 39668 3 1 The west door of {DJ{wailo{Dr's {1P{Dat{1h{X is closed
+D 0 39671 1 1 The east door of A Cell is closed
+D 0 39691 0 1 The north door of {2T{@h{2e{X {!R{#o{!y{#a{!l{X {DHa{wl{Wl{ww{Day{X is closed
+D 0 39692 2 1 The south door of Common Area is closed
+D 0 39692 3 1 The west door of Common Area is closed
+D 0 39693 1 1 The east door of {2T{@h{2e{X {!R{#o{!y{#a{!l{X {!C{1h{#a{3m{#b{1e{!r{#s{X is closed
+D 0 39708 5 1 The down door of {DA {6D{wimml{6y{X {DL{3i{Dt {DHa{wl{Wl{ww{Day{X is closed
+D 0 39710 4 2 The up door of {!C{1h{Da{1m{!b{De{1r{X of {1H{!orro{1r{X is closed and locked
+D 0 39712 3 1 The west door of {DA {DHa{wl{Wl{ww{Day{X is closed
+D 0 39713 1 1 The east door of The Library is closed
+D 0 39714 1 1 The east door of {DA {DHa{wl{Wl{ww{Day{X is closed
+D 0 39715 3 1 The west door of A {^S{Dittin{^g {DR{wo{Wo{wm{X is closed
+D 0 39751 0 1 The north door of At the {DGrey{x Gate is closed
+D 0 39752 2 1 The south door of Inside The Keep of {RC{rar{Rn{rag{Re{x is closed
+D 0 39760 0 1 The north door of Path of {RC{rar{Rn{rag{Re{x is closed
+D 0 39761 2 1 The south door of The {RCa{rr{Rn{ra{Rge{X is closed
+D 0 39771 0 1 The north door of Before The {RC{rar{Rn{rag{Re{x Room is closed
+D 0 39772 2 1 The south door of The Path of Carnage is closed
+D 0 39838 0 1 The north door of The Lower Tower is closed
+D 0 39839 2 1 The south door of The Negotiator's room is closed
+D 0 39860 0 1 The north door of The {CW{#i{Cl{#d{X {GForest{X is closed
+D 0 39869 5 1 The down door of A Path is closed
+D 0 39870 4 1 The up door of Down The Hole is closed
+D 0 39891 0 1 The north door of Farther Underground is closed
+D 0 39892 2 1 The south door of The End of the Underground is closed
+D 0 39895 2 1 The south door of Inside a hollowed out tree is closed
+D 0 39898 0 1 The north door of The Path of Carnage is closed
+D 0 39899 2 1 The south door of End of the Path is closed
+M 0 39600 7 39602 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39600 7 39603 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39600 7 39604 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39600 7 39605 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39600 7 39606 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+G 0 39600 0 *{4g{$u{da{$r{4d {4s{dwor{4d{x is given to {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39600 7 39607 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39606 6 39609 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39601 7 39609 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39601 7 39612 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39606 6 39612 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39613 8 39613 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39601 7 39614 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39601 7 39615 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39602 4 39615 4 *Load {DRo{wy{Wa{wl G{Du{wa{Wr{wd{X
+E 0 39601 0 25 *{xa {4r{doya{4l{x {dgu{wa{wr{wd {#e{dmb{wle{#m{x is loaded as a clan patch of {DRo{wy{Wa{wl G{Du{wa{Wr{wd{X
+M 0 39613 8 39616 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39601 7 39618 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39602 4 39618 4 *Load {DRo{wy{Wa{wl G{Du{wa{Wr{wd{X
+E 0 39601 0 25 *{xa {4r{doya{4l{x {dgu{wa{wr{wd {#e{dmb{wle{#m{x is loaded as a clan patch of {DRo{wy{Wa{wl G{Du{wa{Wr{wd{X
+M 0 39613 8 39619 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39601 7 39621 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39606 6 39621 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39601 7 39622 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39601 7 39626 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39606 6 39626 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39601 7 39628 7 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39606 6 39628 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39606 6 39630 6 *Load {4H{Dous{4e{X {4G{Duar{4d{X
+M 0 39600 7 39635 7 *Load {XA {DSk{wy G{Wua{wr{Dd{X
+M 0 39614 1 39642 1 *Load Bartho
+E 0 39615 0 21 *{^g{#e{^m{x {3o{^f{x {dba{wr{wt{wh{do{x is loaded on the ears of Bartho
+E 0 39616 0 16 *{xa {dpu{3ls{^at{3in{dg{x {do{wn{wy{dx{x {^s{6wor{^d{x is loaded wielded of Bartho
+M 0 39615 1 39645 1 *Load Shaimoy
+E 0 39617 0 13 *{^b{de{wl{dt{x {wof{x {^i{dll{wu{ws{wi{do{^n{x is loaded around the waist of Shaimoy
+M 0 39616 1 39646 1 *Load Gragen
+E 0 39618 0 3 *{^m{ded{wal{wli{wo{dn{x {^o{#f{x {#m{3i{#g{3h{#t{x is loaded around the neck (1) of Gragen
+E 0 39619 0 11 *{^s{#hiel{^d{x {do{wf{x {#g{3arge{#n{x is loaded as a shield of Gragen
+O 0 39607 0 39649 *A desk loaded to Entrance to an Office
+M 0 39607 1 39649 1 *Load An intern
+O 0 39605 0 39653 *A bar stool loaded to At the Bar
+M 0 39605 1 39653 1 *Load Sheri
+G 0 39606 0 *Shot of {dg{4r{we{dy{x {4g{do{wo{ds{we{x is given to Sheri
+M 0 39603 1 39654 1 *Load {DTh{we B{War{wte{Dnd{wer{X
+G 0 39602 0 *A key is given to {DTh{we B{War{wte{Dnd{wer{X
+E 0 39603 0 1 *A {5purple{x {dm{4o{2o{dd{x {dr{win{dg{x is loaded on the left finger of {DTh{we B{War{wte{Dnd{wer{X
+M 0 39604 1 39655 1 *Load Tartus
+E 0 39604 0 17 *A peice of {^i{dc{^e{x is loaded held in the hands of Tartus
+M 0 39608 1 39661 1 *Load A Robed {#H{3eale{#r{X
+O 0 39608 0 39661 *A {!p{1lus{!h{x {1red{x {dc{wouc{dh{x loaded to A Small Room
+M 0 39648 1 39666 1 *Load an imprisoned dwarf
+E 0 39653 0 16 *A small {ds{bh{da{bn{dk{x is loaded wielded of an imprisoned dwarf
+O 0 39654 0 39670 *A {rp{gl{wu{gs{rh{x {bb{bl{bu{be{x couch loaded to The Guard's Break Room
+M 0 39647 1 39671 1 *Load Shaylious
+M 0 39613 8 39673 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39613 8 39676 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39613 8 39677 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39613 8 39681 8 *Load a {1roaming{X {1g{Du{^a{Dr{1d{X
+M 0 39611 2 39691 2 *Load {#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X
+E 0 39612 0 17 *{ds{wt{wa{wf{df{x {^o{6f{x {^n{dois{^e{x is loaded held in the hands of {#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X
+M 0 39611 2 39692 2 *Load {#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X
+E 0 39614 0 3 *An {^a{drmo{^r{x bladed {dc{wl{wo{wa{dk{x is loaded around the neck (1) of {#Q{Du{^e{De{#n{D'{^s{X {DG{wu{Wa{wr{Dd{X
+M 0 39612 1 39693 1 *Load {#Q{^u{#e{^e{#n{X Sarquik
+E 0 39613 0 18 *{de{^y{de{x {1o{df th{!e{x {ds{^k{dy{x is loaded floating nearby of {#Q{^u{#e{^e{#n{X Sarquik
+O 0 39609 0 39700 *The {3g{#olde{3n{x {#h{3ig{#h{x {3s{dea{3t{x of the {ds{^k{dy{x loaded to {wA {#G{3ran{#d{X {#A{2ud{@ie{2nc{#e{X {DCh{wa{Wm{wb{Der{X
+O 0 39610 0 39700 *A {#s{1of{#t{x {!f{1i{!r{1e{x loaded to {wA {#G{3ran{#d{X {#A{2ud{@ie{2nc{#e{X {DCh{wa{Wm{wb{Der{X
+M 0 39610 1 39700 1 *Load {#K{win{#g{X Hyphus
+E 0 39611 0 6 *{dt{wh{de{x {ds{^k{dy{x {#c{dr{^o{dw{#n{x is loaded over the head of {#K{win{#g{X Hyphus
+M 0 39601 1 39700 1 *Load a {Dse{wr{Wv{wa{Dnt{X
+M 0 39618 1 39710 1 *Load {!A {!H{1e{!ll{1io{!n{X
+G 0 39620 0 *A key is given to {!A {!H{1e{!ll{1io{!n{X
+M 0 39617 1 39711 1 *Load {!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X
+E 0 39621 0 20 *{!m{1as{!k{x {do{wf{x {!t{1o{!r{1t{!u{1r{!e{x is loaded on the face of {!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X
+E 0 39620 0 17 *A key is loaded held in the hands of {!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X
+E 0 39622 0 14 *{!s{1hac{!k{1le{!s{x {do{wf{x {!h{1a{!t{1e{x is loaded on the left wrist of {!T{wh{!e{X {!T{1o{!r{1t{!u{1r{!e{X {!M{Da{1s{Dt{!e{1r{X
+O 0 39624 0 39713 *{xa small couch loaded to The Library
+O 0 39626 0 39713 *A {#d{^is{dpl{^a{#y{x case loaded to The Library
+O 0 39625 0 39713 *{xan old {^s{dabe{^r{x loaded to The Library
+M 0 39619 6 39728 6 *Load {DA K{wn{Wi{wgh{Dt{X
+M 0 39619 6 39729 6 *Load {DA K{wn{Wi{wgh{Dt{X
+E 0 39623 0 16 *{xa {^j{da{wgg{de{^d{x {ds{ww{wo{wr{dd{x is loaded wielded of {DA K{wn{Wi{wgh{Dt{X
+M 0 39619 6 39730 6 *Load {DA K{wn{Wi{wgh{Dt{X
+M 0 39619 6 39731 6 *Load {DA K{wn{Wi{wgh{Dt{X
+M 0 39628 9 39732 9 *Load a wandering merchant
+M 0 39628 9 39734 9 *Load a wandering merchant
+M 0 39629 9 39734 9 *Load a nomadic villager
+M 0 39628 9 39735 9 *Load a wandering merchant
+M 0 39631 11 39735 11 *Load a peon
+M 0 39645 9 39735 9 *Load a journeyman
+M 0 39629 9 39736 9 *Load a nomadic villager
+M 0 39644 9 39736 9 *Load a bear
+M 0 39628 9 39737 9 *Load a wandering merchant
+M 0 39631 11 39737 11 *Load a peon
+M 0 39629 9 39737 9 *Load a nomadic villager
+M 0 39645 9 39737 9 *Load a journeyman
+M 0 39628 9 39738 9 *Load a wandering merchant
+M 0 39644 9 39738 9 *Load a bear
+M 0 39628 9 39739 9 *Load a wandering merchant
+M 0 39631 11 39739 11 *Load a peon
+M 0 39629 9 39739 9 *Load a nomadic villager
+O 0 39628 0 39740 *A {yg{ylo{yw{yin{yg{x {dg{wr{wa{dn{wi{wt{de{x bench loaded to A Crossroads
+O 0 39629 0 39740 *A {yb{dub{wbl{di{wn{yg{x {dg{wr{wa{dn{wi{wt{de{x fountain loaded to A Crossroads
+M 0 39630 1 39740 1 *Load a healer
+M 0 39643 10 39740 10 *Load lost athasian priest
+M 0 39645 9 39740 9 *Load a journeyman
+M 0 39644 9 39741 9 *Load a bear
+M 0 39631 11 39742 11 *Load a peon
+M 0 39643 10 39742 10 *Load lost athasian priest
+M 0 39645 9 39742 9 *Load a journeyman
+M 0 39625 10 39743 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39644 9 39743 9 *Load a bear
+M 0 39625 10 39744 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39631 11 39744 11 *Load a peon
+M 0 39643 10 39744 10 *Load lost athasian priest
+M 0 39631 11 39745 11 *Load a peon
+M 0 39625 10 39746 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39625 10 39747 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+E 0 39641 0 16 *{daxe {wof {rcar{rn{rage{x is loaded wielded of a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39626 1 39747 1 *Load a sky {Cf{cr{Wo{cs{Ct{x giant
+E 0 39642 0 11 *{cs{wh{die{wl{cd{c of {cf{cr{wo{cs{ct{x is loaded as a shield of a sky {Cf{cr{Wo{cs{Ct{x giant
+M 0 39631 11 39747 11 *Load a peon
+M 0 39625 10 39748 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39631 11 39748 11 *Load a peon
+M 0 39625 10 39749 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39625 10 39749 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39631 11 39749 11 *Load a peon
+M 0 39625 10 39750 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39631 11 39750 11 *Load a peon
+M 0 39646 9 39750 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39625 10 39751 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39625 10 39751 1 *Load a {Rcar{rn{Rage{X {gs{boldie{gr{x
+M 0 39631 11 39751 11 *Load a peon
+M 0 39646 9 39753 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39646 9 39755 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39646 9 39756 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39646 9 39757 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39634 1 39761 1 *Load The {RCarnage{X Keeper
+E 0 39646 0 0 *{rca{dr{wn{da{rge{x {rf{rl{ra{rr{re{x is loaded as a light of The {RCarnage{X Keeper
+M 0 39646 9 39763 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39635 1 39765 1 *Load General Dragonic
+E 0 39647 0 20 *Face of {rc{ra{rr{rn{ra{rg{re{x is loaded on the face of General Dragonic
+M 0 39646 9 39767 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39636 2 39771 2 *Load mage of the path
+M 0 39636 2 39772 2 *Load mage of the path
+E 0 39651 0 18 *A healing aura is loaded floating nearby of mage of the path
+M 0 39638 2 39772 2 *Load adept of the path
+M 0 39632 4 39773 4 *Load a wandering dwarf
+M 0 39643 10 39773 10 *Load lost athasian priest
+M 0 39629 9 39774 9 *Load a nomadic villager
+M 0 39644 9 39774 9 *Load a bear
+M 0 39629 9 39775 9 *Load a nomadic villager
+M 0 39632 4 39775 4 *Load a wandering dwarf
+M 0 39643 10 39775 10 *Load lost athasian priest
+M 0 39645 9 39775 9 *Load a journeyman
+M 0 39629 9 39776 9 *Load a nomadic villager
+M 0 39644 9 39777 9 *Load a bear
+M 0 39629 9 39778 9 *Load a nomadic villager
+M 0 39632 4 39778 4 *Load a wandering dwarf
+M 0 39643 10 39778 10 *Load lost athasian priest
+M 0 39645 9 39778 9 *Load a journeyman
+M 0 39632 4 39779 4 *Load a wandering dwarf
+E 0 39644 0 16 *A {rb{rl{ro{ro{rd{ry{x {waxe{x is loaded wielded of a wandering dwarf
+M 0 39643 10 39779 10 *Load lost athasian priest
+M 0 39622 20 39780 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39623 8 39781 2 *Load a fawn
+M 0 39623 8 39782 2 *Load a fawn
+M 0 39622 20 39783 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39623 8 39783 2 *Load a fawn
+M 0 39622 20 39784 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39623 8 39784 2 *Load a fawn
+M 0 39643 10 39784 10 *Load lost athasian priest
+M 0 39623 8 39788 2 *Load a fawn
+M 0 39643 10 39788 10 *Load lost athasian priest
+M 0 39623 8 39789 2 *Load a fawn
+M 0 39623 8 39789 2 *Load a fawn
+M 0 39622 20 39790 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39644 9 39790 9 *Load a bear
+M 0 39645 9 39791 9 *Load a journeyman
+M 0 39622 20 39813 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39620 1 39817 1 *Load an old brewer
+G 0 39630 0 *Potion of {chealing{x is given to an old brewer
+G 0 39631 0 *Potion of {wcu{dr{wing{x is given to an old brewer
+G 0 39632 0 *Potion of {rco{rm{rbat{x is given to an old brewer
+G 0 39633 0 *Potion of {bdef{be{bnse{x is given to an old brewer
+G 0 39634 0 *Potion of the {cd{ci{wv{wi{wn{ce{x is given to an old brewer
+G 0 39635 0 *Potion of {rm{ba{rn{ba{x is given to an old brewer
+G 0 39636 0 *Potion of {dda{wr{dk{ws{dh{wi{we{dld{x is given to an old brewer
+M 0 39621 1 39818 1 *Load An Old jeweler
+G 0 39637 0 *Earring of the {cs{wk{cy{x is given to An Old jeweler
+G 0 39638 0 *Anklet of the {cs{wk{cy{x is given to An Old jeweler
+M 0 39623 8 39822 2 *Load a fawn
+M 0 39622 20 39823 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39623 8 39824 2 *Load a fawn
+M 0 39623 8 39826 2 *Load a fawn
+M 0 39646 9 39835 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39646 9 39837 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39646 9 39838 9 *Load a {Rfire{D-{Bg{wi{Wa{wn{Bt{x soldier
+M 0 39649 1 39838 1 *Load a {Gl{Big{6h{wt{^ni{Bn{Gg{x giant guard
+M 0 39627 1 39839 1 *Load The {bN{Beg{bo{Dt{bia{Bto{br{X
+M 0 39622 20 39840 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39645 9 39840 9 *Load a journeyman
+M 0 39622 20 39841 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39841 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39842 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39843 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39844 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39844 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39845 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39622 20 39845 1 *Load a sky {Dg{wh{Wo{Ds{wt{X
+M 0 39643 10 39854 10 *Load lost athasian priest
+M 0 39624 1 39859 1 *Load a wandering {Ge{gl{Gf{x
+E 0 39639 0 17 *{bs{dt{wa{df{bf{x {cof{x {rf{rl{ra{rm{re{x is loaded held in the hands of a wandering {Ge{gl{Gf{x
+E 0 39640 0 28 *{cw{%i{&s{dd{%o{cm{x is loaded on the back of a wandering {Ge{gl{Gf{x
+M 0 39644 9 39867 9 *Load a bear
+M 0 39645 9 39868 9 *Load a journeyman
+M 0 39644 9 39869 9 *Load a bear
+M 0 39639 7 39871 7 *Load a wandering elf
+M 0 39640 8 39871 8 *Load a lost soldier
+M 0 39639 7 39872 7 *Load a wandering elf
+M 0 39640 8 39872 8 *Load a lost soldier
+M 0 39640 8 39873 8 *Load a lost soldier
+M 0 39641 8 39873 8 *Load an underground critter
+M 0 39639 7 39874 7 *Load a wandering elf
+M 0 39640 8 39875 8 *Load a lost soldier
+M 0 39641 8 39875 8 *Load an underground critter
+M 0 39639 7 39876 7 *Load a wandering elf
+M 0 39639 7 39877 7 *Load a wandering elf
+M 0 39639 7 39879 7 *Load a wandering elf
+M 0 39639 7 39881 7 *Load a wandering elf
+M 0 39640 8 39881 8 *Load a lost soldier
+M 0 39641 8 39881 8 *Load an underground critter
+M 0 39640 8 39883 8 *Load a lost soldier
+M 0 39641 8 39885 8 *Load an underground critter
+M 0 39641 8 39886 8 *Load an underground critter
+M 0 39640 8 39887 8 *Load a lost soldier
+M 0 39641 8 39888 8 *Load an underground critter
+M 0 39641 8 39890 8 *Load an underground critter
+M 0 39641 8 39891 8 *Load an underground critter
+M 0 39642 1 39892 1 *Load Lesser Trainer
+M 0 39641 8 39894 8 *Load an underground critter
+M 0 39633 1 39895 1 *Load The Keeper
+E 0 39999 0 17 *Some {wb{wl{wo{ww{x is loaded held in the hands of The Keeper
+O 0 39645 0 39895 *The monument of {ga{ys{wg{ya{gr{yd{x loaded to Inside a hollowed out tree
+O 0 39656 0 39896 *The monument of {ga{yc{wh{yi{ge{wv{ye{gm{we{yn{gt{ws{x loaded to Hall of Records
+M 0 39638 2 39898 2 *Load adept of the path
+M 0 39637 1 39899 1 *Load The Teacher
+E 0 39648 0 3 *A white {ds{wi{wl{wk{x {dc{wl{wo{wa{dk{x is loaded around the neck (1) of The Teacher
+E 0 39649 0 1 *{dring{x of {bt{bi{bm{be{x is loaded on the left finger of The Teacher
+E 0 39650 0 26 *A {dblack{x {ds{wi{wl{wk{x {gb{radg{ge{x is loaded as a religious patch of The Teacher
+E 0 39652 0 16 *Dagger of {dp{we{wr{rdi{dt{wi{wo{wn{x is loaded wielded of The Teacher
+S
+
+
+
+#SHOPS
+39605 0 19 25 17 15 100 100 0 23
+39620 10 2 0 0 0 100 100 0 23
+39621 33 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#39600
+mob cast sleep $n
+mob cast slow $n
+mob remember $n
+backstab $n
+say Welcome my {Bchild{X...
+mob delay 5
+~
+#39601
+if hastarget $i
+else mob at $q mob transfer $q 39899
+say I'm not through with you yet!
+wear dagger
+backstab $q
+remove dagger
+mob forget
+end
+~
+#39602
+say Please, you must help me before it is too late.
+say Would you please help me?
+~
+#39603
+say Thank you! You must deliver this ring to the negotiator at the Carnage tower.
+say It will warn him of this pathetic Castle's plan to attack him tomarrow! 
+say Thank you brave soul, good-bye and hello, as always.
+mob oload 39643
+give sig $n
+~
+#39604
+say My lord, they are going to attack!
+say You have done us a great service my friend, here is a token of my gratitude.
+mob oload 39655
+give clan $n
+mob junk sig
+~
+#39710
+close up
+lock up
+say Another play thing! Master will be pleased!
+scamper
+mob junk key
+kill $n
+~
+#39999
+say Welcome traveler, this place holds the entire history of Asgard within.
+say The Immortals, the Mortals, the PKers, the Record Holders, everything.
+say Come and go in peace.
+~
+#0
+
+#$

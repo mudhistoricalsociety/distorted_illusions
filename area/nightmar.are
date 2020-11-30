@@ -1,0 +1,89 @@
+#AREADATA
+Name Castle of Nightmares~
+Builders Unlinked Murdoc~
+VNUMs 45000 45050
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#45000
+~
+~
+0 4 0
+S
+#45004
+~
+~
+0 0 0
+S
+#45005
+~
+~
+0 0 0
+S
+#45006
+~
+~
+0 0 0
+S
+#45007
+~
+~
+0 0 0
+S
+#45008
+~
+~
+0 0 0
+S
+#45009
+~
+~
+0 0 0
+S
+#45010
+~
+~
+0 0 0
+S
+#45011
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

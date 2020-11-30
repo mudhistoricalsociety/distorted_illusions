@@ -1,0 +1,2201 @@
+#AREADATA
+Name City of Despair~
+Builders None~
+VNUMs 30400 30499
+Continent 2
+Credits {y[{D40--80{y]{c Zyx     {R City of Despair{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#30400
+gate guard~
+{7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x~
+{7A {8G{7a{8t{7e {8G{7u{8a{7r{8d{x stands here diligently watching the entrance.
+~
+~
+human~
+AB 0 0 -1000 0
+135 100 1d1+10000 10d10+100 6d6+18 none
+-18 -18 -18 -12
+TU 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30401
+sleepy guard~
+{7A {4S{7l{4e{7e{4p{7y{x Guard~
+{7A {4S{7l{4e{7e{4p{7y{x Guard walks around after finishing his shift.
+~
+~
+human~
+AB 0 0 -1000 0
+130 100 1d1+10000 10d10+100 6d6+18 none
+-12 -12 -12 -8
+U 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30402
+small kid~
+{4A {6S{4m{6a{4l{6l {4K{6i{4d{x~
+{7A {6S{4m{6a{4l{6l {4K{6i{4d{x runs around in ragged clothes.
+~
+~
+human~
+AB Y 0 0 0
+100 100 25d10+6500 10d10+100 6d6+18 none
+-18 -18 -18 -12
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK small unknown
+#30403
+weak looking man~
+{7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x~
+{7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x walks around pointlessly.
+~
+~
+human~
+AB Y 0 0 0
+100 100 25d10+6500 10d10+100 6d6+18 none
+-16 -16 -16 -10
+0 0 0 0
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#30404
+tired looking woman~
+{7A {^T{7i{^r{7e{^d{x Woman{x~
+{7A {^t{7i{^r{7e{^d{x woman{x walks around slowly.
+~
+~
+human~
+AB 0 0 0 0
+100 100 25d10+6500 10d10+100 6d6+18 thwack
+-16 -16 -16 -10
+0 0 0 0
+stand stand female 900
+AHMV ABCDEFGHIJK medium unknown
+#30405
+Burly guard patrol~
+{7A {!B{#u{!r{#l{!y{x Guard{x~
+{7A {!b{#u{!r{#l{!y{x guard{x patrols the streets.
+~
+~
+human~
+AB 0 0 0 0
+135 100 1d1+10000 10d10+100 6d6+18 none
+-18 -18 -18 -16
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30406
+homeless old lady sleeping~
+{7A {#hom{7el{#ess {8l{7a{8d{7y~
+{7A {#hom{7el{#ess {7o{8l{7d {8l{7a{8d{7y{x is here sleeping in the streets.
+~
+~
+human~
+AB 0 0 0 0
+100 100 25d10+6500 10d10+100 6d6+18 slap
+-16 -16 -16 -10
+0 0 0 0
+sleep stand female 900
+AHMV ABCDEFGHIJK medium unknown
+#30407
+mangy dog~
+{7A {1m{@a{1n{@g{1y{7 dog{x~
+{7A {1m{@a{1n{@g{1y{7 dog{x roams the streets.
+~
+~
+wolf~
+AB VZ 0 0 0
+100 100 25d10+6500 10d10+100 6d6+18 bite
+-15 -15 -15 -10
+FH 0 0 0
+stand stand male 900
+AGHMV ABCDEFGHIJKQV medium unknown
+#30408
+travelling merchant tall~
+A tall travelling merchant.~
+A tall travelling merchant stands before you haggling his wares.
+~
+~
+human~
+AB CDEFGJZ 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 9100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30409
+snotty looking woman~
+{7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x~
+{7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x walks around ignoring your existance.
+~
+~
+human~
+AB 0 0 0 0
+130 100 1d1+10000 1d1+500 12d15+1 slap
+-25 -25 -25 -25
+0 0 0 0
+stand stand female 900
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+#30410
+rich noble man nobleman~
+{7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x~
+{7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x walks around admiring his wealth.
+~
+~
+human~
+AB 0 0 0 0
+130 100 1d1+10000 1d1+500 12d15+1 none
+-25 -25 -25 -25
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30411
+guard commander frank~
+{#F{!r{&a{!n{#k {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x~
+{#F{!r{&a{!n{#k, {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x, stands here looking strong.
+~
+~
+human~
+AB 0 0 0 0
+140 100 1d1+20000 1d1+500 12d15+1 none
+-50 -50 -50 -50
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30412
+pickpocket young town~
+{8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x~
+{8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x stands here unnoticed.
+~
+~
+human~
+AGHS PQVa BNO 0 0
+200 500 1d1+20000 10d10+100 6d6+18 thwack
+0 0 0 0
+GHJ 0 D 0
+stand stand male 900
+AHMV ABCDEFGHIJK small unknown
+M FIGHT 30401 100~
+#30413
+crazy looking old man~
+{!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x~
+A {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x stands here looking nutty!
+~
+~
+human~
+AB CDFGUVc 0 1000 0
+40 500 1d1+20000 0d0+0 6d6+18 none
+-50 -50 -50 -50
+DHJQ 0 D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#30400
+simple healing pill~
+{&A simple {4h{6e{&ali{6n{4g {&pill.{x~
+{&A simple {4h{6e{&ali{6n{4g {&pill.{x~
+none~
+pill AY AO
+50 'mass healing' 'cure serious' 'refresh' 'refresh'
+40 0 2500 P
+#30401
+simple combat pill~
+{&A simple {#c{1o{&mb{1a{#t{& pill.{x~
+{&A simple {#c{1o{&mb{1a{#t{& pill.{x~
+unknown~
+pill AY AO
+50 'haste' 'giant strength' 'frenzy' 'constance'
+40 0 2500 P
+#30402
+simple defense pill~
+{&A simple {$d{2e{&fen{2s{$e{& pill.{x~
+{&A simple {$d{2e{&fen{2s{$e{& pill.{x~
+unknown~
+pill AY AO
+40 'armor' 'steel flesh' 'illusionary armor' 'stone skin'
+40 0 2500 P
+#30403
+blunt stick~
+a blunt stick.~
+An extremely long blunt stick.~
+unknown~
+weapon AHPSYZ AN
+exotic 10 20 thwack F
+101 0 0 P
+#30404
+portal rift~
+rift~
+{x~
+unknown~
+portal R 0
+0 KL A BCEFGHJKMNO 0
+0 0 0 P
+#30405
+basic guard sword~
+{xBasic Guard Sword{x~
+The guard's sword lies here worn and neglected.{x~
+unknown~
+weapon ABSY AN
+sword 30 1 slash A
+30 3 20000 P
+#30406
+Basic Sparring Flail~
+{xBasic Sparring Flail{x~
+A basic sparring flail lies here after its extensive use in training.~
+unknown~
+weapon ASY AN
+flail 30 1 crush E
+30 3 20000 P
+#30407
+basic shiv~
+{xBasic Shiv{x~
+A sharpened piece of metal lies here looking dangerously jagged.~
+unknown~
+weapon ASY AN
+dagger 30 1 pierce H
+30 3 20000 P
+#30408
+basic hatchet~
+{xBasic Hatchet{x~
+A small wooden handled hatchet lies here stuck in the ground.~
+unknown~
+weapon ASY AN
+axe 30 1 chop B
+30 3 20000 P
+#30409
+basic spiculum~
+{xBasic Spiculum{x~
+A long thing pole lies here with a sharpened stone tip on the end.~
+unknown~
+weapon ASY AN
+staff 30 1 thrust E
+30 3 20000 P
+#30410
+basic barbed mace~
+{xBasic Barbed Mace{x~
+A large barbed mace lies here buried in the dirt.~
+unknown~
+weapon ASY AN
+mace 30 1 crush C
+30 3 20000 P
+#30411
+basic knotted rope~
+{xBasic Knotted Rope{x~
+A length of rope lies tangled on the ground with a large knot on the end.~
+unknown~
+weapon ASY AN
+whip 30 1 acbite H
+30 3 20000 P
+#30412
+basic training lance~
+{xBasic Training Lance{x~
+A long wooden lance lies here barely sharpened on its tip.~
+unknown~
+weapon ASY AN
+polearm 30 1 pierce G
+30 3 20000 P
+#30413
+adequate warrior sword~
+{xan Adequate Warrior's Sword{x~
+A long slender sword lies here stuck into the ground tip first.~
+unknown~
+weapon ASY AN
+sword 1 102 frbite B
+50 5 50000 P
+#30414
+adequate rondel~
+{xan Adequate Rondel{x~
+A discarded rondel lies covered in dust on the ground.~
+unknown~
+weapon ASY AN
+dagger 1 102 pierce G
+50 5 50000 P
+#30415
+lethal misericorde~
+a Lethal Miscricorde~
+(no description)~
+unknown~
+weapon ASY AN
+dagger 10 13 stab E
+70 7 70000 P
+#30416
+adequate trident~
+an Adequate Trident{x~
+A trident lies here covered in blood.~
+unknown~
+weapon ASY AN
+staff 1 102 thrust B
+50 5 50000 P
+#30417
+lethal awl pike~
+a Lethal Awl Pike~
+A deadly looking pike stands here stabbed into the ground.~
+unknown~
+weapon ASY AN
+staff 10 13 charge G
+70 7 70000 P
+#30418
+lethal spatha~
+a Lethal Spatha~
+A long blade lies here demanding respect as you walk by.~
+unknown~
+weapon ASY AN
+sword 10 13 fury C
+70 7 70000 P
+#30419
+adequate war hammer~
+an Adequate War Hammer~
+A war hammer lies here discarded by its owner.~
+unknown~
+weapon ASY AN
+mace 1 102 crush H
+50 5 50000 P
+#30420
+lethal flanged mace~
+a Lethal Flanged Mace~
+A flanged mace await to crush its next victim's head.~
+unknown~
+weapon ASY AN
+mace 10 13 blast E
+70 7 70000 P
+#30421
+adequate adze~
+an Adequate Adze~
+A razor sharp adze is ready to split wood or your opponent.~
+unknown~
+weapon ASY AN
+axe 1 102 flbite A
+50 5 50000 P
+#30422
+lethal valaska~
+a Lethal Valaska~
+A sturdy valaska lies here ready to aid you.~
+unknown~
+weapon ASY AN
+axe 10 13 crush G
+70 7 70000 P
+#30423
+adequate flail~
+an Adequate Flail~
+A heavy stick is here with many chains hanging off awaiting to rip flesh.~
+unknown~
+weapon ASY AN
+flail 1 102 shbite G
+50 5 50000 P
+#30424
+lethal morning star~
+a Lethal Morning Star~
+A giant ball of spikes lays here radiating energy on the end of its chain.~
+unknown~
+weapon ASY AN
+flail 10 13 frbite B
+70 7 70000 P
+#30425
+adequate bullwhip~
+an Adequate Bullwhip~
+A long leather whip lays coiled ready to keep things moving.~
+unknown~
+weapon ASY AN
+whip 1 102 slash H
+50 5 50000 P
+#30426
+lethal cat o'nine~
+a Lethal Cat O'Nine Tails~
+A sadistic whip lays here pulsating a need to punish.~
+unknown~
+weapon ASY AN
+whip 10 13 slice A
+70 7 70000 P
+#0
+
+
+
+#ROOMS
+#30400
+Approaching the City~
+You approach the once great gate of the City of Distress.  Years of
+conflict has slowly worn on the city and is now nothing more then a ruin. 
+Guards stand here watching the gate keeping their rule absolute.  As their
+backs are turned you enter this once grand city.  
+~
+0 8192 3
+D0
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 14512
+S
+#30401
+Intersection in the South Road~
+Your first steps in the city is met with mixed emotions.  In the distance
+there are sounds of laughter and song.  Much closer you can hear the sounds
+of children coughing, trash cans falling over, and many people conspiring
+under their breaths with one another.  The stone road is missing several
+pieces and the buildings around sway with the slightest breeze, you decide
+it's time to move on.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30433
+D1
+~
+~
+0 0 30402
+D2
+~
+~
+0 0 30400
+D3
+~
+~
+0 0 30432
+D5
+~
+~
+0 0 30454
+S
+#30402
+Along the South Road~
+To the south is the wall keeping you within the rule of the opressors. 
+Dogs run around chasing rats attempting to get a meal.  To the west is the
+gate of the city.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30403
+D3
+~
+~
+0 0 30401
+S
+#30403
+Along the South Road~
+To the south is the wall keeping you within the rule of the opressors.  A
+guard stands here and looks you up and down trying to figure out your
+purpose in this town.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30404
+D3
+~
+~
+0 0 30402
+S
+#30404
+Along the South Road~
+To the south is the wall keeping you within the rule of the opressors. 
+Dogs run around chasing rats attempting to get a meal.  A stone in the road
+cracks and nearly sends you falling to the ground.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30405
+D3
+~
+~
+0 0 30403
+S
+#30405
+Turn In the Road~
+Here is the corner of the eastern and southern walls.  Buildings sway
+over you and a falling brick nearly hits you square in the head.  The wall
+here is nearly completely destroyed but a fortification is here preventing
+any escape.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30406
+D3
+~
+~
+0 0 30404
+S
+#30406
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30407
+D2
+~
+~
+0 0 30405
+S
+#30407
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30408
+D2
+~
+~
+0 0 30406
+S
+#30408
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 30409
+D2
+~
+~
+0 0 30407
+S
+#30409
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight.  To
+the west is the center of town and beggars come up to you asking from any
+spare money.  
+~
+0 0 0
+D0
+~
+~
+0 0 30410
+D2
+~
+~
+0 0 30408
+D3
+~
+~
+0 0 30448
+S
+#30410
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30411
+D2
+~
+~
+0 0 30409
+S
+#30411
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 30412
+D2
+~
+~
+0 0 30410
+S
+#30412
+Along the Eastern Road~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 30413
+D2
+~
+~
+0 0 30411
+S
+#30413
+Turn In the Road~
+The northeast corner of the wall meets here as two people walk around
+aimlessly talking about the past and the golden age of the town.  To the
+west you can start to hear the sounds of happiness a little more clearly. 
+Buildings creak and moan as the residence that dwell in them move around.  
+~
+0 0 0
+D2
+~
+~
+0 0 30412
+D3
+~
+~
+0 0 30414
+S
+#30414
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30413
+D3
+~
+~
+0 0 30415
+S
+#30415
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30414
+D3
+~
+~
+0 0 30416
+S
+#30416
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30415
+D3
+~
+~
+0 0 30417
+S
+#30417
+Along the Northern Road~
+The northern center of town is an odd place.  A transition from poverty
+and happiness is here.  Above you wine trickles down on your face and an
+abundance flows from the oppressors.  As you stand here you get a feeling of
+how bad this life must be for the orginal people of the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 30416
+D2
+~
+~
+0 0 30443
+D3
+~
+~
+0 0 30418
+D4
+~
+~
+0 0 30455
+S
+#30418
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30417
+D3
+~
+~
+0 0 30419
+S
+#30419
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30418
+D3
+~
+~
+0 0 30420
+S
+#30420
+Along the Northern Road~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30419
+D3
+~
+~
+0 0 30421
+S
+#30421
+Turn In the Road~
+In the nortwest corner of town the two roads meet.  To the east is the
+northern wall and the faint sounds of happiness becoming louder.  
+~
+0 0 0
+D1
+~
+~
+0 0 30420
+D2
+~
+~
+0 0 30422
+S
+#30422
+Along the Western Road~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D0
+~
+~
+0 0 30421
+D2
+~
+~
+0 0 30423
+S
+#30423
+Along the Western Road~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A guard is here attempting to make his rounds.
+~
+0 0 0
+D0
+~
+~
+0 0 30422
+D2
+~
+~
+0 0 30424
+S
+#30424
+Along the Western Road~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A dog barks at you and attempts to bite at
+your leg trying to get an ounce of food.  
+~
+0 0 0
+D0
+~
+~
+0 0 30423
+D2
+~
+~
+0 0 30425
+S
+#30425
+Along the Western Road~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  To the east is towards the center of town.  
+~
+0 0 0
+D0
+~
+~
+0 0 30424
+D1
+~
+~
+0 0 30453
+D2
+~
+~
+0 0 30426
+S
+#30426
+Along the Western Road~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D0
+~
+~
+0 0 30425
+D2
+~
+~
+0 0 30427
+S
+#30427
+Along the Western Road~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A guard is here attempting to make his rounds.
+~
+0 0 0
+D0
+~
+~
+0 0 30426
+D2
+~
+~
+0 0 30428
+S
+#30428
+Along the Western Road~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D0
+~
+~
+0 0 30427
+D2
+~
+~
+0 0 30429
+S
+#30429
+Turn In the Road~
+At the corner of the south and west walls you feel extremely closed in. 
+A building that would have once stood strong slowly leans over towards the
+wall.  Bricks and trash scatter the ground as the towns citizens walk around
+without a purpose.  
+~
+0 0 0
+D0
+~
+~
+0 0 30428
+D1
+~
+~
+0 0 30430
+S
+#30430
+Along the South Road~
+To the south is the wall keeping you within the rule of the oppressors. 
+The western wall is seen in the distance and still nothing is getting any
+better.  The towns integrity is falling more and more as you progress and
+you're worried there may be little you can hope to accomplish here.  
+~
+0 0 0
+D1
+~
+~
+0 0 30431
+D3
+~
+~
+0 0 30429
+S
+#30431
+Along the South Road~
+To the south is the wall keeping you within the rule of the oppressors. 
+A guard walks the streets keeping the people under control.  As you walk by
+he looks you up and down trying to figure out your purpose in being here.  
+~
+0 0 0
+D1
+~
+~
+0 0 30432
+D3
+~
+~
+0 0 30430
+S
+#30432
+Along the South Road~
+To the south is the wall keeping you within the rule of the oppressors. 
+A dog barks at your approach and attempts to hide bhind a trash can to
+escape your stare.  To the east is the gate to the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 30401
+D3
+~
+~
+0 0 30431
+S
+#30433
+Southern End of the City~
+As you approach the city you notice the complete lack of anything.  There
+is no song and no laughter.  People move around without a purpose of
+anything.  Even the buildings are completely bare and hardly meet the
+requirements of a basic shelter.  
+~
+0 0 0
+D0
+~
+~
+0 0 30434
+D2
+~
+~
+0 0 30401
+S
+#30434
+Southern End of the City~
+Inside the city the poverty starts to sink in.  The homes near you are
+completely decrepit and trash just sits on the the sides of the streets
+waiting for someone to care.  
+~
+0 0 0
+D0
+~
+~
+0 0 30437
+D1
+~
+~
+0 0 30436
+D2
+~
+~
+0 0 30433
+D3
+~
+~
+0 0 30435
+S
+#30435
+Small House~
+A small dwelling is here.  Barely able to be called a home for anyone. 
+The residents inside look at you with fear hoping that you will not take any
+of their little pocessions.  
+~
+0 0 0
+D1
+~
+~
+0 0 30434
+S
+#30436
+Small House~
+A small dwelling is here.  Barely able to be called a home for anyone. 
+The residents inside look at you with fear hoping that you will not take any
+of their little pocessions.  
+~
+0 0 0
+D3
+~
+~
+0 0 30434
+S
+#30437
+Southern End of the City~
+South of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  
+~
+0 0 0
+D0
+~
+~
+0 0 30438
+D2
+~
+~
+0 0 30434
+S
+#30438
+Center of the City~
+The once great square of the city is here.  There is a complete lack of
+any activity here anymore.  The marble which made several decorations in the
+road has been removed and taken elsewhere.  People loiter on the foundation
+of what used to be a fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 30439
+D1
+~
+~
+0 0 30444
+D2
+~
+~
+0 0 30437
+D3
+~
+~
+0 0 30449
+S
+#30439
+Northern End of the City~
+North of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  
+~
+0 0 0
+D0
+~
+~
+0 0 30440
+D2
+~
+~
+0 0 30438
+S
+#30440
+Northern End of the City~
+North of the square there are few houses lining the street.  The houses
+themselves are in poor condition and can barely be seen supporting any life
+other then the rodents and pour out of the cracks in the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 30443
+D1
+~
+~
+0 0 30442
+D2
+~
+~
+0 0 30439
+D3
+~
+~
+0 0 30441
+S
+#30441
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D1
+~
+~
+0 0 30440
+S
+#30442
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D3
+~
+~
+0 0 30440
+S
+#30443
+Northern End of the City~
+Approaching the northern part of town you feel completely sick to your
+stomach having seen what you have.  Never before have you seen people being
+oppressed like this.  The way they were treated you wonder what kind of
+people could do this.  
+~
+0 0 0
+D0
+~
+~
+0 0 30417
+D2
+~
+~
+0 0 30440
+S
+#30444
+Eastern End of the City~
+East of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  An old lady
+sleeps on the streets here just waiting to die and leave her misery behind. 
+~
+0 0 0
+D1
+~
+~
+0 0 30445
+D3
+~
+~
+0 0 30438
+S
+#30445
+Eastern End of the City~
+Inside the city itself there are few dwellings around.  And where ones
+once stood there is nothing more but rubble and make shift shelters.  A
+guard stands making his rounds and plundering what he can from the citizens
+of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30446
+D1
+~
+~
+0 0 30448
+D2
+~
+~
+0 0 30447
+D3
+~
+~
+0 0 30444
+S
+#30446
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D2
+~
+~
+0 0 30445
+S
+#30447
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D0
+~
+~
+0 0 30445
+S
+#30448
+Eastern End of the City~
+To the east is the city wall and to the west is the center of town. 
+People walk the streets looking for a place to sleep or any food.  A lady
+lays here after colapsing of complete exhaustion.  
+~
+0 0 0
+D1
+~
+~
+0 0 30409
+D3
+~
+~
+0 0 30445
+S
+#30449
+Western End of the City~
+West of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  
+~
+0 0 0
+D1
+~
+~
+0 0 30438
+D3
+~
+~
+0 0 30450
+S
+#30450
+Western End of the City~
+Inside the city itself there are few dwellings around.  And where ones
+once stood there is nothing more but rubble and make shift shelters.  A
+guard stands making his rounds and plundering what he can from the citizens
+of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30451
+D1
+~
+~
+0 0 30449
+D2
+~
+~
+0 0 30452
+D3
+~
+~
+0 0 30453
+S
+#30451
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D2
+~
+~
+0 0 30450
+S
+#30452
+Small House~
+A small house is here.  The walls themselves seem to be falling aparty. 
+Chunks of the ceiling fall on you as you step into the house.  The young kid
+here looks bruised a battered, he must have cross a guard the wrong way.  
+~
+0 0 0
+D0
+~
+~
+0 0 30450
+S
+#30453
+Western End of the City~
+The west end of the city is here.  To the west is the wall of the city
+and the roads cumble and shake under your feet.  As you contine to the east
+is the center of the town.  
+~
+0 0 0
+D1
+~
+~
+0 0 30450
+D3
+~
+~
+0 0 30425
+S
+#30454
+Merchant's Cave~
+A secret room lies dug deep into the ground as to avoid being pillaged by
+the guards.  A single travelling merchant remains behind to try to aid those
+that wish to release the village from the grasp of poverty.  
+~
+0 128 0
+D4
+~
+~
+0 0 30401
+S
+#30455
+Fancy Road in the City~
+Stepping into the fancy part of the city you are in shock.  How can these
+people live like this why their neighbors live in such poverty.  You begin
+to forget everything as a beautiful lady walks by.  Simply smiling at her,
+she turns away with her nose turned up by your presence.  
+~
+0 0 0
+D1
+~
+~
+0 0 30461
+D2
+~
+~
+0 0 30480
+D3
+~
+~
+0 0 30456
+D4
+~
+~
+0 0 30460
+D5
+~
+~
+0 0 30417
+S
+#30456
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The nobles walking around glare at you knowing that you don't belong here.  
+~
+0 0 0
+D1
+~
+~
+0 0 30455
+D3
+~
+~
+0 0 30457
+S
+#30457
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here completely involved with herself to notice you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30456
+D3
+~
+~
+0 0 30458
+S
+#30458
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble man walks around showing off his wealth to anyone that will ask.  
+~
+0 0 0
+D1
+~
+~
+0 0 30457
+D3
+~
+~
+0 0 30459
+S
+#30459
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+~
+0 0 0
+D1
+~
+~
+0 0 30458
+D2
+~
+~
+0 0 30479
+S
+#30460
+Guards Barracks~
+The guard barracks are here.  The guards rest here after a day of
+oppressing the lower classes below.  Their loot sits beside them as they
+sleep with golden blankets wrapped around them.  
+~
+0 0 0
+D2
+~
+~
+0 0 30489
+D5
+~
+~
+0 0 30455
+S
+#30461
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors.  Nobles walk around laughing
+about their money and admiring their existance.  
+~
+0 0 0
+D1
+~
+~
+0 0 30462
+D3
+~
+~
+0 0 30455
+S
+#30462
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors.  Nobles walk around laughing
+about their money and admiring their existance.  Again a beautiful lady
+catches your eye but you let this one be.  
+~
+0 0 0
+D1
+~
+~
+0 0 30463
+D3
+~
+~
+0 0 30461
+S
+#30463
+Fancy Road in the City~
+You feel grateful to be able to walk on such roadss compared to what was
+below.  Roads are filled with life and colors.  The people walk around with
+a self pride that radiates from them.  A noble walks around showing off his
+wealth to anyone that ask.  
+~
+0 0 0
+D1
+~
+~
+0 0 30464
+D3
+~
+~
+0 0 30462
+S
+#30464
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  The roads are filled with life and colors.  A woman stands here
+completely ignoring you knowing that you are not from money.  
+~
+0 0 0
+D2
+~
+~
+0 0 30465
+D3
+~
+~
+0 0 30463
+S
+#30465
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A nobleman walks around blinding you with his glistening jewlery he wears.  
+~
+0 0 0
+D0
+~
+~
+0 0 30464
+D2
+~
+~
+0 0 30466
+S
+#30466
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but she has already turned her back to
+you completely ignoring your existance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30465
+D2
+~
+~
+0 0 30467
+S
+#30467
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The people walk around with a self pride that radiates from them.  A noble
+walks around showing off his wealth to anyone that ask.  
+~
+0 0 0
+D0
+~
+~
+0 0 30466
+D2
+~
+~
+0 0 30468
+S
+#30468
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but she has already turned her back to
+you completely ignoring your existance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30467
+D3
+~
+~
+0 0 30469
+S
+#30469
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing about his wealth compared to yours.  
+~
+0 0 0
+D1
+~
+~
+0 0 30468
+D3
+~
+~
+0 0 30470
+S
+#30470
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here keeping to herself looks into a mirror admiring her own
+beauty.  
+~
+0 0 0
+D1
+~
+~
+0 0 30469
+D3
+~
+~
+0 0 30471
+S
+#30471
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing about his wealth compared to yours.  
+~
+0 0 0
+D1
+~
+~
+0 0 30470
+D3
+~
+~
+0 0 30472
+S
+#30472
+Fancy Road in the City~
+The middle of the upper class town is here.  The statue from below has
+been moved up here so people can admire it's beauty without having to
+associate with the people downtown.  Frank the Guard Commander stands here
+looking bored and waiting for a riot.  In the mean time though he indulges
+with the many woman that throw themselves at him.  
+~
+0 0 0
+D0
+~
+~
+0 0 30482
+D1
+~
+~
+0 0 30471
+D2
+~
+~
+0 0 30483
+D3
+~
+~
+0 0 30473
+S
+#30473
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A rich noble walks around complaining of back pains from how heavy his coin
+purse is.  
+~
+0 0 0
+D1
+~
+~
+0 0 30472
+D3
+~
+~
+0 0 30474
+S
+#30474
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here indulging candies imported in from countries far away.  
+~
+0 0 0
+D1
+~
+~
+0 0 30473
+D3
+~
+~
+0 0 30475
+S
+#30475
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around nearly blinding you with the amount of jewlery he has
+on.  
+~
+0 0 0
+D1
+~
+~
+0 0 30474
+D3
+~
+~
+0 0 30476
+S
+#30476
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but by the time you get the courage to
+say anything she turns away with her nose held high.  
+~
+0 0 0
+D0
+~
+~
+0 0 30477
+D1
+~
+~
+0 0 30475
+S
+#30477
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around talking with everyone about money and how great it is. 
+~
+0 0 0
+D0
+~
+~
+0 0 30478
+D2
+~
+~
+0 0 30476
+S
+#30478
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman sits here admiring herself in a mirror.  
+~
+0 0 0
+D0
+~
+~
+0 0 30479
+D2
+~
+~
+0 0 30477
+S
+#30479
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A rich noble stands here complaining of back pains from how heavy his coin
+purse is.  
+~
+0 0 0
+D0
+~
+~
+0 0 30459
+D2
+~
+~
+0 0 30478
+S
+#30480
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The people walk the streets drinking wines and singing songs.  
+~
+0 0 0
+D0
+~
+~
+0 0 30455
+D2
+~
+~
+0 0 30481
+S
+#30481
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing at your small coin purse compared to his.  
+~
+0 0 0
+D0
+~
+~
+0 0 30480
+D2
+~
+~
+0 0 30482
+S
+#30482
+Fancy Road in the City~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here primping herself to see Frank.  
+~
+0 0 0
+D0
+~
+~
+0 0 30481
+D2
+~
+~
+0 0 30472
+S
+#30483
+Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D0
+~
+~
+0 0 30472
+D2
+~
+~
+0 0 30484
+S
+#30484
+Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D0
+~
+~
+0 0 30483
+D2
+~
+~
+0 0 30485
+S
+#30485
+Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D0
+~
+~
+0 0 30484
+D2
+~
+~
+0 0 30486
+S
+#30486
+Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  You are approaching
+the palace and the sounds of the great court echo in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30485
+D4
+~
+~
+0 0 30487
+S
+#30487
+Before the Palace~
+The road to the palace in pave with marble.  Statues depicting themselves
+as gods line the road on either side.  As you continue you can sense your
+pressence being unwelcome and fear this might not be the greatest idea.  
+~
+0 0 0
+D1
+~
+~
+0 0 30488
+D5
+~
+~
+0 0 30486
+S
+#30488
+Gates of the Palace~
+The grand gates before the palace are an elobrate piece of work.  Gems
+and gold are interlaced in the giant marble gates.  Guards stand here hoping
+to not let you pass and displease Frank.  Compared to below these gates seem
+like they can hold off an army.  
+~
+0 0 0
+D3
+~
+~
+0 0 30487
+S
+#30489
+Guard's Armoury~
+You stand in a large room lined with weapons of different sizes.  Some
+glow and hum with ferocity, others sit silently with an eerie feeling
+radiating off of them.  A crazy looking man stands behind the counter
+grinning madly.  
+~
+0 128 0
+D0
+~
+~
+0 0 30460
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 30400 20 30400 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 20 30400 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 20 30400 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 20 30400 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30403 20 30401 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30401 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30402 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30402 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30403 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30403 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30404 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30404 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30405 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30405 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30406 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30406 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30407 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30407 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30408 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30408 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30409 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30409 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30410 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30410 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30407 20 30410 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30405 20 30411 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30411 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30412 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30412 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30413 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30413 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30414 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30414 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30415 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30415 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30416 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30416 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30417 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30417 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30418 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30418 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30419 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30419 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30420 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30420 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30421 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30421 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30422 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30422 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30423 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30423 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30424 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30424 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30425 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30425 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30426 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30426 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 20 30426 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30427 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30427 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30428 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30428 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 20 30428 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 20 30429 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30429 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30407 20 30430 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30430 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 20 30430 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 20 30431 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 25 30431 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30407 20 30432 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 25 30432 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 25 30433 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30433 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30405 20 30434 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 25 30434 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 9 30435 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30435 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30402 9 30436 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30436 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30406 25 30437 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30437 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30402 9 30438 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30438 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30438 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30406 25 30439 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30439 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30405 20 30440 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 25 30440 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 9 30441 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30441 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30441 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30402 9 30442 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30442 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30442 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30406 25 30443 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30443 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30406 25 30444 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30444 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30405 20 30445 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 25 30445 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 9 30446 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30446 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30446 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30402 9 30447 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30403 20 30447 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30404 20 30447 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30406 25 30448 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30448 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30406 25 30449 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30449 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30405 20 30450 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 25 30450 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 9 30451 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30404 20 30451 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30404 20 30451 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30403 20 30451 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30402 9 30452 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30404 20 30452 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30404 20 30452 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30403 20 30452 1 *Load {7A {3w{7e{3a{7k {8l{7o{8o{7k{8i{7n{8g {7man{x
+M 0 30406 25 30453 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30402 25 30453 1 *Load {4A {6S{4m{6a{4l{6l {4K{6i{4d{x
+M 0 30408 1 30454 1 *Load A tall travelling merchant.
+G 0 30401 0 *{&a simple {#c{1o{&mb{1a{#t{& pill.{x is given to A tall travelling merchant.
+G 0 30402 0 *{&a simple {$d{2e{&fen{2s{$e{& pill.{x is given to A tall travelling merchant.
+G 0 30400 0 *{&a simple {4h{6e{&ali{6n{4g {&pill.{x is given to A tall travelling merchant.
+M 0 30410 35 30455 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30455 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30456 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30456 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30457 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30457 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30458 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30458 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30459 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30459 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30401 8 30460 8 *Load {7A {4S{7l{4e{7e{4p{7y{x Guard
+M 0 30410 35 30461 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30461 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30462 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30462 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30463 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30463 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30464 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30464 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30465 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30465 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30466 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30466 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30467 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30467 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30468 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30468 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30469 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30469 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30470 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30470 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30471 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30471 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30472 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30472 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30411 1 30472 1 *Load {#F{!r{&a{!n{#k {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x
+M 0 30410 35 30473 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30473 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30474 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30474 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30475 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30475 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30476 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30476 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30477 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30477 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30478 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30478 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30479 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30479 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30480 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30480 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30481 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30481 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30482 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30482 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30412 2 30482 2 *Load {8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x
+M 0 30410 35 30483 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30483 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30484 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30484 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30485 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30485 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 35 30486 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 35 30486 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30412 2 30487 2 *Load {8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x
+M 0 30400 8 30488 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 8 30488 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 8 30488 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30400 8 30488 4 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30413 1 30489 1 *Load {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30406 0 *{xbasic sparring flail{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30405 0 *{xbasic guard sword{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30407 0 *{xbasic shiv{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30408 0 *{xbasic hatchet{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30409 0 *{xbasic spiculum{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30410 0 *{xbasic barbed mace{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30411 0 *{xbasic knotted rope{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30412 0 *{xbasic training lance{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30413 0 *{xan adequate warrior's sword{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30414 0 *{xan adequate rondel{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30416 0 *An adequate trident{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30419 0 *An adequate war hammer is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30421 0 *An adequate adze is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30423 0 *An adequate flail is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30425 0 *An adequate bullwhip is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30415 0 *A lethal miscricorde is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30417 0 *A lethal awl pike is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30418 0 *A lethal spatha is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30420 0 *A lethal flanged mace is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30422 0 *A lethal valaska is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30424 0 *A lethal morning star is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30426 0 *A lethal cat o'nine tails is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+S
+
+
+
+#SHOPS
+30408 0 5 9 33 32 100 100 0 24
+30413 0 5 9 26 15 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#30400
+if isfollow
+end
+else
+if isgood $n
+say You look like a good soul.
+say Lets get back at these bastards.
+oload 30403
+wear stick
+follow $n
+else
+say With an attitude like that, you should go see Frank for a job.
+~
+#30401
+flee
+flee
+flee
+flee
+hide
+hide
+hide
+~
+#0
+
+#$

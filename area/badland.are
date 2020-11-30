@@ -1,0 +1,64 @@
+#AREADATA
+Name murdoc area~
+Builders Murdoc Unlinked~
+VNUMs 2100 2199
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#2100
+no name~
+a shadowy figure~
+A shadowy figure
+~
+~
+human~
+AB 0 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2100
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

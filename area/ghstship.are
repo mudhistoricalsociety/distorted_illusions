@@ -1,0 +1,1221 @@
+#AREADATA
+Name Ghost Ship~
+Builders Callin Belmakor Noquest~
+VNUMs 8100 8199
+Continent 1
+Credits {y[{Y  LGD{y ]{c Belmakor{Y Ghost Ship{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#8100
+Undead Sailor~
+Undead Sailor~
+An undead sailor walks here.
+~
+An undead sailor walks around here staring at you with a hunger only the
+unlife can bring.  Danger lurks under his undead fists and his eyes glint
+with a horible gleam at your warmth and pure soul.  
+~
+human~
+AFGOT DFJVZc 0 -1000 0
+135 60 50d50+21500 50d10+21500 10d10+200 smash
+-55 -50 -50 -55
+ACDEFGHK ABILP CDM HNO
+stand stand male 0
+ABHMV ABCDEFGHIJK medium unknown
+#8101
+Undead Pirate~
+Undead Pirate~
+An Undead Pirate waits to steal your soul.
+~
+This was once a powerfull pirate brought into the ranks of the undead by
+those practicing the twisted art of necromancy.  The evil and torment of
+death and re-animation of undeath has given this restless soul a hunger not
+known to the living.  
+~
+human~
+AFGOT DFJVZ CO -1000 0
+130 50 50d40+25000 50d50+21500 10d10+200 crush
+-60 -60 -60 -60
+ACFGHKOU ABILPQ CDMO H
+stand stand male 0
+ABHMV ABCDEFGHIJK large unknown
+#8102
+storm cloud~
+Storm Cloud~
+A squall is here thundering and lightning.
+~
+A gray cloud that blows and howls with the intense storm inside it.
+~
+human~
+AGIc DFJZ 0 0 0
+130 0 10d10+100 10d10+100 0d0+0 none
+-10 -10 -10 -10
+0 ABCDHIJ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 8100 25~
+M ENTRY 8117 25~
+#8103
+Pizentios~
+Pizentios~
+A dark robed figure stands here directing a group of undead
+~
+A dark skinned man stands here, he wears the mark of the necromancer
+kings of Sahu and looks to be extremly skilled.  
+~
+human~
+ABFQRT DFJTVZac CDEHO -1000 0
+150 60 50d10+25000 50d50+22000 10d15+200 wrath
+-30 -30 -30 -30
+ADFGHKN ABILMQ CDHNO N
+stand stand none 60000
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 8101 35~
+M FIGHT 8104 10~
+M FIGHT 8105 40~
+M GRALL 8102 100~
+#8104
+Ifrit~
+Ifrit~
+A shadowy figure crouches here awaiting his masters command
+~
+This winged fiend is of the blackest night.  Large glowing eyes like
+coals stare out from skin the color of the baclkest night.  This being is a
+familiar of the most despicable sort and is quite powerfull.  
+~
+human~
+ABF DFJTVZc 0 -1000 0
+150 70 50d60+22000 50d60+22000 10d15+200 wrath
+-100 -100 -100 -100
+CEFGHKN ABHIJMQ DL N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8105
+Uruk~
+Uruk~
+A muscled figure towers above you.
+~
+~
+human~
+ABFT DFJQTVZc BCHO -1000 0
+130 60 50d50+22000 50d50+22000 10d15+200 wrath
+-100 -100 -100 -100
+DEFGHKN ABILMQ CDJKO N
+stand stand male 6000
+ABHMV ABCDEFGHIJK giant unknown
+#8106
+Sarzec~
+Sarzec~
+Sarzec stands here undisturbed by your pressence
+~
+Sarzec is a thin middle aged man.  He walks hunched over due to an old
+accident that crippled him for life.  His robes bear the mark of the
+necromancer kings of Sahu and he is powerfull to the extreme regardless of
+his physical condition.  
+~
+human~
+ABFQRT DFJTVZc H -1000 0
+130 65 50d50+22000 100d100+12000 10d20+200 wrath
+-60 -60 -60 -60
+AEFGHK ABILMPQ CDHJO 0
+stand stand male 6000
+ABHMV ABCDEFGHIJK medium unknown
+M FIGHT 8110 35~
+M FIGHT 8108 10~
+M FIGHT 8119 45~
+M FIGHT 8111 20~
+M GRALL 8107 100~
+#8107
+Undead Pirate~
+Undead Pirate~
+An Undead Pirate stands here waiting to feed on the living.
+~
+A pirate that was once a fierce foe alive, it is even more dangerous with
+the powers of the undead.  
+~
+human~
+AFGOT DFJVZ 0 -1000 0
+140 65 50d50+13000 50d50+13000 10d10+200 crush
+-70 -70 -70 -70
+ACDEFGKPU ABILMPQ DHJ NO
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#8108
+Vermissa~
+Vermissa~
+Vermissa stands here looking very very angry
+~
+Once the high priestess of the god Thasmudyan, her transformation into
+the undeath has enhanced her power greatly.  
+~
+human~
+ABFOT DFJTVZc CDEHN 0 0
+190 100 50d50+27000 50d50+15000 10d15+200 crush
+-60 -60 -60 -60
+AEFGHK ABILMPQ CDEH N
+stand stand female 60000
+ABHMV ABCDEFGHIJK medium unknown
+M FIGHT 8118 30~
+M FIGHT 8114 50~
+M FIGHT 8112 35~
+#8109
+Yola~
+Yola~
+Yola stands here scowling
+~
+Yola is a daunting figure, tall with fair skin.  Her hair is pulled back
+severely tight with metal pins and chains.  Her holy symbol is that of the
+goddess of pain and she wields a vicious whip.  
+~
+human~
+ABFT DFPQVZac BCHO -1000 0
+135 90 40d40+20000 40d40+20000 10d15+200 wrath
+-75 -75 -75 -75
+EFGHKN ABILQ CDEHN O
+stand stand female 45600
+AHMV ABCDEFGHIJK medium unknown
+#8110
+Beaten Prisoner~
+Beaten Prisoner~
+A beaten prisoner lies here clutching his precious axe
+~
+This man tried to rid the world of this festering evil and failed
+horribly.  He was humiliated, beaten, and left down here to die of
+starvation.  He clutches the most beautifull axe you have ever seen.  
+~
+human~
+ABT DFJZ 0 0 0
+130 10 1d10+5 1d10+5 10d10+10 none
+-5 -5 -5 -5
+0 ABHIJLPQa 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 8115 90~
+#8111
+zaribel~
+Zaribel~
+A large robed woman stands here contemplating your death.
+~
+Zaribel is a stunningly beautifull women in her late twenties.  She wears
+robes of the finest silk and carries herself with all the haughty air of
+royalty.  She has come aboard to study the secrets of attaining lichdom from
+the greates lich Vermissa.  A loyal and powerfull student she takes all
+attacks against the ship as a direct threat to her studies and will stop
+intruders with all her magical strength.  
+~
+human~
+ABFT DFV HO -1000 0
+130 50 10d10+21000 10d10+4000 10d10+200 crush
+-50 -50 -50 -50
+CDEFGHK ABIP CDHLMQ JN
+stand stand female 5000
+AHMV ABCDEFGHIJK large unknown
+#8112
+war dog~
+War dog~
+A large dog stands here growling.
+~
+~
+dog~
+ABFT DFV CN 0 0
+130 40 10d10+9000 10d10+9000 10d10+200 claw
+-25 -25 -25 -25
+CDFGK ABP CDHIJN L
+stand stand male 0
+AGV ACDEFHJKUV medium unknown
+F off H
+#8113
+war dog~
+War dog~
+A large dog stands here growling.
+~
+~
+dog~
+ABFT DFV CN 0 0
+130 40 10d10+9000 10d10+300 10d10+200 claw
+-25 -25 -25 -25
+CDFGK ABP CDHIJN L
+stand stand female 0
+AGV ACDEFHJKUV medium unknown
+F off H
+#8114
+jeleneth~
+{xJeleneth the alu fiend~
+A large winged comely female snarls at you.
+~
+This is a feisty winged redhead.  A winged demon from the foulest of
+planes, this creature delights in tormenting all mortals.  She is here due
+to a summons by the powerfull necromancer Sarzec and she obeys him to death.
+~
+human~
+ABFT DFQTVc BDHO -1000 0
+150 60 50d50+21000 50d50+21000 10d20+200 flame
+-70 -70 -70 -70
+ACDEGHKP ABLQ CDEHKO N
+stand stand female 5000
+AHMV ABCDEFGHIJK huge unknown
+#8115
+robed ghoul~
+{0Purple robed ghoul{x~
+A large robed figure lurks here leering with undead eyes.
+~
+~
+human~
+AGOT DFVc CO -1000 0
+130 50 10d10+14000 10d10+13000 10d15+200 drain
+-40 -40 -40 -40
+CFGHK ABLMQ CDIJO HKN
+stand stand male 4000
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#8100
+shadowblade shadow blade~
+{8Sha{7do{&wB{7l{8ade{x~
+A long dagger writhing with shifting shadows lies here.~
+silver~
+weapon CEFJM AN
+dagger 13 15 magic CDEH
+101 10 0 P
+A
+2 1
+A
+19 11
+A
+13 -200
+A
+5 -3
+#8101
+Fire Ring~
+{1Fi{!r{#e R{!i{1ng{x~
+A ring glowing with the elements of fire glows here.~
+admantite~
+armor ABY AB
+CD CD CD BE 0
+101 0 0 P
+A
+14 -175
+A
+18 10
+A
+19 15
+#8102
+Whip Pain~
+{!Wh{1ip {7of {!Pa{1in{x~
+A vicious whip lies here ready to inflict pain.~
+silver~
+weapon EFMS AN
+whip 11 18 sting CE
+101 0 0 P
+A
+17 25
+A
+19 23
+A
+13 -200
+A
+1 -3
+#8103
+Runed Armbands~
+{1Ru{7ne{&d A{7r{8mba{1nds{x~
+A pair of armbands pulse here with strange runes of power~
+unknown~
+armor ABEF AI
+BCE ACDE BCE BDE 0
+101 30 0 P
+A
+18 -6
+A
+19 14
+#8104
+Broken axe~
+broken halves of the axe of ages~
+The broken halves of an age old age lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+101 50 0 P
+#8105
+Black Hands~
+{8Bl{5ac{7k H{8an{5ds{x~
+A pair of black gloves lie here~
+leather~
+armor CEFJ AHP
+ACE ACE ABCE BCE 0
+101 10 0 P
+A
+9 10
+A
+19 14
+A
+4 -3
+#8106
+tormented souls~
+{1To{8rm{7en{&te{7d S{8ou{1ls{x~
+The souls of those tormented writh and scream.~
+unknown~
+armor CEFY AQ
+BE BE BE ADE 0
+101 10 0 P
+A
+19 17
+A
+9 15
+A
+18 7
+A
+13 -300
+#8107
+black leather belt rune~
+{8Black Leather Belt {4inset {7w{8it{7h {1r{!u{1n{!e{1s{x~
+A black belt lies here glowing softly~
+leather~
+armor AI AL
+AF BCE ACDE DF 0
+101 0 0 P
+A
+13 50
+A
+18 5
+A
+19 5
+A
+20 -2
+A
+12 -150
+#8108
+axe ages~
+{1Ax{7e o{8f {&th{1e {8A{7g{&e{8s{x~
+An age old axe has been dropped here foolishly.~
+silver~
+weapon ABHIMY AN
+axe 11 18 wrath EF
+101 50 0 P
+A
+3 -2
+A
+2 -2
+A
+19 20
+#8109
+crystal orb~
+{1Cr{#ys{&ta{#l O{1rb{x~
+A glowing crystal lies here.~
+unknown~
+light AB A
+0 0 ABCFGHIJ 0 0
+101 10 6000 P
+A
+17 -12
+A
+19 10
+A
+18 10
+#8110
+small key~
+small key~
+A small key lies here allowing escape~
+unknown~
+key STY AO
+0 0 0 0 0
+102 0 0 P
+#8111
+white robe~
+{6A {7W{&hi{8te {8R{&ob{7e{x~
+A white robe lies here.~
+unknown~
+armor FG AK
+BCDE BCDE BCDE BCDE 0
+101 10 98402 P
+A
+19 15
+#8112
+mask death~
+{8Ma{1sk o{8f De{1ath{x~
+A mask of hardened flesh lies here looking gruesome~
+flesh~
+armor BEY AR
+ABE CE BE CE 0
+101 10 601344 P
+A
+9 9
+A
+14 -300
+A
+13 150
+A
+19 15
+#8113
+steel chest~
+a steel chest~
+A steel chest rests here.~
+steel~
+container A 0
+10000 ABCD 8114 10000 10000
+101 500 0 P
+#8114
+strange key~
+a strange key~
+An odd looking key lies here~
+unknown~
+key AB AO
+0 0 0 0 0
+110 0 0 P
+#8115
+fire haired maiden~
+{1Fir{!e Ha{#ired {!Mai{1den{x~
+A tattoo rests here~
+unknown~
+armor ABY AS
+CE CE CE CE 0
+101 10 6052 P
+A
+2 1
+A
+19 15
+A
+18 5
+#8116
+nether scarab~
+{8Ne{7th{1er Sc{7ar{8ab{x~
+A glowing scarab pulses here.~
+mist~
+armor BEY AB
+BE ABDE BE E 0
+101 30 5000 P
+A
+4 -1
+A
+13 75
+A
+1 2
+A
+2 2
+#8117
+crystal anklet~
+{7Cr{8ys{&ta{7l A{8nk{7let{x~
+A delicate crystal anklet lies here forgotten.~
+crystal~
+treasure AIY AT
+0 0 0 0 0
+101 10 50240 P
+A
+13 -125
+A
+19 -10
+A
+18 -10
+A
+12 -100
+A
+20 -10
+#8118
+mystical portal~
+a Mystical Portal~
+A mystical portal rises out of the ground.~
+unknown~
+portal R 0
+0 ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 BCGHIJL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#8198
+Storage~
+If your not an Immortal then you dont belong here and might die.
+~
+0 8196 0
+S
+#8199
+Washed up on a strange Shore~
+You recall the horror of your experience and thank the gods you lived
+through the ordeal.  Perhaps what happened was a sign.  
+~
+0 8196 0
+D5
+~
+~
+0 0 13598
+S
+#8100
+Climbing the Ladder~
+Climbing the rotten wooden rungs of this ladder your hands get chilled to
+the bone.  This ship is freezing to the touch and from all around you is
+heard the creaking of ships riggings and strange moaning.  Goosebumps break
+out all over your flesh as you steel your heart for what lies ahead.  
+~
+0 0 0
+D4
+~
+~
+0 0 8101
+D5
+~
+~
+0 0 13598
+S
+#8101
+Halfway up the Ladder~
+Looking around you can see the fog that continually swirls and eddys
+around the entire ship.  The ship drifts through the tropical waters of the
+world and yet as you climb your breath is clearly visible in the freezing
+air.  
+~
+0 0 0
+D4
+~
+~
+0 0 8102
+D5
+~
+~
+0 0 8100
+S
+#8102
+Top of the Ladder~
+Looking of the top rotten rail of the ship makes you cringe in terror. 
+Everywhere you look across the deck shamble sailors and pirates in various
+stages of undeath.  The tormented wails and crys of the unliving grip your
+heart with despair.  
+~
+0 0 0
+D0
+~
+~
+0 0 8105
+D5
+~
+~
+0 0 8101
+S
+#8103
+Port side of the Deck~
+The deck starts to deteriorate around the rail of this area.  It appears
+that the boat hit something large, maybe another boat, maybe just rotten
+away with age.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8109
+D1
+~
+~
+0 0 8104
+S
+#8104
+Port side of the Deck~
+Standing along the portside rail the sea breeze blows across your face. 
+What should be refreshing only brings the scent of death and decay, looking
+over the edge you can no longer see the water and you wonder if it was a
+smart idea to come aboard in the first place 
+~
+0 8192 0
+D0
+~
+~
+0 0 8110
+D1
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8103
+S
+#8105
+On the Deck~
+The deck seems solid enough to stand on, but everywhere you turn are
+undead shipmates.  There flesh is rotten and digusting to look at, yet there
+eyes glow with a kind of hungry madness that makes your blood run cold.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8111
+D1
+~
+~
+0 0 8106
+D2
+~
+~
+0 0 8102
+D3
+~
+~
+0 0 8104
+S
+#8106
+Port side of the Deck~
+You trudge along feeling weary.  An overwhelming sence of despair crowds
+itself into your every pore.  Only the fierce combat keeps your blood from
+running cold and becoming just as the pirates you fight.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8112
+D1
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8105
+S
+#8107
+Port side Stern of the Deck~
+At the back of the ship the fog that surrounds everything fades some. 
+Looking over the edge shows the hundreds of dead sea life of all sorts the
+ship leaves in its diseased wake.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8113
+D3
+~
+~
+0 0 8106
+S
+#8108
+Bow of the Ship~
+The front of the ship is treacherous due to the blood and gore of dead
+birds and rotten seaweed the ship catches in its journey.  The smell that
+surrounds you and the ichor covering your weapons and armor turn your
+stomach and make your head pound.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8114
+D1
+~
+~
+0 0 8109
+S
+#8109
+Middle of the Deck~
+Continued journey of the ship brings the realization that this isnt just
+a once doomed ship.  This vessel makes continued raids on costal cities and
+lone merchant ships.  You begin to wonder when undeath came with such crafty
+intelligence..  
+~
+0 8192 0
+D0
+~
+~
+0 0 8115
+D1
+~
+~
+0 0 8110
+D2
+~
+~
+0 0 8103
+D3
+~
+~
+0 0 8108
+S
+#8110
+Main Deck near the Rigging~
+The rigging for the sails looks completely new without even a hint of
+wear.  Strange, the quality of the robes and wood looks exceptional, very
+odd indead.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8116
+D1
+~
+~
+0 0 8111
+D2
+~
+~
+0 0 8104
+D3
+~
+~
+0 0 8109
+S
+#8111
+Back of the Rigging~
+The rear of the rigging is being operated by a pirate with his back to
+you, as you approach he turns around and is very much alive.  Taken aback by
+another living being you mouth gapes as he draws a dagger and charges to the
+attack!  
+~
+0 8192 0
+D0
+~
+~
+0 0 8117
+D1
+~
+~
+0 0 8112
+D2
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8110
+S
+#8112
+Main Deck~
+From here you can see the tall riggings that cause the ship to sail
+quickly from area to area.  The sails are at full with a lack of a breeze.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8118
+D1
+~
+~
+0 0 8113
+D2
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8111
+S
+#8113
+Stern of the Ship~
+More stench of decay, more dead sea animals left in the ships wake. 
+Countless undead laid to waste under your blade, you begin to feel your
+actions are pointless and wonder why you came aboard to begin with.  
+~
+0 8192 0
+D0
+~
+~
+0 0 8119
+D2
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8112
+S
+#8114
+Bow of the Ship~
+This area is very clean, you see various sorts of undead cleaning the
+deck under the direction of a dark skinned robed figure.  He looks around at
+your approach and declares you to die right where you stand.  
+~
+0 8192 0
+D1
+~
+~
+0 0 8115
+D2
+~
+~
+0 0 8108
+S
+#8115
+Main Deck~
+All around the deck mysterious squalls come and go without warning.  From
+here you can see the entire rigging and the creak of ropes is louder than
+ever.  
+~
+0 8192 0
+D1
+~
+~
+0 0 8116
+D2
+~
+~
+0 0 8109
+D3
+~
+~
+0 0 8114
+S
+#8116
+Main Rigging~
+To move around the rigging that surrounds you here is difficult, the
+sailors and such leave this area alone least they get bound up in the
+rigging.  Sounds like a sound idea.  
+~
+0 8196 0
+D1
+~
+~
+0 0 8117
+D2
+~
+~
+0 0 8110
+D3
+~
+~
+0 0 8115
+S
+#8117
+Back of the Rigging~
+Here you see what appears to be a hatch built into the deck of the ship. 
+It appears to lead somewhere into the bowels of the ship and it looks to be
+in good condition.  
+~
+0 8192 0
+D1
+~
+~
+0 0 8118
+D2
+~
+~
+0 0 8111
+D3
+~
+~
+0 0 8116
+D5
+~
+~
+0 0 8120
+S
+#8118
+Main Deck~
+The smell of rotten flesh and the wails of the undead are all you can
+think of, it permeats your very being.  You are unsure of how much longer
+you can take this before going insane yourself.  
+~
+0 8192 0
+D1
+~
+~
+0 0 8119
+D2
+~
+~
+0 0 8112
+D3
+~
+~
+0 0 8117
+S
+#8119
+Stern of the Ship~
+Looking over the back of the ship something catches your eyes so you move
+to take a closer look.  Realizing that whats hanging from the back of the
+rail is a gruesome string of entrails you gag and try to hold your stomach
+down.  
+~
+0 8192 0
+D2
+~
+~
+0 0 8113
+D3
+~
+~
+0 0 8118
+S
+#8120
+Below the Deck~
+The ladder leading down dumps out into a small cramped hallway.
+It is very clean down here and without the intense smell of death and decay.
+~
+0 8204 0
+D0
+~
+~
+0 0 8121
+D4
+~
+~
+0 0 8117
+S
+#8121
+Down the Hall~
+The hallway ends just outside a large wooden door, inside can be heard
+muffled voices.  Standing over you is a scowling woman who looks very angry
+that you are down here.  
+~
+0 8200 0
+D0
+~
+~
+3 0 8122
+D2
+~
+~
+0 0 8120
+S
+#8122
+Meeting Room~
+This is the place where the commander of the ship Sarvec comes to relax
+or stow his aquired treasures.  He stands here alone for now, yet even alone
+his power is unsurpassed.  
+~
+0 8232 0
+D2
+~
+~
+3 0 8121
+D5
+~
+~
+4 8110 8123
+S
+#8123
+Cargo Hold~
+This is the room in the bowels of the ship where cargo is stored and
+prisoners kept in the event there are either.  
+~
+0 8220 9
+D4
+~
+~
+4 0 8122
+D5
+~
+~
+0 0 8124
+S
+#8124
+The Portal Home~
+The air twists and moves arounds you, looking back the way from which you
+came is no longer visible.  A great weight has been lifted off you and you
+may now recall to escape.  
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+M 8100 spec_cast_undead Load to: Undead Sailor
+M 8101 spec_cast_undead Load to: Undead Pirate
+M 8104 spec_breath_fire Load to: Ifrit
+M 8105 spec_cast_undead Load to: Uruk
+M 8107 spec_cast_undead Load to: Undead Pirate
+M 8109 spec_cast_cleric Load to: Yola
+S
+
+
+
+#RESETS
+D 0 8121 0 1 The north door of Down the Hall is closed
+D 0 8122 2 1 The south door of Meeting Room is closed
+D 0 8122 5 2 The down door of Meeting Room is closed and locked
+D 0 8123 4 2 The up door of Cargo Hold is closed and locked
+M 0 8104 1 8199 1 *Load Ifrit
+M 0 8100 5 8103 1 *Load Undead Sailor
+M 0 8107 10 8104 1 *Load Undead Pirate
+E 0 8115 0 21 *{1fir{!e ha{#ired {!mai{1den{x is loaded on the ears of Undead Pirate
+M 0 8107 10 8105 1 *Load Undead Pirate
+M 0 8115 7 8105 1 *Load {0Purple robed ghoul{x
+M 0 8102 5 8106 1 *Load Storm Cloud
+M 0 8107 10 8106 1 *Load Undead Pirate
+M 0 8111 1 8107 1 *Load Zaribel
+E 0 8116 0 1 *{8ne{7th{1er sc{7ar{8ab{x is loaded on the left finger of Zaribel
+M 0 8115 7 8107 1 *Load {0Purple robed ghoul{x
+M 0 8102 5 8108 1 *Load Storm Cloud
+M 0 8107 10 8108 2 *Load Undead Pirate
+M 0 8100 5 8109 1 *Load Undead Sailor
+M 0 8115 7 8110 1 *Load {0Purple robed ghoul{x
+M 0 8101 4 8111 2 *Load Undead Pirate
+M 0 8105 1 8111 1 *Load Uruk
+E 0 8103 0 10 *{1ru{7ne{&d a{7r{8mba{1nds{x is loaded on the arms of Uruk
+E 0 8112 0 20 *{8ma{1sk o{8f de{1ath{x is loaded on the face of Uruk
+M 0 8100 5 8112 1 *Load Undead Sailor
+M 0 8115 7 8112 1 *Load {0Purple robed ghoul{x
+E 0 8117 0 24 *{7cr{8ys{&ta{7l a{8nk{7let{x is loaded around the right ankle of {0Purple robed ghoul{x
+M 0 8102 5 8113 1 *Load Storm Cloud
+M 0 8103 1 8114 1 *Load Pizentios
+E 0 8100 0 16 *{8sha{7do{&wb{7l{8ade{x is loaded wielded of Pizentios
+E 0 8101 0 1 *{1fi{!r{#e r{!i{1ng{x is loaded on the left finger of Pizentios
+M 0 8101 4 8114 2 *Load Undead Pirate
+M 0 8107 10 8115 2 *Load Undead Pirate
+M 0 8115 7 8115 1 *Load {0Purple robed ghoul{x
+E 0 8117 0 25 *{7cr{8ys{&ta{7l a{8nk{7let{x is loaded as a clan patch of {0Purple robed ghoul{x
+M 0 8100 5 8116 1 *Load Undead Sailor
+M 0 8102 5 8116 1 *Load Storm Cloud
+M 0 8107 10 8117 2 *Load Undead Pirate
+M 0 8102 5 8118 1 *Load Storm Cloud
+M 0 8115 7 8118 2 *Load {0Purple robed ghoul{x
+M 0 8100 5 8119 1 *Load Undead Sailor
+M 0 8107 10 8119 1 *Load Undead Pirate
+M 0 8109 1 8121 1 *Load Yola
+E 0 8102 0 16 *{!wh{1ip {7of {!pa{1in{x is loaded wielded of Yola
+E 0 8105 0 9 *{8bl{5ac{7k h{8an{5ds{x is loaded on the hands of Yola
+M 0 8112 1 8121 1 *Load War dog
+M 0 8113 1 8121 1 *Load War dog
+M 0 8106 1 8122 1 *Load Sarzec
+E 0 8109 0 0 *{1cr{#ys{&ta{#l o{1rb{x is loaded as a light of Sarzec
+E 0 8111 0 12 *{6a {7w{&hi{8te {8r{&ob{7e{x is loaded about the shoulders of Sarzec
+M 0 8114 1 8122 1 *Load {xJeleneth the alu fiend
+M 0 8108 1 8122 1 *Load Vermissa
+G 0 8110 0 *Small key is given to Vermissa
+G 0 8114 0 *A strange key is given to Vermissa
+M 0 8110 1 8123 1 *Load Beaten Prisoner
+G 0 8108 0 *{1ax{7e o{8f {&th{1e {8a{7g{&e{8s{x is given to Beaten Prisoner
+O 0 8113 0 8123 *A steel chest loaded to Cargo Hold
+P 0 8106 1 8113 1 *{1to{8rm{7en{&te{7d s{8ou{1ls{x put inside {1To{8rm{7en{&te{7d S{8ou{1ls{x
+P 0 8107 1 8113 1 *{8black leather belt {4inset {7w{8it{7h {1r{!u{1n{!e{1s{x put inside {8Black Leather Belt {4inset {7w{8it{7h {1r{!u{1n{!e{1s{x
+O 0 8118 0 8124 *A mystical portal loaded to The Portal Home
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8100
+mob echoat $n You have been blown overboard!!
+mob echoat $n As you try to stay afloat you are struck by the ship and knocked unconcious!
+mob force $n sleep
+mob transfer $n 8199
+mob echo You watch in horror as $n is blown overboard!!
+~
+#8101
+say You fools are NOTHING TO ME!!
+mob cast 'energy drain' $r
+cackle
+~
+#8102
+say Ahh intruders, your deaths are at hand!
+cackle
+say Ifrit! To me!
+mob echo A large shadowy demon flies in.
+mob transfer Ifrit
+say Destroy them Ifrit!!
+mob force Ifrit k $n
+~
+#8103
+growl
+mob cast 'fire breath' $r
+~
+#8104
+say Let me show you fools something my master has taught me!
+mob echo Pizentios utters an arcane spell of intense power.
+cast 'wrath of god' $r
+~
+#8105
+say I have not yet begun to fight!
+mob cast 'dispel magic' $r
+~
+#8106
+mob bash
+~
+#8107
+say Ahh visitors, you have made it far indeed.
+say You must be powerfull indeed!
+say But your lives end here, i cannot let you leave.
+~
+#8108
+say You are strong but the power of undeath is stronger!
+mob echo Sarzec utters a strange spell of power.
+mob echo Suddenly several undead arrive in a cloud of black smoke.
+mob mload 8107
+~
+#8109
+mob echo Sarzec slumps forward.
+say N-o you can't have defeated me!
+say I am supposed to be immortal!
+cough
+say Vermissa my leige protect me in my time of need!!
+mob echo .
+mob zecho BOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMM!!!!!!!!!!!!!!!!
+mob echo You are thrown back as the very air tears itself apart.
+mob echo Vermissa has arrived through a portal.
+mob transfer vermissa
+mob echo Vermissa says, '{!No! Sarzec!{x'
+mob echo Vermissa says, '{!You will all pay with you LIVES for this!!{x'
+~
+#8110
+mob cast 'dispel magic' $r
+~
+#8111
+say You shall all fall before me in the name of my leige!!
+mob cast 'divine wrath' $r
+~
+#8112
+say You are pathetic fools!
+mob cast 'energy drain' $r
+~
+#8113
+mob echo Vermissa utters a short prayer to her infernal god.
+mob cast 'divine wrath' $r
+~
+#8114
+mob cast 'dispel magic'
+~
+#8115
+say You may kill me, but you will never have my axe!!
+mob echo SNAAAAAAAAAAAPPPPPPPP!!!!!!!!!
+mob echo With his last ounce of strength the prisoner snaps the beautiful axe in half.
+mob junk axe
+mob oload 8104
+~
+#8116
+mob echo Vermissa shrieks loudly and you are thrown back violently.
+mob echo You watch in horror as Vermissa catches fire and burns into ash before you.
+mob echo The key to the cargo hold slips from her grasp and clatters to the ground.
+mob oload 8110
+drop key
+mob oload 8114
+drop key
+~
+#8117
+mob echoat $n You have been blown overboard!!
+mob echoat $n As you try to stay afloat you are struck by the ship and knocked unconcious!
+mob force $n sleep
+mob transfer $n 8199
+mob echo You watch in horror as $n is blown overboard!!
+~
+#8118
+say You shall never defeat me, my power has grown with time.
+say Thasmudyan protect me!
+mob cast 'fire breath' $r
+~
+#8119
+say Even your powerfull lifeforce is not safe!
+mob cast 'energy drain' $r
+~
+#8120
+say I dont know how you got here, but you will perish now!
+~
+#0
+
+#$

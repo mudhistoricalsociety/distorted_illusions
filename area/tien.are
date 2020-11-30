@@ -1,0 +1,323 @@
+#AREADATA
+Name Molten Core~
+Builders Tien Unlinked~
+VNUMs 37100 37399
+Continent 2
+Credits (null)~
+Security 0
+Flags 0
+End
+
+#MOBILES
+#37100
+blah~
+Blah~
+Blah the random farmer is here.
+~
+~
+orc~
+A J 0 0 0
+800 0 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+0 0 0 CDS
+stand stand none 0
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#37100
+tiens boomstick~
+tien's Boomstick~
+Tien's boomstick lies on the ground.~
+unknown~
+weapon ABHS AN
+exotic 20 200000 fury ABCDEGH
+107 1 1 P
+#37101
+immortal backpack~
+immortal backpack~
+An immortal backpack is lying here.~
+unknown~
+container 0 A
+3000000 0 0 10000 1
+107 0 0 P
+#0
+
+
+
+#ROOMS
+#37100
+Molten Core~
+~
+0 4 0
+S
+#37101
+Entrance to Molten Core~
+~
+0 268435465 4
+D0
+~
+~
+0 0 37102
+S
+#37102
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37103
+D2
+~
+~
+0 0 37101
+D3
+~
+~
+0 0 37111
+S
+#37103
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37104
+D3
+~
+~
+0 0 37102
+S
+#37104
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37105
+D3
+~
+~
+0 0 37103
+S
+#37105
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37107
+D1
+~
+~
+0 0 37106
+D3
+~
+~
+0 0 37104
+S
+#37106
+Boiling Lake~
+~
+0 0 0
+D3
+~
+~
+0 0 37105
+S
+#37107
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37108
+D2
+~
+~
+0 0 37105
+S
+#37108
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37109
+D2
+~
+~
+0 0 37107
+S
+#37109
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37110
+D2
+~
+~
+0 0 37108
+S
+#37110
+Blackrock mountain~
+~
+0 0 0
+D2
+~
+~
+0 0 37109
+S
+#37111
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37102
+D3
+~
+~
+0 0 37112
+S
+#37112
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37111
+D3
+~
+~
+0 0 37113
+S
+#37113
+Blackrock Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 37112
+D3
+~
+~
+0 0 37114
+S
+#37114
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37115
+D1
+~
+~
+0 0 37113
+S
+#37115
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37118
+D2
+~
+~
+0 0 37114
+S
+#37116
+~
+~
+0 0 0
+D2
+~
+~
+0 0 37115
+S
+#37117
+~
+~
+0 0 0
+D2
+~
+~
+0 0 37115
+S
+#37118
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37119
+D2
+~
+~
+0 0 37115
+S
+#37119
+Blackrock Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 37120
+D2
+~
+~
+0 0 37118
+S
+#37120
+Edge of Lake Ossirian~
+~
+0 0 0
+D2
+~
+~
+0 0 37119
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

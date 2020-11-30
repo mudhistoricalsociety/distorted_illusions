@@ -1,0 +1,1638 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 99
+Continent 0
+Credits [ IMM  ] Diku    Limbo~
+Security 9
+Flags 0
+End
+
+#MOBILES 
+#1
+puff fractal dragon~
+Puff~
+Puff the fractal dragon is here.
+~
+Puff the fractal dragon is made of C.
+~
+dragon~
+ABRTV CDEFJQTVc HNO 1000 5706
+200 100 100d100+29999 100d100+29999 15d15+100 flbite
+-100 -100 -100 -100
+ADFHK AB BCDEHM FI
+stand stand female 2000
+ABCGHMVZ ABCDEFGHIJKPQUVX giant unknown
+#2
+statue anna~
+Anna the Angel~
+Anna the guardian angel flies high above.
+~
+~
+human~
+ABNV CDEFJTVc CDEHN 1000 0
+1000 9999 200d200+50000 100d100+29999 40d40+200 divine
+-200 -200 -200 -200
+ACDEFGHIJKLNOQ ACDEFGHIJKLMNOPQRSTXYZ BCDEHM 0
+stand stand female 0
+CHMV 0 giant unknown
+F for A
+F par ABCDEFGHIJK
+#3
+null~
+Jimmy Bagwell the Protector~
+{@Jimmy stands here protecting Kubes Mobbies!{x
+~
+~
+human~
+ABNV CDEFJTVc CDHN 1000 5706
+1000 9999 200d200+50000 100d100+29999 40d40+200 divine
+-200 -200 -200 -200
+ACDEFGHIJKLNOQ ACDEFGHIJKLMNOPQRSTXYZ BCDEHM 0
+stand stand male 2000
+CHMV 0 giant unknown
+F for A
+F par ABCDEFGHIJK
+#4
+shift master~
+Shift Master~
+The Shift Master is jus chillin'.
+~
+~
+human~
+ABV DFJZ 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DELAY 3001 100~
+M ACT 3001 shiftmypretties~
+#5
+pestilence horsemen apocolypse hmp~
+{bPe{8st{wil{8en{bce{x~
+{bPe{8st{wil{8en{bce{x, horseman of the Apocalypse, is followed by a horde of rats.
+~
+He is one of the four horseman of the Apocalypse.  He brings pain and
+suffering, disease and festering follow him in his pack of rabid plagued
+rats.  This staunch figure is covered in boils and rotting flesh.  
+~
+human~
+AOQR DFJTV H -1000 0
+160 300 10d500+70000 110d10+100 900d4+300 drain
+-85 -85 -85 -80
+AEFGHK ABLQ 0 H
+stand stand male 80000
+I ABCDEFGHIJK large unknown
+F for AHMV
+M GRALL 7 100~
+M FIGHT 13 100~
+#6
+war horsemen apocolypse hmw~
+{cW{Ca{cr{x~
+{cW{Ca{cr{x, horseman of the Apocalypse, is dressed in full mail and has an insane look.
+~
+He is one of the four horseman of the Apocalypse.  He is covered in armor
+and has a look of insane rage and hate.  He moves about absorbing love and
+spreading a vile aura of vengeance.  
+~
+human~
+AFOT DFJUVZ H -1000 0
+160 300 10d500+70000 110d10+100 900d3+450 cleave
+-90 -90 -90 -75
+ACDEFHIKO AB D C
+stand stand male 80000
+I ABCDEFGHIJK large unknown
+F for AHMV
+M GRALL 8 100~
+M FIGHT 13 100~
+#7
+famine horsemen apocolypse hmf~
+{yF{8a{ymi{8n{ye{x~
+{yF{8a{ymi{8n{ye{x, horseman of the Apocalypse, is covered from head to toe in locusts.
+~
+He is one of the four horseman of the Apocalypse.  He is swarmed in
+locusts.  He destroys crops and brings starvation and suffering.  The land
+behind him shrivels up as all vegetation is ripped to pieces and eaten by
+his swarm.  
+~
+human~
+AO DFJVZ H -1000 0
+160 300 10d500+70000 110d10+100 900d3+200 fury
+-85 -85 -85 -80
+AEFHK ABLQ E I
+stand stand male 80000
+I ABCDEFGHIJK large unknown
+F for AHMV
+M GRALL 9 100~
+#8
+death horsemen apocolypse hmd~
+{8D{re{8a{rt{8h{x~
+{8D{re{8a{rt{8h{x, horseman of the Apocalypse and bringer of eternal sleep, looms here.
+~
+He is one of the four horseman of the Apocalypse.  He smells very old and
+carries a damp coolness.  Shadows flicker behind him and merge into pure
+darkness where they touch him.  A lonely calm brings an eerie shiver as he
+moves in absolute silence.  
+~
+human~
+AOST DFJPQUVZ H -1000 0
+160 500 15d1000+50000 110d10+100 75d200+300 slice
+-50 -50 -50 -50
+ABCDEFHKO AB P O
+stand stand male 80000
+I ABCDEFGHIJK giant unknown
+F for AHMV
+M GRALL 10 100~
+#9
+shifterone~
+a shifter~
+A shifter is here.
+~
+~
+human~
+AR DEFJVZc CDEH 0 0
+50 200 10d1000+2000 10d1000+2000 10d10+200 psias
+-25 -25 -25 -25
+FG AB C 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5 100~
+M ACT 11 go on 1~
+#10
+shiftertwo~
+a shifter~
+A shifter is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+50 200 10d1000+2000 10d1000+2000 10d10+200 psias
+-25 -25 -25 -25
+FG AB C 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 2~
+M GRALL 5 100~
+#11
+shifterthree~
+a shifter~
+A shifter is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+50 200 10d1000+2000 10d1000+2000 10d10+200 psias
+-25 -25 -25 -25
+FG AB C 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 3~
+M GRALL 5 100~
+#12
+shifterfour~
+a shifter~
+A shifter is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+50 200 10d1000+2000 10d1000+2000 10d10+200 psias
+-25 -25 -25 -25
+FG AB C 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 4~
+M GRALL 5 100~
+#13
+shifterfive~
+a shifter~
+A shifter is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+50 200 10d1000+2000 10d1000+2000 10d10+200 psias
+-25 -25 -25 -25
+FG AB C 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 5~
+M GRALL 5 100~
+M DEATH 24 15~
+#14
+chronosone mage~
+a chronos mage~
+A chronos mage is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+75 300 1000d10+10000 1000d10+10000 10d10+300 wave
+-40 -40 -40 -40
+FGH AB CM 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 24 40~
+M ACT 11 go on 6~
+M GRALL 6 100~
+#15
+chronostwo mage~
+a chronos mage~
+A chronos mage is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+75 300 1000d10+10000 1000d10+10000 10d10+300 wave
+-40 -40 -40 -40
+FGH AB CM 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 24 50~
+M ACT 11 go on 7~
+M GRALL 6 100~
+#16
+chronosthree mage~
+a chronos mage~
+A chronos mage is here.
+~
+~
+human~
+A DEFJVZc CDEH 0 0
+75 300 1000d100+10000 1000d10+10000 10d10+300 wave
+-40 -40 -40 -40
+FGH AB CM 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 8~
+M GRALL 6 100~
+M DEATH 24 100~
+#17
+metal babble babbleone~
+{DA metal babble{x~
+{DA metal babble is here.{x
+~
+~
+human~
+AHT DEFJVZc 0 0 0
+180 300 1d1+14999 1000d10+10000 1d1+499 fury
+-60 -60 -60 0
+DFGHK AB CDEFGHIJKLMNOPQRSTXYZ 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 9~
+M GRALL 17 100~
+#18
+easterone easter rabbit~
+a giant easter rabbit~
+A very LARGE Easter Rabbit is here.
+~
+~
+rabbit~
+ACHP DEFJPQVZc BEO 0 0
+120 300 1000d10+20000 1000d10+10000 10d10+375 chomp
+-60 -60 -60 -60
+FGM ABM N 0
+stand stand male 50000
+AGHMV ABCDEFGHIJK medium unknown
+F off H
+M DEATH 20 100~
+M ACT 19 go~
+M GRALL 18 100~
+#19
+eastertwo easter rabbit~
+a giant easter rabbit~
+A very LARGE Easter Rabbit is here.
+~
+~
+rabbit~
+ACHP DEFJPQVZc BO 0 0
+120 300 1000d10+20000 1000d10+10000 10d10+375 chomp
+-60 -60 -60 -60
+FGM ABM N 0
+stand stand male 50000
+AGHMV ABCDEFGHIJK medium unknown
+F off H
+M GRALL 18 100~
+M DEATH 20 100~
+M ACT 19 go on 2~
+#20
+easterthree easter rabbit~
+a giant easter rabbit~
+A very LARGE Easter Rabbit is here.
+~
+~
+rabbit~
+ACHP DEFJPQVZc BN 0 0
+120 300 1000d10+20000 1000d10+10000 10d10+375 chomp
+-60 -60 -60 -60
+FGM ABM N 0
+stand stand male 50000
+AGHMV ABCDEFGHIJK medium unknown
+F off H
+M GRALL 18 100~
+M ACT 19 go on 3~
+M DEATH 20 100~
+#21
+easterfour easter rabbit~
+a giant easter rabbit~
+A very LARGE Easter Rabbit is here.
+~
+~
+rabbit~
+ACHP DEFJPQVZc BN 0 0
+120 300 1000d10+20000 1000d10+10000 10d10+375 chomp
+-60 -60 -60 -60
+FGM ABM N 0
+stand stand male 50000
+AGHMV ABCDEFGHIJK medium unknown
+F off H
+M GRALL 18 100~
+M ACT 19 go on 4~
+M DEATH 20 100~
+#22
+Deep Dish~
+{BDJ {WD{Ceep {WD{Cish{x~
+{BDJ {WD{Ceep {WD{Cish{R is here mixing.{x
+~
+~
+rabbit~
+ACHP DEFJPQVZc BN 0 0
+120 300 1000d10+25000 1000d10+10000 10d10+375 chomp
+-65 -65 -65 -65
+FGM ABM N 0
+stand stand male 55000
+AGHMV ABCDEFGHIJK medium unknown
+F off H
+M GRALL 18 100~
+M DEATH 21 100~
+M ACT 19 go on 5~
+#23
+policeone~
+Police, the babble moderator{x~
+Police, the babble moderator stands here.{x
+~
+~
+human~
+A 0 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 23 go 10~
+#24
+silver babble babbletwo~
+{WA silver babble{x~
+{WA silver babble is here.{x
+~
+~
+human~
+AMQRSTU ADEFJVc 0 0 0
+2500 -1 1d1+9 1000d10+10000 1d1+0 flash
+0 0 0 0
+ADEFGHK ABY CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 11 go on 11~
+#25
+gold babble babblethree~
+{YA gold babble{x~
+{YA gold babble is here.{x
+~
+~
+human~
+ABQRST DEFJQVc 0 0 0
+2000 600 1d1+125000 1000d10+10000 1d1+300 fury
+-80 -80 -80 0
+ACFGHK ABY CDEFGHIJKNOPQRTXYZ 0
+stand stand none 0
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+M ACT 11 go on 10~
+M GRALL 25 100~
+M FIGHT 25 100~
+#26
+guest spike~
+A wedding guest~
+A guest stands here, misty eyed.
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 26 100~
+#27
+wedding invitation checker~
+The Invitation Checker~
+The Invitation Checker makes sure everyone was invited.
+~
+~
+human~
+ABK 0 0 0 0
+120 0 1d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 27 100~
+#28
+alien green man~
+a little green man~
+Here stands a litte green man
+~
+~
+human~
+ABC 0 0 0 0
+2000 15 1d1+300 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+X 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#30
+ancient wanderer~
+{&An {*Ancient {6Wanderer{x~
+A wanderer of times long past lingers here.
+~
+~
+dragon~
+AELQRST CDEFGJT BCDEHNO 0 0
+111 150 100000d1+0 100d100+1000 50d50+300 wrath
+-100 -100 -100 -90
+CDFGHIJKNO AB BCDFGIJKLMNOPQSTXYZ F
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+F res EH
+F vul I
+M GRALL 30 100~
+#31
+medusa gorgon~
+{RM{redus{Ra{x~
+{DThe ancient Gorgon {RM{redus{Ra {Dis here.{x
+~
+~
+dragon~
+ACELNPQRST CDEFGJTZc BH -1000 0
+250 460 250000d1+0 500000d1+0 6d61+350 fury
+-80 -80 -80 -95
+ACDEFGHJKM AB BEHKMPRX NS
+stand stand none 1000000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul FI
+#32
+dummy~
+Test Dummy~
+Test Dummy is here, waiting to be beaten.
+~
+~
+human~
+AG 0 0 0 0
+0 0 1d1+900000 0d0+0 0d0+0 none
+-80 -80 -80 -80
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33
+blue babble babblefour bluebabble~
+{BA Blue Babble{x~
+{BA Blue Babble stands here.{x
+~
+~
+human~
+ABSTU V B 0 0
+200 95 7000d1+0 1000d1+0 5d20+100 fury
+-95 -95 -95 -90
+DFGHK AB CDHIJKLMNOPQRSXYZ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 34 100~
+M ACT 33 go on 12~
+#34
+aegir~
+{@A{#e{@g{#i{@r{x~
+The mighty {@A{#e{@g{#i{@r{x stands towering above you, laughing maniacly.
+~
+~
+draconian~
+ABT CDFGJTVZ BCDEHNO 0 0
+300 50000 1d1+250000 110d10+1000 1d1+1 wrath
+0 0 0 0
+ABDEFGHJK 0 CDEFGHIJKLMNOPQSTXYZ 0
+stand stand male 0
+AHMXc ABCDEFGHIJKPQ huge unknown
+F vul F
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a {&silver{0 coin~
+One miserable {&silver{0 coin.~
+silver~
+money 0 A
+A 0 0 0 0
+0 10 0 P
+#2
+coin gold gcash~
+a {#gold{0 coin~
+One valuable {#gold{0 coin.~
+gold~
+money 0 A
+0 A 0 0 0
+0 10 0 P
+#3
+coins gold gcash~
+%d {#gold{0 coins~
+A pile of {#gold{0 coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#4
+coins silver gcash~
+%d {&silver{0 coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#5
+coins {$money{0 gcash~
+a pile of money~
+A pile of money.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#6
+coins platinum gcash~
+a {7platinum{0 coin~
+One valuable {7platinum{0 coin.~
+platinum~
+money 0 A
+0 0 A 0 0
+0 10 0 P
+#7
+coins platinum gcash~
+%d {7platinum{0 coins~
+A pile of {7platinum{0 coins.~
+platinum~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#10
+corpse~
+the {1c{!o{&rp{!s{1e{0 of{# %s{0~
+The {1c{!o{&rp{!s{1e{0 of{# %s{0 is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse~
+the {1c{!o{&rp{!s{1e{x of {@%s{x~
+The {1c{!o{&rp{!s{1e{0 of {@%s{0 is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 1000 0 D
+#12
+%s head~
+the {8h{7ea{8d{x of {#%s{x~
+The {1s{!e{&ver{!e{1d{0 {8h{7ea{8d{0 of {#%s{0 is lying here.~
+meat~
+trash 0 AO
+0 0 0 0 0
+0 50 0 D
+#13
+%s heart~
+the {1h{!e{&a{!r{1t{0 of {#%s{0~
+The torn-out {1h{!e{&a{!r{1t{0 of {#%s{0 is lying here.~
+meat~
+food 0 AO
+8 3 0 0 0
+1 20 0 D
+#14
+%s arm~
+the {5a{%r{5m{0 of {#%s{0~
+The sliced-off {5a{%r{5m{x of {#%s{x is lying here.~
+meat~
+food 0 AO
+8 3 0 0 0
+1 50 0 D
+#15
+%s leg~
+the {3l{#e{3g{0 of {#%s{0~
+The sliced-off {3l{#e{3g{0 of {#%s{0 is lying here.~
+meat~
+food 0 AO
+8 3 0 0 0
+1 50 0 D
+#16
+%s guts entrails~
+the {!g{1ut{!s{0 of {#%s{0~
+A steaming pile of {#%s's{0 {2e{@nt{&ra{@il{2s{0 is lying here.~
+meat~
+food 0 AO
+10 8 0 1 0
+0 20 0 D
+#17
+%s brains brain~
+the {4b{$r{&ai{$n{4s{x of {#%s{x~
+The splattered {4b{$r{&ai{$n{4s{0 of {#%s{0 are lying here.~
+meat~
+food 0 AO
+8 3 0 0 0
+1 20 0 D
+#18
+pool blood~
+{Ra pool of {1b{!l{&o{!o{1d{x~
+A small {Rpool of {1b{!l{&o{!o{1d{x is here.~
+~
+fountain PT 0
+1 1 'blood' 0 0
+0 0 0 G
+#20
+turkish delight~
+{wSo{Wm{Ce T{cur{bki{Bsh D{bel{mig{Mht{x~
+{wSo{Wm{Ce T{cur{bki{Bsh D{bel{mig{Mht{m si{bts h{Ber{be i{gn a{Gn o{grn{yate t{Yin.{x~
+food~
+food 0 A
+16 2 0 0 0
+0 10 0 P
+#21
+ball light~
+a {&bright {@b{2a{@l{2l{0 of {3l{#i{&g{#h{3t{0~
+A {&bright {@b{2a{@l{2l{0 of {3l{#i{&g{#h{3t{0 shimmers in the air.~
+energy~
+light A AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#22
+spring fountain~
+a {6m{^ag{&i{^ca{6l {3s{#p{&ri{#n{3g{0~
+A {6m{^ag{&i{^ca{6l {3s{#p{&ri{#n{3g{0 flows from the ground here.~
+water~
+fountain G 0
+-1 -1 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a {8f{7lo{&at{7in{8g{0 {#d{3is{#c{0~
+A {8f{7lo{&at{7in{8g{0 {8black {#d{3is{#c{0 hangs in the air.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 50
+0 0 0 P
+#25
+gate portal~
+a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {8g{7at{8e{0~
+A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {8black {8g{7at{8e{0 rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0 0 0 0 0
+0 0 0 P
+#26
+%s hand~
+the {@hand{x of {#%s{x~
+The {@hand{x of {#%s{x is lying here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#27
+%s foot~
+the {@f{2oo{@t{x of {#%s{x~
+The {@f{2oo{@t{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#28
+%s finger~
+the {&f{7inge{&r{x of {#%s{x~
+The {&f{7inge{&r{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#29
+%s ear~
+the {^ear{x of {#%s{x~
+The {^ear{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#30
+%s eye~
+the {8eye{x of {#%s{x~
+The {8eye{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#31
+%s tongue~
+the {3tongue{x of {#%s{x~
+The {3tongue{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#32
+%s eyestalk~
+the {!eyestalk{x of {#%s{x~
+The {!eyestalk{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#33
+%s tentacle~
+the {@tentacle{x of {#%s{x~
+The {@tentacle{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#34
+%s fin~
+the {%fin{x of {#%s{x~
+The {%fin{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#35
+%s wing~
+the {^wing{x of {#%s{x~
+The {^wing{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#36
+%s tail~
+the {&tail{x of {#%s{x~
+The {&tail{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 0 0 D
+#37
+%s claw~
+the {$claw{x of {#%s{x~
+The {$claw{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#38
+%s fang~
+the {7fang{x of {#%s{x~
+The {7fang{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#39
+%s horn~
+the {1horn{x of {#%s{x~
+The {1horn{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#40
+%s scale~
+one of {#%s{x's {6scales{x~
+One of {#%s{x's {6scales{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#41
+%s tusk~
+the {3tusk{x of {#%s{x~
+The {3tusk{x of {#%s{x is here.~
+meat~
+food 0 AO
+8 3 0 0 0
+0 50 0 D
+#50
+pill quest white~
+a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0~
+A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 has been dropped here.~
+jelly~
+pill AGTY A
+1 'quest pill' '' '' ''
+0 1 2 P
+#51
+%s voodoo doll~
+a {8v{7o{&od{7o{8o {8d{7ol{8l{0 of {#%s{0~
+A {8v{7o{&od{7o{8o {8d{7ol{8l{0 of{# %s{0 is lying here.~
+energy~
+treasure GP AO
+0 0 0 0 0
+20 5 100 P
+#52
+i~
+{!Y{@O{#U {$J{%U{^S{&T Got {1Laid!!!{2~
+Your mom~
+energy~
+trash HRTY A
+0 0 0 0 0
+1 1 1 P
+#53
+exit chain up~
+the chain~
+The chain disappears in the clouds.~
+iron~
+exit ORTY 0
+BDFGHJKLM 0 0 0 0
+1 1 1 P
+E
+chain~
+The chain reaches the clouds high above you, the bottom link is mangled,
+and almost scrapes the ground.
+~
+#54
+bag~
+a paper bag~
+A small paper bag.~
+leather~
+container 0 A
+50 0 0 5 100
+0 10 0 G
+#55
+steak juicy~
+a big juicy steak~
+A big juicy steak is lying here.~
+meat~
+food 0 AO
+8 3 0 1 0
+0 0 0 P
+#56
+steak juicy~
+a big juicy steak~
+A big juicy steak is lying here.~
+meat~
+food 0 AO
+5 5 0 0 0
+0 0 0 P
+#57
+jimbo~
+a stool behind the Podium~
+A podium sits here infront of the wedding arch.~
+unknown~
+furniture 0 0
+C DFGHIJ E 0 FIJ
+102 5000 0 P
+#58
+pew church row~
+a pew in the church~
+You see several rows of pews in the church.~
+unknown~
+furniture 0 0
+CE EGHIJK EH CFG CFG
+1 5000 0 P
+#59
+wedding cake piece~
+a piece of {&Wedding {#C{3ak{#e{x~
+A piece of wedding cake lies here uneaten.~
+unknown~
+food 0 A
+8 3 0 0 0
+1 0 0 P
+#60
+punch bowl lemonade~
+a punch bowl full of {#le{3mo{#na{3de{x~
+A punch bowl of {#le{3mo{#na{3de{x sits on a table.~
+unknown~
+fountain 0 0
+500 500 'lemonade' 0 0
+1 0 0 P
+#61
+portal immortal wulfgar room~
+a portal to infinity~
+A portal to infinity stands here.~
+unknown~
+portal 0 0
+0 KL A DEGHK 0
+102 0 0 P
+#62
+arcane shard~
+{MAn Ar{Bca{Cne S{Bha{Mrd{x~
+A shard of arcane material lies here.~
+unknown~
+trash AB A
+0 0 0 0 0
+0 0 0 P
+#63
+wedding band~
+a wedding band (string me for weddings)~
+A wedding band lies here in the dust.~
+unknown~
+jewelry HORZ AB
+0 0 0 0 0
+101 0 100000 P
+A
+17 -15
+A
+13 100
+A
+19 9
+#64
+kitchen knives~
+a set of kitchen knives.~
+A set of kitchen knives has been lost.~
+unknown~
+weapon 0 AN
+dagger 5 5 stab D
+15 0 0 P
+#65
+wedding invitation~
+a wedding invitation to Nathral and Seqoin's wedding~
+An invitation is here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#67
+punch spiked bowl~
+a bowl of punch~
+A bowl of punch sits here, the scent of alcohol lingering above it.~
+gold~
+drink R 0
+500000 500000 'firebreather' 0 0
+0 0 0 P
+#68
+Flaming Pit~
+a {Rflaming{X {Dp{wi{Dt{X~
+A {Rflaming{X {Dp{wi{Dt{X is here, spewing lava.~
+unknown~
+furniture 0 0
+B ABCDIJKN EHIKL CDJKLMNOPQRSTUVWXYZabcdef CDJKLMNOPQRSTUVWXYZabcdef
+101 0 0 P
+#69
+death touch~
+{DDeath's Touch{x~
+{DDeath's Touch{x~
+bad shit~
+weapon CEFGPTUf AN
+exotic 2 130 drain ABCDEGHJ
+102 1 250000 P
+#70
+humming white pill~
+a {Rh{Yu{Rm{Ym{Ri{Yn{Rg {Cb{Bl{Cu{Be {Gp{gil{Gl{x~
+A {Rh{Yu{Rm{Ym{Ri{Yn{Rg {Cb{Bl{Cu{Be {Gp{gil{Gl{x has been dropped here.~
+jelly~
+pill BGSTY A
+1 'quest pill' 'quest pill' 'quest pill' ''
+0 1 2 P
+#71
+part one 1~
+{!Part {#1{x~
+The first part of the puzzle is here.~
+unknown~
+gem ABIRTY AO
+0 0 0 0 0
+1 0 0 P
+#72
+part two 2~
+{!Part {#2{x~
+The second part of the quest is here.~
+unknown~
+gem ABIRTY A
+0 0 0 0 0
+1 0 0 P
+#73
+part 3 three~
+{!Part {#3{x~
+The final piece is here.~
+unknown~
+gem ABRTY A
+0 0 0 0 0
+1 0 0 P
+#74
+eyes of the gods~
+{&E{7y{8e{&s {7o{8f {8t{7h{&e {8G{7o{&d{8s{x~
+The eyes ripped from Aegirs face lay here.~
+unknown~
+armor ABGIRSTYf AR
+BCDE BCDE BCDE BCDE 0
+101 0 0 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+26 10
+F
+A 0 0 D
+F
+A 0 0 F
+F
+A 0 0 L
+F
+A 0 0 J
+A
+19 32
+A
+18 24
+A
+17 -20
+#75
+aegirs dagger~
+{@A{#e{@g{@i{#r{7'{#s {!D{8agge{!r{x~
+{@A{#e{@g{@i{#r{7'{#s {!D{8agge{!r{x lies here.~
+unknown~
+weapon P AN
+dagger 100 1 wrath ABEGH
+102 0 0 P
+#76
+Red leather couch~
+{XA {1red {1l{Deathe{1r{X couch{X~
+{XA {1red {1l{Deathe{1r{X couch{X sits in the corner.~
+unknown~
+furniture A 0
+A EIJKN EHK DFGHIJ DFGHIJ
+110 0 0 P
+#77
+indifferent staff quest~
+{cA{Cn I{cnd{Cif{cfe{Cre{cnt {CSt{caf{Cf{x~
+A staff has been left here, forced into the ground.~
+unknown~
+treasure T A
+0 0 0 0 0
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#1
+{CT{cas' {BR{boom{x~
+{x     {1.{3-{1.{x
+{x {x {x {x {3(0{@.{30){x
+{x {x {@'=.{3|m|{@.='{x
+{x {x {@.='{3/{!@{3\{@'=.{x {x {x {x {x {^Tragic repeat is born anew{x
+{x {x {x {x {x {!@{38{!@{x {x {x {x {x {x {x {x {^A {&hero{^ arises from the {1fatal{^ hour{x
+{x {6_ {x {x {38{!@{38 {x {x {6_ {x {x {x {^Evil abroad and good too few{x
+{6({$@{3__/{!@{38{!@{3\__{$@{6) {x {x {^The people's hope in him does rest{x
+{x {6'-=:{38{!@{38{6:=-'{x
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^With {#power{^ reins{x
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^Held back evil{x
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^In menacing pains
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^Fear grips reason
+{x {x {x {x {x {7|{&:{7| {x
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^The {&hero{^ has emerged
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^A battle to be won
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {^Tidal strength has surged
+{x {x {x {x {x {7|{&:{7| {x {x {x {x {x {x {x {$Tas{^ has come.
+{x {x {x {x {x {7|{&:{1|{x
+{x {x {x {x {x {7|{1:|{x
+{x {x {x {x {x {1|:{!|{x
+{x {x {x {x {x {1\{!:/{x
+{R      V{x
+~
+0 4 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1036 1
+S
+#3
+{WT{Dhe {WJ{Dail{x~
+You are standing with your nose in the corner.  Every time you try to
+turn around, you get slapped upside the head and quickly resume your
+position.
+~
+0 304388 1
+S
+#4
+Chronos Mage Room~
+The command center for the babbles/shifters/chronos mages.
+There is a sign on the wall.
+~
+0 557060 3
+E
+sign~
+To shift babbles, say "shiftmypretties"
+{RDO NOT ABUSE THIS OR YOU WILL BE IN THE DEEPEST SHIT YOU CAN IMAGINE{x
+~
+S
+#5
+Ideas Room~
+~
+0 4 0
+S
+#6
+Wedding Chapel~
+{x                                {%.{x
+{x    {1*              .                                    {5.{x
+{x                                       {%.           {!'{6`                   {5.{x
+{x       {1.                                         {%'{x
+{x                   {#//////                                    {5######{x
+{x                  {3({#//////{3)                                  {5########{x
+{x {6... ..  ..  ... . {#////// {6. ... .{#())(((){6 .. . . . .... . . . ..   . . .... . .{x
+{x              {8_____{3|{8____{3|{8_____  {#((()(()))                   {1/   /  /{x
+{x             {8/                \ {#(((((((()                     {1/  /{x
+{x            {8|                  |{#()(()(()){&_{x
+{x            {8|                  |{#(((()()() {&|{x
+{x            {8\                  '\{#()))))(  {&|{x
+{x             {8\                   \{#(((((  {&/{x
+{x              {8\              .    \___. {&({x
+{x               {8\            / \    |{^:{8| ) {&\{x
+{x               {8|            | {&|{8`------{8'   {&|{x
+{x               {8\____________/  {&\_________/{x
+{x{# ............................................................................{x
+ 
+{W          Congratulations
+{B.                       {xNathral and Seqoin
+{w               on
+{B.                      {x August 22nd, 2005
+~
+0 9476 0
+E
+sign~
+Here was wed:
+December 26th, 2000 : Bobby & Catrine
+February  6th, 2001 : Sorn & Ariadne
+March 4th,     2001 : Bree & Catania
+March 31st,    2001 : Sturm & Katrina
+April 14th,    2001 : Decon & Arcania
+February 21st, 2002 : Solrinin & Audra
+February 21st, 2002 : Legras & Zoe
+~
+S
+#7
+A Room~
+It is a room used by Immortals.
+~
+0 5 0
+S
+#8
+Another Room~
+It is another room used by Immortals.
+~
+0 5 0
+S
+#12
+Bree's Study~
+This appears to be a study of some kind. Behind a large oak desk, hangs
+a huge mural of the Immortals of Distorted Illusions, drinking and
+laughing around a poker table. The room is illuminated slightly by an
+unknown magical light source, throwing light in all directions.
+~
+0 49668 0
+D0
+~
+~
+0 0 13
+D5
+~
+~
+1 0 14
+S
+#13
+Pit of the Damned~
+Flaming hot pits of lava spew themselves into the air from all directions.
+the floor appears to be made of ash and granite, while the sky is pitch
+black. A flash of lightning or two can be seen every few seconds, piercing
+the night sky. Several demons walk around near the pits, snickering and
+laughing.
+~
+0 268443649 0
+D2
+~
+~
+0 0 12
+S
+#14
+Bree's Secret Passage~
+~
+0 526336 0
+D0
+~
+~
+0 0 15
+D4
+~
+~
+1 0 12
+S
+#15
+Bree's Secret Passage~
+~
+0 559104 0
+D0
+~
+~
+0 0 16
+D2
+~
+~
+0 0 14
+S
+#16
+Bree's Solitude~
+~
+0 542720 0
+D2
+~
+~
+0 0 15
+S
+#21
+Council Room~
+{4######################--..'|.{4##############{*.|`..--{4#########################
+{4##############{*-./`.--./' ./ {4################{* \. `\. --.`\.-{4################
+{4############{*-.' `.`-'   /   -{4#############- {&.{*  \   `-'.'  `.-{4##############
+{4##########{*-.'    |     |  {&.'\ -{4##########- {&/`.{*  |     |     `.-{4############
+{4#########{*-.'      |     |  {&|`.`._ -{4####- {&_.'.'{*|  |     |       `.-{4#########
+{4#######{*-.'        `.    |  {&`..`._{*|\.--./|{&_.'..'{*  |    .'         `.-{4#######
+{4#####{*-.'            \   | {4#{&.`.`._{*`.'--`.'{&_.'.'.{4#{* |   /             `.-{4#####
+{4###{*-.'       ......  \  | {4###{&.`-'{*(o\||/o){&`-'.{4###{* |  /  ......        `.-{4###
+{4#{*-.`.......'-      `. \  \-{4####  |\_  _/|  {4####{*-/  / .'      -`........'.-{4#
+{4#{*;.'                 \ .----.__.'`(n||n)'`.__.----. /                  `; {4#
+{4#{*`.                  .'    .'   `. \`'/ .'   `.    `.                  .' {4#
+{4##{*:               ..':      :    '. -- .`    :      :`..               :{4###
+{4##{*:             .'   :     .'     .'  `.     `.     :   `.             :{4###
+{4##{*:           .'    .`   .'       . || .       `.   '.    `.           :{4###
+{4##{*:         .'    .' :       ....'      `....       : `.    `.         :{4###
+{4##{*:       .'    .' {!) {1)        {!(      {1)     {!(      {1(    {!){*`.    `.       :{4### 
+{4##{*:     ..'    .  {!( {1({!(   {1)  {!) {1){!) {1(  {!({1(  {!(  {1){!)  {1)  {!){1)  {!({1({*  `.   `..     :{4###
+{4##{*:  ..'      .'{4# {1) {!) {1) {!({1( {!( {1( {!(  {1) {!) {1) {!){1){!( {1( {!({1( {!( {1(  {!) {1) {4#{*`.     `..  :{4### 
+{4##{*;.'        .'{4##{#|{!({1(  {!( {1) {!) {1) {!) {1){!( {1(  {!({1( {!( {1) {!){1) {!) {1) {!){1( {!({#||{4##{*`.       `.:{4###
+{4##{*`.        .'{4###{#|\__  {!){1( {!({1( {!( {1( {!)  {1)  {!){1) {!)  {1(  {!({1( {!( {1){!({1({#/|{4###{*`.       .'{4###
+{4###{*.`       '{4#####{#\__---------------------------------__/{4#####{*`      '.{4####
+{4###################  {#---------------------------------  {4###################{x
+~
+0 8196 0
+S
+#22
+Bullshit here~
+{x
+{x         {!){x
+{x           {!({x
+{x         {1'    {!}{x
+{x       {!(    {1'{x
+{x      {1'      {!({x
+{x       {!)  {&|    {!){x
+{x     {1'   {^/{&|{^\    {1`{x
+{x    {!)   {^/ {&| {^\  {1` {!){x
+{x   {!{{    {^| {&| {^|  {!{{{x
+{x  {!}     {^| {&| {^|  {1.{x
+{x   {1'    {^| {&| {^|    {!){x
+{x  {!(    {#/{^| {&| {^|{#\    {1.{x
+{x   {1.  {#/ {^| {&| {^|{# \  {!({x
+{x {!}    {#\ \ {&| {#/ /  {1.{x
+{x  {!(    {#\ `-' /    {!}{x
+{x  {1'    {#/ ,-. \    {1'{x
+{x   {!}  {#/ / {&|{# \ \  {!}{x
+{x  {1'   {#\ {^| {&|{^ |{# /   {!}{x
+{x   {!(   {#\{^| {&|{^ |{#/  {!({x
+{x     {1.  {^| {&| {^|  {1'{x
+{x        {^J {&| {^L{x
+{x  {3/|    {^J{3_{&|{3_{^L    {3|\{x
+{x  {3\ \___/ {!o {3\___/ /{x
+{x   {3\_____ _ _____/{x
+{x         {3|{1={3|{x
+{x         {3|{1={3|{x
+{x         {3|{1={3|{x
+{x        {3,{3'{1={3'{*.{x
+{x        {3'---'{x
+{x
+~
+0 321284 0
+O Nimaci~
+S
+#23
+Demon Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 1 spec_breath_any Load to: Puff
+M 2 spec_breath_any Load to: Anna the Angel
+M 3 spec_breath_any Load to: Jimmy Bagwell the Protector
+M 4 spec_questmaster Load to: Shift Master
+M 5 spec_breath_gas Load to: {bPe{8st{wil{8en{bce{x
+M 7 spec_breath_any Load to: {yF{8a{ymi{8n{ye{x
+M 8 spec_cast_undead Load to: {8D{re{8a{rt{8h{x
+M 9 spec_cast_mage Load to: a shifter
+M 10 spec_cast_mage Load to: a shifter
+M 11 spec_cast_mage Load to: a shifter
+M 12 spec_cast_mage Load to: a shifter
+M 13 spec_cast_mage Load to: a shifter
+M 14 spec_cast_mage Load to: a chronos mage
+M 15 spec_cast_mage Load to: a chronos mage
+M 16 spec_cast_mage Load to: a chronos mage
+M 17 spec_fido Load to: {DA metal babble{x
+M 18 spec_cast_mage Load to: a giant easter rabbit
+M 19 spec_cast_mage Load to: a giant easter rabbit
+M 20 spec_cast_mage Load to: a giant easter rabbit
+M 21 spec_cast_mage Load to: a giant easter rabbit
+M 22 spec_cast_undead Load to: {BDJ {WD{Ceep {WD{Cish{x
+M 24 spec_fido Load to: {WA silver babble{x
+M 25 spec_fido Load to: {YA gold babble{x
+M 32 spec_janitor Load to: Test Dummy
+S
+
+
+
+#RESETS
+D 0 12 5 1 The down door of Bree's Study is closed
+D 0 14 4 1 The up door of Bree's Secret Passage is closed
+M 0 1 1 1 1 *Load Puff
+M 0 2 1 1 1 *Load Anna the Angel
+M 0 4 1 4 1 *Load Shift Master
+M 0 8 1 4 1 *Load {8D{re{8a{rt{8h{x
+E 0 70 0 17 *A {rh{yu{rm{ym{ri{yn{rg {cb{bl{cu{be {gp{gil{gl{x is loaded held in the hands of {8D{re{8a{rt{8h{x
+E 0 69 0 16 *{ddeath's touch{x is loaded wielded of {8D{re{8a{rt{8h{x
+M 0 7 1 4 1 *Load {yF{8a{ymi{8n{ye{x
+E 0 70 0 17 *A {rh{yu{rm{ym{ri{yn{rg {cb{bl{cu{be {gp{gil{gl{x is loaded held in the hands of {yF{8a{ymi{8n{ye{x
+M 0 6 1 4 1 *Load {cW{Ca{cr{x
+E 0 70 0 17 *A {rh{yu{rm{ym{ri{yn{rg {cb{bl{cu{be {gp{gil{gl{x is loaded held in the hands of {cW{Ca{cr{x
+M 0 5 1 4 1 *Load {bPe{8st{wil{8en{bce{x
+E 0 70 0 17 *A {rh{yu{rm{ym{ri{yn{rg {cb{bl{cu{be {gp{gil{gl{x is loaded held in the hands of {bPe{8st{wil{8en{bce{x
+M 0 16 1 4 1 *Load a chronos mage
+M 0 15 1 4 1 *Load a chronos mage
+M 0 14 1 4 1 *Load a chronos mage
+M 0 13 1 4 1 *Load a shifter
+M 0 12 1 4 1 *Load a shifter
+M 0 11 1 4 1 *Load a shifter
+M 0 10 1 4 1 *Load a shifter
+M 0 9 1 4 1 *Load a shifter
+M 0 24 1 4 1 *Load {WA silver babble{x
+M 0 17 1 4 1 *Load {DA metal babble{x
+E 0 50 0 17 *A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 is loaded held in the hands of {DA metal babble{x
+M 0 25 1 4 1 *Load {YA gold babble{x
+E 0 50 0 17 *A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 is loaded held in the hands of {YA gold babble{x
+M 0 33 1 4 1 *Load {BA Blue Babble{x
+M 0 34 1 4 1 *Load {@A{#e{@g{#i{@r{x
+E 0 75 0 16 *{@a{#e{@g{@i{#r{7'{#s {!d{8agge{!r{x is loaded wielded of {@A{#e{@g{#i{@r{x
+O 0 60 0 6 *A punch bowl full of {#le{3mo{#na{3de{x loaded to Wedding Chapel
+M 0 32 1 12 1 *Load Test Dummy
+O 0 68 0 13 *A {rflaming{x {dp{wi{dt{x loaded to Pit of the Damned
+O 0 76 0 16 *{xa {1red {1l{deathe{1r{x couch{x loaded to Bree's Solitude
+M 0 22 1 22 1 *Load {BDJ {WD{Ceep {WD{Cish{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5
+if level $n >= 50
+mob echoat $n The Shifter turns towards you and begins attacking!
+mob echoaround $n The Shifter attacks $N!
+mob cast chain $n
+endif
+~
+/* #6
+ if level $n >= 75
+ mob echoat $n The Chronos Mage turns towards you and begins attacking!
+ mob echoaround $n The Chronos Mage attacks $N!
+ mob cast 'acid rain' $n
+ endif */
+~
+#7
+if level $n >= 101
+mob echoat $n Pestilence turns towards you and begins attacking!
+mob echoaround $n Pestilence attacks $N!
+mob cast 'gas breath' $n
+endif
+~
+#8
+if level $n >= 101
+mob echoat $n War turns towards you and begins attacking!
+mob echoaround $n War attacks $N!
+bash $n
+endif
+~
+#9
+if level $n >= 101
+mob echoat $n Famine turns towards you and begins attacking!
+mob echoaround $n Famine attacks $N!
+mob cast sleep $n
+mob cast 'dispel magic' $n
+endif
+~
+#10
+if level $n >= 101
+mob echoat $n Death turns towards you and begins attacking!
+mob echoaround $n Death attacks $N!
+backstab $n
+endif
+~
+#11
+//Teleport Code for Chronos Mobiles
+mob zecho You feel a rift in reality.
+mob echo $i opens a rift in time and space and steps through.
+mob goto 4
+mob cast teleport
+if vnum $i == 17
+kill babble
+mob cast teleport
+mob echo A rift in time and space opens and $i comes through.
+~
+#12
+//Fight Code for Pestilence
+~
+#13
+mob remember $r
+if hastarget $i
+mob echo {cW{Ca{cr {Rgrabs $q by the neck and tosses them into the air!
+mob damage $q 3000 10000 lethal
+mob forget
+~
+#14
+//Fight Code for Famine
+~
+#15
+//Fight Code for Death
+~
+#16
+if carries $i 'arcane shard'
+if carries $i 2.'arcane shard'
+if carries $i 3.'arcane shard'
+if carries $i 4.'arcane shard'
+if carries $i 5.'arcane shard'
+if carries $i 6.'arcane shard'
+if carries $i 7.'arcane shard'
+if carries $i 8.'arcane shard'
+if carries $i 9.'arcane shard'
+if carries $i 10.'arcane shard'
+mob echoat $q $I mutters as your {MAr{Bca{Cne S{Bha{Mrds{x glow and fuse into a {wb{Wr{wigh{Wt w{wh{Wite {Cp{Wi{Cll{x.
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob junk shard
+mob oload 3279
+give pill $q
+else
+mob remember $n
+end
+~
+#17
+if level $n >= 75
+mob echoat $n The {8metal babble {0faces you and attacks in fear!
+mob echoaround $n The {8metal babble{0 faces $n and attacks in fear!
+mob kill $n
+end if
+~
+#18
+if level $n >= 90
+mob echoat $n The Easter Bunny looks are you with googly eyes and attacks!
+mob echoaround $n The Easter Bunny attacks $N!
+mob cast pris $n
+endif
+~
+#19
+mob zecho You smell brimstone and perfume.
+mob echo $i opens a rift in time and space and steps through.
+mob goto 4
+mob cast teleport
+mob echo A rift in time and space opens and $i comes through.
+~
+#20
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#21
+mob oload randobj
+mob oload randobj
+drop all
+say Happy Easter
+~
+#22
+if level $n > 74
+mob echoat $n The Silver Babble faces you and attacks in fear!
+mob echoaround $n The Silver Babble faces $n and attacks in fear!
+mob kill $n
+endif
+~
+#23
+mob transfer 2.babble 4
+mob purge babble
+~
+#24
+if rand 25
+mob echo The Chronos Mage howls with pain, as his soul is captured within a shard of strange material . . .
+mob oload 62
+else
+mob echo An Arcane Shard is formed, but suddenly evaporates before your eyes.
+endif
+~
+#25
+flee
+flee
+flee
+~
+#26
+mob echo A guest looks around, shifty eyed, and then empties a small flask into the punch bowl.
+mob purge punch
+mob oload 67
+~
+#27
+mob remember $r
+if $q carries 65
+else
+say Trying to crash this wedding are you? I don't see an invitation!
+mob echo The Invitation Checker grabs $q by his ear and throws him out of the chapel!
+mob transfer $q 3014
+grumble
+endif
+~
+#28
+load obj 50
+load obj 50
+drop all
+~
+#30
+say $n have you come for my head like many adventurers before have tried?
+~
+#33
+//Teleport Code for Chronos Mobiles
+mob zecho You feel a rift in reality.
+mob echo $i opens a rift in time and space and steps through.
+mob goto 4
+mob cast teleport
+if vnum $i == 17
+kill babble
+mob cast teleport
+mob echo A rift in time and space opens and $i comes through.
+~
+#34
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#35
+~
+#36
+~
+#0
+
+#$

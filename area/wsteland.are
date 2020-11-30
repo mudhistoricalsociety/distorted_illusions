@@ -1,0 +1,52 @@
+#AREADATA
+Name Wasteland~
+Builders Unlinked~
+VNUMs 26500 30199
+Continent 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#26500
+{DGathering Place{x~
+{YThis is the room most portals to Wasteland will lead to.
+there is no way back from here, must proceed down the trail.
+{x
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

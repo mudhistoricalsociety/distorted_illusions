@@ -1,0 +1,866 @@
+#AREADATA
+Name Sahuagin Outpost~
+Builders Iblis Unlinked~
+VNUMs 47701 47801
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#47701
+Gates of the Outpost~
+You enter the gates of the Sahuagin Outpost.  Guards stand at attention
+ready to impale their spears into your head.  The marshy lands around you
+brim with life as bugs eat at decaying flesh around you.  Bones from
+deceased enemies create the walls around you making it nearly impossible to
+escape.  
+~
+0 4 0
+D2
+~
+~
+0 0 47702
+S
+#47702
+The Stream Around the Outpost~
+You enter the outpost feeling the eyes of unknown foes looking at you. 
+The water is up to your knees as you feel something brush against you feet. 
+Torches light the way for you to follow as you attempt to tread to murky
+waters.  
+~
+0 0 0
+D0
+~
+~
+0 0 47701
+D1
+~
+~
+0 0 47703
+D2
+~
+~
+0 0 47714
+D3
+~
+~
+0 0 47713
+S
+#47703
+The Stream Around the Outpost~
+You travel towards the east on the stream.  The trees around you block
+out most of the sunlight making it nearly impossible to see what is
+splashing in the water behind you.  Screams of prisioners fill the air with
+pain and torture.  
+~
+0 0 0
+D1
+~
+~
+0 0 47704
+D3
+~
+~
+0 0 47702
+S
+#47704
+The Northeast Corner~
+The stream turns south from here.  Heads of fallen foes lay on the ground
+making the air smell of decaying flesh.  Sahugin scamper from tree to tree
+attempting to get a better vantage point of their next potential meal.  
+~
+0 0 0
+D2
+~
+~
+0 0 47705
+D3
+~
+~
+0 0 47703
+S
+#47705
+The Stream Around the Outpost~
+The steam continues south from here.  The waters are steadily getting
+faster as it pushes again towards the south.  All life around you seems to
+be diminishing as the sounds of wildlife disappear into the darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 47704
+D2
+~
+~
+0 0 47706
+S
+#47706
+Southeast Corner~
+The southeast corner of the outpost is a bleak part of the Sahuagin.  A
+pile of bones sit in the corner as insects help devour anything left on
+them.  The sky has taken on a purple haze and you feel as if you have
+entered a whole other world completely.  
+~
+0 0 0
+D0
+~
+~
+0 0 47705
+D3
+~
+~
+0 0 47707
+S
+#47707
+The Stream Around the Outpost~
+Heading towards the west the stream beings to pick up momentum.  Sahuagin
+begin to bring themselves into view unafraid to sneak in the shadows.  The
+red eyes in the tree line start to grow in numbers as you feel your spine
+being tickled by an unseen force.  Turning around to find out what is there,
+you just hear the sounds of water going in the opposite direction when a
+spear laying on the ground near the bank.  
+~
+0 0 0
+D1
+~
+~
+0 0 47706
+D3
+~
+~
+0 0 47708
+S
+#47708
+The Stream's End~
+The streams all join up here creating a slow moving whirl pool.  As the
+water slows down it pushes off towards the south where the slow dripping
+sounds of water can be heard.  Besides the rustling of creatures in the
+brush you hear the moans of tortured souls echoing in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 47714
+D1
+~
+~
+0 0 47707
+D2
+~
+~
+0 0 47715
+D3
+~
+~
+0 0 47709
+S
+#47709
+The Stream Around the Outpost~
+Heading towards the weast the stream begins to pick up momentum. 
+Sahuagin begin to bring themselves into view unafraid to sneak in the
+shadows anymore.  The red eyes in the tree line start to grow in numbers as
+you feel your spine being tickled by an unseen force.  Turning around to
+find out what is there, you just hear the sounds of water going in the
+opposite direction when a spear laying on the ground near the bank.  
+~
+0 0 0
+D1
+~
+~
+0 0 47708
+D3
+~
+~
+0 0 47710
+S
+#47710
+The Southwest Corner~
+In the southwest corner of the outpost children sahuagin fight over a
+freshly killed enemy.  Ripping the flesh from its bones, they begin the
+feast on the entrails falling onto the ground.  As you make a splash in the
+stream they instantly look up at you with their teeth bearing, blood
+dripping down.  In an attempt to save your life you head to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 47711
+D1
+~
+~
+0 0 47709
+S
+#47711
+The Stream Around the Outpost~
+The steam continues south from here.  The waters are steadily getting
+faster as it pushes again towards the south.  All life around you seems to
+be diminishing as the sounds of wildlife disappear into the darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 47712
+D2
+~
+~
+0 0 47710
+S
+#47712
+The Northwest Corner~
+The northwest corner of the outpost is much like the rest of the area. 
+YOu feel eyes staring down at you and the feeling that there is always a
+spear at your neck.  You hear a strange language in the bush line discussing
+ways to cook your meat over the few fires laying around on the banks.  
+~
+0 0 0
+D1
+~
+~
+0 0 47713
+D2
+~
+~
+0 0 47711
+S
+#47713
+The Stream Around the Outpost~
+The banks towards on the western part of the stream are convered in
+blood.  It slowly washes into the stream causing a frenzy from the wildlife
+in the water around you.  As you attempt to move you continue to feel things
+biting at your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 47702
+D3
+~
+~
+0 0 47712
+S
+#47714
+The Middle Stream~
+The middle stream of the outpost is a quiet but very lifeful place. 
+Sahuagin bury themselves in the banks hiding from the light radiating from
+above.  A couple of bones strung together create a primative sort of wind
+chime.  As you continue on your journey you feel the current pushing you
+towards the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 47702
+D2
+~
+~
+0 0 47708
+S
+#47715
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47708
+D5
+~
+~
+0 0 47716
+S
+#47716
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47717
+D3
+~
+~
+0 0 47726
+D4
+~
+~
+0 0 47715
+D5
+~
+~
+0 0 47735
+S
+#47717
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47718
+D2
+~
+~
+0 0 47722
+D3
+~
+~
+0 0 47716
+S
+#47718
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47719
+D2
+~
+~
+0 0 47717
+S
+#47719
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47720
+D1
+~
+~
+0 0 47721
+D3
+~
+~
+0 0 47718
+S
+#47720
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47719
+S
+#47721
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47719
+S
+#47722
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47717
+D1
+~
+~
+0 0 47723
+S
+#47723
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47725
+D2
+~
+~
+0 0 47724
+D3
+~
+~
+0 0 47722
+S
+#47724
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47723
+S
+#47725
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47723
+S
+#47726
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47727
+D1
+~
+~
+0 0 47716
+D2
+~
+~
+0 0 47731
+S
+#47727
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47726
+D3
+~
+~
+0 0 47728
+S
+#47728
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47729
+D1
+~
+~
+0 0 47727
+D3
+~
+~
+0 0 47730
+S
+#47729
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47728
+S
+#47730
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47728
+S
+#47731
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47726
+D3
+~
+~
+0 0 47732
+S
+#47732
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47731
+D2
+~
+~
+0 0 47733
+D3
+~
+~
+0 0 47734
+S
+#47733
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47732
+S
+#47734
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47732
+S
+#47735
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47736
+D4
+~
+~
+0 0 47716
+S
+#47736
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47735
+D1
+~
+~
+0 0 47737
+D2
+~
+~
+0 0 47745
+D3
+~
+~
+0 0 47741
+S
+#47737
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47738
+D3
+~
+~
+0 0 47736
+S
+#47738
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47739
+D3
+~
+~
+0 0 47737
+S
+#47739
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47740
+D2
+~
+~
+0 0 47738
+S
+#47740
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47739
+S
+#47741
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47736
+D3
+~
+~
+0 0 47742
+S
+#47742
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47743
+D1
+~
+~
+0 0 47741
+S
+#47743
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47742
+D3
+~
+~
+0 0 47744
+S
+#47744
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47743
+S
+#47745
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47736
+D2
+~
+~
+0 0 47746
+S
+#47746
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47745
+D4
+~
+~
+0 0 47747
+S
+#47747
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47748
+D5
+~
+~
+0 0 47746
+S
+#47748
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47747
+D1
+~
+~
+0 0 47751
+D2
+~
+~
+0 0 47749
+D3
+~
+~
+0 0 47755
+S
+#47749
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47748
+D2
+~
+~
+0 0 47750
+S
+#47750
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47749
+S
+#47751
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47752
+D3
+~
+~
+0 0 47748
+S
+#47752
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47753
+D3
+~
+~
+0 0 47751
+S
+#47753
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47752
+D1
+~
+~
+0 0 47754
+S
+#47754
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47753
+S
+#47755
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47748
+D3
+~
+~
+0 0 47756
+S
+#47756
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47755
+D2
+~
+~
+0 0 47757
+S
+#47757
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47756
+D3
+~
+~
+0 0 47758
+S
+#47758
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47757
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

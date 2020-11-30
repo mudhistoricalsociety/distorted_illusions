@@ -1,0 +1,1744 @@
+#AREADATA
+Name 36 Chambers of Death~
+Builders Rzarecta Unlinked~
+VNUMs 2500 2599
+Continent 0
+Credits [CLOSE] Rzrcta  36 Chambers of Death~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2500
+~
+~
+0 0 0
+D5
+~
+~
+0 0 2501
+S
+#2501
+~
+The path that appears from the east ends here abruptly as the direction
+drastically curves to the north.  From a distance, you see what seems to be
+a huge but somewhat humble-looking castle.  You pause for a moment to wonder
+what to do next.  The trees around you gap away from you and part as the
+structures of the huge building to the north presents itself clearly, almost
+inviting you to go there.
+~
+0 0 0
+D0
+~
+~
+0 0 2502
+S
+#2502
+~
+~
+0 0 0
+E
+sign~
+W E L C O M E . . .
+               T H E  3 6  C H A M B E R S
+                                   O F  D E A T H ! ! !
+Area done by Rzarecta aka Opio Copyright 1997.  All Rights Reserved.
+~
+D0
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2501
+S
+#2503
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2502
+S
+#2504
+~
+The path leading further into the chambers darkens immensely and for some
+reasons turns chilly.  Not much can be seen around you but total pitch
+blackness.  Two tiny sparks of fire from small candles provide some
+visibility here.  Much more light can be seen to the south.  The path north
+is black as ever can be.
+~
+0 0 0
+D0
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2503
+S
+#2505
+~
+A tiny mouse scampers by as you enter here.  Blackness is dominant around
+you.  The tiny patches of light to your left and right are all that's visible
+here.  Blackness is seen south of here.  To the north light can be observed.
+~
+0 0 0
+D0
+~
+~
+0 0 2506
+D2
+~
+~
+0 0 2504
+S
+#2506
+~
+A stone-faced carving of an evil cackling face glows above both of the
+chamber doors to your left and right.  The shambled wooden doors that hold
+you here in this dim area are old and rotting away badly.  Strange noises
+are heard from both sides.  Beside each door is a large torch giving light
+as you stand here.  Darkness fills both to the south and the north.
+~
+0 0 0
+D0
+~
+~
+0 0 2509
+D1
+~
+~
+0 0 2508
+D2
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2507
+S
+#2507
+~
+Curiousities of your first encounters are always the mysterious and most
+fearful situations.  With no knowledge of what to expect, you see nothing
+special about this dungeon but a flat surfaced board chained to the side
+walls for sleep.  Creepy little critters scamper by the floor as the air in
+the chamber fills you with uncomfortable feelings.  An exit is out to the
+east.
+~
+0 0 0
+D1
+~
+~
+0 0 2506
+S
+#2508
+~
+Your eyes squint as you notice bright sparkles fill the entire chamber.
+The room seems to be strangely enchanted as you see flying little lighted
+objects float about you.  You realize inside this chamber that you've become
+utterly dizzy to the room's unusual setting.  An exit is out to the west.
+~
+0 0 0
+D3
+~
+~
+0 0 2506
+S
+#2509
+~
+The darkness once again overwhelms you.  The stench of the invisible air
+utters an eerie tingling feeling to your body.  Tiny little candles perch on
+the sides of the walls giving some sort of life in the room.  To the south
+and north, you see some light illuminating.
+~
+0 0 0
+D0
+~
+~
+0 0 2510
+D2
+~
+~
+0 0 2506
+S
+#2510
+~
+Huge chamber doors appear to your left and right.  A strange statue of a
+crying woman is perched on top of both doors.  Huge torches stand beside it.
+Ahead of you to the north lies darkness into the unknown.  To the south lies
+a passageway into the unknown.  You stop for a moment and listen to the
+silence...  So deathly quiet.  So scary..
+~
+0 0 0
+D0
+~
+~
+0 0 2513
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2511
+S
+#2511
+~
+As you enter here..  You clench your ears shut to a loud-pitched noise
+somewhere inside here.  You open your eyes in pain to see yourself seeing
+double!!  You realize that now you want to leave this chamber quick..  The
+exit's out east if you can make it!
+~
+0 0 0
+D1
+~
+~
+0 0 2510
+S
+#2512
+~
+This room is filled with many graphic pictures of slain monsters and
+warriors in the history of battles past.  Used as for some sort of
+wallpaper, you notice some of the pictures move as you look away from it.
+You feel as if you have a real bad feeling about what is to happen next.
+The chamber door is to the west.
+~
+0 0 0
+D3
+~
+~
+0 0 2510
+S
+#2513
+~
+The darkness once again meets you as you continue along this long
+passageway into the numerous chambers.  But what lies ahead of you is your
+biggest curiousity.  How well-prepared are you for your next confrontation?
+Walled statues of ugly looking creatures are hung along the chamber walls
+here.  A lit passageway is to the south and north.
+~
+0 0 0
+D0
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2510
+S
+#2514
+~
+Lookout!!!!!  WOOOOOOOOOOSH!  A huge winged creature just swooped by over
+you and fled north into the darkness.  As you recover, you look around and
+notice several bats perched upside down above you.  They must be asleep.
+Tiny little insects move across the passage here to your avoidance.  Two
+more chamber doors appear to your left and right.  Darkness is dominant to
+the north and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2513
+S
+#2515
+~
+Loud thumping noises are heard above you as the path dims and the ground
+is somewhat wet.  You examine the wetness and realize that this fluid is
+blood coming from the north!  The vibrant thumping knocks over the candles
+perched along side the walls here making the room dark.  Light from the
+north and the south is seen at a distance.  Whispers can be heard all around
+you now.
+~
+0 0 0
+D0
+~
+~
+0 0 2516
+D2
+~
+~
+0 0 2514
+S
+#2516
+~
+Torches give some light here as they hang beside you along this passage.
+Stone faces of despair hang above the chamber doors both to your west and
+east.  A good amount of blood from the north makes a large river-like trail
+to the south of you.  A couple of rats scatter about near a human skull next
+to the western chamber door.
+~
+0 0 0
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2517
+S
+#2517
+~
+All around the chamber, displays of unique and never seen before weapons
+and armor are hung on the walls.  Most of the equipment haven't been cleaned
+yet from the battles its endured through.  A tiny little shrine is set at
+the western wall with a picture of an elderly man on the portrait.  Smells
+of incense fill the room with a herbal aroma.  The odor has made you
+somewhat dizzy.  A large tapestry is placed in the middle of the chamber
+here.  In the center of this tapestry, a huge circular ring with a large "W"
+is drawn.  A chamber door is to the east.  You begin to feel a little woozy.
+~
+0 0 0
+D1
+~
+~
+0 0 2516
+S
+#2518
+~
+You look around the room and notice that you are being watched!  A
+strange golden glass layers the walls around you with nothing but eyes
+watching you.  You look north and see eyes watching you.  You look south and
+see eyes watching you as well!  Eyes, Eyes, Eyes!  You shiver uneasily.  An
+exit goes out to the west.  A sign from above reads, 'SEE AND FEEL!  FEAR
+AND DIE!'
+~
+0 0 0
+D0
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2516
+S
+#2519
+~
+As you arrive, en enormous puddle of blood fills the room.  Decapitated
+body parts lie here and there.  You gasp in horror as above you, a long
+chain hangs high with a head of a human still tied to the chains.  Drips of
+blood fall from the neck of the head as it leaks into the darkness to the
+south.  A huge iron gate blocks your way north into the unknown.
+~
+0 0 0
+D0
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2518
+S
+#2520
+~
+You enter a chamber where drips of water fall from the ceiling above.  A
+small fire fills some liveliness in this hideous smelly chamber in the
+center of the room.  Several bones from a dead animal lie about the room.
+At the far northern end, old stairs ascend up into the darkness.
+~
+0 0 0
+D2
+~
+~
+0 0 2519
+D4
+~
+~
+0 0 2521
+S
+#2521
+~
+At the right-most corner of the chamber, you notice a humongous cage with
+blood and pieces of meat lying around in scraps.  Several bones from what
+looks like an animal of some sort scatter amongst the room.  The walls are
+strangely decorated with a unique orange coloring and black stripes all
+around.  The wall's surface is of strange tiger fur as you feel the layers.
+Blood is furnished all around..  Something is definitely not right in here.
+A door to the south gets you out of this horrifying room!  An old stairway
+descends down.
+~
+0 0 0
+D2
+~
+~
+0 0 2522
+D5
+~
+~
+0 0 2520
+S
+#2522
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  A scratched-up wooden door is to your north.  The
+dark passageway continues south.
+~
+0 0 0
+D0
+~
+~
+0 0 2521
+D2
+~
+~
+0 0 2523
+S
+#2523
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  A chamber door lies to your east.  To the south, the
+eerie darkness continues.
+~
+0 0 0
+D0
+~
+~
+0 0 2522
+D1
+~
+~
+0 0 2524
+D2
+~
+~
+0 0 2525
+S
+#2524
+~
+Pictures of furious dragons of all kinds furnish the walls around you.
+Each wall depicts a story of the rise and fall of the dragons from great
+battles with soldiers of numerous amounts to the great heist attempt on the
+dragon's treasures.  Glorious treasures and sorts fill the room with
+luxurious furnishings and such.  Scraps of flesh and bones lie scattered
+about in the chamber.  A wooden door to the west enables your way out of
+here.
+~
+0 0 0
+D3
+~
+~
+0 0 2523
+S
+#2525
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  You grip your weapon and your armor a bit tighter as
+you walk down this passageway.  Blackness is seen to your north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2526
+S
+#2526
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  A second passageway heads to the west.  Strange
+moans however can be heard to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 2525
+D2
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2527
+S
+#2527
+~
+You can't see anything!!!  Are you blind?  All you remember is exits that
+go west and east here.
+~
+0 0 0
+D1
+~
+~
+0 0 2526
+D3
+~
+~
+0 0 2528
+S
+#2528
+~
+To the western wall, you see a skeleton of a human shackled in chains
+against the wall here.  Little spiders rest within the skeleton bones and
+settle there with cobwebs filled all over.  You wonder how long that
+skeleton's been hanging there.  Several eyes high above you look down upon
+you but make no action in trying to attack.  To your north and south are old
+wooden chamber doors with a steel bar bolted over it.  A huge knob allows
+entry to both chambers.
+~
+0 0 0
+D0
+~
+~
+0 0 2529
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2530
+S
+#2529
+~
+Golden rays of light glitter around as you enter this chamber.  You are
+awe-stricken by its magnificent interiors.  Statues of bronze-figured eagles
+perch along the western and eastern walls.  Two pillars are aligned across
+each other on the northern end of the chamber.  Two huge gargoyle statues
+stand in front of you with an empty space between.  Usually you would see a
+throne or a pedestal..  Strange..  Overall, you are captivated by its
+brightness and beauty and wonder why a room so overwhelming would be in a
+castle so dark and evil..  Then you look again at the room..  Something is
+not right.  An exit is to the south.
+~
+0 0 0
+D2
+~
+~
+0 0 2528
+S
+#2530
+~
+Tiny little bats fly across above you from the eastern end to the western
+end of this chamber.  Statues of evil demons and goblins are set here as a
+monument of evil.  Strange writings unknown to you are written around the
+walls.  You stop for a moment to translate but have no luck.  A unknown but
+horrifying odor can be smelt around the room..  Like..  Like..  Human
+flesh!!!!  You bulge your eyes out in caution and look at all directions
+around you..  It suddenly turns deathly quiet.  A chamber door is to the
+north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 2528
+S
+#2531
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  Dead silence suddenly freezes you!  To the south you
+noticed something scamper off in the darkness!
+~
+0 0 0
+D0
+~
+~
+0 0 2526
+D2
+~
+~
+0 0 2532
+S
+#2532
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  As you look around, you notice two different
+passageways to go to.  To the east, a slight chilly breeze can be felt
+towards that direction.  But to the south, the passageway is also breezy..
+Noo wait..  Maybe something's just wrong with you..  Where will you go?
+~
+0 0 0
+D0
+~
+~
+0 0 2531
+D1
+~
+~
+0 0 2533
+D2
+~
+~
+0 0 2534
+S
+#2533
+~
+Several piles of hay are lying in the southwestern and southeastern
+corners of the chamber.  You strangely look at the haystack and notice
+something moved inside it!  The room gives out a horrible smell like chicken
+manure or something.  You gag and want to leave here immediately!  Chamber
+doors exit to the west and east.
+~
+0 0 0
+D3
+~
+~
+0 0 2532
+S
+#2534
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  The path continues north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 2532
+D2
+~
+~
+0 0 2535
+S
+#2535
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  You've come upon a four-way passage.  Exits are
+possible in every direction..  Hmm..  There's a sign posted here..  Maybe
+you should read it.
+~
+0 0 0
+E
+sign~
+Help...   To whoever... can read..... this........
+            Great danger... lies... within ... this "CROSS".....
+                            Please... bewaarrr..............
+*You stand there wondering what happened to the fellow who TRIED to
+write this*
+~
+D0
+~
+~
+0 0 2534
+D1
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2536
+S
+#2536
+~
+The passage ends here abruptly with another wooden chamber door to your
+south.  A low pedestal with a torch lit on it illuminates a faint glow in
+the room.  Cracked walls are filled along the northern and western walls.
+The aging wooden door to your south is filled with many tiny critters and
+webs cautioning your way in.  To the east the way is much dimmer.
+~
+0 0 0
+D1
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2538
+S
+#2537
+~
+A small pedestal lies at the northeastern portion of the wall.  A small
+torch is lit upon the pedestal giving off a faint spell of light within the
+room.  A wooden door leads to a chamber inside to the south.  Darkness once
+again fills to the west.  Strange vibrations and very low moans can be felt
+and heard behind the eastern wall.  You stop momentarily to wait for the
+noises to fade!
+~
+0 0 0
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2535
+S
+#2538
+~
+As you step foot inside the chamber, you notice that the door itself is
+covered with a golden sticky substance dripping along the floor.  You turn
+around and gasp as you realize the chamber you have entered upon is a golden
+honeycomb smelling of nothing but honey!  Numbers of tiny little bees fly
+around within honeycomb to honeycomb harvesting.  Puddles of honey are seen
+around you with a small empty table to the western wall.  You gasp again as
+you notice a recently deceased body filled with bee-stings all over being
+slowly eaten alive by a swarm of bees!  An exit is out north but you wonder
+how you'll be able to touch the door with all that honey..  The bees might
+attack you!
+~
+0 0 0
+D0
+~
+~
+0 0 2536
+S
+#2539
+~
+Strange circular tiles with rings inside them fill around the chamber as
+you enter.  The smooth stone surface are filled with tiny little holes all
+around you.  You suddenly realize that little tiny maggots are crawling out
+from it!  You stand fast in caution and see nothing around you but realize
+that you had better leave quick before you get overtaken by these little
+creepy insects!  A chamber door leaves to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 2537
+S
+#2540
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  A passage to the north is visible.  To the south,
+the passage continues.
+~
+0 0 0
+D0
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2541
+S
+#2541
+~
+Echoes of evil cackling and screams of horror are heard along the chamber
+passageway.  Obscure darkness consolidates itself in a form of mysterious
+enigma arousing your curiousity into following yourself to the darkness
+beyond.  The dirt soil beneath your feet covers the hard layered cement as
+you drag yourself exhausted from your already past encounters.  Several
+bones from a human skeleton lie scattered along side this tunnel with
+cobwebs built upon it.  You have come upon three possible exits.  To the
+north, a passage leads into the unknown.  Huge chamber doors lead to the
+west and south of here.
+~
+0 0 0
+D0
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2542
+S
+#2542
+~
+The faint smell of candles illuminates the room in a peaceful yet deathly
+quiet manner.  Sounds of faint music are heard..  Sort of like a bamboo
+flute.  Your eyes gaze at the spectacular banners that are hung along the
+northern and southern wall of the chamber.  A logo of a huge dragon is on
+the southern banner while to the northern banner is the logo of a snake.
+Tiny walled candles fill along the room.  A small altar is seen before you
+with strange language writings encrypted on an aging scroll here.  Beside
+the altar lies two huge statues of slanted-eyed warriors bronzed and shined.
+The chamber door allows you to exit here to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 2541
+S
+#2543
+~
+You squint your eyes from the brightness in the room and pause for a
+moment.  You open your eyes and find yourself what seems to be a dojo of
+sorts.  Strangely this chamber is extraordinarily big.  Ropes are set all
+around you preventing you to exit the room!  You look around somewhat
+confused and in thought as to why this room looks so familiar to you.  A
+small chair is set at the northwestern and southeastern corner of the
+chamber!  You suddenly are dumbfounded by the fact that you have entered an
+ancient boxing ring!  Ghosts of all sorts are seen around you high above the
+ceiling shouting and cheering!  You are the fighter!  But who is your
+opponent?  Your heart beats rapidly as you stand there indecisive of your
+actions.  An exit is to the north.  A dangling rope hangs from the darkness
+seen above the ghostly spectators aloft.
+~
+0 0 0
+D0
+~
+~
+0 0 2541
+D4
+~
+~
+0 0 2544
+S
+#2544
+~
+Evil sounds of cackling and booing can be heard from a pit that lies here
+in the middle of the room.  A small rope tied to the ceiling above you
+allows you to move down below into some hideous and dark chamber.  A door
+can be seen to the north with a sign next to it.  A wailing voice whistles,
+'Bewaare...  Bewareee......  Bewaare.... '
+~
+0 0 0
+E
+sign~
+W E L C O M E . .
+           T O  T H E
+                 F I N A L  S T A G E . .
+                                     O R  I S  I T ? ? ?
+~
+D0
+~
+~
+0 0 2545
+D5
+~
+~
+0 0 2543
+S
+#2545
+~
+Strange as it seems..  You see a horde of buzzing bees all around you..
+Sealed up in their honeycombs and furiously anticipating in breaking the
+blockage and ready to attack!  You frantically panic and wonder where to
+flee.  It seems you have no way to flee to..  A huge chamber door is visible
+to your north and south.  From the intense buzzing you plug your ears and
+begin lose focus of yourself and your physical status and want to leave..
+But where to go?
+~
+0 0 0
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2544
+S
+#2546
+~
+The entire room is camoflauged in a strange silvery black color.  Along
+the walls around you, stand sacred weapons and armor of ancient samurai
+times.  Blades of shiny steel and gold sparkle the room giving your eyes a
+slight squint as you wander your eyes.  A strange garment of sorts in a
+black color with a silvery logo embedded on the front hangs atop the eastern
+wall with 3 other pieces of armor, one a helmet, one a pair of shin
+protectors, a pair of golden gloves and a pair of strange glowing bracers.
+To the western wall are five of the finest blades from the samurais to be
+held from thousands of years past.  Although these equipment would suit you
+good for battle, you suddenly blink and see them instantly gone!  You look
+around and notice instantly the room has emptied clean!  Chamber doors are
+visible from the north to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2545
+S
+#2547
+~
+A strange huge aura of light fills the entire room--not blinding your
+eyes but with an unknown dimness to it.  As you stand, you notice unusual
+things moving around you even though you see nothing out of the ordinary.  A
+baritone-moaning hum can be heard below your feet as if some machine is
+running.  You look around and see portraits of many druids and wizards
+casting spells on hideous creatures visualizing horrifying pictures of blood
+and gore.  Your stomach feels light as you look about and feel somewhat
+woozy.  Large chamber doors are seen to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 2548
+D2
+~
+~
+0 0 2546
+S
+#2548
+~
+Four small urns stand within the corners of the room here.  A
+larger-sized urn lies in the middle with a strange and unknown sound coming
+from the inside.  The ground is filled with sand as you step along the hard
+and moving surface.  Something has crawled right beside you!!  What is it?
+You quickly jump aside and look around ..  And see several bones and
+skeletons lying about.  A glowing door is seen to the north while a regular
+chamber door to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 2549
+D2
+~
+~
+0 0 2547
+S
+#2549
+~
+Divine inspirations, self-fulfillment, restorations and such--you feel a
+heavenly presence illuminate here as you find some sort of relief and
+resting spot in the room.  A huge pedestal with a stone-dimpled ditch has
+some form of strange clear liquid on it.  Four crosses stand within the four
+corners of the wall.  You don't know if so, but a strange heavenly chant can
+be chorused within the room giving you a sense of life..  A sense of
+revival.  Golden doors lead both ways to the north and the south.
+~
+0 0 0
+D0
+~
+~
+0 0 2550
+D2
+~
+~
+0 0 2548
+S
+#2550
+~
+A huge throne is layed upon the center of the western wall with golden
+tapestries and glittery sparkles all on the seat.  Elegant flowers and
+magnificant tiles of floral designs fill the chamber walls here.  You look
+peacefully around the room thinking that this must not be an evil chamber..
+You gaze at the corner of the room and see a shattered portrait with a vague
+picture of a beautiful lady in golden and silver sparkles.  You wonder what
+this could mean.  Two elegant doors are seen to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 2551
+D2
+~
+~
+0 0 2549
+S
+#2551
+~
+A huge plywood surface is perched along the mid-section of the walls all
+around.  Small boxes of bloodthirsty insects hypertensionally buzz hoping to
+be let out in search of prey.  You stare at some of these insects in awe at
+the enormous sizes of them!  As you look about at all the displays, you
+notice most of them are trying to pry their way out..  To attack you!!!
+Hurry!  Exits to the north and south..  But you must open the chamber doors
+first!
+~
+0 0 0
+D0
+~
+~
+0 0 2552
+D2
+~
+~
+0 0 2550
+S
+#2552
+~
+Your eyes have turned bad!  Or is it just your imagination?  You move
+around randomly in a state of confusion and in need as you have somehow fell
+into the spell of visual impairment!  Strange shapes and forms of
+manifestations fill your eyes with blur.  You know you havent drank too much
+from your journeys..  So why is this happening?  You gaze around again..
+And notice a dark brown door visible to the north and south of you..  Maybe
+if you can just get that knob in reach..
+~
+0 0 0
+D0
+~
+~
+0 0 2553
+D2
+~
+~
+0 0 2551
+S
+#2553
+~
+Utter silence is heard..  The chamber is empty.  Nothing special is seen
+around here..  Only four walls and two doors headed north and south.  You
+sit here to rest for a moment, but you know through instincts that something
+is wrong.
+~
+0 0 0
+D0
+~
+~
+0 0 2554
+D2
+~
+~
+0 0 2552
+S
+#2554
+~
+A chamber door into the realms of chaos can be seen to the south.  To the
+north an old wooden stairway coils downwards into the darkness arousing your
+curiousity..  What perils lie between here and down there?  On both eastern
+and western walls you see two huge notes posted for those who ventured this
+deep within the 36 chambers of death.  The notes to your "west" and to your
+"east" demand your attention.
+~
+0 0 0
+D2
+~
+~
+0 0 2553
+D5
+~
+~
+0 0 2555
+S
+#2555
+~
+With each step into the dark stairways down, you notice several bats
+fly away from you off to the chambers above.  You pause for a moment and
+debate whether to continue or abort this entire adventure..  You shake your
+head and decide to make a decision...  You've come too far to wuss out.
+~
+0 0 0
+D4
+~
+~
+0 0 2554
+D5
+~
+~
+0 0 2556
+S
+#2556
+~
+So quiet..  So peaceful..  But maybe a bit too peaceful.  Brick walls are
+layered around you wet with dripping water.  Several drips of water from
+above emits a wet, stenchy downpour of eerie feeling.  Exits to the west and
+east reveal light from a distance.  Darkness fills towards the south.  As
+you scout out the room you notice a sign behind you on the northern wall.
+An old stairway climbs into the darkness above.
+ 
+NOTE: It is advised that a party of 2 or more enter these realms due to the
+possible extreme difficulty of the mobs and the damage they emit (including
+the possible EQ that provides).
+~
+0 0 0
+E
+sign~
+Mighty adventurer!  You have proven yourself to be a force to wrecken
+with.  I applaud you of your achievements.  But your ultimate test lies
+before you.  My clan of sorcerers and warriors will see to that your life in
+battle here will be a short one..  These are my finest creations!  Can you
+defeat my entourage of monsters!?!?!?!?
+MUAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH!
+~
+D1
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2569
+D3
+~
+~
+0 0 2557
+D4
+~
+~
+0 0 2555
+S
+#2557
+~
+A path runs here from the west to the east.  Drips of water fall from the
+ceiling above.  Small torches fill the dark room with a little bit of light
+as you walk along this long corridor-like passage.
+~
+0 0 0
+D1
+~
+~
+0 0 2556
+D3
+~
+~
+0 0 2558
+S
+#2558
+~
+The long passageway turns south here as you notice a shackled skeleton
+perched atop here on the western wall.  Chills run down your spine as you
+feel the sense of evil spirits fill the aroma of the atmosphere.  Several
+rats run from one crevice of a hole to the next in search of food.  THe
+light turns dark to the south here.  A lit passage leads to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 2557
+D2
+~
+~
+0 0 2559
+S
+#2559
+~
+A scream of horror is heard not too far away as you walk into sudden
+darkness!  You stop momentarily and wait for more sounds..  You hear
+nothing.  Tiny little footsteps can be heard echoing to the north.  A
+haunting moan of sorts can be heard somewhere to the south.  The once water
+droplets that fell from the ceiling has dried up now.  You walk within the
+passage with soft feet in waiting ...  But for what.
+~
+0 0 0
+D0
+~
+~
+0 0 2558
+D2
+~
+~
+0 0 2560
+S
+#2560
+~
+As you arrive, you almost vomit at the sight of decapitated body parts
+lying all over the place.  Sprays of blood and guts ooze along the dungeon
+walls as you around.  Pieces of internal organs lie splattered as if some
+menacing creature took a bite out of somebody!  You turn away from the room
+facing north and momentarily gathering yourself.  You then look at the room
+and ready for whatever you may encounter behind the western or eastern
+chamber doors.
+~
+0 0 0
+D0
+~
+~
+0 0 2559
+D1
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2561
+S
+#2561
+~
+Ghostly spirits are seen flying around high up above as you enter.
+Several portraits of men are seen along the western and northern wall.  A
+bed is stood along the southwestern corner of the chamber where a huge "G"
+is drawn on the bedsheets.  A small circular table is at the southeastern
+end of the room with a tiny lantern stood on it.  Several jester masks are
+hung above the chamber door to the east as you gaze around the room.  An
+interesting yet bizarre room this is..
+~
+0 0 0
+D1
+~
+~
+0 0 2560
+S
+#2562
+~
+Mysterious roars of intense rage pierce within your eardrums as you
+arrive.  The roars somehow disables your equilibrium for a bit as you try to
+maintain composure.  Sprays and blotches of blood fill around the chamber
+walls as you look around.  A humongous checkered floor is seen here with
+black and white colors almost making you think as if you were standing in a
+chessboard.  On the center of the room a huge circular logo with the letters
+"ODB" is encrypted.  You look around and feel disabled in any sense of
+entering battle.  A chamber door leads you out to the west.
+~
+0 0 0
+D3
+~
+~
+0 0 2560
+S
+#2563
+~
+A path runs here from the west to the east.  Drips of water fall from the
+ceiling above.  Small torches fill the dark room with a little bit of light
+as you walk along this long corridor-like passage.
+~
+0 0 0
+D2
+~
+~
+0 0 2564
+D3
+~
+~
+0 0 2556
+S
+#2564
+~
+The long passageway turns south here as you notice a dead body perched
+atop here on the eastern wall.  Shivers start running down your spine as you
+sense a fear overtake you as you wander about.  Several cockroaches scatter
+about into a tiny hole in search of I don't know what.  The light turns dark
+to the south of here.  A lit passage leads to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2565
+S
+#2565
+~
+Sounds of strange voodoo music is heard somewhere around the area.
+Repetitious drum sounds are being played.  You stop for a moment and hear
+the unusual sound fade into the utter silence.  A quietness is heard to the
+south and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 2564
+D2
+~
+~
+0 0 2566
+S
+#2566
+~
+Voodoo drums are heard once again but now in a louder volume.  A drip of
+sweat slowly descends on your face as you feel the bass of your heartbeat
+louder and louder.  You panic for a short time and then realize that the
+voodoo drum is doing something to you!  You must find the source of that
+enchanted sound and eliminate it at all cost..  But where is it coming from?
+Chamber doors are to your right and left.  A tiny glittery star sparkles
+before you and then wooshes to your west.
+~
+0 0 0
+D0
+~
+~
+0 0 2565
+D1
+~
+~
+0 0 2568
+D3
+~
+~
+0 0 2567
+S
+#2567
+~
+The room is black...  Black as can be.  You feel as if you come upon
+outside the castle..  But this must be just a visual illusion.  You look up
+and see bright glittery spots of light and several shooting lights fly
+across above you.  A chilly breeze fills within you as you notice tiny
+cricket chirpings from a distance.  Wait, you must be outside..  No inside..
+No wait..  "What the hell are you doing here," you ask yourself..  A glowing
+door leads you out to the east.  You notice that you don't hear anymore
+voodoo drums.
+~
+0 0 0
+D1
+~
+~
+0 0 2566
+S
+#2568
+~
+You've entered a gourmet kitchen of sorts.  Cupboards and pantries fill
+the room around you furnishing certain delicious yummy foods.  You see a
+huge refrigerator at the northeastern corner of the chamber.  A huge table
+with a sink is here in the middle of the kitchen with a huge "W" logo cloth
+layered on top.  Of course, you realize this is the kitchen of the angry
+cook Raevon, who through history has been known in serving massacre
+cuisines with human bodies..  You suddenly become terrified and make your
+way for the exit out west.  But then you your heart beats fast..  And you
+soon realize that voodoo noise that you heard before is the sound of your
+heart from far away.  You blink your eyes for one second and suddenly see
+drenches and downpours of red oozing all over the kitchen.....  Blood..
+AHHHHHHHHHHHHHHHHHHHHH!
+~
+0 0 0
+D3
+~
+~
+0 0 2566
+S
+#2569
+~
+The passage here is dark and dreadful.  Although you've come this far
+into the chambers, you find yourself overcome with courage from the darkness
+that lies beyond.  You've proven yourself to be a worthy adventurer within
+the 36 chambers..  But more perils lie ahead of you.  The path goes north
+and south of here.
+~
+0 0 0
+D0
+~
+~
+0 0 2556
+D2
+~
+~
+0 0 2570
+S
+#2570
+~
+The dark passage continues north and south.  Your feet is growing weary
+of the hard brick-layered ground forcing you to complain of your boots that
+you are wearing.  This might be a legitimate spot to rest for a bit..  But I
+think you better be aware of what lurks around you.
+~
+0 0 0
+D0
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2571
+S
+#2571
+~
+The long passageway continues on and on along the north and the south.
+Usually torches are seen perched along the side walls as you walk here, but
+you find that darkness is all that is to be seen.  Where will this nullified
+realm take you to next?
+~
+0 0 0
+D0
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2572
+S
+#2572
+~
+You have come upon a passage that leads in all directions.  A strange
+circular orb of sorts hangs high above you to provide some illumination as
+you notice strange wails from the south and north.  Silence is heard headed
+west and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 2571
+D1
+~
+~
+0 0 2575
+D2
+~
+~
+0 0 2577
+D3
+~
+~
+0 0 2573
+S
+#2573
+~
+You are now outside a chamber door that heads into the south where a soft
+scratching noise from the door can be heard.  A strange blank portrait is
+hung on the western wall here..  Leaving you in wonder..  What is it?  A
+passage leads to the east where some glow can be seen.
+~
+0 0 0
+D1
+~
+~
+0 0 2572
+D2
+~
+~
+0 0 2574
+S
+#2574
+~
+Strange weird drums thump about as you enter a strange decorated room.
+Weird festive rugs and weapons and armors hang across the four walls here.
+On the western wall lies a small table with strange musical instruments.  On
+the eastern wall lies a round table with strange weapons of sorts.  An exit
+out of here is to the north.  A smell of smoke begins to fill the room...
+~
+0 0 0
+D0
+~
+~
+0 0 2573
+S
+#2575
+~
+You are now outside a chamber door that is to the north of you.  It is
+quiet in here but to the eastern wall lies a strange black frame.  You
+wonder..  What do you see there?  A passage leads to the west where some
+light is shown.
+~
+0 0 0
+D0
+~
+~
+0 0 2576
+D3
+~
+~
+0 0 2572
+S
+#2576
+~
+The chamber suddenly turns shivery cold as you find yourself completely
+in obscure blackness!  Strange little spots of light shine around you...
+No...  You realize that they aren't spots but pairs of eyes shining and
+glaring at you waiting for your first conflictual move!
+~
+0 0 0
+D2
+~
+~
+0 0 2575
+S
+#2577
+~
+To the north of you some sort of light can be seen while the ground here
+slightly slants itself downward into the darkness southwards.  Several bats
+hurry above you into the darkness.
+~
+0 0 0
+D0
+~
+~
+0 0 2572
+D2
+~
+~
+0 0 2578
+S
+#2578
+~
+Darkness is all to be seen.  The passage however veers off in all
+directions.  It is deathly quiet.  Not a sound to be heard at all.  You
+somewhat lose your balance while trying to move around in the dark.
+~
+0 0 0
+D0
+~
+~
+0 0 2577
+D1
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2579
+D3
+~
+~
+0 0 2580
+S
+#2579
+~
+OOMPH!  As you move southward, your walk is interrupted by a huge chamber
+door.  A small SIGN is posted beside the door here.  A passage heads off
+north.
+~
+0 0 0
+E
+sign~
+Welcome to your final destruction!!!
+                           Farewell to your short life!!!
+~
+D0
+~
+~
+0 0 2578
+D2
+~
+~
+0 0 2584
+S
+#2580
+~
+A torch is just east of this chamber door as you arrive.  The walls
+around are aging and some crumbling as well.  Small cobwebs hang on the
+corners of the ceilings above you.  Darkness leads you eastward.
+~
+0 0 0
+D1
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2583
+S
+#2581
+~
+A torch lies west of the chamber door here.  The walls around are old and
+cracked badly.  Several old skeleton bones lie around here.  A passage takes
+u to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2578
+S
+#2582
+~
+Strange objects are floating about you as the room seems to be spinning.
+You are somewhat dazed by the strange colors that fill the walls.  You hold
+on to the door trying to regain your equilbrium but don't know what to do.
+An evil voice says, 'You cannot leave here alive... You cannot leave here 
+alive!!
+~
+0 0 0
+D3
+~
+~
+0 0 2581
+S
+#2583
+~
+In comparison with the other chambers..  This one is quite large in
+width.  In the far corner to the east lies a strange cylindrical sack filled
+with sand used for punching.  Off to the western wall lies a small altar
+with several wicks of cense burning filling the room with a stench of
+mystery.  Several carcasses are found lying scattered in the chamber.  The
+only form of light shining is a small glow from the northwestern corner of
+the dungeon.  An exit is seen to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 2580
+S
+#2584
+~
+Your eyes suddenly are blinded!  A scorching ray of light shoots at you
+as you stagger not able to see what's around you!!  Your foot seems to have
+tripped over something as you lose balance and almost fall here.
+~
+0 0 0
+D0
+~
+~
+0 0 2579
+D5
+~
+~
+0 0 2585
+S
+#2585
+~
+-
+ 
+               -
+                |
+                 -
+                  |
+                   -
+                    |
+                     -
+                      |
+                       -
+                        |
+                        |
+                       \ /
+                        .
+The stairway makes a sudden descent all the way down into the unknown.
+~
+0 0 0
+D4
+~
+~
+0 0 2584
+D5
+~
+~
+0 0 2586
+S
+#2586
+~
+-
+|
+                 _
+                |
+               _
+              |
+             _
+            |
+           _
+          |
+<--------
+The stairs suddenly spin west as it descends and finally flattens to a 
+passage headed west.
+~
+0 0 0
+D3
+~
+~
+0 0 2587
+D4
+~
+~
+0 0 2585
+S
+#2587
+~
+The room stops here as you have entered what seems to be a dead end.  To
+your fright you notice horrifying drenches of blood shot about here and
+there on the walls.  Several scraps of flesh are lying here and there as you
+take caution to what dwells in here.
+~
+0 0 0
+D1
+~
+~
+0 0 2586
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

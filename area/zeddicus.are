@@ -1,0 +1,5688 @@
+#AREADATA
+Name Lands of Turmoil~
+Builders Zeddicus Unlinked~
+VNUMs 8500 8799
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#8500
+gate captain soldier guard~
+a Gate Captain~
+A soldier in a {Yyellow{x uniform guards the gate.
+~
+~
+human~
+AB 0 0 -1000 0
+125 50 10000d1+1 1d1+1 25d10+0 slash
+-20 -20 -20 -20
+DFHIK 0 N 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 8500 100~
+#8501
+yellow turban soldier~
+a Yellow Turban Soldier~
+A soldier in a {Yyellow{x uniform patrols the area.
+~
+The man is dressed in a yellow uniform.  Around his head is a yellow
+bandanna.  
+~
+human~
+A 0 0 -1000 0
+125 50 10000d1+1 1d1+1 25d10+0 slash
+-20 -20 -20 -20
+DFHIK 0 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#8502
+yellow turban officer~
+a Gate Captain~
+A soldier in a {Yyellow{x uniform guards the gate.
+~
+~
+human~
+AT 0 0 -1000 0
+125 50 15799d1+1 1d1+1 32d10+15 slash
+-30 -30 -30 -30
+DFHIK 0 N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#8503
+zhang jiao~
+{xZhang Jiao~
+Zhang Jiao is here preaching to those willing to listen.
+~
+A skin man dressed in a long yellow robe stand before you preaching.  He
+has a beard down to his chest and long hair.  His eyes hint of insanity.  
+~
+human~
+AGR DEFJV 0 -1000 0
+145 400 19999d1+1 5000d1+99 20d60+25 wrath
+-30 -30 -30 -40
+0 0 0 0
+stand stand male 30000
+0 AK medium unknown
+F for AHMV
+F par BCDEFGHIJ
+#8504
+yellow turban archer~
+a Yellow Turban Archer~
+An archer in a {Yyellow{x uniform takes aim.
+~
+The man is dressed in a yellow uniform.  Around his head is a yellow
+bandanna.  
+~
+human~
+A 0 0 -1000 0
+125 50 10000d1+1 1d1+1 175d1+0 slash
+-5 -5 -5 -50
+DFHIK 0 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#8505
+dong zhuo~
+{xDong Zhuo~
+Dong Zhuo sits here distracted by something.
+~
+~
+human~
+ABT DEFJLZ 0 -1000 0
+150 100 19999d1+1 0d0+0 50d25+10 none
+-40 -40 -40 -40
+FHK 0 0 0
+stand stand male 25000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#8500
+camp key~
+{xCamp Key~
+The key to a camp gate.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#8501
+key hu lao gate~
+{xHu Lao Gate Key~
+The key to the Hu Lao Gate.~
+unknown~
+key PUV A
+0 0 0 0 0
+0 0 0 P
+#8502
+key hu lao city~
+{xCity Key~
+The key to the city.~
+unknown~
+key 0 0
+0 0 0 0 0
+0 0 0 P
+#8503
+castle key he fei~
+{xHe Fei Castle Key~
+The key to He Fei castle.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#8504
+key castle~
+{xCastle Gate Key~
+The key to the castle gate.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#8505
+zhang jiaos staff~
+{RV{ro{Yl{Rc{Ya{rn{Ro {DStaff{x~
+A long staff smokes from a stone at the head.~
+unknown~
+weapon 0 AN
+staff 26 7 wrath AF
+101 0 0 P
+A
+17 -15
+A
+12 100
+#8506
+crossbow bow~
+a Crossbow~
+A crossbow has been discarded~
+unknown~
+weapon 0 AN
+exotic 1 200 none F
+90 0 10000 P
+#0
+
+
+
+#ROOMS
+#8500
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 4 2
+D0
+~
+~
+0 0 8506
+D1
+~
+~
+0 0 8502
+D3
+~
+~
+0 0 8501
+S
+#8501
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 0 2
+D0
+~
+~
+0 0 8503
+D1
+~
+~
+0 0 8500
+D3
+~
+~
+0 0 8505
+S
+#8502
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 0 2
+D0
+~
+~
+0 0 8514
+D3
+~
+~
+0 0 8500
+S
+#8503
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 0 2
+D0
+~
+~
+0 0 8507
+D1
+~
+~
+0 0 8506
+D2
+~
+~
+0 0 8501
+D3
+~
+~
+0 0 8504
+S
+#8504
+Grassy Plain~
+The grass is shorter here.  A lot of trees grow but they are very small
+trees.  There are a few green bushes growing sporadically.  A river flows to
+the north and mountains lie in the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8508
+D1
+~
+~
+0 0 8503
+D2
+~
+~
+0 0 8505
+D3
+~
+~
+0 0 8510
+S
+#8505
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  A mountain range looms to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8504
+D1
+~
+~
+0 0 8501
+S
+#8506
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 0 2
+D0
+~
+~
+0 0 8513
+D2
+~
+~
+0 0 8500
+D3
+~
+~
+0 0 8503
+S
+#8507
+Grassy Plain~
+The grass is shorter here.  A lot of trees grow but they are very small
+trees.  There are a few green bushes growing sporadically.  A river flows to
+the north and mountains lie in the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8508
+S
+#8508
+Grassy Plain~
+The grass is shorter here.  A lot of trees grow but they are very small
+trees.  There are a few green bushes growing sporadically.  A river flows to
+the north and mountains lie in the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8511
+D1
+~
+~
+0 0 8507
+D2
+~
+~
+0 0 8504
+D3
+~
+~
+0 0 8509
+S
+#8509
+Near the Bridge~
+The grass is shorter here.  A lot of trees grow but they are very small
+trees.  There are a few green bushes growing sporadically.  A river flows to
+the north and mountains lie in the west.  There is a wooden bridge to the
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 8515
+D1
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8510
+S
+#8510
+Grassy Plain~
+The grass is shorter here.  A lot of trees grow but they are very small
+trees.  There are a few green bushes growing sporadically.  A river flows to
+the north and mountains lie in the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8509
+D1
+~
+~
+0 0 8504
+S
+#8511
+Along the River~
+An unpassable river runs along the land to the north.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8508
+S
+#8512
+Along the River~
+An unpassable river runs along the land to the north.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D1
+~
+~
+0 0 8513
+D2
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8511
+S
+#8513
+Along the River~
+An unpassable river runs along the land to the north.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D1
+~
+~
+0 0 8514
+D2
+~
+~
+0 0 8506
+D3
+~
+~
+0 0 8512
+S
+#8514
+Along the River~
+An unpassable river runs along the land to the north.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D2
+~
+~
+0 0 8502
+D3
+~
+~
+0 0 8513
+S
+#8515
+Small Wooden Bridge~
+A wooden bridge crosses the river heading north.  The bridge is barely
+wide enough for two to cross it at the same time.  A single rope runs on
+both sides of the bridge.  
+~
+0 0 2
+D0
+~
+~
+0 0 8516
+D2
+~
+~
+0 0 8509
+S
+#8516
+Near the Bridge~
+The grass has been trampled down by whoever has traveleled here.  The
+river borders to the east and the bridge back to the south.  The river is
+shallow to the west.  Large trees fill the northern horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 8517
+D2
+~
+~
+0 0 8515
+D3
+~
+~
+0 0 8528
+S
+#8517
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 0 2
+D0
+~
+~
+0 0 8518
+D1
+~
+~
+0 0 8522
+D2
+~
+~
+0 0 8516
+D3
+~
+~
+0 0 8527
+S
+#8518
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  A lush forest grows far to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 8519
+D1
+~
+~
+0 0 8521
+D2
+~
+~
+0 0 8517
+S
+#8519
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  A lush forest grows far to the north.
+~
+0 0 2
+D1
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8518
+S
+#8520
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  A lush forest grows far to the north.
+Smoke rises in the air to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 8523
+D1
+~
+~
+0 0 8543
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8519
+S
+#8521
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  A lush forest grows far to the north.
+Smoke rises in the air to the east.  
+~
+0 4 2
+D0
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8522
+D3
+~
+~
+0 0 8518
+S
+#8522
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  The river is to the south.  Smoke
+rises in the air to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8517
+S
+#8523
+Before the Forest~
+The field leads to a large forest.  Birds and insects chirp softly from
+inside the forest.  Rays of light beam down from spaces in the canopy.  A
+path leads in to the west.  
+~
+0 0 2
+D2
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8524
+S
+#8524
+In the Forest~
+Paths have been blazed throught the trees by earlier travelers.  There
+appears to be a few different types of trees in the forest.  The path
+continues west.  
+~
+0 0 3
+D0
+~
+~
+0 0 8574
+D1
+~
+~
+0 0 8523
+D3
+~
+~
+0 0 8525
+S
+#8525
+In the Forest~
+Paths have been blazed throught the trees by earlier travelers.  There
+appears to be a few different types of trees in the forest.  The path
+continues west.  
+~
+0 4 3
+D0
+~
+~
+0 0 8655
+D1
+~
+~
+0 0 8524
+S
+#8526
+In the River~
+Water rushes by in swift currents.  Only knee high, the water is still
+difficult to wade.  Sharp rocks sit in the bottom of the river.  
+~
+0 0 6
+D2
+~
+~
+0 0 8527
+D3
+~
+~
+0 0 8531
+S
+#8527
+In the River~
+Water rushes by in swift currents.  Only knee high, the water is still
+difficult to wade.  Sharp rocks sit in the bottom of the river.  
+~
+0 0 6
+D0
+~
+~
+0 0 8526
+D1
+~
+~
+0 0 8517
+D2
+~
+~
+0 0 8528
+D3
+~
+~
+0 0 8529
+S
+#8528
+In the River~
+Water rushes by in swift currents.  Only knee high, the water is still
+difficult to wade.  Sharp rocks sit in the bottom of the river.  
+~
+0 0 6
+D0
+~
+~
+0 0 8527
+D1
+~
+~
+0 0 8516
+D3
+~
+~
+0 0 8530
+S
+#8529
+In the River~
+Water rushes by in swift currents.  Only knee high, the water is still
+difficult to wade.  Sharp rocks sit in the bottom of the river.  Large
+mountians to the west shadow the waters making it a little colder.  
+~
+0 0 6
+D1
+~
+~
+0 0 8527
+D2
+~
+~
+0 0 8530
+S
+#8530
+In the River~
+Water rushes by in swift currents.  Only knee high, the water is still
+difficult to wade.  Sharp rocks sit in the bottom of the river.  Large
+mountians to the west shadow the waters making it a little colder.  
+~
+0 0 6
+D0
+~
+~
+0 0 8529
+D1
+~
+~
+0 0 8528
+S
+#8531
+Near the River~
+The grass recedes into sand into water.  Mountains rise high to the
+southwest.  The path seems to lead around the mountains to the northwest.  
+~
+0 0 2
+D0
+~
+~
+0 0 8532
+D1
+~
+~
+0 0 8526
+S
+#8532
+Path to the Mountains~
+The path continues.  It leads up through the mountains to the west.  The
+river can be seen to the east.  
+~
+0 0 2
+D2
+~
+~
+0 0 8531
+D3
+~
+~
+0 0 8533
+S
+#8533
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  It leads to the east and the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 8532
+D2
+~
+~
+0 0 8534
+S
+#8534
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  It leads to the north and to the south.  
+~
+0 0 5
+D0
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8535
+S
+#8535
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  It leads to the north and the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 8534
+D3
+~
+~
+0 0 8536
+S
+#8536
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  It leads to the east and the west.  
+~
+0 0 5
+D1
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8537
+S
+#8537
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  It leads to the east and the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 8536
+D2
+~
+~
+0 0 8538
+S
+#8538
+Through the Mountains~
+Mountains border the path on both sides.  The grass has been trampled
+down to dirt.  The path rises and falls as it it continues through the
+mountains.  A large gate lies to the far west.  
+~
+0 4 5
+D0
+~
+~
+0 0 8537
+D3
+~
+~
+0 0 8575
+S
+#8539
+Along the River~
+An unpassable river runs along the land to the south.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D0
+~
+~
+0 0 8545
+D1
+~
+~
+0 0 8546
+S
+#8540
+Along the River~
+An unpassable river runs along the land to the south.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D0
+~
+~
+0 0 8546
+D1
+~
+~
+0 0 8544
+S
+#8541
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 8543
+D1
+~
+~
+3 8500 8553
+D2
+~
+~
+0 0 8545
+S
+#8542
+Along the River~
+An unpassable river runs along the land to the south.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D0
+~
+~
+0 0 8548
+D3
+~
+~
+0 0 8544
+S
+#8543
+Grassy Fields~
+Tall grass grows all around you.  Trees sway with the wind.  Bolders have
+been placed strategically in certain locations.  This looks like a great
+place for grand battle to take place.  
+~
+0 4 2
+D1
+~
+~
+0 0 8551
+D2
+~
+~
+0 0 8541
+D3
+~
+~
+0 0 8520
+S
+#8544
+Along the River~
+An unpassable river runs along the land to the south.  Large bolders have
+been placed at the edge to prevent falling into the river.  The water looks
+to be flowing very swiftly.  
+~
+0 0 2
+D0
+~
+~
+0 0 8547
+D1
+~
+~
+0 0 8542
+D3
+~
+~
+0 0 8540
+S
+#8545
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 8541
+D2
+~
+~
+0 0 8539
+S
+#8546
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 8547
+D2
+~
+~
+0 0 8540
+D3
+~
+~
+0 0 8539
+S
+#8547
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8546
+S
+#8548
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 8549
+D1
+~
+~
+0 0 8562
+D2
+~
+~
+0 0 8542
+D3
+~
+~
+0 0 8547
+S
+#8549
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 8557
+D1
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8548
+D3
+~
+~
+3 8500 8555
+S
+#8550
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade cavalry raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D2
+~
+~
+0 0 8549
+S
+#8551
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 8552
+D3
+~
+~
+0 0 8543
+S
+#8552
+Outside the Camp~
+Beyond the hills lies a small camp.  Smoke from cooking fires rise into
+the air.  Sharp poles have been arranged to dissuade calvery raids.  Guard
+towers stand high at all the corners.  Different color flags flap in the
+wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8557
+D3
+~
+~
+0 0 8551
+S
+#8553
+Inside the Camp~
+Wooden crates are placed along the walls.  Archer towers and battlements
+from above help protect the camp.  A few tents are around a fire in the
+center of the camp.  Various weapons are leaned against a rack for easy
+access.  Horses are picketted to a rope line.  
+~
+0 0 1
+D1
+~
+~
+0 0 8556
+D2
+~
+~
+0 0 8554
+D3
+~
+~
+3 0 8541
+S
+#8554
+Inside the Camp~
+Wooden crates are placed along the walls.  Archer towers and battlements
+from above help protect the camp.  A few tents are around a fire in the
+center of the camp.  Various weapons are leaned against a rack for easy
+access.  Horses are picketted to a rope line.  
+~
+0 0 1
+D0
+~
+~
+0 0 8553
+D1
+~
+~
+0 0 8555
+S
+#8555
+Inside the Camp~
+Wooden crates are placed along the walls.  Archer towers and battlements
+from above help protect the camp.  A few tents are around a fire in the
+center of the camp.  Various weapons are leaned against a rack for easy
+access.  Horses are picketted to a rope line.  
+~
+0 0 1
+D0
+~
+~
+0 0 8556
+D1
+~
+~
+3 0 8549
+D3
+~
+~
+0 0 8554
+S
+#8556
+Inside the Camp~
+Wooden crates are placed along the walls.  Archer towers and battlements
+from above help protect the camp.  A few tents are around a fire in the
+center of the camp.  Various weapons are leaned against a rack for easy
+access.  Horses are picketted to a rope line.  
+~
+0 0 1
+D2
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8553
+S
+#8557
+Path up the Mountain~
+A trail leads up the mountain to the northeast.  It is wide enough for a
+few to travel in ranks.  A few small trees grow in the pass.  
+~
+0 0 5
+D1
+~
+~
+0 0 8558
+D2
+~
+~
+0 0 8549
+D3
+~
+~
+0 0 8552
+S
+#8558
+Mountain Pass~
+Mountains border the pass on both sides.  The grass has been trampled
+down to dirt.  The mountains pass is getting steeper and harder to climb. 
+The ocean can be seen to the far south.  A great forest can be seen in the
+west also.  
+~
+0 0 5
+D0
+~
+~
+0 0 8559
+D3
+~
+~
+0 0 8557
+S
+#8559
+Mountain Pass~
+Mountains border the pass on both sides.  The grass has been trampled
+down to dirt.  The mountains pass is getting steeper and harder to climb. 
+The ocean can be seen to the far south.  A great forest can be seen in the
+west also.  
+~
+0 0 5
+D1
+~
+~
+0 0 8560
+D2
+~
+~
+0 0 8558
+S
+#8560
+Mountain Pass~
+Mountains border the pass on both sides.  The grass has been trampled
+down to dirt.  The mountains pass is getting steeper and harder to climb. 
+The ocean can be seen to the far south.  A great forest can be seen in the
+west also.  
+~
+0 4 5
+D0
+~
+~
+0 0 8689
+D3
+~
+~
+0 0 8559
+S
+#8561
+Fields End~
+The grass ends abuptly into mountains to steep to pass.  Little trees
+with pink flowers sway with the wind.  There is a small camp in the distance
+to the west.  Water can be seen to the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 8562
+D3
+~
+~
+0 0 8549
+S
+#8562
+Fields End~
+The grass ends abuptly into mountains to steep to pass.  Little trees
+with pink flowers sway with the wind.  There is a small camp in the distance
+to the west.  Water can be seen to the southeast.  A large bridge crosses
+the river to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8563
+D3
+~
+~
+0 0 8548
+S
+#8563
+Large Bridge~
+A wide bridge spans before you.  It has been constructed of large timber
+and thick rope.  Many could cross it saftly at one time.  The river below
+runs swiftly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8562
+D2
+~
+~
+0 0 8564
+S
+#8564
+Large Bridge~
+A wide bridge spans before you.  It has been constructed of large timber
+and thick rope.  Many could cross it saftly at one time.  The river below
+runs swiftly.  
+~
+0 0 0
+D0
+~
+~
+0 0 8563
+D2
+~
+~
+0 0 8565
+S
+#8565
+Large Bridge~
+A wide bridge spans before you.  It has been constructed of large timber
+and thick rope.  Many could cross it saftly at one time.  The river below
+runs swiftly.  
+~
+0 4 0
+D0
+~
+~
+0 0 8564
+D2
+~
+~
+0 0 8568
+S
+#8566
+On the Beach~
+Sand replaces the grass.  Water surrounds the land.  To the north theres
+is a very large bridge.  Ships dot the horizon to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8568
+D2
+~
+~
+0 0 8570
+S
+#8567
+On the Beach~
+Sand replaces the grass.  Water surrounds the land.  To the north theres
+is a very large bridge.  Ships dot the horizon to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 8568
+D2
+~
+~
+0 0 8569
+S
+#8568
+On the Beach~
+Sand replaces the grass.  Water surrounds the land.  To the north theres
+is a very large bridge.  Ships dot the horizon to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8565
+D1
+~
+~
+0 0 8572
+D2
+~
+~
+0 0 8566
+D3
+~
+~
+0 0 8567
+S
+#8569
+On the Beach~
+Sand replaces the grass.  Water surrounds the land.  To the north theres
+is a very large bridge.  Ships dot the horizon to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8567
+D1
+~
+~
+0 0 8570
+S
+#8570
+On the Beach~
+Sand replaces the grass.  Water surrounds the land.  To the north theres
+is a very large bridge.  Ships dot the horizon to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8566
+D2
+~
+~
+0 0 8571
+D3
+~
+~
+0 0 8569
+S
+#8571
+Approaching the Ocean~
+The ocean encompasses the surrounding land.  Three large ships are
+harbored to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 8570
+D2
+~
+~
+0 0 8610
+S
+#8572
+Supply Port~
+A small port is here used for reenforcements for the Wu army.  A small
+wooden gate leads to the port.  There are some crates and clay pots near the
+gate.  
+~
+0 0 2
+D3
+~
+~
+0 0 8568
+S
+#8573
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D2
+~
+~
+0 0 8552
+S
+#8574
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D2
+~
+~
+0 0 8524
+S
+#8575
+Hu Lao Road~
+The path meets a stone cobblestone road.  A large stone gate looms in the
+west.  The path leads through the mountains to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 8538
+D3
+~
+~
+0 0 8576
+S
+#8576
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8581
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8582
+D3
+~
+~
+0 0 8577
+S
+#8577
+Before the Hu Lao Gate~
+Huge wooden doors banded in iron, bar the passage to the west.  The gate
+itself towers high above you.  It runs between the mountain ranges. 
+Climbing this wall would be impossible.  
+~
+0 0 2
+D0
+~
+~
+0 0 8580
+D1
+~
+~
+0 0 8576
+D2
+~
+~
+0 0 8583
+D3
+~
+~
+0 0 8578
+S
+#8578
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8579
+D1
+~
+~
+0 0 8577
+D2
+~
+~
+0 0 8584
+D3
+~
+~
+4 8501 8585
+S
+#8579
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D1
+~
+~
+0 0 8580
+D2
+~
+~
+0 0 8578
+S
+#8580
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8608
+D1
+~
+~
+0 0 8581
+D2
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8579
+S
+#8581
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8576
+D3
+~
+~
+0 0 8580
+S
+#8582
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8576
+D1
+~
+~
+0 0 8575
+D3
+~
+~
+0 0 8583
+S
+#8583
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8577
+D1
+~
+~
+0 0 8582
+D2
+~
+~
+0 0 8609
+D3
+~
+~
+0 0 8584
+S
+#8584
+Hu Loa Road~
+Stones pave the road leading east and west.  Flower beds fill large
+stuctures built at the edge of both sides of the road.  Trees with small
+white flowers grow along the road as well.  A large stone gate looms to the
+west.  Mountains border to the north and south.  East leads back into the
+mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 8578
+D1
+~
+~
+0 0 8583
+S
+#8585
+Inside Hu Lao Gate~
+The gate is very thick.  Stone walls form into an arch.  Wagons could
+enter five abreast.  West leads to the city, east to the mountains.  
+~
+0 0 0
+D1
+~
+~
+4 0 8578
+D3
+~
+~
+0 0 8586
+S
+#8586
+Past the Gate~
+Grass grows on both sides of the road.  The road abruptly ends in
+another, smaller gate.  The Hu Loa Gate looms to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 8589
+D1
+~
+~
+0 0 8585
+D2
+~
+~
+0 0 8588
+D3
+~
+~
+0 0 8587
+S
+#8587
+Before the City~
+The road leads to a smaller stone gate.  It is in good condition. 
+Serpents are carved into the stone wall on both sides.  West leads into the
+city.  East leads to the Hu Lao Gate.  
+~
+0 0 0
+D1
+~
+~
+0 0 8586
+D3
+~
+~
+3 8502 8595
+S
+#8588
+Past the Gate~
+Grass grows on both sides of the road.  The road abruptly ends in
+another, smaller gate.  The Hu Loa Gate looms to the east.  There is a set
+of steps that climb up to the top of the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 8586
+D4
+~
+~
+0 0 8594
+S
+#8589
+Past the Gate~
+Grass grows on both sides of the road.  The road abruptly ends in
+another, smaller gate.  The Hu Loa Gate looms to the east.  There is a set
+of steps that climb up to the top of the gate.  
+~
+0 0 0
+D2
+~
+~
+0 0 8586
+D4
+~
+~
+0 0 8590
+S
+#8590
+On the Gate~
+The view of the area is grand.  This would be an excellent spot to attack
+those seeking to enter the Hu Lao Gate.  Racks containing arrows and spears
+have been placed along the gate.  There is a set of steps leading down to
+the ground.  The gate runs south.  
+~
+0 0 0
+D2
+~
+~
+0 0 8591
+D5
+~
+~
+0 0 8589
+S
+#8591
+On the Gate~
+The view of the area is grand.  This would be an excellent spot to attack
+those seeking to enter the Hu Lao Gate.  Racks containing arrows and spears
+have been placed along the gate.  The gate runs north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8590
+D2
+~
+~
+0 0 8592
+S
+#8592
+On the Gate~
+The view of the area is grand.  This would be an excellent spot to attack
+those seeking to enter the Hu Lao Gate.  Racks containing arrows and spears
+have been placed along the gate.  The gate runs north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8591
+D2
+~
+~
+0 0 8593
+S
+#8593
+On the Gate~
+The view of the area is grand.  This would be an excellent spot to attack
+those seeking to enter the Hu Lao Gate.  Racks containing arrows and spears
+have been placed along the gate.  The gate runs north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8592
+D2
+~
+~
+0 0 8594
+S
+#8594
+On the Gate~
+The view of the area is grand.  This would be an excellent spot to attack
+those seeking to enter the Hu Lao Gate.  Racks containing arrows and spears
+have been placed along the gate.  A set of steps lead down to the ground. 
+The gate runs north.  
+~
+0 0 0
+D0
+~
+~
+0 0 8593
+D5
+~
+~
+0 0 8588
+S
+#8595
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8601
+D1
+~
+~
+3 0 8587
+D2
+~
+~
+0 0 8600
+D3
+~
+~
+0 0 8596
+S
+#8596
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8602
+D1
+~
+~
+0 0 8595
+D2
+~
+~
+0 0 8599
+D3
+~
+~
+0 0 8597
+S
+#8597
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8603
+D1
+~
+~
+0 0 8596
+D2
+~
+~
+0 0 8598
+S
+#8598
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8597
+D1
+~
+~
+0 0 8599
+S
+#8599
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8596
+D1
+~
+~
+0 0 8600
+D3
+~
+~
+0 0 8598
+S
+#8600
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 8595
+D3
+~
+~
+0 0 8599
+S
+#8601
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D2
+~
+~
+0 0 8595
+D3
+~
+~
+0 0 8602
+S
+#8602
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+1 0 8607
+D1
+~
+~
+0 0 8601
+D2
+~
+~
+0 0 8596
+D3
+~
+~
+0 0 8603
+S
+#8603
+In the City~
+Houses are packed close together with small alleys between them. 
+Tattered clothes hang from ropes connecting some of the houses.  A high
+stone wall surrounds the city.  The town looks very poor and dirty.  One
+large house to the north looks to be in good condition.  
+~
+0 0 1
+D1
+~
+~
+0 0 8602
+D2
+~
+~
+0 0 8597
+S
+#8604
+Inside the Mansion~
+The room is big.  Painting of naked ladies hang on the walls.  There are
+a few statues and flowerpots in the room.  Voices can be heard deeper in the
+mansion.  
+~
+0 0 0
+D2
+~
+~
+0 0 8607
+D3
+~
+~
+0 0 8605
+S
+#8605
+Bedchambers~
+A large bed that is covered in pillows sits in the corner.  Purple
+curtains hang over the windows.  Magnificent robes hang inside open
+wardrobes.  A wash stand holding a golden pitcher and bowl stands in one
+corner.  
+~
+0 0 0
+D1
+~
+~
+0 0 8604
+D2
+~
+~
+0 0 8606
+S
+#8606
+Inside the Mansion~
+The room is big.  Painting of naked ladies hang on the walls.  There are
+a few statues and flowerpots in the room.  Voices can be heard deeper in the
+mansion.  
+~
+0 0 0
+D0
+~
+~
+0 0 8605
+D1
+~
+~
+0 0 8607
+S
+#8607
+Large Mansion~
+Ivory statues of half naked women greet you at the door.  The walls haev
+been painted purple.  Paintings, encased in golden frames, hang on the wall.
+Thick carpet covers the floor.  Voices can be heard deeper in the mansion.  
+~
+0 0 0
+D0
+~
+~
+0 0 8604
+D2
+~
+~
+1 0 8602
+D3
+~
+~
+0 0 8606
+S
+#8608
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D2
+~
+~
+0 0 8580
+S
+#8609
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D0
+~
+~
+0 0 8583
+S
+#8610
+Approaching the Sea~
+A small beach harbors a few ships to the south.  Footprints in the dirt
+suggest that lots of people have been using this path recently.  North leads
+back to the mainland.  
+~
+0 0 8
+D0
+~
+~
+0 0 8571
+D2
+~
+~
+0 0 8611
+S
+#8611
+In the Sand~
+Ships can be seen in the distance.  The sand is a dark brown color. 
+Small weeds grow out of the sand.  Pebbles and seashells litter the ground. 
+Many footprints have been left from what might be a small army.  All
+directions but north lead out toward the sea.  
+~
+0 0 8
+D0
+~
+~
+0 0 8610
+D1
+~
+~
+0 0 8616
+D2
+~
+~
+0 0 8612
+D3
+~
+~
+0 0 8620
+S
+#8612
+In the Sand~
+Ships can be seen in the distance.  The sand is a dark brown color. 
+Small weeds grow out of the sand.  Pebbles and seashells litter the ground. 
+Many footprints have been left from what might be a small army.  All
+directions but north lead out toward the sea.  
+~
+0 0 8
+D0
+~
+~
+0 0 8611
+D1
+~
+~
+0 0 8617
+D2
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8621
+S
+#8613
+In the Sand~
+Ships can be seen in the distance.  The sand is a dark brown color. 
+Small weeds grow out of the sand.  Pebbles and seashells litter the ground. 
+Many footprints have been left from what might be a small army.  All
+directions but north lead out toward the sea.  
+~
+0 0 8
+D0
+~
+~
+0 0 8612
+D1
+~
+~
+0 0 8618
+D2
+~
+~
+0 0 8614
+D3
+~
+~
+0 0 8622
+S
+#8614
+In the Sand~
+Ships can be seen in the distance.  The sand is a dark brown color. 
+Small weeds grow out of the sand.  Pebbles and seashells litter the ground. 
+Many footprints have been left from what might be a small army.  All
+directions but north lead out toward the sea.  
+~
+0 0 8
+D0
+~
+~
+0 0 8613
+D1
+~
+~
+0 0 8619
+D2
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8623
+S
+#8615
+In the Sand~
+Ships can be seen in the distance.  The sand is a dark brown color. 
+Small weeds grow out of the sand.  Pebbles and seashells litter the ground. 
+Many footprints have been left from what might be a small army.  All
+directions but north lead out toward the sea.  
+~
+0 0 8
+D0
+~
+~
+0 0 8614
+D1
+~
+~
+0 0 8626
+D3
+~
+~
+0 0 8624
+S
+#8616
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D2
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8611
+S
+#8617
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D0
+~
+~
+0 0 8616
+D2
+~
+~
+0 0 8618
+D3
+~
+~
+0 0 8612
+S
+#8618
+Climbing onto the Ship~
+Planks of wood hav been placed down between the ship and the beach.  The
+wood is very thick and can support the weight of about anyone who wishes to
+use the makeshift bridge.  It is wobbly, but should hold...  
+~
+0 0 8
+D0
+~
+~
+0 0 8617
+D1
+~
+~
+0 0 8625
+D2
+~
+~
+0 0 8619
+D3
+~
+~
+0 0 8613
+S
+#8619
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D0
+~
+~
+0 0 8618
+D2
+~
+~
+0 0 8626
+D3
+~
+~
+0 0 8614
+S
+#8620
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D1
+~
+~
+0 0 8611
+D2
+~
+~
+0 0 8621
+S
+#8621
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D0
+~
+~
+0 0 8620
+D1
+~
+~
+0 0 8612
+D2
+~
+~
+0 0 8622
+S
+#8622
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D0
+~
+~
+0 0 8621
+D1
+~
+~
+0 0 8613
+D2
+~
+~
+0 0 8623
+S
+#8623
+Climbing onto the Ship~
+Planks of wood hav been placed down between the ship and the beach.  The
+wood is very thick and can support the weight of about anyone who wishes to
+use the makeshift bridge.  It is wobbly, but should hold...  
+~
+0 0 8
+D0
+~
+~
+0 0 8622
+D1
+~
+~
+0 0 8614
+D2
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8627
+S
+#8624
+On the Beach~
+Ships have been moored on the shore of the beach.  The tide steadily
+comes in and out.  Footprints have been left in the sand.  The mainland is
+far to the north.  
+~
+0 0 8
+D0
+~
+~
+0 0 8623
+D1
+~
+~
+0 0 8615
+S
+#8625
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8639
+D1
+~
+~
+0 0 8635
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8618
+S
+#8626
+Climbing onto the Ship~
+Planks of wood hav been placed down between the ship and the beach.  The
+wood is very thick and can support the weight of about anyone who wishes to
+use the makeshift bridge.  It is wobbly, but should hold...  
+~
+0 0 8
+D0
+~
+~
+0 0 8619
+D2
+~
+~
+0 0 8642
+D3
+~
+~
+0 0 8615
+S
+#8627
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8632
+D1
+~
+~
+0 0 8623
+D2
+~
+~
+0 0 8633
+D3
+~
+~
+0 0 8628
+S
+#8628
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8632
+D1
+~
+~
+0 0 8627
+D2
+~
+~
+0 0 8633
+D3
+~
+~
+0 0 8629
+S
+#8629
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8631
+D1
+~
+~
+0 0 8628
+D2
+~
+~
+0 0 8634
+D3
+~
+~
+0 0 8630
+S
+#8630
+At the Bow of the Ship~
+Water stretches out as far as the eye can see.  The wheel is manned by a
+soldier in a dark red uniform.  
+~
+0 0 8
+D0
+~
+~
+0 0 8631
+D1
+~
+~
+0 0 8629
+D2
+~
+~
+0 0 8634
+S
+#8631
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D1
+~
+~
+0 0 8632
+D2
+~
+~
+0 0 8629
+D3
+~
+~
+0 0 8630
+S
+#8632
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D1
+~
+~
+0 0 8627
+D2
+~
+~
+0 0 8628
+D3
+~
+~
+0 0 8631
+S
+#8633
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8628
+D1
+~
+~
+0 0 8627
+D3
+~
+~
+0 0 8634
+S
+#8634
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8629
+D1
+~
+~
+0 0 8633
+D3
+~
+~
+0 0 8630
+S
+#8635
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8639
+D1
+~
+~
+0 0 8636
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8625
+S
+#8636
+On the Ship~
+The ship rocks slightly with the water.  A large mast in the center of
+the ship supports wide sails.  Red flags fly from atop the riggings, each
+with the symbol of Wu on them.  This ship seems to be able to house many
+sailors.  
+~
+0 0 8
+D0
+~
+~
+0 0 8638
+D1
+~
+~
+0 0 8637
+D2
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8635
+S
+#8637
+At the Bow of the Ship~
+Water stretches out as far as the eye can see.  The wheel is manned by a
+soldier in a dark red uniform.  
+~
+0 0 8
+D0
+~
+~
+0 0 8638
+D2
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8636
+S
+#8638
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D1
+~
+~
+0 0 8637
+D2
+~
+~
+0 0 8636
+D3
+~
+~
+0 0 8639
+S
+#8639
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D1
+~
+~
+0 0 8638
+D2
+~
+~
+0 0 8635
+D3
+~
+~
+0 0 8625
+S
+#8640
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8635
+D1
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8625
+S
+#8641
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8636
+D1
+~
+~
+0 0 8637
+D3
+~
+~
+0 0 8640
+S
+#8642
+On the Flagship~
+This ship is larger than the others.  Three massive sails hang above your
+head.  In the center of the ship there is a room.  The Wu coat of arms are
+painted on the deck and the walls.  
+~
+0 0 8
+D0
+~
+~
+0 0 8626
+D1
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 8643
+D3
+~
+~
+0 0 8651
+S
+#8643
+On the Flagship~
+This ship is larger than the others.  Three massive sails hang above your
+head.  In the center of the ship there is a room.  The Wu coat of arms are
+painted on the deck and the walls.  
+~
+0 0 8
+D0
+~
+~
+0 0 8642
+D1
+~
+~
+0 0 8649
+D3
+~
+~
+0 0 8652
+S
+#8644
+Commanders Cabin~
+Simple, but nice furniture has been bolted down to the floor of the room.
+It has a desk that is covered by a large map in the center of the room.  Two
+chairs, one behind and one infront of the desk, are also in the room.  A bed
+is built into the northern wall.  A Wu flag hangs on the wall above it.  
+~
+0 0 0
+D2
+~
+~
+0 0 8645
+S
+#8645
+On the Flagship~
+This ship is larger than the others.  Three massive sails hang above your
+head.  In the center of the ship there is a room.  The Wu coat of arms are
+painted on the deck and the walls.  North leads into the room.  
+~
+0 0 8
+D0
+~
+~
+0 0 8644
+D1
+~
+~
+0 0 8647
+D2
+~
+~
+0 0 8646
+D3
+~
+~
+0 0 8654
+S
+#8646
+At the Bow of the Ship~
+Water stretches out as far as the eye can see.  The wheel is manned by a
+soldier in a dark red uniform.  
+~
+0 0 8
+D0
+~
+~
+0 0 8645
+D1
+~
+~
+0 0 8647
+D3
+~
+~
+0 0 8654
+S
+#8647
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8648
+D2
+~
+~
+0 0 8646
+D3
+~
+~
+0 0 8645
+S
+#8648
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8649
+D2
+~
+~
+0 0 8647
+S
+#8649
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 8648
+D3
+~
+~
+0 0 8643
+S
+#8650
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8626
+D2
+~
+~
+0 0 8649
+D3
+~
+~
+0 0 8642
+S
+#8651
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8626
+D1
+~
+~
+0 0 8642
+D2
+~
+~
+0 0 8652
+S
+#8652
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8651
+D1
+~
+~
+0 0 8643
+D2
+~
+~
+0 0 8653
+S
+#8653
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8652
+D2
+~
+~
+0 0 8654
+S
+#8654
+On the Ship~
+The ship semms to be in great condition.  Everything is well maintained
+and tidy.  The red Wu standard hangs from the mast and the sides of the ship
+itself.  
+~
+0 0 8
+D0
+~
+~
+0 0 8653
+D1
+~
+~
+0 0 8645
+D2
+~
+~
+0 0 8646
+S
+#8655
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D0
+~
+~
+0 0 8656
+D2
+~
+~
+0 0 8525
+S
+#8656
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D1
+~
+~
+0 0 8657
+D2
+~
+~
+0 0 8655
+S
+#8657
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D1
+~
+~
+0 0 8658
+D3
+~
+~
+0 0 8656
+S
+#8658
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D0
+~
+~
+0 0 8659
+D3
+~
+~
+0 0 8657
+S
+#8659
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D2
+~
+~
+0 0 8658
+D3
+~
+~
+0 0 8660
+S
+#8660
+In the Forest~
+Small trees begins what appear to be a lush forest.  Chirps from small
+birds and insects sound from within.  Shafts of light beam through holes in
+the canopy.  
+~
+0 0 3
+D1
+~
+~
+0 0 8659
+D3
+~
+~
+0 0 8661
+S
+#8661
+Path in the Forest~
+Darkenss fills the forest.  The trees seem to grow in competition with
+each other.  Sounds that are familiar to human voices murmur throughout the
+darkness.  
+~
+0 0 3
+D0
+~
+~
+0 0 8662
+D1
+~
+~
+0 0 8660
+S
+#8662
+Path in the Forest~
+Darkenss fills the forest.  The trees seem to grow in competition with
+each other.  Sounds that are familiar to human voices murmur throughout the
+darkness.  
+~
+0 0 3
+D0
+~
+~
+0 0 8663
+D2
+~
+~
+0 0 8661
+S
+#8663
+Path in the Forest~
+Darkenss fills the forest.  The trees seem to grow in competition with
+each other.  Sounds that are familiar to human voices murmur throughout the
+darkness.  
+~
+0 0 3
+D0
+~
+~
+0 0 8664
+D2
+~
+~
+0 0 8662
+S
+#8664
+Path in the Forest~
+Darkenss fills the forest.  The trees seem to grow in competition with
+each other.  Sounds that are familiar to human voices murmur throughout the
+darkness.  
+~
+0 0 3
+D1
+~
+~
+0 0 8665
+D2
+~
+~
+0 0 8663
+S
+#8665
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8666
+D2
+~
+~
+0 0 8657
+D3
+~
+~
+0 0 8664
+S
+#8666
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8667
+D3
+~
+~
+0 0 8665
+S
+#8667
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{Ggreen{x{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8668
+D2
+~
+~
+0 0 8675
+D3
+~
+~
+0 0 8666
+S
+#8668
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{Rred{x{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8669
+D2
+~
+~
+0 0 8658
+D3
+~
+~
+0 0 8667
+S
+#8669
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{Rred{x{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8670
+D2
+~
+~
+0 0 8674
+D3
+~
+~
+0 0 8668
+S
+#8670
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{R{Bblue{x{x{x{x strip of cloth is tied to one of the trees.  Some of
+the trees have be hacked at with blades.  
+~
+0 0 3
+D2
+~
+~
+0 0 8671
+D3
+~
+~
+0 0 8669
+S
+#8671
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{R{Mpink{x{x{x{x strip of cloth is tied to one of the trees.  Some of
+the trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8670
+D2
+~
+~
+0 0 8672
+D3
+~
+~
+0 0 8674
+S
+#8672
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{Rred{x{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8671
+D3
+~
+~
+0 0 8673
+S
+#8673
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{R{Mpink{x{x{x{x strip of cloth is tied to one of the trees.  Some of
+the trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8674
+D1
+~
+~
+0 0 8672
+D3
+~
+~
+0 0 8658
+S
+#8674
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{Rred{x{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8669
+D1
+~
+~
+0 0 8671
+D2
+~
+~
+0 0 8673
+D3
+~
+~
+0 0 8658
+S
+#8675
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{Ggreen{x{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8667
+D2
+~
+~
+0 0 8676
+S
+#8676
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8675
+D1
+~
+~
+0 0 8677
+D3
+~
+~
+0 0 8662
+S
+#8677
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  An
+{W{yorange{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8678
+D2
+~
+~
+0 0 8659
+D3
+~
+~
+0 0 8676
+S
+#8678
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8666
+D1
+~
+~
+0 0 8679
+D2
+~
+~
+0 0 8677
+D3
+~
+~
+0 0 8675
+S
+#8679
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8680
+D3
+~
+~
+0 0 8678
+S
+#8680
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{Ggreen{x{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8674
+D2
+~
+~
+0 0 8681
+D3
+~
+~
+0 0 8679
+S
+#8681
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{G{Dgray{x{x{x strip of cloth is tied to one of the trees.  Some of the
+trees have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8680
+D2
+~
+~
+0 0 8659
+D3
+~
+~
+0 0 8682
+S
+#8682
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{Ggreen{x{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D1
+~
+~
+0 0 8681
+D2
+~
+~
+0 0 8683
+D3
+~
+~
+0 0 8677
+S
+#8683
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8682
+D1
+~
+~
+0 0 8684
+D2
+~
+~
+0 0 8658
+S
+#8684
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{Wwhite{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8681
+D1
+~
+~
+0 0 8685
+D3
+~
+~
+0 0 8683
+S
+#8685
+Forest of Darkness~
+A small path has been blazed through the forest by recent travelers.  A
+{W{Ggreen{x{x strip of cloth is tied to one of the trees.  Some of the trees
+have be hacked at with blades.  
+~
+0 0 3
+D0
+~
+~
+0 0 8673
+D2
+~
+~
+0 0 8686
+D3
+~
+~
+0 0 8684
+S
+#8686
+Forests End~
+The forest ends in a small field.  Long grass sways with wind.  A small
+castle appears in the distance to the northeast.  
+~
+0 0 3
+D0
+~
+~
+0 0 8685
+D1
+~
+~
+0 0 8687
+S
+#8687
+Small Field~
+The grass sways with the wind.  A small castle awaits to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 8688
+D3
+~
+~
+0 0 8686
+S
+#8688
+Small Field~
+The grass sways with the wind.  A small castle awaits to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 8795
+D2
+~
+~
+0 0 8687
+S
+#8689
+Mountains End~
+The mountains pass slope down into a large field.  A small pond lies to
+the north.  A stone bridge crosses the pond.  In the center there is a small
+island with an altar on it.  There is a large castle to the north.  
+~
+0 0 5
+D1
+~
+~
+0 0 8690
+D2
+~
+~
+0 0 8560
+S
+#8690
+Approaching the Altar~
+A stone path leads over the water to the altar in the pond.  The walkway
+is covered by a roof supported by huge, red painted collums.  Dragons and
+lions are depicted on the collums.  The path leads on to the west.  
+~
+0 0 8
+D1
+~
+~
+0 0 8691
+D3
+~
+~
+0 0 8689
+S
+#8691
+Approaching the Altar~
+A stone path leads over the water to the altar in the pond.  The walkway
+is covered by a roof supported by huge, red painted collums.  Dragons and
+lions are depicted on the collums.  The path leads on to the west.  
+~
+0 0 8
+D0
+~
+~
+0 0 8692
+D3
+~
+~
+0 0 8690
+S
+#8692
+The Altar~
+A large stone altar sits on a raised platform in the middle of the
+island.  Dragons and other beast are carved on the altar.  Rows of stone
+benches sit around the altar.  Strange runes are painted on the ground in
+blue paint.  
+~
+0 0 0
+D2
+~
+~
+0 0 8691
+D3
+~
+~
+0 0 8693
+S
+#8693
+Approaching the Altar~
+A stone path leads over the water to the altar in the pond.  The walkway
+is covered by a roof supported by huge, red painted collums.  Dragons and
+lions are depicted on the collums.  The path leads on to the west.  
+~
+0 0 8
+D0
+~
+~
+0 0 8694
+D1
+~
+~
+0 0 8692
+S
+#8694
+Approaching the Altar~
+A stone path leads over the water to the altar in the pond.  The walkway
+is covered by a roof supported by huge, red painted collums.  Dragons and
+lions are depicted on the collums.  The path leads on to the west.  
+~
+0 0 8
+D1
+~
+~
+0 0 8695
+D2
+~
+~
+0 0 8693
+D3
+~
+~
+0 0 8696
+S
+#8695
+Nearing the Altar~
+The ground begins to slope downward slightly.  A pond is to the south. 
+Dogwood trees grow near the shore of the pond.  
+~
+0 0 2
+D0
+~
+~
+0 0 8702
+D3
+~
+~
+0 0 8694
+S
+#8696
+Nearing the Altar~
+The ground begins to slope downward slightly.  A pond is to the south. 
+Dogwood trees grow near the shore of the pond.  
+~
+0 0 2
+D0
+~
+~
+0 0 8697
+D1
+~
+~
+0 0 8694
+S
+#8697
+Near the Castle~
+The castle walls to the north prevent entry.  There is no gates on the
+southern wall of the castle.  Blue flags fly atop the walls with the Wei
+coat of arms on them.  Perhaps there is a gate on one of the side walls.  
+~
+0 0 2
+D1
+~
+~
+0 0 8701
+D2
+~
+~
+0 0 8696
+D3
+~
+~
+0 0 8698
+S
+#8698
+Near the Castle~
+The castle walls to the north prevent entry.  There is no gates on the
+southern wall of the castle.  Blue flags fly atop the walls with the Wei
+coat of arms on them.  Perhaps there is a gate on one of the side walls.  
+~
+0 0 2
+D0
+~
+~
+0 0 8699
+D1
+~
+~
+0 0 8697
+S
+#8699
+Western Wall~
+The castle wall run to the north.  A cobblestone path leads north along
+the wall.  A dense forest grows to the far west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8700
+D2
+~
+~
+0 0 8698
+S
+#8700
+Western Wall~
+The castle wall run to the north.  A cobblestone path leads north along
+the wall.  A dense forest grows to the far west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8731
+D2
+~
+~
+0 0 8699
+S
+#8701
+Near the Castle~
+The castle walls to the north prevent entry.  There is no gates on the
+southern wall of the castle.  Blue flags fly atop the walls with the Wei
+coat of arms on them.  Perhaps there is a gate on one of the side walls.  
+~
+0 0 2
+D1
+~
+~
+0 0 8702
+D3
+~
+~
+0 0 8697
+S
+#8702
+Near the Castle~
+The castle walls to the north prevent entry.  There is no gates on the
+southern wall of the castle.  Blue flags fly atop the walls with the Wei
+coat of arms on them.  Perhaps there is a gate on one of the side walls.  
+~
+0 0 2
+D1
+~
+~
+0 0 8703
+D2
+~
+~
+0 0 8695
+D3
+~
+~
+0 0 8701
+S
+#8703
+Near the Castle~
+The castle walls to the north prevent entry.  There is no gates on the
+southern wall of the castle.  Blue flags fly atop the walls with the Wei
+coat of arms on them.  Perhaps there is a gate on one of the side walls.  
+~
+0 0 2
+D0
+~
+~
+0 0 8704
+D3
+~
+~
+0 0 8702
+S
+#8704
+Eastern Wall~
+The castle wall runs to the north.  A cobblestone path leads north along
+the wall.  Steep mountains rise to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 8705
+D2
+~
+~
+0 0 8703
+S
+#8705
+Eastern Wall~
+The castle wall runs to the north.  A cobblestone path leads north along
+the wall.  Steep mountains rise to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8704
+S
+#8706
+Eastern Wall~
+The castle wall runs to the north.  A cobblestone path leads north along
+the wall.  Steep mountains rise to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 8707
+D2
+~
+~
+0 0 8705
+D3
+~
+~
+0 0 8709
+S
+#8707
+Eastern Wall~
+The castle wall runs to the north.  A cobblestone path leads north along
+the wall.  Steep mountains rise to the east.  
+~
+0 0 2
+D2
+~
+~
+0 0 8706
+D3
+~
+~
+0 0 8708
+S
+#8708
+Castle Foyer~
+The castle walls open up to a foyer.  Torches hang up on the wall.  Two
+large wooden doors are in the wall of the castle.  East leads back out of
+the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 8747
+D1
+~
+~
+0 0 8707
+D2
+~
+~
+0 0 8709
+S
+#8709
+Castle Foyer~
+The castle walls open up to a foyer.  Torches hang up on the wall.  Two
+large wooden doors are in the wall of the castle.  East leads back out of
+the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 8708
+D1
+~
+~
+0 0 8706
+D3
+~
+~
+0 0 8713
+S
+#8710
+Entering the Castle~
+The halls are well lit from torch light.  Long rugs run down the hall
+floors.  Blue tapestries hang on the walls between every torch scone.  The
+halls lead to the south and to the west.  East leads out of the castle.  
+~
+0 0 0
+D1
+~
+~
+4 0 8713
+D2
+~
+~
+0 0 8711
+D3
+~
+~
+0 0 8729
+S
+#8711
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8710
+D2
+~
+~
+0 0 8712
+S
+#8712
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8711
+D2
+~
+~
+0 0 8714
+S
+#8713
+At the Gate of the Castle~
+Wooden doors to the castle bar entry.  Torches hang at either side of the
+gate on the wall.  East leads back out of the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 8709
+D3
+~
+~
+4 8503 8710
+S
+#8714
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8712
+D3
+~
+~
+0 0 8715
+S
+#8715
+Before the Castle Chambers~
+Statues of two warriors stand guard beside the doors to the north.  Both
+look life-like and have been painted masterfully.  A large rug runs under
+the doors to the rooms north.  The hallway continues east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 8735
+D1
+~
+~
+0 0 8714
+D3
+~
+~
+0 0 8716
+S
+#8716
+Before the Castle Chambers~
+Statues of two warriors stand guard beside the doors to the north.  Both
+look life-like and have been painted masterfully.  A large rug runs under
+the doors to the rooms north.  The hallway continues east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 8734
+D1
+~
+~
+0 0 8715
+D3
+~
+~
+0 0 8717
+S
+#8717
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8720
+D1
+~
+~
+0 0 8716
+S
+#8718
+Secret Chamber~
+As the stone wall opens, it reveals a small chamber.  The walls are bare
+and so is the floor.  There are doors to the east and to the west.  
+~
+0 0 0
+D0
+~
+~
+1 0 8726
+D1
+~
+~
+1 0 8728
+D3
+~
+~
+1 0 8724
+S
+#8719
+At the Gate of the Castle~
+Wooden doors to the castle bar entry.  Torches hang at either side of the
+gate on the wall.  West leads back out of the castle.  
+~
+0 0 0
+D1
+~
+~
+4 8503 8722
+D3
+~
+~
+0 0 8730
+S
+#8720
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8721
+D2
+~
+~
+0 0 8717
+S
+#8721
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8722
+D2
+~
+~
+0 0 8720
+S
+#8722
+Entering the Castle~
+The halls are well lit from torch light.  Long rugs run down the hall
+floors.  Blue tapestries hang on the walls between every torch scone.  The
+halls lead to the south and to the east.  West leads out of the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 8723
+D2
+~
+~
+0 0 8721
+D3
+~
+~
+4 0 8719
+S
+#8723
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8725
+D3
+~
+~
+0 0 8722
+S
+#8724
+Secret Chamber~
+Bookcases fill the walls in this small room.  Nothing is out of the
+ordinary, Yet there seems to be a great power radiating from the box on the
+table in the center of the room.  There are two long candles on the table as
+well that are exactly the same length.  
+~
+0 0 0
+D1
+~
+~
+1 0 8718
+S
+#8725
+Walking the Halls~
+The stones in this part of the hall are a different color of those in the
+other sections of the castle.  Blue tapestries that depict great scenes of
+battle hang on the walls.  Everything is cleaned leaving no trace of dust. 
+Footsteps echo throughout the halls.  The halls continue.  
+~
+0 0 0
+D1
+~
+~
+0 0 8726
+D2
+~
+~
+0 0 8723
+S
+#8726
+Walking the Halls~
+The stones in this part of the hall are a different color of those in the
+other sections of the castle.  Blue tapestries that depict great scenes of
+battle hang on the walls.  Everything is cleaned leaving no trace of dust. 
+Footsteps echo throughout the halls.  The halls continue.  
+~
+0 0 0
+D1
+~
+~
+0 0 8727
+D2
+~
+~
+1 0 8718
+D3
+~
+~
+0 0 8725
+S
+#8727
+Walking the Halls~
+The stones in this part of the hall are a different color of those in the
+other sections of the castle.  Blue tapestries that depict great scenes of
+battle hang on the walls.  Everything is cleaned leaving no trace of dust. 
+Footsteps echo throughout the halls.  The halls continue.  
+~
+0 0 0
+D2
+~
+~
+0 0 8729
+D3
+~
+~
+0 0 8726
+S
+#8728
+Secret Chamber~
+A small bed sits in the corner of this room.  Other than the bed, only
+one other piece of furniture is in the room.  A small wardrobe stands in the
+adjacent corner.  A small candle stands on the top of it.  
+~
+0 0 0
+D3
+~
+~
+1 0 8718
+S
+#8729
+Walking the Halls~
+Footsteps echo throughout the halls.  Blue tapesties that depict great
+scenes of battle hang on the walls.  Everything is cleaned leaving no trace
+of dust.  The hall continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 8727
+D1
+~
+~
+0 0 8710
+S
+#8730
+Castle Foyer~
+The castle walls open up to a foyer.  Torches hang up on the wall.  Two
+large wooden doors are in the wall of the castle.  West leads back out of
+the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 8733
+D1
+~
+~
+0 0 8719
+D3
+~
+~
+0 0 8731
+S
+#8731
+Western Wall~
+The castle wall run to the north.  A cobblestone path leads north along
+the wall.  A dense forest grows to the far west.  
+~
+0 0 2
+D0
+~
+~
+0 0 8732
+D1
+~
+~
+0 0 8730
+D2
+~
+~
+0 0 8700
+S
+#8732
+Western Wall~
+The castle wall run to the north.  A cobblestone path leads north along
+the wall.  A dense forest grows to the far west.  
+~
+0 0 2
+D1
+~
+~
+0 0 8733
+D2
+~
+~
+0 0 8731
+S
+#8733
+Castle Foyer~
+The castle walls open up to a foyer.  Torches hang up on the wall.  Two
+large wooden doors are in the wall of the castle.  West leads back out of
+the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 8746
+D2
+~
+~
+0 0 8730
+D3
+~
+~
+0 0 8732
+S
+#8734
+Waiting Room~
+Iron benches with blue plush padding line the eastern and western walls. 
+Flowers are arranged in flowerpots placed around the room.  A long red rug
+runs under the door to the north.  Voices can be heard past the door.  
+~
+0 0 0
+D0
+~
+~
+1 0 8737
+D1
+~
+~
+0 0 8735
+D2
+~
+~
+1 0 8716
+S
+#8735
+Waiting Room~
+Iron benches with blue plush padding line the eastern and western walls. 
+Flowers are arranged in flowerpots placed around the room.  A long red rug
+runs under the door to the north.  Voices can be heard past the door.  
+~
+0 0 0
+D0
+~
+~
+1 0 8736
+D2
+~
+~
+1 0 8715
+D3
+~
+~
+0 0 8734
+S
+#8736
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A set of wooden doors lead south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8741
+D1
+~
+~
+0 0 8743
+D2
+~
+~
+1 0 8735
+D3
+~
+~
+0 0 8737
+S
+#8737
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A set of wooden doors lead south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8740
+D1
+~
+~
+0 0 8736
+D2
+~
+~
+1 0 8734
+D3
+~
+~
+0 0 8738
+S
+#8738
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A chair with blue padding on it sits here.  There are peacocks
+carved into it.  
+~
+0 0 0
+D0
+~
+~
+0 0 8739
+D1
+~
+~
+0 0 8737
+S
+#8739
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A large chair with blue padding sits here.  It has some wyvrens
+carved on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 8740
+D2
+~
+~
+0 0 8738
+S
+#8740
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  
+~
+0 0 0
+D0
+~
+~
+1 0 8744
+D1
+~
+~
+0 0 8741
+D2
+~
+~
+0 0 8737
+D3
+~
+~
+0 0 8739
+S
+#8741
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 8742
+D2
+~
+~
+0 0 8736
+D3
+~
+~
+0 0 8740
+S
+#8742
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A large, throne-like chair sits here.  There is an arrow stuck in
+the side of one of the arms.  
+~
+0 0 0
+D2
+~
+~
+0 0 8743
+D3
+~
+~
+0 0 8741
+S
+#8743
+Throne Room~
+A massive throne sits on a raised dais to the north.  Red carpet leads up
+to it.  In the center of the ceiling, a large cyrstal chandelier hangs.  On
+the wall behind the throne hangs a large blue flag with the Wei coat of arms
+on it.  A large, throne-like chair sits here.  It is high backed and appears
+very comfortable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8742
+D3
+~
+~
+0 0 8736
+S
+#8744
+Small Room~
+Steping behind the curtain reveals a small room.  It has bare walls and a
+carpeted floor.  There is a door to the west.  
+~
+0 0 0
+D2
+~
+~
+1 0 8740
+D3
+~
+~
+1 0 8745
+S
+#8745
+Cao Cao's Chambers~
+A large, four posted bed stands against the western wall.  Every wall has
+a large mirror on it, each gilt with gold.  Mahogany wardrobes stand closed
+in each corner.  Windows show views of gardens outside.  Light shines from
+the window in the ceiling.  
+~
+0 0 0
+D1
+~
+~
+1 0 8744
+S
+#8746
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D2
+~
+~
+0 0 8733
+S
+#8747
+Supply Gate~
+A small wooden gate has been constructed here for supply wagons to enter.
+Soldiers also come here as reenforcements for the battles.  Wooden crates
+and large clay pots line the fence.  
+~
+0 0 2
+D2
+~
+~
+0 0 8708
+S
+#8748
+Inside the Fortress~
+The hallway is narrow.  No carpet covers these bare stone floors.  The
+walls are also devoid of adornment.  The hall leads east and west.  A wooden
+door is closed to the north.  
+~
+0 0 0
+D0
+~
+~
+1 0 8780
+D1
+~
+~
+0 0 8750
+D2
+~
+~
+4 0 8796
+D3
+~
+~
+0 0 8749
+S
+#8749
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues east and west. 
+~
+0 0 0
+D1
+~
+~
+0 0 8748
+D3
+~
+~
+0 0 8761
+S
+#8750
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues east and west. 
+~
+0 0 0
+D1
+~
+~
+0 0 8751
+D3
+~
+~
+0 0 8748
+S
+#8751
+First Story Staircase~
+Two halls come together and meet at a staircase that leads up to the
+second story of the fortress.  The staircase is a small wooden set.  The
+hallways lead west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 8752
+D3
+~
+~
+0 0 8750
+D4
+~
+~
+0 0 8775
+S
+#8752
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8753
+D2
+~
+~
+0 0 8751
+S
+#8753
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8754
+D2
+~
+~
+0 0 8752
+S
+#8754
+First Story Staircase~
+Two halls come together and meet at a staircase that leads up to the
+second story of the fortress.  The staircase is a small wooden set.  The
+hallways lead west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 8753
+D3
+~
+~
+0 0 8755
+D4
+~
+~
+0 0 8771
+S
+#8755
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues east and west. 
+~
+0 0 0
+D1
+~
+~
+0 0 8754
+D3
+~
+~
+0 0 8756
+S
+#8756
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues east and west. 
+~
+0 0 0
+D1
+~
+~
+0 0 8755
+D3
+~
+~
+0 0 8757
+S
+#8757
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues east and west. 
+~
+0 0 0
+D1
+~
+~
+0 0 8756
+D3
+~
+~
+0 0 8758
+S
+#8758
+First Story Staircase~
+Two halls come together and meet at a staircase that leads up to the
+second story of the fortress.  The staircase is a small wooden set.  The
+hallways lead east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 8757
+D2
+~
+~
+0 0 8759
+D4
+~
+~
+0 0 8766
+S
+#8759
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8758
+D2
+~
+~
+0 0 8760
+S
+#8760
+Walking Down the Hallway~
+The halls are barely wide enough for people to pass by one another. 
+Light from torches attached to the walls cast shadows as you move.  Stairs
+leading up can be seen down the hall.  The hallway continues north and
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8759
+D2
+~
+~
+0 0 8761
+S
+#8761
+First Story Staircase~
+Two halls come together and meet at a staircase that leads up to the
+second story of the fortress.  The staircase is a small wooden set.  The
+hallways lead east and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 8760
+D1
+~
+~
+0 0 8749
+D4
+~
+~
+0 0 8762
+S
+#8762
+Second Story Staircase~
+Stairs decend through the floor leading back to the first floor.  This
+story has carpet on the floors going down the halls.  The hallways lead
+north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 8763
+D1
+~
+~
+0 0 8779
+D5
+~
+~
+0 0 8761
+S
+#8763
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  There is a wooden door that
+leads west.  
+~
+0 0 0
+D0
+~
+~
+0 0 8764
+D2
+~
+~
+0 0 8762
+D3
+~
+~
+1 0 8788
+S
+#8764
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8765
+D2
+~
+~
+0 0 8763
+S
+#8765
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  There is a wooden door that
+leads west.  
+~
+0 0 0
+D0
+~
+~
+0 0 8766
+D2
+~
+~
+0 0 8764
+D3
+~
+~
+1 0 8787
+S
+#8766
+Second Story Staircase~
+Stairs decend through the floor leading back to the first floor.  This
+story has carpet on the floors going down the halls.  The hallways lead
+south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 8767
+D2
+~
+~
+0 0 8765
+D5
+~
+~
+0 0 8758
+S
+#8767
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  There is a wooden door that
+leads north.  
+~
+0 0 0
+D0
+~
+~
+1 0 8794
+D1
+~
+~
+0 0 8768
+D3
+~
+~
+0 0 8766
+S
+#8768
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 8769
+D3
+~
+~
+0 0 8767
+S
+#8769
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  There is a wooden door that
+leads north.  
+~
+0 0 0
+D0
+~
+~
+1 0 8793
+D1
+~
+~
+0 0 8770
+D3
+~
+~
+0 0 8768
+S
+#8770
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 8771
+D3
+~
+~
+0 0 8769
+S
+#8771
+Second Story Staircase~
+Stairs decend through the floor leading back to the first floor.  This
+story has carpet on the floors going down the halls.  The hallways lead
+south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 8772
+D3
+~
+~
+0 0 8770
+D5
+~
+~
+0 0 8754
+S
+#8772
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  There is a wooden door that
+leads east.  
+~
+0 0 0
+D0
+~
+~
+0 0 8771
+D1
+~
+~
+1 0 8792
+D2
+~
+~
+0 0 8773
+S
+#8773
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8772
+D2
+~
+~
+0 0 8774
+S
+#8774
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues north and south.  There is a wooden door that
+leads east.  
+~
+0 0 0
+D0
+~
+~
+0 0 8773
+D1
+~
+~
+1 0 8791
+D2
+~
+~
+0 0 8775
+S
+#8775
+Second Story Staircase~
+Stairs decend through the floor leading back to the first floor.  This
+story has carpet on the floors going down the halls.  The hallways lead
+north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 8774
+D3
+~
+~
+0 0 8776
+D5
+~
+~
+0 0 8751
+S
+#8776
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 8775
+D3
+~
+~
+0 0 8777
+S
+#8777
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  There is a wooden door that
+leads south.  
+~
+0 0 0
+D1
+~
+~
+0 0 8776
+D2
+~
+~
+1 0 8790
+D3
+~
+~
+0 0 8778
+S
+#8778
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 8777
+D3
+~
+~
+0 0 8779
+S
+#8779
+Second Story Hallway~
+The hall is a little wider than downstairs.  Carpet also covers these
+floors.  Green tapestries hang on the walls.  A few torchs are mounted into
+the stone.  The hall continues east and west.  There is a wooden door that
+leads south.  
+~
+0 0 0
+D1
+~
+~
+0 0 8778
+D2
+~
+~
+1 0 8789
+D3
+~
+~
+0 0 8762
+S
+#8780
+Before the Peach Orchard~
+Small trees with pink blossoms grow in neat rows to the north.
+~
+0 0 8
+D0
+~
+~
+0 0 8781
+D2
+~
+~
+1 0 8748
+S
+#8781
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D0
+~
+~
+0 0 8782
+D1
+~
+~
+0 0 8784
+D2
+~
+~
+0 0 8780
+D3
+~
+~
+0 0 8786
+S
+#8782
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D1
+~
+~
+0 0 8783
+D2
+~
+~
+0 0 8781
+D3
+~
+~
+0 0 8785
+S
+#8783
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D2
+~
+~
+0 0 8784
+D3
+~
+~
+0 0 8782
+S
+#8784
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D0
+~
+~
+0 0 8783
+D3
+~
+~
+0 0 8781
+S
+#8785
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D1
+~
+~
+0 0 8782
+D2
+~
+~
+0 0 8786
+S
+#8786
+The Peach Garden~
+Trees with pink blossoms grow in neat rows around you.  There is room for
+a few people to walk abreast between the trees.  Peaches are in bloom.  
+~
+0 0 8
+D0
+~
+~
+0 0 8785
+D1
+~
+~
+0 0 8781
+S
+#8787
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D1
+~
+~
+1 0 8765
+S
+#8788
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D1
+~
+~
+1 0 8763
+S
+#8789
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D0
+~
+~
+1 0 8779
+S
+#8790
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D0
+~
+~
+1 0 8777
+S
+#8791
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D3
+~
+~
+1 0 8774
+S
+#8792
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D3
+~
+~
+1 0 8772
+S
+#8793
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D2
+~
+~
+1 0 8769
+S
+#8794
+Officers Quarters~
+An average size bed stands against the wall.  There is a desc against one
+wall and a wardrobe against another.  Papers are stacked neatly on the desk.
+There is a half spent candle on the desk as well.  The room itself is cept
+clean and tidy.  A small green flag hangs above the bed on the wall.  
+~
+0 0 0
+D2
+~
+~
+1 0 8767
+S
+#8795
+Nearing the Fortress~
+A small fort appears to the north after you exit the forest.  It is made
+of stone that is a slight green color.  Green flags fly atop the fortress
+walls.  A gate awaits to the north.  South leads back to the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 8796
+D2
+~
+~
+0 0 8688
+S
+#8796
+At the Fortress Gate~
+Wooden doors bar the way to the north into the fortress.  Two scones on
+each side of the doors hold torches.  An overhanging wooden roof shelters
+the petitioners and guards awaiting entry.  
+~
+0 0 2
+D0
+~
+~
+4 8504 8748
+D2
+~
+~
+0 0 8795
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 8541 1 2 The east door of Outside the Camp is closed and locked
+D 0 8549 3 2 The west door of Outside the Camp is closed and locked
+D 0 8553 3 2 The west door of Inside the Camp is closed and locked
+D 0 8555 1 2 The east door of Inside the Camp is closed and locked
+D 0 8578 3 2 The west door of Hu Loa Road is closed and locked
+D 0 8585 1 2 The east door of Inside Hu Lao Gate is closed and locked
+D 0 8587 3 2 The west door of Before the City is closed and locked
+D 0 8595 1 2 The east door of In the City is closed and locked
+D 0 8602 0 1 The north door of In the City is closed
+D 0 8607 2 1 The south door of Large Mansion is closed
+D 0 8710 1 2 The east door of Entering the Castle is closed and locked
+D 0 8713 3 2 The west door of At the Gate of the Castle is closed and locked
+D 0 8715 0 1 The north door of Before the Castle Chambers is closed
+D 0 8716 0 1 The north door of Before the Castle Chambers is closed
+D 0 8718 1 1 The east door of Secret Chamber is closed
+D 0 8718 3 1 The west door of Secret Chamber is closed
+D 0 8719 1 2 The east door of At the Gate of the Castle is closed and locked
+D 0 8722 3 2 The west door of Entering the Castle is closed and locked
+D 0 8724 1 1 The east door of Secret Chamber is closed
+D 0 8726 2 1 The south door of Walking the Halls is closed
+D 0 8728 3 1 The west door of Secret Chamber is closed
+D 0 8734 0 1 The north door of Waiting Room is closed
+D 0 8734 2 1 The south door of Waiting Room is closed
+D 0 8735 0 1 The north door of Waiting Room is closed
+D 0 8735 2 1 The south door of Waiting Room is closed
+D 0 8736 2 1 The south door of Throne Room is closed
+D 0 8737 2 1 The south door of Throne Room is closed
+D 0 8740 0 1 The north door of Throne Room is closed
+D 0 8744 3 1 The west door of Small Room is closed
+D 0 8748 0 1 The north door of Inside the Fortress is closed
+D 0 8748 2 2 The south door of Inside the Fortress is closed and locked
+D 0 8763 3 1 The west door of Second Story Hallway is closed
+D 0 8765 3 1 The west door of Second Story Hallway is closed
+D 0 8767 0 1 The north door of Second Story Hallway is closed
+D 0 8769 0 1 The north door of Second Story Hallway is closed
+D 0 8772 1 1 The east door of Second Story Hallway is closed
+D 0 8774 1 1 The east door of Second Story Hallway is closed
+D 0 8777 2 1 The south door of Second Story Hallway is closed
+D 0 8779 2 1 The south door of Second Story Hallway is closed
+D 0 8780 2 1 The south door of Before the Peach Orchard is closed
+D 0 8796 0 2 The north door of At the Fortress Gate is closed and locked
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8500
+unlock east
+unlock west
+unlock north
+unlock south
+open east
+open west
+open south
+open north
+mob echo The gates to the camp swing open.
+mob junk key
+~
+#0
+
+#$

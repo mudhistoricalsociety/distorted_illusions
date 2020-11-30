@@ -1,0 +1,303 @@
+#AREADATA
+Name New Builder Playground~
+Builders Unlinked~
+VNUMs 68000 68099
+Continent 3
+Credits pOOP~
+Security 0
+Flags 0
+End
+
+#MOBILES
+#68000
+A Burly Guard~
+A Burly Guard~
+A Burly Guard with Firey hair rushes towards you.
+~
+This guards skin is red as tho he has been charred red from a furnace.
+His hair seems to be a magical mix between flame and hair.
+The look on his face is grim, and emotionless.
+This solder has been trained to show no mercy.
+~
+fire-giant~
+AF CDFGJVZac D -1000 0
+101 200 50d100+20000 0d0+0 100d4+100 none
+70 70 70 70
+BCDEHN ABHLQX 0 IR
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#68000
+Glowing Red Sword~
+test sword~
+Test fire sword~
+steel~
+weapon ABGS N
+sword 15 9 flame A
+70 30 10100 P
+A
+13 25
+A
+1 -3
+#0
+
+
+
+#ROOMS
+#68000
+{3G{8uard {3S{8tation{x~
+You find yourself at a small fortification along the trail.
+The guards seem upset by your presence.
+There is alot of noise to the west, and a dark path leading north.
+~
+0 4 2
+D0
+~
+~
+0 0 68001
+D3
+~
+~
+0 0 68002
+S
+#68001
+{8Dark Pathway{x~
+~
+0 1 3
+D0
+~
+~
+0 0 68003
+D2
+~
+~
+0 0 68000
+S
+#68002
+{3G{8uard {3B{8arracks{x~
+The guards quarters are unremarkable.
+Cots line the north wall, a few crates full of rations are here.
+A fountain on the south wall flows with an amber liquid.
+The only exit is the eastern door.
+~
+0 0 0
+D1
+~
+~
+0 0 68000
+S
+#68003
+{8Dark Pathway{x~
+~
+0 1 3
+D0
+~
+~
+0 0 68004
+D2
+~
+~
+0 0 68001
+S
+#68004
+{8Dark Pathway{x~
+~
+0 1 3
+D0
+~
+~
+0 0 68005
+D1
+~
+~
+0 0 68006
+D2
+~
+~
+0 0 68003
+S
+#68005
+{!L{1and{!S{1lide{x~
+~
+0 0 0
+S
+#68006
+{8Dark Pathway{x~
+~
+0 1 3
+D1
+~
+~
+0 0 68007
+D3
+~
+~
+0 0 68004
+S
+#68007
+{3M{8ountain {3P{8ath{x~
+~
+0 512 5
+D3
+~
+~
+0 0 68006
+D4
+~
+~
+0 0 68008
+S
+#68008
+{3M{8ountain {3P{8ath{x~
+~
+0 512 0
+D4
+~
+~
+0 0 68009
+D5
+~
+~
+0 0 68007
+S
+#68009
+{3G{8uard {3S{8tation{x~
+You have reached a small fortification along the trail.
+The guards seem quite upset that you have made it this far.
+A small statue in the center of the clearing bares the mark of Dragos.
+The closer you come to the statue, the weaker you seem to feel.
+~
+0 256 2
+D0
+~
+~
+0 0 68013
+D2
+~
+~
+0 0 68014
+D3
+~
+~
+0 0 68012
+D5
+~
+~
+0 0 68008
+S
+#68010
+~
+~
+0 0 0
+D2
+~
+~
+0 0 68009
+S
+#68011
+~
+~
+0 0 0
+D1
+~
+~
+0 0 68009
+S
+#68012
+{3M{8ountain {3P{8ath{x~
+~
+0 0 5
+D1
+~
+~
+0 0 68009
+D4
+~
+~
+0 0 68015
+S
+#68013
+{3A{8rmoury{x~
+~
+0 256 0
+D2
+~
+~
+0 0 68009
+S
+#68014
+{3G{8uard {3B{8arracks{x~
+~
+0 0 0
+D0
+~
+~
+0 0 68009
+S
+#68015
+{3M{8ountain {3P{8ath{x~
+~
+0 0 5
+D4
+~
+~
+0 0 68016
+D5
+~
+~
+0 0 68012
+S
+#68016
+{3N{8earing {3T{8he {3P{8eak{x~
+You reach the top of the mountain pass.
+The trail here is gets much wider as it approaches a fortress.
+~
+0 0 5
+D4
+~
+~
+0 0 68017
+D5
+~
+~
+0 0 68015
+S
+#68017
+~
+~
+0 0 0
+D5
+~
+~
+0 0 68016
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 68000 3 68000 1 *Load A Burly Guard
+E 0 68000 0 16 *Test sword is loaded wielded of A Burly Guard
+M 0 68000 4 68009 1 *Load A Burly Guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1057 @@
+#AREADATA
+Name Castle Of Eternity~
+Builders None~
+VNUMs 39000 39099
+Continent 1
+Credits {y[{Y  LGD {y]{c Bree     {YCastle of Eternity{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#39000
+Embla~
+Embla~
+Embla is standing here, chanting something...
+~
+This is Embla, left here by the gods to watch over the Hero's souls.
+It might be a bad thing to let her find out you have slain some of
+those souls....hmmm, a tactical retreat might be in order.
+~
+human~
+AG PTVc EH -1000 0
+175 400 40d275+9050 105d10+100 45d75+175 divine
+-50 -50 -50 -20
+CDFI ABN 0 G
+stand stand female 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 39001 1000~
+M GRALL 39001 1000~
+#39001
+Jayden~
+Jayden~
+Jayden stands here with his blade in hand
+~
+~
+human~
+AG Vac 0 1000 0
+140 500 80d150+7000 10d10+50 30d90+100 slice
+-50 -50 -40 -35
+DEIN A 0 K
+stand stand none 30000
+0 AK medium unknown
+F for AHMV
+F par BCDEFGHIJ
+#39002
+Linfor~
+Linfor~
+Linfor stands here looking at something
+~
+~
+human~
+AGR V ACDEHN 1000 0
+140 400 80d130+5000 30d30+300 20d60+75 wrath
+-30 -30 -30 -40
+0 0 0 0
+stand stand female 30000
+0 AK medium unknown
+F for AHMV
+F par BCDEFGHIJ
+#39003
+Balroth~
+Balroth~
+Balroth stands here praying
+~
+~
+human~
+AG Vc CDEH 1000 0
+140 400 50d150+6000 10d10+10 30d50+75 wrath
+-50 -50 -50 -37
+DFHI A 0 0
+stand stand male 30000
+0 ACJ medium unknown
+F for AHMV
+F par BDEFGHIK
+#39004
+Karen~
+Karen~
+Karen stands here reading a book
+~
+~
+human~
+AG Vac H 1000 0
+140 700 50d70+7000 10d10+10 30d50+85 slice
+-40 -40 -40 -35
+DHIN A 0 KP
+stand stand female 40000
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+#39005
+Modi~
+Modi~
+Modi stands here, chanting
+~
+~
+human~
+ABGa 0 H 1000 0
+115 500 1d1+50000 1d1+50000 1d1+5000 wrath
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39006
+idiots little helper~
+f~
+Bree's lil helper stands here
+~
+~
+human~
+ABG 0 H 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 400000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39007
+a castle warrior~
+a Castle Warrior~
+A Castle Warrior stands here, watching you closely
+~
+~
+human~
+ABG Vc 0 1000 0
+135 400 30d85+6000 10d10+10 30d50+100 slice
+0 0 0 0
+CDEIQ 0 0 0
+stand stand male 60000
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+#39008
+General Barok~
+General Barok~
+The General stands here, yelling at his troops
+~
+He's lean, he's mean....ehhh Maybe you shouldn't mess with him.
+~
+human~
+ABFG Vc H 1000 0
+161 550 40d85+8000 10d10+10 30d65+110 thwack
+-60 -60 -60 -45
+DEI A 0 0
+stand stand male 1000
+0 ABCJK medium unknown
+F for AHMV
+F par DEFGHI
+#39009
+castle guard~
+Castle guard~
+A castle guard is here, protecting something
+~
+~
+human~
+ABFG PQVac H 1000 0
+155 500 50d90+9500 10d10+10 25d65+105 slice
+-60 -60 -60 -45
+CDEHIK AN EFGS K
+stand stand none 50000
+0 ABCK large unknown
+F for AHMV
+F par DEFGHIJ
+#39010
+Ymir~
+Ymir~
+Ymir stands here, polishing his blade
+~
+~
+human~
+ABG Vc CH 1000 0
+155 450 40d100+9999 15d15+15 30d65+110 wrath
+-50 -50 -50 -25
+CDGHK ANS HI GK
+stand stand none 0
+0 ABCJK medium unknown
+F for AHMV
+F par DEFGHI
+#39011
+a servant~
+a servant~
+A servant to the castle is here.
+~
+~
+human~
+ABG V 0 1000 0
+110 250 35d60+8000 10d10+10 25d35+90 claw
+-45 -45 -45 -25
+CDEI N S K
+stand stand male 0
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+#39024
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39025
+bitch~
+Bree's Bitch~
+Bree's Bitch is here, waiting on Bree's orders.
+~
+~
+human~
+A 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 39025 1000~
+#0
+
+
+
+#OBJECTS
+#39001
+Cloak of the enlightened~
+cloak of the enlightened~
+An enlightened cloak lies here, pulsating~
+cloth~
+armor AIK AD
+CE CE CE CE 0
+101 3 10000 P
+A
+5 2
+A
+4 2
+A
+3 2
+#39002
+a small bench~
+a small bench~
+A small bench is here~
+leather~
+furniture 0 0
+B DEGJ EHK CDFI EHI
+0 0 0 P
+#39003
+a waiting bench~
+a waiting bench~
+A waiting bench is here~
+wood~
+furniture 0 0
+B CEFGHI EH BEF BEF
+0 0 0 P
+#39004
+Castle blade~
+a castle blade~
+A castle sword lies here~
+unknown~
+weapon 0 AN
+sword 9 23 slice DH
+101 5 10000 P
+A
+18 -8
+#39005
+wisdom ages blessed orb~
+wisdom of the Ages~
+A blessed orb is floating over your head.~
+unknown~
+armor ABIK AQ
+ABCD ABCD ABCD ABCD 0
+101 1 10000 P
+A
+19 15
+A
+4 1
+A
+3 1
+A
+9 3
+#39006
+jayden bloody rage~
+{1B{!lo{1od{1y {^R{6a{^g{6e{x~
+Jayden's famed sword, Bloody Rage, lies here.~
+unknown~
+weapon K AN
+sword 6 34 wrath 0
+101 4 10000 P
+A
+19 15
+#39007
+earrings sympathy karen~
+{7E{*a{7rr{*ing{7s {&of {@Sympathy{x~
+A pair of Karen's earrings lie here.~
+unknown~
+armor K AS
+ABCD ABCD ABCD ABCD 0
+101 2 10000 P
+A
+1 1
+A
+2 2
+A
+19 14
+#39008
+Book of Embla~
+book of Embla~
+A pulsating book lies here~
+unknown~
+armor AIK AO
+0 0 0 0 0
+101 1 10000 P
+A
+4 2
+A
+18 5
+A
+19 15
+A
+9 5
+#39009
+flail command~
+{xFlail of Command~
+A flail radiating an aura of command lies here.~
+unknown~
+weapon 0 AN
+flail 6 33 beating EF
+101 3 10000 P
+A
+2 1
+A
+19 7
+A
+18 7
+A
+5 2
+A
+1 2
+#39010
+Holy legplates~
+holy legplates~
+Legplates lie here, glowing.~
+metal~
+armor AIK AF
+ABE ABE ABE ABCD 0
+101 3 10000 P
+A
+1 2
+A
+19 12
+A
+18 8
+#39011
+Castle ring~
+castle ring~
+A Castle ring is lying here~
+unknown~
+jewelry AIK AB
+0 0 0 0 0
+101 2 10000 P
+A
+4 2
+A
+19 10
+A
+18 7
+A
+9 4
+A
+17 -15
+#39012
+no name~
+(no short description)~
+(no description)~
+unknown~
+pill 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#39013
+head~
+head~
+Head~
+unknown~
+armor 0 AR
+A A A A 0
+101 1 101000 P
+F
+A 0 0 L
+#39084
+dig social skills~
+digaaz's Social Skills~
+Digaaz's Social Skills have been left here!~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#39092
+shield of tests~
+shield test~
+Shield test~
+unknown~
+armor A AJ
+BCDE BCDE BCDE BCDE 0
+101 2 0 P
+A
+18 150
+#39095
+ring~
+ring~
+Ring~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 0 500000 P
+A
+13 200
+A
+18 20
+A
+28 100
+A
+19 50
+#39096
+Free Slay Coupon~
+a Free {!Slay{X {$C{4oupo{$n{X~
+A Free {!Slay{X {$C{4oupo{$n{X lies on the ground here.~
+unknown~
+trash R AO
+0 0 0 0 0
+0 0 0 P
+#39097
+f~
+f~
+F~
+unknown~
+armor 0 AE
+BCDE BCDE BCDE BCDE 0
+101 0 100000 P
+A
+13 200
+F
+A 0 0 L
+A
+17 -40
+A
+18 32
+A
+19 32
+#39098
+boo~
+boo~
+Boo~
+unknown~
+potion 0 A
+100 'blindness' 'blindness' 'reserved' 'reserved'
+0 0 0 P
+#39099
+Mortal's bag~
+mortal's bag~
+Boo!~
+unknown~
+container 0 A
+100000 0 0 30000 500
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#39000
+Entrance to the Castle~
+Before you stands a castle of unimaginable proportion.  The walls are atleast
+seven or eight stories high.  The castle is made of a material you've not seen
+before, it has an almost shiny quality to it. The entrance in is north.
+~
+0 0 0
+D0
+~
+~
+0 0 39001
+D5
+~
+~
+0 0 6955
+S
+#39001
+Castle's Foyer~
+You are now in the foyer of this great castle. Along the walls, hung above
+the doors are pictures of various hero's that once fought for the greater good
+in Thera. Each door is about nine feet tall and made of solid iron. As you
+glance at the doors you see your reflection and wonder, maybe you could be a
+hero someday...
+~
+0 4 0
+D0
+~
+~
+0 0 39004
+D1
+~
+~
+1 0 39003
+D2
+~
+~
+0 0 39000
+D3
+~
+~
+1 0 39002
+S
+#39002
+Linfor's corner~
+Ah yes, Linfor, the most enlightened Hero in the castle. She would spent day
+in and day out studying ancient scrolls and texts to increase her knowlage.
+She was prehaps the most helpful guide these holy warriors had. Her guidance
+would make even the most corrupted of heart, a true beleiver in the holy path.
+~
+0 0 0
+D1
+~
+~
+1 0 39001
+S
+#39003
+Jayden's smite~
+Upon entering, you can smell the scent of death all around you. Jayden, 
+although pure of heart, was prehaps the most vicious warrior of all. He
+would enter battle with a fury not known to any other mortal, his speed
+and agility would allow him to emerge from battle with ease. 
+~
+0 0 0
+D3
+~
+~
+1 0 39001
+S
+#39004
+A bright hallway~
+You are walking down a well lit hallway, all the walls are shiny and the
+ceiling is about twenty feet tall, you begin to wonder what kind of person
+would need such a big hallway. There are two doors to your East and West, and
+the hallway continues North.
+~
+0 4 0
+D0
+~
+~
+0 0 39007
+D1
+~
+~
+1 0 39006
+D2
+~
+~
+0 0 39001
+D3
+~
+~
+1 0 39005
+S
+#39005
+Balroth's enlightenment~
+You enter the room of Balroth, he was one of the greatest wizards alive.
+No mortal could match his sorcery or his kindness for that matter. He would
+help anyone in need, good, evil, whatever it did not matter to him. Some
+say that was his downfall, because his death was on the blade of tainted soul
+whom was tricked into helping.
+~
+0 0 0
+D1
+~
+~
+1 0 39004
+S
+#39006
+Karen's sympathy~
+Upon entering this room, Karen smiles at you and bows her head. She was not
+the strongest warrior, or the fastest, her faith was her strength. She would
+enter battle ready to die for her beleifs, a true role model for any pure and
+holy mortal.
+~
+0 0 0
+D3
+~
+~
+1 0 39004
+S
+#39007
+A bright hallway~
+As you continue to walk down the hallway, you notice there are no more doors
+to your sides. Ahead you can't see much, its much to bright, you wonder what
+lies ahead...
+~
+0 0 0
+D0
+~
+~
+0 0 39008
+D2
+~
+~
+0 0 39004
+S
+#39008
+A fork in the hallway~
+A fork in the road eh? which way will you chose? Careful now, you don't
+want to pick the wrong way....
+~
+0 4 0
+D0
+~
+~
+1 0 39014
+D1
+~
+~
+0 0 39010
+D2
+~
+~
+0 0 39007
+D3
+~
+~
+0 0 39009
+S
+#39009
+A long hallway~
+Man! You can hardly see its so damn bright in here, its almost like staring
+into the sun itself! You can make out a room to the North, but not much more.
+If you want to chance it, you can try and stumble North...
+~
+0 0 0
+D0
+~
+~
+0 0 39011
+D1
+~
+~
+0 0 39008
+S
+#39010
+A short hallway~
+Walking down this short hallway, you stop to admire the various pictures
+on the wall. Most near full body paintings of men you have not seen before.
+But you admire them anyway because what else are you gonna do?
+~
+0 0 0
+D1
+~
+~
+0 0 39015
+D3
+~
+~
+0 0 39008
+S
+#39011
+A long hallway~
+Man! You can hardly see its do damn bright in here, its almost like staring
+into the sun itself! You can make out a room to the North, but not much more.
+If you want to chance it, you can try and stumble North...
+~
+0 0 0
+D0
+~
+~
+0 0 39012
+D2
+~
+~
+0 0 39009
+S
+#39012
+End of the hallway~
+Finaly, the light starts to dim out as you aproach a stairwell. You can make
+out the smell of incense and candle's comming from below you. You wonder what
+or who is down there.
+~
+0 4 0
+D2
+~
+~
+0 0 39011
+D5
+~
+~
+0 0 39013
+S
+#39013
+Embla's protection~
+You have entered the room of Embla, the first women ever created in Norse
+Mythology. Wow, the myths must be true, she has been given the task to watch
+over the souls of the Hero's the dwell within this castle. There are many
+pictures in this room, you can make out the faces of Vili and Ve, two of the
+three Gods that created her. It would be a bad thing for her to find out you
+have slain the Hero's souls that she has be sent to watch over...
+~
+0 0 0
+D4
+~
+~
+0 0 39012
+S
+#39014
+Modi's dwelling~
+As you enter the room you see Modi, surrounded by candel's and scrolls. He
+was once the healer of these divine Heros, but now, with nobody left to
+heal, he offers his services to anyone whom may need them.
+~
+0 256 0
+D2
+~
+~
+1 0 39008
+S
+#39015
+Bottom of a stairwell~
+You have reached a set of stairs that lead up to the second floor of the
+castle, dare you go up them?
+~
+0 0 0
+D3
+~
+~
+0 0 39010
+D4
+~
+~
+0 0 39016
+S
+#39016
+Walking a stairwell~
+Plain ol' concrete stairs, they will take you to the first or second floor
+of the castle depending on which way your walking them.
+~
+0 0 0
+D4
+~
+~
+0 0 39017
+D5
+~
+~
+0 0 39015
+S
+#39017
+Top of the stairwell~
+You have reached the top of the stairwell at last, trying to catch your
+breath you notice the only exit is North. All fine and well, just hope
+there are no more stairs to climb.
+~
+0 0 0
+D0
+~
+~
+0 0 39018
+D5
+~
+~
+0 0 39016
+S
+#39018
+Second level of the castle~
+You have risen to the second level of this glorious castle. You hear lots
+of noise comming from the west and you see a few people running around to
+the north and west. You wonder whats up here.
+~
+0 0 0
+D0
+~
+~
+0 0 39024
+D2
+~
+~
+0 0 39017
+D3
+~
+~
+0 0 39019
+S
+#39019
+Warrior housing~
+You have entered the place where the troops are housed while they stay
+at the castle. They have been put here for protection incase Embla was
+not up to her duty. Many of the finest warriors through out the land
+volenteer for this job, but only few are chosen.
+~
+0 0 0
+D0
+~
+~
+0 0 39021
+D1
+~
+~
+0 0 39018
+D2
+~
+~
+0 0 39020
+D3
+~
+~
+0 0 39022
+S
+#39020
+Warrior housing~
+Beds line the wall here but hardly anybody is home, you begin to wonder
+where can all the warriors be?
+~
+0 0 0
+D0
+~
+~
+0 0 39019
+S
+#39021
+Warrior housing~
+Beds line the wall here but hardly anybody is home, you begin to wonder
+where can all the warriors be?
+~
+0 0 0
+D2
+~
+~
+0 0 39019
+S
+#39022
+Waiting room~
+You have entered the waiting room for the General. There is a secretary's
+desk in the corner near the door, however there is nobody in the room but
+you. Prehaps it is because nobody ever leaves the General's office alive
+after delivering bad news.
+~
+0 0 0
+D1
+~
+~
+0 0 39019
+D3
+~
+~
+1 0 39023
+S
+#39023
+General's office~
+There are maps and war plans thrown all over the place in the office.
+You can tell the General is a very busy man, he doesn't even notice you
+when you first enter the room, but now he has, oh my, now he has.
+Running might be in order...
+~
+0 0 0
+D1
+~
+~
+1 0 39022
+S
+#39024
+A hallway~
+You are walking down a short hallway, the walls are very plain and appear to
+be made of wood. The carpet is red and long, and looks so nice, you don't
+wanna get it messed up with your boots.
+~
+0 0 0
+D0
+~
+~
+0 0 39025
+D2
+~
+~
+0 0 39018
+S
+#39025
+A hallway~
+You are walking down a short hallway, the walls are very plain and appear to
+be made of wood. The carpet is red and long, and looks so nice, you don't
+wanna get it messed up with your boots.
+~
+0 0 0
+D2
+~
+~
+0 0 39024
+D4
+~
+~
+0 0 39026
+S
+#39026
+A small ladder~
+You are climbing up a small ladder to what appears to be the entrance to
+a loft of some kind, you wonder where it leads...
+~
+0 0 0
+D0
+~
+~
+0 0 39027
+D5
+~
+~
+0 0 39025
+S
+#39027
+Entrance to Ymir's chambers~
+You are standing before the door to some bed chambers, the entrance is North.
+Well that is if you can get past these guards ofcourse.
+~
+0 0 0
+D0
+~
+~
+1 0 39028
+D2
+~
+~
+0 0 39026
+S
+#39028
+Ymir's chambers~
+Paintings line the walls in this room, there is a rather comfertable looking
+bed in the center of the room, Ymir, prehaps the greatest Hero of Thera's time
+is standing infront of you, wondering why you have disturbed him. He looks
+nice enough, but don't let his exterior fool you, he could kill you with a
+mear thought.
+~
+0 0 0
+D2
+~
+~
+1 0 39027
+S
+#39097
+~
+~
+0 4 0
+S
+#39099
+Bree's sanctuary~
+{x   ,0,                                        ,0,
+   )'(                                        )'(
+   )'(                                        )'(
+   )'(           --The Legend of Bree--       )'(
+o=======o                                  o=======o
+   |.|           Wolfriders <Vice Leader>     |.|
+   |.|                   30 Pkills            |.|
+   |.|                   0 Pdeaths            |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   \ /                                        \ /
+    '                                          '
+~
+0 524292 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 39001 1 1 The east door of Castle's Foyer is closed
+D 0 39001 3 1 The west door of Castle's Foyer is closed
+D 0 39002 1 1 The east door of Linfor's corner is closed
+D 0 39004 1 1 The east door of A bright hallway is closed
+D 0 39004 3 1 The west door of A bright hallway is closed
+D 0 39008 0 1 The north door of A fork in the hallway is closed
+D 0 39014 2 1 The south door of Modi's dwelling is closed
+D 0 39022 3 1 The west door of Waiting room is closed
+D 0 39023 1 1 The east door of General's office is closed
+D 0 39027 0 1 The north door of Entrance to Ymir's chambers is closed
+D 0 39028 2 1 The south door of Ymir's chambers is closed
+M 0 39002 1 39002 1 *Load Linfor
+E 0 39005 0 18 *Wisdom of the ages is loaded floating nearby of Linfor
+M 0 39001 1 39003 1 *Load Jayden
+E 0 39006 0 16 *{1b{!lo{1od{1y {^r{6a{^g{6e{x is loaded wielded of Jayden
+M 0 39003 1 39005 1 *Load Balroth
+E 0 39001 0 13 *Cloak of the enlightened is loaded around the waist of Balroth
+M 0 39004 1 39006 1 *Load Karen
+E 0 39007 0 21 *{7e{*a{7rr{*ing{7s {&of {@sympathy{x is loaded on the ears of Karen
+M 0 39011 3 39008 1 *Load a servant
+M 0 39011 3 39010 1 *Load a servant
+M 0 39000 1 39013 1 *Load Embla
+E 0 39008 0 17 *Book of embla is loaded held in the hands of Embla
+M 0 39005 1 39014 1 *Load Modi
+O 0 39002 0 39014 *A small bench loaded to Modi's dwelling
+M 0 39011 3 39017 1 *Load a servant
+M 0 39007 5 39019 1 *Load a Castle Warrior
+E 0 39004 0 16 *A castle blade is loaded wielded of a Castle Warrior
+M 0 39007 5 39020 1 *Load a Castle Warrior
+E 0 39004 0 16 *A castle blade is loaded wielded of a Castle Warrior
+M 0 39007 5 39020 2 *Load a Castle Warrior
+E 0 39004 0 16 *A castle blade is loaded wielded of a Castle Warrior
+M 0 39007 5 39021 1 *Load a Castle Warrior
+E 0 39004 0 16 *A castle blade is loaded wielded of a Castle Warrior
+M 0 39007 5 39021 2 *Load a Castle Warrior
+E 0 39004 0 16 *A castle blade is loaded wielded of a Castle Warrior
+O 0 39003 0 39022 *A waiting bench loaded to Waiting room
+M 0 39008 1 39023 1 *Load General Barok
+E 0 39009 0 16 *{xflail of command is loaded wielded of General Barok
+M 0 39009 2 39027 2 *Load Castle guard
+M 0 39009 2 39027 2 *Load Castle guard
+M 0 39010 1 39028 1 *Load Ymir
+E 0 39010 0 7 *Holy legplates is loaded on the legs of Ymir
+E 0 39011 0 1 *Castle ring is loaded on the left finger of Ymir
+S
+
+
+
+#SHOPS
+39006 0 5 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#39000
+say Welcome to my room!
+~
+#39001
+growl
+say You have slain the souls of the Heros in this castle, you will pay!
+~
+#39025
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#0
+
+#$

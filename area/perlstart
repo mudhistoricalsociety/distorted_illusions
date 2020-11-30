@@ -1,0 +1,248 @@
+SCRIPT.README
+
+First off, I can take absolutely no credit for this script (thanks go out to the smaug deriv released at 
+one time or another by Wolfpaw.. Going through to find it, I couldn't, but still, I can't take credit for 
+it.. it's a damn good script though.
+
+How to install:
+
+Easy as pie really.. Open up the startxanth file, search for the #here lines.. Change those (should be 
+rather self explanatory).. Do the same with the xanth.pl.. 
+
+To edit the crontab, all you have to do is take a look at the crontab file. That's my crontab, exactly as 
+it is, and it works just perfectly. It checks to make sure the mud's up and running every 5 minutes, and 
+if it's not it restarts it.
+
+To change your crontab, use the following command :
+ crontab -e
+
+copy that line from the crontab file into the nw file that crontab -e pulls up (after changing the path 
+and whatnot of course), then save the crontab.. You should be ready to go from there.
+
+Benefits of using this script:
+
+From what I've seen, the past two years of using it, this script is rather nice.. I've edited it quite 
+a bit ove the years, and it's always worked for me like magic..
+
+--The mud automatically restarts itself (instead of waiting 3-5 minutes to restart)
+--The Crontab entry can be used to automatically restart the mud in the event of a server crash. It 
+  checks every 5 minutes and if it's not running, it restarts it, running the perl script.
+--Less hassle than having to worry about your startup script running all of the time.
+--It's easier on the server itself than running a tcsh or bash script..
+
+To execute this script, simply type the following:
+nohup ./startxanth &
+The nohup will make sure that the script keeps running while you're not around
+The & puts the script in the background (which you should be doing anyways)
+
+
+ng6,31,36,41,46,51,56 * * * *    /home/twhiting/xanth/bin/xanth.pl
+
+
+
+# Set the port number.
+set port = 3015
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+#here
+cd ~/rot/area
+
+# Set limits.
+nohup
+nice
+limit stack 1024k
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 0
+    while ( 1 )
+	set logfile = ../log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Record starting time
+    date > $logfile
+    date > ../txt/boot.txt
+
+    # Record initial charges
+    # charges >> $logfile
+
+    # Run the mud.
+#here
+    ../src/rot $port >&! $logfile
+
+    # Record ending charges
+    # charges >> $logfile
+
+#    # Delete this out if no adb.
+#    if ( -e core ) then
+#	    echo '$c' | adb ../src/rot
+#    endif
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+#here
+
+#########################################################################
+# Small Mod made by me to use my startup script, so my logs stay as i   #
+# have them -- So my log cleaner/compresser works without mods --GW     #
+# PLEASE GO TO THE LAST LINE OF THE FILE, AND CHANGE WHERE IT SAYS TO!! #
+#########################################################################
+# mudcheck.pl				Version 1.0			#
+# Created: Jun 28, 1997			Jared Proudfoot			#
+# Last Modified: Jun 28, 1997		jproudfo@footprints.net		#
+#########################################################################
+# README								#
+#									#
+# This is a pretty simple script that checks to see if a mud is running	#
+# properly.  Be sure to change the 'important vars' section.  The best	#
+# idea is to run this script from cron every couple of minutes... That	#
+# way you can be sure that it stays running.				#
+#########################################################################
+# CHANGES AND HISTORY							#
+#									#
+# v 1.0, Jun 28, 1997	Created.  Seems to work fine now.		#
+#########################################################################
+#########################################################################
+# Define the important vars						#
+#									#
+# Define the host and port number where the mud resides.		#
+#here
+$server		=	"localhost";
+$port		=	"9275";
+
+# $string is the string of characters we will look for upon connecting.	#
+# If we connect, but don't see this string, we will assume the mud	#
+# isn't responding (locked up?) and we'll restart it.  The string	#
+# *must* be on the first line after connect.	
+
+# You may enter this as a regexp if you wish.				#
+
+$replyString		=	"^\n";
+
+# How long do we wait before we connect timeout (in seconds)?		#
+
+$timeOut	=	"60";
+
+# What to execute if we need to restart the mud.  Please include the	#
+# FULL path.								#
+#here
+$exec		=	"~/xanth/bin/2k";
+
+# Path where you want the mud logs to be kept.
+#here
+$logdir		=	"~/xanth/log";
+#here
+# Path where we should start the mud from.				#
+$startPath	=	"~/xanth/area";
+
+# That's it.  You shouldn't need to change anything after this line.	#
+#########################################################################
+
+# What do we need to use?
+use Socket;
+require 5.003;
+
+
+
+#########################################################################
+# Main									#
+#########################################################################
+
+if (&connect_server == 0) {
+	# If we couldn't connect, try and restart.			#
+	print ("Connection to $server on port $port failed or timed out after $timeOut seconds!\n");
+	$time = (scalar localtime);
+	print ("Attempting to restart the mud on $time...\n");
+	# Restart the mud						#
+	&restart_mud;
+}
+else {
+	# We connected, but is it working properly?			#
+		$readline = (&gl);
+		if ($readline =~ /$replyString/) {
+			# We found what we were looking for, so exit 	#
+			# properly.					#
+			&disconnect_server;
+			exit 1;
+		}
+	# After all those searches, we didn't find anything.  The mud	#
+	# must be locked up.  Lets kill and restart it.			#
+	&disconnect_server;
+	print ("The connection was sucessful, but it doesn't seem to be responding\n");
+	$time = (scalar localtime);
+	print ("Attempting to restart the mud on $time...\n");
+	system("killall $exec");
+	&restart_mud;
+}
+	
+	
+
+
+#########################################################################
+# Subroutines								#
+#########################################################################
+
+
+sub connect_server {
+	# Connect to the server						#
+	my ($iaddr, $paddr, $proto);
+	$iaddr = inet_aton ($server)
+		or die ("ERROR: No host: $server!\n");
+	$paddr = sockaddr_in ($port, $iaddr);
+	$proto = getprotobyname('tcp');
+	socket (SOCK, PF_INET, SOCK_STREAM, $proto)
+		or die ("ERROR: Socket error $!\n");
+	alarm ($timeOut);
+	if (connect (SOCK, $paddr)) {;
+		alarm (0);
+		return 1;
+	}
+	else {
+		return 0;
+	}
+}
+
+sub disconnect_server {
+	# Disconnect from the server					#
+	close (SOCK);
+	return;
+}
+
+sub sl {
+	# Send a line							#
+  	my ($line)=@_;
+  	print SOCK ("$line")
+		or die ("ERROR: Error writing to server: $!\n");
+	select SOCK;
+  	$|=1;
+  	select STDOUT;
+  	$|=1;
+	return;
+}
+	
+sub gl {
+	# Get a line							#
+	my ($buffer, @reply);
+	$buffer=(<SOCK>);
+#	(@reply) = split (/\s/, $buffer);
+#	return (@reply);
+	return ($buffer);
+}
+
+sub restart_mud {
+		# Restart the mud					#
+		$timet = time();
+		chdir $startPath;
+#here
+		system ("~/xanth/bin/startxanth &");
+		return;
+}
+
+

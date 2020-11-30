@@ -1,0 +1,994 @@
+#HELPS
+-1 ROT~
+RoT is a ROM2.4 derived mud, which is originally based on the Merc 1.0 code.
+The RoT modifications to the ROM source are copyright 1996-1997 by Russ Walsh.
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Tesseract, the latest version of the ROM code.
+It can be found at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bug reports
+    and suggestions, saving a lot of headaches
+
+New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used. 
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle (my wife) and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are largely the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+-1 IMMORTAL IMMORT GOD WIZARD WIZ~
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+-1 SOCIALS~
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+Updated by: {BM{berukanah{x
+{Yaargh       accept      accuse      adjust     agree      air{x
+{yanticipate  apologize   applaud     babble     bark       bat{x
+{Ybcatch      beam        bearhug     beat       beckon     beer{x
+{ybeg         bird        bite        bkiss      bleed      blink{x
+{Ybliss       blush       boast       boggle     bonk       bounce{x
+{ybow         brb         buff        burp       cackle     camel{x
+{Ycaress      charge      cheer       chortle    chuckle    clap{x
+{yclaw        collapse    comb        comfort    confused   conspire{x
+{Ycontemplate cough       cover       cower      cowlaunch  cramp{x
+{ycringe      criticize   cry         cuddle     curse      curtsey{x
+{Ydance       daydream    depants     differ     discodance drool{x
+{yduck        embrace     explode     eyebrow    facedesk   faint{x
+{Yfart        fatality    flare       flash      flex       flinch{x
+{yflip        flirt       flutter     fondle     french     frown{x
+{Yfume        gack        gasp        giggle     glare      glomp{x
+{ygoose       grimace     grin        groan      grope      grovel{x
+{Ygrowl       grumble     halo        hand       head       hiccup{x
+{yhighfive    hipthrust   homework    hop        hotlovin   howl{x
+{Yhug         hump        hush        ignore     innocent   insane{x
+{yjudge       kiss        knee        laces      lag        laugh{x
+{Yleer        lemonade    lick        life       lightbulb  liver{x
+{ylol         love        lust        make       massage    meditate{x
+{Ymischievous moan        moo         moon       mosh       mull{x
+{ymutter      nibble      nod         noogie     nudge      nuzzle{x
+{Yogg         pant        passout     pat        peck       peer{x
+{ypie         pinch       pissed      plead      point      poke{x
+{Ypolite      ponder      pounce      pout       powertrip  pray{x
+{ypropaccept  propose     puff        puke       punch      purr{x
+{Yraise       ramble      raspberry   rofl       rolleyes   romeo{x
+{yrose        rub         ruffle      run        sage       scamper{x
+{Yscold       scratch     scream      scuff      serenade   shake{x
+{yshiver      shrug       shudder     sigh       silly      sing{x
+{Yskank       slap        slobber     smile      smirk      snap{x
+{ysnarl       sneeze      snicker     sniff      snore      snort{x
+{Ysnowball    snuggle     sob         spam       spank      spit{x
+{yspork       squeal      squeeze     squirm     stagger    stare{x
+{Ystarve      stretch     strip       stroke     strut      sulk{x
+{yswear       sweep       swoon       tackle     tag        tank{x
+{Ytease       thank       think       threaten   tickle     tie{x
+{ytight       tip         toast       tongue     tweak      twiddle{x
+{Yitch        type        undress     view       wait       wave{x
+{ywhap        whine       whip        whistle    whitecoat  wiggle{x
+{Ywince       wink        wonder      worry      worship    wrestle{x
+{ywrist       yae         yawn        yeehaw     yodel      yowl{x
+{Yzerbert{x
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+~
+
+-1 MAP MAPS~
+Thanks to Ezra for drawing the originals of several maps on ROM.
+~
+
+-1 LOGIN~
+What name do you wish to use? ~
+
+-1 GREETING1~
+{w
+
+                                 :::!-!!!!!:.
+                             .xUHWH!! !!?M88WHX:.
+                           .X*#M@$!!  !X!M$$$$$$WWx:.
+                          :!!!!!!?H! :!$!$$$$$$$$$$8X:
+                         !!-  -:-!! :-!$!#$$$$$$$$$$8X:
+                        :!-::!H!<   -.U$X!?R$$$$$$$$MM!
+                        -!-!!!!-- .:XW$$$U!!?$$$$$$RMM!
+                          !:--- .:!M"T#$$$$WX??#MRRMMM!
+                          -?WuxiW*`   `"#$$$$8!!!!??!!!
+                        :X- M$$$$       `"T#$T-!8$WUXU-
+                       :%`  -#$$$m:        -!- ?$$$$$$
+                     :!`.-   -T$$$$8xx.  .xWW- -""##*"
+           .....   ---:<` !    -?T#$$@@W@*?$$      /`
+           W$@@M!!! .!-- !!     .:XUW$W!- `"-:    :
+           #"--`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`	
+           :::-:!!`:X- .: ?H.!u "$$$B$$$!W:U!T$$M-   
+           .--   :X@!.--   ?@WTWo("*$$$W$TH$! `
+           Wi.-!X$?!--    : ?$$$B$Wu("**$RM!
+           $R@i.-- !     :   -$$$$$B$$en:``
+           ?MXT@Wx.-    :     -"##*$$$$M-
+{x
+{B                      Welcome To Distorted Illusions V2.0{x
+~
+
+-1 GREETING2~
+{x                                   {#o{x
+{x                               {!.-""{7|{x 
+{x                              {!|-""'{7|{x
+{x                                   {7|  _._--+.{x
+{x                                 {7+:'''       '.{x
+{x                                {7+:'           '.{x
+{x                                 {7| '.        _.-'|{x
+{x                                 {7|   +    .-"   J{x
+{x              {7_.+        {@.....'.'{7|    '.-"      |{x
+{x         {7_.-""   '.   {@..'{^88888888{7|     +       J'{@'..{x
+{x     {7+:"          '.{@'{^88888888888{7;-+.  |    _+.|{^8888{@:{x
+{x      {7| \         _.-+{^888888888{7_." _.F F +:'   '.{^8888{@'....{x
+{x       {7L \   _.-""   |{^8888{7_.-"  _." J J J  '.    +{^88888888{@:{x
+{x       {7|  '+"        |_.-"  _.-"    | | |    +    '.{^888888{@'.{7_''.{x
+{x    {@.'{^8{7L  L         J  _.-"        | | |     '.    '.{^88{7_.-"    '.{x 
+{x   {@:{^888{7|  |         J-"            F F F       '.  _.-"          '.{x
+{x  {@:{^88888{7L  L     _+  L            J J J          '|.               ';{x 
+{x {@:{^888888{7J  |  +-"  \ L          _.+.|.+.          F '.          _.-" F{x
+{x {@:{^8888888{7|  L L\    \|      _.-"    '   '.       J    '.     .-"    |{x
+{x {@:{^8888888{@.{7L | | \    ', _.-"              '.     |      "..-"      J{@'.{x
+{x {@:{^888888{@: {7|  L L '.    \     _.-+.          '.   :+-.     |        F{^88{@'.{x
+{x {@:{^888888{@:  {7L | |   \    ;.-""     '.          :-"    ":+ J        |{^88888{@:{x
+{x {@:{^888888{@:  {7|  L L   +:""            '.    _.-"     .-" | |       J{@:{^888888{@:{x
+{x {@:{^888888{@:   {7L | |   J \               '.-'     _.-'   J J        F {@:{^888888{@:{x
+{x  {@:{^88888{@:    {7\ L L   L \             _.-+  _.-'       | |       |   {@:{^888888{@:{x
+{x  {@:{^888888{@:    {7\| |   |  '.       _.-"   |-"          J J       J     {@:{^888888{@:{x
+{x  {@:{^888888{@'.    {7+'\   J    \  _.-"       F    ,-T"\  | |     .-'      {@:{^888888{@:{x
+{x   {@:{^888888 {@'.     {7\   L    +"          J    /  | J  J J  .-'        {@.'{^888888{@:{x
+{x    {@:{^8888888 {@:     {7\  |    |           |    F  '{3.{7|.-'+|-'         {@.' {^8888888{@:{x
+{x     {@:{^8888888 {@:     {7\ J    |           F   J     {3'{@...           .' {^888888888{@:{x
+{x      {@:{^8888888 {@:     {7\ L   |          J    |      {3\{^88{@'.''.''''.' {^8888888888{@:{x
+{x       {@:{^8888888 {@:     {7\|   |          |  .-'{3\      \{^8888888888888888888888{@:{x
+{x        {@:{^8888888 {@'.    {7J   |          F-'  {@.'{3\      \{^8888888888888888888{@.'{x
+{x         {@:{^88888888 {@:    {7L  |         J     {@: {^8{3\      \{^8888888888888888{@.'{x
+{x          {@:{^88888888 {@:   {7|  |        .+  {@...' {^88{3\      \{^8888888888{@.''.'{x
+{x           {@:{^88888888 {@:  {7J  |     .-'  {@.'    {^8888{3\      \{@'.'''.'.' {x
+{x            {@:{^88888888 {@:  {7\ |  .-'   {@.' {^888888888{@.{3\    _-'   {x  
+{x            {@:{^888888888 {@:  {7\|-'     {@.' {^888888888{@.' {3\_-"{x
+{x             {@'.{^88888888{@'..         : {^8888888{@.' {x
+{x               {@:{^88888888  {@''''{^.{@''{^.{@' {^88888888{@:         
+{x               {@:{^8888888888888888888888888888{@:  
+{x                {@:{^88888888888888888888888888{@:{x
+{x                 {@:{^888888888888888888888888{@:{x
+{x                  {@''.{^8888888888888{@...'.'''{x
+{x                     {@'''''......''{x
+{B                      Welcome To Distorted Illusions V2.0{x
+~
+
+-1 GREETING3~
+{#                                                            |\{0
+{#                                                            <<\          .{0
+{#                                                            _/ \_       /{0
+{7 /---------------------------------------------------------{#/ }   /_____/|{0
+{7<{&       -==============================================:::{#}       _____ #]{0
+{7 \---------------------------------------------------------{#\_}  _\     \|{0
+{#                                                             \ /        \{0
+{#                                                            <</{x
+{#                                                            |/{0
+{B                      Welcome To Distorted Illusions V2.0{x
+~
+
+-1 GREETING4~
+{&.{x
+{x
+{x   {&.......::::::::::::)..           .......................(::::::........{x
+{x      {&.:::::;;;;;;;;):::::::.... .           .......:::::::::::::<......{x
+{x          {3<  >>>                   ,.{x
+{x  {&.::..  {3;   I;{3L\  /L\.  {&..::..   {3/iL.           {#|         {&..::::::::::::..{x
+{x        {3;    II;{3L\/LLLL;         / I;{3L\    {#\     |     / {3/\_   {xCollage by{x
+{x             {3II;..{3LLLLLL\    _._/ I;:.{3L\     {#\   |   / {3_/J;{3 \    {xBob Allison{x
+{x      {3:     IIIIi;..{3LLLLL\__/   IIII:..{3L\____  {#\###/  {3/JJI:{3  \{x
+{x    {3,;     ILIi;;;:...:{3LLL;\      IIIII;.{3LLLLL\{######{3/JJ II;{3   \{x
+{x   {3;     I LLii;;;.:.. :{3LLL;\     III;;;::{3LLLLL\{####{3/JJ IIII;{3   \_.{x
+{x  {3:     IIILiii;;::.... :LLL;|      ;;I;;::.:LLLLLL:;IJ IIIII;:   \__.{x
+{x           {3IIIII IIii;;::;..;\          ;;:::...LLLL;IJIII;;    :::   \{x
+{x{3:    ;    IIIIIIIIIii;;::.;..      {$_=={7|      {3;..  :;IJIII;:::    ::    \{x
+{x    {3;    ::::::::::::;;::..;  {$_=={7|   {&)__)  {7|                            {3\{x
+{x{^'  '"  "  ""'""'""  ""'"  '"    {&)_)  )___) ))  {^""''"   ""'"  "'" "'"'"' {x
+{x        {^'""   ""^^       ^'   {&)___) )____))_)   {^''         ""^^^""  '  "  "'"{x
+{x{^' ^^            ^        {4_    {&)____)_____))__){4\      {^'^''^           ^^"{x
+{x     {^'^^          ^'      {4\---__{7|{4____/{7|{4___{7|{4___-\\--        {^"'"'         "^"{x
+{x   {^''    '^          ^"'   {4\   {8oo oo oo oo     {4/      {^'"      ''       ""^"{x
+{x        {8____   {^^^^"'   ''^^^^^^^^^^^^^^^^^^^^^^    ^'^            ^'^^^{x
+{x      {8/  {!o   {8\     {^""'"  {8__          __ {^"'"''     '   '''     '""'"`    ""''{x
+{x    {8< ____     \{^"'"    {8/    \   {^"' {8/    \       _          _    {^"'    {8_{x
+{x          {8|     |     |  __  |    |  __  |    /   \      /   \       / |{x
+{x    {^'''   {8|_____|  {^'  {8|__||__| {^'' {8|__||__| {^' {8|_____| {^'' {8|_____| {^""  {8/_/{x
+{x         {^'''     '^^^^      '"""^^'''''^        '''''''""        '''''^^""{x
+{x   {^''          '^^           '^^'          '^ '      ''      '  ^   ^^^^^^^^{x
+{B                      Welcome To Distorted Illusions V2.0{x                   
+~
+
+-1 GREETING5~
+.
+
+   .
+  /:\
+  |:|
+  |:|
+  |:|
+  |:|      __
+,_|:|_,   /  )                     *_   _   _   _   _   _   _   *
+  (Oo    / _I_                     | `_' `-' `_' `-' `_' `-' `_'|
+   +\ \  || __|            ^       |        Welcome to          |       ^
+      \ \||___|            |       |    Distorted Illusions!    |       |
+        \ /.:.\-\          |  (*)  |_   _   _ V2.0_ _   _   _   |  \^/  |
+         |.:. /-----\      | _<">_ | `_' `-' `_' `-' `_' `-' `_'| _(#)_ |
+         |___|  oOo  |    o+o \a/ \0              |             0/ \a/ (=)
+         /   |<a.a-a>|     0'\a-a/\/              |             \/\a-a/`0
+        |_____\  :  /        /_^_\ |              |             | /_^_\
+         | |  \ \:/          || || |              |             | || ||
+         | |   | |           d|_|b_T______________|_____________T_d|_|b
+         \ /   | \___              /                           /
+         / |   \_____\         /                              /
+         `-'               /                                 /
+________________________/                                   /___________
+
+~
+
+-1 GREETING6~
+{w
+
+                                 :::!-!!!!!:.
+                             .xUHWH!! !!?M88WHX:.
+                           .X*#M@$!!  !X!M$$$$$$WWx:.
+                          :!!!!!!?H! :!$!$$$$$$$$$$8X:
+                         !!-  -:-!! :-!$!#$$$$$$$$$$8X:
+                        :!-::!H!<   -.U$X!?R$$$$$$$$MM!
+                        -!-!!!!-- .:XW$$$U!!?$$$$$$RMM!
+                          !:--- .:!M"T#$$$$WX??#MRRMMM!
+                          -?WuxiW*`   `"#$$$$8!!!!??!!!
+                        :X- M$$$$       `"T#$T-!8$WUXU-
+                       :%`  -#$$$m:        -!- ?$$$$$$
+                     :!`.-   -T$$$$8xx.  .xWW- -""##*"
+           .....   ---:<` !    -?T#$$@@W@*?$$      /`
+           W$@@M!!! .!-- !!     .:XUW$W!- `"-:    :
+           #"--`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`	
+           :::-:!!`:X- .: ?H.!u "$$$B$$$!W:U!T$$M-   
+           .--   :X@!.--   ?@WTWo("*$$$W$TH$! `
+           Wi.-!X$?!--    : ?$$$B$Wu("**$RM!
+           $R@i.-- !     :   -$$$$$B$$en:``
+           ?MXT@Wx.-    :     -"##*$$$$M-
+{x
+{B                      Welcome To Distorted Illusions V2.0{x
+~
+
+-1 GREETING7~
+{x                                   {#o{x
+{x                               {!.-""{7|{x 
+{x                              {!|-""'{7|{x
+{x                                   {7|  _._--+.{x
+{x                                 {7+:'''       '.{x
+{x                                {7+:'           '.{x
+{x                                 {7| '.        _.-'|{x
+{x                                 {7|   +    .-"   J{x
+{x              {7_.+        {@.....'.'{7|    '.-"      |{x
+{x         {7_.-""   '.   {@..'{^88888888{7|     +       J'{@'..{x
+{x     {7+:"          '.{@'{^88888888888{7;-+.  |    _+.|{^8888{@:{x
+{x      {7| \         _.-+{^888888888{7_." _.F F +:'   '.{^8888{@'....{x
+{x       {7L \   _.-""   |{^8888{7_.-"  _." J J J  '.    +{^88888888{@:{x
+{x       {7|  '+"        |_.-"  _.-"    | | |    +    '.{^888888{@'.{7_''.{x
+{x    {@.'{^8{7L  L         J  _.-"        | | |     '.    '.{^88{7_.-"    '.{x 
+{x   {@:{^888{7|  |         J-"            F F F       '.  _.-"          '.{x
+{x  {@:{^88888{7L  L     _+  L            J J J          '|.               ';{x 
+{x {@:{^888888{7J  |  +-"  \ L          _.+.|.+.          F '.          _.-" F{x
+{x {@:{^8888888{7|  L L\    \|      _.-"    '   '.       J    '.     .-"    |{x
+{x {@:{^8888888{@.{7L | | \    ', _.-"              '.     |      "..-"      J{@'.{x
+{x {@:{^888888{@: {7|  L L '.    \     _.-+.          '.   :+-.     |        F{^88{@'.{x
+{x {@:{^888888{@:  {7L | |   \    ;.-""     '.          :-"    ":+ J        |{^88888{@:{x
+{x {@:{^888888{@:  {7|  L L   +:""            '.    _.-"     .-" | |       J{@:{^888888{@:{x
+{x {@:{^888888{@:   {7L | |   J \               '.-'     _.-'   J J        F {@:{^888888{@:{x
+{x  {@:{^88888{@:    {7\ L L   L \             _.-+  _.-'       | |       |   {@:{^888888{@:{x
+{x  {@:{^888888{@:    {7\| |   |  '.       _.-"   |-"          J J       J     {@:{^888888{@:{x
+{x  {@:{^888888{@'.    {7+'\   J    \  _.-"       F    ,-T"\  | |     .-'      {@:{^888888{@:{x
+{x   {@:{^888888 {@'.     {7\   L    +"          J    /  | J  J J  .-'        {@.'{^888888{@:{x
+{x    {@:{^8888888 {@:     {7\  |    |           |    F  '{3.{7|.-'+|-'         {@.' {^8888888{@:{x
+{x     {@:{^8888888 {@:     {7\ J    |           F   J     {3'{@...           .' {^888888888{@:{x
+{x      {@:{^8888888 {@:     {7\ L   |          J    |      {3\{^88{@'.''.''''.' {^8888888888{@:{x
+{x       {@:{^8888888 {@:     {7\|   |          |  .-'{3\      \{^8888888888888888888888{@:{x
+{x        {@:{^8888888 {@'.    {7J   |          F-'  {@.'{3\      \{^8888888888888888888{@.'{x
+{x         {@:{^88888888 {@:    {7L  |         J     {@: {^8{3\      \{^8888888888888888{@.'{x
+{x          {@:{^88888888 {@:   {7|  |        .+  {@...' {^88{3\      \{^8888888888{@.''.'{x
+{x           {@:{^88888888 {@:  {7J  |     .-'  {@.'    {^8888{3\      \{@'.'''.'.' {x
+{x            {@:{^88888888 {@:  {7\ |  .-'   {@.' {^888888888{@.{3\    _-'   {x  
+{x            {@:{^888888888 {@:  {7\|-'     {@.' {^888888888{@.' {3\_-"{x
+{x             {@'.{^88888888{@'..         : {^8888888{@.' {x
+{x               {@:{^88888888  {@''''{^.{@''{^.{@' {^88888888{@:         
+{x               {@:{^8888888888888888888888888888{@:  
+{x                {@:{^88888888888888888888888888{@:{x
+{x                 {@:{^888888888888888888888888{@:{x
+{x                  {@''.{^8888888888888{@...'.'''{x
+{x                     {@'''''......''{x
+{B                      Welcome To Distorted Illusions V2.0{x
+~
+
+-1 GREETING8~
+{&.{x
+{x
+{x   {&.......::::::::::::)..           .......................(::::::........{x
+{x      {&.:::::;;;;;;;;):::::::.... .           .......:::::::::::::<......{x
+{x          {3<  >>>                   ,.{x
+{x  {&.::..  {3;   I;{3L\  /L\.  {&..::..   {3/iL.           {#|         {&..::::::::::::..{x
+{x        {3;    II;{3L\/LLLL;         / I;{3L\    {#\     |     / {3/\_   {xCollage by{x
+{x             {3II;..{3LLLLLL\    _._/ I;:.{3L\     {#\   |   / {3_/J;{3 \    {xBob Allison{x
+{x      {3:     IIIIi;..{3LLLLL\__/   IIII:..{3L\____  {#\###/  {3/JJI:{3  \{x
+{x    {3,;     ILIi;;;:...:{3LLL;\      IIIII;.{3LLLLL\{######{3/JJ II;{3   \{x
+{x   {3;     I LLii;;;.:.. :{3LLL;\     III;;;::{3LLLLL\{####{3/JJ IIII;{3   \_.{x
+{x  {3:     IIILiii;;::.... :LLL;|      ;;I;;::.:LLLLLL:;IJ IIIII;:   \__.{x
+{x           {3IIIII IIii;;::;..;\          ;;:::...LLLL;IJIII;;    :::   \{x
+{x{3:    ;    IIIIIIIIIii;;::.;..      {$_=={7|      {3;..  :;IJIII;:::    ::    \{x
+{x    {3;    ::::::::::::;;::..;  {$_=={7|   {&)__)  {7|                            {3\{x
+{x{^'  '"  "  ""'""'""  ""'"  '"    {&)_)  )___) ))  {^""''"   ""'"  "'" "'"'"' {x
+{x        {^'""   ""^^       ^'   {&)___) )____))_)   {^''         ""^^^""  '  "  "'"{x
+{x{^' ^^            ^        {4_    {&)____)_____))__){4\      {^'^''^           ^^"{x
+{x     {^'^^          ^'      {4\---__{7|{4____/{7|{4___{7|{4___-\\--        {^"'"'         "^"{x
+{x   {^''    '^          ^"'   {4\   {8oo oo oo oo     {4/      {^'"      ''       ""^"{x
+{x        {8____   {^^^^"'   ''^^^^^^^^^^^^^^^^^^^^^^    ^'^            ^'^^^{x
+{x      {8/  {!o   {8\     {^""'"  {8__          __ {^"'"''     '   '''     '""'"`    ""''{x
+{x    {8< ____     \{^"'"    {8/    \   {^"' {8/    \       _          _    {^"'    {8_{x
+{x          {8|     |     |  __  |    |  __  |    /   \      /   \       / |{x
+{x    {^'''   {8|_____|  {^'  {8|__||__| {^'' {8|__||__| {^' {8|_____| {^'' {8|_____| {^""  {8/_/{x
+{x         {^'''     '^^^^      '"""^^'''''^        '''''''""        '''''^^""{x
+{x   {^''          '^^           '^^'          '^ '      ''      '  ^   ^^^^^^^^{x
+{B                      Welcome To Distorted Illusions V2.0{x                   
+~
+
+-1 GREETING9~
+.
+
+   .
+  /:\
+  |:|
+  |:|
+  |:|
+  |:|      __
+,_|:|_,   /  )                     *_   _   _   _   _   _   _   *
+  (Oo    / _I_                     | `_' `-' `_' `-' `_' `-' `_'|
+   +\ \  || __|            ^       |        Welcome to          |       ^
+      \ \||___|            |       |    Distorted Illusions!    |       |
+        \ /.:.\-\          |  (*)  |_   _   _   V2.0_   _   _   |  \^/  
+|
+         |.:. /-----\      | _<">_ | `_' `-' `_' `-' `_' `-' `_'| _(#)_ |
+         |___|  oOo  |    o+o \a/ \0              |             0/ \a/ (=)
+         /   |<a.a-a>|     0'\a-a/\/              |             \/\a-a/`0
+        |_____\  :  /        /_^_\ |              |             | /_^_\
+         | |  \ \:/          || || |              |             | || ||
+         | |   | |           d|_|b_T______________|_____________T_d|_|b
+         \ /   | \___              /                           /
+         / |   \_____\         /                              /
+         `-'               /                                 /
+________________________/                                   /___________
+
+~
+
+-1 GREETING10~
+{8                                                            _.-'-._{0
+{8                                                       __.-'       '-.{0 
+{8                                                   _.-'               \    ){0 
+{8                                                  (                    '._/({0
+{^                .{6   )      {&                       /\{8                       /{0
+{^             .{$   ){6 /({^ '{&                          ({1@{&>){8                     /{0
+{4              )\{$/({6(  ({8                          .''                      /{0
+{$           . {4/ {^'  {$\{6){^.{6 \{4  ){8                     (_                       /{0
+{$            (   {^.{6      ){4/{8                      /_                     _/{0
+{4             \(  ) '  /(        {8               '--.                 .-'{0
+{4            ({$ ) {4/(   {6(  {^)       {8               .-'                  ({0
+{4             '.       .'        {8             .-'                     ){0
+{1       )   ){4   '.___.'          {&             )/{8-.___.--._           /{0
+{1   ){8 .'( .'(                    {&             ({8           )         ({0
+{8 .'((  ((  ({1        (                           {8        /           '.{0
+{8 (  '\  '\  \       )\                          {8      _'              '.{0  
+{8  '.         '.__.-'  )                  {8          .-'                  '.{0
+{8    '.               /                  {8        .-'                       '.{0
+{8      '-.          .'                   {8      .'                            ){0
+{8         '-.    _-'                      {8   .'                             /{0
+{8            \   '.                        {8.'                              /{0
+{8             \    '.                      {8'                              /{0
+{0
+{B                    Welcome To Distorted Illusions V2.0{x
+~
+
+-1 AUTHORS~
+.
+                Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+                Tom Madsen, Michael Seifert, and Sebastian Hammer
+                Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+                ROM 2.4 copyright (c) 1993-1995 Russ Taylor
+                ROT 1.4 copyright (c) 1996-1997 Russ Walsh
+                DI code derived from Asgardian Nightmare 1.5b2 by,
+                Kefka, Tas, Tien, Skyntil, and Gavorkian.
+                Distorted Illusions v1.0 (c) Callin
+                Distorted Illusions v2.0 (c) 2005-2007 Bree
+                Distorted Illusions v2.5b(c) 2008-present Fesdor, Bree
+~
+
+-1 MOTD~
+* Important commands: help, commands, news, notes
+* Use {RC{YO{GL{CO{MR{x to turn on the color codes.
+* Use {BHELP STANCE{x to learn about our stance system.
+* Use {BHELP TIER{x and {BHELP MORETIER{x to learn about or tier system.
+* If you are a new player, {BHELP HARA{x is something you should read.
+** {RVOTE FOR US!{x at:
+{Rhttp://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Distorted+Illusions{x
+* You are responsible for knowing the rules (type rules). Ignorance of the rules in no excuse.
+{Y*{R*{Y*{x  To donate visit: http://www.dune.net/customers/?donate+digaaz  {Y*{R*{Y*{x
+This is an 18+ mud and may include sexual situations, language, forms of harassment, 
+swearing, stalking, imprisonment, and other situations that are as of now unseen. We
+are not responsible for this mud offending you, irritating you, getting a restraining
+order against you, or for you going into cardiac arrest, and/or being struck down by
+a bolt of lightning from your angry, neglected god.
+{R***{YHelp 'Scripting' for the rules on scripts and triggers{R***{X
+{C***{Y All new players please see, Help Asgardian for a quick list of relevant information to help you.{x
+[Hit Enter to Continue]
+~
+
+102 IMOTD~
+{WWelcome Immortal!
+
+{xYou are responsible for following the laws of immortal behavior.
+
+* Type 'help laws' for the rules you are
+  expected to follow as an Imm.
+* Type 'help jobs_part1'
+* Type 'help jobs_part2'
+* Type 'help jobs_part3'
+{R*{X {rDo Not{X load excessivly.
+{R*{X {rDo Not{X play with the babbles!
+{R*{X {rDo Not{X log on, do nothing, and expect to keep your job.
+ [Hit Return to continue]
+ 
+~
+
+102 jobs_part1~
+Below are the levels we have here, their duties, purpose and assigned tasks.
+ 
+Implementor 110 - Various different duties entail this posistion. Range from
+maintaining the balance within the mud, keeping the server up, instilling new
+exciting ideas within the game structure and keeping overall peace of the mud 
+and its staff. In short the buck stops here, any and all problems will be resolved
+at this level, most shouldn't reach this high.
+ 
+Co-Implementor 109 - Exactly what name means, they do all the tasks of the 110, except
+their authority is only superceeded by the 110s. Any 109, can code, build aid with help
+files, clans and where needed. They have a vast knowledge base of the mud and code and
+are a vital asset to the Implementors. Give them the same respect as you would a 110.
+ 
+Lead Immortals 108 - This is the level where specific Tasks are broken up and begin. Each
+department will have its own Lead Immortal. The departments being, Building, Questing, and Clan.
+These Lead Immortals are responsible for the forward progression of their related areas.
+This includes maintaining what we have, and building off of it. Coming up with ideas for future
+projects and making sure they are carried out. Also are responsible for every Immortal within
+their departments, making sure they are doing their jobs, and not goofing around.
+ 
+Assistant Lead Immortals 107 - This is just like the 108s, they are the top of their departments
+when the actual Lead Immortal is not on. When the Lead is on, any problems with their department
+should be brought to the Assistant, if the Assistant can't find a solution, then bring it to the
+Leads attention and a decision will be made. In turn, if the Lead can't solve it, just keep working
+up the chain. The Assistant aids in idea creation of further progression of their assigned areas, and
+again makes sure all lower immortals of their departments are doing their jobs and not goofing off 
+interacting with mortals and show boating. 
+ 
+SEE: help jobs_part2
+SEE: help jobs_part3
+~
+
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+Player killing and player stealing are allowed to all clan members 
+(including loners), provided the victim is is within 10 levels of the
+character and is also in a clan.
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+                         **********************
+                         ** The Rules of ROT **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+ 
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+7)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+8)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+9)  Do not try to overrule each other.  
+ 
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+Okay, i've gotten complaints, i won't say from who, but here is the point:
+Unless you are level 110, do not enter into the mortal realm
+This means stick to Immortal zones, like vahalla, or your area.
+Do NOT make any kinds of offers to mortals about ANYTHING. This means bets, dares, rewards, ect...
+If you are not level 110 you have ABSOLUTELY NO BUISNESS wizalsapping ANYONE FOR ANY REASON
+Also. Do NOT explore area's on your immortal and then use that information on your Mortals, this is CHEATING. plain and simple.
+These are new general rules
+FOLLOW THEM or you will find your immortal gone
+I would also like to see the chatter on OOC cut to a very low minimum. Now keep in mind the last version of DI any immortal under lvl 108 was FORBIDDEN from talking on OOC
+So i think i'm showing some leiniency here about this issuel
+Nobody take this personally, it is just a general statement of intent and rules.
+Bree.
+ 
+ 
+A)  Do not show mobs, items or anything from a zone to any mortals.
+B) Do not tell people what your zone will be like, consist of, or otherwise ruin the anticipation of a new zone.
+C) You may use something for comparison. If you do, please ask for permission first.
+D) Do not load things that are not from your zone.
+E) Do not, NOT, make a random mob that has a random name and gives 3000 xp.
+       This could be confused as cheating, or possible exploiting power and could
+possibly be misunderstood when reading the logs and we see 50+ spam loads of a
+mob.
+F) Simply put; Can what you are doing be misleading, or confusing when a 110 is reading logfiles?
+If so, then don't do it. 
+ 
+I know we hate rules. They are there for a reason.
+Abide by them, or may your chosen diety have mercy on your soul... Because I sure as hell won't.
+ 
+Don't join iquests with your mortal
+~
+
+-1 RULES~
+These are the rules of RoT.  For other matters, use common sense.
+For clan specific rules, see HELP CLANRULES.
+
+* Limited player stealing or player killing. Join a clan if you want to do
+  either.
+
+* A member of a clan may kill a member of any other clan.
+
+* Spamkilling is illegal.  This is defined as more than one killing per hour,
+{x  or three times in one day in which a player or clan was the aggressor.
+{x  See HELP SPAMKILL for details on this rule.
+
+* If you join a clan, and someone either pkills you, or psteals from you,
+  do not complain to the gods, or ask the gods to return your eq or do
+  a corpse retrieval for you, as they are forbidden from doing so.
+
+* Your presence here is a privilege not a right. Obey any orders from gods,
+  and you will be fine.  Deletion does not require a reason, appeals are to
+  be sent to the implementors.
+ 
+* Sitting around idle with a client is hazardous to your health. If we catch
+  you doing it, strange things may happen to your character.
+
+* If you find a bug, REPORT IT.  If you are caught abusing a bug the consequences will be dire.
+
+* No multiple logins, multiple playing, or helping your own characters with 
+  other characters you own -- by any arrangment.
+ 
+* No kill stealing.  This means you cannot attack a mob someone else is 
+  fighting, unless they ask you to. Also avoid attacking fleeing mobs.
+
+* Cheating will not be tolerated.  This includes accepting favors from gods
+  and exploiting bugs. If you find a bug, report it, then do not use it.
+
+* Do not ask a god to make you a member of a clan.  The request to add
+  you to a clan must come from the clan leader.  Ask a member of the clan
+  who their leader is.
+
+* Changes to these rules are at the discretion of the immortals, and may be
+  done without warning, notice, or even evidence of sanity. Walk softly,
+  and carry a black stick.
+ 
+* You may not share a character with another person.  If you log in as someone else's character it will be assumed
+{x  that you stole their password and you will be punished severely.
+ 
+* A person may have one character in one pk clan, and one character in one nonpk clan.
+{x  The exception to this is that if you do not have a clanned nonpk, you may have multiple
+{x  pks in the same clan, and vise versa.
+ 
+* You may NOT run scripts or chains of triggers while afk in order to do something for you.
+{x  This means no running areas, no spamming skills, no automated activity while you are not at the computer.
+{x  You may however run scripts as long as you are at the computer and can respond should
+{x  an immortal try to contact you.  If an immortal deems you afk and triggering, you will be punished.
+{x  Furthermore, any trigger or script that loops is illegal.  It must require input from the player to start it each time.
+ 
+* You may not give or recieve free pkills or arena kills.  If you are suspected of this both parties involved will be punished.
+{x  Highlanders, you are being watched especially closely.
+ 
+* Respect your immortals at all times, especially on public channels.
+{x  Failure to do so will result in the end of your life or worse.
+ 
+* Keep bitching, complaining, insulting, and the likes off of public channels.  Players don't want to hear it
+  and Immortals don't either.  This also includes notes.
+~
+
+-1 Clanrules~
+1. Do NOT join any clan until you investigate ALL clans.
+
+2. If you are a member of a clan, it is strongly encouraged that you stay a member of that clan.
+Furthermore, it is expected that you help your fellow clan members, and contribute to the clan.
+
+3. Clanned characters are *not* allowed to pkill anyone in their own clan,
+
+4. Money spent on a clan stays in that clan.  A clan cannot be liquified for any reason.
+If a clan is disbanded, everything that clan has purchased will be deleted.
+
+5. If you get pkilled, you will *NOT* be reimbursed ANY eq by the IMMs;
+this includes edited EQ, items of sentimental value, quest items, etc.
+
+6. Clanned characters are not allowed to ask for or receive ANY kind of
+IMM-related help; this includes corpse retrievals, spellups, assistance
+locating chars, reimbursements, etc.
+
+7. If you are a clan leader, you are expected to MUD on a regular basis.
+If you do not actively play your character for three weeks, and have not
+found a replacement, you will be removed as leader.
+
+8. Clan leaders must be level 70 or above.
+
+9. In order to form a new clan, you must follow these rules:
+
+{x        a. Have Two people involved in forming the clan
+        b. Have a PURPOSE for creating and maintaining the clan
+
+10. As a member of a clan, you are expected to assist other members of your
+clan. This includes spellups, corpse retrievals, levelling, etc.
+
+11. If a leader chooses to leave a clan, he must appoint a new leader to take his place.
+If he doesn't, the highest ranking member of the clan will become the leader.
+
+12. Alliances are allowed between clans, but the immortals reserve the right to break
+Any alliances that may cause a gross imbalance in pk.
+ 
+13. Halls MUST be on main continent, withing 100 moves of MS.
+ 
+14. Must be able to walk to and from MS, as a level 1 character. This means NO aggie mobs.
+ 
+15. Halls CAN NOT be located behind locked doors.
+ 
+16. * Clan upgrades may only be purchased by Vice-Leaders or Leaders,any other normal clan member doing one and being caught will be punished.
+ 
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.  Second tier players should use reroll to recreate a
+character, instead of the delete command.
+~
+
+0 REROLL~
+{WSyntax{D: {RReroll{x
+{W        {RReroll{x {b<{margument{b> {y[{cAborts Rerolling{y]{x
+
+{YTier 1{D: {g- {wMust have achieve level 101{x
+{g        {g- {wYou will be permitted to choose any 2nd Tier class{x
+{y          {y[{cSee {M'{CHelp tier{M'{y]{x
+
+{YTier 2{D: {g- {wMust have achieve level 101{x
+{g        {g- {wMay switch base_class choice, at cost of 200 aqp{x
+{y          {y[{cSee {M'{CHelp reroll_switch{M'{y]{x
+        
+{YTier 3{D: {g- {wMay reroll at any level{x
+{g        {g- {wMay switch base_class choice, at cost of 200 aqp{x
+{y          {y[{cSee {M'{CHelp reroll_switch{M'{y]{x
+
+{BOverview{D: {rThis commands allow you to progress through the Tier System.{x
+{rFor tiers 1 and 2, you must achieve level 101, while at Tier 1 you may{x
+{rchoose to reroll at any level. During any reroll, other than Tier 1, if{x
+{ryou choose to change your class, you must either stay within your class{x
+{rtype, or use the reroll switch option prior to executing any rerolling.{x
+
+{GResult{D: {DYou will start out on the next tier at level 1. It is similiar{x
+{Dto deleting and recreating your character, however you will have better{x
+{Dgains, and access to either more spells, spells at lower level, or a{x 
+{Dcombination of both. {x
+~
+
+0 TIER~
+There are currently fourteen classes in ROT, split into two tiers.
+1st tier classes:
+{M   mage    cleric  thief      warrior    ranger   druid shade{x
+2nd tier classes:
+   {Rwizard  priest  mercenary  gladiator  paladin  sage  lich{x
+
+The second tier classes are notably stronger than the first tier
+classes, but you cannot create a character in these classes until
+you reach the hero level in a first tier class. (see 'help reroll')
+
+You DO NOT have to choose the second tier class that is in the same
+slot as the first tier class, ie: a mage does not have to become
+a wizard, you are given the option of choosing any of the classes.
+
+For help on what these second tier classes become on third tier,
+see  type 'help moretier'
+~
+
+0 HEALER~
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 30 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~
+
+-1 GAIN~
+The gain command is used to learn new skills, once the proper trainer has 
+been found. (Check New Thalos) The following options can be used with gain:
+
+gain list:    list all groups and skills that can be learned
+gain points:  lower your creation points by 1 (costs two sessions)
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert (all): 6 practices -> 1 train.  Use the all argument to do all of them at once.
+gain study (all): 1 train -> 6 practices.  Use the all argument to do all of them at once.
+
+Gain uses training sessions, not practices. (see 'help train')
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points. 
+~
+
+-1 RESTRING~
+Syntax: restring obj <string>
+
+The restring command is used to change the name of an object in your
+inventory.  Only specific trainers have the ability to restring an object
+for you (Check New Thalos), and charge you 8 quest points per item.
+
+Restringing an object will only change the short name of the object, not
+the long description or keywords associated with that object, so you will
+still have to use the original keywords to use a restrung object.
+
+For example:
+    Object to be restrung is 'an imperial sword',
+
+       > restring sword a battle axe
+
+    This will now show up as 'a battle axe' in your inventory, and will use
+    this string in actions:  '<char> wields a battle axe' or '<char> gets a
+    battle axe'.
+
+    Because the keywords of the object are not changed, to wield or
+    manipulate this object, you will still need to use 'sword' or 'imperial',
+    ie:  get sword     wield sword
+~
+
+102 CLONE~
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.  
+Strung extended descriptions on objects are not kept, however.
+~
+
+110 RANDCLAN~
+Syntax: randclan
+
+Randclan will move the entrances to all clan halls to new randomly selected
+locations.  This is automatically done by the system at boot, and once per
+day thereafter, but can be called by an implementor to correct any problems
+in the choice of locations from the last automatic run.
+~
+
+0 SKILLS SPELLS~
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+~
+
+0 OUTFIT~
+The outfit command, usable by levels 9 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOSTORE AUTOPEEK~
+ROT uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac	  : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassist: makes you help group members in combat
+autostore : saves all tells during combat
+autopeek  : will show inventory during a look <char> (with the peek skill)
+
+Typing a command sets the action , typing it again removes it. 
+~
+
+-1 CLAN~
+A Clan is a collection of players, united to follow and further
+a common cause.  Each clan has rules and regulations, to find out
+more about clans and their 'beliefs' type "help <clan name>".  Only
+Clan members can kill or steal from other players.  To join a Clan
+you must be level 25 or above and level 70 or below.  Second tier
+players may join a clan starting at level 15.  Speak to the Clan
+Leader about joining.  If you go Loner before level 70 you may 
+join a Clan later.
+   Joining a Clan is a dangerous step.  Many adventurers live to 
+kill and torture others and chances are that your paths will cross.
+   Clans may now choose to allow pkill or not, members of clans that
+choose not to have pkill will be unable to attack other players, or
+be attacked by others.
+   Existing Clans may buy special rooms and mobiles by acquiring 
+cubic zirconiums as payment.  To see room prices, type
+"help prices".  New Clans may be formed by petitioning the immortals.
+Please remember that their word is final on all matters not covered by
+this help.
+
+A list of current clans can be obtained with:  clan list
+~
+
+-1 price-mob-act~
+{M -=-=-=-=-=-=-=-=-=-=-=-=( {RPRICES-MOB-ACT{M )=-=-=-=-=-=-=-=-=-=-=-
+{M| {y************************************************************** {M|
+{M| {y* {BUpgrade {y| {BRequirements  {y| {BCost  {y| {BNotes                    {y* {M|
+{M| {y************************************************************** {M|
+{M| {y* {rRanger  {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Clan Adept        {y* {M|
+{M| {y* {rDruid   {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Breath Spells     {y* {M|
+{M| {y* {rUndead  {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Cast Undead       {y* {M|
+{M| {y* {rVampire {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Poison Bite       {y* {M|
+{M| {y* {rCleric  {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Cast Cleric       {y* {M|
+{M| {y* {rMage    {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Cast Mage         {y* {M|
+{M| {y* {rThief   {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Trip              {y* {M|
+{M| {y* {rWarrior {y|      {M[{GT{M]      {y|   {W25  {y| {DAllows Bash Stun         {y* {M|
+{M| {y* {rSize    {y|    {M[{GT-100{M]    {y|   {W20  {y| {DIncrease Size by 1       {y* {M|
+{M| {y************************************************************** {M|
+{M| {y**********************{RSpecial Functions{y*********************** {M|
+{M| {y************************************************************** {M|
+{M| {y* {BUpgrade         {y| {BRequirements  {y| {BCost  {y| {BNotes            {y* {M|
+{M| {y************************************************************** {M|
+{M| {y* {rClan Adept      {y|   {M[{GT{w&{CM{w&{WP{w&{R100{M] {y|  {W50   {y| {DSplups for Lvl<50{y* {M|
+{M| {y* {rCast Cleric     {y|   {M[{GT{w&{Yg{WP{w&{R180{M]  {y|  {W500  {y| {DCasts Cleric     {y* {M|
+{M| {y* {rCast Mage       {y|   {M[{GT{w&{CM{w&{R180{M]   {y|  {W500  {y| {DCasts Mage       {y* {M|
+{M| {y* {rCast Undead     {y|   {M[{GT{w&{re{WP{w&{R180{M]  {y|  {W500  {y| {DCasts Undead     {y* {M|
+{M| {y* {rBreath          {y|{M[{GT{w&{re{WP{w&{Yg{WP{w&{CM{w&{R180{M]{y|  {W750  {y| {DChoose a Breath  {y* {M|
+{M| {y* {rAny Breath      {y|   {M[{rBreath{M]    {y|  {W250  {y| {DAny Breath Random{y* {M|
+{M| {y* {rPoison          {y|   {M[{GT{w&{BB{w&{R100{M]   {y|  {W500  {y| {DPoison Bite      {y* {M|
+{M| {y************************************************************** {M|
+{M| {y* {dYou may only have one special function on a mob.           {y* {M|
+{M| {y************************************************************** {M|
+{M -=-=-=-=-=-=-=-=-=-=-=-=( {RPRICES-MOB-ACT{M )=-=-=-=-=-=-=-=-=-=-=-{x
+~
+
+-1 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+
+-1 GATE~
+The gate spell is a powerful transportation magic that opens up a portal 
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at 
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also 
+immune to gate, as well as any player who has no summon set.  Clan members 
+may not be gated to except by their fellow Clan members.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+0 $~
+
+#$

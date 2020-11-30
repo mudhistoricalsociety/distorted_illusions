@@ -1,0 +1,333 @@
+#AREADATA
+Name Unknown Area~
+Builders Unlinked~
+VNUMs 9000 9099
+Continent 0
+Credits [CLOSE] Rzrecta Unknown~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#9000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#9000
+large immortal cannon psionic Mentalminddestruction~
+the Psionic Cannon of Mentalminddestruction~
+A large immortal cannon lies here.~
+unknown~
+weapon 0 AN
+exotic 150 10 psias J
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#9000
+In the Clouds Somewhere ...~
+{Y
+                           _                                  
+                         (`  ).                   _           
+                        (     ).              .:(`  )`.       
+                       _(       '`.          :(   .    )      
+                   .=(`(      .   )     .--  `.  (    ) )      
+       .--.       ((    (..__.:'-'   .+(   )   ` _`  ) )                 
+     _(    `.     `(       ) )       (   .  )     (   )  ._   
+    (        )      ` __.:'   )     (   (   ))     `-'.-(`  ) 
+   ( `  .  )  )  ( )       --'       `- __.'         :(      )) 
+    `--(___.-'  (_.'          .')                    `(    )  ))
+                             (_  )                     ` __.:'         
+{)
+~
+0 4 0
+S
+#9001
+~
+-
+                          !  !  ! II II !  !  !
+                       !  I__I__I_II II_I__I__I  !
+                       I_/|__|__|_|| ||_|__|__|\_I
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+        .--.        I//|  | I| N|S|| ||I|D |E |  |\\I        .--.
+       /-   \    ! /|/ |  |  |  | || || |  |  |  | \|\ !    /=   \
+       \=__ /    I//|  |  |  |  |T||H||E|  |  |  |  |\\I    \-__ /
+        )  (  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  )  (
+       (____) I//|  |  |  |  | G|A||T||E|S |  |  |  |  |\\I (____)
+        |= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |
+        |  ||/|__|__|__|__|__|__|O|| ||F|__|__|__|__|__|__|\||- |
+        |- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |
+        |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  
+        |= || |  |  |  | G| U| T|I||E||R| R| E| O|  |  |  | ||= | 
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||- | 
+        |  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |
+        |= ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||- |
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        You are by two small towers that have been built into the 
+        city wall and connected with a footbridge across the big 
+        heavy wooden gate.  Main Street leads south from here. The 
+        Wall road crosses the street, heading west and east 
+        along the city wall.
+~
+0 0 0
+D2
+~
+~
+0 0 9002
+S
+#9002
+~
+-
+ 
+     ....           ....      A well-made street runs straight north and south
+        ||             ||     here with buildings visible on the west and 
+    /"""l|\        /"""l|\    east. The building on the western side of the
+   /_______\      /_______\   road has a sign with a bottled potion as its
+ --|  .-.  |------|  .-.  |-- logo and to the right, a faint sound of nice
+ ::|__|L|__|::::::|__|L|__|:: music being played.  The flow of traffic is
+ :::::.\\.:::::::::::.\\.:::: rather fair as travellers spend much of their
+ ---------------------------- leisure moving about town and its shops.
+~
+0 0 0
+D0
+~
+~
+0 0 9001
+D2
+~
+~
+0 0 9003
+S
+#9003
+~
+-
+ 
+    ....           ....      The main street that flows through here north
+       ||             ||     and south within Gutierreo is rather wide and 
+   /"""l|\        /"""l|\    provides easy leeway towards and away from
+  /_______\      /_______\   this town.  To the west lies the armory where
+--|  .-.  |------|  .-.  |-- protective armor is sold.  To the east lies
+::|__|L|__|::::::|__|L|__|:: a bakery where sweet smelling goodies are made
+:::::.\\.:::::::::::.\\.:::: everyday.  To the south is the Market Square 
+---------------------------- where the traffic is great and the streets busy.
+~
+0 0 0
+D0
+~
+~
+0 0 9002
+D2
+~
+~
+0 0 9004
+S
+#9004
+~
+-
+                  T   ________ 
+  _____/----/-\ .' './========\ This is the ever famous Market Square, the 
+ |.-.-.|===| _ |-----| u    u | center part of the town.  From here directions
+ || | ||===||||| |T| |   ||   | go in all ways, north and south to the main
+ :::::::::::::::::::::::::::::: streets.  East of here lies the temple square
+ ''''''''THE GUTIERREO''''''''' while to the West takes you to the common
+         MARKET SQUARE          square.
+~
+0 0 0
+D0
+~
+~
+0 0 9003
+D1
+~
+~
+0 0 9008
+D2
+~
+~
+0 0 9005
+S
+#9005
+~
+-
+    ....           ....      The main street that flows through here north
+       ||             ||     and south within Gutierreo extends far outside 
+   /"""l|\        /"""l|\    of the city to the realms beyond. A shop to 
+  /_______\      /_______\   the east of here takes you to the general store
+--|  .-.  |------|  .-.  |-- while west of here famous jewelry is being sold.
+::|__|L|__|::::::|__|L|__|:: The grand Market Square is foreseeable to the
+:::::.\\.:::::::::::.\\.:::: north as the atmosphere around here is easily
+---------------------------- fitting for the commoner to travel and look at.
+~
+0 0 0
+D0
+~
+~
+0 0 9004
+D2
+~
+~
+0 0 9006
+S
+#9006
+~
+-
+    ....           ....      Loud clanking noises of local blacksmiths hard
+       ||             ||     at work can be heard to the east at the weapons 
+   /"""l|\        /"""l|\    shop. The well evened-out pavement of the streets
+  /_______\      /_______\   here in town provide safe and easy passage thru
+--|  .-.  |------|  .-.  |-- this busy street. The main street walks north and
+::|__|L|__|::::::|__|L|__|:: south here while to the west lies a bank in which
+:::::.\\.:::::::::::.\\.:::: money can be safekept and distributed for those
+---------------------------- commoners locally and distant moving about.
+~
+0 0 0
+D0
+~
+~
+0 0 9005
+D2
+~
+~
+0 0 9007
+S
+#9007
+~
+-
+           
+                       
+                          !  !  ! II II !  !  !
+                       !  I__I__I_II II_I__I__I  !
+                       I_/|__|__|_|| ||_|__|__|\_I
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+        .--.        I//|  | I| N|S|| ||I|D |E |  |\\I        .--.
+       /-   \    ! /|/ |  |  |  | || || |  |  |  | \|\ !    /=   \
+       \=__ /    I//|  |  |  |  |T||H||E|  |  |  |  |\\I    \-__ /
+        )  (  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  )  (
+       (____) I//|  |  |  |  | G|A||T||E|S |  |  |  |  |\\I (____)
+        |= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |
+        |  ||/|__|__|__|__|__|__|O|| ||F|__|__|__|__|__|__|\||- |
+        |- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |
+        |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  
+        |= || |  |  |  | G| U| T|I||E||R| R| E| O|  |  |  | ||= | 
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||- | 
+        |  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |
+        |= ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||- |
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |
+        You are by two small towers that have been built into the 
+        city wall and connected with a footbridge across the big 
+        heavy wooden gate.  Main Street leads north from here. The 
+        Wall road crosses the street, heading west and east 
+        along the city wall.
+~
+0 0 0
+D0
+~
+~
+0 0 9006
+S
+#9008
+~
+-
+ 
+ 
+                                   |
+                                  .-.
+             Huge marble steps   /___\   lead up to the temple
+       as the structure before   |___|   you take you into this huge                
+        magnificent sight of a   |]_[|   structure. To the west is
+       the Market Square while   / I \   inside the temple lies east.
+                              JL/  |  \JL
+                          i   ()   |   ()   i                
+                         /_\  LJ=======LJ  /_\          
+                        .L_J_/.-.     .-.\_L_J.
+                         L_J  |_| [I] |_|  L_J       
+                         L_J%%%%%%%%%%%%%%%L_J       
+~
+0 0 0
+D1
+~
+~
+0 0 9009
+D3
+~
+~
+0 0 9004
+S
+#9009
+~
+You are in the eastern end of the temple hall in the Temple of Restoration.
+The temple has been constructed from giant marble blocks, eternal in
+appearance, and most of the walls are covered by ancient wall paintings
+picturing gods, giants and peasants.
+   A small doorway leads north.
+   Large steps lead down through the grand temple gate, descending the huge
+mound upon which the temple is built and ends on the temple square below.
+~
+0 0 0
+D1
+~
+~
+0 0 9010
+D3
+~
+~
+0 0 9008
+S
+#9010
+~
+You are by the temple altar in the eastern end of the Temple of Tano.
+A huge altar made from golden polished obsidian is standing in front of you and
+behind it is a ten foot tall sitting statue of Tano, the God of spirituality.
+The back of the altar opens into a beautiful atrium, above which can be
+seen a rainbow.
+~
+0 0 0
+D3
+~
+~
+0 0 9009
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

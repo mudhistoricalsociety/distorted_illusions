@@ -1,0 +1,68 @@
+#AREADATA
+Name Dwarven Mines~
+Builders Unlinked~
+VNUMs 4500 4600
+Continent 1
+Credits [ 101  ] Tien~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4500
+{8-{7={&({!Gateway to the Mines{&){7={8-{x~
+A sign reads: {!  Beware, those that tread this hallowed ground.  The
+dangers are many, the wonders amazing, and the battles fierce.  Do not pass
+this entry way unless you are prepared for the ultimate challenge.  
+ 
+{x
+~
+0 4 0
+D5
+~
+~
+0 0 4501
+S
+#4501
+{8-{7={&({!Stairwell{&){7={8-{x~
+The stairwell leads down into the darkness below. Nothing is discernable past this point.
+~
+0 0 0
+D4
+~
+~
+0 0 4500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

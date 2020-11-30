@@ -1,0 +1,6011 @@
+#AREADATA
+Name Igneel's Area~
+Builders Igneel Unlinked~
+VNUMs 8500 8799
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#8500
+Jacabo~
+(no short description)~
+(no long description)
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8505
+{2A s{@mal{3l c{#le{3ar{@in{2g{x~
+{*A Metal Babble{x~
+{!A well placed trap has been sprung!{x
+~
+~
+human~
+AB DQZ 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 8505 100~
+#8512
+Templeguard Guard~
+{7The T{&e{7m{&pl{7e Guard{x~
+{8An {7armor clad{8 man stands here guarding the entrance to the {7t{&e{7m{&pl{7e.{x
+~
+~
+human~
+ABT F 0 0 0
+150 0 10d10+20000 0d0+0 10d10+400 none
+-40 -40 -40 -40
+0 0 E Q
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#8513
+alligator~
+{8A{7n {2Alligator{x~
+{8A large shadow silently moves through the water here.{x
+~
+~
+lizardman~
+ACG PQab 0 0 0
+140 300 10d10+15000 0d0+0 10d10+300 bite
+50 50 50 50
+0 A 0 HS
+stand stand none 0
+AHMV ABCDEFGHIJKQ large unknown
+#8514
+baby alligator hatchling~
+{2A {7h{&a{@t{2c{@h{7li{&ng{x~
+{8A baby {2alligator{8 fresh out of the shell is here yelling for it's mother.{x
+~
+~
+lizardman~
+AG V 0 0 0
+0 600 10d10+11000 0d0+0 10d10+250 none
+50 50 50 50
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ small unknown
+F aff b
+M DEATH 8514 20~
+#8515
+mother alligator~
+{2A m{@othe{2r alligator{x~
+{8A very large {2female gator{* is here protecting her young.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8531
+battered warrior~
+{&A {1ba{!Tt{1er{!d {&w{7arrio{&r{x~
+{7A {1badly {!beaten {7man is mopping around here{X
+~
+~
+human~
+A 0 0 0 0
+1 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8553
+orchestrator~
+{1The {7Orch{&e{8s{&t{7rator{x~
+{7A {1tall {7skinny {1man {7is {1here, {7apparently {1controlling {7the {1flow {7of {1the{7 guantlet.{x
+~
+~
+jotun~
+AB Dd 0 0 0
+200 0 1d32+100000 0d0+0 0d0+0 none
+75 75 75 75
+0 A 0 P
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#8555
+Brute~
+{1The {8Brute{x~
+{8Your first test is here, breathing like a {%pervert{x
+~
+~
+human~
+AB Vac 0 0 0
+500 1000 1d1+15000 0d0+0 1d1+600 fury
+150 150 150 150
+0 AQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 8555 100~
+#8556
+Shadow~
+{8The {7Shadow{X~
+{8Your second test is here, creeping in the sh{7ad{8ows{x
+~
+~
+human~
+ABS PQV B 0 0
+500 500 1d1+20000 0d0+0 1d1+700 none
+150 150 150 150
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 8556 100~
+M FIGHT 8551 100~
+M FIGHT 8552 100~
+#8557
+slime~
+{2The {8Sl{@i{8me{x~
+{8Your third challeng is here, {@enveloping{8 you!{x
+~
+~
+kobold~
+AB JZ 0 0 0
+500 400 1d1+1000 0d0+0 0d0+0 none
+60 60 60 60
+0 0 0 S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 8557 100~
+M FIGHT 8550 100~
+#8558
+The Disciple~
+{&The {8Disciple{x~
+{8You're fourth challenge is here, basking in the ambiance!{x
+~
+~
+jotun~
+ABQ Vc CDEH 0 0
+500 400 1d1+25000 1d1+5000 1d1+400 none
+160 160 160 160
+0 A 0 P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 8553 100~
+M GRALL 8558 100~
+#8559
+The Child~
+{^The {8Child{x~
+{8A small child is here.{x
+~
+~
+jotun~
+A 0 H 0 0
+600 500 1d1+20000 0d0+0 1d1+400 none
+500 500 500 500
+0 0 0 P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 8559 100~
+M GRALL 8554 100~
+#8560
+The Brian~
+{@T{%h{@e{8 Brain{x~
+{8Your sixth challenge is here, calculating your demise!{x
+~
+~
+human~
+AB 0 H 0 0
+500 0 1d1+100000 0d0+0 0d0+0 none
+500 500 500 500
+0 A 0 E
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8575
+something nasty~
+{8Something{x~
+{8Something {%Na{5s{%ty{8 is buzzing around..{X
+~
+~
+centipede~
+ABCFGMP Z 0 -1000 0
+150 600 1d1+20000 0d0+0 1d1+600 none
+-50 -50 -50 -50
+0 0 FI E
+stand stand none 0
+ABGO ACK medium unknown
+#8576
+something dangerous~
+{8Something{x~
+{8Something {!dangerous{8 is watching you{x
+~
+~
+centipede~
+ABFGP Z 0 0 0
+160 700 1d1+30000 0d0+0 1d1+650 none
+-70 -70 -70 -70
+0 0 FI E
+stand stand none 0
+ABGO ACK medium unknown
+#8588
+something deadly~
+{8Something{x~
+{8Something {1d{!e{1a{!d{1l{!y{8 is trying to kill you!{x
+~
+~
+centipede~
+ABFP Z 0 -1000 0
+0 1000 1d1+60000 0d0+0 1d1+900 none
+-100 -100 -100 -100
+0 0 FI 0
+stand stand none 0
+ABGO ACK large unknown
+F vul E
+#8599
+Something unspeakable~
+{8Something{x~
+{8Something {%U{@N{#S{^P{!E{&A{!K{^A{#B{@L{%E{8 is happening to YOU!{X
+~
+~
+demon~
+ABFLOPQRST FJUVZa H -1000 0
+500 1000 1d1+200000 0d0+0 1d1+700 none
+-170 -170 -170 -170
+0 0 CEM NS
+stand stand none 0
+AHMV ABCDEFGHIJKQ giant unknown
+#8600
+something smelly~
+{8Something{x~
+{8Something smells {@dis{%gu{#st{@in{2g{8 here.{x
+~
+~
+goblin~
+A J 0 -1000 0
+140 600 1d1+15000 0d0+0 1d1+500 none
+0 0 0 0
+0 0 0 S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8602
+something scary~
+{8Something{x~
+{8Something {!SCARY{8 is lurking about!{X
+~
+~
+goblin~
+AB J 0 -1000 0
+140 0 0d0+1 0d0+0 0d0+0 none
+-60 -40 0 40
+0 0 0 S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8604
+some really scary~
+{8Something{x~
+{8Something {!REALY SCARY{8 is trying to eat you!{x
+~
+~
+goblin~
+ABFP JV 0 -1000 0
+150 400 1d1+30000 0d0+0 1d1+800 none
+-60 -60 -60 -60
+0 0 0 S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#8605
+Yoolik~
+{&Yoolik{x~
+{8A {5bruised{8 and {1battered{8 man is whimpering in the corner{X
+~
+~
+human~
+AB 0 0 1000 0
+150 600 1d1+50000 0d0+0 1d1+600 none
+-60 -60 -60 -60
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8610
+monstermidga challengemob~
+{@A {2G{@I{2G{@A{2N{@T{2I{@C {2M{@O{2N{@S{2T{@E{2R{!!{x~
+{@A {2G{@I{2G{@A{2N{@T{2I{@C {2M{@O{2N{@S{2T{@E{2R {7is terrorizing the city{!!{x
+~
+~
+cat~
+AHPRS DVZ CDE -1000 0
+400 800 1d1+100000 0d0+0 1d1+800 none
+-70 -70 -70 -70
+ABCEFGHI 0 0 0
+stand stand none 1000000
+AGHMV ABCDEFGHIJKQUV medium unknown
+M FIGHT 8612 20~
+M FIGHT 8611 30~
+M GRALL 8610 100~
+#8637
+jaguar shadow~
+{8A jaguar{x~
+{8A large dark shadow is stalking you{x
+~
+~
+cat~
+AF PQVZ 0 -1000 0
+140 900 1d1+17000 0d0+0 1d1+700 none
+-20 -20 -20 -20
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJKQUV medium unknown
+#8638
+Forest Imp~
+{2A {@Forest {2Imp{x~
+{8A small {2creature{8 with wings is hopping around here{x
+~
+~
+demon~
+A JU D -1000 0
+130 600 1d1+15000 0d0+0 1d1+1000 none
+-50 -50 -50 -50
+0 0 CM NS
+stand stand male 0
+AHMV ABCDEFGHIJKQ small unknown
+#8674
+catfish~
+{&A {7catfish{x~
+{&A {7catfish is feeding on the bottom of the river{X
+~
+~
+water fowl~
+A Tb 0 1000 0
+60 300 1d1+1200 0d0+0 5d9+10 slap
+-14 -14 -14 -14
+0 0 R 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#8675
+rainbow trout~
+{7A {1r{2a{3i{4n{5b{6o{1w {7trout{x~
+{7A {1c{2o{3l{4o{5r{6f{7u{1l {7fish is swimming about{x
+~
+~
+water fowl~
+A Tb 0 1000 0
+50 200 1d1+600 0d0+0 1d1+200 slap
+-10 -10 -10 -10
+0 0 R 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#8696
+a bear~
+{7A {3bear{x~
+{3A gigantic bear is here, salavating at the thought of you!{x
+~
+~
+bear~
+AF 0 0 -1000 0
+150 400 1d1+25000 0d0+0 1d1+1000 none
+-80 -80 -80 -80
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV large unknown
+#8700
+A tiger~
+{7A {3t{8i{3g{8e{3r{x~
+{8Something is rustling in the bush!{x
+~
+~
+cat~
+AF PVZ 0 0 0
+0 700 1d1+23000 0d0+0 1d1+600 none
+-50 -50 -50 -50
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium unknown
+#8705
+biggest lion~
+{7The {!BIGGEST {#lion {7you've ever seen{x~
+{&An enormouse {#lion{& is here, patiently waiting{x
+~
+~
+cat~
+ABF VZ 0 -1000 0
+170 600 1d1+30000 0d0+0 1d1+800 claw
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium unknown
+#8745
+Suzzeti~
+{&Suzzeti{x~
+{7The village cook {&Suzzeti{7 is here, preparing meals.{x
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8748
+villager~
+{3a vi{#ll{3ager{x~
+{3a vi{#ll{3ager{7 is going about their own buisness here.{x
+~
+~
+human~
+A 0 0 1000 0
+140 1000 1d1+30000 0d0+0 1d1+600 none
+-60 -60 -60 -60
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8749
+Urix~
+{&Urix{x~
+{7The village lookout {&Urix{7 is here, keeping watch.{x
+~
+~
+human~
+AB 0 H 1000 0
+0 1000 1d1+50000 0d0+0 0d0+0 none
+-60 -60 -60 -60
+0 A 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8750
+Guixum~
+{&Guixum{x~
+{7The village chief {&Guixum{7 is here, meditating peacefully{x
+~
+~
+human~
+A V 0 1000 0
+170 1000 1d1+100000 0d0+0 1d1+800 none
+-70 -70 -70 -70
+H A 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8756
+Leznul~
+{&Leznul{x~
+{7The village doctor {&Leznul{7 is here.{x
+~
+~
+human~
+AB 0 H 0 0
+0 1000 1d1+50000 0d0+0 1d1+600 none
+-60 -60 -60 -60
+0 AH 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8763
+guppy~
+{7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x~
+{7A large school of {3tiny fish{7 consumes the water here{x
+~
+~
+water fowl~
+A Tb 0 1000 0
+20 100 1d1+400 0d0+0 0d0+0 none
+0 0 0 0
+0 0 R 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#8775
+Something icky~
+{8Something{x~
+{8Something {@Ic{2k{@y {8is here crawing on you{X
+~
+~
+centipede~
+ABCGMP Z 0 -1000 0
+140 500 1d1+15000 0d0+0 1d1+500 none
+-10 -10 -10 -10
+0 0 FI E
+stand stand none 0
+ABGO ACK medium unknown
+#0
+
+
+
+#OBJECTS
+#8504
+An old fire pit~
+{8An old {1f{!i{3r{#e{8 pit{7.{x~
+{&T{7h{8ere is a dark spot on the ground here surrounded by ston{7e{&s.{X~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#8513
+pile of corpses~
+{8A pile of {1ma{!ngl{1ed {8corpses{x~
+{8A large pile of half eatten {1ma{!ngl{1ed{8 corpses are piled up here.{x~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#8514
+nest mound eggs~
+{7A {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x~
+{3There is a large mound of dirt here full of {&e{7g{&g{7s{3.{x~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#8531
+IgneelsPill~
+{&T{7h{8e {%re{5flecti{%ng {7p{&il{7l{x~
+(no description)~
+unknown~
+pill 0 A
+20 'blindness' 'sleep' '' ''
+1 0 0 P
+#8553
+guantlet waiver~
+{1A {7Wa{&iv{&er{x~
+{1A peice of paper rendering your life worthless is beckoning you to pick it up.{x~
+Paper~
+trash A A
+0 0 0 0 0
+0 0 10000000 P
+#8584
+no name~
+{8A dark {^p{6oo{^l{8 of water{x~
+{8There is a dark {^p{6oo{^l{8 of water here.{x~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#8588
+pool~
+{8A dark, deep {^p{6oo{^l{8 of water{x~
+{8A dark, deep {^p{6oo{^l{8 of water consumes the area{x~
+unknown~
+portal 0 0
+0 0 0 BCDEHIN 0
+0 0 0 P
+#8599
+no name~
+{&A co{7llec{&tio{7n o{&f b{7o{&ne{7s{x~
+{&A co{7llec{&tio{7n o{&f b{7o{&ne{7s is float around freely{x~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#8604
+Slit rock~
+{8A large slit in the {7rock{x~
+{8There's{8a large slit in the {7rock{8 here{x~
+unknown~
+portal 0 0
+0 0 0 ACDEHIN 0
+0 0 0 P
+#8705
+opening thicket~
+{2A small opening{x~
+{8There is a small opening in the {2thicket{x~
+unknown~
+portal 0 0
+0 0 0 ACEFGIN 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#8500
+{3App{#roa{3ch{#in{3g {7the {&Te{7m{&p{7l{&e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 8695
+S
+#8501
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8502
+D2
+~
+~
+0 0 8500
+S
+#8502
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8503
+D2
+~
+~
+0 0 8501
+S
+#8503
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8506
+D1
+~
+~
+0 0 8505
+D2
+~
+~
+0 0 8504
+D3
+~
+~
+0 0 8502
+S
+#8504
+{2A s{@mal{3l c{#le{3ar{@in{2g{x~
+{2You'v{@e stumbled acro{3ss a small {#clear{3ing, looking bac{@k to your n{2orth you
+see the t{@rail you we{3re just {#traveling.{3 You can hear l{@aughter o{2ff in the
+distanc{@e but where yo{3u stand {#now you do{3n't hear much a{@t all, th{2ere's no
+sigh o{@f light here, {3whoever c{#leared this a{3rea out i{@s long gone.{2 Oh well.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8503
+S
+#8505
+{2A s{@mal{3l c{#le{3ar{@in{2g{x~
+{2You'v{@e stumbled acro{3ss a small {#clear{3ing, looking bac{@k to your n{2orth you
+see the t{@rail you we{3re just {#traveling. {3You can hear l{@aughter o{2ff in the
+distanc{@e but where yo{3u stand {#now you do{3n't hear much a{@t all, th{2ere's a
+small tre{@e hear that {3looks as t{#hough it's b{3een forced o{@ver and ti{2ed down
+this dosn{@'t look to safe{3, you hear s{#omet{3hing mov{@e across th{@e ground.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8503
+S
+#8506
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8507
+D1
+~
+~
+0 0 8505
+D2
+~
+~
+0 0 8503
+S
+#8507
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3Here you are atop the m{#o{3un{#ta{3i{#n{3. Your curiosity has brought you
+to the one of the highest points in the land. In the distance there
+is a large {&t{7em{&p{7l{&e{3; and before you appears to be the path leading to
+it. Everything thing here is very quiet, and peaceful. Looking back
+to the south you awe at the beauty of the {4river {3and {2forest {3below.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8508
+D1
+~
+~
+0 0 8502
+D2
+~
+~
+0 0 8506
+D3
+~
+~
+0 0 8503
+S
+#8508
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3You're still walking towards the {&t{7em{&pl{7e{3, you can no longer see the
+landscape below the mountain. You can clearly make out of the chatter
+of people in the distance, and you can now see the {&t{7em{&pl{7e{3 is larger
+then you had thought. With all you're looking around you feel a bit
+{!lost{3 and now you can't even tell which way you came from!{x
+~
+0 0 0
+D0
+~
+~
+0 0 8501
+D1
+~
+~
+0 0 8509
+D2
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8505
+S
+#8509
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3You're still walking towards the {&t{7em{&pl{7e{3, you can no longer see the
+landscape below the mountain. You can clearly make out of the chatter
+of people in the distance, and you can now see the {&t{7em{&pl{7e{3 is larger
+then you had thought. With all you're looking around you feel a bit
+{!lost{3 and now you can't even tell which way you came from!{x
+~
+0 0 0
+D0
+~
+~
+0 0 8507
+D1
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8505
+D3
+~
+~
+0 0 8508
+S
+#8510
+{3App{#roa{3ch{#in{3g {7the {7T{&e{7m{&pl{7e{x~
+{3You're still walking towards the {&t{7em{&pl{7e{3, you can no longer see the
+landscape below the mountain. You can clearly make out of the chatter
+of people in the distance, and you can now see the {&t{7em{&pl{7e{3 is larger
+then you had thought. With all you're looking around you feel a bit
+{!lost{3 and now you can't even tell which way you came from!{x
+~
+0 0 0
+D0
+~
+~
+0 0 8511
+D1
+~
+~
+0 0 8505
+D2
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8509
+S
+#8511
+{3Before the {7T{&e{7m{&pl{7e{x~
+Phew! You've finally found your way. There is a rather large t{&e{7m{&pl{7e
+before you. The {3path{7 you followed to here leads back down the {3mountain{7.
+Just ahead of you however is an exception t{&e{7m{&pl{7e, there is quiet a bit
+of noise comming from within the t{&e{7m{&pl{7e ahead.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8510
+S
+#8512
+{7T{&e{7m{&pl{7e {7Entrance{x~
+As you enter the t{&e{7m{&pl{7e you can see that the entire thing is
+constructed of solide white marble. Why would such a place
+be here? Perhapps a place to worship? Only time will tell.
+It is although the t{&e{7m{&pl{7e is beckoning you to enter.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8531
+D2
+~
+~
+0 0 8511
+D5
+~
+{*gr{8a{*te{x~
+4 0 8513
+S
+#8513
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8514
+D3
+~
+~
+0 0 8529
+D4
+~
+~
+3 0 8512
+S
+#8514
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8515
+D3
+~
+~
+0 0 8513
+S
+#8515
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8516
+D3
+~
+~
+0 0 8514
+S
+#8516
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8517
+D2
+~
+~
+0 0 8515
+S
+#8517
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8518
+D2
+~
+~
+0 0 8516
+S
+#8518
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8519
+D2
+~
+~
+0 0 8517
+S
+#8519
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8521
+S
+#8520
+{8A large {7sewer{8 drain{x~
+{8You've found one of the cities sewer drains that feed the moat.
+Other than the fact that it smells like human {7waist {8here it's a
+bit refreshing to be out of the water and away from those gators.
+There dosn't appear to be anyway threw the sewers a large grate is
+blocking this secection off from the rest of the sewer.{x
+~
+0 4 0
+D0
+~
+~
+4 0 8530
+D2
+~
+~
+0 0 8519
+S
+#8521
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8519
+D3
+~
+~
+0 0 8522
+S
+#8522
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8523
+S
+#8523
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8522
+D3
+~
+~
+0 0 8524
+S
+#8524
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8523
+D2
+~
+~
+0 0 8525
+S
+#8525
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8524
+D2
+~
+~
+0 0 8526
+S
+#8526
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8525
+D2
+~
+~
+0 0 8527
+S
+#8527
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8526
+D2
+~
+~
+0 0 8528
+S
+#8528
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D0
+~
+~
+0 0 8527
+D1
+~
+~
+0 0 8529
+S
+#8529
+{8In the {7ca{8ta{7c{&om{8b{7s{x~
+{8Oh no! You're in the {7ca{8ta{7c{&o{7m{8b{7s {8and you don't see any way out! It really
+stinks of {5death{8 down here, and as you wade through the {6water{8 you can tell
+your stepping on bodies, there are bones all around here.....Could this
+be a dumping ground for those that fail the guantlet? Something brushes
+up against your leg....you should get out of here!{x
+~
+0 0 6
+D1
+~
+~
+0 0 8513
+D3
+~
+~
+0 0 8528
+S
+#8530
+~
+~
+0 0 0
+D2
+~
+~
+4 0 8520
+S
+#8531
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8532
+D2
+~
+~
+0 0 8512
+S
+#8532
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8533
+D1
+~
+~
+0 0 8538
+D2
+~
+~
+0 0 8531
+D3
+~
+~
+0 0 8539
+S
+#8533
+{7The T{&e{7m{&pl{7e {&Al{7ta{&r{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8534
+D1
+~
+~
+0 0 8535
+D2
+~
+~
+0 0 8532
+D3
+~
+~
+0 0 8536
+S
+#8534
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8714
+D1
+~
+~
+0 0 8537
+D2
+~
+~
+0 0 8533
+D3
+~
+~
+0 0 8540
+S
+#8535
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8537
+D1
+~
+~
+0 0 8541
+D2
+~
+~
+0 0 8538
+D3
+~
+~
+0 0 8533
+S
+#8536
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8540
+D1
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8539
+S
+#8537
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8534
+S
+#8538
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8532
+S
+#8539
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8536
+D1
+~
+~
+0 0 8532
+S
+#8540
+{7Within the T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 8536
+S
+#8541
+{7Walking {3towards {7the {&crowd{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8542
+D3
+~
+~
+0 0 8535
+S
+#8542
+{7Walking {3towards {7the {&crowd{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8543
+D3
+~
+~
+0 0 8541
+S
+#8543
+{7Walking {3towards {7the {&crowd{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8542
+S
+#8544
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8549
+D1
+~
+~
+0 0 8545
+D2
+~
+~
+0 0 8547
+D3
+~
+~
+0 0 8543
+S
+#8545
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8548
+D1
+~
+~
+0 0 8546
+D2
+~
+~
+0 0 8546
+D3
+~
+~
+0 0 8544
+S
+#8546
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8545
+D1
+~
+~
+0 0 8547
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8545
+S
+#8547
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8544
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8546
+S
+#8548
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8544
+D1
+~
+~
+0 0 8549
+D2
+~
+~
+0 0 8550
+D3
+~
+~
+0 0 8547
+S
+#8549
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8543
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8548
+S
+#8550
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8548
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8551
+S
+#8551
+{3In{7 the {&crowd{x~
+You find yourself amongst hundreds of people in a large crowd. You find
+it hard to move around at all, and all sense of direction here is {!lost{x.
+Everything looks the same, you can't see anything other than people all
+around you, {%smothering{7 you.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8552
+D1
+~
+~
+0 0 8550
+D2
+~
+~
+0 0 8549
+D3
+~
+~
+0 0 8546
+S
+#8552
+{3Before {7the {1Guantlet!{x~
+Phew, you've finally made it through the crowd and you can finally see
+what everyone is doing standing around here. Before you is a very large
+{3ob{#st{3ac{#le {3co{#ur{3se{7. From here you can see the whole course is covered in
+the {1blood{7 and {!entrails{7 of what you can only presume belong to those who
+have attemped this feat. It appears you only have two options at this
+time. Continue north to the {1guantlet{x, or venture back south into the {7crowd{x.
+~
+0 0 0
+D0
+~
+~
+0 0 8553
+D2
+~
+~
+0 0 8551
+S
+#8553
+{3Before {7the {1Guantlet!{x~
+Here you are standing before the stairs leading to the {1guantlet{7, once
+again the {5stench{7 of {8death {7overwelms you. Most of the course has been
+painted with the {!i{1nard{!s{7 of fallen warriors and wizards that have tried
+their luck at the {1gauntlet{x, obviously they were not very successful.
+You can still turn back, you may have better luck with the {&crowd{x.
+~
+0 73728 0
+D2
+~
+~
+0 0 8552
+S
+#8554
+{3W{#ai{3tin{#g {7to begin the {1Guantlet!{x~
+Here you stand, there is no turning back now! You have two options here
+{1kill{7, or {!be killed{x. It's hard to focus on what's comming as the {^ch{%ee{^rs{7
+and {8sc{1re{8ams{7 from the {&crowd{x make it hard to hear your own thoughts. There
+is a sign on the wall here that reads "{$One at a time{7". So relax, and just
+wait your turn.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8555
+S
+#8555
+{3T{#h{3e {1Guantlet!{x~
+Here you stand, the first part of the guantlet, only true legends stand
+any chance at passing the first test. Looking around there is no one here
+to oppose you, you appear to be stuck, you can see the guantlet continues
+however you don't see a way to progress...The only option appears to be to
+drop down into the crowd.
+~
+0 0 0
+D0
+~
+~
+4 0 8556
+D5
+~
+~
+0 0 8548
+S
+#8556
+{3T{#h{3e {1Guantlet!{x~
+You've past the first test of the trial, and before you stands your next
+test, wait! You could have sworn you saw someone here just a moment ago.
+There are scattered bodies all around here, your feet are soaked in blood.
+It appears you have a moment to heal yourself. You'd better be quick.
+~
+0 0 0
+D0
+~
+~
+0 0 8557
+D5
+~
+~
+0 0 8546
+S
+#8557
+{3T{#h{3e {1Guantlet!{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8558
+D5
+~
+~
+0 0 8548
+S
+#8558
+{3T{#h{3e {1Guantlet!{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8559
+D5
+~
+~
+0 0 8548
+S
+#8559
+{3T{#h{3e {1Guantlet!{x~
+~
+0 4 0
+S
+#8560
+{3T{#h{3e{1 Guantlet!{x~
+~
+0 4 0
+S
+#8561
+~
+~
+0 4 0
+S
+#8562
+~
+~
+0 4 0
+S
+#8563
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8564
+S
+#8564
+~
+~
+0 0 0
+D2
+~
+~
+0 0 8563
+S
+#8565
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8706
+D1
+~
+~
+0 0 8705
+D2
+~
+~
+0 0 8707
+D3
+~
+~
+0 0 8708
+S
+#8566
+{8On the {1beaten{2 path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8567
+D2
+~
+~
+0 0 8569
+S
+#8567
+{8On the {1beaten{2 path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8568
+D2
+~
+~
+0 0 8566
+S
+#8568
+{8On the {1beaten{2 path{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8567
+S
+#8569
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8566
+D1
+~
+~
+0 0 8570
+S
+#8570
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D1
+~
+~
+0 0 8571
+D3
+~
+~
+0 0 8569
+S
+#8571
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8572
+D3
+~
+~
+0 0 8570
+S
+#8572
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8636
+D1
+~
+~
+0 0 8573
+D2
+~
+~
+0 0 8571
+S
+#8573
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D2
+~
+~
+0 0 8574
+D3
+~
+~
+0 0 8572
+S
+#8574
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8652
+S
+#8575
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{8t, dark, {2s{@l{2i{2m{@e{2y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{5d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8576
+S
+#8576
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8575
+D3
+~
+~
+0 0 8577
+S
+#8577
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8578
+D1
+~
+~
+0 0 8576
+S
+#8578
+{8A {7fork {8in the {2m{5o{2l{5d{2y{8 cave{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8579
+D2
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8580
+S
+#8579
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8600
+D3
+~
+~
+0 0 8578
+S
+#8580
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8581
+D1
+~
+~
+0 0 8578
+S
+#8581
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8580
+D3
+~
+~
+0 0 8582
+S
+#8582
+{8A {7fork{8 in the {2m{5o{2l{5d{2y{8 cave{C~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8585
+D1
+~
+~
+0 0 8581
+D2
+~
+~
+0 0 8583
+S
+#8583
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8582
+D1
+~
+~
+0 0 8584
+S
+#8584
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8588
+D3
+~
+~
+0 0 8583
+S
+#8585
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8586
+D2
+~
+~
+0 0 8582
+S
+#8586
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8587
+D2
+~
+~
+0 0 8585
+S
+#8587
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8589
+D3
+~
+~
+0 0 8586
+S
+#8588
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8584
+S
+#8589
+{8Before the {%A{1b{8y{1s{%s{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8587
+D5
+~
+~
+0 0 8590
+S
+#8590
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8589
+D5
+~
+~
+0 0 8591
+S
+#8591
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8590
+D5
+~
+~
+0 0 8592
+S
+#8592
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8591
+D5
+~
+~
+0 0 8593
+S
+#8593
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8592
+D5
+~
+~
+0 0 8594
+S
+#8594
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8593
+D5
+~
+~
+0 0 8595
+S
+#8595
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8594
+D5
+~
+~
+0 0 8596
+S
+#8596
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8595
+D5
+~
+~
+0 0 8597
+S
+#8597
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8596
+D5
+~
+~
+0 0 8598
+S
+#8598
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8597
+D5
+~
+~
+0 0 8599
+S
+#8599
+{8In the the {%A{1b{8y{1s{%s{x~
+{8Th{8e Abyss has en{1gulfed {%you!
+ {%It is {1overwhelmin{8g you
+          {1it feels as t{8hough you {1your
+      {%swi{1mming throu{8gh an
+                    astra{8l plane. {1This abys{%s
+{%seems to d{1rop {8f
+               o
+                r
+                 {7e
+                  v
+                   e
+                    r{x
+~
+0 0 0
+D4
+~
+~
+0 0 8598
+D5
+~
+~
+0 0 8595
+S
+#8600
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8579
+D2
+~
+~
+0 0 8601
+S
+#8601
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8600
+D1
+~
+~
+0 0 8602
+S
+#8602
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8603
+D3
+~
+~
+0 0 8601
+S
+#8603
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8602
+D3
+~
+~
+0 0 8604
+S
+#8604
+{8In a {2m{5o{2l{5d{2y {8cave{x~
+{8This is cave is cold, w{6e{dt, dark, {2s{@l{2i{@m{2e{@y{8 cave.
+It's so tight in here you couldn't possibly fit
+that many people. The slime covers just about
+everything, even the ground. It reaks of {2m{5o{2l{6d{8 in
+here, in face you feel a bit woozy. Although you
+can't see very far the cave seems to wind, and every
+sound you make echos for what seems to be miles.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8603
+S
+#8605
+{8Within the slit in the {7rock{x~
+~
+0 0 0
+D3
+~
+~
+0 0 8604
+S
+#8606
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D4
+~
+~
+0 0 8588
+D5
+~
+~
+0 0 8607
+S
+#8607
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8615
+D1
+~
+~
+0 0 8622
+D2
+~
+~
+0 0 8608
+D3
+~
+~
+0 0 8629
+D4
+~
+~
+0 0 8606
+S
+#8608
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8607
+D2
+~
+~
+0 0 8609
+S
+#8609
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8608
+D4
+~
+~
+0 0 8610
+S
+#8610
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8611
+D5
+~
+~
+0 0 8609
+S
+#8611
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8610
+D5
+~
+~
+0 0 8612
+S
+#8612
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D4
+~
+~
+0 0 8611
+D5
+~
+~
+0 0 8613
+S
+#8613
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8614
+D4
+~
+~
+0 0 8612
+S
+#8614
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8613
+S
+#8615
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8616
+D2
+~
+~
+0 0 8607
+S
+#8616
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8615
+S
+#8617
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8616
+D5
+~
+~
+0 0 8618
+S
+#8618
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8619
+D4
+~
+~
+0 0 8617
+S
+#8619
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.
+~
+0 0 0
+D2
+~
+~
+0 0 8618
+D4
+~
+~
+0 0 8620
+S
+#8620
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8621
+D5
+~
+~
+0 0 8619
+S
+#8621
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8620
+S
+#8622
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8623
+D3
+~
+~
+0 0 8607
+S
+#8623
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8624
+D2
+~
+~
+0 0 8622
+S
+#8624
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8623
+D4
+~
+~
+0 0 8625
+S
+#8625
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8626
+D5
+~
+~
+0 0 8624
+S
+#8626
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8625
+D1
+~
+~
+0 0 8627
+S
+#8627
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8626
+D5
+~
+~
+0 0 8628
+S
+#8628
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D4
+~
+~
+0 0 8627
+S
+#8629
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8607
+D5
+~
+~
+0 0 8630
+S
+#8630
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8631
+D4
+~
+~
+0 0 8629
+S
+#8631
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8630
+D2
+~
+~
+0 0 8632
+S
+#8632
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8631
+D5
+~
+~
+0 0 8633
+S
+#8633
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D3
+~
+~
+0 0 8634
+D4
+~
+~
+0 0 8632
+S
+#8634
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8633
+D3
+~
+~
+0 0 8635
+S
+#8635
+{$S{4wim{$ming t{4hro{$ugh th{4e unde{$rwat{4er cav{$erns{x~
+{4{4Ice cold water is all around you, it feels as if it's sucking
+the very life right out of you. The water here is crystal clear,
+at least as far as you can see. It's pitch black except for the
+light your holding. This whole cavern appears to just be part of
+the caves, only filled with water now. There's a dead silence all
+around you, a chill shoots down your spine. The underwater caverns
+winds around it seems just as the cave before did.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8634
+S
+#8636
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 4 0
+D0
+~
+~
+0 0 8637
+D2
+~
+~
+0 0 8572
+S
+#8637
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8641
+D2
+~
+~
+0 0 8636
+D3
+~
+~
+0 0 8638
+S
+#8638
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8639
+D1
+~
+~
+0 0 8637
+D3
+~
+~
+0 0 8646
+S
+#8639
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8640
+D2
+~
+~
+0 0 8638
+S
+#8640
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8647
+D1
+~
+~
+0 0 8648
+D2
+~
+~
+0 0 8639
+S
+#8641
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8642
+D3
+~
+~
+0 0 8637
+S
+#8642
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8643
+D2
+~
+~
+0 0 8645
+D3
+~
+~
+0 0 8641
+S
+#8643
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D2
+~
+~
+0 0 8642
+D3
+~
+~
+0 0 8644
+S
+#8644
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8643
+S
+#8645
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8642
+S
+#8646
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8638
+S
+#8647
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D2
+~
+~
+0 0 8640
+S
+#8648
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8650
+D1
+~
+~
+0 0 8649
+D3
+~
+~
+0 0 8640
+S
+#8649
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D3
+~
+~
+0 0 8648
+S
+#8650
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8651
+D2
+~
+~
+0 0 8648
+S
+#8651
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D2
+~
+~
+0 0 8650
+S
+#8652
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D1
+~
+~
+0 0 8653
+D3
+~
+~
+0 0 8574
+S
+#8653
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D1
+~
+~
+0 0 8654
+D3
+~
+~
+0 0 8652
+S
+#8654
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D1
+~
+~
+0 0 8655
+D3
+~
+~
+0 0 8653
+S
+#8655
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8656
+D3
+~
+~
+0 0 8654
+S
+#8656
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8657
+D2
+~
+~
+0 0 8655
+D4
+~
+~
+1 0 8751
+S
+#8657
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D1
+~
+~
+0 0 8658
+D2
+~
+~
+0 0 8656
+S
+#8658
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D2
+~
+~
+0 0 8659
+D3
+~
+~
+0 0 8657
+S
+#8659
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8658
+D1
+~
+~
+0 0 8660
+D2
+~
+~
+0 0 8696
+S
+#8660
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8661
+D3
+~
+~
+0 0 8659
+S
+#8661
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8662
+D2
+~
+~
+0 0 8660
+S
+#8662
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D2
+~
+~
+0 0 8661
+D3
+~
+~
+0 0 8663
+S
+#8663
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8664
+D1
+~
+~
+0 0 8662
+S
+#8664
+{8On the {1beaten{2 path{x~
+{2Walking along the {1beaten{2 path it's obvious you're not
+the first to travel this road, and you won't be the last.
+The area here is surrounded by trees and there is no other
+way through this forest. Just above the treeline you can
+see {3mountains{2 to the north. The {1beaten {2path continues.
+~
+0 4 0
+D0
+~
+~
+0 0 8665
+D2
+~
+~
+0 0 8663
+S
+#8665
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8676
+D2
+~
+~
+0 0 8664
+D3
+~
+~
+0 0 8666
+S
+#8666
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8667
+D1
+~
+~
+0 0 8665
+S
+#8667
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8666
+D3
+~
+~
+0 0 8668
+S
+#8668
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8667
+D2
+~
+~
+0 0 8669
+S
+#8669
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8668
+D3
+~
+~
+0 0 8670
+S
+#8670
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8669
+D3
+~
+~
+0 0 8671
+S
+#8671
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8670
+D2
+~
+~
+0 0 8672
+S
+#8672
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8671
+D3
+~
+~
+0 0 8673
+S
+#8673
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8672
+D3
+~
+~
+0 0 8674
+S
+#8674
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8673
+D3
+~
+~
+0 0 8675
+S
+#8675
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8674
+S
+#8676
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8677
+D3
+~
+~
+0 0 8665
+S
+#8677
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8678
+D3
+~
+~
+0 0 8676
+S
+#8678
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8677
+D1
+~
+~
+0 0 8679
+S
+#8679
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8680
+D3
+~
+~
+0 0 8678
+S
+#8680
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8681
+D2
+~
+~
+0 0 8679
+S
+#8681
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8682
+D2
+~
+~
+0 0 8680
+S
+#8682
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8683
+D3
+~
+~
+0 0 8681
+S
+#8683
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8684
+D3
+~
+~
+0 0 8682
+S
+#8684
+{7The {4Te{$ltn{4au {$R{4ive{$r{x~
+{$The river here is slow moving and quiet tranquil. You can
+now see how vast the {3mountains{$ on to the north, just across
+the river here, however there dosn't appear to be any way to
+climb them. The water of the river is ice cold, and crystal
+clear, and the current is pushing you to the west.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8685
+D3
+~
+~
+0 0 8683
+S
+#8685
+{7The {4Te{$ltn{4au{7 head {4sp{$ri{4ng{x~
+{$Aw, the source of the river. It appears to be a spring fed river,
+no wonder the water is so clear and cold. This place is beautiful
+hidden in a niche in the {3mountain {$basin. A large {7staircase{$ is here
+and it appears to ascend the {3mountain{$, you can see the stairs go up
+beyond the {&cl{7o{&u{7d{&s{$.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8686
+D2
+~
+~
+0 0 8684
+S
+#8686
+{7Before the {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 4 0
+D2
+~
+~
+0 0 8685
+D4
+~
+~
+0 0 8687
+S
+#8687
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8688
+D5
+~
+~
+0 0 8686
+S
+#8688
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8689
+D5
+~
+~
+0 0 8687
+S
+#8689
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8690
+D5
+~
+~
+0 0 8688
+S
+#8690
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8691
+D5
+~
+~
+0 0 8689
+S
+#8691
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8690
+D4
+~
+~
+0 0 8692
+S
+#8692
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8693
+D5
+~
+~
+0 0 8691
+S
+#8693
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8694
+D5
+~
+~
+0 0 8692
+S
+#8694
+{7The {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D4
+~
+~
+0 0 8695
+D5
+~
+~
+0 0 8693
+S
+#8695
+{7Atop the {3mo{#u{3nt{#ai{3n {7stairs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8500
+D5
+~
+~
+0 0 8694
+S
+#8696
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 4 0
+D0
+~
+~
+0 0 8659
+D2
+~
+~
+0 0 8697
+S
+#8697
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8696
+D1
+~
+~
+0 0 8698
+D3
+~
+~
+0 0 8701
+S
+#8698
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D2
+~
+~
+0 0 8699
+D3
+~
+~
+0 0 8697
+S
+#8699
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8698
+D2
+~
+~
+0 0 8700
+S
+#8700
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8699
+S
+#8701
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8697
+D2
+~
+~
+0 0 8702
+S
+#8702
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8701
+D2
+~
+~
+0 0 8703
+S
+#8703
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8702
+D2
+~
+~
+0 0 8704
+S
+#8704
+{2Off the {1beaten{2 path{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D0
+~
+~
+0 0 8703
+D3
+~
+~
+0 0 8705
+S
+#8705
+{2A {1dead{2 end{x~
+{8Now that you're no longer on the {1beaten {2path{8 it's becoming
+difficult for you to navigate through the {2forest{8 here. The
+trees here reach staggering heights and they thick cover they
+provide isn't allowing any light to shine through. There is
+a creepy {7silence{8 about this area, and the leaves around you
+continue to russle every so often...{x
+~
+0 0 0
+D1
+~
+~
+0 0 8704
+S
+#8706
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D2
+~
+~
+0 0 8565
+D3
+~
+~
+0 0 8710
+S
+#8707
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8565
+D3
+~
+~
+0 0 8709
+S
+#8708
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8710
+D1
+~
+~
+0 0 8565
+D2
+~
+~
+0 0 8709
+D3
+~
+~
+0 0 8711
+S
+#8709
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8708
+D1
+~
+~
+0 0 8707
+D3
+~
+~
+0 0 8713
+S
+#8710
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8708
+D3
+~
+~
+0 0 8712
+S
+#8711
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8712
+D1
+~
+~
+0 0 8708
+D2
+~
+~
+0 0 8713
+S
+#8712
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D1
+~
+~
+0 0 8710
+D2
+~
+~
+0 0 8711
+S
+#8713
+{7A {@cle{#a{3r{#i{@ng{7 in the {2thicket{x~
+{@Wow! You've found a q{2u{@a{2i{@n{2t{@ little cle{#a{3r{#i{@ng amongst the
+{2thicket{@. The grass here is short, you can see the sky when
+you look up, and you can't help but feel safe here.{x
+~
+0 0 0
+D0
+~
+~
+0 0 8711
+D1
+~
+~
+0 0 8709
+S
+#8714
+{3Behind the {7T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8715
+D2
+~
+~
+0 0 8534
+S
+#8715
+{3Behind the {7T{&e{7m{&pl{7e{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8716
+D2
+~
+~
+0 0 8714
+S
+#8716
+{3Before the {8escarpment of Igneel{X~
+~
+0 0 0
+D2
+~
+~
+0 0 8715
+D5
+~
+~
+0 0 8717
+S
+#8717
+{3Decending the {8escarpment of Igneel{X~
+~
+0 0 0
+D5
+~
+~
+0 0 8718
+S
+#8718
+{3Decending the {8escarpment of Igneel{X~
+~
+0 0 0
+D5
+~
+~
+0 0 8719
+S
+#8719
+{3Decending the {8escarpment of Igneel{X~
+~
+0 0 0
+D5
+~
+~
+0 0 8720
+S
+#8720
+{3The mountains{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8721
+S
+#8721
+{3The mountains{X~
+~
+0 0 0
+D2
+~
+~
+0 0 8722
+D3
+~
+~
+0 0 8720
+S
+#8722
+{3The mountains{X~
+~
+0 0 0
+D0
+~
+~
+0 0 8721
+D5
+~
+~
+0 0 8723
+S
+#8723
+{3The mountains{X~
+~
+0 0 0
+D0
+~
+~
+0 0 8724
+D4
+~
+~
+0 0 8722
+S
+#8724
+{3The mountains{X~
+~
+0 0 0
+D2
+~
+~
+0 0 8723
+D3
+~
+~
+0 0 8725
+S
+#8725
+{3The mountains{X~
+~
+0 0 0
+D0
+~
+~
+0 0 8726
+D1
+~
+~
+0 0 8724
+S
+#8726
+{3The mountains{X~
+~
+0 0 0
+D0
+~
+~
+0 0 8731
+D2
+~
+~
+0 0 8725
+D4
+~
+~
+0 0 8727
+S
+#8727
+{3The mountains{X~
+~
+0 0 0
+D1
+~
+~
+0 0 8728
+D5
+~
+~
+0 0 8726
+S
+#8728
+{3The mountains{X~
+~
+0 0 0
+D1
+~
+~
+0 0 8729
+D3
+~
+~
+0 0 8727
+S
+#8729
+{3The mountains{X~
+~
+0 0 0
+D2
+~
+~
+0 0 8730
+D3
+~
+~
+0 0 8728
+S
+#8730
+{3The mountains{X~
+~
+0 0 0
+D0
+~
+~
+0 0 8729
+D2
+~
+boulder~
+1 0 8575
+S
+#8731
+{3The mountains{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8732
+D2
+~
+~
+0 0 8726
+S
+#8732
+{3The mountains{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8731
+D3
+~
+~
+0 0 8733
+S
+#8733
+{3The mountains{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8732
+D3
+~
+~
+0 0 8734
+S
+#8734
+{3The mountains{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8735
+D1
+~
+~
+0 0 8733
+S
+#8735
+{3The mountains{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8736
+D2
+~
+~
+0 0 8734
+S
+#8736
+{3The mountains{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8737
+D2
+~
+~
+0 0 8735
+S
+#8737
+{3The mountains{x~
+~
+0 0 0
+D3
+~
+~
+0 0 8736
+D4
+~
+~
+0 0 8738
+S
+#8738
+{3The mountains{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8739
+D5
+~
+~
+0 0 8737
+S
+#8739
+{3The mountains{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8738
+D2
+~
+~
+0 0 8740
+S
+#8740
+{3The mountains{x~
+~
+0 4 0
+D0
+~
+~
+0 0 8739
+D2
+~
+~
+0 0 8741
+S
+#8741
+{3The {!lost {3vi{#ll{3age{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8740
+D2
+~
+~
+0 0 8742
+D4
+~
+~
+0 0 8749
+S
+#8742
+{3The {!lost {3vi{#ll{3age{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8741
+D1
+~
+~
+0 0 8744
+D2
+~
+~
+0 0 8743
+S
+#8743
+{3The {!lost {3vi{#ll{3age{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8742
+D2
+~
+~
+0 0 8750
+D3
+~
+~
+0 0 8746
+S
+#8744
+{3The {!lost {3vi{#ll{3age{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8745
+D2
+~
+~
+0 0 8756
+D3
+~
+~
+0 0 8742
+S
+#8745
+{3A {!medium {3h{#u{3t{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8744
+S
+#8746
+{3The {!lost {3vi{#ll{3age{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8747
+D1
+~
+~
+0 0 8743
+D2
+~
+~
+0 0 8748
+S
+#8747
+{3A {!small {3h{#u{3t{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8746
+S
+#8748
+{3A {!small {3h{#u{3t{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8746
+S
+#8749
+{4The {3vi{#ll{3age lookout{x~
+~
+0 0 0
+D5
+~
+~
+0 0 8741
+S
+#8750
+{3A {!large {3h{#u{3t{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8743
+S
+#8751
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8752
+D1
+~
+~
+0 0 8761
+D2
+~
+~
+0 0 8773
+D3
+~
+~
+0 0 8767
+D5
+~
+~
+1 0 8656
+S
+#8752
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8751
+D3
+~
+~
+0 0 8753
+S
+#8753
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8752
+D4
+~
+~
+0 0 8754
+S
+#8754
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8755
+D5
+~
+~
+0 0 8753
+S
+#8755
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8757
+D3
+~
+~
+0 0 8754
+S
+#8756
+{3A {!small {3h{#u{3t{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8744
+S
+#8757
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8755
+D2
+~
+~
+0 0 8758
+S
+#8758
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8757
+D3
+~
+~
+0 0 8759
+S
+#8759
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8760
+D1
+~
+~
+0 0 8758
+S
+#8760
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8759
+D5
+~
+~
+0 0 8696
+S
+#8761
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8762
+D3
+~
+~
+0 0 8751
+S
+#8762
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8761
+D2
+~
+~
+0 0 8763
+S
+#8763
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8762
+D3
+~
+~
+0 0 8764
+S
+#8764
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8763
+D4
+~
+~
+0 0 8765
+S
+#8765
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8766
+D5
+~
+~
+0 0 8764
+S
+#8766
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8765
+D5
+~
+~
+0 0 8569
+S
+#8767
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8751
+D2
+~
+~
+0 0 8768
+S
+#8768
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8767
+D2
+~
+~
+0 0 8769
+S
+#8769
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8768
+D3
+~
+~
+0 0 8770
+S
+#8770
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8769
+D4
+~
+~
+0 0 8771
+S
+#8771
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8772
+D5
+~
+~
+0 0 8770
+S
+#8772
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8771
+D5
+~
+~
+0 0 8661
+S
+#8773
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8751
+D2
+~
+~
+0 0 8774
+S
+#8774
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8773
+D2
+~
+~
+0 0 8775
+S
+#8775
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8774
+D3
+~
+~
+0 0 8776
+S
+#8776
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D1
+~
+~
+0 0 8775
+D4
+~
+~
+0 0 8777
+S
+#8777
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D0
+~
+~
+0 0 8778
+D5
+~
+~
+0 0 8776
+S
+#8778
+{@I{2n {@t{2h{@e {2t{@r{2e{@e{2s{x~
+{2,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@{3/ /{2@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{3\ ` /{2%&'    {3|.|        \ '|{28'{3
+       |o|        | |         | |
+       |.|        | |         | |
+    {@\\{#/ ._\{@//_/__{#/  ,\{@_//__\\{#/.  \{@_//__/_{x
+~
+0 0 0
+D2
+~
+~
+0 0 8777
+D5
+~
+~
+0 0 8641
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 8512 5 2 The down door of {7T{&e{7m{&pl{7e {7Entrance{x is closed and locked
+D 0 8513 4 1 The up door of {8In the {7ca{8ta{7c{&om{8b{7s{x is closed
+D 0 8520 0 2 The north door of {8A large {7sewer{8 drain{x is closed and locked
+D 0 8530 2 2 The south door of  is closed and locked
+D 0 8730 2 1 The south door of {3The mountains{X is closed
+O 0 8504 0 8504 *{8an old {1f{!i{3r{#e{8 pit{7.{x loaded to {2A s{@mal{3l c{#le{3ar{@in{2g{x
+M 0 8505 1 8505 1 *Load {*A Metal Babble{x
+M 0 8512 4 8512 4 *Load {7The T{&e{7m{&pl{7e Guard{x
+M 0 8513 25 8513 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8513 4 *Load {8A{7n {2Alligator{x
+O 0 8513 0 8513 *{8a pile of {1ma{!ngl{1ed {8corpses{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8513 25 8514 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8514 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8515 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8515 4 *Load {8A{7n {2Alligator{x
+M 0 8514 4 8516 10 *Load {2A {7h{&a{@t{2c{@h{7li{&ng{x
+M 0 8513 25 8516 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8516 4 *Load {8A{7n {2Alligator{x
+O 0 8514 0 8516 *{7a {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8513 25 8517 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8517 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8518 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8518 4 *Load {8A{7n {2Alligator{x
+M 0 8514 4 8519 10 *Load {2A {7h{&a{@t{2c{@h{7li{&ng{x
+M 0 8513 25 8519 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8519 4 *Load {8A{7n {2Alligator{x
+O 0 8514 0 8519 *{7a {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8513 25 8521 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8521 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8522 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8522 4 *Load {8A{7n {2Alligator{x
+M 0 8514 4 8523 10 *Load {2A {7h{&a{@t{2c{@h{7li{&ng{x
+M 0 8513 25 8523 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8523 4 *Load {8A{7n {2Alligator{x
+O 0 8514 0 8523 *{7a {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8513 25 8524 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8524 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8525 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8525 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8526 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8526 4 *Load {8A{7n {2Alligator{x
+M 0 8514 4 8527 10 *Load {2A {7h{&a{@t{2c{@h{7li{&ng{x
+M 0 8513 25 8527 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8527 4 *Load {8A{7n {2Alligator{x
+O 0 8514 0 8527 *{7a {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8513 25 8528 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8528 4 *Load {8A{7n {2Alligator{x
+M 0 8514 4 8529 10 *Load {2A {7h{&a{@t{2c{@h{7li{&ng{x
+M 0 8513 25 8529 4 *Load {8A{7n {2Alligator{x
+M 0 8513 25 8529 4 *Load {8A{7n {2Alligator{x
+O 0 8514 0 8529 *{7a {#n{3es{#t {7of {2alligator{& e{7g{&g{7s{x loaded to {8In the {7ca{8ta{7c{&om{8b{7s{x
+M 0 8553 1 8553 1 *Load {1The {7Orch{&e{8s{&t{7rator{x
+G 0 8553 0 *{1a {7wa{&iv{&er{x is given to {1The {7Orch{&e{8s{&t{7rator{x
+M 0 8555 1 8555 1 *Load {1The {8Brute{x
+M 0 8556 1 8556 1 *Load {8The {7Shadow{X
+M 0 8557 1 8557 1 *Load {2The {8Sl{@i{8me{x
+M 0 8558 1 8558 1 *Load {&The {8Disciple{x
+M 0 8559 1 8559 1 *Load {^The {8Child{x
+M 0 8560 1 8560 1 *Load {@T{%h{@e{8 Brain{x
+M 0 8775 30 8575 2 *Load {8Something{x
+M 0 8775 30 8576 2 *Load {8Something{x
+M 0 8775 30 8577 2 *Load {8Something{x
+M 0 8775 30 8577 2 *Load {8Something{x
+M 0 8775 30 8578 2 *Load {8Something{x
+M 0 8775 30 8578 2 *Load {8Something{x
+M 0 8575 10 8579 1 *Load {8Something{x
+M 0 8775 30 8579 2 *Load {8Something{x
+M 0 8575 10 8580 1 *Load {8Something{x
+M 0 8775 30 8580 2 *Load {8Something{x
+M 0 8775 30 8580 2 *Load {8Something{x
+O 0 8584 0 8580 *{8a dark {^p{6oo{^l{8 of water{x loaded to {8In a {2m{5o{2l{5d{2y {8cave{x
+M 0 8575 10 8581 1 *Load {8Something{x
+M 0 8775 30 8581 2 *Load {8Something{x
+M 0 8575 10 8582 1 *Load {8Something{x
+O 0 8584 0 8582 *{8a dark {^p{6oo{^l{8 of water{x loaded to {8A {7fork{8 in the {2m{5o{2l{5d{2y{8 cave{C
+M 0 8576 20 8583 2 *Load {8Something{x
+M 0 8576 20 8583 2 *Load {8Something{x
+M 0 8576 20 8584 2 *Load {8Something{x
+M 0 8576 20 8584 2 *Load {8Something{x
+M 0 8575 10 8585 1 *Load {8Something{x
+M 0 8575 10 8586 1 *Load {8Something{x
+M 0 8575 10 8586 1 *Load {8Something{x
+M 0 8575 10 8587 1 *Load {8Something{x
+M 0 8575 10 8587 1 *Load {8Something{x
+O 0 8584 0 8587 *{8a dark {^p{6oo{^l{8 of water{x loaded to {8In a {2m{5o{2l{5d{2y {8cave{x
+M 0 8588 100 8588 3 *Load {8Something{x
+M 0 8588 100 8588 3 *Load {8Something{x
+M 0 8588 100 8588 3 *Load {8Something{x
+O 0 8588 0 8588 *{8a dark, deep {^p{6oo{^l{8 of water{x loaded to {8In a {2m{5o{2l{5d{2y {8cave{x
+M 0 8575 10 8589 1 *Load {8Something{x
+M 0 8575 10 8589 1 *Load {8Something{x
+M 0 8775 30 8589 2 *Load {8Something{x
+M 0 8588 100 8590 3 *Load {8Something{x
+M 0 8588 100 8591 3 *Load {8Something{x
+M 0 8588 100 8591 3 *Load {8Something{x
+M 0 8588 100 8591 3 *Load {8Something{x
+M 0 8588 100 8592 3 *Load {8Something{x
+M 0 8588 100 8592 3 *Load {8Something{x
+M 0 8588 100 8592 3 *Load {8Something{x
+M 0 8588 100 8593 3 *Load {8Something{x
+M 0 8588 100 8593 3 *Load {8Something{x
+M 0 8588 100 8593 3 *Load {8Something{x
+M 0 8588 100 8594 3 *Load {8Something{x
+M 0 8588 100 8594 3 *Load {8Something{x
+M 0 8588 100 8594 3 *Load {8Something{x
+M 0 8588 100 8595 3 *Load {8Something{x
+M 0 8588 100 8595 3 *Load {8Something{x
+M 0 8588 100 8595 3 *Load {8Something{x
+M 0 8588 100 8596 3 *Load {8Something{x
+M 0 8588 100 8596 3 *Load {8Something{x
+M 0 8588 100 8596 3 *Load {8Something{x
+M 0 8588 100 8597 3 *Load {8Something{x
+M 0 8588 100 8597 3 *Load {8Something{x
+M 0 8588 100 8597 3 *Load {8Something{x
+M 0 8588 100 8598 3 *Load {8Something{x
+M 0 8588 100 8598 3 *Load {8Something{x
+M 0 8588 100 8598 3 *Load {8Something{x
+M 0 8599 1 8599 1 *Load {8Something{x
+O 0 8599 0 8599 *{&a co{7llec{&tio{7n o{&f b{7o{&ne{7s{x loaded to {8In the the {%A{1b{8y{1s{%s{x
+M 0 8600 100 8600 2 *Load {8Something{x
+M 0 8602 100 8601 1 *Load {8Something{x
+M 0 8600 100 8601 2 *Load {8Something{x
+M 0 8600 100 8602 2 *Load {8Something{x
+M 0 8602 100 8602 1 *Load {8Something{x
+M 0 8600 100 8603 2 *Load {8Something{x
+M 0 8602 100 8603 1 *Load {8Something{x
+M 0 8604 1 8604 1 *Load {8Something{x
+M 0 8600 100 8604 1 *Load {8Something{x
+M 0 8602 100 8604 1 *Load {8Something{x
+O 0 8604 0 8604 *{8a large slit in the {7rock{x loaded to {8In a {2m{5o{2l{5d{2y {8cave{x
+M 0 8605 1 8605 1 *Load {&Yoolik{x
+M 0 8637 100 8637 2 *Load {8A jaguar{x
+M 0 8638 100 8638 2 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8639 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8640 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8641 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8643 1 *Load {2A {@Forest {2Imp{x
+M 0 8637 100 8643 2 *Load {8A jaguar{x
+M 0 8638 100 8644 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8645 1 *Load {2A {@Forest {2Imp{x
+M 0 8637 100 8646 2 *Load {8A jaguar{x
+M 0 8638 100 8647 1 *Load {2A {@Forest {2Imp{x
+M 0 8637 100 8648 2 *Load {8A jaguar{x
+M 0 8638 100 8649 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8650 1 *Load {2A {@Forest {2Imp{x
+M 0 8638 100 8651 1 *Load {2A {@Forest {2Imp{x
+M 0 8674 100 8665 1 *Load {&A {7catfish{x
+M 0 8675 100 8665 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8666 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8674 100 8667 1 *Load {&A {7catfish{x
+M 0 8675 100 8667 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8668 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8675 100 8668 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8674 100 8669 1 *Load {&A {7catfish{x
+M 0 8675 100 8669 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8670 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8671 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8674 100 8671 1 *Load {&A {7catfish{x
+M 0 8675 100 8671 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8672 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8672 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8674 100 8673 1 *Load {&A {7catfish{x
+M 0 8675 100 8673 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8674 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8675 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8674 100 8675 1 *Load {&A {7catfish{x
+M 0 8675 100 8675 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8676 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8675 100 8676 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8674 100 8677 1 *Load {&A {7catfish{x
+M 0 8675 100 8677 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8678 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8674 100 8679 1 *Load {&A {7catfish{x
+M 0 8675 100 8679 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8680 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8681 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8674 100 8681 1 *Load {&A {7catfish{x
+M 0 8675 100 8681 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8682 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8683 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8674 100 8683 1 *Load {&A {7catfish{x
+M 0 8675 100 8683 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8675 100 8684 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8763 100 8685 1 *Load {7A {3school{7 of {3g{#u{3p{#p{3i{#e{3s{x
+M 0 8674 100 8685 1 *Load {&A {7catfish{x
+M 0 8675 100 8685 1 *Load {7A {1r{2a{3i{4n{5b{6o{1w {7trout{x
+M 0 8700 100 8697 1 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8696 100 8697 2 *Load {7A {3bear{x
+M 0 8696 100 8697 2 *Load {7A {3bear{x
+M 0 8700 100 8698 2 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8700 100 8698 2 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8696 100 8699 1 *Load {7A {3bear{x
+M 0 8700 100 8700 2 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8700 100 8700 2 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8696 100 8701 1 *Load {7A {3bear{x
+M 0 8700 100 8702 1 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8696 100 8702 2 *Load {7A {3bear{x
+M 0 8696 100 8703 2 *Load {7A {3bear{x
+M 0 8696 100 8703 2 *Load {7A {3bear{x
+M 0 8700 100 8704 3 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8700 100 8704 3 *Load {7A {3t{8i{3g{8e{3r{x
+M 0 8705 1 8705 1 *Load {7The {!BIGGEST {#lion {7you've ever seen{x
+M 0 8696 100 8705 2 *Load {7A {3bear{x
+O 0 8705 0 8705 *{2a small opening{x loaded to {2A {1dead{2 end{x
+M 0 8748 10 8742 3 *Load {3a vi{#ll{3ager{x
+M 0 8748 10 8745 3 *Load {3a vi{#ll{3ager{x
+M 0 8745 1 8745 1 *Load {&Suzzeti{x
+M 0 8748 10 8747 3 *Load {3a vi{#ll{3ager{x
+M 0 8748 10 8747 3 *Load {3a vi{#ll{3ager{x
+M 0 8748 10 8748 3 *Load {3a vi{#ll{3ager{x
+M 0 8748 10 8748 3 *Load {3a vi{#ll{3ager{x
+M 0 8749 1 8749 1 *Load {&Urix{x
+M 0 8750 1 8750 1 *Load {&Guixum{x
+M 0 8748 10 8750 3 *Load {3a vi{#ll{3ager{x
+M 0 8748 10 8756 3 *Load {3a vi{#ll{3ager{x
+M 0 8756 1 8756 1 *Load {&Leznul{x
+S
+
+
+
+#SHOPS
+8553 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#8505
+mob echo {!The tree releases and you're thrown threw the air!{x
+mob gtransfer $n 8504
+mob goto 8504
+mob damage $n 20000 20000 lethal
+mob goto 8505
+~
+#8514
+mob echo {!The hatching welps in pain calling for it's mother!{x
+mob echo {!A large alligator snatches you underwater!{x
+mob mload 425
+mob force $n kill mothergator
+~
+#8531
+say Hello $n
+corner Eatmybrown
+~
+#8550
+mob cast 'acid rain' $n
+~
+#8551
+mob cast blindness
+mob cast 'energy drain'
+~
+#8552
+mob cast 'fork' $n
+~
+#8553
+mob damage $n 10000 10000 lethal
+mob echo {!The Disciple calls down the wrath of his god to smite you!{x
+mob cast blindness
+mob cast plague
+mob cast curse
+~
+#8554
+peer $n
+mob damage $n 50000 50000 lethal
+ 
+~
+#8555
+look $n
+laugh
+say You're my next challenger? I'm surprised they even let you in.
+say So be it. The first test is a test of toughness, good luck...shrimp.
+mob echo {!You get sucker punched right in the face!{x
+mob damage $n 10000 10000 lethal
+mob damage $n 10000 10000
+mob damage $n 10000 10000
+mob kill $n
+~
+#8556
+laugh
+say You must not think very highly of me....
+say Just walking in here like you own the place!
+say Ok then, how about this
+mob peace
+cackle
+mob cast sleep $n
+say What's that?... Your back itches....Lemme get that for you
+wink
+mob cast 'dispel magic' $n
+mob cast fork $n
+~
+#8557
+mob echo {!The acid around you begins to take form!{X
+mob echo {!Waves of acid begin raining down on you!{X
+mob cast 'acid rain' $n
+mob mload 8557 8557
+mob mload 8557 8557
+mob force slime kill $n
+mob force 2.slime kill $n
+~
+#8558
+smile $n
+say Hello, $n.
+say You have come so far, it's a shame my savior has denied your passage!
+mob cast 'protective aura
+mob echo {!The disciple offers you up as a sacrifice and a blinding light engulfs you!{x
+mob cast 'dispel magic' $n
+mob damage $n 10000 10000 lethal
+mob kill $n
+~
+#8559
+mob echo {!The Child invades your mind taking control of your body!{x
+mob force remove all
+mob echo {!The Child invades your mind and forces you to attack yourself!{x
+mob damage $n 10000 10000 lethal
+~
+#8610
+mob echo {1You heart drops as you sense your life comming to an end!{x
+say Hello $n, you're looking mighty tasty today!
+~
+#8611
+say DIE YOU WEAKLINGS!
+say YOU WILL NEVER DEFEAT ME!!
+yell BUHAHAHAHAHAHAAHAHAH! I OWN THIS CITY NOW!!!
+mob cast blind
+say HAH! Wither in agony pansy!
+mob cast prismatic
+cackle
+mob goto 3103
+yell Catch me if you can shrimps!! BuAhahaAHhah!
+~
+#8612
+mob echo The thief thows down a smoke bomb and vanishes!
+mob cast blind
+mob goto 3046
+~
+#0
+
+#$

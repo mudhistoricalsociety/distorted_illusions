@@ -1,0 +1,1576 @@
+#AREADATA
+Name Mysteria~
+Builders Eragon~
+VNUMs 1950 1999
+Continent 1
+Credits [50 80 ] Eragon   Mysteria~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#1950
+barbarian~
+A Barbarian~
+A Barbarian is here, ready to bash your head in!
+~
+~
+hill-giant~
+ABFT V 0 0 0
+75 200 750d1+0 0d0+0 25d2+0 smash
+-40 -40 -40 -40
+EFN 0 0 CP
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+#1951
+black bear~
+A Black Bear~
+A Black Bear has wandered down from the mountains.
+~
+~
+bear~
+A MV 0 0 0
+70 150 900d1+0 0d0+0 35d5+0 claw
+-35 -35 -35 -35
+DEOR 0 EI H
+stand stand none 5000
+AGV ABCDEFHJKUV large unknown
+#1952
+spotted llama~
+A Spotted Llama~
+A Spotted Llama is here, grazing on the grass that barely exists.
+~
+~
+wemic~
+AB 0 0 0 0
+80 200 900d1+0 0d0+0 35d2+0 charge
+-35 -35 -35 -35
+FIK 0 0 H
+stand stand female 0
+AHNV ABCDEFGHIJK medium unknown
+#1953
+artic fox~
+An Artic Fox~
+An Artic Fox is here, blending in with the snow
+~
+~
+fox~
+ABCW Z 0 0 0
+70 200 1d1+1500 0d0+0 37d2+0 bite
+-40 -40 -40 -40
+FHK I I H
+stand stand male 7500
+AGV ACDEFHJKQV small unknown
+#1954
+citizen~
+A Citizen~
+A citizen is here, busily scurrying through the city.
+~
+~
+human~
+ABT V 0 0 0
+90 150 1d1+2000 0d0+0 25d1+0 punch
+-50 -50 -50 -50
+FIK 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#1955
+arya elf~
+A Slender Elf~
+A slender elf, Arya, stands here protecting the gates of Carvahall
+~
+~
+elf~
+AB J 0 0 0
+110 200 1d1+4000 0d0+0 1d1+80 slice
+-50 -50 -50 -50
+FHK B B 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#1956
+the healer ajihad~
+Ajihad~
+The Healer Ajihad is here, offering his healing needs.
+~
+~
+high-elf~
+ABa J CE 0 0
+101 0 50000d1+0 0d0+0 0d0+0 wrath
+-500 -500 -500 -500
+0 B B 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1957
+wizard brom~
+Brom~
+Brom stands here, just as ready for battle as he was 20 years ago.
+~
+~
+human~
+AB V C 0 0
+95 175 1d1+2000 1d1+2500 35d2+0 magic
+-60 -60 -60 -60
+EFK IP CO D
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#1958
+shade durza~
+Durza~
+An evil shade is here, the stories have spread over time.  This fiend is {*D{8u{1r{8z{*a{x
+~
+~
+dark-elf~
+ABF DFJVZ 0 -1000 0
+107 150 1d1+4000 1d1+3500 1d1+100 slice
+-50 -50 -50 -50
+BFG M C NS
+stand stand none 12500
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 1958 100~
+#1959
+orc urgal commander chief~
+An Urgal Chief~
+An orcish figure, the chief commander, is ordering the others.
+~
+~
+orc~
+ABFT JV 0 0 0
+125 200 1d1+3500 0d0+0 1d1+90 crush
+-55 -55 -55 -55
+CI E G CMOS
+stand stand none 20000
+AHMV ABCDEFGHIJK large unknown
+#1960
+urgal warrior~
+An Urgal Warrior~
+A massive warrior wielding an ivory spear, charges.
+~
+~
+orc~
+AB JV 0 0 0
+70 185 1d1+3000 0d0+0 35d1+0 thrust
+-50 -50 -50 -50
+CDN 0 G CMPS
+stand stand male 15000
+AHMV ABCDEFGHIJK large unknown
+#1961
+thief solumbum~
+Solumbum~
+A thief that is known by the name of Solumbum
+~
+~
+beastman~
+ABF PQV 0 0 0
+90 200 1d1+3000 0d0+0 35d1+0 claw
+-50 -50 -50 -50
+BFK M C P
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#1962
+elderly man~
+An {&Elderly {!Man{x~
+An old man is here, slowly making his way along the road.
+~
+~
+human~
+ABH d 0 0 0
+90 200 1d1+4000 0d0+0 50d1+2 thwack
+55 55 55 55
+0 LT NS MO
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#1963
+scavenger~
+A Scavenger~
+A Scavenger is here, looking for something, anything.
+~
+~
+human~
+ABC V 0 0 0
+60 150 2000d1+0 0d0+0 25d1+0 claw
+-55 -55 -55 -55
+FIK 0 0 C
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#1964
+army veteran~
+An {8A{4rm{8y{x {!V{1e{&t{$e{&r{1a{!n{x~
+An army veteran of very high ranks walks along.
+~
+~
+human~
+ABT V 0 0 0
+90 175 1d1+3500 0d0+0 60d1+2 beating
+-50 -50 -50 -50
+CFK T DP CG
+stand stand male 17500
+AHMV ABCDEFGHIJK medium unknown
+#1965
+stocky dwarf~
+A Stocky Dwarf~
+A Stocky Dwarf stands here, battle axe at side.
+~
+~
+dwarf~
+ABT JV 0 0 0
+85 200 1d1+3000 0d0+0 1d1+100 cleave
+-55 -55 -55 -55
+CDFK 0 DL C
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#1966
+garrow the merchant~
+Garrow, the Merchant~
+Garrow stands here, ready to help.
+~
+~
+human~
+AB 0 0 0 0
+50 0 50000d1+0 0d0+0 0d0+0 none
+150 150 150 150
+0 B B 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1967
+the dwarf jeod~
+Jeod~
+Jeod stands at the counter waiting to assist.
+~
+~
+dwarf~
+AB J D 0 0
+75 500 50000d1+0 0d0+0 500d500+0 cleave
+150 150 150 150
+0 0 L 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1968
+murtagh~
+Murtagh~
+Murtagh, the son of {8M{!o{8rz{!a{8n{x
+~
+~
+human~
+ABF QV 0 0 0
+130 150 1d1+4000 0d0+0 1d1+100 slash
+-55 -55 -55 -55
+BEK EP FG 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#1969
+guardian of the varden~
+The Varden Guardian~
+The guardian of the varden stands here, as if anticipating action.
+~
+~
+human~
+ABF V 0 0 0
+100 200 1d1+4000 0d0+0 1d1+110 beating
+-60 -55 -60 -55
+EFHK 0 D C
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#1970
+grand warrior~
+{#G{&ran{7d W{&arrio{#r{x~
+A warrior of many battles marches here, sword in hand.
+~
+~
+human~
+AB V 0 0 0
+95 200 1d1+3000 0d0+0 55d1+0 beating
+-50 -50 -50 -50
+CFK LP 0 CM
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#1971
+spirit morzan~
+The {#S{&p{7ir{&i{#t{x of {8M{!o{8rz{!a{8n{x~
+The spirit of Morzan, the fallen warrior stirs about, radiating evil.
+~
+~
+human~
+ABF V CDE 0 0
+95 200 1d1+4000 0d0+0 75d1+1 wrath
+-50 -50 -50 -50
+EFK MO 0 NS
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#1972
+dark fiend~
+{8A Dark Fiend{x~
+A dark fiend is here, radiating evil and looking to cause mischief, chaos, and death.
+~
+~
+beastman~
+ABF V 0 0 0
+90 150 1d1+4000 0d0+0 60d1+1 claw
+-55 -55 -55 -55
+CEFK 0 0 C
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+F res C
+#1973
+battlemage~
+{8Bat{1tleMag{8e{x~
+A BattleMage of many battles, and knowledge of articulate strength appears.
+~
+~
+minotaur~
+ABR J CDEH 0 0
+93 200 1d1+3500 1d1+2000 50d1+0 none
+-60 -60 -60 -60
+Q 0 C D
+stand stand none 10000
+AHMV ABCDEFGHIJKW medium unknown
+#1974
+grist mage death~
+{!G{8ri{!st{x~
+{8G{!ri{8st{x The Mage of {8D{!ea{8th{x
+~
+~
+human~
+ABLR 0 DEH 0 0
+120 0 1d1+4000 1d1+3500 75d1+0 magic
+-90 -90 -90 -90
+FGK MO C DN
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1975
+Howling Beast~
+A Howling Beast~
+A Beast howling for the moon.
+~
+~
+beastman~
+ABF 0 0 0 0
+105 0 1d1+4500 0d0+0 60d3+2 claw
+-50 -50 -50 -35
+FIN 0 Y C
+stand stand none 20000
+AHMV ABCDEFGHIJK large unknown
+F res C
+#1976
+royal guardian~
+{#R{&o{7yal Gua{&rdia{#n{x~
+A royal Guardian, belonging to King Kalsagorik
+~
+~
+human~
+ABT 0 0 0 0
+110 0 1d1+4500 0d0+0 75d2+1 beating
+-55 -55 -55 -55
+FKQ 0 D CNS
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+#1977
+king kalsagorik's high priest~
+A High Priest~
+An ever faithful Priest of King Kalsagorik.
+~
+~
+human~
+AB V H 0 0
+115 200 1d1+5000 0d0+0 1d1+200 slice
+-55 -55 -55 -55
+AFHK MNS C 0
+stand stand none 15000
+AHMV ABCDEFGHIJK large unknown
+#1978
+king kalsagorik~
+{!K{1ing {^Ka{6lsa{1gori{!k{x~
+The Grand King Kalsagorik, leader of the Varden.
+~
+~
+dwarf~
+ABT JVac CDE 0 0
+135 250 1d1+6000 0d0+0 105d2+1 wrath
+-75 -75 -75 -75
+CDFK 0 DLMNPS 0
+stand stand none 20000
+AHMV ABCDEFGHIJK large unknown
+#1979
+hired assassin~
+{8Hired {8Assassin{x~
+An assassin paid to kill
+~
+~
+human~
+ABF PQV 0 0 0
+130 100 1d1+10000 0d0+0 1d1+125 beating
+-60 -60 -60 -45
+FHK E 0 C
+stand stand male 40000
+AHMV ABCDEFGHIJK large unknown
+#1999
+bogy~
+{^B{$o{^G{$y{x~
+{^B{$o{^G{$y{x is here serving his community service.
+~
+~
+human~
+A DF 0 0 0
+170 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 10000000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1950
+dragon fang~
+a {$D{4rago{$n{x {!F{1an{!g{x~
+An extremely oversized and sharp fang.~
+metal~
+weapon AS AN
+dagger 10 9 pierce DH
+50 2 5000 P
+A
+19 5
+A
+2 1
+#1951
+massive branch redwood fallen~
+a fallen redwood branch~
+A massive branch from a redwood tree has fallen here.~
+wood~
+weapon S AN
+mace 4 10 smash 0
+25 5 0 P
+A
+1 2
+A
+18 7
+A
+19 9
+#1952
+soft pair of black leather boots~
+soft {8Leather{x boots{x~
+A pair of {8black leather{x boots~
+leather~
+armor SY AG
+BD BD BD BD 0
+50 1 5000 P
+A
+19 10
+#1953
+golden key~
+a {#Gol{3den{x Key~
+A key that looks to have major importance.~
+metal~
+key A AO
+0 0 0 0 0
+50 1 0 P
+A
+19 5
+A
+3 3
+A
+18 1
+#1954
+ankle bracelet~
+{!A{1n{!k{1l{!e{x {!B{1r{8a{&c{8l{!e{!t{x~
+A bloody rust-stained bracelet~
+unknown~
+armor ASY AT
+BD BD BD BD 0
+50 1 5000 P
+A
+19 5
+A
+13 50
+#1955
+long thin elven blade~
+a Long Thin Elven Blade~
+The Blade of a fallen Elf lies here, humming with great power~
+unknown~
+weapon AY AN
+sword 7 11 slice E
+45 0 2500 P
+A
+2 2
+A
+19 10
+#1956
+wicked memories~
+{8<>{!W{1i{8ck{1e{!d{8<>{1Me{8m{!o{!r{8i{1es{8<>{x~
+A TERRIBLE feeling lingers, looking for something to horrify~
+nonmetal~
+weapon FY AN
+sword 10 11 pierce J
+60 0 3000 P
+A
+19 8
+#1957
+tusken spear~
+a {&T{7uske{&n {8S{&p{7e{&a{8r{x~
+A long, ivory blade on the end of some kind of tribal stick.~
+ivory~
+weapon AY AN
+staff 11 12 thrust 0
+70 2 2500 P
+A
+13 70
+A
+19 11
+#1958
+red sword zar'roc~
+the {!R{1ed Blad{!e Z{1a{8r{&'{8r{1o{!c{x~
+A Large sword, thats looks as if it's been stained with blood~
+metal~
+weapon Y AN
+sword 2 50 slash AF
+50 5 5000 P
+A
+18 5
+A
+19 10
+#1959
+ebony shard~
+an {8Eb{&o{8ny{x {^S{6hard{x~
+A piece from shattered ivory, lies here humming menacingly.~
+ebony~
+weapon S AN
+dagger 12 11 pierce E
+70 1 3000 P
+#1960
+eye divine power~
+an {^E{6y{^e {&of {&D{7i{#vi{7n{&e {#P{&o{7w{&e{#r{x~
+An eye with divine power never before seen.~
+unknown~
+armor 0 AQ
+AC AC ABC BD 0
+70 0 2500 P
+A
+19 5
+A
+3 2
+A
+4 2
+#1961
+dwarven war axe~
+{!D{1w{8a{7r{8v{1e{!n{x {!W{1A{!R{x {8A{!x{8e{x~
+A WAR axe of dwarven ancestry lies here, with blood and a long thin scratch down the blade.~
+metal~
+weapon Y AN
+axe 12 12 cleave E
+80 3 3000 P
+A
+18 5
+A
+13 90
+A
+19 10
+#1962
+legendary sash morzan~
+{8Le{#ge{8n{#da{8ry{x {8S{#as{8h {8of {8M{!o{8rz{!a{8n{x~
+The legacy of Morzan, the fallen one, lies here, radiating immanent evil.~
+cloth~
+armor ASY AL
+AC AC AC AC 0
+80 0 2000 P
+A
+18 3
+A
+19 10
+A
+13 100
+#1963
+pool shimmering white liquid~
+a Shimmering White Pool~
+A shimmering white liquid.~
+liquid~
+furniture R 0
+CE CEFGHI FIL CDEFHJ CDFI
+101 0 0 P
+#1964
+red feather earring~
+{!R{1e{!d {&Fea{7t{&her{x {!E{1ar{&r{1in{!g{x~
+A red earring lies here discarded, with a red feather sewn into the making.~
+feather~
+armor SY AS
+AC AC AC AC 0
+80 0 3500 P
+A
+13 80
+A
+17 -15
+#1965
+blade secrecy~
+{!B{1la{8de of {1Secrec{!y{x~
+A blade that has been known to remain hidden because of the awful things it has endured lies here.~
+metal~
+weapon Y AN
+sword 12 12 slash E
+80 2 5000 P
+A
+19 11
+A
+13 100
+#1966
+platinm band blue dragon engraved~
+{$Bl{4ue Drag{$on {8Engraved {7Platinum Band{x~
+A band with a blue engraving lies here.~
+metal~
+armor AY AB
+BD BD BD BD 0
+40 1 5000 P
+A
+3 2
+#1967
+guardian spear~
+{&Gua{8rdian Sp{&ear{x~
+A long spear of great power lies here, from the result of someone's death.~
+metal~
+weapon Y AN
+staff 13 12 thrust F
+80 0 5000 P
+A
+18 11
+A
+18 10
+#1968
+grand sword~
+{#G{&ran{7d S{&wor{#d{x~
+A sword of great power lies here, radiating holy defiance.~
+metal~
+weapon Y AN
+sword 12 13 slash GH
+85 2 5000 P
+A
+13 50
+A
+19 10
+#1969
+gray hooded crimson robe~
+a {8Gray Hooded Robe{x~
+A gray robe stained with {1crimson blood{x from the battles of the Ancestrial BattleMages.~
+cloth~
+armor AY AK
+ABCD ABCD ABCD ABCD 0
+85 0 5000 P
+A
+28 5
+A
+3 1
+#1970
+opal pendant~
+{8Opal {*P{8endant{x~
+A dark pendant made from opal.~
+cloth~
+armor FR AC
+E ABCD ABCD ABCD 0
+87 2 5000 P
+A
+13 175
+#1971
+veil insight~
+{7V{&ei{7l {xof {7I{&n{3s{1i{3g{&h{7t{x~
+A veil of extreme abilities.~
+cloth~
+armor Y AR
+0 BD BD 0 0
+51 1 5000 P
+A
+2 1
+A
+3 2
+A
+4 2
+#1972
+bloody claws~
+{1B{1lo{!ody {!C{1laws{x~
+A pair of bloody claws lie here, seeming to be previously detached.~
+bone~
+weapon R AN
+exotic 13 12 claw D
+90 2 5000 P
+A
+2 1
+A
+13 150
+A
+19 15
+A
+18 10
+#1973
+ring eternal power~
+{8R{!in{1g {1of {*E{!t{1e{8r{1n{!a{*l {1P{!owe{*r{x~
+A ring lies here, humming with eternal power.~
+unknown~
+armor BS AB
+AC AC AC AC 0
+80 1 5000 P
+A
+19 11
+A
+13 80
+A
+1 1
+#1974
+reign terror strange force~
+{!<{1-{!>{8Rei{1g{!n of {!T{1er{8ror{!<{1-{!>{x~
+A strange force radiates a feeling of pure terror.~
+nonmetal~
+weapon Y AN
+exotic 2 70 wrath CJ
+75 4 5000 P
+A
+1 1
+A
+19 10
+#1975
+painting small key~
+painting of a key~
+{x~
+unknown~
+container RY 0
+100000 0 0 2 0
+55 0 0 P
+A
+20 -5
+#1976
+steel barbed wire key~
+{8 A Steel Barbed Wire Key{x~
+A Steel key made from pure barbed wire~
+steel~
+key Y A
+0 0 0 0 0
+55 1 0 P
+A
+19 10
+A
+13 50
+A
+18 2
+#1977
+silent prayers~
+{&S{7ilent {&P{7rayers{x~
+{&G{7leaming {&W{7hite {xhands in prayer.~
+unknown~
+armor SY AH
+BD BD BD BD 0
+75 1 5000 P
+A
+18 -8
+A
+28 3
+A
+5 1
+A
+4 1
+A
+3 1
+#1978
+death dealer~
+{8De{1a{^th Dea{1l{8er{x~
+The Death Dealer, stained with blood.~
+nonmetal~
+weapon Y AN
+dagger 10 13 stab E
+75 2 1010 P
+A
+18 11
+A
+19 15
+#1979
+large crack tree~
+a crack~
+A large crack runs down the trunk of a tree.~
+unknown~
+portal R 0
+0 0 BD BCEHKM 0
+0 0 0 P
+#1980
+eragon's throne~
+throne of Eragon~
+The Ancient Throne of Eragon, the DraGonRiDeR.~
+unknown~
+furniture 0 0
+A 0 F CEFGHI CEFGHI
+106 0 0 P
+A
+26 1
+#1981
+whispers of wisdom~
+{^W{6h{&i{7sp{&e{6r{^s {6o{^f {6W{^i{7s{&d{^o{6m{x~
+Whipsers swirl about~
+whisper~
+armor Yf AS
+ABF ABF ABF ABF 0
+101 0 5000 P
+A
+3 3
+A
+4 3
+#1982
+faith spellbound~
+{%Sp{$e{^l{6l{%b{^o{6u{$n{%d {&F{7a{6i{^t{&h{x~
+A faith humming with a magical essence~
+unknown~
+armor IYf AU
+AC AC AC ABF 0
+101 1 5000 P
+A
+13 50
+A
+20 -4
+A
+12 100
+#1983
+hammer forgemaster's~
+{1F{!or{3ge{#Ma{3st{!er'{!s {!H{1a{3m{#m{1e{!r{x~
+Mighty hammer belonging to the Forgemaster~
+hammer~
+armor IY AO
+BD BD BD BD 0
+101 15 5000 P
+A
+13 120
+A
+18 7
+A
+19 10
+#1984
+diamond antimagic~
+{$D{6i{^a{7m{^o{6n{$d {^o{$f {7A{^n{$t{7i{$M{^a{4g{6i{7c{x~
+A diamond in the rough~
+gem~
+armor If AO
+0 0 0 0 0
+101 1 5000 P
+A
+14 400
+A
+19 5
+A
+20 -4
+#0
+
+
+
+#ROOMS
+#1950
+Forest Clearing~
+The woods clear, as a large open space folds out.  There are cries of war
+in the distance, but they are faintly heard.  As the clearing comes into
+view, wildflowers have been trampled to the ground by massive force.  
+~
+0 0 0
+D0
+~
+~
+0 0 1951
+S
+#1951
+Open Clearing~
+The base of the mountain is coming into view.  There are trees outlining
+the base, and even more trees further up the mountain.  As the air thickens,
+there is a noticeable decrease in wildlife.  
+~
+0 0 0
+D2
+~
+~
+0 0 1950
+D4
+~
+~
+0 0 1952
+S
+#1952
+Mountainous Slope~
+The air is getting thinner, making it hard to breathe.  The urge to reach
+the top of the mountain overpowers the monotonous and excruciating nature of
+the climb.  
+~
+0 0 0
+D4
+~
+~
+0 0 1953
+D5
+~
+~
+0 0 1951
+S
+#1953
+Further Up the Mountain~
+The Mountain is now coming to a peak.  There are skeletons of past
+climbers who didn't make it, littering the ground.  As the air thins even
+more, the incline steepens.  
+~
+0 0 0
+D4
+~
+~
+0 0 1954
+D5
+~
+~
+0 0 1952
+S
+#1954
+Mysterious Peak~
+The mountain has finally come to a peak.  There is something strangely
+noticeable about about it.  The mountain seems to level off at the top.  
+~
+0 0 0
+D4
+~
+~
+0 0 1955
+D5
+~
+~
+0 0 1953
+S
+#1955
+Top of the Mountain~
+The peak of the mountain has finally been reached.  There is awe in the
+air, at the surrounding scenes.  There seems to be an ancient civilization
+resting atop the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1956
+D5
+~
+~
+0 0 1954
+S
+#1956
+Gates of Carvahall~
+The gates to this ancient city are well over 100 ft.  High.  They are
+made of iron mars, that bad battered in some places.  It looks as if war has
+stucken this civilization.  
+~
+0 0 1
+D0
+~
+~
+1 1953 1957
+D2
+~
+~
+0 0 1955
+S
+#1957
+Hrothgar Street~
+Once inside the great gates, there are streets leading east, west, and
+north.  Business is heard to be happening in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 1960
+D1
+~
+~
+0 0 1958
+D2
+~
+~
+1 0 1956
+D3
+~
+~
+0 0 1959
+S
+#1958
+Hrothgar Street~
+The lane continues east.  To the east, there are people in and out of two
+tents.  What they have gotten, cannot be seen because of the distance.  To
+the west,is back towards the gates.  
+~
+0 0 0
+D1
+~
+~
+0 0 1965
+D3
+~
+~
+0 0 1957
+S
+#1959
+Hrothgar Street~
+The road continues its course to the west.  There is a safe feeling
+drawing near.  What is it from?  
+~
+0 0 0
+D1
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1961
+S
+#1960
+Tronjheim Way~
+Not so far to the north is the spine.  South leads to the gates, healer,
+and shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1957
+S
+#1961
+End of the Lane~
+Desc The road no longer leads west, instead, its headed south.  The holy
+auras from the south send shivers down spines of the unholy ones.  To the
+south is a safe place.  
+~
+0 0 0
+D1
+~
+~
+0 0 1959
+D2
+~
+~
+0 0 1963
+S
+#1962
+Eragon's Place of Misfortune~
+~
+0 4 0
+S
+#1963
+Ajihad's {^H{6ealin{^g{x {$Sanctum{x~
+There is a pool of shimmering white liquid in the center of the room. 
+This room is safe from all harm.  A feeling of happiness fills this room,
+Holy Auras are felt.  
+~
+0 1024 0
+D0
+~
+~
+0 0 1961
+S
+#1964
+~
+~
+0 4 0
+S
+#1965
+End of the lane.~
+The road no longer leads east, but has split into a north and south lane.
+To the North, is Garrow's Armory.  And to the south, leads Jeod's Military
+Barracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 1966
+D2
+~
+~
+0 0 1967
+D3
+~
+~
+0 0 1958
+S
+#1966
+Garrow's Armory~
+An older man, comes out of a room in the back to help you.  Lr.  1 An
+older man, steps out of a section is the far corner of the room, and strides
+over to give his assisstance.  His baggy eyes and his tired shoulders, show
+his past.  
+~
+0 128 0
+D2
+~
+~
+0 0 1965
+S
+#1967
+Jeod's Military Barracks~
+Jeod is sharpening a large battle axe in the distance.  He is a short and
+stocky man, with a {1red{x beard down to his knees.  He is a man of many
+battles, a man of Dwarven heritage.  
+~
+0 128 0
+D0
+~
+~
+0 0 1965
+S
+#1968
+Shadowy Turn~
+Now that your away from the city, the Holy Aura is no longer felt. 
+Instead, there is a wave of uncertainty and weariness in the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1960
+S
+#1969
+Before the Spine~
+There is a string of small mountains ahead.  There are extremely large
+footprints on the ground, as if something not human had been here.  There is
+a cry of WAR in the distance.....  
+~
+0 0 0
+D0
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1968
+S
+#1970
+Entrance to the Spine~
+The base of the first mountain is near 300ft.  Across.  There is smoke in
+sight ahead.  More of the extremely large footprints are seen.  The prints
+lead up into the mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 1971
+D2
+~
+~
+0 0 1969
+S
+#1971
+In the Spine~
+A deep valley is between the first and second mountain.  The smoke is
+much more noticable now, and the smell of bloodshed and a feast.  There is
+death in the air.  Is is the creature, or some kind of prey?  
+~
+0 0 0
+D0
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1970
+S
+#1972
+Center of the Spine~
+There are mountains high and low on either side.  Each direction is
+beginning to look the same.  All except there is a fire burning at a nearby
+mountain, but no one is near it.  Would it be too risky to visit?  
+~
+0 0 0
+D1
+~
+~
+0 0 1973
+D2
+~
+~
+0 0 1971
+S
+#1973
+Entrance to Du Weldenvarden~
+There is a wall of marble, with intricately carved inscriptions in them. 
+It looks to be some kind of ancient language.  Maybe to ward of enemies or
+predators.  When a hand is placed on the wall, the ground beneath splits,
+and a single entrance point is noticable.  
+~
+0 0 0
+D3
+~
+~
+0 0 1972
+D5
+~
+~
+0 0 1974
+S
+#1974
+Grand Hall of Du Weldenvarden~
+The walls of the Great Hall aren't much taller than the average man. 
+Muffled sounds are heard in the distance, the voice is deep to some degree. 
+The floor is marble, with reflections of the torches hanging on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 1978
+D2
+~
+~
+0 0 1975
+D4
+~
+~
+0 0 1973
+S
+#1975
+Main Hall~
+Travelling down the main hall, the hallways become narrower.  Turning
+sideways to continue on is almost a must.  
+~
+0 0 0
+D0
+~
+~
+0 0 1974
+D2
+~
+~
+0 0 1976
+S
+#1976
+Dark Corridor~
+The torches on the walls have dimmed, and the hallway has grown darker. 
+The space in which the passing was narrow, has now widened to a mere 50 feet
+across.  Muffled cries are heard in the distance, although they don't seem
+human.  
+~
+0 0 0
+D0
+~
+~
+0 0 1975
+S
+#1978
+Main Hall~
+Travelling down the main hall, the hallways become narrower.  Turning
+sideways to continue on is almost a must.  
+~
+0 0 0
+D0
+~
+~
+0 0 1979
+D2
+~
+~
+0 0 1974
+S
+#1979
+Dark Corridor~
+The torches on the walls have dimmed, thus the hallway has grown much
+darker.  The space in which the passing was narrow, has now widened to a
+mere 50 feet across.  Muffled cries are heard in the distance, they seem to
+be unhuman.  
+~
+0 0 0
+D2
+~
+~
+0 0 1978
+D5
+~
+~
+0 0 1980
+S
+#1980
+Secret Passage~
+The only light is from where you came.  The compartment is damp, and has
+a wierd smell to it.  There is wave of weariness over the room, and the
+presence of danger is understandable.  
+~
+0 0 0
+D2
+~
+~
+0 0 1981
+D4
+~
+~
+0 0 1979
+S
+#1981
+Evil Sanctuary~
+There are skulls of all shapes and sizes littering the black marble
+pedestal, the brahmin is nowhere to be seen.  A room of ancestial
+ceremonies, burials, and rituals.  It was also known to be host to the Life
+After Death ritual.  
+~
+0 0 0
+D0
+~
+~
+0 0 1980
+D2
+~
+~
+0 0 1982
+S
+#1982
+Hall of Despair~
+Upon arival in a spectacular hallway fit for a king, portraits of many
+great Warriors crowd one wall, while Evil sorcerors are gathered on the
+opposite wall.  The hallway continues south, and a weary sense of danger is
+present.  
+~
+0 4 0
+D0
+~
+~
+0 0 1981
+D2
+~
+~
+0 0 1983
+S
+#1983
+Hall of Despair~
+The hallway has become larger than before, while the portraits continue
+to line the walls, except for the fact, there are now Pure souled Sorcerors
+on the wall opposite the warriors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1982
+D2
+~
+~
+0 0 1984
+S
+#1984
+Bend in the hallway~
+The portraits of the many battles end, and darkness creeps into the
+hallway.The presence of danger has become more acute.
+~
+0 0 0
+D0
+~
+~
+0 0 1983
+D1
+~
+~
+0 0 1985
+S
+#1985
+Royal Hallway~
+Gold and platinum line the rails and portraits of new found battles and
+epics.  The portraits continue to be warriors and sorcerors, until one
+picture is noticable beyond all others.  The frame is made out of solid
+gold, while the portrait itself is dark, with a small, and simple picture of
+nothing but a key.  
+~
+0 0 0
+D0
+~
+~
+0 0 1986
+D3
+~
+~
+0 0 1984
+S
+#1986
+Silent Turn~
+All is quiet, as the portaits and paintings end.  Nothing lies here but
+dark stone, leading to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1987
+D2
+~
+~
+0 0 1985
+S
+#1987
+Grand Entrance~
+The chatter of royalty is heard ahead,it is noticably faint,but it is
+there.  Long chandelliers line the ceiling, in odd patterns and directions. 
+~
+0 0 0
+D0
+~
+~
+4 1976 1988
+D3
+~
+~
+0 0 1986
+S
+#1988
+Grand Throne room of King Kalsagorik~
+The grandest room known to the Varden, the Throne room of King
+Kalsagoric.  Heads of befallen foes form a circle around the throne,where
+weapons lie scattered upon the floor.  
+~
+0 0 0
+D2
+~
+~
+4 0 1987
+S
+#1999
+Heroes Artifact Vault~
+A big open room is here covered in scrools, wands, and potions.  Theres a
+short, skinny young human standing behind the counter looking very
+disappointed in his job.  
+~
+0 73860 0
+E
+down~
+~
+S
+#0
+
+
+
+#SPECIALS
+M 1957 spec_cast_mage Load to: Brom
+M 1958 spec_cast_mage Load to: Durza
+M 1961 spec_thief Load to: Solumbum
+M 1968 spec_thief Load to: Murtagh
+M 1973 spec_cast_mage Load to: {8Bat{1tleMag{8e{x
+M 1974 spec_cast_mage Load to: {!G{8ri{!st{x
+M 1977 spec_cast_mage Load to: A High Priest
+M 1979 spec_thief Load to: {8Hired {8Assassin{x
+S
+
+
+
+#RESETS
+D 0 1956 0 2 The north door of Gates of Carvahall is closed and locked
+D 0 1957 2 2 The south door of Hrothgar Street is closed and locked
+D 0 1987 0 2 The north door of Grand Entrance is closed and locked
+D 0 1988 2 2 The south door of Grand Throne room of King Kalsagorik is closed and locked
+O 0 1979 0 1950 *A crack loaded to Forest Clearing
+M 0 1950 3 1950 3 *Load A Barbarian
+E 0 1951 0 16 *A fallen redwood branch is loaded wielded of A Barbarian
+M 0 1950 3 1950 3 *Load A Barbarian
+E 0 1951 0 16 *A fallen redwood branch is loaded wielded of A Barbarian
+M 0 1950 3 1950 3 *Load A Barbarian
+E 0 1951 0 16 *A fallen redwood branch is loaded wielded of A Barbarian
+M 0 1951 3 1951 3 *Load A Black Bear
+M 0 1951 3 1951 3 *Load A Black Bear
+M 0 1951 3 1951 3 *Load A Black Bear
+M 0 1952 3 1952 1 *Load A Spotted Llama
+M 0 1953 2 1953 1 *Load An Artic Fox
+M 0 1955 2 1956 1 *Load A Slender Elf
+E 0 1955 0 16 *A long thin elven blade is loaded wielded of A Slender Elf
+G 0 1953 0 *A {#gol{3den{x key is given to A Slender Elf
+M 0 1957 1 1957 1 *Load Brom
+E 0 1966 0 1 *{$bl{4ue drag{$on {8engraved {7platinum band{x is loaded on the left finger of Brom
+E 0 1960 0 18 *An {^e{6y{^e {&of {&d{7i{#vi{7n{&e {#p{&o{7w{&e{#r{x is loaded floating nearby of Brom
+M 0 1964 3 1958 3 *Load An {8A{4rm{8y{x {!V{1e{&t{$e{&r{1a{!n{x
+M 0 1964 3 1958 3 *Load An {8A{4rm{8y{x {!V{1e{&t{$e{&r{1a{!n{x
+M 0 1964 3 1958 3 *Load An {8A{4rm{8y{x {!V{1e{&t{$e{&r{1a{!n{x
+M 0 1963 3 1959 3 *Load A Scavenger
+M 0 1963 3 1959 3 *Load A Scavenger
+M 0 1963 3 1959 3 *Load A Scavenger
+M 0 1954 3 1961 3 *Load A Citizen
+M 0 1954 3 1961 3 *Load A Citizen
+M 0 1954 3 1961 3 *Load A Citizen
+O 0 1980 0 1962 *Throne of eragon loaded to Eragon's Place of Misfortune
+M 0 1956 1 1963 1 *Load Ajihad
+O 0 1963 0 1963 *A shimmering white pool loaded to Ajihad's {^H{6ealin{^g{x {$Sanctum{x
+M 0 1962 3 1965 3 *Load An {&Elderly {!Man{x
+M 0 1962 3 1965 3 *Load An {&Elderly {!Man{x
+M 0 1962 3 1965 3 *Load An {&Elderly {!Man{x
+M 0 1966 1 1966 1 *Load Garrow, the Merchant
+G 0 1952 0 *Soft {8leather{x boots{x is given to Garrow, the Merchant
+G 0 1954 0 *{!a{1n{!k{1l{!e{x {!b{1r{8a{&c{8l{!e{!t{x is given to Garrow, the Merchant
+M 0 1967 1 1967 1 *Load Jeod
+G 0 1950 0 *A {$d{4rago{$n{x {!f{1an{!g{x is given to Jeod
+G 0 1958 0 *The {!r{1ed blad{!e z{1a{8r{&'{8r{1o{!c{x is given to Jeod
+M 0 1958 1 1968 1 *Load Durza
+E 0 1956 0 16 *{8<>{!w{1i{8ck{1e{!d{8<>{1me{8m{!o{!r{8i{1es{8<>{x is loaded wielded of Durza
+M 0 1959 3 1971 3 *Load An Urgal Chief
+E 0 1957 0 16 *A {&t{7uske{&n {8s{&p{7e{&a{8r{x is loaded wielded of An Urgal Chief
+M 0 1960 3 1971 3 *Load An Urgal Warrior
+E 0 1957 0 16 *A {&t{7uske{&n {8s{&p{7e{&a{8r{x is loaded wielded of An Urgal Warrior
+M 0 1960 3 1971 3 *Load An Urgal Warrior
+E 0 1957 0 16 *A {&t{7uske{&n {8s{&p{7e{&a{8r{x is loaded wielded of An Urgal Warrior
+M 0 1961 1 1972 1 *Load Solumbum
+E 0 1959 0 16 *An {8eb{&o{8ny{x {^s{6hard{x is loaded wielded of Solumbum
+M 0 1969 1 1974 1 *Load The Varden Guardian
+E 0 1967 0 16 *{&gua{8rdian sp{&ear{x is loaded wielded of The Varden Guardian
+M 0 1965 2 1975 2 *Load A Stocky Dwarf
+E 0 1961 0 16 *{!d{1w{8a{7r{8v{1e{!n{x {!w{1a{!r{x {8a{!x{8e{x is loaded wielded of A Stocky Dwarf
+M 0 1965 2 1975 2 *Load A Stocky Dwarf
+E 0 1961 0 16 *{!d{1w{8a{7r{8v{1e{!n{x {!w{1a{!r{x {8a{!x{8e{x is loaded wielded of A Stocky Dwarf
+M 0 1968 1 1976 1 *Load Murtagh
+E 0 1964 0 21 *{!r{1e{!d {&fea{7t{&her{x {!e{1ar{&r{1in{!g{x is loaded on the ears of Murtagh
+E 0 1965 0 16 *{!b{1la{8de of {1secrec{!y{x is loaded wielded of Murtagh
+M 0 1970 2 1978 2 *Load {#G{&ran{7d W{&arrio{#r{x
+E 0 1968 0 16 *{#g{&ran{7d s{&wor{#d{x is loaded wielded of {#G{&ran{7d W{&arrio{#r{x
+M 0 1970 2 1978 2 *Load {#G{&ran{7d W{&arrio{#r{x
+E 0 1968 0 16 *{#g{&ran{7d s{&wor{#d{x is loaded wielded of {#G{&ran{7d W{&arrio{#r{x
+M 0 1971 1 1979 1 *Load The {#S{&p{7ir{&i{#t{x of {8M{!o{8rz{!a{8n{x
+E 0 1962 0 13 *{8le{#ge{8n{#da{8ry{x {8s{#as{8h {8of {8m{!o{8rz{!a{8n{x is loaded around the waist of The {#S{&p{7ir{&i{#t{x of {8M{!o{8rz{!a{8n{x
+M 0 1972 2 1980 2 *Load {8A Dark Fiend{x
+M 0 1972 2 1980 2 *Load {8A Dark Fiend{x
+M 0 1973 2 1981 2 *Load {8Bat{1tleMag{8e{x
+E 0 1969 0 12 *A {8gray hooded robe{x is loaded about the shoulders of {8Bat{1tleMag{8e{x
+M 0 1973 2 1981 2 *Load {8Bat{1tleMag{8e{x
+E 0 1969 0 12 *A {8gray hooded robe{x is loaded about the shoulders of {8Bat{1tleMag{8e{x
+M 0 1974 1 1981 1 *Load {!G{8ri{!st{x
+E 0 1971 0 20 *{7v{&ei{7l {xof {7i{&n{3s{1i{3g{&h{7t{x is loaded on the face of {!G{8ri{!st{x
+M 0 1975 1 1982 1 *Load A Howling Beast
+E 0 1972 0 16 *{1b{1lo{!ody {!c{1laws{x is loaded wielded of A Howling Beast
+M 0 1975 1 1982 2 *Load A Howling Beast
+E 0 1973 0 16 *{8r{!in{1g {1of {*e{!t{1e{8r{1n{!a{*l {1p{!owe{*r{x is loaded wielded of A Howling Beast
+M 0 1976 2 1983 1 *Load {#R{&o{7yal Gua{&rdia{#n{x
+O 0 1975 0 1985 *Painting of a key loaded to Royal Hallway
+P 0 1976 1 1975 1 *{8 a steel barbed wire key{x put inside {8 A Steel Barbed Wire Key{x
+M 0 1979 1 1986 1 *Load {8Hired {8Assassin{x
+E 0 1978 0 16 *{8de{1a{^th dea{1l{8er{x is loaded wielded of {8Hired {8Assassin{x
+M 0 1977 1 1987 1 *Load A High Priest
+E 0 1977 0 9 *{&s{7ilent {&p{7rayers{x is loaded on the hands of A High Priest
+M 0 1978 1 1988 1 *Load {!K{1ing {^Ka{6lsa{1gori{!k{x
+E 0 1973 0 1 *{8r{!in{1g {1of {*e{!t{1e{8r{1n{!a{*l {1p{!owe{*r{x is loaded on the left finger of {!K{1ing {^Ka{6lsa{1gori{!k{x
+E 0 1974 0 16 *{!<{1-{!>{8rei{1g{!n of {!t{1er{8ror{!<{1-{!>{x is loaded wielded of {!K{1ing {^Ka{6lsa{1gori{!k{x
+M 0 1976 1 1988 3 *Load {#R{&o{7yal Gua{&rdia{#n{x
+E 0 1967 0 16 *{&gua{8rdian sp{&ear{x is loaded wielded of {#R{&o{7yal Gua{&rdia{#n{x
+M 0 1976 1 1988 1988 *Load {#R{&o{7yal Gua{&rdia{#n{x
+E 0 1967 0 16 *{&gua{8rdian sp{&ear{x is loaded wielded of {#R{&o{7yal Gua{&rdia{#n{x
+M 0 1999 1 1999 1 *Load {^B{$o{^G{$y{x
+S
+
+
+
+#SHOPS
+1966 9 0 0 0 0 100 100 0 23
+1967 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#1958
+mob backstab $n
+backstab $n
+~
+#0
+
+#$

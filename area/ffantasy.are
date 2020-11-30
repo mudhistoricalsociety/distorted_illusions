@@ -1,0 +1,4364 @@
+#AREADATA
+Name Ivalice~
+Builders None~
+VNUMs 16800 16999
+Continent 1
+Credits {y[{Y70-101{y]{c Deblin   {YIvalice{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#16800
+grizzed old man~
+The Old Man~
+An old man is here, smiling at you.
+~
+This is an ancient man.  By all stretches of the imagination, this person
+shouldnt be living, much less moving about.  His body is atrophied, but his
+eyes show infinite intelegence and vigor.  
+~
+human~
+ABY JY 0 1000 0
+120 0 5000d1+1 100000d1+1 20d1+5 divine
+-5 -5 -5 -5
+0 AB 0 R
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 16800 100~
+#16801
+yellow panther~
+a {#Y{3ellow {3Pa{#nth{3er{x~
+A {#Y{3ellow Pa{#nth{3er{x rests in the sunlight.
+~
+~
+dog~
+AB Z 0 -100 0
+120 50 5000d1+1000 10d100+0 10d10+20 claw
+-15 -15 -15 -5
+FH AB HL T
+sit stand male 20000
+AGV ACDEFHJKQUV medium unknown
+#16802
+Goblin~
+A {3Go{2bl{3in{x~
+A {3Go{2bl{3in{x is here, fighting with his comrade.
+~
+~
+goblin~
+AB J 0 -700 0
+120 40 6500d1+1000 1d1+1 10d10+20 punch
+-12 -5 -12 -20
+DFHIU AB 0 S
+stand stand male 25000
+AHMV ABCDEFGHIJK small unknown
+#16803
+Black Goblin~
+a {8Black {7gob{8lin{x~
+A {8Black {7gob{8lin{x is reaping havoc here.
+~
+~
+goblin~
+A J 0 -850 0
+135 50 7000d1+1000 1d1+1 10d10+30 pound
+-20 -30 -20 -10
+DFHN AB 0 S
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#16804
+Goblin~
+A goblin~
+A small goblin is here.
+~
+~
+goblin~
+AH J 0 -250 0
+120 30 5000d1+1000 1d1+1 10d10+10 punch
+-10 -10 -10 0
+HN AB 0 S
+stand stand female 20000
+AHMV ABCDEFGHIJK small unknown
+#16805
+cadet soldier~
+A cadet~
+A cadet is here, sparring with a dummy.
+~
+~
+human~
+AB 0 0 800 0
+115 45 5000d1+1000 100d100+1 10d10+10 slash
+-10 -20 -10 -10
+CFHIKU AB 0 J
+stand stand male 40000
+AHMV ABCDEFGHIJK medium unknown
+#16806
+Knight~
+A Knight~
+A knight is here, training new recriuts.
+~
+~
+human~
+AB 0 0 800 0
+135 50 5000d1+5000 1d1+1 10d10+25 slash
+-10 -10 -10 -5
+CDEFHIK AB F 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+#16807
+Castle guard~
+A {^C{6astle {^G{6uard{x~
+A {^C{6astle {^G{6uard{x is here, looking very sleepy
+~
+~
+human~
+AB DF 0 850 0
+140 50 8000d1+7000 0d0+0 10d10+80 none
+-30 -20 -20 -5
+FHIKU 0 F J
+stand stand male 60000
+AHMV ABCDEFGHIJK medium unknown
+#16808
+Smith Blacksmith~
+An Igros Smithy~
+Igros's smithy is in the corner, going about his business.
+~
+~
+human~
+AB 0 0 750 0
+150 35 5000d1+5000 100d100+100 10d20+1 pierce
+-20 -20 -20 -20
+CDH AB 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#16809
+Priest~
+The Priest~
+A priest is here, lighting candles.
+~
+~
+human~
+AB K 0 -1000 0
+150 20 1d1+12000 1000d1000+1000 10d20+0 flame
+-20 -20 -20 -20
+FGHN 0 0 N
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#16810
+Peasant~
+A Peasant~
+A poor peasant is here, praying
+~
+~
+human~
+ABH 0 0 1000 0
+120 0 4000d1+1 100d100+1 5d10+1 punch
+-10 -10 -10 -30
+H 0 0 E
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#16811
+Gafgarion~
+Gafgarion~
+Gafgarion is here, pacing impatiently.
+~
+~
+human~
+A 0 0 -1000 0
+160 50 10000d1+5000 1d1+1 25d10+0 drain
+-40 -40 -40 -10
+DFHIK 0 N 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#16812
+Agrias~
+Agrias~
+Agrias, the holy knight, sits here.
+~
+~
+human~
+AB 0 0 1000 0
+140 50 10000d1+5000 1d1+1 25d10+0 slash
+-40 -40 -40 -10
+FHIK N 0 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+#16813
+Delita~
+Delita~
+Delita is here, sitting quietly.
+~
+~
+human~
+AB 0 0 1000 0
+140 50 10000d1+5000 1d1+1 25d10+0 slash
+-40 -40 -40 -10
+DFHIK 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#16814
+Zalbag~
+Zalbag~
+Zalbag is here, conversing with the others.
+~
+~
+human~
+AB 0 0 250 0
+130 50 10000d1+5000 1d1+1 25d10+0 slash
+-40 -40 -40 -10
+DFHIK 0 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#16815
+Dycedarg~
+Dycedarg~
+Dycedarg is here.
+~
+~
+human~
+AB 0 0 250 0
+135 50 10000d1+1 1d1+1 20d10+0 punch
+-40 -40 -40 -10
+FHK 0 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#16816
+Orlandu~
+Orlandu~
+Orlandu, the master knight, is here.
+~
+~
+human~
+AB 0 0 1000 0
+150 50 10000d1+10000 1000d1000+1000 20d20+20 slash
+-40 -40 -40 -10
+DFHIK ABN EFGM 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#16817
+Ramza~
+Ramza~
+Ramza is here, with his sword drawn.
+~
+~
+human~
+AB 0 0 250 0
+140 50 10000d1+5000 1d1+1 10d10+30 chomp
+-40 -40 -40 -10
+DFHIK AB 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#16819
+Prince Goltana~
+Prince Goltana~
+Prince Goltana is here, at the head of the table.
+~
+~
+human~
+AB 0 0 1000 0
+140 50 10000d1+10000 1000d1000+1000 20d20+20 slash
+-40 -40 -40 -10
+DFHIK ABN EFGM 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#16820
+Armorer~
+The Armorer~
+The armorer is here, taking inventory.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16821
+Shop Owner Accessory~
+The Accessory Shop Owner~
+The accessory shop owner is here.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16822
+tutor headmaster~
+The Headmaster~
+The headmaster is here, tutoring recriuts.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16823
+The Tanner~
+The Tanner~
+The tanner is here, working on a pelt.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16824
+The Machinist~
+The Machinist~
+One of Goug's Machinists is here, tinkering.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16825
+Bartender~
+The Bartender~
+The bartender is here, spreading rumors.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16826
+Alchemist~
+The Alchemist~
+The Alchemist is sorting through some books.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16827
+Warjilis blacksmith~
+The Blacksmith~
+Warjilis's blacksmith is here.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16828
+Wandering Merchant~
+The Wandering Merchant~
+The Wandering Merchant is here, selling his wares.
+~
+~
+human~
+A DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand male 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16829
+Archaic Demon~
+An Archaic Demon~
+An Archaic Demon is here, radiating evil.
+~
+~
+draconian~
+ABFO DFGJKTZ 0 -1000 0
+150 50 1d1+25000 100d100+1000 20d20+20 shbite
+-10 -10 -10 -10
+DFHIKU AB E N
+stand stand none 50000
+AHMVXc ABCDEFGHIJKPQ huge unknown
+F vul F
+#16830
+Ultima Demon~
+An Ultima Demon~
+The Ultima Demon, an embodiment of pure evil, is here.
+~
+~
+draconian~
+ABFO DFJKT 0 -1000 0
+150 50 1d1+35000 1000d1000+1 50d15+20 blaze
+-10 -10 -10 -10
+DFHIKR ABC E 0
+stand stand none 80000
+AHMVXc ABCDEFGHIJKPQ huge unknown
+F vul F
+#16831
+Juravis~
+A Juravis~
+A Juravis is flying about.
+~
+~
+water fowl~
+A JTb 0 0 0
+120 30 5000d1+1000 1d1+1 10d10+10 peck
+-10 -10 -10 0
+HN AB R S
+stand stand either 20000
+AGHMVW ABCDEFGHIJKP small unknown
+#16832
+iron golem~
+An {&Iron Golem{x~
+An {&Iron Golem{x is loading crates.
+~
+~
+human~
+AB DF 0 0 0
+150 50 10000d1+0 0d0+0 10d10+20 none
+-60 -60 -60 -60
+FHIKU C D J
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#16833
+iron golem~
+An {&Iron Golem{x~
+An {&Iron Golem{x is here, stacking bricks.
+~
+~
+human~
+AB DF 0 0 0
+150 50 10000d1+2000 0d0+0 10d10+20 none
+-60 -60 -60 -60
+FHIKU C D J
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#16834
+Weaponsmith~
+The weaponsmith~
+The weaponsmith is here, stringing a bow.
+~
+~
+human~
+AB DFJZ 0 0 0
+120 1 10d10+10 1d1+11 1d1+100 punch
+0 0 0 0
+0 0 0 0
+stand stand either 20000000
+AHMV ABCDEFGHIJK medium unknown
+#16835
+knight~
+A {8Knight{x~
+A {8Knight{x is here, fighting the undead.
+~
+~
+human~
+A 0 0 1000 0
+130 50 1d1+10000 1d1+1 10d10+20 slash
+-10 -10 -10 -10
+FHIKS 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#16836
+Squire~
+a {$S{4quire{x~
+A {$S{4quire{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 slash
+-10 -10 -10 -10
+FHIK 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16837
+chemist~
+A {@C{2hemist{x~
+A {@C{2hemist{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 pierce
+-10 -10 -10 -10
+FH 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16838
+Time mage~
+A {%T{5ime {%M{5age{x~
+A {%T{5ime {%M{5age{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 pierce
+-10 -10 -10 -10
+FH 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16839
+bard~
+A {#B{3ard{x~
+A {#B{3ard{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 sonic
+-10 -10 -10 -10
+FH 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16840
+samurai~
+A {!S{1amurai{x~
+A {!S{1amurai{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+10000 1d1+1 10d10+20 slash
+-10 -10 -10 -10
+FHIK 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16841
+lancer~
+A {8L{&ancer{x~
+A {8L{&ancer{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+12000 1d1+1 10d10+20 cleave
+-10 -10 -10 -10
+FHIK 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16842
+geomancer~
+A {@G{2eo{@man{2ce{@r{x~
+A {@G{2eo{@man{2ce{@r{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 shock
+-10 -10 -10 -10
+FH 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16843
+archer~
+An {3Ar{#ch{3er{x~
+An {3Ar{#ch{3er{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+7000 1d1+1 10d10+20 pierce
+-10 -10 -10 -10
+FHIK 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16844
+Wizard~
+A {%W{5izard{x~
+A {%W{5izard{x is here.
+~
+~
+human~
+A 0 0 1000 0
+120 50 1d1+5000 1d1+1 10d10+20 magic
+-10 -10 -10 -10
+FH 0 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#16845
+mindflare~
+A Mindflare~
+A Mindflare is here, devouring an animal.
+~
+~
+beastman~
+A J 0 -1000 0
+135 0 1d1+13000 0d0+0 10d10+35 psias
+-10 -10 -10 -10
+H P C S
+stand stand none 25000
+AHMV ABCDEFGHIJKN medium unknown
+#16846
+chocobo yellow~
+A {#Yellow{x Chocobo~
+A {#Yellow{x Chocobo is resting here.
+~
+~
+water fowl~
+A Tb 0 0 0
+120 20 1d1+5000 100d100+1 10d10+10 peck
+-10 -10 -10 -10
+H 0 R 0
+stand stand none 20000
+AGW ACDEFHKP medium unknown
+#16847
+black chocobo~
+A {8Black{x Chocobo~
+A {8Black{x Chocobo is fishing in the waters.
+~
+~
+water fowl~
+A Tb 0 0 0
+130 30 1d1+8000 100d100+1 10d10+30 peck
+-10 -10 -10 -10
+H 0 R 0
+stand stand none 30000
+AGW ACDEFHKP medium unknown
+#16848
+ghoul~
+A Ghoul~
+A Ghoul is here.
+~
+~
+human~
+AFO KTUY 0 -1000 0
+100 50 6000d1+0 0d0+0 10d10+20 drain
+0 0 0 0
+0 AB 0 HN
+stand stand none 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16849
+red chocobo~
+A {!R{1ed{x Chocobo.~
+A {!R{1ed{x Chocobo is here, eating some grass.
+~
+~
+water fowl~
+A Tb 0 0 0
+140 30 1d1+10000 100d100+1 10d10+40 peck
+-10 -10 -10 -10
+H 0 R 0
+stand stand none 30000
+AGW ACDEFHKP medium unknown
+#16850
+skeleton~
+A Skeleton~
+A skeleton is here.
+~
+~
+human~
+AO K 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 claw
+-10 -10 -10 -10
+FH AB 0 HN
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#16851
+writhing man~
+A Writhing Man~
+A Writhing Man is here, near death.
+~
+~
+human~
+AB 0 0 0 0
+1 300 100d100+0 0d0+0 1d1+8 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16852
+Archaic Demon~
+An Archaic Demon~
+An Archaic Demon is here, radiating evil.
+~
+~
+human~
+ABO K 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 blaze
+-10 -10 -10 -10
+FHK AB 0 N
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#16853
+Blue Dragon~
+A Blue Dragon~
+A Blue Dragon is here, breathing out a cone of cold.
+~
+~
+dragon~
+A JT 0 -1000 0
+140 50 15000d1+0 0d0+0 10d20+3 frbite
+-10 -10 -10 -10
+FHM AB H 0
+stand stand none 30000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F res BE
+F vul FI
+#16854
+green dragon~
+A Green Dragon~
+A Green Dragon is here.
+~
+~
+dragon~
+A JT 0 -1000 0
+140 50 14000d1+1 100d100+100 10d20+5 chomp
+-10 -10 -10 -10
+FHM AB 0 0
+stand stand male 30000
+AHMVZ ABCDEFGHIJKPQUVWX medium unknown
+F res BEH
+F vul FI
+#16855
+red dragon~
+A Red Dragon~
+A Red Dragon is here, radiating heat.
+~
+~
+dragon~
+A JT 0 -1000 0
+140 50 15000d1+0 0d0+0 10d20+3 flbite
+-10 -10 -10 -10
+FHM AB H 0
+stand stand none 30000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F res BE
+F vul FI
+#16856
+bull demon~
+A Bull Demon~
+A Bull Demon is standing here.
+~
+~
+minotaur~
+A JK 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 slice
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJKW medium unknown
+#16857
+minitaurus~
+A Minitaurus~
+A Minitaurus is here, wielding an axe.
+~
+~
+minotaur~
+A JK 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 chop
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJKW medium unknown
+#16858
+Sacred~
+A Sacred~
+A Sacred is here.
+~
+Done
+~
+minotaur~
+A JK 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 chop
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJKW medium unknown
+#16859
+Behemoth~
+A Behemoth~
+A Behemoth is here, snorting growling.
+~
+~
+minotaur~
+A JK 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 chomp
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHV ABCDEFGHIJKW medium unknown
+F for M
+#16860
+Dark Behemoth~
+A Dark Behemoth~
+A Dark Behemoth is here, its fangs dripping with blood.
+~
+~
+minotaur~
+A JK 0 -1000 0
+140 50 1d1+20000 0d0+0 10d20+5 bite
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHV ABCDEFGHIJKW medium unknown
+F for M
+#16861
+hyudra~
+A Hyudra~
+A Hyudra is here, gently flaping its wings.
+~
+~
+dragon~
+A JKTV 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 chomp
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHVZ ABCDEFGHIJKPQUVWX huge unknown
+F res BEH
+F vul FI
+#16862
+hydra~
+A Hydra~
+A Hydra is here, its 3 heads staring at you.
+~
+~
+dragon~
+A JKTV 0 -1000 0
+140 50 16000d1+0 0d0+0 10d10+25 chomp
+-10 -10 -10 -10
+FHK AB 0 0
+stand stand male 30000
+AHVZ ABCDEFGHIJKPQUVWX huge unknown
+F res BEH
+F vul FI
+#16863
+apanda gargoyal~
+An Apanda~
+A gargoyle creature is here, its fangs dripping with venom.
+~
+~
+dragon~
+ABF DFJKTV 0 -1000 0
+140 50 16000d1+0 0d0+0 10d20+20 chomp
+-10 -10 -10 -10
+DFHK AB 0 0
+stand stand either 30000
+AHVZ ABCDEFGHIJKPQUVWX huge unknown
+F res BEH
+F vul FI
+#16864
+Elidibs serpentarius~
+Elidibs~
+Elidibs is here, in his corrupted form.
+~
+~
+human~
+ABF DFV 0 -1000 0
+185 80 1d1+35000 1000d1000+0 50d10+0 acbite
+-10 -10 -10 -50
+DEFGHIM AB C 0
+stand stand male 30000
+AHMV ABCDEFGHIJK giant unknown
+#16865
+chemist pet~
+A Chemist~
+A chemist is here, aiding the leader.
+~
+A young person, this chemist is new to adventuring.  Wielding a variety
+of clerical magics.  
+~
+human~
+AI 0 0 0 0
+65 20 1d1+4500 500d500+5 10d10+0 pierce
+-10 -10 -10 -10
+H 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#16866
+squire pet~
+A Squire~
+A squire is here, following his leader.
+~
+A young person, they will follow their leader to the death.
+~
+human~
+AI V 0 0 0
+80 20 1d1+8000 500d500+9 10d10+20 pierce
+-15 -15 -15 -15
+FHK 0 0 0
+stand stand either 30000
+AHMV ABCDEFGHIJK medium unknown
+#16867
+Iron golem pet~
+An {&Iron Golem{x~
+An {&Iron Golem{x is here, following its master.
+~
+A very large being.  This humanoid mass of iron has a large head, and
+circular torso.  It looks incredably strong.  
+~
+human~
+A A 0 0 0
+100 10 1d1+10000 500d500+0 15d10+5 crush
+-30 -30 -30 -30
+0 0 D J
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#16868
+ghoul~
+A Ghoul~
+A Ghoul is here.
+~
+~
+human~
+AFO KTUY 0 -1000 0
+110 50 6000d1+0 0d0+0 10d10+20 drain
+0 0 0 0
+0 AB 0 HN
+stand stand none 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16869
+Caer Dominus~
+Caer Dominus~
+A scroll writer is here, doing his job.
+~
+~
+human~
+A 0 0 1000 0
+120 500 20d20+5000 0d0+0 20d20+5000 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16900
+head builder~
+A head for Raolin~
+Look! Deblin did his job and built a Head!
+~
+The illustrious Raolin told him to do his job, and he did!  Look, he built
+a head.  One fitting for the head builder.  
+~
+minotaur~
+AB J H 1000 0
+101 0 200d22+1 123d321+456 1d1+3 shock
+-10 -10 -10 -10
+CHI D 0 C
+stand stand none 10000
+AHMV A medium unknown
+F par BCDEFGHIJKW
+#16938
+pet imm~
+Deblin's pet~
+Deblin's pet is here, holding a 'Do Not Touch' sign
+~
+~
+dragon~
+A JTV 0 0 0
+107 200 1000d1000+1000 100d100+100 40d40+0 claw
+-50 -50 -50 -50
+CDGHI 0 0 0
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+F vul FI
+#0
+
+
+
+#OBJECTS
+#16800
+first portal past~
+portal to the past~
+The portal to the past floats here~
+Stone~
+portal ORT 0
+0 K A ACFHIO 0
+0 5000 0 P
+#16803
+portal return strange~
+strange Portal~
+A strange portal floats here~
+Stone~
+portal 0 0
+0 0 0 CFHIO 0
+0 5000 0 P
+#16804
+Slasher~
+a slasher~
+An axe with a very large blade is on the ground.~
+wood metal~
+weapon 0 AN
+axe 6 7 slash F
+20 20 12000 P
+A
+19 9
+#16805
+mythril spear~
+a mythril spear~
+A spear with a platinum tip is on the ground.~
+wood metal~
+weapon 0 AN
+staff 11 9 thrust F
+50 20 12000 P
+A
+19 12
+#16806
+Platina Dagger~
+a {8platina{x dagger~
+A dagger with a platinum blade is on the ground.~
+metal~
+weapon 0 AN
+dagger 8 6 slash 0
+30 5 12000 P
+A
+18 15
+#16807
+defender~
+defender~
+A sword is sticking out of the ground here.~
+metal~
+weapon 0 AN
+sword 14 9 slash 0
+75 5 12000 P
+A
+17 -50
+A
+2 2
+#16808
+mythril sword~
+a mythril sword~
+A blade made of platinum is here, attached to a hilt.~
+mythril~
+weapon 0 AN
+sword 14 9 slash 0
+70 10 16000 P
+A
+18 7
+A
+19 15
+#16809
+hard leather headgear~
+hard leather headgear~
+A helmet made of dark leather is here.~
+leather~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+70 5 12000 P
+A
+13 100
+#16810
+chain mail vest~
+a chain mail vest~
+A mess of chain is in the corner here.~
+steel~
+armor 0 AD
+ABCD ABCD ABCD ABCD 0
+70 5 12000 P
+A
+18 5
+A
+2 2
+A
+13 50
+#16811
+battle boots~
+battle boots~
+A pair of boots are on the ground.~
+leather~
+armor 0 AG
+D D D AB 0
+20 5 10000 P
+A
+14 50
+#16812
+power wrist~
+a pair of power wrists~
+A pair of gloves are on the ground here.~
+leather~
+armor 0 AH
+BC BC BC C 0
+20 5 10000 P
+A
+1 2
+#16813
+mythril armor platemail plate mail~
+mythril armor~
+A heavy piece of platemail is here.~
+steel~
+armor 0 AD
+ABCD ABCD ABCD ABCD 0
+75 20 20000 P
+A
+13 100
+#16814
+Main Gauche~
+a main gauche~
+A main gauche is here.~
+metal~
+weapon 0 AN
+dagger 8 12 slash 0
+55 5 12000 P
+A
+14 10
+A
+2 1
+A
+18 15
+A
+19 10
+#16815
+white robe~
+a white robe~
+A white robe is discarded here.~
+cloth~
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+85 5 12000 P
+A
+20 -2
+A
+13 100
+#16816
+blood sword~
+a {1Blood{x sword~
+An evil blade is here, sucking the life from the surroundings.~
+mythril~
+weapon E AN
+sword 21 8 drain C
+95 10 16000 P
+A
+18 8
+A
+19 13
+#16817
+cross helmet~
+a cross helmet~
+A reinforced helmet is here.~
+metal~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+80 5 23000 P
+A
+1 1
+A
+13 100
+#16818
+carbini mail armor~
+a set of carbini mail~
+A dark bronze set of armor is on the ground here.~
+steel~
+armor 0 AD
+ABE ABE ABE ABE 0
+75 20 20000 P
+A
+1 2
+A
+13 50
+#16819
+gold armor mail~
+gold armor~
+Several gold armor plates are on the ground here, connected by gold mail.~
+gold~
+armor 0 AD
+ABE ABE ABE ABE 0
+75 20 20000 P
+A
+18 5
+A
+19 5
+A
+13 50
+#16820
+gold shield~
+a gold shield~
+A gold shield is here.~
+gold~
+armor 0 AJ
+CE CE CE CE 0
+75 20 20000 P
+A
+13 50
+A
+2 2
+#16821
+ancient sword~
+an ancient sword~
+A very old blade is here.~
+mythril~
+weapon 0 AN
+sword 18 10 slash 0
+95 10 23000 P
+A
+19 4
+A
+3 1
+A
+4 1
+#16822
+aegis shield~
+an aegis shield~
+A reinforced shield is on the ground.~
+bronze~
+armor 0 AJ
+BD ACD ABCD BD 0
+80 10 20000 P
+A
+13 150
+#16823
+crystal shield~
+a crystal shield~
+A reinforced shield is on the ground.~
+crystal~
+armor 0 AJ
+CE CE CE ABCD 0
+85 10 35000 P
+A
+13 100
+#16824
+crystal helmet~
+a crystal helmet~
+A translucent helmet is on the ground here.~
+metal~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+85 5 23000 P
+A
+13 100
+A
+3 1
+#16825
+crystal mail~
+a set of crystal mail~
+S suit of crystal mail is here.~
+crystal~
+armor 0 AD
+ABE ABE ABE ABE 0
+90 20 100000 P
+A
+20 -2
+A
+13 50
+A
+1 2
+A
+3 1
+#16826
+excalibur~
+an Excalibur~
+A very large blade is on the ground.~
+mythril~
+weapon G AN
+sword 23 8 divine 0
+101 50 100000 P
+A
+19 10
+A
+18 15
+#16827
+iron sword~
+an iron sword~
+A sword made of iron is on the ground here.~
+iron~
+weapon 0 AN
+sword 9 6 slash 0
+30 5 20000 P
+F
+S 20 -1 N
+A
+19 5
+A
+18 5
+#16828
+round shield~
+a round shield~
+A round shield is on the ground here.~
+bronze~
+armor 0 AJ
+BD ABCD BD ABCD 0
+70 10 20000 P
+A
+13 100
+#16829
+iron helmet~
+an iron helmet~
+An iron helmet is here, it's begining to rust.~
+iron~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+70 5 12000 P
+A
+13 75
+A
+1 2
+#16830
+bronze armor~
+a set of bronze armor~
+A set of bronze mail is on the ground here.~
+bronze~
+armor 0 AD
+ACD ACD ACD ACD 0
+70 5 25000 P
+A
+13 100
+#16831
+wizard staff~
+a wizard staff~
+A wizard staff is here.~
+iron~
+weapon 0 AN
+mace 9 6 pound 0
+30 5 20000 P
+A
+3 2
+A
+20 -1
+A
+4 1
+#16832
+triangle hat~
+a triangle hat~
+A red wizard hat is on the ground here.~
+cloth~
+armor 0 AE
+BD BD BD AC 0
+65 5 28000 P
+A
+3 1
+A
+12 150
+#16833
+bloody strings~
+bloody strings~
+A red harp is on the ground here.~
+iron~
+weapon 0 AN
+exotic 8 6 drain C
+30 5 50000 P
+A
+18 5
+#16834
+lightning bow~
+a lightning bow~
+A sparkling yellow bow is on the ground.~
+iron~
+weapon 0 AN
+exotic 8 6 shock G
+30 5 50000 P
+A
+19 5
+#16835
+wizard robe~
+a wizard robe~
+A green robe is on the ground here.~
+clots~
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+65 5 30000 P
+A
+3 2
+A
+12 50
+A
+20 -1
+A
+4 1
+#16836
+masamune sword~
+a masamune~
+A very long sword is stuck in the ground here.~
+iron~
+weapon 0 AN
+sword 8 6 slash 0
+30 20 55000 P
+A
+19 15
+#16837
+gold helm~
+a gold helmet~
+A helmet made of gold is here.~
+gold~
+armor 0 AE
+BD BD BD D 0
+80 5 50000 P
+A
+13 150
+#16838
+Coffin~
+a coffin~
+A coffin is in the center of the room here, elevated.~
+super duper titanium~
+container GI 0
+1000 ACD 16839 1000 100
+0 500 500 P
+#16839
+demon claw key talon~
+a demon talon~
+A demon talon is here... it looks like a key.~
+demonskin~
+key 0 AH
+0 0 0 0 0
+0 1 1 P
+#16840
+adaman vest~
+an adaman vest~
+A padded vest is on the ground here.~
+steel~
+armor 0 AD
+BD ABCD ABCD D 0
+65 5 30000 P
+A
+13 100
+#16841
+cross religion patch holy armguard~
+a Holy Patch~
+A patch is here, a diamond cross sewn into it.~
+diamond~
+armor GIKTY AV
+ADE ADE ADE ADE 0
+101 20 100000 P
+A
+18 5
+A
+19 10
+#16842
+robe lords~
+a Robe of Lords~
+A beautiful robe is here.~
+mythril weave~
+armor AG AK
+CE CE CE CE 0
+101 5 30000 P
+A
+20 -1
+A
+13 100
+A
+18 5
+A
+19 5
+#16843
+Holy Stone Serpentarius~
+a Holy Stone, Serpentarius~
+A stone with the thirteenth zodiac symbol is here.~
+unknown~
+armor C AQ
+CE CE CE CE 0
+101 1 100000 P
+A
+18 10
+A
+19 10
+A
+13 100
+#16844
+unholy band~
+an Unholy Band~
+A metal band is on the ground, a star is on it.~
+diamond~
+armor GIJTY AV
+ABCD CE ABCE ADE 0
+101 20 100000 P
+A
+3 1
+A
+18 7
+A
+19 7
+A
+1 2
+#16845
+jade circle~
+a circle of jade~
+Several pieces of jade are connected by gold here.~
+jade~
+armor 0 AT
+BD BD BD BD 0
+70 2 100000 P
+A
+19 10
+A
+13 90
+#16846
+n-kai anklet~
+an n-kai anklet~
+A n-kai anklet is on the ground here.~
+jade~
+armor 0 AT
+AC AC AC AB 0
+70 2 100000 P
+A
+20 -2
+A
+18 7
+A
+12 70
+#16847
+chantage~
+some chantage~
+Some perfume floats here~
+perfume~
+armor 0 AC
+0 0 0 0 0
+5 2 35000 P
+A
+26 1
+A
+13 35
+#16848
+setiemson~
+a {@S{2etiemson{x~
+Some perfume floats here.~
+perfume~
+armor 0 AC
+ABCD ABCD ABCD 0 0
+100 2 100000 P
+A
+19 5
+F
+A 0 0 U
+A
+13 150
+#16849
+night killer bow crossbow~
+a night killer~
+A small crossbow is here.~
+ebony~
+weapon 0 AN
+exotic 14 3 pierce E
+30 0 15000 P
+A
+18 5
+#16851
+feather boots~
+feather boots~
+A pair of boots lie here.~
+leather~
+armor G AG
+0 0 0 0 0
+5 2 5000 P
+F
+A 0 0 T
+A
+12 90
+#16852
+bow gun~
+a bow gun~
+A small crossbow is here.~
+wood~
+weapon 0 AN
+exotic 9 4 pierce 0
+20 0 12000 P
+#16853
+elf mantle~
+an elf mantle~
+A translucent vest is on the ground here.~
+cloth~
+armor 0 AK
+ABF ABF ABF DF 0
+80 0 100000 P
+#16854
+hunting bow crossbow~
+a hunting bow~
+A large crossbow is here.~
+ebony~
+weapon 0 AN
+exotic 19 4 pierce 0
+45 0 15000 P
+A
+19 1
+A
+1 1
+#16855
+Blaze Gun~
+a blaze gun~
+A blaze gun is here, glowing.~
+metal~
+weapon 0 AN
+exotic 24 4 blaze A
+60 0 20000 P
+A
+19 6
+#16856
+glacier gun~
+a glacier gun~
+A gun is here, covered with ice.~
+metal~
+weapon 0 AN
+exotic 32 4 chill B
+80 0 25000 P
+A
+19 5
+A
+18 10
+#16857
+blast gun~
+a Blast Gun~
+A gun is here, giving off sparks.~
+metal~
+weapon 0 AN
+exotic 37 4 shock G
+90 0 30000 P
+A
+19 8
+#16858
+corpse thief~
+the corpse of the thief~
+A thieve's corpse is here, it was recently killed.~
+flesh~
+container 0 0
+1000 0 0 1000 100
+0 500 500 P
+#16859
+mark thief guild~
+a Mark of the Thieve's Guild~
+A strange mark is here.~
+magic cloth~
+armor Y AU
+ABCD ABCD ABCD ABCD 0
+101 0 0 P
+A
+13 100
+A
+18 8
+#16860
+X potion xpotion~
+an X potion~
+A large potion is here.~
+glass~
+potion 0 A
+140 'cure critical' '' '' ''
+100 0 2000 P
+#16861
+potion hi hipotion~
+a hi-potion~
+A blue potion is here.~
+glass~
+potion 0 A
+70 'cure critical' '' '' ''
+35 0 4000 P
+#16862
+ether green potion~
+an ether potion~
+A green potion is here.~
+glass~
+potion 0 A
+140 'restore mana' '' '' ''
+50 0 5000 P
+#16863
+antidote~
+an antidote~
+An antidote is here.~
+glass~
+potion 0 A
+50 'cure poison' 'cure disease' '' ''
+35 0 5000 P
+#16864
+eye drop~
+an eye drop~
+An eye drop is here.~
+glass~
+potion 0 A
+60 'cure blindness' '' '' ''
+60 0 20000 P
+#16865
+scroll useless~
+a scroll marked 'useless'~
+A scroll sits here, hardly worth stepping over.~
+unknown~
+scroll ABTY AO
+115 'chain lightning' 'lightning breath' 'reserved' 'reserved'
+101 0 5000 P
+#16900
+slot machine~
+{$D{4eblin's {$S{4lot {$M{4achine{x ~
+{$D{4eblin's {$S{4lot {$M{4achine{x is here.~
+unknown~
+slotmachine ORYd AO
+AC GIJLOSTW AC A 0
+0 1000000 5 P
+#16901
+diamond chest~
+{7Diamond {8Chest{x~
+A {7Diamond {8Chest{x sits here eminating with power.~
+diamond~
+container A A
+0 ACD 16904 0 81
+1 50000 0 P
+#16902
+ruby chest~
+{!Ruby {8Chest{x~
+A {RRuby {DChest {xsits here eminating with power.{x~
+diamond~
+container A A
+0 ACD 16905 0 81
+1 50000 0 P
+#16903
+emerald chest~
+{GEmerald {DChest{x~
+An {@Emerald {8Chest{x is here, eminating power.~
+diamond~
+container A A
+0 ACD 16906 0 81
+1 50000 0 P
+#16904
+diamond key studded~
+{@(<<{7Diamond-Studded{@>>} {8Key{x~
+A {@(<<{7Diamond-Studded{@>>} {8Key{x is here~
+unknown~
+key T A
+0 0 0 0 0
+0 0 0 P
+#16905
+Jagged Ruby Key~
+{G(<<{RJagged-Ruby{G)>> {DKey{x~
+{G(<<{RJagged-Ruby{G)>> {DKey{x is here.~
+unknown~
+key T A
+0 0 0 0 0
+0 0 0 P
+#16906
+Encrusted Emerald key~
+{D(<<{GEncrusted-Emerald{D)>> {DKey{x~
+An {D(<<{GEncrusted-Emerald{D)>> {DKey{x is here.~
+unknown~
+key T A
+0 0 0 0 0
+0 0 0 P
+#16907
+diamond key studded~
+{D(<<{!Q{@U{#E{$S{%T{D)>> {wKey{x~
+A {D(<<{!Q{@U{#E{$S{%T{D)>> {wKey{x is here.~
+unknown~
+key T A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#16800
+A Dusty Trail~
+By the looks of it, this fork in the road is rarely traveled.  The sounds
+of merchant caravans can be heard behind you.  In front, the road continues
+and you can make out a faint shape of a building.
+~
+0 4 2
+D0
+~
+~
+0 0 16801
+D2
+~
+~
+0 0 9790
+S
+#16801
+A Dusty Trail~
+The house is closer now.  It is quaint, and isolated.  The small dwelling
+looks like it is just large enough for one person.  You see movement through
+the window.  
+~
+0 0 2
+D0
+~
+~
+0 0 16802
+D2
+~
+~
+0 0 16800
+S
+#16802
+Before The House~
+This is the front of the dwelling.  It has one window, and one oak door. 
+There is an odd, magical warmth coming from it.
+~
+0 0 2
+D0
+~
+~
+1 0 16803
+D2
+~
+~
+0 0 16801
+S
+#16803
+Inside The Dwelling~
+The movement you saw earlier turns out to be an old man.  He looks very
+grizzled, but still friendly.  He greets you as you walk in, and points to
+your left.  What could he mean?  
+~
+0 1032 0
+D2
+~
+~
+1 0 16802
+D3
+~
+~
+0 0 16804
+S
+#16804
+A Dark Room~
+This is a dark room.  Textiles line the walls, covered in strange
+symbols.  An hour glass is propped up on a pedestal in the corner.  There is
+an unnatural aura here.  The feeling seems to be emanating from the west
+wall...  From a portal.  Underneath it is a tablet.  
+The tablet reads: Enter to go to the past.
+~
+0 8 0
+D1
+~
+~
+0 0 16803
+S
+#16805
+Mandalia Plains~
+You are in a meadow.  There are some large rocks scattered about, and the
+sun is shining.  There is a sign in the ground.  It says 'Mandalia Plains'. 
+There's smaller print on it just screaming for a closer look.  
+~
+0 0 2
+E
+sign~
+Welcome to Ivalice.
+ 
+This area was made by Deblin for levels 70-101
+~
+D0
+~
+~
+0 0 16808
+D3
+~
+~
+0 0 16806
+S
+#16806
+Mandalia Plains~
+Rocks are scattered about.  The green grass is absorbing the noonday sun
+as the wildife goes about its business.  An ocean can be seen far to the
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 16807
+D1
+~
+~
+0 0 16805
+S
+#16807
+Mandalia Plains~
+The northern plains are covered by short grass, much like the rest of it.
+There are patches of flowers and rocks scattered about.  A warm breeze
+blows.  To the west is a road.  
+~
+0 0 2
+D1
+~
+~
+0 0 16808
+D2
+~
+~
+0 0 16806
+D3
+~
+~
+0 0 16809
+S
+#16808
+Mandalia Plains~
+The northern plains are covered by short grass, much like the rest of it.
+There are patches of flowers and rocks scattered about.  Smoke from chimneys
+can be seen at the town to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 16826
+D2
+~
+~
+0 0 16805
+D3
+~
+~
+0 0 16807
+S
+#16809
+Road to Igros~
+This is a well traveled road.  A sign says it leads to Igros Castle.  The
+road goes east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 16807
+D3
+~
+~
+0 0 16810
+S
+#16810
+Road to igros~
+The castle is closer now.  A guard patroll can be seen off in the
+distance, looking for goblins.  
+~
+0 0 2
+D0
+~
+~
+0 0 16811
+D1
+~
+~
+0 0 16809
+S
+#16811
+The Castle Walls of Igros~
+These are the castle walls of Igros.  It is a hundred feet high, several
+hundred wide.  There are sparse patrols along the roof of the complex.  The
+gate is open, and you can see inside the castle walls.  
+~
+0 0 2
+D0
+~
+~
+0 0 16812
+D2
+~
+~
+0 0 16810
+S
+#16812
+Training Grounds~
+"Parry, thrust, parry, thrust!"  The sergent is training the recriutes in
+the use of swords.  There are a few accidents here and there, but they seem
+to be doing well.  The castle is to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 16813
+D2
+~
+~
+0 0 16811
+S
+#16813
+Before the Castle~
+This is a magnificent fortress indeed.  It has 2 large, connected
+structures at the front, with a gate in the middle to access the square. 
+There are 4 main towers, one at each corner of the building.  Periodically,
+it has a beautifully crafted stained glass window.  They are depictions of
+the 50 year war.  The garrison is at a relative peace now.  Where the
+biggest problem is a pack of nomad panthers.  
+~
+0 0 0
+D1
+~
+~
+0 0 16814
+D3
+~
+~
+0 0 16812
+S
+#16814
+The Square of the Castle~
+This place is where almost all of the acitivity is.  The carts of goods
+are dropped off here, there are droves of people walking about, and the
+sound of animals is everywhere.  A blacksmith is to the north, east is the
+main complex, and south is the church.  
+~
+0 4 0
+D0
+~
+~
+0 0 16815
+D1
+~
+~
+0 0 16817
+D2
+~
+~
+0 0 16816
+D3
+~
+~
+0 0 16813
+S
+#16815
+Smithy of Igros~
+Swords, axes, shields, armor.  This blacksmith is certainty a busy man. 
+The large forge, along the north wall, is heating a sword.  There are
+several benches around, each with a set of tools on it.  The smith is in the
+corner, polishing a dagger.  
+~
+0 0 0
+D2
+~
+~
+0 0 16814
+S
+#16816
+Church of Igros~
+This is the castle's small place of worship.  Several depictions of
+heroes and events are everywhere.  There are 4 rows of oak pews, and the
+altar is against the wall.  Above it reads "Blame yourself, or God." 
+~
+0 0 0
+D0
+~
+~
+0 0 16814
+S
+#16817
+Inside the Castle~
+The entry hall is on of the biggest in the castle.  Several large windows
+line the walls, and a very large staircase goes around the northern end. 
+The sparse occupants who are running about barely notice newcomers.  The
+servants go about their business, cleaning the carpet, replacing candles and
+preparing the meals.  
+~
+0 0 0
+D1
+~
+~
+0 0 16818
+D3
+~
+~
+0 0 16814
+S
+#16818
+Eastern Side of the Chamber~
+The eastern end of the room is well traveled, and near a very large
+staircase.  A few guards are at the base of the structure, guarding the path
+to the king.  The staircase clings onto the wall, circling it until it
+reaches the southern end.  
+~
+0 0 0
+D2
+~
+~
+0 0 16819
+D3
+~
+~
+0 0 16817
+S
+#16819
+On the Staircase~
+The staircase it made of stone.  With priceless works of art lining the
+walls, it looks very luxurious.  Servants and nobles are traversing its
+length.  
+~
+0 0 0
+D0
+~
+~
+0 0 16818
+D4
+~
+~
+0 0 16820
+S
+#16820
+Staircase Landing~
+This is where the staircase ends.  A stone walkway goes, over the main
+chamber, to the other end.  A door is there, looking important.  
+~
+0 0 0
+D0
+~
+~
+0 0 16823
+D5
+~
+~
+0 0 16819
+S
+#16821
+Barius Valley~
+The trail turns off to the right as it passes a waterfall.  It goes
+through a dip in the valley wall.  It continues downward and the foliage is
+thicker.  Many trees and shrubs litter the area.  The trail continues south.
+~
+0 0 4
+D2
+~
+~
+0 0 16822
+D3
+~
+~
+0 0 16868
+S
+#16822
+Trail~
+The trail curves to the west on a bend, hugging the edge of a downward
+slope.  The ocean can be seen from this place.  It looks strangely green,
+and an island is also appearant.  To the south, a port can be seen.  
+~
+0 0 4
+D0
+~
+~
+0 0 16821
+D3
+~
+~
+0 0 16924
+S
+#16823
+On the Walkway~
+The stone bridge goes over the room, and connects again on the other
+side.  There is a door at the end of the walkway, and has the royal seal on
+either side of it.  
+~
+0 0 0
+D0
+~
+~
+1 0 16824
+D2
+~
+~
+0 0 16820
+S
+#16824
+Royal Chamber~
+This appears to be a meeting chamber.  A long, ornately carved table is
+in the center of the room.  Several chairs surround it, and are filled with
+generals.  
+~
+0 0 0
+D2
+~
+~
+1 0 16823
+S
+#16825
+Royal Chamber~
+The king is sitting on his throne.  The elavated step is covered in a red
+carpet, emboidered in gold.  The guards see you as you approach, and watch
+your every move.  
+~
+0 4 0
+S
+#16826
+Road to Dorter~
+The town is closer now.  From here, merchants can be seen towing carts
+and bags around.  The road is well traveled, and has some nice, green grass
+growing on either edge of it.  
+~
+0 0 2
+D1
+~
+~
+0 0 16827
+D3
+~
+~
+0 0 16808
+S
+#16827
+Before the City~
+At this view, the true chaos of the establishment can be seen.  Tradesmen
+of all kinds are raving about the quality of their wares.  Many shops are in
+view.  
+~
+0 0 2
+D1
+~
+~
+0 0 16828
+D3
+~
+~
+0 0 16826
+S
+#16828
+Inside Dorter~
+Buildings throughout the town have what appear to be small windmills atop
+them.  Otherwise, they are simple, practical structures.  An armory is to
+the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 16829
+D1
+~
+~
+0 0 16833
+D2
+~
+~
+0 0 16830
+D3
+~
+~
+0 0 16827
+S
+#16829
+The Armory~
+The room is lined with implements of war.  Shields, armor, and weapons
+hang from hooks, being displayed to potential buyers.  The armorer is taking
+inventory.  
+~
+0 132 0
+D2
+~
+~
+0 0 16828
+S
+#16830
+Southern Dorter~
+Many more shops line the streets.  Some minor negotiating goes on, but
+nothing too large.  The owner of the accessory shop is cleaning her business
+to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 16828
+D1
+~
+~
+0 0 16832
+D3
+~
+~
+0 0 16831
+S
+#16831
+Accessory Shop~
+Ordaments of all kinds cover the walls.  From perfune to cloth, their
+uses can only be guessed.  The owner is washing the counter.  
+~
+0 132 0
+D1
+~
+~
+0 0 16830
+S
+#16832
+South Gate~
+This section of Dorter is the entryway to the docks.  Here, business from
+the southern continent comes into the mainland.  Several carts form a small
+caravan from the docks.  The dockworkers are very busy.  
+~
+0 0 1
+D0
+~
+~
+0 0 16833
+D2
+~
+~
+0 0 16836
+D3
+~
+~
+0 0 16830
+S
+#16833
+Northern Dorter~
+Many citizens are around this portion of town, where it's mostly
+residential.  A few people are in the bar to the north.  Many young men and
+women are going into the recruitment office to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 16835
+D1
+~
+~
+0 0 16936
+D2
+~
+~
+0 0 16832
+D3
+~
+~
+0 0 16828
+S
+#16834
+Recruitment Office~
+Here is where inspired chemists and adventurous squires come to become
+hired by parties.  Many of them are either training, or reding books.  Some
+sparring equipment is laying about the large room.  
+~
+0 4 0
+S
+#16835
+The Fur Shop~
+This quiet fur shop has just one other occupant, a chubby tanner.  He's
+busy turning a hydra's hide into a nice looking piece of armor.  
+~
+0 132 0
+D2
+~
+~
+0 0 16833
+S
+#16836
+Outside Dorter~
+The road is very well traveled.  The overseas business is very good. 
+There are several people carrying sacks and pulling carts.  
+~
+0 0 1
+D0
+~
+~
+0 0 16832
+D2
+~
+~
+0 0 16837
+S
+#16837
+Approaching the Port~
+About 5 ships are anchored near the port.  Many vague figures can be seen
+at this distance.  There are boxes stacked everywhere.  
+~
+0 0 1
+D0
+~
+~
+0 0 16836
+D2
+~
+~
+0 0 16838
+S
+#16838
+On the Port~
+The docks of Dorter are very efficient.  Pack animals are scattered
+about, pulling in ships.  Workers pull nets and boxes out from the holds of
+the ships, and prepare them to be shipped inland.  The sea breeze is coming
+from the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 16837
+D2
+~
+~
+0 0 16839
+S
+#16839
+On the Sea~
+The gentle waves pass over the sea.  Sparse cloud clusters mingle in the
+sky, and create fluffy patterns.  
+~
+0 4 6
+D0
+~
+~
+0 0 16838
+D2
+~
+~
+0 0 16840
+S
+#16840
+On the Sea~
+Blue ocean is almost everywhere.  The wildlife begins to reappear, the
+sea gulls.  They seem to converge over a small land mass to the west.  The
+blue ocean is very deep.  Some sparse wildlife is here.  They seem to
+converge over a small land mass to the west.  
+~
+0 0 6
+D0
+~
+~
+0 0 16839
+D2
+~
+~
+0 0 16845
+D3
+~
+~
+0 0 16841
+S
+#16841
+On the Island~
+The island appears to be directly in between the 2 continents.  It is
+quite small, and holds several trees.  The most distinguished feature is the
+chapel to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 16840
+D3
+~
+~
+0 0 16842
+S
+#16842
+At the Gates of the Chapel~
+The church is quite magnificent looking from the outside.  The front face
+of it appears to be more of a fort.  2 large, castle like towers come from
+either corner.  Behind the sheer wall, however, is an ornately designed set
+of roofs and windows.  
+~
+0 0 0
+D1
+~
+~
+0 0 16841
+D3
+~
+~
+1 0 16843
+S
+#16843
+Inside Murond~
+The first, and main room of Murond is very luxurious.  5 large windows
+line the walls, and an embroidered red carpet is laid from the door to the
+wall on the far end.  2 fountains on either side of it create small streams
+that flow down a crevice to the outside.  They leave about a meter of space
+before the wall to allow access to the door on the northern end.  
+~
+0 0 0
+D0
+~
+~
+1 0 16935
+D1
+~
+~
+1 0 16842
+S
+#16844
+Murond Chapel~
+The set of stairs on the other side of the door lead you here.  It is
+very dark.  Lit only by 4 sets of candles.  In the center of the room is a
+coffin, on an elevated platform with 4 sets of stairs coming in from each
+side.  This structure takes up most of the room.  A malevolent presence is
+everywhere.  It is very dark.  Lit only by 4 sets of candles.  In the center
+of the room is a coffin, on an elevated platform with 4 sets of stairs
+coming in from each side.  This structure takes up most of the room.  A
+malevolent presence is everywhere.  
+~
+0 1 0
+D4
+~
+~
+0 0 16935
+S
+#16845
+On the Sea~
+The sea continues monotonously.  It gently waves, making it good sailing
+weather.  
+~
+0 4 6
+D0
+~
+~
+0 0 16840
+D2
+~
+~
+0 0 16846
+S
+#16846
+Approaching the Port~
+Several plankings jet out from the mainland.  Several ships are loading
+and unloading goods.  Nets and pulley systems can be made out.  
+~
+0 0 6
+D0
+~
+~
+0 0 16845
+D2
+~
+~
+0 0 16847
+S
+#16847
+Goug's Port~
+After pulling up to shore, the full detail can be seen.  An unusual
+feature about this port are some small groups of metallic beings walking
+about.  They're taking the place of the donkeys on the other shore. 
+Similarly, many boxes and sacks are being loaded.  
+~
+0 0 1
+D0
+~
+~
+0 0 16846
+D1
+~
+~
+0 0 16848
+S
+#16848
+Inside Goug Machine City~
+This city is very remarkable.  Contraptions of all shapes linger about. 
+Another metallic man is helping repair a building to the south.  A few
+inhabitants are around, gathering supplies.  
+~
+0 0 1
+D0
+~
+~
+0 0 16938
+D1
+~
+~
+0 0 16851
+D2
+~
+~
+0 0 16849
+D3
+~
+~
+0 0 16847
+S
+#16849
+Outfit Shop~
+This is a-typical of other armorment shops.  Only a few, interesting
+looking items are being sold.  A few pieces, which resemble crossbows, are
+being hung on the wall.  On the counter, there is a unique looking item.  A
+man smiles as you enter.  
+~
+0 136 0
+D0
+~
+~
+0 0 16848
+S
+#16850
+Machine Shop~
+A curious shop.  Throughout the small complex lies parts for the metallic
+men.  Some are completed, and are standing in the corner.  Off to the side,
+contraptions of other sorts lie.  
+~
+0 4108 0
+S
+#16851
+Inside Goug~
+A slightly less technical feel is in this area.  To the north lies a
+noisy bar.  To the south, however, is what appears to be the slums.  It's
+closed off now, a sign is posted.  
+~
+0 0 1
+E
+sign~
+Warning: Deaths have occured, do not enter.
+~
+D0
+~
+~
+0 0 16852
+D1
+~
+~
+0 0 16854
+D2
+~
+barrier~
+1 0 16858
+D3
+~
+~
+0 0 16848
+S
+#16852
+The Bar~
+A Counter is in the north-western part of the noisy room.  4 or 5 tables
+are uniformly placed around it as well.  People from all over the realms are
+sitting, and enjoying drink.  
+~
+0 136 0
+D2
+~
+~
+0 0 16851
+S
+#16853
+Leaving the Swamp~
+The fauna become more lively as the poisionus swamp drift further in the
+background.  There are a few animals present, and their appearance is
+unaffected.  Unlike the monsters inside the swamp.  
+~
+0 4 3
+D1
+~
+~
+0 0 16862
+D3
+~
+~
+0 0 16859
+S
+#16854
+Leaving Goug~
+The buildings become less concentrated as the outskirts of the town are
+reached.  A few small farms appear, and even a modestly sized mine can be
+seen in the distance.  
+~
+0 0 1
+D0
+~
+~
+0 0 16855
+D3
+~
+~
+0 0 16851
+S
+#16855
+On the Shore~
+The landmass begins to end as it descends into the sea.  From here, it
+seems the island you are on is quite large.  Another stretch of land can be
+seen across the body of water.  The area appears to be quite dark and
+gloomy.  
+~
+0 0 10
+D1
+~
+~
+0 0 16856
+D2
+~
+~
+0 0 16854
+S
+#16856
+Crossing the Sea~
+The sea is shorter than expected.  Already details of the other side can
+be distinguished.  It appears to be low, and very damp.  Some disfigured
+trees are visible, they are either very sick, or dead.  Many have fallen on
+their sides.  A foul stench begins to emerge 
+~
+0 4 6
+D1
+~
+~
+0 0 16857
+D3
+~
+~
+0 0 16855
+S
+#16857
+Zigolis Swamp~
+The swamp begins directly inland of the shore.  A very large tree has
+fallen, and leads far to the south.  It starts a pathway leading far to the
+south.  The water below appears unsavory to walk in, and possibly poisonous.
+~
+0 1 3
+D2
+~
+~
+0 0 16861
+D3
+~
+~
+0 0 16856
+S
+#16858
+Goug Slums~
+This place is gloomy indeed.  It seems everything is in a shade of grey
+and worn down.  There is even a house is on its side.  The sign appears to
+be true, several guards are examining the area, looking quite paranoid.  
+~
+0 1 1
+D0
+~
+~
+1 0 16851
+S
+#16859
+Zigolis Swamp~
+The soggy ground begins to give way to dryer land.  The raised part of
+earth continues east.  It will be good to leave this unclean area.  
+~
+0 1 3
+D1
+~
+~
+0 0 16853
+D2
+~
+~
+0 0 16860
+S
+#16860
+Zigolis Swamp~
+After traversing the small patches of viable land, you reach the other
+side of the small body of water.  The east is blocked by more trees, but the
+landmass continues north.  
+~
+0 1 3
+D0
+~
+~
+0 0 16859
+D3
+~
+~
+0 0 16861
+S
+#16861
+Zigolis Swamp~
+As you continue on the log to the south, more of the swamp can be seen
+through the fog.  The end of the slippery log rests on a rock.  A narrow
+looking path of rock and tree stumps leads eastward through the bubbling
+water.  The fumes are almost dizzying.  
+~
+0 1 3
+D0
+~
+~
+0 0 16857
+D1
+~
+~
+0 0 16860
+S
+#16862
+The Forming Road~
+The forests begin to thin in a central part of the forest, forming a
+makeshift road.  It appears to be made by animals, or possibly humans.  The
+trees are tall, wide, and very green.  Many shorter plants cover the ground,
+accented by fallen, yellow leaves.  
+~
+0 0 3
+D1
+~
+~
+0 0 16863
+D3
+~
+~
+0 0 16853
+S
+#16863
+Approaching the Castle~
+Another, more traveled road comes together with the smaller makeshift
+one.  It leads east, and bends to the north, where a castle can be seen. 
+This castle, however, has blockaded the road, refusing visitors.  Apparently
+something has worried them.  The eastern rout is unblocked, and is ready to
+be used.  
+~
+0 0 2
+D1
+~
+~
+0 0 16864
+D3
+~
+~
+0 0 16862
+S
+#16864
+Gaining Altitude~
+The marshes become less numerous as the ground slopes upward.  Off in the
+distance, it appears to become more mountainous and rocky.  The ground is
+covered by luscious green grass, and the trees start becoming less abundant.
+~
+0 0 2
+D1
+~
+~
+0 0 16865
+D3
+~
+~
+0 0 16863
+S
+#16865
+By the River~
+The trail nears a small river.  It's moving slowly through the shallow
+rockfaces.  Chocobo tracks litter the ground as It becomes more steep and
+rugged.  The trail continues east, following the river.  
+~
+0 0 4
+D1
+~
+~
+0 0 16866
+D3
+~
+~
+0 0 16864
+S
+#16866
+Barius Valley~
+The river begins to take up speed as it continues east on its downward
+flow.  The shape of a valley begins to form as the river gets larger.  The
+mountains seem to split apart as the mass of water cuts through them.  The
+valley continues east.  
+~
+0 0 4
+D1
+~
+~
+0 0 16867
+D3
+~
+~
+0 0 16865
+S
+#16867
+Barius Valley~
+The river gets very deep at this point.  Making a crossover impossible. 
+The land becomes incredibly steep few feet on either side of it.  Some
+wildlife is here, going about their business.  
+~
+0 0 4
+D1
+~
+~
+0 0 16868
+D3
+~
+~
+0 0 16866
+S
+#16868
+Barius Valley~
+The water shallows some, and rocks start to protrude from the surface. 
+One very flat one is to the north, at a narrow point in the river, creating
+a passageway across the river.  The valley continues east.  
+~
+0 0 4
+D0
+~
+~
+0 0 16869
+D1
+~
+~
+0 0 16821
+D3
+~
+~
+0 0 16867
+S
+#16869
+On the Rock~
+The rock is more slippery, and the jump is further than expected.  It is
+very hard to move, for fear of falling into the water is keeping you at bay.
+Although, it seems that it's the only way out.  
+~
+0 4 5
+D1
+~
+~
+0 0 16870
+S
+#16870
+On the River~
+The waterflow is much faster than expected, and you can't swim back to
+shore.  To the east, plumes of steam rise in the air.  You vaguely see the
+trail leaving the river's edge in the corner of your eye.  
+~
+0 4 5
+D1
+~
+~
+0 0 16871
+S
+#16871
+On the River~
+The plumes of steam grow larger as you approach the waterfall.  The trees
+and rocks lining the water become more blurry as the river picks up speed. 
+There seems to be no choice but to hope for the best.  
+~
+0 4 5
+D5
+~
+~
+0 0 16872
+S
+#16872
+Waterfall Base~
+Scrambling for air, you resurface at the base of the cliff.  The fall
+wasn't as bad as expected, but there seems to be no way back.  The water is
+very calm, and the closest shore is north of here.  
+~
+0 4 5
+D0
+~
+~
+0 0 16873
+S
+#16873
+Shore~
+The altitude here is much lower than the valley.  Evergreens get replaced
+by leaved trees, and the slope is much calmer.  Eastward, an ocean exists,
+reflecting the sunlight.  
+~
+0 0 5
+D1
+~
+~
+0 0 16874
+S
+#16874
+Approaching the Delta.~
+The forest is very thick to the north, and is almost impassible.  It
+seems that following the river is the only way.  The river appears to
+dissipate into the signature V shape as it approaches the ocean.  A wooden
+object is also visible.  
+~
+0 0 5
+D1
+~
+~
+0 0 16875
+D3
+~
+~
+0 0 16873
+S
+#16875
+Delta~
+A boat is upturned here.  It appears to be a bit battered, but still
+viable.  The delta's scattered landmasses are too far apart to cross to the
+other side, where the trail turned.  To the east, an island is visible.  It
+appears to be shrouded in malevolence.  Southward, other ships are seen.  
+~
+0 0 6
+D1
+~
+~
+0 0 16876
+D2
+~
+~
+0 0 16934
+D3
+~
+~
+0 0 16874
+S
+#16876
+Ocean Bound~
+The ocean has a curious green tint to it.  Much of the mainland can be
+seen here.  To the north, a port is visible.  East, however, is the grim
+island.  It is shrouded by dark clouds and mist.  
+~
+0 0 6
+D1
+~
+~
+0 0 16877
+D2
+~
+~
+0 0 16943
+D3
+~
+~
+0 0 16875
+S
+#16877
+Nearing the Small Island~
+The island is small, and concentrated growths of trees are there. 
+Ghastly forms dart in and out from the shadows, and unnatural noises begin
+emanating from the east.  
+~
+0 1 6
+D1
+~
+~
+0 0 16878
+D3
+~
+~
+0 0 16876
+S
+#16878
+The Island Shoreline~
+Portions of the sand is stained in blood.  Wood from broken ships is
+everywhere, along with broken weapons, shattered armor, and crushed corpses.
+The ghoulish forms are still present, hiding in the treeline.  A person is
+here, begging for anyone to help him.  
+~
+0 1 6
+D1
+~
+~
+0 0 16879
+D3
+~
+~
+0 0 16877
+S
+#16879
+Inside the Forest~
+Monsters are here, scattered throughout the area.  Two especially
+horrible looking ones are at the entrance to a cave.  They stare at you
+intently as fear grips at your soul.  
+~
+0 1 3
+D0
+~
+~
+0 0 16880
+D3
+~
+~
+0 0 16878
+S
+#16880
+Cave Entrance~
+The cave entrance is very large.  Eyes stare at you intently from all
+directions.  Even more corpses are here.  Fallen warriors on a benevolent
+mission.  A very old, makeshift sign is posted.  
+~
+0 9 0
+E
+sign~
+This is the Deep Dungeon.  It consists of 10 levels, littered with 
+evil.  You must find the path downward by searching the floors.
+~
+D2
+~
+~
+0 0 16879
+D5
+~
+~
+0 0 16881
+S
+#16881
+Entering the Dungeon~
+On the floor, surrounded by arcane symbols, is a large hole.  The room
+itself is evil indeed.  Curses of all kinds surround it.  Mutilated corpses,
+shattered skeletons, and skulls are everywhere.  The entrance to the cave is
+up from here.  
+~
+0 13 0
+D4
+~
+~
+0 0 16880
+D5
+~
+~
+0 0 16882
+S
+#16882
+Nogias~
+Darkness is everywhere.  Even the dim torchlight from the cave above
+doesn't touch the floor of this cavern.  The cavern sounds very large, as
+your footsteps echo off the walls.  The floor feels of limestone.  
+~
+0 9 5
+D1
+~
+~
+0 0 16883
+D4
+~
+~
+0 0 16881
+S
+#16883
+Nogias~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16884
+D3
+~
+~
+0 0 16882
+S
+#16884
+Nogias~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16883
+D3
+~
+~
+0 0 16885
+S
+#16885
+Nogias~
+The floor appears to be unstable here.  It seems there is a creace on the
+floor, making the outlines of a door.  Darkness is still everywhere.  
+~
+0 9 5
+D1
+~
+~
+0 0 16884
+D5
+~
+~
+1 0 16886
+S
+#16886
+Terminate~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16887
+D4
+~
+~
+1 0 16885
+S
+#16887
+Terminate~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16888
+D3
+~
+~
+0 0 16886
+S
+#16888
+Terminate~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16887
+D3
+~
+~
+0 0 16890
+D5
+~
+~
+1 0 16889
+S
+#16889
+Delta~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16891
+D4
+~
+~
+1 0 16888
+S
+#16890
+Terminate~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16888
+S
+#16891
+Delta~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16892
+D3
+~
+~
+0 0 16889
+S
+#16892
+Delta~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16891
+D3
+~
+~
+0 0 16893
+S
+#16893
+Delta~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16892
+D5
+~
+~
+1 0 16894
+S
+#16894
+Valkyries~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16895
+D4
+~
+~
+1 0 16893
+S
+#16895
+Valkyries~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16896
+D3
+~
+~
+0 0 16894
+S
+#16896
+Valkyries~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16895
+D3
+~
+~
+0 0 16898
+D5
+~
+~
+1 0 16897
+S
+#16897
+Mlapan~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16899
+D4
+~
+~
+1 0 16896
+S
+#16898
+Valkyries~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16896
+S
+#16899
+Mlapan~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16900
+D3
+~
+~
+0 0 16897
+S
+#16900
+Mlapan~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16899
+D3
+~
+~
+0 0 16901
+S
+#16901
+Mlapan~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16900
+D5
+~
+~
+1 0 16902
+S
+#16902
+Tiger~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16903
+D4
+~
+~
+1 0 16901
+S
+#16903
+Tiger~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16904
+D3
+~
+~
+0 0 16902
+S
+#16904
+Tiger~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16903
+D3
+~
+~
+0 0 16905
+S
+#16905
+Tiger~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16904
+D5
+~
+~
+1 0 16906
+S
+#16906
+Bridge~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16907
+D4
+~
+~
+1 0 16905
+S
+#16907
+Bridge~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16908
+D3
+~
+~
+0 0 16906
+S
+#16908
+Bridge~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16907
+D3
+~
+~
+0 0 16909
+S
+#16909
+Bridge~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16908
+D5
+~
+~
+1 0 16910
+S
+#16910
+Voyage~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16911
+D4
+~
+~
+1 0 16909
+S
+#16911
+Voyage~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16912
+D3
+~
+~
+0 0 16910
+S
+#16912
+Voyage~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16911
+D3
+~
+~
+0 0 16914
+D5
+~
+~
+1 0 16913
+S
+#16913
+Horror~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16915
+D4
+~
+~
+1 0 16912
+S
+#16914
+Voyage~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16912
+S
+#16915
+Horror~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D2
+~
+~
+0 0 16916
+D3
+~
+~
+0 0 16913
+D5
+~
+~
+1 0 16917
+S
+#16916
+Horror~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D0
+~
+~
+0 0 16915
+D3
+~
+~
+0 0 16918
+S
+#16917
+The Tunnel~
+Light begins to reappear.  Some orange flames can be seen down from this
+position.  Some protrusions, vaguely resembling steps, come out of the
+walls.  They lead down.  
+~
+0 9 5
+D4
+~
+~
+1 0 16915
+D5
+~
+~
+0 0 16919
+S
+#16918
+Horror~
+The cavern is almost pitch black.  Some ghastly outlines are floating
+about.  
+~
+0 9 5
+D1
+~
+~
+0 0 16916
+S
+#16919
+End~
+Light from torches lining the walls fill this room.  A sheer rockface is
+north of here, but an incline circles around the wall, reaching the top. 
+Strange figures can be seen occupying the pathway.  
+~
+0 9 5
+D3
+~
+~
+0 0 16920
+D4
+~
+~
+0 0 16917
+S
+#16920
+End~
+The floor begins to slope upwards.  The beings appear to be small
+gargoyles.  They cling to the walls and the floor.  The weathered limestone
+of the natural staircase is very worn.  
+~
+0 9 5
+D0
+~
+~
+0 0 16921
+D1
+~
+~
+0 0 16919
+S
+#16921
+End~
+The large mass of limestone meets a large flat area east of here. 
+Several more torches are lit.  Off to the side of the staircase is a very
+deep pit.  It continues east.  
+~
+0 9 5
+D1
+~
+~
+0 0 16922
+D2
+~
+~
+0 0 16920
+S
+#16922
+End~
+Arcane symbols are on the floor here.  The creator; a large, monstrous
+figure, stands at the center.  The platform is surrounded by torches, and
+the sounds of chanting is everywhere.  There is a swirling portal to the
+south.  
+~
+0 8201 5
+D2
+~
+~
+0 0 16923
+D3
+~
+~
+0 0 16921
+S
+#16923
+The Edge of the Cliff~
+The cliff overlooks the cavern.  The pit below seems to go down very far.
+Two stalagmites from the ground meet with stalactites from the ceiling. 
+They are on either side of a large, swirling portal.  
+~
+0 9 5
+D0
+~
+~
+0 0 16922
+S
+#16924
+Trail~
+Trees are on either side of trail.  The sun is shining through holes in
+the overhang.  Many leaves are on the ground.  A lookout is east, and smoke
+from chimneys can be seen south.  
+~
+0 0 4
+D1
+~
+~
+0 0 16822
+D2
+~
+~
+0 0 16925
+S
+#16925
+Trail~
+The treeline becomes more dispersed the nearer to the shore it gets.  The
+city gates are near here.  
+~
+0 0 4
+D0
+~
+~
+0 0 16924
+D2
+~
+~
+0 0 16926
+S
+#16926
+Warjilis Trade City~
+The coastal city of Warjilis is quaint.  The houses are rustic, and
+somewhat plain.  Many houses have an opening to the street, where wares are
+sold.  They vary from cloth to kitchen utensils.  Some people are wandering
+the streets.  
+~
+0 0 4
+D0
+~
+~
+0 0 16925
+D2
+~
+~
+0 0 16927
+S
+#16927
+Warjilis Trade City~
+Several houses serve a double purpose as small shops.  Many sell
+vegetables, or small ornaments.  A smith is south of here, and an alchemy is
+west.  
+~
+0 0 1
+D0
+~
+~
+0 0 16926
+D1
+~
+~
+0 0 16930
+D2
+~
+~
+0 0 16929
+D3
+~
+~
+0 0 16928
+S
+#16928
+The Alchemy~
+Rows of bottles line a shelf on the north wall, and some herbs grow
+behind the counter.  The alchemist, a young lady, is stirring a pot on a
+small flame.  She looks up, her young face smiling.  
+~
+0 136 1
+D1
+~
+~
+0 0 16927
+D3
+~
+~
+1 0 16942
+S
+#16929
+Smithy~
+Small hammers and picks are hanging on walls and lying on the tables. 
+Some armor is lying on a table to the east.  A table is against the wall to
+the west.  The smith is there, engraving a suit of mail.  
+~
+0 136 1
+D0
+~
+~
+0 0 16927
+S
+#16930
+Near the docks~
+The docks are east of here.  They seem to be deserted.  Sounds of a bar
+are coming form the south, and some drunk sailors are sitting on the ground,
+leaning on the bar walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 16932
+D2
+~
+~
+0 0 16931
+D3
+~
+~
+0 0 16927
+S
+#16931
+In the crowded bar~
+This bar is crowded.  There are sailors are surrounding the tables.  Many
+are rambling on about a recent encounter.  The bartender is very busy making
+drinks, and the serving lady looks very fatigued.  
+~
+0 8 1
+D0
+~
+~
+0 0 16930
+S
+#16932
+Port~
+The wood planking creaks underfoot.  The ships are deserted, and almost
+derelict.  Far to the northeast, an island can be seen.  There is just ocean
+elsewhere.  West is the bar.  
+~
+0 0 1
+D0
+~
+~
+0 0 16933
+D3
+~
+~
+0 0 16930
+S
+#16933
+On the Shore~
+The shoreline is littered with trees and rocks.  The altitude juts up
+steeply west of here.  Sea gulls fly overhead, and a port is south of here. 
+~
+0 0 10
+D0
+~
+~
+0 0 16934
+D2
+~
+~
+0 0 16932
+S
+#16934
+On the Shore~
+The shoreline is littered with trees and rocks.  The altitude juts up
+steeply west of here.  Sea gulls fly overhead, and a port is south of here. 
+~
+0 0 10
+D0
+~
+~
+0 0 16875
+D1
+~
+~
+0 0 16945
+D2
+~
+~
+0 0 16933
+S
+#16935
+Old Staircase~
+This rusty old staircaise leads down to the crypt.  Some growling can be
+heard below.  
+~
+0 0 0
+D2
+~
+~
+1 0 16843
+D5
+~
+~
+0 0 16844
+S
+#16936
+Recruitment Office~
+Here is where inspired chemists and adventurous squires come to become
+hired by parties.  Many of them are either training, or reding books.  Some
+sparring equipment is laying about the large room.  
+~
+0 266252 0
+D3
+~
+~
+0 0 16833
+S
+#16937
+super duper pet room~
+LEAVE NOW OR BE SLAYED, THIS IS A PET ROOM
+~
+0 4 0
+D3
+~
+~
+0 0 16936
+S
+#16938
+Machine Shop~
+A curious shop.  Throughout the small complex lies parts for the metallic
+men.  Some are completed, and are standing in the corner.  Off to the side,
+contraptions of other sorts lie.  
+~
+0 266248 0
+D2
+~
+~
+0 0 16848
+S
+#16939
+pet room~
+~
+0 4 0
+S
+#16940
+.~
+~
+0 4 0
+S
+#16941
+{8An Ill-Lit Cavern{x~
+You descend below the portal to Ivalice and find yourself in a very dark
+natural cavern.  The walls are of some dark and shiny rock, perhaps pumice. 
+You feel as if you are being watched.  Perhaps you better turn back.  
+~
+0 4 0
+S
+#16942
+The Script Shop~
+You enter a small shop, with a single product, the infamous 'Useless
+Scrolls'.  These scrolls were originally thrown away as useless until the
+right people figured out exactly how to use them, Don't you wish you were
+one of those people?  
+~
+0 0 0
+D1
+~
+~
+1 0 16928
+S
+#16943
+Approaching the Dragon Sea~
+The sea is glassy and clear here, probably forty fathoms deep.  To the
+northeast a small island can be seen, and to the south the open reaches of
+the Dragon Sea.  A small structure seems to be poking out of the ocean's
+pristine surface a few miles to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 16876
+D2
+~
+~
+0 0 16944
+D3
+~
+~
+0 0 16945
+S
+#16944
+Nearing the Fortress~
+What seems to be the top of a structure pokes out of the ocean just to
+the South.  A small dock and a doorway is all that can be seen, with a guard
+at the door.  The sea has a bit of chop to it here, as large schools of fish
+shimmer from the depths below.  
+~
+0 0 6
+D0
+~
+~
+0 0 16943
+D2
+~
+~
+0 0 5400
+S
+#16945
+Offshore~
+Just a couple miles offshore, the ocean has become calm.  Its deep
+soothing green reflects its depth, as unknown creatures of the deep prowl
+the abyss below.  To the west the beach can still be seen, the sand
+glistening in the sun.  
+~
+0 0 6
+D0
+~
+~
+0 0 16876
+D1
+~
+~
+0 0 16943
+D3
+~
+~
+0 0 16934
+S
+#0
+
+
+
+#SPECIALS
+M 16809 spec_cast_cleric Load to: The Priest
+M 16812 spec_breath_lightning Load to: Agrias
+M 16816 spec_breath_lightning Load to: Orlandu
+M 16829 spec_breath_lightning Load to: An Archaic Demon
+M 16830 spec_breath_lightning Load to: An Ultima Demon
+M 16844 spec_cast_mage Load to: A {%W{5izard{x
+M 16848 spec_cast_undead Load to: A Ghoul
+M 16861 spec_breath_any Load to: A Hyudra
+M 16862 spec_breath_any Load to: A Hydra
+M 16863 spec_breath_gas Load to: An Apanda
+M 16865 spec_cast_cleric Load to: A Chemist
+M 16868 spec_cast_undead Load to: A Ghoul
+S
+
+
+
+#RESETS
+D 0 16802 0 1 The north door of Before The House is closed
+D 0 16803 2 1 The south door of Inside The Dwelling is closed
+D 0 16823 0 1 The north door of On the Walkway is closed
+D 0 16824 2 1 The south door of Royal Chamber is closed
+D 0 16842 3 1 The west door of At the Gates of the Chapel is closed
+D 0 16843 0 1 The north door of Inside Murond is closed
+D 0 16843 1 1 The east door of Inside Murond is closed
+D 0 16851 2 1 The south door of Inside Goug is closed
+D 0 16858 0 1 The north door of Goug Slums is closed
+D 0 16885 5 1 The down door of Nogias is closed
+D 0 16886 4 1 The up door of Terminate is closed
+D 0 16888 5 1 The down door of Terminate is closed
+D 0 16889 4 1 The up door of Delta is closed
+D 0 16893 5 1 The down door of Delta is closed
+D 0 16894 4 1 The up door of Valkyries is closed
+D 0 16896 5 1 The down door of Valkyries is closed
+D 0 16897 4 1 The up door of Mlapan is closed
+D 0 16901 5 1 The down door of Mlapan is closed
+D 0 16902 4 1 The up door of Tiger is closed
+D 0 16905 5 1 The down door of Tiger is closed
+D 0 16909 5 1 The down door of Bridge is closed
+D 0 16910 4 1 The up door of Voyage is closed
+D 0 16912 5 1 The down door of Voyage is closed
+D 0 16913 4 1 The up door of Horror is closed
+D 0 16915 5 1 The down door of Horror is closed
+D 0 16917 4 1 The up door of The Tunnel is closed
+D 0 16928 3 2 The west door of The Alchemy is closed and locked
+D 0 16935 2 1 The south door of Old Staircase is closed
+D 0 16942 1 2 The east door of The Script Shop is closed and locked
+M 0 16800 1 16803 1 *Load The Old Man
+O 0 16800 0 16804 *Portal to the past loaded to A Dark Room
+O 0 16803 0 16805 *Strange portal loaded to Mandalia Plains
+M 0 16801 2 16806 1 *Load a {#Y{3ellow {3Pa{#nth{3er{x
+M 0 16803 3 16807 1 *Load a {8Black {7gob{8lin{x
+M 0 16801 2 16807 1 *Load a {#Y{3ellow {3Pa{#nth{3er{x
+M 0 16802 2 16808 2 *Load A {3Go{2bl{3in{x
+M 0 16803 3 16809 1 *Load a {8Black {7gob{8lin{x
+M 0 16836 4 16811 1 *Load a {$S{4quire{x
+E 0 16804 0 16 *A slasher is loaded wielded of a {$S{4quire{x
+E 0 16809 0 6 *Hard leather headgear is loaded over the head of a {$S{4quire{x
+E 0 16810 0 5 *A chain mail vest is loaded on the body of a {$S{4quire{x
+M 0 16803 3 16811 1 *Load a {8Black {7gob{8lin{x
+M 0 16844 4 16811 1 *Load A {%W{5izard{x
+E 0 16840 0 5 *An adaman vest is loaded on the body of A {%W{5izard{x
+E 0 16832 0 6 *A triangle hat is loaded over the head of A {%W{5izard{x
+E 0 16831 0 16 *A wizard staff is loaded wielded of A {%W{5izard{x
+M 0 16805 4 16812 4 *Load A cadet
+E 0 16811 0 8 *Battle boots is loaded on the feet of A cadet
+E 0 16810 0 5 *A chain mail vest is loaded on the body of A cadet
+E 0 16806 0 16 *A {8platina{x dagger is loaded wielded of A cadet
+M 0 16806 1 16812 1 *Load A Knight
+E 0 16808 0 16 *A mythril sword is loaded wielded of A Knight
+E 0 16813 0 5 *Mythril armor is loaded on the body of A Knight
+E 0 16812 0 9 *A pair of power wrists is loaded on the hands of A Knight
+M 0 16807 4 16813 2 *Load A {^C{6astle {^G{6uard{x
+E 0 16805 0 16 *A mythril spear is loaded wielded of A {^C{6astle {^G{6uard{x
+E 0 16813 0 5 *Mythril armor is loaded on the body of A {^C{6astle {^G{6uard{x
+M 0 16808 1 16815 1 *Load An Igros Smithy
+E 0 16814 0 16 *A main gauche is loaded wielded of An Igros Smithy
+M 0 16809 1 16816 1 *Load The Priest
+E 0 16815 0 12 *A white robe is loaded about the shoulders of The Priest
+M 0 16810 3 16816 3 *Load A Peasant
+M 0 16836 4 16817 1 *Load a {$S{4quire{x
+E 0 16840 0 5 *An adaman vest is loaded on the body of a {$S{4quire{x
+E 0 16811 0 8 *Battle boots is loaded on the feet of a {$S{4quire{x
+E 0 16808 0 16 *A mythril sword is loaded wielded of a {$S{4quire{x
+M 0 16807 4 16818 2 *Load A {^C{6astle {^G{6uard{x
+E 0 16813 0 5 *Mythril armor is loaded on the body of A {^C{6astle {^G{6uard{x
+E 0 16808 0 16 *A mythril sword is loaded wielded of A {^C{6astle {^G{6uard{x
+M 0 16841 2 16819 2 *Load A {8L{&ancer{x
+E 0 16829 0 6 *An iron helmet is loaded over the head of A {8L{&ancer{x
+E 0 16812 0 9 *A pair of power wrists is loaded on the hands of A {8L{&ancer{x
+E 0 16815 0 12 *A white robe is loaded about the shoulders of A {8L{&ancer{x
+E 0 16805 0 16 *A mythril spear is loaded wielded of A {8L{&ancer{x
+M 0 16843 2 16820 2 *Load An {3Ar{#ch{3er{x
+E 0 16840 0 5 *An adaman vest is loaded on the body of An {3Ar{#ch{3er{x
+E 0 16834 0 16 *A lightning bow is loaded wielded of An {3Ar{#ch{3er{x
+M 0 16819 1 16824 1 *Load Prince Goltana
+E 0 16807 0 16 *Defender is loaded wielded of Prince Goltana
+E 0 16825 0 5 *A set of crystal mail is loaded on the body of Prince Goltana
+E 0 16824 0 6 *A crystal helmet is loaded over the head of Prince Goltana
+E 0 16823 0 11 *A crystal shield is loaded as a shield of Prince Goltana
+M 0 16815 1 16824 1 *Load Dycedarg
+E 0 16821 0 16 *An ancient sword is loaded wielded of Dycedarg
+E 0 16825 0 5 *A set of crystal mail is loaded on the body of Dycedarg
+E 0 16824 0 6 *A crystal helmet is loaded over the head of Dycedarg
+E 0 16822 0 11 *An aegis shield is loaded as a shield of Dycedarg
+M 0 16814 1 16824 1 *Load Zalbag
+E 0 16807 0 16 *Defender is loaded wielded of Zalbag
+E 0 16825 0 5 *A set of crystal mail is loaded on the body of Zalbag
+E 0 16824 0 6 *A crystal helmet is loaded over the head of Zalbag
+E 0 16823 0 11 *A crystal shield is loaded as a shield of Zalbag
+M 0 16813 1 16824 1 *Load Delita
+E 0 16837 0 6 *A gold helmet is loaded over the head of Delita
+E 0 16821 0 16 *An ancient sword is loaded wielded of Delita
+E 0 16820 0 11 *A gold shield is loaded as a shield of Delita
+E 0 16819 0 5 *Gold armor is loaded on the body of Delita
+M 0 16812 1 16824 1 *Load Agrias
+E 0 16837 0 6 *A gold helmet is loaded over the head of Agrias
+E 0 16821 0 16 *An ancient sword is loaded wielded of Agrias
+E 0 16820 0 11 *A gold shield is loaded as a shield of Agrias
+E 0 16819 0 5 *Gold armor is loaded on the body of Agrias
+M 0 16811 1 16824 1 *Load Gafgarion
+E 0 16818 0 5 *A set of carbini mail is loaded on the body of Gafgarion
+E 0 16817 0 6 *A cross helmet is loaded over the head of Gafgarion
+E 0 16816 0 16 *A {1blood{x sword is loaded wielded of Gafgarion
+M 0 16828 1 16827 1 *Load The Wandering Merchant
+M 0 16842 4 16827 1 *Load A {@G{2eo{@man{2ce{@r{x
+E 0 16835 0 5 *A wizard robe is loaded on the body of A {@G{2eo{@man{2ce{@r{x
+E 0 16827 0 16 *An iron sword is loaded wielded of A {@G{2eo{@man{2ce{@r{x
+M 0 16837 4 16828 1 *Load A {@C{2hemist{x
+E 0 16806 0 16 *A {8platina{x dagger is loaded wielded of A {@C{2hemist{x
+E 0 16840 0 5 *An adaman vest is loaded on the body of A {@C{2hemist{x
+M 0 16820 1 16829 1 *Load The Armorer
+G 0 16836 0 *A masamune is given to The Armorer
+G 0 16830 0 *A set of bronze armor is given to The Armorer
+G 0 16829 0 *An iron helmet is given to The Armorer
+G 0 16828 0 *A round shield is given to The Armorer
+G 0 16827 0 *An iron sword is given to The Armorer
+G 0 16821 0 *An ancient sword is given to The Armorer
+G 0 16820 0 *A gold shield is given to The Armorer
+G 0 16819 0 *Gold armor is given to The Armorer
+G 0 16818 0 *A set of carbini mail is given to The Armorer
+G 0 16817 0 *A cross helmet is given to The Armorer
+G 0 16814 0 *A main gauche is given to The Armorer
+G 0 16813 0 *Mythril armor is given to The Armorer
+G 0 16808 0 *A mythril sword is given to The Armorer
+G 0 16806 0 *A {8platina{x dagger is given to The Armorer
+G 0 16805 0 *A mythril spear is given to The Armorer
+G 0 16804 0 *A slasher is given to The Armorer
+M 0 16840 4 16830 1 *Load A {!S{1amurai{x
+E 0 16836 0 16 *A masamune is loaded wielded of A {!S{1amurai{x
+E 0 16813 0 5 *Mythril armor is loaded on the body of A {!S{1amurai{x
+M 0 16838 4 16830 1 *Load A {%T{5ime {%M{5age{x
+E 0 16832 0 6 *A triangle hat is loaded over the head of A {%T{5ime {%M{5age{x
+E 0 16831 0 16 *A wizard staff is loaded wielded of A {%T{5ime {%M{5age{x
+M 0 16821 1 16831 1 *Load The Accessory Shop Owner
+G 0 16812 0 *A pair of power wrists is given to The Accessory Shop Owner
+G 0 16811 0 *Battle boots is given to The Accessory Shop Owner
+G 0 16853 0 *An elf mantle is given to The Accessory Shop Owner
+G 0 16851 0 *Feather boots is given to The Accessory Shop Owner
+G 0 16848 0 *A {@s{2etiemson{x is given to The Accessory Shop Owner
+G 0 16847 0 *Some chantage is given to The Accessory Shop Owner
+G 0 16846 0 *An n-kai anklet is given to The Accessory Shop Owner
+G 0 16845 0 *A circle of jade is given to The Accessory Shop Owner
+M 0 16836 4 16833 1 *Load a {$S{4quire{x
+E 0 16810 0 5 *A chain mail vest is loaded on the body of a {$S{4quire{x
+E 0 16804 0 16 *A slasher is loaded wielded of a {$S{4quire{x
+M 0 16837 4 16833 1 *Load A {@C{2hemist{x
+E 0 16811 0 8 *Battle boots is loaded on the feet of A {@C{2hemist{x
+E 0 16810 0 5 *A chain mail vest is loaded on the body of A {@C{2hemist{x
+E 0 16806 0 16 *A {8platina{x dagger is loaded wielded of A {@C{2hemist{x
+M 0 16823 1 16835 1 *Load The Tanner
+M 0 16837 4 16836 1 *Load A {@C{2hemist{x
+E 0 16827 0 16 *An iron sword is loaded wielded of A {@C{2hemist{x
+M 0 16831 3 16840 1 *Load A Juravis
+M 0 16842 4 16842 1 *Load A {@G{2eo{@man{2ce{@r{x
+E 0 16835 0 12 *A wizard robe is loaded about the shoulders of A {@G{2eo{@man{2ce{@r{x
+M 0 16831 1 16842 3 *Load A Juravis
+M 0 16829 3 16844 3 *Load An Archaic Demon
+M 0 16830 1 16844 1 *Load An Ultima Demon
+E 0 16839 0 9 *A demon talon is loaded on the hands of An Ultima Demon
+O 0 16838 0 16844 *A coffin loaded to Murond Chapel
+P 0 16841 1 16838 1 *A holy patch put inside a Holy Patch
+M 0 16832 3 16847 3 *Load An {&Iron Golem{x
+M 0 16839 2 16848 1 *Load A {#B{3ard{x
+E 0 16833 0 16 *Bloody strings is loaded wielded of A {#B{3ard{x
+M 0 16837 4 16848 1 *Load A {@C{2hemist{x
+E 0 16810 0 5 *A chain mail vest is loaded on the body of A {@C{2hemist{x
+E 0 16827 0 16 *An iron sword is loaded wielded of A {@C{2hemist{x
+M 0 16833 1 16848 1 *Load An {&Iron Golem{x
+M 0 16834 1 16849 1 *Load The weaponsmith
+G 0 16857 0 *A blast gun is given to The weaponsmith
+G 0 16856 0 *A glacier gun is given to The weaponsmith
+G 0 16855 0 *A blaze gun is given to The weaponsmith
+G 0 16854 0 *A hunting bow is given to The weaponsmith
+G 0 16849 0 *A night killer is given to The weaponsmith
+G 0 16852 0 *A bow gun is given to The weaponsmith
+M 0 16838 4 16851 1 *Load A {%T{5ime {%M{5age{x
+E 0 16831 0 16 *A wizard staff is loaded wielded of A {%T{5ime {%M{5age{x
+E 0 16835 0 12 *A wizard robe is loaded about the shoulders of A {%T{5ime {%M{5age{x
+M 0 16825 1 16852 1 *Load The Bartender
+M 0 16850 8 16857 1 *Load A Skeleton
+M 0 16868 1 16858 1 *Load A Ghoul
+O 0 16858 0 16858 *The corpse of the thief loaded to Goug Slums
+P 0 16859 3 16858 1 *A mark of the thieve's guild put inside a Mark of the Thieve's Guild
+M 0 16850 8 16859 1 *Load A Skeleton
+M 0 16848 2 16860 1 *Load A Ghoul
+M 0 16835 4 16860 2 *Load A {8Knight{x
+E 0 16830 0 5 *A set of bronze armor is loaded on the body of A {8Knight{x
+E 0 16829 0 6 *An iron helmet is loaded over the head of A {8Knight{x
+E 0 16828 0 11 *A round shield is loaded as a shield of A {8Knight{x
+E 0 16827 0 16 *An iron sword is loaded wielded of A {8Knight{x
+M 0 16848 2 16861 1 *Load A Ghoul
+M 0 16835 4 16861 2 *Load A {8Knight{x
+E 0 16830 0 5 *A set of bronze armor is loaded on the body of A {8Knight{x
+E 0 16829 0 6 *An iron helmet is loaded over the head of A {8Knight{x
+E 0 16828 0 11 *A round shield is loaded as a shield of A {8Knight{x
+E 0 16827 0 16 *An iron sword is loaded wielded of A {8Knight{x
+M 0 16840 4 16863 1 *Load A {!S{1amurai{x
+E 0 16836 0 16 *A masamune is loaded wielded of A {!S{1amurai{x
+M 0 16846 1 16865 1 *Load A {#Yellow{x Chocobo
+M 0 16847 2 16865 2 *Load A {8Black{x Chocobo
+M 0 16849 2 16866 1 *Load A {!R{1ed{x Chocobo.
+M 0 16845 1 16867 1 *Load A Mindflare
+M 0 16851 1 16878 1 *Load A Writhing Man
+M 0 16852 2 16879 2 *Load An Archaic Demon
+M 0 16850 8 16882 4 *Load A Skeleton
+M 0 16850 8 16883 4 *Load A Skeleton
+M 0 16850 8 16884 4 *Load A Skeleton
+M 0 16850 8 16884 4 *Load A Skeleton
+M 0 16850 8 16885 4 *Load A Skeleton
+M 0 16850 8 16885 4 *Load A Skeleton
+M 0 16854 5 16886 2 *Load A Green Dragon
+M 0 16857 4 16887 1 *Load A Minitaurus
+M 0 16862 2 16889 2 *Load A Hydra
+M 0 16861 4 16892 3 *Load A Hyudra
+M 0 16859 4 16895 3 *Load A Behemoth
+M 0 16860 3 16896 2 *Load A Dark Behemoth
+M 0 16853 3 16897 2 *Load A Blue Dragon
+M 0 16854 5 16897 3 *Load A Green Dragon
+M 0 16855 6 16899 1 *Load A Red Dragon
+M 0 16855 6 16902 2 *Load A Red Dragon
+M 0 16853 3 16902 1 *Load A Blue Dragon
+M 0 16860 3 16909 3 *Load A Dark Behemoth
+M 0 16856 5 16910 5 *Load A Bull Demon
+M 0 16857 4 16912 3 *Load A Minitaurus
+M 0 16858 3 16914 2 *Load A Sacred
+M 0 16855 6 16915 4 *Load A Red Dragon
+M 0 16863 5 16919 1 *Load An Apanda
+M 0 16817 1 16920 1 *Load Ramza
+E 0 16821 0 16 *An ancient sword is loaded wielded of Ramza
+E 0 16825 0 5 *A set of crystal mail is loaded on the body of Ramza
+E 0 16824 0 6 *A crystal helmet is loaded over the head of Ramza
+E 0 16823 0 11 *A crystal shield is loaded as a shield of Ramza
+M 0 16816 1 16920 1 *Load Orlandu
+E 0 16842 0 12 *A robe of lords is loaded about the shoulders of Orlandu
+E 0 16825 0 5 *A set of crystal mail is loaded on the body of Orlandu
+E 0 16824 0 6 *A crystal helmet is loaded over the head of Orlandu
+E 0 16826 0 16 *An excalibur is loaded wielded of Orlandu
+E 0 16823 0 11 *A crystal shield is loaded as a shield of Orlandu
+M 0 16863 5 16920 2 *Load An Apanda
+M 0 16863 5 16921 2 *Load An Apanda
+M 0 16864 1 16922 1 *Load Elidibs
+E 0 16843 0 17 *A holy stone, serpentarius is loaded held in the hands of Elidibs
+E 0 16844 0 26 *An unholy band is loaded as a religious patch of Elidibs
+O 0 16803 0 16923 *Strange portal loaded to The Edge of the Cliff
+M 0 16840 4 16927 1 *Load A {!S{1amurai{x
+E 0 16830 0 5 *A set of bronze armor is loaded on the body of A {!S{1amurai{x
+E 0 16836 0 16 *A masamune is loaded wielded of A {!S{1amurai{x
+M 0 16826 1 16928 1 *Load The Alchemist
+G 0 16864 0 *An eye drop is given to The Alchemist
+G 0 16863 0 *An antidote is given to The Alchemist
+G 0 16862 0 *An ether potion is given to The Alchemist
+G 0 16861 0 *A hi-potion is given to The Alchemist
+G 0 16860 0 *An x potion is given to The Alchemist
+M 0 16827 1 16929 1 *Load The Blacksmith
+G 0 16823 0 *A crystal shield is given to The Blacksmith
+G 0 16837 0 *A gold helmet is given to The Blacksmith
+G 0 16820 0 *A gold shield is given to The Blacksmith
+G 0 16819 0 *Gold armor is given to The Blacksmith
+G 0 16825 0 *A set of crystal mail is given to The Blacksmith
+G 0 16824 0 *A crystal helmet is given to The Blacksmith
+M 0 16822 1 16936 1 *Load The Headmaster
+M 0 16866 1 16937 1 *Load A Squire
+M 0 16865 1 16937 1 *Load A Chemist
+M 0 16824 1 16938 1 *Load The Machinist
+M 0 16867 1 16939 1 *Load An {&Iron Golem{x
+M 0 16938 1 16939 1 *Load Deblin's pet
+M 0 16869 1 16942 1 *Load Caer Dominus
+G 0 16865 0 *A scroll marked 'useless' is given to Caer Dominus
+S
+
+
+
+#SHOPS
+16820 0 9 5 0 0 100 50 0 23
+16821 0 9 0 0 0 100 50 0 23
+16822 0 0 0 0 0 100 100 0 23
+16823 0 23 0 0 0 100 100 0 23
+16824 0 0 0 0 0 500 100 0 23
+16825 0 17 28 0 0 100 100 0 23
+16826 0 2 10 9 0 100 50 0 23
+16827 0 9 0 0 0 100 50 0 23
+16828 0 5 10 33 9 100 100 0 23
+16834 0 5 0 0 0 100 50 0 23
+16869 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#16800
+if isfollow $n
+else
+if sex $n == 2
+say Hello ma'am.
+else
+say Hello sir.
+endif
+endif
+ 
+~
+#0
+
+#$

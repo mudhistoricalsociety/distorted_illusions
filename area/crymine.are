@@ -1,0 +1,9422 @@
+#AREADATA
+Name The Underground Expanse~
+Builders Bree~
+VNUMs 46000 47500
+Continent 2
+Credits {Y[{G  ALL{Y ] {cBree     {GUnderground Expanse{x~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#46000
+Underground Dweller~
+an Underground Dweller~
+An Underground Dweller is here walking around.
+~
+~
+human~
+AG 0 0 1000 0
+140 10 1d1+15000 1d1+2000 50d10+40 slap
+10 10 10 10
+I A 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46001
+traveling Drow Merchant~
+a traveling drow merchant~
+A traveling drow merchant is here, walking to the next town.
+~
+~
+dark-elf~
+AG J 0 1000 0
+140 200 1d1+15000 1d1+2000 50d11+39 pound
+10 10 10 10
+I A 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#46002
+a sorceress ~
+a sorceress~
+A sorceress is here hovering above the ground.
+~
+~
+human~
+AGR TU 0 1000 0
+145 50 1d1+15000 1d1+2000 50d11+41 pound
+10 10 10 10
+EI AB 0 0
+stand stand female 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46003
+hybrid~
+a hybrid~
+A hybrid is here walking around on his fins.
+~
+~
+lizardman~
+AG Jb 0 1000 0
+140 20 1d1+15000 1d1+2000 50d10+40 wave
+10 10 10 10
+HI A 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#46004
+draconian cave dweller~
+Draconian cave dweller~
+A Draconian cave dweller is slowly walking around here.
+~
+~
+draconian~
+AG JT 0 1000 0
+140 50 1d1+15000 1d1+2000 50d10+40 pound
+10 10 10 10
+0 A E F
+stand stand none 20000
+AHMXc ABCDEFGHIJKPQ medium unknown
+#46005
+human slave~
+a human slave~
+A human slave is clanking around in chains here.
+~
+~
+human~
+AG J 0 1000 0
+140 50 1d1+15000 1d1+2000 50d10+45 fury
+10 10 10 10
+0 AB 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46006
+Expanse raider~
+an expanse raider~
+An expanse raider is here looking for his next victim.
+~
+~
+dark-elf~
+AFG DFJZ 0 1000 0
+150 100 1d1+17500 1d1+20000 55d12+60 magic
+10 10 10 10
+EFHI AB C S
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#46007
+Expanse lion~
+an expanse lion~
+An expanse lion is prowling around here.
+~
+~
+human~
+AG 0 0 1000 0
+140 10 1d1+15000 1d1+2000 50d10+40 slap
+10 10 10 10
+EI AB 0 0
+stand stand none 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46008
+an expanse tiger~
+An expanse tiger~
+An expanse tiger is here prowling around.
+~
+~
+wolf~
+AG Z 0 1000 0
+140 50 1d1+15000 1d1+5000 50d10+40 scratch
+10 10 10 10
+FH 0 0 0
+stand stand male 10000
+AGV ACDEFJKQV medium unknown
+#46009
+ghostly apparition~
+a ghostly apparition~
+A ghostly apparition is here floating around.
+~
+~
+wyvern~
+AGR DFJT 0 1000 0
+140 100 1d1+14500 1d1+2000 50d10+40 pound
+10 10 10 10
+CFHI ABL 0 S
+stand stand male 10000
+ABGZ ACDEFHJKQVX medium unknown
+#46010
+An old traveler~
+An old traveler~
+An old traveler is here walking around slowly.
+~
+Dressed from head to toe in a long flowing greyish white robe, this
+man is an imposing figure indeed. Long white hair that seems to be 
+almost transparent can be seen spilling out of his hood. A large walking
+staff is in his right hand, and a modest sized blade hangs off of his
+right hip.
+~
+wyvern~
+ABGR DFT C 1000 0
+150 300 1d1+19500 1d1+20000 50d20+99 divine
+-100 -100 -100 -100
+CEFGHI ABLN 0 S
+stand stand male 30000
+ABGZ ACDEFHJKQVX large unknown
+#46011
+shopkeep~
+a shopkeep~
+A shopkeeper stands here.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+120 100 1d1+20000 1d1+200 1d1+2000 pound
+-100 -100 -100 -100
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46012
+jeweler~
+the jeweler~
+The jeweler is here standing behind a counter.
+~
+~
+human~
+ABG DFJZ 0 0 0
+200 200 1d1+2000 0d0+0 1d1+2 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46013
+old wizard~
+an old wizard~
+An old wizard is standing here.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+200 200 1d1+2000 1d1+200 1d1+29 none
+0 0 0 0
+0 0 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46014
+butcher~
+the butcher~
+The butcher is standing behind the counter here.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+200 150 1d1+2000 1d1+20 1d1+20 pound
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46015
+petrified gator~
+{Dpe{Wtr{wif{Wi{Ded{X gator~
+A {Dpe{Wtr{wif{Wi{Ded{X gator is crawling around here.
+~
+~
+lizardman~
+ABG b 0 -1000 0
+140 10 1d1+14000 1d1+200 10d50+40 pound
+10 10 10 10
+0 AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKQ medium unknown
+#46016
+swamp crocodile ~
+a swamp {Gcr{gocodi{Gle{X ~
+A swamp {Gcr{gocodi{Gle{X is here eyeing you up and down.
+~
+~
+human~
+ABGT J 0 -1000 0
+145 10 1d1+14000 1d1+200 10d50+40 scratch
+10 10 10 10
+0 0 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46017
+swamp gremlin~
+a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X~
+A {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X is here sneaking around.
+~
+~
+gremlin~
+ABG T 0 -1000 0
+140 10 1d1+14000 1d1+2000 10d50+40 pound
+10 10 10 10
+0 AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKP medium unknown
+#46018
+hobgoblin swamp~
+a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X~
+A {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X is here hopping around.
+~
+~
+hobgoblin~
+ABG J 0 -1000 0
+140 10 1d1+14000 1d1+200 10d50+40 scratch
+10 10 10 10
+0 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#46019
+Durld~
+Durld~
+The {YQu{yestmaster{X is standing here reading a tomb of some kind.
+~
+~
+dark-elf~
+ABG DFJZ 0 -1000 0
+300 200 1d1+20000 1d1+2000 1d1+2000 divine
+-100 -100 -100 -100
+BCFHK ABCDMN 0 S
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#46020
+stockbroker~
+a stockbroker~
+A stockbroker is standing near the bar here sipping a scotch.
+~
+~
+human~
+ABG DFJVZ 0 -1000 0
+200 200 1d1+20000 1d1+2000 1d1+200 magic
+-100 -100 -10 -100
+0 AB 0 0
+stand stand male 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46021
+bartender~
+a bartender~
+A bartender is standing behind the bar here juggling a bottle of {Dv{bo{Wd{Dk{ba{X.
+~
+~
+human~
+ABG DFJZ 0 -1000 0
+200 100 1d1+20000 1d1+200 1d1+200 pound
+10 10 10 10
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46022
+healer~
+a healer~
+A healer is standing in the corner chanting softly to himself.
+~
+~
+human~
+ABGQa DFJZ 0 -1000 0
+200 200 1d1+2000 1d1+2000 1d1+2000 divine
+100 100 100 10
+0 ABDN 0 0
+stand stand male 100009
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46023
+a janitor~
+a janitor~
+A janitor is here cleaning up some trash.
+~
+~
+human~
+AG 0 0 -1000 0
+30 10 1d1+200 1d1+20 1d1+20 pound
+0 0 0 0
+0 0 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46024
+Room Keeper~
+the room keeper~
+The room keeper is standing behind a desk here.
+~
+~
+human~
+ABG 0 0 0 0
+100 0 1d1+200 1d1+200 1d1+200 none
+0 0 0 0
+0 AB 0 0
+stand stand none 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46025
+practice dummy~
+practice dummy~
+A practice dummy is standing the center of the room here.
+~
+~
+human~
+ABG 0 0 0 0
+1 1 50d50+100000 1d1+1 1d1+1 pound
+10 10 10 10
+0 ABCDMNS 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46026
+a damned guard~
+a {Rdamned{X guard~
+A {Rdamned{X guard is walking around here guarding something.
+~
+~
+dark-elf~
+ABGT DFJV 0 -1000 0
+175 250 1d1+18500 1d1+2000 10d50+200 wave
+-50 -50 -50 -50
+EFGJK AB 0 CPST
+stand stand male 1000
+AHMV ABCDEFGHIJK large unknown
+#46027
+Keeper of Sorrow~
+{RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x~
+{RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x is standing here, keeping all the world's sorrow.
+~
+~
+human~
+AGR DFJQVZac DO -1000 0
+230 400 1d1+60000 1d1+60000 30d70+500 magic
+-140 -140 -140 -140
+ABCDEFGHIK ABH M PT
+stand stand none 30000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46028
+guildmaster~
+guildmaster~
+Your guildmaster is standing here.
+~
+~
+human~
+ABGJKb DFJZ 0 1000 0
+101 200 1d1+20000 1d1+2000 1d1+2000 pound
+-100 -100 -100 -100
+0 ABCD 0 0
+stand stand none 320000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46029
+screaming monkey~
+a screaming {rm{yo{wn{yk{re{Dy{x~
+A screaming {rm{yo{wn{yk{re{Dy{x is here hopping around.
+~
+~
+kobold~
+ABG JZ 0 1000 0
+140 100 1d1+15000 1d1+5000 50d10+45 pound
+10 10 10 10
+E AB 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#46030
+petrified wolf~
+a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X~
+A {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X is walking around here carefully.
+~
+~
+wolf~
+ABG JZ 0 1000 0
+155 150 1d1+15000 3d4+2000 50d10+50 slap
+-10 -10 -10 -10
+EFHI AB 0 0
+stand stand male 10000
+AGV ACDEFJKQV medium unknown
+#46031
+garden gnome~
+a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x~
+A {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x is hobbling around here slowly.
+~
+The garden Gnomes are stealing my sanity!!! ARRG!!
+~
+gnome~
+ABG J 0 1000 0
+155 100 1d1+15000 1d1+12000 50d10+55 pound
+-10 -10 -10 -10
+0 AB 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#46032
+spooky wyvern~
+a {Ws{wp{Do{wo{Wk{wy{x wyvern~
+A {Ws{wp{Do{wo{Wk{wy{x wyvern is floating around near the trees.
+~
+~
+wyvern~
+ABG DFT 0 1000 0
+150 100 1d1+15000 1d1+2000 50d10+45 scratch
+-10 0 0 -10
+CFHI ABL 0 S
+stand stand male 20000
+ABGZ ACDEFHJKQVX medium unknown
+#46033
+cute furry wemic~
+a cute {yf{ru{yr{yr{ry {7wemic{x~
+A cute {yf{ru{yr{yr{ry {7wemic{x is scurrying around here.
+~
+~
+wemic~
+ABG JV 0 1000 0
+155 100 1d1+16000 1d1+2000 50d10+55 bite
+5 5 5 5
+EGHI AB 0 0
+stand stand male 20000
+AHNV ABCDEFGHIJK medium unknown
+#46034
+bat~
+a bat~
+A bat is flying around here.
+~
+~
+bat~
+ABG JTZ 0 1000 0
+150 100 1d1+15500 1d1+2000 50d10+50 bite
+-10 -10 -10 50
+CDFH AB 0 CGS
+stand stand none 30000
+AGV ACDEFHJKP medium unknown
+#46035
+Daygum friendly giant~
+Daygum~
+Daygum, the {Yfriendly{X fire-giant of the forest is here sipping on a cup of tea.
+~
+~
+fire-giant~
+ABGT DFJZ BCO 1000 0
+200 360 1d1+600000 1d1+20000 11d66+220 divine
+-100 -100 -100 -100
+ABCDEFGHK ABGHNS 0 IT
+stand stand male 40000
+AHMV ABCDEFGHIJK medium unknown
+#46036
+shopkeeper~
+a shopkeeper~
+The shopkeeper is standing behind the counter here.
+~
+~
+human~
+ABG DJZ 0 -1000 0
+100 200 1d1+2000 0d0+0 1d1+2000 none
+0 0 0 0
+0 0 0 0
+stand stand none 300000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46037
+wolf guard~
+a {Dw{wo{Wl{Df{X guard{x~
+A {Dw{wo{Wl{Df{X guard{x is standing here, growling softly at you.
+~
+~
+wolf~
+ABFGT DFJV B 1000 0
+170 150 1d1+17500 1d1+10000 50d35+90 bite
+-100 -100 -100 -100
+FH ABNS 0 C
+stand stand none 3200
+AGV ACDEFJKQV medium unknown
+F aff Z
+#46038
+Ghost King Jah Rubal~
+The {DG{wh{Wo{ws{Dt{x of {YK{ying{X {DJ{ra{Dh {RR{rubal{x~
+The {DG{wh{Wo{ws{Dt{x of {YK{ying{X {DJ{ra{Dh {RR{rubal{x is floating around here.
+~
+~
+wyvern~
+ABFGT DFJTVZ D -1000 0
+199 300 5d5+56000 1d1+30000 40d40+100 wrath
+-200 -200 -200 -300
+ACDEFGHIK ABLNS C ST
+stand stand male 80000
+ABGZ ACDEFHJKQVX large unknown
+#46039
+stairwell mouse~
+a stairwell mouse~
+A stairwell mouse is scurrying around here.
+~
+~
+human~
+AG 0 0 -1000 0
+98 0 25d10+3750 10d10+200 6d6+18 scratch
+0 0 0 0
+0 0 0 0
+stand stand none 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46040
+stairwell gremlin~
+a stairwell gremlin~
+A stairwell gremlin is here walking around.
+~
+~
+gremlin~
+AG T 0 -1000 0
+98 0 25d10+3750 1d1+2000 6d6+18 none
+0 0 0 0
+0 0 0 0
+stand stand none 30000
+AHMV ABCDEFGHIJKP medium unknown
+#46041
+stairwell wanderer~
+a stairwell wanderer~
+A stairwell wanderer is walking around here apparently lost.
+~
+~
+goblin~
+AG J 0 -1000 0
+98 0 25d10+3750 1d1+2000 6d6+18 bite
+0 0 0 0
+0 A 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#46042
+sorcerer taburthis~
+Taburthis~
+Taburthis, the castle sorcerer is here bouncing a ball of {Rf{rl{Ra{rm{Re{x in his palm.
+~
+~
+dark-elf~
+ABFG DFJTVc 0 -1000 0
+200 300 1d1+48000 1d1+50000 30d35+30 magic
+-250 -250 -250 -250
+ADEFGHKO ABCM 0 HKS
+stand stand female 40000
+AHMV ABCDEFGHIJK large unknown
+#46043
+the king~
+The {YKing{x~
+The {YKing{x is here staring out an open window.
+~
+~
+human~
+ABGP DFVa DN 1000 0
+220 300 2d20+350000 1d1+340000 45d70+250 magic
+-200 -200 -200 -300
+CDEFGHK ABC DQ T
+stand stand male 23000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46044
+The queen~
+The {YQueen{x~
+The {YQueen{x is here looking at herself in the mirror.
+~
+~
+human~
+ABFG DFVa CN 1000 0
+205 300 2d15+33000 1d1+200000 45d70+250 magic
+-140 -140 -140 -200
+ABEFGHIKO ABD NSZ CKT
+stand stand female 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46045
+Cartigus~
+Cartigus~
+Cartigus, the oldest Priest in the realms is here.
+~
+This figure appears to be dressed in a blindly light white robe that
+hangs down past his knees, while also partially concealing a head with
+a full head of snowy white hair. A small dagger is in a sheath hanging
+from the right side of his white leather belt, inlaid with very fine gold   
+script going along the entire left side of it. He notices you as you enter
+and appears to great you warmly.
+~
+human~
+ABGQ DFJVZc BEN 1000 0
+235 350 20d20+650000 20d20+20000 45d70+250 wrath
+-250 -250 -250 -450
+ABCEFGHIK ABCP EGT 0
+stand stand male 20000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46046
+Royal Guard~
+Royal Guard~
+A {RR{yo{Yyal{x guard is here being vigilant. 
+~
+~
+dragon~
+ABFGS DEFJPTUVZc E 1000 0
+198 300 1d1+40000 1d1+210000 50d75+239 divine
+-180 -180 -180 -180
+BCDEGHIK ABC BDEH FIST
+stand stand male 20900
+AHZ ACDEFGHIJKPQUVX huge unknown
+#46047
+Frad~
+{RF{Wr{Ra{Wd {Wthe {DDi{wsh{Won{wor{Dab{wl{De{x~
+{RF{Wr{Ra{Wd {Wthe {DDi{wsh{Won{wor{Dab{wl{De{x, scourge of Asgard and enemy of The Immortals, is standing here looking stupid.
+~
+~
+human~
+ABG DFJZ H 1000 0
+200 200 1d1+2000 1d1+2000 1d1+2000 pound
+0 0 0 0
+EHI ABCD 0 0
+stand stand none 200000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M EXALL 46003 0~
+M GIVE 46001 47028~
+M GRALL 46000 1000~
+#46048
+bug collector~
+bug collector~
+The bug collector is here, watching you approach.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+2000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 2999
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46002 1000~
+#0
+
+
+
+#OBJECTS
+#46000
+a sign~
+a sign~
+A {Rsign{X is hanging in mid-air here, begging to be read.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Welcome to the Great Underground Expanse! Beyond is an area meant for level 101's.
+This area is meant as a focus area for evil {YLGD's{X.
+Enjoy Responsibly!
+~
+#46001
+shadowy disc~
+a {Ds{Wh{wa{Wd{Do{ww{Dy{X disc~
+A {Ds{Wh{wa{Wd{Do{ww{Dy{X disc is here floating above the ground.~
+shadows~
+armor AY AQ
+BE BE BE BE 0
+101 1 101000 P
+A
+20 -7
+A
+2 -2
+A
+5 -3
+A
+1 -2
+A
+14 -100
+A
+12 200
+A
+19 15
+#46002
+a sign~
+a {Rsign{X~
+A {Rsign{X is floating in mid-air here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The top portion of this tower is meant for mid-level leveling.
+The Bottom part of this tower is meant for {YLGD's{X only.
+~
+#46003
+a sign~
+a sign~
+A {Rsign{X is floating in mid-air here, covered in {Rblood.{X~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Abandon All Hope!
+Ye Who go under!
+~
+#46004
+shadowy wand~
+a {Dsh{Wa{wd{Wo{Dwy{X wand~
+A {Dsh{Wa{wd{Wo{Dwy{X wand lies on the ground shimmernig.~
+shadows~
+wand AG AO
+100 4 4 'fireproof' 0
+99 1 80000 P
+A
+18 5
+#46005
+black wand~
+a black wand~
+A black wand is lying here.~
+unknown~
+wand AG AO
+100 4 4 'curse' 0
+99 1 80000 P
+A
+18 5
+#46006
+blue wand~
+a {Bblue{X wand~
+A{Bblue{X wand is lying on the ground here.~
+platinum~
+wand AG AO
+100 4 4 'holy word' 0
+99 1 90000 P
+#46007
+Potion of Defense~
+potion of {bDefense{X~
+A Potion of Defense lies here.~
+unknown~
+potion 0 AO
+110 'armor' 'steel flesh' 'stone skin' 'shield'
+100 1 90000 P
+#46008
+Potion of Offense~
+potion of {ROffense{X~
+A Potion of {ROffense{X lies on the ground here.~
+unknown~
+potion 0 AO
+110 'haste' 'frenzy' 'bless' 'fly'
+100 1 90000 P
+#46009
+Potion of sight~
+potion of {YS{yi{Yg{yh{Yt{X~
+Potion of {YS{yi{Yg{yh{Yt{X is lying on the ground here.~
+unknown~
+potion 0 AO
+125 'detect motion' 'detect invis' 'infravision' 'detect location'
+101 1 100000 P
+#46010
+bracelet of the expanse~
+{DBr{Wa{wc{Wel{Det{X of the {DE{mx{Wp{ma{Wn{ms{De{X~
+The {DBr{Wa{wc{Wel{Det{X of the {DE{mx{Wp{ma{Wn{ms{De{X has been left behind here.~
+mythril~
+jewelry AG AM
+0 0 0 0 0
+50 1 300000 P
+A
+14 75
+A
+1 -2
+A
+3 5
+A
+12 400
+#46011
+wrist guard of the expanse~
+wrist guard of the {DE{mx{Wp{ma{Wn{ms{De{X~
+A Wrist guard of the {DE{mx{Wp{ma{Wn{ms{De{X has been left behind here.~
+unknown~
+jewelry AG AM
+0 0 0 0 0
+50 2 300000 P
+A
+13 225
+A
+2 -1
+A
+19 -5
+A
+4 2
+A
+5 4
+#46012
+necklace of the expanse~
+necklace of the {DE{mx{Wp{ma{Wn{ms{De{X~
+A Necklace of the {DE{mx{Wp{ma{Wn{ms{De{X has been left here.~
+platinum~
+jewelry AG AC
+0 0 0 0 0
+75 1 450000 P
+A
+19 10
+A
+1 2
+A
+18 5
+#46013
+a sign~
+a {Rsign{X~
+A {Rsign{X is floating in mid-air here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+To the south is a mid-ranged leveling area.
+To the north is the city.
+~
+#46014
+a sign~
+a {Rsign{X~
+A {Rsign{X is floating in mid-air here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+To the north is the Royal Castle, it is meant for {YLGD's{X only.
+~
+#46015
+a sign~
+a {Rsign{X~
+A {Rsign{X is here floating in mid-air.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The {DSw{wam{Wp{wla{Dnds{X are meant as a focus are for good-aligned {YLGD's{X
+~
+#46016
+staff of life~
+staff of life~
+Staff of life has been dropped here.~
+unknown~
+staff AG AO
+110 6 6 'mass healing' 0
+100 1 90000 P
+#46017
+town well~
+town well~
+The town well is here.~
+unknown~
+fountain A 0
+-1 -1 'milk' 0 0
+1 100 0 P
+#46018
+engraved plaque~
+an engraved plaque~
+An engraved plaque is hovering in mid-air here.~
+unknown~
+trash A 0
+0 0 0 0 0
+1 100 0 P
+E
+engraved~
+The Underground Expanse, which is my biggest area ever, was helped made
+possible by the lovely and talented Mirage, who is responsible for all of
+the room descriptions in this massive area.
+~
+#46019
+smoked ham~
+smoked ham~
+A chunk of smoked ham has been left here.~
+pig~
+food 0 AO
+50 50 0 0 0
+40 1 9000 P
+#46020
+whole chicken~
+whole chicken~
+A chicken has been left here.~
+chicken~
+food 0 AO
+80 80 0 0 0
+50 2 10000 P
+#46021
+scroll of identity~
+a scroll of identity~
+A scroll of identity is lying on the ground here.~
+unknown~
+scroll A AO
+75 'identify' 'identify' 'identify' 'reserved'
+20 0 1000 P
+#46022
+scroll of cancellation~
+a scroll of cancellation~
+A scroll of cancellation is lying on the ground here.~
+lamb~
+scroll AY AO
+95 'cancellation' 'cancellation' 'cancellation' 'reserved'
+55 0 10000 P
+#46023
+shot of vodka~
+a shot of {Bv{Do{Wd{Dk{Ba{X~
+A shot of {Bv{Do{Wd{Dk{Ba{X is lying on the ground here.~
+glass~
+drink A AO
+5 5 'vodka' 0 0
+21 1 100 P
+#46024
+healing sauna~
+a {yh{Yea{Wl{Yin{yg{X {cs{Ca{Wu{Cn{ca{X~
+A {yh{Yea{Wl{Yin{yg{X {cs{Ca{Wu{Cn{ca{X is built into the ground here.~
+platinum~
+furniture ABGIRY 0
+BEF DHIJM CFILO CEFGHI CEFGHI
+0 0 0 P
+#46025
+donation pit~
+the donation pit~
+The donation pit sits in the center of the room.~
+unknown~
+pit AG 0
+0 0 0 0 0
+0 0 0 P
+#46026
+blue diamond~
+{Ba blue diamond{X~
+{Ba blue diamond{X is lying here.~
+unknown~
+gem A AO
+0 0 0 0 0
+10 1 8250000 P
+#46027
+scotch on the rocks~
+{ysc{wot{ych{X on the {Dr{yock{Ds{X~
+A {ysc{wot{ych{X on the {Dr{yock{Ds{X has been dropped here.~
+unknown~
+drink AG AO
+12 12 'brandy' 0 0
+21 0 200 P
+#46028
+potato skins~
+{Dp{wot{Wa{wt{Do {yskins{X~
+Some {Dp{wot{Wa{wt{Do {yskins{X have been dropped here.~
+unknown~
+food 0 AO
+35 35 0 0 0
+5 0 500 P
+#46029
+a blue key~
+a {Bblue{X key~
+A key has been left here.~
+unknown~
+key A AO
+0 0 0 0 0
+10 2 400000 P
+#46030
+a red key~
+a {RRed{X key~
+A key has been dropped here.~
+unknown~
+key A AO
+0 0 0 0 0
+10 0 400000 P
+#46031
+a sign~
+a {Rsign{X~
+A {Rsign{X is hovering in mid-air here.~
+unknown~
+trash A 0
+0 0 0 0 0
+1 0 0 P
+E
+sign~
+These are training rooms, equipped with a training dummy for use to practice spells
+and skills on. You can lock the door so as not to be pked as you are doing this.
+~
+#46032
+bar booth~
+a booth~
+A booth is sitting against a corner here looking inviting.~
+unknown~
+furniture 0 0
+B DFGHIJ BEFHIL DGH DGH
+1 0 0 P
+#47000
+crown of the expanse~
+{YC{5r{%o{5w{Yn{x {wof {Dt{whe {%E{Dx{5p{Da{wn{Ds{%e{X~
+The {YC{5r{%o{5w{Yn{x {wof {Dt{whe {%E{Dx{5p{Da{wn{Ds{%e{X has been left behind here.~
+mythril~
+armor AY AE
+BCDE BCDE BCDE BCDE 0
+101 1 101000 P
+A
+17 -17
+A
+20 -7
+A
+1 -2
+A
+12 100
+#47001
+Patch of the expanse~
+{%P{5a{Dt{5ch{w of the {%E{5x{Dp{wa{Dn{5s{%e{X~
+The {%P{5a{Dt{5ch{w of the {%E{5x{Dp{wa{Dn{5s{%e{X has been dropped here.~
+unknown~
+treasure Y AW
+0 0 0 0 0
+101 1 101000 P
+A
+20 -1
+A
+19 11
+A
+12 -100
+A
+9 35
+#47002
+ageless cloak~
+{RA{Bg{wele{Bs{Rs{X {wcl{Wo{wak{X~
+{RA{Bg{wele{Bs{Rs{X {wcl{Wo{wak{X is lying on the ground here.~
+unknown~
+armor AB AD
+ADE ADE ADE ADE 0
+101 1 101000 P
+A
+12 -50
+A
+14 -100
+A
+20 -5
+A
+2 -2
+A
+18 -5
+A
+19 -5
+A
+9 30
+#47003
+noxious ball of gas~
+a {GNo{gx{wi{go{Gus{X {wball{x of {Ggas{X~
+A {GNo{gx{wi{go{Gus{X {wball{x of {Ggas{X is lying here emanating fumes.  ~
+shadows~
+treasure B AO
+0 0 0 0 0
+101 2 101000 P
+A
+20 -8
+A
+18 15
+A
+9 10
+A
+4 -3
+A
+12 -50
+A
+3 -2
+#47004
+Aura of Hope~
+{DA{wu{Wr{Da{w of {YH{yope{X~
+{DA{wu{Wr{Da{w of {YH{yope{X is pulsating here softly on the ground.~
+shadow~
+treasure A AQ
+0 0 0 0 0
+101 0 101000 P
+A
+20 -3
+A
+12 100
+F
+A 0 0 U
+A
+18 10
+A
+19 10
+A
+9 5
+A
+13 50
+#47005
+silver mask of hatred ~
+{wS{Di{Wl{dv{We{wr{X mask of {Rhatred{X ~
+{wS{Di{Wl{dv{We{wr{X mask of {Rhatred{X is lying on the ground here, apparently angry.~
+silver~
+armor ACY AR
+ACE ACE ACE ACE 0
+101 1 101000 P
+A
+23 -5
+A
+21 -2
+A
+22 -2
+A
+19 20
+#47006
+earrings of clarity~
+{CE{5ar{%r{5ing{Cs{X {wof {Yc{yla{Cr{yity{X~
+The {CE{5ar{%r{5ing{Cs{X {wof {Yc{yla{Cr{yity{X are lying on the ground here.~
+fool's gold~
+jewelry CGJ AS
+0 0 0 0 0
+101 1 90000 P
+A
+3 2
+A
+19 -10
+A
+18 25
+A
+20 -3
+#47007
+thieve's cloak of protection~
+{DT{whi{We{wve{D's {Bc{wloak{D of {YP{5rotection{X~
+The {DT{whi{We{wve{D's {Bc{wloak{D of {YP{5rotection{X is lying on the ground here.~
+unknown~
+armor CE AC
+CDEF BD ADE A 0
+101 1 101000 P
+A
+2 3
+A
+18 10
+A
+17 -15
+#47008
+patch of history~
+{6P{$atch {wof {YH{%istor{Yy{X~
+The {6P{$atch {wof {YH{%istor{Yy{X is lying on the ground pulsating history.~
+shadows~
+treasure AGY AW
+0 0 0 0 0
+101 0 101000 P
+A
+13 -75
+A
+1 -1
+A
+6 -1
+A
+12 100
+A
+18 10
+A
+9 25
+A
+26 10
+#47009
+sword of flame~
+{DS{wword {wof {RF{rlame{X~
+A flaming sword appears to have been left behind here.~
+liquid flame~
+weapon AG AN
+sword 4 52 flame ACN
+101 2 101000 P
+A
+18 -4
+A
+9 10
+A
+20 -2
+A
+19 10
+F
+R 0 0 H
+#47010
+axe of insanity~
+{RA{rxe{w of {YI{Rn{%s{Ya{Rn{Yi{Bt{Ry{X~
+An insane looking axe is lying here.~
+unknown~
+weapon B AN
+axe 10 20 slash EJN
+101 5 101000 P
+F
+A 0 0 c
+A
+4 -5
+A
+19 10
+A
+3 -2
+F
+V 0 0 K
+A
+9 5
+A
+18 5
+#47011
+black platinum thieves dagger~
+a {wB{Dlack{X {Wpl{wati{Wnum{X {Bt{5hieves {wd{Da{Wg{Dg{we{Wr{X~
+A {wB{Dlack{X {Wpl{wati{Wnum{X {Bt{5hieves {wd{Da{Wg{Dg{we{Wr{X has been left behind here.~
+black platinum~
+weapon AB AN
+dagger 5 41 stab BJN
+101 2 101000 P
+A
+18 11
+A
+4 -4
+A
+19 8
+A
+2 2
+#47012
+sign~
+a {Rsign{X~
+A {Rsign{X is floating in mid-air here.~
+unknown~
+trash A 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The Lost Kingdom of Sahuagin is still under construction, check back later.
+~
+#47013
+glowing red ruined key~
+a {Yglowing {Rr{re{Rd {Dr{ru{Ri{rn{we{Dd{x key~
+A {Yglowing {Rr{re{Rd {Dr{ru{Ri{rn{we{Dd{x key is smoking on the ground here.~
+unknown~
+key A AO
+0 0 0 0 0
+80 0 0 P
+#47014
+cup of tea~
+a cup of {mt{De{ma{X~
+A cup of {mt{De{ma{X seems to have been left behind here.~
+magic~
+drink AY AO
+80 80 'tea' 0 0
+80 1 50000 P
+#47015
+dark potion~
+a dark potion~
+A dark potion has been left behind here.~
+unknown~
+potion AY AO
+74 'haste' 'giant strength' 'frenzy' 'bless'
+60 0 100000 P
+#47016
+tomb key~
+tomb key~
+A tomb key is lying on the ground here.~
+platinum~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#47019
+shroud of mist~
+{Ds{wh{Wr{wo{Du{wd of {mm{ci{ms{ct{x~
+A shroud is lying on the ground here.~
+myst~
+armor ABJSY AC
+CE CE CE BD 0
+101 1 1010000 P
+A
+2 -1
+A
+17 -10
+A
+18 20
+A
+20 -5
+A
+12 200
+#47020
+fireball~
+{Rf{ri{Rr{re{Rb{ra{Rl{rl{x~
+A {Rf{ri{Rr{re{Rb{ra{Rl{rl{x is lying on the ground here.~
+shadow~
+treasure ASY AQ
+0 0 0 0 0
+101 0 1010000 P
+A
+28 15
+A
+18 10
+A
+19 10
+A
+3 2
+#47021
+gold winged throne~
+a {Ygold {cw{di{Wn{cg{We{cd{X throne~
+A {Ygold {cw{di{Wn{cg{We{cd{X throne is sitting in the center of the room.~
+unknown~
+furniture A 0
+B DFIJN EHK EHI EHI
+30 0 0 P
+#47022
+patch of kings~
+{DP{wa{Wt{wc{Dh{w of {YKi{yn{Ygs{x~
+A {DP{wa{Wt{wc{Dh{w of {YKi{yn{Ygs{x has been left behind here.~
+{Bb{blue {Bs{bilk{x~
+treasure AGSf AW
+0 0 0 0 0
+101 1 1010000 P
+A
+24 -8
+A
+12 250
+A
+13 150
+A
+19 11
+A
+28 5
+A
+20 -3
+#47023
+ring of royalty~
+{yR{Ying{w of {Rr{Yo{yy{ra{Yl{yt{Ry{x~
+The {yR{Ying{w of {Rr{Yo{yy{ra{Yl{yt{Ry{x has been dropped here.~
+{BW{bi{Ds{bps {Do{wf {Db{wl{Wa{wc{Wk{x {bs{Bm{bo{Bk{be{x~
+jewelry ABGLSTY AB
+0 0 0 0 0
+101 1 2020000 P
+A
+9 18
+A
+18 15
+A
+5 -3
+A
+13 175
+A
+12 175
+A
+26 6
+A
+1 -2
+A
+24 -8
+#47024
+hemp charm bracelet~
+a {yH{ce{ym{Dp{x charm bracelet~
+A {yH{ce{ym{Dp{x charm bracelet has been left behind here.~
+{yH{ce{ym{Dp{x~
+jewelry AGLSY AM
+0 0 0 0 0
+101 0 1010000 P
+A
+18 20
+A
+20 15
+A
+13 500
+A
+28 10
+A
+26 10
+A
+5 -3
+A
+4 -2
+#47025
+tiny orb of black light~
+tiny {Rorb {xof {Db{5l{Da{8c{wk {Yl{yight{x~
+A tiny {Rorb {xof {Db{5l{Da{8c{wk {Yl{yight{x appears to have been dropped here.~
+{8d{5a{7r{5k {8m{5a{7g{5i{8c{x~
+light CGLSYf A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 0 2020000 P
+A
+12 200
+A
+13 200
+A
+9 35
+A
+1 -2
+A
+2 -2
+#47026
+Legplates of Divinity~
+{2Le{@gpl{2at{@es {Do{wf {YD{yiv{Yi{ynity{x~
+Some {2Le{@gpl{2at{@es {Do{wf {YD{yiv{Yi{ynity{x have apparently been lost here.~
+magic~
+armor CGKSY AF
+ACDF ACDF ACDF ACDF 0
+101 1 1010000 P
+A
+17 -30
+F
+I 0 0 S
+F
+I 0 0 N
+F
+S 0 0 N
+F
+S 0 0 O
+A
+2 -2
+#47028
+bug mprogquest~
+a {Bb{Yu{Rg{X~
+A {Bb{Yu{Rg{X that someone might {RLOVE{x to exploit is sitting here twitching.~
+shadow~
+trash PSTUY AO
+0 0 0 0 0
+100 10 0 P
+A
+3 -20
+#47029
+belt of royalty~
+belt of {yR{Yoyalty{X~
+The belt of {yR{Yoyalty{X has been dropped here.~
+unknown~
+treasure ACGSY AL
+0 0 0 0 0
+101 1 101000 P
+A
+20 -16
+A
+4 -3
+A
+1 -5
+A
+5 -5
+A
+2 -3
+#47030
+glowing twine of string~
+{Ygl{yo{Yw{yi{Yng {Wt{ww{Di{wn{We{x of string{X~
+A {Ygl{yo{Yw{yi{Yng {Wt{ww{Di{wn{We{x of string{X has been dropped here.~
+magic~
+gem EGSY AO
+0 0 0 0 0
+101 1 101000 P
+F
+A 0 0 c
+A
+20 -10
+F
+R 0 0 N
+F
+R 0 0 C
+#47031
+Queen's battle boots~
+{YQu{ye{Yen's {YB{yattle {Db{woots{X~
+The {YQu{ye{Yen's {YB{yattle {Db{woots{X have been left behind here.~
+{mm{Da{Yg{Di{mc{X~
+armor CSTYf AG
+DF DF DF DF 0
+101 5 202000 P
+A
+12 -200
+A
+1 5
+A
+19 15
+#47499
+life~
+a life~
+A life~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#47500
+a sign~
+a {Rsign{X~
+A {Rsign{X is hovering in mid-air here.~
+unknown~
+trash A 0
+0 0 0 0 0
+1 20 0 P
+E
+sign~
+To the South is the Lost Kingdom of Sahuagin.
+To the North is the City of {YI{ys{Db{We{Dl{yl{Ya{X
+To the west is the {DPe{wtr{Wif{wi{Ded{X {GF{go{Dr{gest{X, it is a focus are for Evil aligned {YLDG's{X
+To the East is the Forrest of Illusion
+~
+#0
+
+
+
+#ROOMS
+#46080
+Tunnel~
+Going down this winding stairwell the cedar steps start to crumble under
+your feet.  Amazingly under the cedar the stairs are made of {Rcopper{x. 
+The stairs lead down and up the tunnel.  
+~
+0 0 5
+D4
+~
+~
+0 0 46027
+D5
+~
+~
+0 0 46081
+S
+#46081
+Tunnel~
+The stairs seem to go deep into mountain.  The torches that light the
+stairwell must go the length of the tunnel, looking down it looks like tiny
+little lights going into the depths of who knows where.  
+~
+0 0 5
+D4
+~
+~
+0 0 46080
+D5
+~
+~
+0 0 46082
+S
+#46082
+Tunnel~
+The handrail is attached here and is made of {rcopper{x and {8silver{x. 
+There are beautiful carvings in the handrail that match those on the hooks
+holding the lanterns in place.  The tunnel leads up and down.  
+~
+0 0 5
+D4
+~
+~
+0 0 46081
+D5
+~
+~
+0 0 46083
+S
+#46083
+Tunnel~
+Going further down the stairs gems embedded into walls can now be seen. 
+The gems glisten {bevery{x {rcolor{x {yof{x {cthe{x {Wrainbow{x.  The stairs
+lead up and down.  
+~
+0 0 5
+D4
+~
+~
+0 0 46082
+D5
+~
+~
+0 0 46084
+S
+#46084
+Tunnel~
+At the end of this stairwell an archway leading southward radiates as
+lanterns hang from the archway.  The lanterns are made of the same
+{rcopper{x as the stairs above were with {Ggreen{x gems decorating the
+lanterns.  The tunnel leads back up the stairs and to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 46085
+D4
+~
+~
+0 0 46083
+S
+#46085
+Tunnel~
+As the tunnel leads onward {Ggreen{x gems gleam on the walls from the
+reflection off the lanterns.  The gems look like eyes glowing and staring at
+you.  The tunnel leads north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46084
+D2
+~
+~
+0 0 46086
+S
+#46086
+Tunnel~
+Water drips lightly from a crack in the ceiling of the tunnel.  A small
+stream has formed from the dripping water.  North and south the tunnel
+continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46085
+D2
+~
+~
+0 0 46087
+S
+#46087
+Tunnel~
+Following the small stream through the tunnel, other parts of the ceiling
+are also dripping into the stream.  The stream is gettting bigger.  North
+and south are the only exits.  
+~
+0 0 5
+D0
+~
+~
+0 0 46086
+D2
+~
+~
+0 0 46088
+S
+#46088
+Tunnel~
+Moss grows on a boulder that sits half in the tunnel stream.  Small
+{Cmushrooms{x grow around the stream.  Exit to the north or south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46087
+D2
+~
+~
+0 0 46089
+S
+#46089
+Tunnel~
+The stream flows faster here as more water falls into the stream from the
+ceiling.  Small fish can be seen swimming in the stream.  North and south
+the tunnel continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46088
+D2
+~
+~
+0 0 46090
+S
+#46090
+Tunnel~
+Moss and mold grow heavier here as the water levels grow higher.  The
+insides of your boots are soaked.  North and South the tunnel continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46089
+D2
+~
+~
+0 0 46079
+S
+#46091
+Tunnel~
+Small unlit torches hang on each side of the stairs leading down the
+tunnel stairs.  You can barely see the {rcopper{x that is embedded in the
+rocks stuck in the walls.  The stairs lead up and down.  
+~
+0 0 5
+D4
+~
+~
+0 0 46029
+D5
+~
+~
+0 0 46092
+S
+#46092
+Tunnel~
+The mud made stairs show the wear made them by many travels up and down
+them.  Some parts of the stairs are starting to break off at the edges.  Up
+and down the tunnel continues.  
+~
+0 0 5
+D4
+~
+~
+0 0 46091
+D5
+~
+~
+0 0 46093
+S
+#46093
+Tunnel~
+A small pile of {rcopper{x sits on the side of the stairs.  Next to the
+pile a small stone looking pick lays abandoned.  The tunnel leads up and
+down.  
+~
+0 0 5
+D4
+~
+~
+0 0 46092
+D5
+~
+~
+0 0 46094
+S
+#46094
+Tunnel~
+Here at the bottom of the tunnel a cart sits to the side empty.  You
+wonder if this is where they mined all the {rcopper{x for the city above. 
+The tunnel leads to the west and back upwards.  
+~
+0 0 5
+D3
+~
+~
+0 0 46095
+D4
+~
+~
+0 0 46093
+S
+#46095
+Tunnel~
+The torches are lit in this part of the tunnel making it easy to see
+where all the {rcopper{x and {zsilver{x the city was built of came from. 
+The sight of it is absolutly beautiful.  The tunnel leads east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46094
+D3
+~
+~
+0 0 46096
+S
+#46096
+Tunnel~
+These secret tunnels would be completly empty of silver and {rcopper{x if
+many people knew about it.  No one or nothing is in sight other than
+yourself.  East and west the path continue.  
+~
+0 0 5
+D1
+~
+~
+0 0 46095
+D3
+~
+~
+0 0 46097
+S
+#46097
+Tunnel~
+As the tunnel turns to the north a small bench sits to the side.  Open
+north the bench are pails full of {rcopper{x and of silver.  Someone must
+have been here recently and left behind their loot.  
+~
+0 0 5
+D0
+~
+~
+0 0 46098
+D1
+~
+~
+0 0 46096
+S
+#46098
+Tunnel~
+This part of the tunnel is dim, the torches are not lit and look as if
+they havent been in ages.  The tunnel continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46099
+D2
+~
+~
+0 0 46097
+S
+#46099
+Tunnel~
+Rotten apple cores and orange peels from a picnic left long ago stink up
+this part of the tunnel.  Another staircase leads downward,or south back the
+way you came.  
+~
+0 0 5
+D2
+~
+~
+0 0 46098
+D5
+~
+~
+0 0 46100
+S
+#46100
+Dead End in the Tunnel~
+Here in the dead end of the tunnel you realize that this room was used to
+hold the tools they used for mining the {rcopper{x.  Picks and shovels lean
+againest the walls and with pails and buckets with hammers and other tools
+sit here that were left behind.  The only exit is up.  
+~
+0 0 5
+D4
+~
+~
+0 0 46099
+S
+#46101
+Tunnel~
+~
+0 0 5
+D1
+~
+~
+0 0 46102
+D3
+~
+~
+0 0 46075
+S
+#46102
+Tunnel~
+~
+0 0 5
+D1
+~
+~
+0 0 46103
+D3
+~
+~
+0 0 46101
+S
+#46103
+Tunnel~
+~
+0 0 5
+D1
+~
+~
+0 0 46104
+D3
+~
+~
+0 0 46102
+S
+#46104
+Tunnel~
+~
+0 0 5
+D1
+~
+~
+1 0 46105
+D3
+~
+~
+0 0 46103
+S
+#46105
+{DBeginning of The Ex{Wp{wa{Wn{Dse{X~
+~
+0 0 5
+D1
+~
+~
+0 0 46106
+D3
+~
+~
+1 0 46104
+S
+#46106
+The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46110
+D1
+~
+~
+0 0 46107
+D3
+~
+~
+0 0 46105
+S
+#46107
+The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46111
+D1
+~
+~
+0 0 46108
+D2
+~
+~
+0 0 46114
+D3
+~
+~
+0 0 46106
+S
+#46108
+The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46112
+D1
+~
+~
+0 0 46109
+D3
+~
+~
+0 0 46107
+S
+#46109
+The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46113
+D3
+~
+~
+0 0 46108
+S
+#46110
+The Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46111
+D2
+~
+~
+0 0 46106
+S
+#46111
+The Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46112
+D2
+~
+~
+0 0 46107
+D3
+~
+~
+0 0 46110
+S
+#46112
+The Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46113
+D2
+~
+~
+0 0 46108
+D3
+~
+~
+0 0 46111
+S
+#46113
+The Expanse~
+~
+0 0 5
+D2
+~
+~
+0 0 46109
+D3
+~
+~
+0 0 46112
+S
+#46114
+{YLi{ynk{Yin{yg{X The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46107
+D2
+~
+~
+0 0 46115
+S
+#46115
+{YLi{ynk{Yin{yg{X The Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46114
+D2
+~
+~
+0 0 46116
+S
+#46116
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46115
+D1
+~
+~
+0 0 46117
+D3
+~
+~
+0 0 46120
+S
+#46117
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46118
+D3
+~
+~
+0 0 46116
+S
+#46118
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46119
+D2
+~
+~
+0 0 46132
+D3
+~
+~
+0 0 46117
+S
+#46119
+The Lower Expanse~
+~
+0 0 5
+D3
+~
+~
+0 0 46118
+S
+#46120
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46116
+D3
+~
+~
+0 0 46121
+S
+#46121
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46120
+D3
+~
+~
+0 0 46122
+S
+#46122
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46121
+D3
+~
+~
+0 0 46123
+S
+#46123
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46122
+D2
+~
+~
+0 0 46124
+S
+#46124
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46123
+D1
+~
+~
+0 0 46126
+D2
+~
+~
+0 0 46125
+S
+#46125
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46124
+D1
+~
+~
+0 0 46127
+S
+#46126
+The Lower Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46128
+D2
+~
+~
+0 0 46127
+D3
+~
+~
+0 0 46124
+S
+#46127
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46126
+D1
+~
+~
+0 0 46129
+D3
+~
+~
+0 0 46125
+S
+#46128
+The Lower Expanse~
+~
+0 0 5
+D2
+~
+~
+0 0 46129
+D3
+~
+~
+0 0 46126
+S
+#46129
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46128
+D2
+~
+~
+0 0 46130
+D3
+~
+~
+0 0 46127
+S
+#46130
+The Lower Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46129
+D1
+~
+~
+0 0 46131
+S
+#46131
+The Lower Expanse~
+~
+0 0 5
+D3
+~
+~
+0 0 46130
+S
+#46132
+{YMi{ydd{Yl{ye {DEx{Wp{wa{Wn{Dse{X {YLink{X~
+~
+0 0 5
+D0
+~
+~
+0 0 46118
+D2
+~
+~
+0 0 46133
+S
+#46133
+{YMi{ydd{Yl{ye {DEx{Wp{wa{Wn{Dse{X {YLink{X~
+~
+0 0 5
+D0
+~
+~
+0 0 46132
+D2
+~
+~
+0 0 46134
+S
+#46134
+{YMi{ydd{Yl{ye {DEx{Wp{wa{Wn{Dse{X {YLink{X~
+~
+0 0 5
+D0
+~
+~
+0 0 46133
+D2
+~
+~
+0 0 46135
+S
+#46135
+{YMi{ydd{Yl{ye {DEx{Wp{wa{Wn{Dse{X {YLink{X~
+~
+0 0 5
+D0
+~
+~
+0 0 46134
+D1
+~
+~
+0 0 46136
+S
+#46136
+The Middle Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46137
+D3
+~
+~
+0 0 46135
+S
+#46137
+The Middle Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46138
+D3
+~
+~
+0 0 46136
+S
+#46138
+The Middle Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46139
+D3
+~
+~
+0 0 46137
+S
+#46139
+The Middle Expanse~
+~
+0 0 5
+D2
+~
+~
+0 0 46140
+D3
+~
+~
+0 0 46138
+S
+#46140
+Entrance to The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46139
+D2
+~
+~
+0 0 46141
+S
+#46141
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46140
+D2
+~
+~
+0 0 46142
+S
+#46142
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46141
+D1
+~
+~
+0 0 46143
+S
+#46143
+The Sideways Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46144
+D2
+~
+~
+0 0 46148
+D3
+~
+~
+0 0 46142
+S
+#46144
+The Sideways Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46145
+D2
+~
+~
+0 0 46147
+D3
+~
+~
+0 0 46143
+S
+#46145
+The Sideways Expanse~
+~
+0 0 5
+D2
+~
+~
+0 0 46146
+D3
+~
+~
+0 0 46144
+S
+#46146
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46145
+D3
+~
+~
+0 0 46147
+S
+#46147
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46144
+D1
+~
+~
+0 0 46146
+D3
+~
+~
+0 0 46148
+S
+#46148
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46143
+D1
+~
+~
+0 0 46147
+D2
+~
+~
+0 0 46149
+S
+#46149
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46148
+D2
+~
+~
+0 0 46150
+S
+#46150
+The Sideways Expanse~
+~
+0 0 5
+D0
+~
+~
+0 0 46149
+D1
+~
+~
+0 0 46151
+S
+#46151
+The Sideways Expanse~
+~
+0 0 5
+D1
+~
+~
+0 0 46152
+D3
+~
+~
+0 0 46150
+S
+#46152
+The Sideways Expanse Expressway~
+~
+0 0 5
+D1
+~
+~
+0 0 46153
+D3
+~
+~
+0 0 46151
+S
+#46153
+The Sideways Expanse Expressway~
+~
+0 0 5
+D1
+~
+~
+0 0 46154
+D3
+~
+~
+0 0 46152
+S
+#46154
+The Sideways Expanse Expressway~
+~
+0 0 5
+D1
+~
+~
+0 0 46155
+D3
+~
+~
+0 0 46153
+S
+#46155
+The Sideways Expanse Expressway~
+~
+0 0 1
+D1
+~
+~
+1 0 46156
+D3
+~
+~
+0 0 46154
+S
+#46156
+{DExpanse Entrance To Isabel City{X~
+~
+0 0 1
+D3
+~
+~
+1 0 46155
+D5
+~
+~
+0 0 46263
+S
+#46157
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46158
+D2
+~
+~
+0 0 46070
+S
+#46158
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46159
+D2
+~
+~
+0 0 46157
+S
+#46159
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46160
+D2
+~
+~
+0 0 46158
+S
+#46160
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46161
+D2
+~
+~
+0 0 46159
+S
+#46161
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46162
+D2
+~
+~
+0 0 46160
+S
+#46162
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46163
+D2
+~
+~
+0 0 46161
+S
+#46163
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46164
+D2
+~
+~
+0 0 46162
+S
+#46164
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46165
+D3
+~
+~
+0 0 46163
+S
+#46165
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46166
+D3
+~
+~
+0 0 46164
+S
+#46166
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D1
+~
+~
+0 0 46167
+D3
+~
+~
+0 0 46165
+S
+#46167
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+1 0 46343
+D1
+~
+~
+0 0 46168
+D3
+~
+~
+0 0 46166
+S
+#46168
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46169
+D3
+~
+~
+0 0 46167
+S
+#46169
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D1
+~
+~
+0 0 46170
+D3
+~
+~
+0 0 46168
+S
+#46170
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D1
+~
+~
+0 0 46171
+D3
+~
+~
+0 0 46169
+S
+#46171
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46172
+D3
+~
+~
+0 0 46170
+S
+#46172
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D2
+~
+~
+0 0 46173
+D3
+~
+~
+0 0 46171
+S
+#46173
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46172
+D2
+~
+~
+0 0 46174
+S
+#46174
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46173
+D2
+~
+~
+0 0 46175
+S
+#46175
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46174
+D2
+~
+~
+0 0 46176
+S
+#46176
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46175
+D2
+~
+~
+0 0 46177
+S
+#46177
+Along The Inner Wall~
+This city has a familiar feeling to it but is still different from
+anywhere you've ever been.  You still can't put your finger on the name of
+place that is so much like this.  
+~
+0 0 1
+D0
+~
+~
+0 0 46176
+D1
+~
+~
+1 0 46277
+D2
+~
+~
+0 0 46178
+D3
+~
+~
+0 0 46209
+D4
+~
+~
+1 0 46263
+S
+#46178
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46177
+D2
+~
+~
+0 0 46179
+S
+#46179
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46178
+D2
+~
+~
+0 0 46180
+S
+#46180
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46179
+D2
+~
+~
+0 0 46181
+S
+#46181
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46180
+D3
+~
+~
+0 0 46182
+S
+#46182
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46181
+D3
+~
+~
+0 0 46183
+S
+#46183
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46182
+D3
+~
+~
+0 0 46184
+S
+#46184
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46183
+D3
+~
+~
+0 0 46185
+S
+#46185
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46184
+D3
+~
+~
+0 0 46186
+S
+#46186
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.  
+It looks old but still very sturdy.
+~
+0 0 1
+D1
+~
+~
+0 0 46185
+D3
+~
+~
+0 0 46187
+S
+#46187
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46186
+D3
+~
+~
+0 0 46188
+S
+#46188
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46187
+D3
+~
+~
+0 0 46189
+S
+#46189
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46217
+D1
+~
+~
+0 0 46188
+D2
+~
+~
+1 0 46301
+D3
+~
+~
+0 0 46190
+S
+#46190
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46189
+D3
+~
+~
+0 0 46191
+S
+#46191
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.  
+It looks old but still very sturdy.
+~
+0 0 1
+D1
+~
+~
+0 0 46190
+D3
+~
+~
+0 0 46192
+S
+#46192
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46191
+D3
+~
+~
+0 0 46193
+S
+#46193
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D1
+~
+~
+0 0 46192
+D3
+~
+~
+0 0 46194
+S
+#46194
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46195
+D1
+~
+~
+0 0 46193
+S
+#46195
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46196
+D2
+~
+~
+0 0 46194
+S
+#46196
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46197
+D2
+~
+~
+0 0 46195
+S
+#46197
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46198
+D2
+~
+~
+0 0 46196
+S
+#46198
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their
+enemies.  It looks old but still very sturdy.  
+~
+0 0 1
+D0
+~
+~
+0 0 46199
+D2
+~
+~
+0 0 46197
+S
+#46199
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46198
+S
+#46200
+Along The Inner Wall~
+A tall {Rbrick{x wall goes all around the city for protection from their enemies.
+It looks old but still very sturdy.
+~
+0 0 1
+D0
+~
+~
+0 0 46070
+D2
+~
+~
+0 0 46199
+S
+#46201
+Central Avenue~
+The city streets are made of pure {8silver{x and {rcopper{x.  It looks
+like it was made for kids to play hop scotch on.  To the west leads back out
+of the city to the east leads into the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 46202
+D3
+~
+~
+0 0 46070
+S
+#46202
+Central Avenue~
+You are traveling down Central Avenue this is the main street through
+this city.  To the west leads out of the city, to the east continues through
+the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 46203
+D3
+~
+~
+0 0 46201
+S
+#46203
+Central Avenue~
+A burly looking man steps out from the north and welcomes you to
+Isabella.  He tells of the mages training and practice yard to the south. 
+To the north a little shop of potions.  
+~
+0 0 1
+D0
+~
+~
+0 0 46236
+D1
+~
+~
+0 0 46204
+D2
+~
+~
+0 0 46469
+D3
+~
+~
+0 0 46202
+S
+#46204
+Central Avenue~
+A rotten smell fill the air.  Pigs feet and feathers lay piled up on the
+side of the road.  To the south lays the butchers shop.  East and west takes
+you through the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 46205
+D2
+~
+~
+0 0 46449
+D3
+~
+~
+0 0 46203
+S
+#46205
+{CC{central {CS{cquare{X~
+You are standing on central square, the famous square of Isabella.  A
+large, peculiar looking statue is standing in the middle of the square.  The
+road leads in every direction.  You get that strange feeling again that
+you've been here before.  
+~
+0 0 1
+D0
+~
+~
+0 0 46210
+D1
+~
+~
+0 0 46206
+D2
+~
+~
+0 0 46214
+D3
+~
+~
+0 0 46204
+D4
+~
+~
+1 0 46218
+D5
+~
+~
+1 0 46227
+S
+#46206
+Central Avenue~
+Weeping willows on the side of the road drape down blocking out all
+sunlight.  It feels alote cooler in the shade from the trees.  The road
+leads east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 46207
+D3
+~
+~
+0 0 46205
+S
+#46207
+Central Avenue~
+Flowers border the road all the way up to the entrance of the shops on
+the north and south.  The birds are singing, the flowers smell great its a
+beautiful day 
+~
+0 0 1
+D0
+~
+~
+0 0 46237
+D1
+~
+~
+0 0 46208
+D2
+~
+~
+0 0 46470
+D3
+~
+~
+0 0 46206
+S
+#46208
+Central Avenue~
+There are benches on the side of the road to take a rest.  A small
+drinking fountain sits in between the benches.  
+~
+0 0 1
+D1
+~
+~
+0 0 46209
+D2
+~
+~
+0 0 46412
+D3
+~
+~
+0 0 46207
+S
+#46209
+Central Avenue~
+The {8silver{x and {ygold{x road ends here.  The road is now made of
+{Rred bricks{x .  The road continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 46177
+D3
+~
+~
+0 0 46208
+S
+#46210
+Temple Way~
+The street here is so crowded that your pushed out of the way.  Busily
+people scury about going here and there.  To the west you see clerics going
+to get training and practice.  The south is the busiest street as its the
+hub of the town.  To the north leads towards the great temples.  
+~
+0 0 1
+D0
+~
+~
+0 0 46211
+D2
+~
+~
+0 0 46205
+D3
+~
+~
+0 0 46468
+S
+#46211
+{wTemple of {CP{coseidon{X~
+You are in a place where there are many great temples.  They are
+decorated with jewels and gold on a god-like fashion.  Chanting sounds come
+from some of the closer ones, while others lok dark and desolate.  An aura
+of power can be felt all around.  This all looks very familiar.  
+~
+0 0 1
+D0
+~
+~
+0 0 46212
+D1
+~
+~
+0 0 46459
+D2
+~
+~
+0 0 46210
+D4
+~
+~
+0 0 46477
+S
+#46212
+{DT{wemple {DS{wquare{X~
+You have entered the temple.  The building is made of polished stone,
+illuminated by large windows on either side of the chamber.  To the north
+you see the donation room where you can donate to the gods or accept
+donations from other people.  To the west lies the Temple of Thor, where the
+people who believe in good and kind things may worship.  To the east lies
+the Temple of Loki, where evilness is celebrated.  
+~
+0 0 1
+D0
+~
+~
+0 0 46213
+D1
+~
+~
+0 0 46461
+D2
+~
+~
+0 0 46211
+D3
+~
+~
+0 0 46463
+S
+#46213
+The {DD{wonation {DP{wit{X~
+This the donation area.  You may leave gifts of unwanted equipment here
+for the Gods or for other people that enter in here.  You may donate at
+anytime where ever you are by simply using donate.  You may also look in the
+pit to see if there is anything that you could use.  
+~
+0 0 1
+D2
+~
+~
+0 0 46212
+S
+#46214
+Split Way~
+The pathway is lined on the sides with beautiful sunflowers reaching high
+into the heavens.  To the east a foul stench can be smelt when the wind
+blows.  You here clanging of weapons to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 46205
+D1
+~
+~
+0 0 46472
+D2
+~
+~
+0 0 46215
+D3
+~
+~
+0 0 46465
+S
+#46215
+Split Way~
+A white picket fence lines both sides of the path as you see the homes of
+the locals.  The homes are small but very nice and lots of detailed
+woodword.  Homes are to the east and west.  The path leads north and south. 
+~
+0 0 1
+D0
+~
+~
+0 0 46214
+D1
+~
+~
+0 0 46239
+D2
+~
+~
+0 0 46216
+D3
+~
+~
+0 0 46238
+S
+#46216
+Split Way~
+The white picket fence continues to border the pathway.  Little
+{Yyellow{x flowers have been planted along the fence.  The path leads north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 46215
+D2
+~
+~
+0 0 46217
+S
+#46217
+Split Way~
+A gate sits on each sit of the path leading to more homes.  The home to
+the west looks a little weathered.  To the east it looks as though it has a
+fresh coat of paint.  
+~
+0 0 1
+D0
+~
+~
+0 0 46216
+D1
+~
+~
+0 0 46240
+D2
+~
+~
+0 0 46189
+D3
+~
+~
+0 0 46241
+S
+#46218
+The Jaded Stairwell~
+A Jaded stairwell leads into more areas for training.  Please read the
+sign for anymore help.  
+~
+0 0 1
+D4
+~
+~
+0 0 46219
+D5
+~
+~
+1 0 46205
+S
+#46219
+The Jaded Stairwell~
+Going up the stairwell you come to the next floor which is a bright
+{Ggreen{x .  Remember what the sign below said before you decide this is
+where you want to fight.  The stairwell leads up and down and now to the
+east.  
+~
+0 0 1
+D1
+~
+~
+0 0 46221
+D4
+~
+~
+0 0 46220
+D5
+~
+~
+0 0 46218
+S
+#46220
+The Jaded Stairwell~
+The boards of the stairwell start to creep as you step down on them. 
+Hopefully you have the sneak skill or you'll never make it all the way up
+the stairs without a fight.  
+~
+0 0 1
+D4
+~
+~
+0 0 46222
+D5
+~
+~
+0 0 46219
+S
+#46221
+First Floor Hallway~
+As you step off the stairwell you hear what sounds like heavy-rock music.
+Just the beat of the music pumps you up.  Be weary you never know what your
+going to find here.  
+~
+0 0 1
+D1
+~
+~
+0 0 46242
+D3
+~
+~
+0 0 46219
+S
+#46222
+The Jaded Stairwell~
+As you continue up the stairwell you come upon another floor to the east.
+You wonder what might be lingering around on this floor.  The stairs
+continue up and down while to the east is another floor.  
+~
+0 0 1
+D1
+~
+~
+0 0 46223
+D4
+~
+~
+0 0 46224
+D5
+~
+~
+0 0 46220
+S
+#46223
+Second Floor Hallway~
+This is the second floor hallway, but it looks more like a narrow,
+straight battlefield.  Blood slattered all over the wall and floors.  There
+is even blood on the ceiling.  The hallways leads east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 46246
+D3
+~
+~
+0 0 46222
+S
+#46224
+The Jaded Stairwell~
+The stairwell becomes narrower the further you travel up them.  The walls
+seem to be closing in around you.  The stairwells continues up and down.  
+~
+0 0 1
+D4
+~
+~
+0 0 46225
+D5
+~
+~
+0 0 46222
+S
+#46225
+The Jaded Stairwell~
+This is the very top of the stairwell.  A large stain-glassed window
+gives a great view of the city below.  Once again you hear music playing
+loudly.  The exits are east and down the stairwell.  
+~
+0 0 1
+D1
+~
+~
+0 0 46226
+D5
+~
+~
+0 0 46224
+S
+#46226
+Third Floor Hallway~
+The hallway was blood stains on the wooden floor.  It looks like someone
+tried to cover it up with a mug but that just made it more noticable.  The
+hallway continue east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 46251
+D3
+~
+~
+0 0 46225
+S
+#46227
+The Damned Stairwell~
+A large sign is floating in the middle of the air here. A foul smell seems
+to be comming from below. Be wary.
+~
+0 0 1
+D4
+~
+~
+1 0 46205
+D5
+~
+~
+0 0 46228
+S
+#46228
+The Damned Stairwell~
+The stairwell is made of stone and mortor.  A guard stands in the
+entrance to the east.  The stairwell continues downward.  
+~
+0 0 1
+D1
+~
+~
+0 0 46229
+D4
+~
+~
+0 0 46227
+D5
+~
+~
+0 0 46230
+S
+#46229
+Negative First Floor~
+The guard stands rigid and in a trance-like state.  He blocks the walkway
+through the first floor hallway.  Exits are east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 46259
+D3
+~
+~
+0 0 46228
+S
+#46230
+The damned Stairwell~
+A guard walks around looking for people that have no business here.  The
+weak ones need not try.  The stairwell leads up and down.  
+~
+0 0 1
+D4
+~
+~
+0 0 46228
+D5
+~
+~
+0 0 46231
+S
+#46231
+The Damned Stairwell~
+The guard in this part of the stairwell is looking around for any signs
+of trouble.  Up and down you remain in the stairwell to the east is more
+training.  
+~
+0 0 1
+D1
+~
+~
+0 0 46232
+D4
+~
+~
+0 0 46230
+D5
+~
+~
+0 0 46233
+S
+#46232
+Negative Second Floor~
+Guards are all over this floor.  They must be looking for someone.  The
+hallway lead west to go back out and east further in.  
+~
+0 0 1
+D1
+~
+~
+0 0 46264
+D3
+~
+~
+0 0 46231
+S
+#46233
+The Damned Stairwell~
+A guard stands here watching out for intruders.  There is a window here
+that has been blackened out.  The stairwells leads up and down.  
+~
+0 0 1
+D4
+~
+~
+0 0 46231
+D5
+~
+~
+0 0 46234
+S
+#46234
+The Damned Stairwell~
+A heavy feeling fills the stairwell the further you travel down the
+heavier it feels.  Another guard stands here guarding their secret.  The
+stairs lead up and down.  A hallway goes to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 46235
+D4
+~
+~
+0 0 46233
+D5
+~
+~
+0 0 46271
+S
+#46235
+Negative Third Floor~
+The guard that stands here looks as if hes ready to kill anyone at any
+moment.  He is pacing back and forth grumbling about something.  
+~
+0 0 1
+D1
+~
+~
+0 0 46267
+D3
+~
+~
+0 0 46234
+S
+#46236
+Inside a shop~
+Shelves full of little bottles full of different potions lines the walls.
+Books are cluttered all around.  The shop is very unorganized and messy.  
+~
+0 0 0
+D2
+~
+~
+0 0 46203
+S
+#46237
+Inside a shop~
+Glass display cases show off some of the most delicate and beautiful gems
+and stones you've ever seen.  Jewelery sits in big locked cases behind the
+counter.  
+~
+0 0 0
+D2
+~
+~
+0 0 46207
+S
+#46238
+Inside a peasant's home~
+This home is a little bit more decorated than the one across the street. 
+In addition to a beautiful painting over the fireplace.  A {rcopper{x statue
+sits on the mantle.  There are many statues made of {rcopper{x and
+{8silver{x decorating this home.  
+~
+0 0 0
+D1
+~
+~
+0 0 46215
+S
+#46239
+Inside a peasant's home~
+Entering into this home a fireplace burns to boil water for evening tea. 
+Small furniture sits around the living area of the home.  A cat is asleep
+beside the fire.  
+~
+0 0 0
+D3
+~
+~
+0 0 46215
+S
+#46240
+Inside a peasant's home~
+Painters are inside painting making the place look brand new.  A vase of
+flowers sits on a {rcedar{x table.  That is the only furniture you see.  
+~
+0 0 0
+D3
+~
+~
+0 0 46217
+S
+#46241
+Inside a peasant's home~
+This home look like whoever lives here is lazy.  There are dishes piled
+everywhere, dirty clothes on the floor, the floors are so muddy you can't
+see what type of flooring there is.  It smells like a trash bin.  
+~
+0 0 0
+D1
+~
+~
+0 0 46217
+S
+#46242
+First Floor Hallway~
+The walls here are a {ggreen{x camo color.  You cant tell if your alone
+in the hallway or if someone is here waiting to ambush you.  The hall
+continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46243
+D3
+~
+~
+0 0 46221
+S
+#46243
+First Floor Hallway~
+The hallway here is completely dark.  You can barely see your own hands
+its so dark.  Hopefully your blind fighting will come in handy.  The hall
+leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46244
+D3
+~
+~
+0 0 46242
+S
+#46244
+First Floor Hallway~
+Something growls as you enter this part of the hallway.  A lantern sits
+on a small table giving very little light to see what the noise came from. 
+East and West the hallway contines.  
+~
+0 0 0
+D1
+~
+~
+0 0 46245
+D3
+~
+~
+0 0 46243
+S
+#46245
+End of Hallway~
+A landing going back up the stairs is wide enought to fit an elephant
+down.  They are dimy lit making it hard to see how far the stairs go up.  
+~
+0 0 0
+D3
+~
+~
+0 0 46244
+D4
+~
+~
+0 0 46257
+S
+#46246
+Second Floor Hallway~
+An small arsonal of weapons lay in a heap to the side.  Looking closer it
+seems that there is still a hand attached to one of the swords.  The hallway
+continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46247
+D3
+~
+~
+0 0 46223
+S
+#46247
+Second Floor Hallway~
+There are obstacles all over this part of the hallway.  Roll,dodge, hide,
+and sneak could be very useful here.  West and east the hallway continues.  
+~
+0 0 0
+D1
+~
+~
+0 0 46248
+D3
+~
+~
+0 0 46246
+S
+#46248
+Second Floor Hallway~
+The walls are wide and the ceiling seem taller here.  A shoe sits in the
+corner.  Its got to be at least 6 feet long and 4 feet wide.  Hopefully
+whatever wears it is no where around.  The hallway leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46249
+D3
+~
+~
+0 0 46247
+S
+#46249
+Second Floor Hallway~
+The hallway looks dark and isolate, except for the far off sounds of
+chanting.  Pictures of different types of monsters sit on a table to the
+side.  East and west the hallway leads on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46250
+D3
+~
+~
+0 0 46248
+S
+#46250
+End of Hallway~
+The hallway seems to end here at the stairwell.  This room looks quite
+peaceful.  A long, soft sofa sits to the side with a small table with a
+pitcher of water.  Hopefully you wont get caught sleeping on the sofa as a
+monster attacks.  The hallway leads back to the west and the stairwell leads
+up and down.  
+~
+0 0 0
+D3
+~
+~
+0 0 46249
+D4
+~
+~
+0 0 46256
+D5
+~
+~
+0 0 46258
+S
+#46251
+Third Floor Hallway~
+You hear clanging sounds and grunting, someone must be fighting somewhere
+close.  The hallway continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46252
+D3
+~
+~
+0 0 46226
+S
+#46252
+Third Floor Hallway~
+A large mural is painted on the wall of a dragon in battle.  The painting
+is so realistic that the dragon seems to coming out of the wall after you. 
+Good thing its just a painting....  Or is it?  The hallway continues east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46253
+D3
+~
+~
+0 0 46251
+S
+#46253
+Third Floor Hallway~
+The hallway here is plain and simple.  Nothing other than a plain wooden
+wall, and a plain wooden floor.  The hallway runs east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46254
+D3
+~
+~
+0 0 46252
+S
+#46254
+End of Hallway~
+At the end of the hallway you notice a tickle of blood drops that lead to
+a set of stairs.  The exits here are west back down the hallway or down the
+stairwell.  
+~
+0 0 0
+D3
+~
+~
+0 0 46253
+D5
+~
+~
+0 0 46255
+S
+#46255
+Stairwell~
+The stairwell is very bright here as a huge window lets in the sunlight. 
+You can smell the fresh air coming through the window.  Up and down the
+stairs continue.  
+~
+0 0 0
+D4
+~
+~
+0 0 46254
+D5
+~
+~
+0 0 46256
+S
+#46256
+Stairwell~
+On the walls of the stairwell are painting of all the zodiac signs and
+other symbols that have never been seen.  The stairwell leads up and down.  
+~
+0 0 0
+D4
+~
+~
+0 0 46255
+D5
+~
+~
+0 0 46250
+S
+#46257
+Stairwell~
+A small torch hanging from a hook lights the stairswell enough to see the
+stairs directly in front of you and no farther.  The stairs continue up and
+down.  
+~
+0 0 0
+D4
+~
+~
+0 0 46258
+D5
+~
+~
+0 0 46245
+S
+#46258
+Stairwell~
+The is a little bit more light here as you notice two torches burning. 
+There are some very rare weapons hanging in display cases on the wall.  Up
+and down the stairs continue.  
+~
+0 0 0
+D4
+~
+~
+0 0 46250
+D5
+~
+~
+0 0 46257
+S
+#46259
+Negative First Floor Hallway~
+Guards stand vigilant guarding the hallways, you wonder what could be so
+important to have this much security.  East and west the hallway continues. 
+~
+0 0 0
+D1
+~
+~
+0 0 46260
+D3
+~
+~
+0 0 46229
+S
+#46260
+Negative First Floor Hallway~
+Weird symbols have been painted in blood on the walls here.  An eerie
+silence feels the hallway.  The hallway leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46261
+D3
+~
+~
+0 0 46259
+S
+#46261
+Negative First Floor Hallway~
+A wicker basket sits to the side with a huge snake hiding inside.  The
+floors here are stained with blood.  
+~
+0 0 0
+D1
+~
+~
+0 0 46262
+D3
+~
+~
+0 0 46260
+S
+#46262
+Negative First Floor Hallway~
+Here at the end of the hallway a map of the building hangs on the wall. 
+There are blood drops on the map but they seem to represent something.  The
+only exit is to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 46261
+S
+#46263
+Expanse Entrance~
+~
+0 0 0
+D4
+~
+~
+0 0 46156
+D5
+~
+~
+1 0 46177
+S
+#46264
+Negative Second Floor~
+The walls look like are on fire.  It must be some type of illusion, but
+if it was would you be able to smell the smoke like you can now?  
+~
+0 0 0
+D1
+~
+~
+0 0 46265
+D3
+~
+~
+0 0 46232
+S
+#46265
+Negative Second Floor~
+The hallway is dim and drafty.  The lanterns on the wall barely glow,
+they are running out of fuel.  
+~
+0 0 0
+D1
+~
+~
+0 0 46266
+D3
+~
+~
+0 0 46264
+S
+#46266
+Negative Second Floor~
+Here at the end of the second floor hallway benches line the walls. 
+Looking upward chains hanging down can be seen.  This must be where they
+hold prisoners.  The only exit is west.  
+~
+0 0 0
+D3
+~
+~
+0 0 46265
+S
+#46267
+Negative Third Floor~
+A mural has been painted on the wall here.  It shows a man holding the
+world on his shoulders.  Strange for the painting to be in a place like
+this.  
+~
+0 0 0
+D1
+~
+~
+0 0 46268
+D3
+~
+~
+0 0 46235
+S
+#46268
+Negative Third Floor~
+The floor and ceiling here have been painted with displays of the world
+on fire.  The one on the floor shows someone trying to put out the fire, on
+the ceiling someone is lighting a fire.  
+~
+0 0 0
+D1
+~
+~
+0 0 46269
+D3
+~
+~
+0 0 46267
+S
+#46269
+Negative Third Floor~
+A strange circular light floats in the middle of the hall.  It gives off
+a bright {Bblue{x glow and a feeling of dread overcomes you.  
+~
+0 0 0
+D1
+~
+~
+0 0 46270
+D3
+~
+~
+0 0 46268
+S
+#46270
+Negative Third Floor~
+The end of the third floor hallway leads you to what seems to be a study.
+A desk, table, chairs and bookcase sit here.  Large books lay open in the
+middle of the floor.  
+~
+0 0 0
+D3
+~
+~
+0 0 46269
+S
+#46271
+The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell ~
+Crying, screaming, growling, and hissing noises are coming from beneath
+you.  Only the strong in battle and strong at heart should continue down
+this stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 46234
+D5
+~
+~
+0 0 46272
+S
+#46272
+The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell ~
+A heavy feeling flows into the stairwell like a gentle breeze.  You can
+barely lift you feet to climb the stairwell for the heaviness.  The
+stairwell continues up and down.  
+~
+0 0 0
+D4
+~
+~
+0 0 46271
+D5
+~
+~
+0 0 46273
+S
+#46273
+The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell ~
+The stairs are sticky and red from blood.  The smell of rotting flesh
+fills the stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 46272
+D5
+~
+~
+0 0 46274
+S
+#46274
+The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell ~
+Complete quiet fills the stairwell.  The screaming and crying noise from
+before can no longer be heard.  The silence is eerie.  
+~
+0 0 0
+D4
+~
+~
+0 0 46273
+D5
+~
+~
+0 0 46275
+S
+#46275
+The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell ~
+This is your last chance to turn back, you dont have to travel further
+down if you dont have to.  Be warned only the strong will come out of that
+room alive.  
+~
+0 0 0
+D4
+~
+~
+0 0 46274
+D5
+~
+~
+1 47013 46276
+S
+#46276
+{RBo{rtt{Rom{X Of {DDe{Ws{wp{Wa{Dir{X~
+A very large beast stands before you.  All feelings of dread, sorrow, and
+regret overcome you.  You recongnize the beast as being the man in the
+painting above holding the world on his shoulders.  
+~
+0 0 0
+D4
+~
+~
+1 47013 46275
+S
+#46277
+Outside the walls~
+Huge {ygolden{x gates stand in between you and the city.  There is a
+{Bblue{x aura the covers the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 46278
+D3
+~
+~
+1 0 46177
+S
+#46278
+Approaching The City~
+As you get closer to the city you notice alote more travellors than youve
+seen earlier.  Some carry huge packs full of weapons, potions, and
+equipment.  The path leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46279
+D3
+~
+~
+0 0 46277
+S
+#46279
+Back Road To Kingdoms~
+The path here is muddy as a stream has flooded onto the path.  Dead fish
+lay on the banks of the stream stinky the place up.  
+~
+0 0 0
+D1
+~
+~
+0 0 46280
+D3
+~
+~
+0 0 46278
+S
+#46280
+Back Road To Kingdoms~
+Huge stumps of {rcedar{x trees line both sides of the path.  Someone must
+have needed alote of lumber to use up all these trees.  
+~
+0 0 0
+D1
+~
+~
+0 0 46281
+D3
+~
+~
+0 0 46279
+S
+#46281
+Back Road To Kingdoms~
+The road here splits into three directions.  To the west take you into
+the city.  To the east continues the back road to kingdoms To the north
+leads into a mossy tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 46428
+D1
+~
+~
+0 0 46282
+D3
+~
+~
+0 0 46280
+S
+#46282
+Back Road To Kingdoms~
+The road becomes more rocky and harder to travel.  This back road doesnt
+look like many have traveled down it.  The road leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46283
+D3
+~
+~
+0 0 46281
+S
+#46283
+Back Road To Kingdoms~
+Roots from a huge oak tree have come through the ground here.  You barely
+catch yourself before you fall face first onto the road.  The road leads
+east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46284
+D3
+~
+~
+0 0 46282
+S
+#46284
+Back Road To Kingdoms~
+The grass on the side of the road here diminishes and is replaced with
+huge hedges.  The road seems to be a little less rocky as earlier.  The road
+leads east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46285
+D3
+~
+~
+0 0 46283
+S
+#46285
+Back Road To Kingdoms~
+The road and the side of the road seem to get better and better manicured
+as you travel further down the road.  The road continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46286
+D3
+~
+~
+0 0 46284
+S
+#46286
+Back Road To Kingdoms~
+Huge {Ysunflowers{x line both side of the road here.  If you had a bag
+you could fill it up with the seeds that have fallen off the flowers.  The
+road leads east and west still.  
+~
+0 0 0
+D1
+~
+~
+0 0 46287
+D3
+~
+~
+0 0 46285
+S
+#46287
+Back Road To Kingdoms~
+A long wooden bench sits on each side of the road.  There are flowers in
+full bloom all around the benches.  East and west the road leads on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46288
+D3
+~
+~
+0 0 46286
+S
+#46288
+Back Road To Kingdoms~
+Fruit trees border each side of the road.  There are apple, lemon,
+oranges and bananas.  Maybe you can jump up and grab you a snack for the
+road.  
+~
+0 0 0
+D1
+~
+~
+0 0 46289
+D3
+~
+~
+0 0 46287
+S
+#46289
+Back Road To Kingdoms~
+The grass is a {ggreen{x as {ggreen{x can be.  Not a weed, stone or
+anything misplaced in the small fields on each side of the road.  East and
+west the road continues.  
+~
+0 0 0
+D1
+~
+~
+0 0 46290
+D3
+~
+~
+0 0 46288
+S
+#46290
+Back Road To Kingdoms~
+Rose bushes now border the sides of the road.  Hummingbirds, bees and
+butterflies swarm around the flowers here.  
+~
+0 0 0
+D1
+~
+~
+0 0 46291
+D3
+~
+~
+0 0 46289
+S
+#46291
+Back Road To Kingdoms~
+A small fountain is one side of the road and a statue of the legendary
+Panda on the other.  You wonder if there are pandas nearby.  
+~
+0 0 0
+D1
+~
+~
+0 0 46292
+D3
+~
+~
+0 0 46290
+S
+#46292
+Back Road To Kingdoms~
+A picnic table sits directly under a peach tree.  On the other side of
+the road vegatables grow for weary travelors to eat and rest.  The path
+continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46293
+D3
+~
+~
+0 0 46291
+S
+#46293
+Back Road To Kingdoms~
+The road become steeper as you walk onward.  A flower garden containing
+many different types of flowers grow on both sides.  
+~
+0 0 0
+D1
+~
+~
+0 0 46294
+D3
+~
+~
+0 0 46292
+S
+#46294
+Back Road To Kingdoms~
+As the road becomes more difficult to walk because on the steepness you
+notice a set of stair carved into the hill.  You can go back west or
+continue upward.  
+~
+0 0 0
+D3
+~
+~
+0 0 46293
+D4
+~
+~
+0 0 46295
+S
+#46295
+Back Road To Kingdoms~
+As you continue up the hill you can see where someone was nice enough to
+put a handrail up here.  You'll use it to help pull you up the hill.  Up and
+down are the only exits.  
+~
+0 0 0
+D4
+~
+~
+0 0 46296
+D5
+~
+~
+0 0 46294
+S
+#46296
+Back Road To Kingdoms~
+The hill still becomes steeper as you go up the hill.  Cyprus trees and
+pine trees are on both sides of the stairs that lead up and down this hill. 
+~
+0 0 0
+D4
+~
+~
+0 0 46297
+D5
+~
+~
+0 0 46295
+S
+#46297
+Back Road To Kingdoms~
+Pine cones have fallen onto the stairs.  You almost trip over one as
+trying to walk up this steep hill.  Up or down the stairs continue.  
+~
+0 0 0
+D4
+~
+~
+0 0 46298
+D5
+~
+~
+0 0 46296
+S
+#46298
+Back Road To Kingdoms~
+The hill seems to level itself out.  Dogwood trees are in full blossom
+and give off a sweet fragrance.  Up and down the stairs continue.  
+~
+0 0 0
+D4
+~
+~
+0 0 46299
+D5
+~
+~
+0 0 46297
+S
+#46299
+Approaching The Kingdom's Mountain Range~
+You have reached the top of this little hill.  You look straight ahead
+and see that you are about to be traveling through a massive mountain road. 
+Up and down you can travel from here.  
+~
+0 0 0
+D4
+~
+~
+0 0 46300
+D5
+~
+~
+0 0 46298
+S
+#46300
+Below The Kingdom's Mountain Range~
+~
+0 0 0
+D4
+~
+~
+1 0 17847
+D5
+~
+~
+0 0 46299
+S
+#46301
+Outside The Southern Entrance~
+A gate here is guarded highly to keep out those that are unwanted.
+There is a path to the south, or you can go back into the city to the north.
+~
+0 0 3
+D0
+~
+~
+1 0 46189
+D2
+~
+~
+0 0 46302
+S
+#46302
+The Southern Path~
+The path is straight and narrow.  Small animals scury around on the sides
+of the path.  The south and north the path continues.  
+~
+0 0 3
+D0
+~
+~
+0 0 46301
+D2
+~
+~
+0 0 46303
+S
+#46303
+The Southern Path~
+The path is clear of any debris.  You can tell that someone look after
+this area very well.  The path leads north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 46302
+D2
+~
+~
+0 0 46304
+S
+#46304
+The Southern Path~
+The thick grass on the sides of road look as if they have been freshly
+cut.  The hedges have been trimmed to look like forest animals.  The path
+leads north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 46303
+D2
+~
+~
+0 0 46305
+S
+#46305
+The Southern Path~
+You see a skunk laying in the middle of a huge flower bed.  A timberwolf
+sets out and scares it off and making it leave a nasty stink.  North and
+south are the only exits.  
+~
+0 0 3
+D0
+~
+~
+0 0 46304
+D2
+~
+~
+0 0 46306
+S
+#46306
+The Southern Path~
+The path here is now paved with a dark colored tar.  A wooden carved
+border sits on both sides of the edge of the path.  North and South the path
+lead on.  
+~
+0 0 3
+D0
+~
+~
+0 0 46305
+D2
+~
+~
+0 0 46307
+S
+#46307
+The Southern Path~
+The trees on the sides of the path have been trimmed back so that the sky
+still can be seen.  The branches that were trimmed lay in a pile beside the
+path.  
+~
+0 0 3
+D0
+~
+~
+0 0 46306
+D2
+~
+~
+0 0 46308
+S
+#46308
+The Southern Path~
+The path ahead look smooth and easy to travel.  It has been very well
+maintained.  The path leads north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 46307
+D2
+~
+~
+0 0 46309
+S
+#46309
+The Southern Path~
+A small fishing pond can be seen from the path.  Swans and ducks swim
+around the pond.  A fish jumps out of the water to catch a flying bug. 
+North and south the path continues.  
+~
+0 0 3
+D0
+~
+~
+0 0 46308
+D2
+~
+~
+0 0 46310
+S
+#46310
+The Southern Path~
+Nailed to a tree are signs showing which way the roads go.  To the south
+is Sahuagin, the north the southern path, to the west is the Petrified
+Underground Forest, to the east you can go into the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 46309
+D1
+~
+~
+0 0 46311
+D2
+~
+~
+0 0 46450
+D3
+~
+~
+0 0 46313
+S
+#46311
+Into The Forest~
+As you go into the forest you see tall pine trees in every direction. 
+Small animals are hiding within the trees branches.  
+~
+0 0 3
+D1
+~
+~
+0 0 46312
+D3
+~
+~
+0 0 46310
+S
+#46312
+Into The Forest~
+~
+0 0 3
+D1
+~
+~
+0 0 22453
+D3
+~
+~
+0 0 46311
+S
+#46313
+Entrance To The {DPet{Wri{Dfied{X Underground {GFo{gre{Gst{X~
+As you enter into the {8Pertrified{x Underground {GForest{x you notice
+that the tree here are as big round as they are tall.  The trees look and
+feel like stone.  
+~
+0 0 3
+D1
+~
+~
+0 0 46310
+D3
+~
+~
+0 0 46314
+S
+#46314
+Into the Forest~
+More trees, more quiet, more peace.  The only sound that is around are
+the sounds of the wind blowing, and the birds singing.  
+~
+0 0 3
+D0
+~
+~
+0 0 46315
+D1
+~
+~
+0 0 46313
+S
+#46315
+Into the Forest~
+The trees continue all around.  Every now and again a small creature will
+run around and then disappear back into the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 46316
+D2
+~
+~
+0 0 46314
+D3
+~
+~
+0 0 46317
+S
+#46316
+Into the Forest~
+Broken tree limbs are in the middle of this pathway.  There is still
+enough room to go around them.  Exit are north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 46327
+D2
+~
+~
+0 0 46315
+S
+#46317
+Thicker Forest~
+The forest becomes overgrown with trees, moss, and large ferns growing
+all around.  
+~
+0 0 3
+D1
+~
+~
+0 0 46315
+D3
+~
+~
+0 0 46318
+S
+#46318
+Thicker Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  Large insects fly around your head.  
+~
+0 0 3
+D1
+~
+~
+0 0 46317
+D3
+~
+~
+0 0 46319
+S
+#46319
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  Birds can be heard screaching overhead.  
+~
+0 0 3
+D0
+~
+~
+0 0 46320
+D1
+~
+~
+0 0 46318
+D3
+~
+~
+0 0 46326
+S
+#46320
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D0
+~
+~
+0 0 46321
+D2
+~
+~
+0 0 46319
+D3
+~
+~
+0 0 46325
+S
+#46321
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D0
+~
+~
+0 0 46322
+D2
+~
+~
+0 0 46320
+D3
+~
+~
+0 0 46324
+S
+#46322
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D0
+~
+~
+1 0 46479
+D2
+~
+~
+0 0 46321
+D3
+~
+~
+0 0 46323
+S
+#46323
+Small Forest Home of Some Animals~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D1
+~
+~
+0 0 46322
+D2
+~
+~
+0 0 46324
+S
+#46324
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D0
+~
+~
+0 0 46323
+D1
+~
+~
+0 0 46321
+D2
+~
+~
+0 0 46325
+S
+#46325
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  The further you travel into the forest the thicker it becomes.  
+~
+0 0 3
+D0
+~
+~
+0 0 46324
+D1
+~
+~
+0 0 46320
+D2
+~
+~
+0 0 46326
+S
+#46326
+Thick Forest~
+The forest is overgrown with trees, moss, and large ferns growing all
+around.  Desc Snakes have built a nest within the mix of kudzu and ferns.  
+~
+0 0 3
+D0
+~
+~
+0 0 46325
+D1
+~
+~
+0 0 46319
+S
+#46327
+Deep Brush~
+As walking in the deep brush of the forest vines and mud cover up to your
+thighs.  Brighter birds are seen above as they fly higher and higher.  
+~
+0 0 3
+D0
+~
+~
+0 0 46328
+D2
+~
+~
+0 0 46316
+S
+#46328
+Deep Brush~
+High grass and mud is everywhere you look.
+There are some colorful flowers growing all around.
+~
+0 0 3
+D0
+~
+~
+0 0 46331
+D1
+~
+~
+0 0 46329
+D2
+~
+~
+0 0 46327
+S
+#46329
+Deep Brush~
+The grass is long and thick, wildflowers grow all around you.  The trees
+that droop down have blocked out all sunlight.  The deep brush is in every
+direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46330
+D1
+~
+~
+0 0 46339
+D3
+~
+~
+0 0 46328
+S
+#46330
+Deep Brush~
+The grass is long and thick, wildflowers grow all around you.  The trees
+that droop down have blocked out all sunlight.  The deep brush is in every
+direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46332
+D1
+~
+~
+0 0 46338
+D2
+~
+~
+0 0 46329
+D3
+~
+~
+0 0 46331
+S
+#46331
+Deep Brush~
+The crows are flying all around this area.  There must be something dead
+near by to have that many crows at once.  
+~
+0 0 3
+D0
+~
+~
+0 0 46333
+D1
+~
+~
+0 0 46330
+D2
+~
+~
+0 0 46328
+S
+#46332
+Deep Brush~
+The grass is long and thick, wildflowers grow all around you.  The trees
+that droop down have blocked out all sunlight.  The deep brush is in every
+direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46335
+D1
+~
+~
+0 0 46337
+D2
+~
+~
+0 0 46330
+D3
+~
+~
+0 0 46333
+S
+#46333
+Deep Brush~
+It looks like the kudzu has taken over most of the path here.  
+~
+0 0 3
+D0
+~
+~
+0 0 46334
+D1
+~
+~
+0 0 46332
+D2
+~
+~
+0 0 46331
+S
+#46334
+Deep Brush~
+The grass is long and thick, wild honeysuckles grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46340
+D1
+~
+~
+0 0 46335
+D2
+~
+~
+0 0 46333
+S
+#46335
+Deep Brush~
+The grass is long and thick, cat tails grow all around you.  The trees
+that droop down have blocked out all sunlight.  The deep brush is in every
+direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46341
+D1
+~
+~
+0 0 46336
+D2
+~
+~
+0 0 46332
+D3
+~
+~
+0 0 46334
+S
+#46336
+Deep Brush~
+The grass is long and thick, wild mushrooms grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46342
+D2
+~
+~
+0 0 46337
+D3
+~
+~
+0 0 46335
+S
+#46337
+Deep Brush~
+The grass is long and thick, wild mushrooms grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46336
+D2
+~
+~
+0 0 46338
+D3
+~
+~
+0 0 46332
+S
+#46338
+Deep Brush~
+The grass is long and thick, wild mushrooms grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46337
+D2
+~
+~
+0 0 46339
+D3
+~
+~
+0 0 46330
+S
+#46339
+Deep Brush~
+The grass is long and thick, wild mushrooms grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 3
+D0
+~
+~
+0 0 46338
+D3
+~
+~
+0 0 46329
+S
+#46340
+Deep Brush~
+The grass is long and thick, wild honeysuckles grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 0
+D1
+~
+~
+0 0 46341
+D2
+~
+~
+0 0 46334
+S
+#46341
+Deep Brush~
+The grass is long and thick, cat tails grow all around you.  The trees
+that droop down have blocked out all sunlight.  The deep brush is in every
+direction you go.  
+~
+0 0 0
+D1
+~
+~
+0 0 46342
+D2
+~
+~
+0 0 46335
+D3
+~
+~
+0 0 46340
+S
+#46342
+Deep Brush~
+The grass is long and thick, wild honeysuckles grow all around you.  The
+trees that droop down have blocked out all sunlight.  The deep brush is in
+every direction you go.  
+~
+0 0 0
+D2
+~
+~
+0 0 46336
+D3
+~
+~
+0 0 46341
+S
+#46343
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46344
+D2
+~
+~
+1 0 46167
+S
+#46344
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46345
+D2
+~
+~
+0 0 46343
+S
+#46345
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46346
+D2
+~
+~
+0 0 46344
+S
+#46346
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46347
+D2
+~
+~
+0 0 46345
+S
+#46347
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46348
+D1
+~
+~
+0 0 46369
+D2
+~
+~
+0 0 46346
+S
+#46348
+The Northern Path~
+~
+0 0 0
+D0
+~
+~
+0 0 46349
+D2
+~
+~
+0 0 46347
+S
+#46349
+Before The Royal Castle~
+~
+0 1024 0
+D0
+~
+~
+1 0 46350
+D2
+~
+~
+0 0 46348
+S
+#46350
+Entrance To The Royal Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 46351
+D2
+~
+~
+1 0 46349
+S
+#46351
+Castle Foyer~
+~
+0 0 0
+D0
+~
+~
+0 0 46352
+D2
+~
+~
+0 0 46350
+S
+#46352
+{DDarkness{X Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 46353
+D2
+~
+~
+0 0 46351
+S
+#46353
+{DDarkness{X Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 46354
+D1
+~
+~
+0 0 46356
+D2
+~
+~
+0 0 46352
+D3
+~
+~
+0 0 46355
+D4
+~
+~
+1 0 46365
+S
+#46354
+Throne Room~
+~
+0 0 0
+D2
+~
+~
+0 0 46353
+S
+#46355
+Queen's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46353
+D3
+~
+~
+0 0 46361
+S
+#46356
+King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46357
+D3
+~
+~
+0 0 46353
+S
+#46357
+King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46358
+D3
+~
+~
+0 0 46356
+S
+#46358
+King's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46359
+D3
+~
+~
+0 0 46357
+S
+#46359
+King's Hallway~
+~
+0 0 0
+D1
+~
+~
+1 0 46360
+D3
+~
+~
+0 0 46358
+S
+#46360
+King's Room~
+~
+0 0 0
+D3
+~
+~
+1 0 46359
+S
+#46361
+Queen's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46355
+D3
+~
+~
+0 0 46362
+S
+#46362
+Queen's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46361
+D3
+~
+~
+0 0 46363
+S
+#46363
+Queen's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 46362
+D3
+~
+~
+1 0 46364
+S
+#46364
+Queen's Room~
+~
+0 0 0
+D1
+~
+~
+1 0 46363
+S
+#46365
+Stairwell of Despair~
+~
+0 0 0
+D4
+~
+~
+0 0 46366
+D5
+~
+~
+1 0 46353
+S
+#46366
+Stairwell of Despair~
+~
+0 0 0
+D4
+~
+~
+0 0 46367
+D5
+~
+~
+0 0 46365
+S
+#46367
+Stairwell of Despair~
+~
+0 0 0
+D4
+~
+~
+1 0 46368
+D5
+~
+~
+0 0 46366
+S
+#46368
+Sorcerer's Lair~
+~
+0 0 0
+D5
+~
+~
+1 0 46367
+S
+#46369
+Beginning of the {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46370
+D3
+~
+~
+0 0 46347
+S
+#46370
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46371
+D3
+~
+~
+0 0 46369
+S
+#46371
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46374
+D1
+~
+~
+0 0 46372
+D3
+~
+~
+0 0 46370
+S
+#46372
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46373
+D1
+~
+~
+0 0 46379
+D3
+~
+~
+0 0 46371
+S
+#46373
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46375
+D1
+~
+~
+0 0 46378
+D2
+~
+~
+0 0 46372
+D3
+~
+~
+0 0 46374
+S
+#46374
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46376
+D1
+~
+~
+0 0 46373
+D2
+~
+~
+0 0 46371
+S
+#46375
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46377
+D2
+~
+~
+0 0 46373
+D3
+~
+~
+0 0 46376
+S
+#46376
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46375
+D2
+~
+~
+0 0 46374
+S
+#46377
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46383
+D1
+~
+~
+0 0 46382
+D2
+~
+~
+0 0 46378
+D3
+~
+~
+0 0 46375
+S
+#46378
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46377
+D1
+~
+~
+0 0 46381
+D2
+~
+~
+0 0 46379
+D3
+~
+~
+0 0 46373
+S
+#46379
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46378
+D1
+~
+~
+0 0 46380
+D3
+~
+~
+0 0 46372
+S
+#46380
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46381
+D3
+~
+~
+0 0 46379
+S
+#46381
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46382
+D2
+~
+~
+0 0 46380
+D3
+~
+~
+0 0 46378
+S
+#46382
+{DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D2
+~
+~
+0 0 46381
+D3
+~
+~
+0 0 46377
+S
+#46383
+{DSw{wam{Wp{wla{Dnds{X Midlands~
+~
+0 0 0
+D0
+~
+~
+0 0 46384
+D2
+~
+~
+0 0 46377
+S
+#46384
+{DSw{wam{Wp{wla{Dnds{X Midlands~
+~
+0 0 0
+D0
+~
+~
+0 0 46385
+D2
+~
+~
+0 0 46383
+S
+#46385
+{DSw{wam{Wp{wla{Dnds{X Midlands~
+~
+0 0 0
+D0
+~
+~
+0 0 46386
+D2
+~
+~
+0 0 46384
+S
+#46386
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46389
+D1
+~
+~
+0 0 46387
+D2
+~
+~
+0 0 46385
+D3
+~
+~
+0 0 46388
+S
+#46387
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46391
+D3
+~
+~
+0 0 46386
+S
+#46388
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46390
+D1
+~
+~
+0 0 46386
+S
+#46389
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46392
+D1
+~
+~
+0 0 46391
+D2
+~
+~
+0 0 46386
+D3
+~
+~
+0 0 46390
+S
+#46390
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46393
+D1
+~
+~
+0 0 46389
+D2
+~
+~
+0 0 46388
+S
+#46391
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46394
+D1
+~
+~
+0 0 46395
+D2
+~
+~
+0 0 46387
+D3
+~
+~
+0 0 46389
+S
+#46392
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46394
+D2
+~
+~
+0 0 46389
+D3
+~
+~
+0 0 46393
+S
+#46393
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46392
+D2
+~
+~
+0 0 46390
+S
+#46394
+Northern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D2
+~
+~
+0 0 46391
+D3
+~
+~
+0 0 46392
+S
+#46395
+Linkage {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46396
+D3
+~
+~
+0 0 46391
+S
+#46396
+Linkage {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D1
+~
+~
+0 0 46397
+D3
+~
+~
+0 0 46395
+S
+#46397
+Linkage {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46398
+D1
+~
+~
+0 0 46400
+D2
+~
+~
+0 0 46399
+D3
+~
+~
+0 0 46396
+D5
+~
+~
+1 0 46401
+S
+#46398
+Eastern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D2
+~
+~
+0 0 46397
+S
+#46399
+Eastern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D0
+~
+~
+0 0 46397
+S
+#46400
+Eastern {DSw{wam{Wp{wla{Dnds{X~
+~
+0 0 0
+D3
+~
+~
+0 0 46397
+S
+#46401
+Sinking Into The Mud~
+~
+0 0 0
+D4
+~
+~
+1 0 46397
+D5
+~
+~
+0 0 46402
+S
+#46402
+Trapped In The Mud~
+~
+0 0 0
+D5
+~
+~
+0 0 46403
+S
+#46403
+Slipping In The Mud~
+~
+0 0 0
+D4
+~
+~
+0 0 46402
+D5
+~
+~
+0 0 46404
+S
+#46404
+Falling Deeper~
+~
+0 0 0
+D4
+~
+~
+0 0 46403
+D5
+~
+~
+0 0 46405
+S
+#46405
+Falling Deeper~
+~
+0 0 0
+D4
+~
+~
+0 0 46404
+D5
+~
+~
+0 0 46406
+S
+#46406
+Bottom of the Mud~
+~
+0 0 0
+D1
+~
+~
+0 0 46407
+D4
+~
+~
+0 0 46405
+S
+#46407
+Mud Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 46408
+D3
+~
+~
+0 0 46406
+S
+#46408
+Mud Tunnel~
+~
+0 0 0
+D2
+~
+~
+0 0 46409
+D3
+~
+~
+0 0 46407
+S
+#46409
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46408
+D2
+~
+~
+0 0 46410
+S
+#46410
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46409
+D2
+~
+~
+0 0 46411
+S
+#46411
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46410
+D1
+~
+~
+0 0 46425
+D2
+~
+~
+0 0 46413
+S
+#46412
+A Small Shop~
+Among the dusty clutters shelves are potions and spellbooks.  The wizard
+here has a few he has found that you may be able to use.  
+~
+0 0 0
+D0
+~
+~
+0 0 46208
+S
+#46413
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46411
+D2
+~
+~
+0 0 46414
+S
+#46414
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46413
+D2
+~
+~
+0 0 46415
+S
+#46415
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46414
+D2
+~
+~
+0 0 46416
+S
+#46416
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46415
+D2
+~
+~
+0 0 46417
+S
+#46417
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46416
+D2
+~
+~
+0 0 46418
+S
+#46418
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46417
+D2
+~
+~
+0 0 46419
+S
+#46419
+Mud Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46418
+D4
+~
+~
+0 0 46420
+S
+#46420
+Getting Close to Daylight~
+~
+0 0 0
+D4
+~
+~
+0 0 46421
+D5
+~
+~
+0 0 46419
+S
+#46421
+Getting Close to Daylight~
+~
+0 0 0
+D4
+~
+~
+0 0 46422
+D5
+~
+~
+0 0 46420
+S
+#46422
+Getting Close to Daylight~
+~
+0 0 0
+D4
+~
+~
+0 0 46423
+D5
+~
+~
+0 0 46421
+S
+#46423
+Getting Close to Daylight~
+~
+0 0 0
+D4
+~
+~
+0 0 46424
+D5
+~
+~
+0 0 46422
+S
+#46424
+Near {YDaylight{X~
+~
+0 0 0
+D4
+~
+~
+0 0 46310
+D5
+~
+~
+0 0 46423
+S
+#46425
+Side Tunnel~
+~
+0 0 0
+D0
+~
+~
+1 0 46427
+D1
+~
+~
+0 0 46426
+D3
+~
+~
+0 0 46411
+S
+#46426
+Dead End In The Mud Tunnel~
+~
+0 0 0
+D3
+~
+~
+0 0 46425
+S
+#46427
+A Tiny Cell~
+Mprog here
+~
+0 8192 0
+D2
+~
+~
+1 0 46425
+S
+#46428
+Mossy Tunnel~
+A tunnel covered with layers and layers of moss.  The tunnel has small
+lantern hanging from the ceiling to provide light for the passing travelors.
+~
+0 0 0
+D0
+~
+~
+0 0 46429
+D2
+~
+~
+0 0 46281
+S
+#46429
+Mossy Tunnel~
+Moss lines the floors as well as the wall and ceiling.  The floors are
+soft and smushy giving a welcome change to the hard rocky trails from
+before.  
+~
+0 0 0
+D0
+~
+~
+0 0 46430
+D2
+~
+~
+0 0 46428
+S
+#46430
+Mossy Tunnel~
+{4Blue{x and {5purple{x mushrooms grow on the walls here.  Dwarves stand
+on each others shoulders to pick the mushroom.  
+~
+0 0 0
+D0
+~
+~
+0 0 46431
+D2
+~
+~
+0 0 46429
+S
+#46431
+Mossy Tunnel~
+You see more dwarves here but there are no mushrooms anywhere in sight. 
+They are laying around acting goofy and out of their minds.  
+~
+0 0 0
+D0
+~
+~
+0 0 46432
+D2
+~
+~
+0 0 46430
+S
+#46432
+Mossy Tunnel~
+There are small rodents running around this part of the tunnel.  They
+have discovered the strange mushroooms and are eating them and then falling
+of the ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 46433
+D2
+~
+~
+0 0 46431
+S
+#46433
+Before A Tunnel Village~
+The tunnel has a barred gate that leads into the tunnel village.  The
+gate is to the north.  The tunnel goes back to the south.  
+~
+0 0 0
+D0
+~
+~
+1 0 46434
+D2
+~
+~
+0 0 46432
+S
+#46434
+Inside The Small Gate~
+After entering through the gate the moss resides and the floor beneath
+you gives way a brick covered floor.  Even though you are still inside a
+tunnel is seems alote brighter here.  
+~
+0 0 0
+D0
+~
+~
+0 0 46435
+D2
+~
+~
+1 0 46433
+S
+#46435
+Main Village Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46436
+D2
+~
+~
+0 0 46434
+S
+#46436
+Main Village Tunnel~
+The village is made up of many different tunnels.  The one you are
+traveling down is the main tunnel to the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 46437
+D2
+~
+~
+0 0 46435
+D3
+~
+~
+1 0 46442
+S
+#46437
+Main Village Tunnel~
+There is a bench sitting to the side of the tunnel, across from a small
+house.  The house is very small due to being built inside a tunnel.  The
+tunnel continues north and south.  The small house is to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 46438
+D1
+~
+~
+1 0 46441
+D2
+~
+~
+0 0 46436
+S
+#46438
+Main Village Tunnel~
+Women with baskets and jugs on their heads walk past you.  You notice
+that they are filling the jugs with water to take back to their families.  
+~
+0 0 0
+D0
+~
+~
+0 0 46439
+D2
+~
+~
+0 0 46437
+S
+#46439
+Main Village Tunnel~
+You notice that the women who had the baskets on their heads coming out
+of the shop to the west woth their baskets full of food and supplies.  You
+also see dwarves stumbling into the shop to sell bags of mushrooms.  
+~
+0 0 0
+D2
+~
+~
+0 0 46438
+D3
+~
+~
+0 0 46440
+S
+#46440
+Inside a small shop~
+Inside this small shop there is barely any room to walk.  Mushrooms are
+piled to the roof and other supplies just thrown around.  The shopkeeper is
+screaming his hired help to get to work and get the place clean.  
+~
+0 0 0
+D1
+~
+~
+0 0 46439
+S
+#46441
+Small Home~
+This is a very simple home.  Just the bare essentials is all that is
+here.  There is an elaborate rug take seems out of place, when moving it you
+see there is a door that leads downward.  
+~
+0 0 0
+D3
+~
+~
+1 0 46437
+D5
+~
+~
+1 0 46443
+S
+#46442
+Small Home~
+~
+0 0 0
+D1
+~
+~
+1 0 46436
+S
+#46443
+Below a Small Home~
+It seems that underneath the house a secret passage leads further
+downward.  You can go back up into the home or go downward and see where
+this passageway leads to.  
+~
+0 0 0
+D4
+~
+~
+1 0 46441
+D5
+~
+~
+0 0 46444
+S
+#46444
+{DEn{Wt{wr{Wan{Dce{X To The {GT{gow{Gn{X {DCatacombs{X~
+There are statues of all the Gods here at the gate entering the sacred
+place of the dead.  All respect that is due has been given here as a sign
+read of all the defenders of this underground city.  
+~
+0 0 0
+D4
+~
+~
+0 0 46443
+D5
+~
+~
+0 0 46445
+S
+#46445
+{DEn{Wt{wr{Wan{Dce{X To The {GT{gow{Gn{X {DCatacombs{X~
+The path still continues with fountains and statues bordering both sides
+of the path.  There are many tombs ahead of you.  
+~
+0 0 0
+D4
+~
+~
+0 0 46444
+D5
+~
+~
+0 0 46446
+S
+#46446
+{DEn{Wt{wr{Wan{Dce{X To The {GT{gow{Gn{X {DCatacombs{X~
+Here are alot of strange looking flowers.  Their sweet smell is so good
+that it makes you almost forget what you were doing and where you were
+going.  
+~
+0 0 0
+D2
+~
+~
+0 0 46447
+D4
+~
+~
+0 0 46445
+S
+#46447
+Before The {GT{gow{Gn {DCatacombs{X~
+The only thing standing between you and the catacombs are a huge pack of
+wolves.  They are here to make sure tomb robbers never enter into this holy
+place.  
+~
+0 0 0
+D0
+~
+~
+0 0 46446
+D2
+~
+~
+1 47016 46448
+S
+#46448
+The {BB{Yu{Rg{x Room!~
+You've walked up a small hill where you see two highly decorate tombs. 
+The tombs seem to belong to the Great King Jah Rubal and his Queen.  
+~
+0 0 0
+D0
+~
+~
+1 47016 46447
+D4
+~
+~
+0 0 46480
+S
+#46449
+Butcher's Shop~
+A minotaur stands here with a cleaver in his hand cutting meat and
+wrapping it in butcher paper.  
+~
+0 0 0
+D0
+~
+~
+0 0 46204
+S
+#46450
+Road To Sahuagin~
+A long curvy road lies ahead of you.  Rocks and boulders line the side of
+the road to keep the dirt off the road.  
+~
+0 0 0
+D0
+~
+~
+0 0 46310
+D2
+~
+~
+0 0 46451
+S
+#46451
+Road To Sahuagin~
+The tree have begun to fade away and the dirt is now sand.  The road
+becomes hotter as the sun beats down upon it.  It seems you are entering a
+desert.  
+~
+0 0 0
+D0
+~
+~
+0 0 46450
+D2
+~
+~
+0 0 46452
+S
+#46452
+Road To Sahuagin~
+More sand gets into your boots as you stop to get the sand out a snake
+slithers across the road in front of you.  A cactus is the only plant in
+sight.  
+~
+0 0 0
+D0
+~
+~
+0 0 46451
+D2
+~
+~
+0 0 46453
+S
+#46453
+Road To Sahuagin~
+The sandy road lead us a small hill.  As you stand on the top of the hill
+it look like your looking at a dream.  It looks like a tropical wonderland
+is close by.  You hope that the desert hasnt messed with your head and what
+you seen wasn't a mirage.  
+~
+0 0 0
+D0
+~
+~
+0 0 46452
+D2
+~
+~
+0 0 46454
+S
+#46454
+Road To Sahuagin~
+Coming down the hill a desert spring has created a stream that runs the
+length of the road to sahuagin.  
+~
+0 0 0
+D0
+~
+~
+0 0 46453
+D2
+~
+~
+0 0 46455
+S
+#46455
+Road To Sahuagin~
+The people that live in this area must have used the stream for
+irrigation of their crops and flowers.  A vegetable garden is in full bloom
+with vine ripe tomatoes, lettuce, and corn.  
+~
+0 0 0
+D0
+~
+~
+0 0 46454
+D2
+~
+~
+0 0 46456
+S
+#46456
+Road To Sahuagin~
+The air becomes humid as you walk into what looks like a jungle.  Large
+trees grow wildly on both sides of the road.  The trees have huge leaves on
+the.  Flowers are popping up around the side of stream.  
+~
+0 0 0
+D0
+~
+~
+0 0 46455
+D2
+~
+~
+0 0 46457
+S
+#46457
+Road To Sahuagin~
+The tropical trees seem to have become fewer here.  A couple palm tree
+stand on both sides of the road.  The road starts to change colors.  
+~
+0 0 0
+D0
+~
+~
+0 0 46456
+D2
+~
+~
+0 0 46458
+S
+#46458
+Before The Lost Kingdom of Sahuagin~
+The tropical canopy comes back stronger than before.  Though the trees
+and flowers it looks like the vines are covering up some type of door.  
+~
+0 0 0
+D0
+~
+~
+0 0 46457
+S
+#46459
+{wEntrance to The {YL{yaughing {YL{yion {yT{Ya{Gv{We{Yr{yn{X~
+You are standing in the entrance hall of the {yLaughing Lion Tavern{x. 
+The hall has been wisely decorated with simple but functional furniture.  To
+the west is the bar, questmaster and stockbroker.  To the east leads back
+into the Temple.  
+~
+0 0 0
+D1
+~
+~
+0 0 46460
+D3
+~
+~
+0 0 46211
+S
+#46460
+{wThe {YL{yaughing {YL{yion {yT{Ya{Gv{We{Yr{yn{X~
+You are standing in the bar.  The bar is set againest the southern wall,
+old archaic writing, carvings and symbols cover its top.  A corner booth sit
+here for you to have a break from your journey.  Many people are standing
+around the bar including a questmaster, and stockbroker.  As you look around
+things here also look very familiar.  
+~
+0 0 0
+D2
+~
+~
+0 0 46467
+D3
+~
+~
+0 0 46459
+D4
+~
+~
+0 0 46473
+S
+#46461
+Entrance To The Temple of {GL{gok{Gi{X~
+Standing in the Mighty Loki's temple, chanting can be heard from all
+around.  Bright lights flash from numerous doorways, and others remain dark.
+There is a crisp smell to the air.  To the north, the temple alter can be
+seen.  East is the main temple room.  
+~
+0 0 0
+D0
+~
+~
+0 0 46462
+D3
+~
+~
+0 0 46212
+S
+#46462
+Temple of {GL{gok{Gi{X~
+Soft relaxing music can be heard here.  A large healing sauna sits in the
+ground to refresh after a long days battle.  A healer stands here ready to
+remove any bad spells that have cast upon you.  
+~
+0 0 0
+D2
+~
+~
+0 0 46461
+M 500 H 500
+S
+#46463
+Entrance To The Temple Of {BT{Yh{Yo{Br{X~
+Mprog You are in the southern end of the temple hall in the Temple of
+Thor.  The temple has been constructed from giant obsidian blocks, sickening
+in appearance, and most of the walls are covered by ancient wall paintings. 
+In these pictures are devils, giants and demons.  Large steps lead down
+through the grand temple gate, desceding the huge mound upon which the
+temple is built and the ends on the temple way below.  
+~
+0 0 0
+D0
+~
+~
+0 0 46464
+D1
+~
+~
+0 0 46212
+S
+#46464
+Temple Of {BT{Wh{Yo{Br{X~
+As entering in a fog of smoke rolls out into the walkway.  There is loud
+satanic sounding music being played for the people smoking something called
+MaryJane in the healing sauna.  They swear it heals everything.  
+~
+0 0 0
+D2
+~
+~
+0 0 46463
+M 500 H 500
+S
+#46465
+Death Alley~
+On {bDeath Alley{x a horrible stench lingers all around.  The smell of
+rotting flesh almost makes you sick at your stomach.  The morgue is to the
+south.  The rangers training grounds are to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46471
+D1
+~
+~
+0 0 46214
+D2
+~
+~
+0 0 46466
+S
+#46466
+The City Morgue~
+It stinks so bad in here you can barely breathe.  Corpse lay all around
+the morgue, there is barely enough room to walk for all the dead bodies. 
+You wonder if a war has broke out somewhere to have this many dead people at
+once.  
+~
+0 0 0
+D0
+~
+~
+0 0 46465
+S
+#46467
+{wBack Room{x in the {yT{Ya{Gv{We{Yr{yn{X~
+You look around and see people huddled in the corner, whispering and
+looking guilty.  A sweet smell comes from some sort of water filled thing
+they are smoking out of.  One sleepy looking gnome is rolling a cigarette
+made with some purple-green looking leaves.  You wonder if they'll share....
+~
+0 0 0
+D0
+~
+~
+0 0 46460
+S
+#46468
+Cleric Guild Training and Practice Yard~
+A line of cleric wait in line to be trained by the best cleric known. 
+Others can be seen practicing the skills they've learned in the practice
+yard.  
+~
+0 0 0
+D1
+~
+~
+0 0 46210
+S
+#46469
+Mage Guild Training and Practice Yard~
+Mages crowd into the room to sign up for training and practice to become
+the best of the best.  It looks like maybe a tournament may be getting ready
+to take place.  
+~
+0 0 0
+D0
+~
+~
+0 0 46203
+S
+#46470
+Warrior Guild Training and Practice Yard~
+Warrior line up by the dozen to get training and practice needed to
+survive in battle.  There are boxes full of weapons to train with to the
+side.  
+~
+0 0 0
+D0
+~
+~
+0 0 46207
+S
+#46471
+Ranger Guild Training and Practice Yard~
+Rangers battle each other on the practice yard as their teacher shows
+them the correct way to battle.  Others stand in awe that the teacher as old
+as he is can still fight so well.  
+~
+0 0 0
+D2
+~
+~
+0 0 46465
+S
+#46472
+Thief Guild Training and Practice Yard~
+A huge practice yard is here for thief to get their practice and
+training.  You see them practicing stealing from each other and sneaking up
+behind others and surprising them.  
+~
+0 0 0
+D3
+~
+~
+0 0 46214
+S
+#46473
+{wThe {YP{yrivate {wTraining Facility{X~
+A muscle headed beast steps out from behind the desk.  He explains this
+is where you can practice and train your skills without any worry of being
+attacked.  To the north is where you train and practice.  To the south leads
+back into the bar.  
+~
+0 0 0
+D0
+~
+~
+0 0 46474
+D5
+~
+~
+0 0 46460
+S
+#46474
+{wThe {YP{yrivate {wTraining Facility{X~
+As the closes behind you and you lock it so not to be pked, you notice
+practice dummies to practice your skills on.  You see another room to the
+west and to the east to build your skills up more.  
+~
+0 0 0
+D1
+~
+~
+4 46029 46476
+D2
+~
+~
+0 0 46473
+D3
+~
+~
+4 46030 46475
+S
+#46475
+The {RRed{X {YP{yractice{X Room~
+The wall in this room are painted a bright {rred{x with an eagle like
+{ygolden{x crest on the northern wall.  A practice dummy hangs in the middle
+of the room with a shirt on that says {R U R WEAK{x 
+~
+0 0 0
+D1
+~
+~
+4 46030 46474
+S
+#46476
+The {BBlue{X {YP{yractice{X Room~
+The walls of the room are painted a bright {bblue{x the trims is a finely
+crafted {Rcedar{x decorated with some sort of crest.  A practice dummy with
+a {bblue{x shirt stand in front of you.  You notice the shirt has {Yyellow{x
+writing on it that says {Y KICK ME!  {x 
+~
+0 0 0
+D3
+~
+~
+4 46029 46474
+S
+#46477
+{wEntrance to The {YL{yegend{x MUD School{X~
+You are entering upon a Legend Mud School.  This school is designed for
+newly legended warrior starting their journey.  Within these walls legenary
+equipment to start you off can be found.  To the north is the school.  
+~
+0 0 0
+D0
+~
+~
+0 0 46478
+D5
+~
+~
+0 0 46211
+S
+#46478
+Path Inside The School~
+A dirt path leads to the inside of the school.  Teachers stand outside
+showing the student how to cast spells, use specialized skills and teaching
+them about stances.  All important things to learn if your going to be a
+sucessful warrior.  
+~
+0 0 0
+D2
+~
+~
+0 0 46477
+S
+#46479
+Daygum's Home~
+~
+0 256 0
+D2
+~
+~
+1 0 46322
+S
+#46480
+Here's the {YB{RU{BG{Y!{x~
+~
+0 1024 0
+D5
+~
+~
+0 0 46448
+S
+#46000
+An old mine shaft~
+~
+0 0 5
+D4
+~
+~
+1 0 44052
+D5
+~
+~
+0 0 46001
+S
+#46001
+An old mine shaft~
+Leading deep into the earth this shaft is supported by old cedar timbers.
+A ladder has been nailed into the shaft wall leads up and down.  
+~
+0 0 5
+D4
+~
+~
+0 0 46000
+D5
+~
+~
+0 0 46002
+S
+#46002
+An old mine shaft~
+As the shaft goes deeper into the earth, imprints into the shaft can be
+seen where mining has taken place here.  The shaft leads deeper into the
+earth, and upward into the light of day.  
+~
+0 0 5
+D4
+~
+~
+0 0 46001
+D5
+~
+~
+0 0 46003
+S
+#46003
+An old mine shaft~
+A pully system with a large box on the end hangs below.  This must have
+been used to move people and their work equipment and whatevver it is they
+mined here in and out of the shaft.  Wooden planks are pilled up almost
+blocking off an entrance into the mine to the east.  Upward goes back into
+the shaft.  
+~
+0 0 5
+D1
+~
+~
+0 0 46004
+D4
+~
+~
+0 0 46002
+S
+#46004
+An old mine shaft~
+It seems that the shaft still continues further into the earth.  A rusty
+bucket is overflowing with water that drips through the ceiling of the
+shaft.  The shaft runs east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46005
+D3
+~
+~
+0 0 46003
+S
+#46005
+An old mine shaft~
+The skeletal remains of a small child lay here.  As looking closer a
+lunch pail with the name Timmy on it lay next to the bones.  Guess Lassie
+didnt make it to the mine shaft in time to save him.  The shaft continues
+east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46006
+D3
+~
+~
+0 0 46004
+S
+#46006
+An old mine shaft~
+Bats hang upside down on the ceiling of the shaft.  Dropping are
+everywhere you step.  Boards have been nailed up to block an exit to the
+east, but the some of the boards are missing making it possible to travel
+through.  
+~
+0 0 5
+D1
+~
+~
+1 0 46007
+D3
+~
+~
+0 0 46005
+S
+#46007
+Standing Over The Expanse~
+You are standing on top of a large cliff face that overlooks what appears
+to be an enormous underground city constructed of a silvery and copper red
+looking type of material.  It must be mined from somewhere in this huge
+underground expanse.  The city appears to go on for miles, and seems to sit
+in an enormous crater, with this large cliff face running all along the
+perimeter to make a crude oval shape.  There are tunnels leading into the
+cliff and down to the city below, but it is difficult to determine what
+tunnels go where.  
+~
+0 0 5
+D0
+~
+~
+0 0 46008
+D2
+~
+~
+0 0 46016
+D3
+~
+~
+1 0 46006
+S
+#46008
+On the Cliff Face~
+{rCooper{x looking rocks lay in a pile to the side, These stone look the
+same color as the city below, but where are they finding these stones to
+mine them?  The path leads north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46009
+D2
+~
+~
+0 0 46007
+S
+#46009
+On the Cliff Face~
+A small metal bucket full of {rcoppery{wand{Dsilvery{x looking stones
+lays tumbled over.  It seem that a group of small lizards are asleep on the
+stones in the bucket.  North and south the path continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46010
+D2
+~
+~
+0 0 46008
+S
+#46010
+On the Cliff Face~
+The ledge of the cliff seems very weak, as if it could cave in at
+anytime, Looking closer it can be seen that parts of this ledge have already
+given way, North and south the path continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46011
+D2
+~
+~
+0 0 46009
+D5
+~
+~
+1 0 46027
+S
+#46011
+On the Cliff Face~
+The path becomes wider and cleaner as you travel further on the trail. 
+You could swear you were hearing sounds coming from under your feet, or you
+might just be hearing things due to lack of rest from your voyages, North
+and south the path leads on.  
+~
+0 0 5
+D0
+~
+~
+0 0 46012
+D2
+~
+~
+0 0 46010
+S
+#46012
+On the Cliff Face~
+A wooden fence like barrier has been put in place on the ledge.  This end
+of the path seems to be upkept alote better than the other side.  North and
+south are the only exits.  
+~
+0 0 5
+D0
+~
+~
+0 0 46013
+D2
+~
+~
+0 0 46011
+S
+#46013
+On the Cliff Face~
+Another travelors donkey drinks from a watering trought that catches the
+water running off the sides of the cliff.  Another travelor fills his
+canteen with water that has flown into a big barrel, North and south the
+path goes on.  
+~
+0 0 5
+D0
+~
+~
+0 0 46014
+D2
+~
+~
+0 0 46012
+D5
+~
+~
+1 0 46028
+S
+#46014
+On the Cliff Face~
+Something must be going on somewhere near.  Benches are set up along the
+ledge of the cliff for travelors to rest and take in the glorious view of
+the city below.  North and south are the only ways you can go.  
+~
+0 0 5
+D0
+~
+~
+0 0 46015
+D2
+~
+~
+0 0 46013
+S
+#46015
+Before an impassible rock face~
+Here the trail seems to end.  A huge rock face that is unable to be hiked
+or climbed stand in the way of going any further.  As you walk up to the
+face of this huge work something creeks from under your feet.  
+~
+0 0 5
+D2
+~
+~
+0 0 46014
+D5
+~
+~
+1 0 46029
+S
+#46016
+On the Cliff Face~
+The path is rocky and dangerous.  One false step and you could tumble
+over the sides of the cliff to your death.  The path continues north and
+south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46007
+D2
+~
+~
+0 0 46017
+S
+#46017
+On the Cliff Face~
+Large boulders that have fallen from with sides of the walls about block
+the path.  Climbing over them is the only way to continue on the path that
+leads south and north.  
+~
+0 0 5
+D0
+~
+~
+0 0 46016
+D2
+~
+~
+0 0 46018
+D5
+~
+~
+1 0 46030
+S
+#46018
+On the Cliff Face~
+The cliff seems to becoming narrower the further south you travel on it. 
+The view is amazing as you overlook the city below.  
+~
+0 0 5
+D0
+~
+~
+0 0 46017
+D2
+~
+~
+0 0 46019
+S
+#46019
+On the Cliff Face~
+A small trickling stream drips down the side of the cliff and across the
+trail.  Making the trail here turn into a coppery mud puddle.  North and
+south the cliff face continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46018
+D2
+~
+~
+0 0 46020
+S
+#46020
+On the Cliff Face~
+The view of the village below is breathtaking.  People moving around look
+like little ants going into their anthill.  Soon the village will be full
+view and you can see what this village is like.  
+~
+0 0 5
+D0
+~
+~
+0 0 46019
+D2
+~
+~
+0 0 46021
+D5
+~
+~
+1 0 46031
+S
+#46021
+On the Cliff Face~
+An old worn napsack lays in the shade near the walls of the cliff Not a
+bad idea to take a little rest after all this traveling.  
+~
+0 0 5
+D0
+~
+~
+0 0 46020
+D2
+~
+~
+0 0 46022
+S
+#46022
+On the Cliff Face~
+Travelling around the many obstacles of the cliff face the path becomes a
+little wider as it turns directions.  The path leads to the north and east. 
+~
+0 0 5
+D0
+~
+~
+0 0 46021
+D1
+~
+~
+0 0 46023
+S
+#46023
+On the Cliff Face~
+As the path widens more potholes appear making the path difficult to walk
+on.  Not only is it the potholes but small pebbles litter the trail.  The
+path leads east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46024
+D3
+~
+~
+0 0 46022
+S
+#46024
+On the Cliff Face~
+A small overhang gives a little shelter from the water that flows out the
+side of the cliffs onto the trail.  The trail leads east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46025
+D3
+~
+~
+0 0 46023
+S
+#46025
+On the Cliff Face~
+The path starts to become more narrow here.  The fog is so thick you can
+barely see where your stepping.  The trail continues east and west.  
+~
+0 0 5
+D1
+~
+~
+0 0 46026
+D3
+~
+~
+0 0 46024
+S
+#46026
+At an impasse in the trail~
+It looks like the path here has caved in from the weight of many
+travellors.  This is the end of the path.  
+~
+0 0 5
+D3
+~
+~
+0 0 46025
+S
+#46027
+Tunnel~
+Tunnel To Somewhere #1 In this hidden tunnel a spiral stairwell leading
+into the depts of the mountains above.  The staircase is made of cedar and
+it looks as it there was handrails at one time but there are none here.  The
+stairs lead down and back up.  
+~
+0 0 0
+D4
+~
+~
+1 0 46010
+D5
+~
+~
+0 0 46080
+S
+#46028
+Tunnel~
+A hidden underground tunnel leads deep underneath the cliffs above.  The
+stairs are made of some type of rock and mortar.  The stairs continue down
+and up.  
+~
+0 0 0
+D4
+~
+~
+1 0 46013
+D5
+~
+~
+0 0 46032
+S
+#46029
+Tunnel~
+After finding the hatch that leads into the tunnel, stairs that lead
+downward to where only Thor knows.  The stairs are made of mud and straw it
+seems and the rail out of a very unique wood that youve never seen before. 
+Down is the only exit 
+~
+0 0 0
+D4
+~
+~
+1 0 46015
+D5
+~
+~
+0 0 46091
+S
+#46030
+Tunnel~
+~
+0 0 0
+D4
+~
+~
+1 0 46017
+D5
+~
+~
+0 0 46043
+S
+#46031
+Tunnel~
+A hidden door that was covered with mud and stones give way to this part
+of the tunnel.  A ladder leads downward.  
+~
+0 0 0
+D4
+~
+~
+1 0 46020
+D5
+~
+~
+0 0 46055
+S
+#46032
+Tunnel~
+Lanterns hang on a {rcopper{x looking hook thats looks like some sort of
+crest.  They light up the entire stairwell that leads downward and upward in
+this hidden tunnel.  
+~
+0 0 0
+D4
+~
+~
+0 0 46028
+D5
+~
+~
+0 0 46033
+S
+#46033
+Tunnel~
+As the tunnel continue you can see a finely hand carved handrail that
+leads the length of the stairwell.  The same crest that was on the lantern
+hooks are also craved into the handrails.  Down and up the tunnel continues.
+~
+0 0 0
+D4
+~
+~
+0 0 46032
+D5
+~
+~
+0 0 46034
+S
+#46034
+Tunnel~
+From the bottom of the stairwell the contents of the tunnel can now be
+fully seen.  Mining equipment has been stored throughout this tunnel.  The
+tunnel leads east and back up the stairs.  
+~
+0 0 0
+D1
+~
+~
+0 0 46035
+D4
+~
+~
+0 0 46033
+S
+#46035
+Tunnel~
+Mining equipment lines the sides of this tunnel.  Picks, axes, buckets,
+and small helmets with lights on top of them are piled to the ceiling.  The
+tunnel leads east, west, and southward.  
+~
+0 0 0
+D1
+~
+~
+0 0 46036
+D2
+~
+~
+0 0 46038
+D3
+~
+~
+0 0 46034
+S
+#46036
+Tunnel~
+Broken mining equipment sit in a pit surrounded by large stones ready to
+be destroyed.  Blackness covers this part of the tunnel and the smell of
+smoke still looms in the air.  The tunnel continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46037
+D3
+~
+~
+0 0 46035
+S
+#46037
+Tunnel~
+There are broken shards of copper and silverlittering the ground as well
+as broken glass.  The tunnel turns to the north and back to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 46041
+D3
+~
+~
+0 0 46036
+S
+#46038
+Tunnel~
+Strange symbols are craved into the walls they kind of resemble the
+descriptions you've heard of what the Gods and their Kingdom may look like. 
+The tunnel leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 46035
+D2
+~
+~
+0 0 46039
+S
+#46039
+Tunnel~
+A sacrifical pit covers most of walkway in this part of the tunnel. 
+Blackness covers the walls from the offerings that have beem burnt here. 
+The tunnel turns to the east and back to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46038
+D1
+~
+~
+0 0 46040
+S
+#46040
+Dead End in the Tunnel~
+In this dead end of the tunnel {Rblood{x drips down the sides of the wall
+giving it the appearance that the wall are bleeding.  You wonder if some
+strange occult worships here.  The only exit is west.  
+~
+0 0 0
+D3
+~
+~
+0 0 46039
+S
+#46041
+Tunnel~
+There are broken shards of coppeer and silver littering the ground as
+well as broken glass.  The tunnel turns to the north and back to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 46042
+D2
+~
+~
+0 0 46037
+S
+#46042
+Dead End in the Tunnel~
+As you enter into another dead end you notice that there are strange
+carvings in the walls.  You wonder what they are and mean.  The only exit is
+south.  
+~
+0 0 0
+D2
+~
+~
+0 0 46041
+S
+#46043
+Tunnel~
+~
+0 0 0
+D4
+~
+~
+0 0 46030
+D5
+~
+~
+0 0 46044
+S
+#46044
+Tunnel~
+~
+0 0 0
+D4
+~
+~
+0 0 46043
+D5
+~
+~
+0 0 46045
+S
+#46045
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46046
+D4
+~
+~
+0 0 46044
+S
+#46046
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46047
+D2
+~
+~
+0 0 46045
+S
+#46047
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46048
+D2
+~
+~
+0 0 46046
+S
+#46048
+Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 46049
+D2
+~
+~
+0 0 46047
+S
+#46049
+Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 46050
+D3
+~
+~
+0 0 46048
+S
+#46050
+Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 46051
+D3
+~
+~
+0 0 46049
+S
+#46051
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46052
+D3
+~
+~
+0 0 46050
+S
+#46052
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46053
+D2
+~
+~
+0 0 46051
+S
+#46053
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 46054
+D2
+~
+~
+0 0 46052
+S
+#46054
+Dead End in the Tunnel~
+~
+0 0 0
+D2
+~
+~
+0 0 46053
+S
+#46055
+Tunnel~
+Torches light the sides of this narrow tunnelway.  The ladder looks old
+and you worry it could out any moment.  The tunnel leads up and down the
+ladder.  
+~
+0 0 0
+D4
+~
+~
+0 0 46031
+D5
+~
+~
+0 0 46056
+S
+#46056
+Tunnel~
+The tunnel seems to become a little bit wider as you travel down the
+ladder.  Only one of the torches here are lit.  Up and down are the only
+exits.  
+~
+0 0 0
+D4
+~
+~
+0 0 46055
+D5
+~
+~
+0 0 46057
+S
+#46057
+Tunnel~
+The ladder seems to be stablier here.  Some of the planks have been
+replaced with cedar looking boards.  Up and down the tunnel continues.  
+~
+0 0 0
+D4
+~
+~
+0 0 46056
+D5
+~
+~
+0 0 46058
+S
+#46058
+Tunnel~
+You've reached the end of this ladder.  Amazed by what you see you almost
+fall off the ladder.  {8Silver{x and {Ygold{x line the walls and the floors
+of this tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 46059
+D4
+~
+~
+0 0 46057
+S
+#46059
+Tunnel~
+Marvelous cravings in the {Ygold{x and {8silver{x of battle scenes cover
+the walls.  No wonder this place is kept hidden from sight.  East and west
+are the exits.  
+~
+0 0 0
+D1
+~
+~
+0 0 46060
+D3
+~
+~
+0 0 46058
+S
+#46060
+Tunnel~
+There are more torches here lighting the tunnelway.  A bench made of
+{rcopper{x sits to the side with {Ggreen{x gems inlaid in it.  The exits are
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 46061
+D3
+~
+~
+0 0 46059
+S
+#46061
+Tunnel~
+Two benches like the ones seen to the west sit here with a wooden box
+full of tools.  This doesnt look like a mining tunnel.  Exits to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46062
+D3
+~
+~
+0 0 46060
+S
+#46062
+Tunnel~
+A piece of astonishing artwork sits in the middle of this path.  A statue
+of what looks to be a God made of many rare stones and gems.  It looks like
+whomever made this piece of art will be back to work on it some more, as you
+notice tools laying next to the statue.  
+~
+0 0 0
+D1
+~
+~
+0 0 46063
+D3
+~
+~
+0 0 46061
+S
+#46063
+Tunnel~
+Marvelous cravings in the {Ygold{x and {8silver{x of battle scenes cover
+the walls.  No wonder this place is kept hidden from sight.  
+~
+0 0 0
+D1
+~
+~
+0 0 46064
+D3
+~
+~
+0 0 46062
+S
+#46064
+Tunnel~
+The {ygold{x and {8silver{x about blinds you with its brightness as the
+light hits it from the lanterns on the wall.  Its simply breathtaking.  You
+can go back down the ladder or west.  
+~
+0 0 0
+D3
+~
+~
+0 0 46063
+D5
+~
+~
+0 0 46065
+S
+#46065
+Tunnel~
+This ladder looks like it has been freshly painted.  Some type of craving
+is on the walls going up and down the ladder through this part of the
+tunnel.  
+~
+0 0 0
+D4
+~
+~
+0 0 46064
+D5
+~
+~
+0 0 46066
+S
+#46066
+Tunnel~
+A long ladder hangs on the side of the wall of this part of the tunnel. 
+Two torches light the way up the ladder.  
+~
+0 0 0
+D4
+~
+~
+0 0 46065
+D5
+~
+~
+0 0 46067
+S
+#46067
+Tunnel~
+The tunnel is very brightly lighted with many lanterns and torches here. 
+Each on bearing a strange looking crest of some sort.  The tunnel take on
+different directions now.  Back to the north, east, and up are the exits.  
+~
+0 0 0
+D0
+~
+~
+0 0 46071
+D1
+~
+~
+0 0 46068
+D4
+~
+~
+0 0 46066
+S
+#46068
+Tunnel~
+The tunnel opening becomes wider and brighter.  As looking down the path
+is now made completely of {rcopper{x.  East and west are the only exits.  
+~
+0 0 0
+D1
+~
+~
+0 0 46069
+D3
+~
+~
+0 0 46067
+S
+#46069
+{DBe{wfo{Wr{De t{whe {DC{wi{Wt{Dy{X of {YI{ys{Db{We{Dl{yl{Ya{X ~
+Large {Ygolden{x gates stand before you.  Only the toughest shouldnt
+enter in these gates, a sign reads on the gate.  
+~
+0 0 0
+D1
+~
+~
+1 0 46070
+D3
+~
+~
+0 0 46068
+S
+#46070
+Inside The City Gates~
+As you enter into the city, you get a feeling that youve been here
+before.  Everything around you looks very familiar.  
+~
+0 0 0
+D0
+~
+~
+0 0 46157
+D1
+~
+~
+0 0 46201
+D2
+~
+~
+0 0 46200
+D3
+~
+~
+1 0 46069
+S
+#46071
+Tunnel~
+The torch is lit here and you can now tell that the {Yyellow eyes{x that
+were staring at you, were not really eyes but gemstones that are stuck into
+the walls of the tunnel.  North and south the tunnel continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 46072
+D2
+~
+~
+0 0 46067
+S
+#46072
+Tunnel~
+A set of {Yyellow eyes{x stare at you from on the wall.  The torch here
+is not lit so seeing what could be staring at you is impossible.  North or
+south is the only was to get out.  
+~
+0 0 5
+D0
+~
+~
+0 0 46073
+D2
+~
+~
+0 0 46071
+S
+#46073
+Tunnel~
+A torch hangs down from the middle of ceiling.  As looking up at it you
+notice some big creature that covers most of the ceiling and its tail goes
+all the way down the wall.  Hurrily choose north or south before it jumps
+down onto you.  
+~
+0 0 5
+D0
+~
+~
+0 0 46074
+D2
+~
+~
+0 0 46072
+S
+#46074
+Tunnel~
+A dragonlike lizard carving covers the majority of the walls here.  You
+wonder if the carving is of whatever build the nest.  North and south the
+tunnel continue.  
+~
+0 0 5
+D0
+~
+~
+0 0 46075
+D2
+~
+~
+0 0 46073
+S
+#46075
+Tunnel~
+Scales of a large lizard lay in the middle of the path.  It could be from
+whatever creatures nest that was seen back to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 46076
+D1
+~
+~
+0 0 46101
+D2
+~
+~
+0 0 46074
+S
+#46076
+Tunnel~
+It looks as though something has made a nest off to the side in this part
+of the tunnel.  Its hard to determine what kind of animal it could be the
+nest is quite big.  The tunnel continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46077
+D2
+~
+~
+0 0 46075
+S
+#46077
+Tunnel~
+The splashing sound heard is now seen.  There is a crack in the ground
+near the corner that is forcing all the water downward into a waterfall. 
+The only exits are north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 46078
+D2
+~
+~
+0 0 46076
+S
+#46078
+Tunnel~
+As the water still continues to rise small frogs and lizards scurry all
+around.  Splashing sounds can be heard from ahead.  The tunnel leads north
+and south, 
+~
+0 0 5
+D0
+~
+~
+0 0 46079
+D2
+~
+~
+0 0 46077
+S
+#46079
+Tunnel~
+There is only one torch hanging here making it hard to make out anything
+in this part of the tunnel.  All that can be seen is that the tunnel leads
+south and north.  
+~
+0 0 5
+D0
+~
+~
+0 0 46090
+D2
+~
+~
+0 0 46078
+S
+#0
+
+
+
+#SPECIALS
+M 46002 spec_cast_mage Load to: a sorceress
+M 46006 spec_cast_mage Load to: an expanse raider
+M 46010 spec_breath_fire Load to: An old traveler
+M 46019 spec_questmaster Load to: Durld
+M 46020 spec_stockman Load to: a stockbroker
+M 46023 spec_janitor Load to: a janitor
+M 46027 spec_breath_fire Load to: {RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x
+M 46035 spec_rally Load to: Daygum
+M 46043 spec_cast_mage Load to: The {YKing{x
+M 46044 spec_cast_mage Load to: The {YQueen{x
+M 46045 spec_thief Load to: Cartigus
+S
+
+
+
+#RESETS
+D 0 46104 1 1 The east door of Tunnel is closed
+D 0 46105 3 1 The west door of {DBeginning of The Ex{Wp{wa{Wn{Dse{X is closed
+D 0 46155 1 1 The east door of The Sideways Expanse Expressway is closed
+D 0 46156 3 1 The west door of {DExpanse Entrance To Isabel City{X is closed
+D 0 46167 0 1 The north door of Along The Inner Wall is closed
+D 0 46177 1 1 The east door of Along The Inner Wall is closed
+D 0 46177 4 1 The up door of Along The Inner Wall is closed
+D 0 46189 2 1 The south door of Along The Inner Wall is closed
+D 0 46205 4 1 The up door of {CC{central {CS{cquare{X is closed
+D 0 46205 5 1 The down door of {CC{central {CS{cquare{X is closed
+D 0 46218 5 1 The down door of The Jaded Stairwell is closed
+D 0 46227 4 1 The up door of The Damned Stairwell is closed
+D 0 46263 5 1 The down door of Expanse Entrance is closed
+D 0 46275 5 2 The down door of The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell  is closed and locked
+D 0 46276 4 2 The up door of {RBo{rtt{Rom{X Of {DDe{Ws{wp{Wa{Dir{X is closed and locked
+D 0 46277 3 1 The west door of Outside the walls is closed
+D 0 46300 4 1 The up door of Below The Kingdom's Mountain Range is closed
+D 0 46301 0 1 The north door of Outside The Southern Entrance is closed
+D 0 46322 0 1 The north door of Thick Forest is closed
+D 0 46343 2 1 The south door of The Northern Path is closed
+D 0 46349 0 1 The north door of Before The Royal Castle is closed
+D 0 46350 2 1 The south door of Entrance To The Royal Castle is closed
+D 0 46353 4 1 The up door of {DDarkness{X Hallway is closed
+D 0 46359 1 1 The east door of King's Hallway is closed
+D 0 46360 3 1 The west door of King's Room is closed
+D 0 46363 3 1 The west door of Queen's Hallway is closed
+D 0 46364 1 1 The east door of Queen's Room is closed
+D 0 46365 5 1 The down door of Stairwell of Despair is closed
+D 0 46367 4 1 The up door of Stairwell of Despair is closed
+D 0 46368 5 1 The down door of Sorcerer's Lair is closed
+D 0 46397 5 1 The down door of Linkage {DSw{wam{Wp{wla{Dnds{X is closed
+D 0 46401 4 1 The up door of Sinking Into The Mud is closed
+D 0 46427 2 2 The south door of A Tiny Cell is closed and locked
+D 0 46433 0 1 The north door of Before A Tunnel Village is closed
+D 0 46434 2 1 The south door of Inside The Small Gate is closed
+D 0 46436 3 1 The west door of Main Village Tunnel is closed
+D 0 46437 1 1 The east door of Main Village Tunnel is closed
+D 0 46441 3 1 The west door of Small Home is closed
+D 0 46441 5 1 The down door of Small Home is closed
+D 0 46442 1 1 The east door of Small Home is closed
+D 0 46443 4 1 The up door of Below a Small Home is closed
+D 0 46447 2 2 The south door of Before The {GT{gow{Gn {DCatacombs{X is closed and locked
+D 0 46448 0 2 The north door of The {BB{Yu{Rg{x Room! is closed and locked
+D 0 46474 1 2 The east door of {wThe {YP{yrivate {wTraining Facility{X is closed and locked
+D 0 46474 3 2 The west door of {wThe {YP{yrivate {wTraining Facility{X is closed and locked
+D 0 46475 1 2 The east door of The {RRed{X {YP{yractice{X Room is closed and locked
+D 0 46476 3 2 The west door of The {BBlue{X {YP{yractice{X Room is closed and locked
+D 0 46479 2 1 The south door of Daygum's Home is closed
+D 0 46000 4 1 The up door of An old mine shaft is closed
+D 0 46006 1 1 The east door of An old mine shaft is closed
+D 0 46007 3 1 The west door of Standing Over The Expanse is closed
+D 0 46010 5 1 The down door of On the Cliff Face is closed
+D 0 46013 5 1 The down door of On the Cliff Face is closed
+D 0 46015 5 1 The down door of Before an impassible rock face is closed
+D 0 46017 5 1 The down door of On the Cliff Face is closed
+D 0 46020 5 1 The down door of On the Cliff Face is closed
+D 0 46027 4 1 The up door of Tunnel is closed
+D 0 46028 4 1 The up door of Tunnel is closed
+D 0 46029 4 1 The up door of Tunnel is closed
+D 0 46030 4 1 The up door of Tunnel is closed
+D 0 46031 4 1 The up door of Tunnel is closed
+D 0 46069 1 1 The east door of {DBe{wfo{Wr{De t{whe {DC{wi{Wt{Dy{X of {YI{ys{Db{We{Dl{yl{Ya{X  is closed
+D 0 46070 3 1 The west door of Inside The City Gates is closed
+O 0 46000 0 46105 *A sign loaded to {DBeginning of The Ex{Wp{wa{Wn{Dse{X
+M 0 46000 8 46105 8 *Load an Underground Dweller
+M 0 46001 9 46105 9 *Load a traveling drow merchant
+M 0 46000 8 46106 8 *Load an Underground Dweller
+M 0 46001 9 46106 9 *Load a traveling drow merchant
+M 0 46000 8 46107 8 *Load an Underground Dweller
+M 0 46000 8 46108 8 *Load an Underground Dweller
+M 0 46001 9 46108 9 *Load a traveling drow merchant
+M 0 46009 9 46109 9 *Load a ghostly apparition
+M 0 46000 8 46111 8 *Load an Underground Dweller
+M 0 46001 9 46111 9 *Load a traveling drow merchant
+M 0 46001 9 46112 9 *Load a traveling drow merchant
+M 0 46006 10 46112 10 *Load an expanse raider
+M 0 46004 10 46112 10 *Load Draconian cave dweller
+M 0 46005 10 46112 10 *Load a human slave
+M 0 46000 8 46113 8 *Load an Underground Dweller
+M 0 46009 9 46113 9 *Load a ghostly apparition
+M 0 46001 9 46114 9 *Load a traveling drow merchant
+M 0 46002 6 46114 6 *Load a sorceress
+M 0 46009 9 46114 9 *Load a ghostly apparition
+M 0 46001 9 46115 9 *Load a traveling drow merchant
+M 0 46002 6 46115 6 *Load a sorceress
+M 0 46009 9 46115 9 *Load a ghostly apparition
+M 0 46001 9 46116 9 *Load a traveling drow merchant
+M 0 46001 9 46116 9 *Load a traveling drow merchant
+M 0 46002 6 46116 6 *Load a sorceress
+M 0 46009 9 46116 9 *Load a ghostly apparition
+M 0 46002 6 46117 6 *Load a sorceress
+M 0 46001 9 46117 9 *Load a traveling drow merchant
+M 0 46003 8 46118 8 *Load a hybrid
+M 0 46002 6 46119 6 *Load a sorceress
+M 0 46002 6 46121 6 *Load a sorceress
+M 0 46002 6 46122 6 *Load a sorceress
+M 0 46003 8 46123 8 *Load a hybrid
+M 0 46003 8 46125 8 *Load a hybrid
+M 0 46003 8 46128 8 *Load a hybrid
+M 0 46003 8 46129 8 *Load a hybrid
+M 0 46003 8 46130 8 *Load a hybrid
+M 0 46010 1 46131 1 *Load An old traveler
+E 0 46001 0 18 *A {ds{wh{wa{wd{do{ww{dy{x disc is loaded floating nearby of An old traveler
+M 0 46003 8 46132 8 *Load a hybrid
+M 0 46009 9 46132 9 *Load a ghostly apparition
+M 0 46004 8 46133 8 *Load Draconian cave dweller
+M 0 46007 9 46133 9 *Load an expanse lion
+M 0 46009 9 46133 9 *Load a ghostly apparition
+M 0 46004 8 46134 8 *Load Draconian cave dweller
+M 0 46007 9 46134 9 *Load an expanse lion
+M 0 46009 9 46134 9 *Load a ghostly apparition
+M 0 46004 8 46135 8 *Load Draconian cave dweller
+M 0 46007 9 46135 9 *Load an expanse lion
+M 0 46004 8 46136 8 *Load Draconian cave dweller
+M 0 46007 9 46136 9 *Load an expanse lion
+M 0 46004 8 46137 8 *Load Draconian cave dweller
+M 0 46007 9 46137 9 *Load an expanse lion
+M 0 46004 8 46138 8 *Load Draconian cave dweller
+M 0 46007 9 46138 9 *Load an expanse lion
+M 0 46004 8 46139 8 *Load Draconian cave dweller
+M 0 46007 9 46139 9 *Load an expanse lion
+M 0 46007 9 46140 9 *Load an expanse lion
+M 0 46005 8 46141 8 *Load a human slave
+M 0 46005 8 46142 8 *Load a human slave
+M 0 46007 9 46142 9 *Load an expanse lion
+M 0 46005 8 46143 8 *Load a human slave
+M 0 46008 9 46143 9 *Load An expanse tiger
+M 0 46005 8 46144 8 *Load a human slave
+M 0 46008 9 46144 9 *Load An expanse tiger
+M 0 46005 8 46146 8 *Load a human slave
+M 0 46008 9 46146 9 *Load An expanse tiger
+M 0 46005 8 46147 8 *Load a human slave
+M 0 46008 9 46147 9 *Load An expanse tiger
+M 0 46005 8 46148 8 *Load a human slave
+M 0 46005 8 46148 8 *Load a human slave
+M 0 46005 8 46149 8 *Load a human slave
+M 0 46006 10 46150 10 *Load an expanse raider
+M 0 46008 9 46150 9 *Load An expanse tiger
+M 0 46006 10 46151 10 *Load an expanse raider
+M 0 46008 9 46151 9 *Load An expanse tiger
+M 0 46006 10 46152 10 *Load an expanse raider
+M 0 46008 9 46152 9 *Load An expanse tiger
+M 0 46006 10 46153 10 *Load an expanse raider
+M 0 46008 9 46153 9 *Load An expanse tiger
+M 0 46006 10 46154 10 *Load an expanse raider
+M 0 46008 9 46154 9 *Load An expanse tiger
+M 0 46006 10 46155 10 *Load an expanse raider
+M 0 46023 6 46205 6 *Load a janitor
+M 0 46023 6 46210 6 *Load a janitor
+O 0 46025 0 46213 *The donation pit loaded to The {DD{wonation {DP{wit{X
+M 0 46023 6 46215 6 *Load a janitor
+M 0 46040 10 46218 10 *Load a stairwell gremlin
+O 0 46002 0 46218 *A {rsign{x loaded to The Jaded Stairwell
+M 0 46039 10 46221 10 *Load a stairwell mouse
+M 0 46040 10 46222 10 *Load a stairwell gremlin
+M 0 46041 9 46223 9 *Load a stairwell wanderer
+M 0 46040 10 46224 10 *Load a stairwell gremlin
+M 0 46040 10 46225 10 *Load a stairwell gremlin
+M 0 46040 10 46226 10 *Load a stairwell gremlin
+O 0 46002 0 46227 *A {rsign{x loaded to The Damned Stairwell
+M 0 46026 9 46229 9 *Load a {Rdamned{X guard
+M 0 46026 9 46230 9 *Load a {Rdamned{X guard
+M 0 46026 9 46231 9 *Load a {Rdamned{X guard
+M 0 46026 9 46232 9 *Load a {Rdamned{X guard
+M 0 46026 9 46233 9 *Load a {Rdamned{X guard
+M 0 46026 9 46234 9 *Load a {Rdamned{X guard
+M 0 46026 9 46235 9 *Load a {Rdamned{X guard
+M 0 46011 1 46236 1 *Load a shopkeep
+G 0 46004 0 *A {dsh{wa{wd{wo{dwy{x wand is given to a shopkeep
+G 0 46005 0 *A black wand is given to a shopkeep
+G 0 46006 0 *A {bblue{x wand is given to a shopkeep
+G 0 46007 0 *Potion of {bdefense{x is given to a shopkeep
+G 0 46008 0 *Potion of {roffense{x is given to a shopkeep
+G 0 46009 0 *Potion of {ys{yi{yg{yh{yt{x is given to a shopkeep
+M 0 46012 1 46237 1 *Load the jeweler
+G 0 46010 0 *{dbr{wa{wc{wel{det{x of the {de{mx{wp{ma{wn{ms{de{x is given to the jeweler
+G 0 46011 0 *Wrist guard of the {de{mx{wp{ma{wn{ms{de{x is given to the jeweler
+G 0 46012 0 *Necklace of the {de{mx{wp{ma{wn{ms{de{x is given to the jeweler
+G 0 46026 0 *{ba blue diamond{x is given to the jeweler
+M 0 46039 10 46242 10 *Load a stairwell mouse
+M 0 46039 10 46243 10 *Load a stairwell mouse
+M 0 46039 10 46244 10 *Load a stairwell mouse
+M 0 46039 10 46245 10 *Load a stairwell mouse
+M 0 46041 9 46246 9 *Load a stairwell wanderer
+M 0 46039 10 46246 10 *Load a stairwell mouse
+M 0 46039 10 46247 10 *Load a stairwell mouse
+M 0 46039 10 46248 10 *Load a stairwell mouse
+M 0 46039 10 46249 10 *Load a stairwell mouse
+M 0 46041 9 46249 9 *Load a stairwell wanderer
+M 0 46041 9 46250 9 *Load a stairwell wanderer
+M 0 46041 9 46250 9 *Load a stairwell wanderer
+M 0 46040 10 46251 10 *Load a stairwell gremlin
+M 0 46041 9 46251 9 *Load a stairwell wanderer
+M 0 46040 10 46252 10 *Load a stairwell gremlin
+M 0 46041 9 46252 9 *Load a stairwell wanderer
+M 0 46040 10 46253 10 *Load a stairwell gremlin
+M 0 46041 9 46253 9 *Load a stairwell wanderer
+M 0 46040 10 46254 10 *Load a stairwell gremlin
+M 0 46039 10 46254 10 *Load a stairwell mouse
+M 0 46040 10 46255 10 *Load a stairwell gremlin
+M 0 46041 9 46255 9 *Load a stairwell wanderer
+M 0 46040 10 46256 10 *Load a stairwell gremlin
+M 0 46041 9 46256 9 *Load a stairwell wanderer
+M 0 46039 10 46257 10 *Load a stairwell mouse
+M 0 46039 10 46258 10 *Load a stairwell mouse
+M 0 46026 9 46259 9 *Load a {Rdamned{X guard
+E 0 47010 0 16 *{ra{rxe{w of {yi{rn{%s{ya{rn{yi{bt{ry{x is loaded wielded of a {Rdamned{X guard
+M 0 46026 9 46264 9 *Load a {Rdamned{X guard
+G 0 47013 0 *A {yglowing {rr{re{rd {dr{ru{ri{rn{we{dd{x key is given to a {Rdamned{X guard
+M 0 46026 9 46267 9 *Load a {Rdamned{X guard
+M 0 46026 9 46271 9 *Load a {Rdamned{X guard
+O 0 46003 0 46271 *A sign loaded to The {REt{rer{Wna{rl{Rly{X {DDa{Wm{wn{Ded{X Stairwell 
+M 0 46027 1 46276 1 *Load {RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x
+E 0 47000 0 6 *{yc{5r{%o{5w{yn{x {wof {dt{whe {%e{dx{5p{da{wn{ds{%e{x is loaded over the head of {RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x
+E 0 47001 0 27 *{%p{5a{dt{5ch{w of the {%e{5x{dp{wa{dn{5s{%e{x is loaded as a patch of {RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x
+E 0 47005 0 20 *{ws{di{wl{dv{we{wr{x mask of {rhatred{x  is loaded on the face of {RK{Beeper {wof {YS{yo{Wr{wr{yo{Yw{x
+O 0 46013 0 46301 *A {rsign{x loaded to Outside The Southern Entrance
+O 0 47500 0 46310 *A {rsign{x loaded to The Southern Path
+M 0 46029 8 46313 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46030 8 46313 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46030 8 46314 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46029 8 46315 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46032 8 46315 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46315 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46315 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46316 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46316 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46316 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46030 8 46317 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46030 8 46318 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46030 8 46319 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46030 8 46320 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46030 8 46321 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46031 10 46323 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46033 8 46323 8 *Load a cute {yf{ru{yr{yr{ry {7wemic{x
+M 0 46030 8 46324 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46031 10 46324 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46324 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46324 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+E 0 47003 0 18 *A {gno{gx{wi{go{gus{x {wball{x of {ggas{x is loaded floating nearby of a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46325 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46325 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46325 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46030 8 46326 8 *Load a {Dp{we{Wt{wr{Dif{Wi{we{Dd{x {Dw{wo{Dl{wf{X
+M 0 46031 10 46326 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46326 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46031 10 46326 10 *Load a {Gg{ga{wr{gd{we{Gn {Mg{mn{Dome{x
+M 0 46032 8 46327 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46032 8 46327 8 *Load a {Ws{wp{Do{wo{Wk{wy{x wyvern
+M 0 46029 8 46329 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46029 8 46330 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46034 8 46330 8 *Load a bat
+M 0 46034 8 46330 8 *Load a bat
+M 0 46034 8 46330 8 *Load a bat
+M 0 46029 8 46334 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46029 8 46335 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46034 8 46337 8 *Load a bat
+M 0 46034 8 46337 8 *Load a bat
+M 0 46029 8 46338 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46034 8 46338 8 *Load a bat
+M 0 46034 8 46338 8 *Load a bat
+M 0 46034 8 46338 8 *Load a bat
+M 0 46029 8 46339 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46029 8 46341 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+M 0 46029 8 46342 8 *Load a screaming {rm{yo{wn{yk{re{Dy{x
+O 0 46014 0 46348 *A {rsign{x loaded to The Northern Path
+M 0 46047 1 46349 1 *Load {RF{Wr{Ra{Wd {Wthe {DDi{wsh{Won{wor{Dab{wl{De{x
+M 0 46046 5 46350 5 *Load Royal Guard
+M 0 46046 5 46351 5 *Load Royal Guard
+E 0 47029 0 13 *Belt of {yr{yoyalty{x is loaded around the waist of Royal Guard
+M 0 46046 5 46353 5 *Load Royal Guard
+M 0 46045 1 46354 1 *Load Cartigus
+E 0 47026 0 7 *{2le{@gpl{2at{@es {do{wf {yd{yiv{yi{ynity{x is loaded on the legs of Cartigus
+E 0 47025 0 0 *Tiny {rorb {xof {db{5l{da{8c{wk {yl{yight{x is loaded as a light of Cartigus
+E 0 47030 0 17 *{ygl{yo{yw{yi{yng {wt{ww{di{wn{we{x of string{x is loaded held in the hands of Cartigus
+O 0 47021 0 46354 *A {ygold {cw{di{wn{cg{we{cd{x throne loaded to Throne Room
+M 0 46046 5 46354 5 *Load Royal Guard
+M 0 46046 5 46354 5 *Load Royal Guard
+M 0 46043 1 46360 1 *Load The {YKing{x
+E 0 47022 0 27 *{dp{wa{wt{wc{dh{w of {yki{yn{ygs{x is loaded as a patch of The {YKing{x
+E 0 47023 0 1 *{yr{ying{w of {rr{yo{yy{ra{yl{yt{ry{x is loaded on the left finger of The {YKing{x
+M 0 46044 1 46364 1 *Load The {YQueen{x
+E 0 47024 0 14 *A {yh{ce{ym{dp{x charm bracelet is loaded on the left wrist of The {YQueen{x
+E 0 47031 0 8 *{yqu{ye{yen's {yb{yattle {db{woots{x is loaded on the feet of The {YQueen{x
+M 0 46042 1 46368 1 *Load Taburthis
+E 0 47019 0 3 *{ds{wh{wr{wo{du{wd of {mm{ci{ms{ct{x is loaded around the neck (1) of Taburthis
+E 0 47020 0 18 *{rf{ri{rr{re{rb{ra{rl{rl{x is loaded floating nearby of Taburthis
+O 0 46015 0 46369 *A {rsign{x loaded to Beginning of the {DSw{wam{Wp{wla{Dnds{X
+M 0 46015 11 46370 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46015 11 46371 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46015 11 46372 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46372 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46373 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46373 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46375 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46375 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46377 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46377 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46378 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46378 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46379 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46015 11 46380 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46015 11 46381 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46382 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46383 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46383 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46016 11 46384 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46015 11 46385 11 *Load {Dpe{Wtr{wif{Wi{Ded{X gator
+M 0 46016 11 46385 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46016 11 46386 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46017 9 46386 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46016 11 46387 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46017 9 46387 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46016 11 46388 11 *Load a swamp {Gcr{gocodi{Gle{X 
+M 0 46017 9 46388 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46389 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46389 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46389 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46017 9 46390 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46390 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46391 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46391 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46391 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46017 9 46392 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46392 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46017 9 46393 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46394 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46017 9 46395 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46395 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46017 9 46396 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46396 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46396 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46017 9 46397 9 *Load a {Gsw{ga{Gmp {Dgr{We{wm{Wl{Din{X
+M 0 46018 10 46397 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46398 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46399 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46400 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46401 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46018 10 46402 10 *Load a {Ds{Ww{wa{Wm{Dp {Rh{Go{Rb{Ggo{Rb{Gl{Ri{Gn{X
+M 0 46013 1 46412 1 *Load an old wizard
+G 0 46016 0 *Staff of life is given to an old wizard
+G 0 46021 0 *A scroll of identity is given to an old wizard
+G 0 46022 0 *A scroll of cancellation is given to an old wizard
+O 0 46017 0 46438 *Town well loaded to Main Village Tunnel
+M 0 46036 1 46440 1 *Load a shopkeeper
+G 0 47015 0 *A dark potion is given to a shopkeeper
+M 0 46037 1 46447 1 *Load a {Dw{wo{Wl{Df{X guard{x
+G 0 47016 0 *Tomb key is given to a {Dw{wo{Wl{Df{X guard{x
+M 0 46038 1 46448 1 *Load The {DG{wh{Wo{ws{Dt{x of {YK{ying{X {DJ{ra{Dh {RR{rubal{x
+E 0 47009 0 16 *{ds{wword {wof {rf{rlame{x is loaded wielded of The {DG{wh{Wo{ws{Dt{x of {YK{ying{X {DJ{ra{Dh {RR{rubal{x
+E 0 47008 0 27 *{6p{$atch {wof {yh{%istor{yy{x is loaded as a patch of The {DG{wh{Wo{ws{Dt{x of {YK{ying{X {DJ{ra{Dh {RR{rubal{x
+M 0 46014 1 46449 1 *Load the butcher
+G 0 46019 0 *Smoked ham is given to the butcher
+G 0 46020 0 *Whole chicken is given to the butcher
+O 0 47012 0 46458 *A {rsign{x loaded to Before The Lost Kingdom of Sahuagin
+M 0 46023 6 46459 6 *Load a janitor
+M 0 46019 1 46460 1 *Load Durld
+M 0 46020 1 46460 1 *Load a stockbroker
+M 0 46021 1 46460 1 *Load a bartender
+G 0 46023 0 *A shot of {bv{do{wd{dk{ba{x is given to a bartender
+G 0 46027 0 *{ysc{wot{ych{x on the {dr{yock{ds{x is given to a bartender
+G 0 46028 0 *{dp{wot{wa{wt{do {yskins{x is given to a bartender
+O 0 46032 0 46460 *A booth loaded to {wThe {YL{yaughing {YL{yion {yT{Ya{Gv{We{Yr{yn{X
+O 0 46024 0 46462 *A {yh{yea{wl{yin{yg{x {cs{ca{wu{cn{ca{x loaded to Temple of {GL{gok{Gi{X
+M 0 46022 2 46462 2 *Load a healer
+O 0 46024 0 46464 *A {yh{yea{wl{yin{yg{x {cs{ca{wu{cn{ca{x loaded to Temple Of {BT{Wh{Yo{Br{X
+M 0 46022 2 46464 2 *Load a healer
+O 0 46032 0 46467 *A booth loaded to {wBack Room{x in the {yT{Ya{Gv{We{Yr{yn{X
+M 0 46028 7 46468 7 *Load guildmaster
+M 0 46028 7 46469 7 *Load guildmaster
+M 0 46028 7 46470 7 *Load guildmaster
+M 0 46028 7 46471 7 *Load guildmaster
+M 0 46028 7 46472 7 *Load guildmaster
+M 0 46024 1 46473 1 *Load the room keeper
+G 0 46029 0 *A {bblue{x key is given to the room keeper
+G 0 46030 0 *A {rred{x key is given to the room keeper
+O 0 46031 0 46473 *A {rsign{x loaded to {wThe {YP{yrivate {wTraining Facility{X
+M 0 46025 2 46475 2 *Load practice dummy
+M 0 46025 2 46476 2 *Load practice dummy
+M 0 46035 1 46479 1 *Load Daygum
+E 0 47004 0 5 *{da{wu{wr{da{w of {yh{yope{x is loaded on the body of Daygum
+E 0 47002 0 3 *{ra{bg{wele{bs{rs{x {wcl{wo{wak{x is loaded around the neck (1) of Daygum
+E 0 47006 0 21 *{ce{5ar{%r{5ing{cs{x {wof {yc{yla{cr{yity{x is loaded on the ears of Daygum
+E 0 47014 0 17 *A cup of {mt{de{ma{x is loaded held in the hands of Daygum
+M 0 46048 1 46480 1 *Load bug collector
+G 0 47028 0 *A {bb{yu{rg{x is given to bug collector
+O 0 46018 0 46067 *An engraved plaque loaded to Tunnel
+S
+
+
+
+#SHOPS
+46011 10 2 3 0 0 100 100 0 23
+46012 33 8 0 0 0 100 100 0 23
+46013 2 3 4 0 0 100 100 0 23
+46014 0 19 0 0 0 100 100 0 23
+46021 19 17 0 0 0 100 100 0 23
+46024 0 18 0 0 0 100 100 0 23
+46036 0 10 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#46000
+say The Royal Castle is supposed to be off limits.
+say But i could be persuaded to betray the castle and let you in. 
+say For a price...
+wink
+~
+#46001
+say The {YPRE{RCIO{YUSS{RSS{B!{x You found it!
+say Very well, you may pass through the gates.
+mob transfer $n 46350
+mob zecho You hear Frad squeal with delight from the south. Then suddenly a giant apparition of {RB{Dr{Re{De{x appears out of the sky and strikes down Frad with a massive lightning bolt!
+mob junk bug
+~
+#46002
+say Here is what you want! Give this to Frad!
+mob oload 47028
+give bug $n
+~
+#46003
+say Hold on there, we haven't come to an arraignment yet..
+wink
+mob transfer $n 46349
+~
+#0
+
+#$

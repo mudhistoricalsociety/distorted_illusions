@@ -1,0 +1,1411 @@
+Sender  Digaaz~
+Date    Tue Oct 14 20:55:17 2008~
+Stamp   1224042917
+To      all~
+Subject Death Messages{x~
+Text
+Death messages for Tier Two and Three have been changed.  If you think of
+a better one, or see an error.  Note us.  Thanks.  
+ 
+The Management.
+~
+Sender  Dusk~
+Date    Tue Oct 14 20:58:06 2008~
+Stamp   1224043086
+To      all~
+Subject From 05 to current Part 1{x~
+Text
+News{x
+{x
+Pk clan limit 5, nonpk is 10{x
+Can reroLl anytime during third tier{x
+Neg affects removed from arena fights. If can think of any that don't {x
+note Immortals{x
+New quest item Ftokens see help ftokens{x
+{x
+Immortal Things:{x
+{x
+Help jobs_part1 jobs_part2 jobspart3{x
+Help quest_rules{x
+Rlist buffer increased to prevent crashes{x
+Mobs auto set to 1 hp on creation to prevent crashes{x
+Can only load objects from areas you have security to edit{x
+New commands of Changed, todo, tocode{x
+Set command has qtimer option to reset it{x
+~
+Sender  Dusk~
+Date    Tue Oct 14 21:00:06 2008~
+Stamp   1224043206
+To      all~
+Subject From 05 to current Part 2{x~
+Text
+World:{x
+{x
+Participation ribbons from quests don't count toward items{x
+Cooldown system put into effect{x
+Chance for getting an iq on quest turnins{x
+Chance for getting exp on quest turnins{x
+Conjure fixed to check for all forms of payment g/p/s{x
+Kates diner, no longer safe room{x
+Dblexp level added for levelers only{x
+Can buy 300 aqp for 1 iq{x
+Nohunger/thirst cost 1500 aqp now{x
+Calvin/Hobbes--> Fenrir Jormun, no longer take eq{x
+No more dbl practices from dbl exp{x
+Hara stun length lowered{x
+Recall only costs 25% of moves{x
+Tweaked wpn flags a bit{x
+Added small chance for wpn flags on fists{x
+Bug with no-lag running fixed{x
+Can't move while stunned now{x
+New commands of Bug, typo nohelp{x
+Pets recall with you, charm mobs don't{x
+Rub works a bit better now{x
+Sorcery surge adjusted{x
+Eating pills has 1 rnd lag now{x
+Noevolve fixed{x
+Pets don't leech xp now{x
+HP/MANA regen shows up in score{x
+Charmies no longer able to wear eq{x
+Can't summon someone with a pk timer{x
+New wpn flag of osmosis, drains mana and life{x
+Infinite duraction on lights purchasable for clans{x
+Can auction containers with stuff in them{x
+Calvin/Hobbes changed to Fenrir Jormungand(previous patches gone ){x
+Added 30 prefixes, 32 suffixes{x
+See exits with closed doors via <north> in autoexit{x
+~
+Sender  Dusk~
+Date    Tue Oct 14 21:02:05 2008~
+Stamp   1224043325
+To      all~
+Subject From 05 to current Part 3{x~
+Text
+Skills/Spells:{x
+{x
+Cause light, Critical removed from mud{x
+Shockshield new effect only works if you have the spell{x
+Shockshield has chance to daze now on hits{x
+Deathshield fixed to not give hp attacker but person with it{x
+Crusaders gain Sunder, Ability of class Passive{x
+Picklock will say something if the lock is pickproof{x
+Dual wield and Attacks can go up from 1% now{x
+Sharpen goes up from 1% now {x
+Torrents of Flame lowered damage{x
+Smokeblind tweaked{x
+Charm song max charming level lowered{x
+Adamantium palm +ac lowered{x
+Prismatic spray doesn't hit grouped members{x
+Conjure wrath no longer hits grouped members{x
+Can't charm more than 3 mobs{x
+Can use Prayer while holding something{x
+Hide tweaked for better{x
+Trance/Meditation made useful{x
+Acute vision 1 in 3 chance of detect hiding characters{x
+Be notified when succesful in hiding{x
+Meditation Skill syntax is trance to use{x
+Vital Hit adjusted{x
+Backstab starts combat if they to low health{x
+Faerie Fire duration changed from 24 ticks to 10{x
+No cap on shrieks hitroll deduction lasts longer{x
+Holy Aura changed to -25 ac{x
+Prayer saint only{x
+Will of iron changed regen/hr lowered dr removed{x
+~
+Sender  Dusk~
+Date    Tue Oct 14 21:05:33 2008~
+Stamp   1224043533
+To      all~
+Subject From 05 to current Part 4{x~
+Text
+Classes:{x
+{x
+Warlocks lost energy drain{x
+Warlocks gained siphon life/energy{x
+Assassins gain bonus on bs for daggers{x
+Paladins gained courage{x
+Conjure gained Conjure Blizzard at 70{x
+Archmage gained Barrier{x
+Forsaken gained Torrents of Flame{x
+Hunters gained dual wield mastery at 90{x
+Shaman gained herb at 42{x
+Crusaders gained constance at lvl 85{x
+Fades lost nexus, gained portal{x
+Alchemist gained blindness dust{x
+Monks gained gouge at level 1{x
+Monks lost feeblemind, follow through{x
+Monks lost adv hth, nerve, deflect, bdust{x
+Paladins gained Holy Aura and dual wield mastery{x
+Highlanders gained dual wield mastery{x
+Necros gained portal{x
+Alch/Necro/Warlock gained 4th attack{x
+Monks gained prayer skill at 75{x
+Ninjas gained Inner strength{x
+Ninjas lost fast healing and michi{x
+Shaman gained Generation spell at 70{x
+Alchemist gained high explosive ammo{x
+Crusaders gained Holy Aura spell at 70{x
+Swashbuckler gained Head Cut skill{x
+Assassin gained cripple at 42{x
+Highlanders gained advanced axe{x
+Highlanders gained chop, lost lunge{x
+Necromancer lost fear spell till fixed{x
+Fades gained fear aura{x
+Fades gained Fourth{x
+Monks/Ninjas hth raised from standard hth.{x
+Hunters get advanced axe at 65{x
+Highlanders get advanced sword at 55{x
+Hunters lost faerie fire{x
+Warlocks gained shield levitate{x
+Highlanders gained follow through{x
+Classes with Conjure, have different types bears/angels/demons{x
+{x
+Eq;{x
+{x
+Legendary Axe given small hp and hitroll bonus{x
+~
+Sender  Bree~
+Date    Wed Oct 15 13:48:13 2008~
+Stamp   1224103693
+To      all~
+Subject voodans{x~
+Text
+I'm currently working on balancing certain magic classes and making them playable again, like voodan.{x
+As of now, voodan gains fireward at lvl 90 for 5 points.{x
+It gives resistance to fire for level/3.5 duration.{x
+Bree{x
+~
+Sender  Dusk~
+Date    Wed Oct 15 19:41:41 2008~
+Stamp   1224124901
+To      all~
+Subject Some things{x~
+Text
+Crusaders Faith: Won't increase your stats past their cap anymore, you still get the{x
++3 str/dex, just won't raise your cap.{x
+{x
+New Abilities command, type it and you can see what abilities you either have or{x
+have on you. More will be added to this as I code them.{x
+{x
+Sunder: Moved to the Abilities listing, also is toggleable. When you want to use it it costs{x
+now 1/4 of your current mana, and you must have at least 50 mana to use it.{x
+{x
+Nightstalker: Ability for Shades/Lichs/Fades/Banshees. Its basically the old thing of{x
+a bonus a night, disadvantage during the day, except now its more noticeable. And its{x
+toggleable. However theres a catch. You can only enter into the Nightstalker, during 4-6 am{x
+the start of a new day, so you have to go through a whole day of a disadvantage before you{x
+can reap the benefits of Night. To relinquish the Nightstalker in you, you can only do that{x
+During 16-1800, or basically right before the Night, So you won't be able to reap the{x
+benefits of the Nightstalker before daylight. Also, this is very taxing on the body and{x
+should be something you really want to do, cause it costs half your mana, and you go into{x
+a trance, so I wouldn't recommand doing this while your pking.{x
+{x
+Humans: If your a human you no longer gain the Prime Attribute bonus of your class. 23 {x
+across is more than enough of an advantage of a being a Human. If you want to have 25's {x
+pick a different race, 23 is godly you'll live, trust me. But those who want that -120 ac{x
+mod, or extra hr/dr from Str, go a different race.{x
+{x
+Having - mana regen, will not take you below 0 now.{x
+{x
+Siphon Energy, will not make you go below 0 in mana either, and if they have no mana will{x
+not give the warlock mana in return.{x
+{x
+Siphon Energy/Life lowered to 175 mana, instead of the 250.{x
+{x
+I think theres something else, but forget now I've been busy tonight.{x
+{x
+Will be in effect on copyover, once i copyover from the testport the files.{x
+~
+Sender  Dusk~
+Date    Thu Oct 16 19:15:40 2008~
+Stamp   1224209740
+To      all~
+Subject Some things{x~
+Text
+Siphon Energy/Life: Will now be removed after arena fights.{x
+{x
+Prompts: %t will now display the time of day. If you have color, some extras are in there.{x
+During Night, they will be gray, during the day white. If you are a shade/lich/fade/banshee{x
+and don't have Nightstalker on, during the hours of 4-6 am, they will be Yellow that{x
+is when you can turn it on. If it is on, from 6, 7, 8 pm will be Red for when you{x
+can turn it off.{x
+{x
+Manashield: Scales to level now, Lgd gives 1010 hp -1515 mana, lvl 55 is 550 hp and -825 mana.{x
+I'll revisit this later, to have when affected percentage of the damage done to you goes{x
+to mana, rest to your health, which is the same thing as increases your health, and lowering{x
+your mana, except to me a better way of doing it, instead of the easy way of just boosting{x
+hp lowering mana. With my new way it will also not let you go into the neg mana and crazy{x
+things like that.{x
+{x
+RerollSwitch: If your a 2nd tier hero can now use this and will only cost you 200 qps like{x
+it was suppose to. It was charging you 3k qps, not anymore.{x
+{x
+Creation/Reroll: Now in creation or reroll, in the class section you can access{x
+help files, any help files, if you just type help, shows you help tier, you can also access{x
+the showclass command, to see avail skills/spells to your listed classes.{x
+{x
+That is all for right now.  Will be on next copyover.{x
+~
+Sender  Dusk~
+Date    Sat Oct 18 18:11:50 2008~
+Stamp   1224378710
+To      all~
+Subject Babbles{x~
+Text
+Metal Babbles still whereable, just like was when first brought here. The others are{x
+not whereable anymore, so if you find one, rejoice and enjoy. {x
+{x
+Sorry if this hurts your triggers. And sorry for whoever allowed them to get{x
+out of control. Was meant as a nice bonus, not something to live on.{x
+~
+Sender  Dusk~
+Date    Sun Oct 19 17:26:14 2008~
+Stamp   1224462374
+To      all~
+Subject Cripple{x~
+Text
+Reworked this alot, to make it useful, but also balanced.{x
+{x
+Has 3 states, arm, head, leg.{x
+{x
+Head, makes you blind, you can't rub it, only lasts a tick or so.{x
+It checks vs your str, and con, to a random number and assassin dex to hit the head.{x
+{x
+Arm, gives chance to disarm your wpn. It use to drop it to the ground except{x
+for having a nodrop, inventory item. But since we have no looting here, any wpn{x
+will go to the inventory, unless your wearing a noremove wpn. So thats one defence{x
+other is having good str and con, this one also checks vs the assassin str.{x
+{x
+Leg, makes fleeing harder, really this time. When you type flee it does a check vs{x
+victims dex and con, to the assassins str, if you pass you can flee, if not you won't flee.{x
+{x
+So for the most part, the assassin needs good str, to break bones, and dex to hit the{x
+smaller target of the head. The victim needs good dex to dodge that hit to head, and{x
+con to help withstand it. For the arm/leg its mostly con to see if you can overcome{x
+the pain of the fracture to still wield your wpn, or flee.{x
+{x
+Leg will also reduce victims moves. Can only apply one cripple at a time, and to cripple{x
+will cost the assassin moves to use, by moving into the posistion and focusing more power{x
+into the hit to break bones. {x
+{x
+So should be useable, worthwhile, but at the same time, balanced.{x
+~
+Sender  Dusk~
+Date    Mon Oct 20 18:49:22 2008~
+Stamp   1224553762
+To      all~
+Subject Saints{x~
+Text
+Saints now have some nice stat buff spells.{x
+{x
+Fortify Strength, Intelligence, Wisdom, Dexterity, Constitution{x
+{x
+They are self cast only, and you can only have 2 applied at one time.{x
+{x
+They are also based on your characters Intelligence, as to how much you'll gain from them.{x
+{x
+Str- Does str and damroll{x
+Int- Does int and mana{x
+Wis- Does wis and saves{x
+Dex- Does dex and hitroll{x
+Con- Does con and hp{x
+{x
+Other classes will have other spells to.{x
+{x
+{x
+Saints also lost Giant Str, as they now have the Str buff for their class.{x
+Will get to a spell for them, like Cure Ailment, to get rid of Weaken, and other Maladictions.{x
+~
+Sender  Dusk~
+Date    Mon Oct 20 18:53:43 2008~
+Stamp   1224554023
+To      all~
+Subject Fort Spells{x~
+Text
+You can also recast these to renew their duration, instead of waiting for it to wear off.{x
+However you can't switch types yet. If you want to switch, cancel yourself or wait {x
+for timer to drop.{x
+~
+Sender  Dusk~
+Date    Mon Oct 20 20:35:39 2008~
+Stamp   1224560139
+To      all~
+Subject Some things{x~
+Text
+Cripple/Siphon now should strip from arena, forgot to move it to here, should be here now.{x
+{x
+Cripple Head shot, is still unrubable, but its only 2 ticks now, not 3.{x
+{x
+Rub should have a better chance at removing fireblind, let me know how it works. It{x
+still does save check to be applied, but all i adjusted was actually rubbing it.{x
+{x
+For builders, new exit flag, of Hidden. If an exit is flagged Hidden, you won't see{x
+it on look as <north>, it just won't be there. So now you have to start reading{x
+your room descriptions again.{x
+{x
+Thank Digaaz builders he wanted me to just remove the <> so descriptions matter again.{x
+But players thank me, cause didn't remove the <>, but added in a hidden flag, cause not{x
+all descriptions on this mud are accurate or even tell of an exit, when there really is one.{x
+{x
+And there was prol another thing, but forgot.{x
+~
+Sender  Dusk~
+Date    Mon Oct 20 20:40:36 2008~
+Stamp   1224560436
+To      all~
+Subject Randoms{x~
+Text
+Remembered what it was. I totally reformated our random object file, so its readable.{x
+But what matters to you players is, alot of the negative affects didnt' provide a range, so{x
+saves, and ac was always one value, the lowest it'd give, which is bad compared the highest{x
+like Osmosis was -25 -40 or so, it was always -25, not anymore, it has its range now.{x
+On the bad side, Rancor was always -75 hp, but now it'll actually be what its supposed to{x
+be of -75 hp to -150 hp.{x
+{x
+Also, added in a new suffix of Time 15-30 age. boosted the age factor on doom a bit.{x
+Made the Suffix Digaaz mean something, and adjusted some ratings of things, so don't worry{x
+if your level 60 mobs don't pop anything good anymore, they never were suppose to anyway.{x
+to get the good items might now how to actually kill Legend mobs, most of you do anyway.{x
+but shouldn't have anymore good shit coming from like ocean or fanatics etc. {x
+Cept like top level maybe.{x
+~
+Sender  Bree~
+Date    Tue Oct 21 12:45:53 2008~
+Stamp   1224618353
+To      all~
+Subject flee{x~
+Text
+Flee has been returned to it's previous state with no lag.{x
+Bree{x
+~
+Sender  Dusk~
+Date    Tue Oct 21 15:20:15 2008~
+Stamp   1224627615
+To      all~
+Subject Reroll{x~
+Text
+Ok now when you reroll you won't lose any stance or learned. So build them up as you{x
+progress through the levels or on third tier, won't lose the time. Focus however{x
+will still go away. But now your learned/stances won't. Rejoice{x
+~
+Sender  Bree~
+Date    Sat Oct 25 18:38:55 2008~
+Stamp   1224985135
+To      all~
+Subject flee{x~
+Text
+Lag on failed flee has been removed.{x
+This is a players mud now, so send me your dislikes/likes/suggestions and it will be done.{x
+Be reasonable, we are striving for balance after all.{x
+Bree.{x
+~
+Sender  Fesdor~
+Date    Mon Nov  3 14:57:58 2008~
+Stamp   1225753078
+To      all~
+Subject questing with pets{x~
+Text
+If your pet kills your quest mob, you will now recieve credit for the
+kill and will be able to complete your quest.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Mon Nov  3 18:22:12 2008~
+Stamp   1225765332
+To      digaaz bree~
+Subject new quest code{x~
+Text
+I have implemented a new quest code on the test port.  To be added to it
+is quest sell, as well as making it look and feel a little prettier.  It is
+much more efficient, editable, and removes the need for helpfiles.  Play
+with it and let me know what you think.  
+-Fesdor
+~
+Sender  Bree~
+Date    Tue Nov  4 11:07:06 2008~
+Stamp   1225825626
+To      all~
+Subject conj{x~
+Text
+Conjurers lose frenzy and gain a better type of frenzy called madness{x
+Bree{x
+~
+Sender  Fesdor~
+Date    Tue Nov  4 17:13:52 2008~
+Stamp   1225847632
+To      all~
+Subject recent changes{x~
+Text
+Ambush has been changed so if you are blending you will never get the
+"but they can see you" message.  You must be sneaking for ambush to work at
+all.  If you are sneaking but they can see you, you will have an 83% chance
+of a successful ambush.  This should make it useful, but still not 100%
+reliable.  
+ 
+Highlander follow through has recieved significant bonuses for two-handed weapons, as originally intended.
+more to come
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Nov  5 00:32:08 2008~
+Stamp   1225873928
+To      all~
+Subject enhanced damage{x~
+Text
+Bards have lost enhanced damage to put them on a level with the other
+classes.  Do not fear, all the classes that lost enhanced damage will
+eventually recieve something unique to their class to replace it.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Nov  5 16:59:36 2008~
+Stamp   1225933176
+To      all~
+Subject new quest code{x~
+Text
+New quest code has arrived.  You should hopefully not get random quests
+to the wrong continent now.  The main difference will be quest list.  It
+just looks different now but it's all still there.  
+ 
+You can now use quest browse <item> and quest sell <item>
+quest browse will give you the stats on the item, quest sell
+will sell vinir back for 8 iqp and aesir back for 40 iqp.
+ 
+That's all for now.  This means aesir and vinir helpfiles will no long be maintained.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Nov  5 18:19:23 2008~
+Stamp   1225937963
+To      all~
+Subject sunder{x~
+Text
+Crusaders have lost sunder for now, since dusk won't be finishing his
+abilities thing for all classes and thus it is imbalanced.  Sorry for all
+the undo-ing of changes, it has to happen.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Thu Nov  6 12:50:27 2008~
+Stamp   1226004627
+To      all~
+Subject Thursday, November Sixth, Two Thousand and Eight.{x~
+Text
+You can now gain enhanced damage free at your guildmaster.  It is
+currently the old version, but I will be writing class-specific stuff for it
+within the next few days.  This means every class just got enhanced but it
+will do a wide variety of different things in the future depending on your
+class.  
+-Fesdor
+ 
+PS: I also fixed some minor things including the new quest code's quest buy iquest problem
+and the 2 tick wait.  If you get a 2-tick wait please notify me.
+~
+Sender  Fesdor~
+Date    Thu Nov  6 14:26:45 2008~
+Stamp   1226010405
+To      all~
+Subject nightstalker enhanced damage{x~
+Text
+Enhanced damage has been modified for Fade and Banshee to be linked to
+the nightstalker ability.  Your amount of enhanced damage will rise and fall
+with the moon if you have nightstalker on.  
+ 
+Eventually every class will have their own enhanced damage, I'll be doing them as fast as possible.
+You all have a flat rate right now, so it's not really a disadvantage, it's just boring.
+ 
+max exp cap raised to 4500 for those below 101.  Moderate multiplier also added to their exp.
+Legend exp is unchanged.  There will be very sparing use of dblexp levels in the future as a result.
+that's all for now.
+-Fesdor
+~
+Sender  Bree~
+Date    Thu Nov  6 14:43:50 2008~
+Stamp   1226011430
+To      all~
+Subject Paladin{x~
+Text
+Paladins gain divine intervention at level 85{x
+Bree{x
+~
+Sender  Bree~
+Date    Thu Nov  6 15:01:45 2008~
+Stamp   1226012505
+To      all~
+Subject changes{x~
+Text
+Warlocks gain iceward at lvl 75 for 2 trains. Adds resist to cold damage{x
+Alchemist gain acidward at level 75 for 2 trains. Adds resist to acid{x
+Bree{x
+~
+Sender  Bree~
+Date    Thu Nov  6 15:45:41 2008~
+Stamp   1226015141
+To      all~
+Subject bard{x~
+Text
+Bards get rage song at 65{x
+This will have a change to blind but it doesn't work yet, been having a problem with it, it will be fixed as soon as possible.{x
+Bree{x
+~
+Sender  Bree~
+Date    Thu Nov  6 15:48:45 2008~
+Stamp   1226015325
+To      all~
+Subject rage song{x~
+Text
+Blind now works on rage song, it doesn't always land a blind, it depends on victim's stats.{x
+Bree{x
+~
+Sender  Fesdor~
+Date    Fri Nov  7 16:18:34 2008~
+Stamp   1226103514
+To      all~
+Subject Enhanced damage for warriors/rangers{x~
+Text
+Class-specific enhanced damage is now in for:
+Crusader, Swashbuckler, Highlander, Paladin, Darkpaladin, Hunter.
+Crusader:
+Your enhanced should vary with your align.  Keep it at 1000 and you'll see a good boost.  Let your align dip and so will your damage.
+ 
+Swashbuckler:
+Your enhanced damage will vary with your hitroll.  No matter what your
+hitroll is it will be decent, but higher hr = slightly more damage.
+ 
+Highlander:
+Your enhanced will increase with your power level once you pass plevel 3.
+ 
+Paladin:
+Your enhanced cares about your white magic and align.  Stay good and get your white as high as possible to optimize damage.
+ 
+Darkpaladin:
+Yours is like Paladin, only black magic is what matters.  Stay evil and have high black magic.
+ 
+Hunter:
+If you are in an outdoor room (not a city, not inside) then you will get a slight bonus.
+If that room is a forest, you will get a much larger bonus.
+ 
+That's all for now, more classes to come as I finish them.
+-Fesdor
+~
+Sender  Bree~
+Date    Mon Nov 10 12:41:24 2008~
+Stamp   1226349684
+To      all~
+Subject banks{x~
+Text
+Bank limit has been raised to 40k plat.{x
+I'm not sure if a memory issue will arise from this or not, so anything over 20k in the bank please keep track of how much you have in there incase a memory problem fucks it up.{x
+Also there is nothing in the bank file that takes 10% from you when you deposit. I'm not sure why people think it does.{x
+Bree{x
+~
+Sender  Fesdor~
+Date    Mon Nov 10 15:21:02 2008~
+Stamp   1226359262
+To      all~
+Subject ninja kick{x~
+Text
+Ninjas can now gain kick.  Why they didn't have it is a mystery.
+~
+Sender  Fesdor~
+Date    Mon Nov 10 17:46:06 2008~
+Stamp   1226367966
+To      all~
+Subject monday changes.{x~
+Text
+Changes:
+Cooldown removed for the forseeable future (until tas shows up and fixes/finishes it)
+Warriors must now be berserking to get their enhanced damage.  You wanted more from berserk, here it is.
+Small fixes to quest code, you may now buy gods without crashing the mud.  Restring price is properly displayed now.
+Rage song no longer does damage, does have a very nice blind affect.
+That's all for now.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Mon Nov 10 22:11:42 2008~
+Stamp   1226383902
+To      all~
+Subject Double EXP voucher{x~
+Text
+Doublexp Vouchers can now be popped.  They will be good for 1 hour of
+DblEXP.  You will be able to buy them from the questmaster in the future.  
+~
+Sender  Fesdor~
+Date    Tue Nov 11 15:52:03 2008~
+Stamp   1226447523
+To      all~
+Subject saves and learned{x~
+Text
+Saves have been adjusted.  There was a severe negative impact from berserk that I removed
+Learned magic should now go up a lot faster
+That's all for now.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Nov 11 23:23:43 2008~
+Stamp   1226474623
+To      all~
+Subject shriek changes{x~
+Text
+Shriek will now have 2 rounds of lag if the banshee is successful. 
+Failed shrieks will maintain the same lag they always had.  Shriek
+calculations have also been adjusted to not care about the victim's level,
+this was making it fail against mobs a lot.  As a result it will fail a
+little more often now, but it should be ok.  
+ 
+The durations were also fixed on its affects so they make sense.  The damage and hitroll calculations
+were modified slightly to weigh age a little more heavily and current hp a little less.
+~
+Sender  Fesdor~
+Date    Wed Nov 12 17:45:19 2008~
+Stamp   1226540719
+To      all~
+Subject Voodan spell: Sense Vitality{x~
+Text
+Voodan has gained a new spell called sense vitality.  Cast it on your
+opponent then use sense <their name> to sense their vital stats from
+anywhere, as long as the affect stays.  The affect cannot be
+cancelled/purified so this should be about 5-6 ticks.  Right now it doesn't
+have percentage signs on the message, but it will when I polish the skill. 
+You also have to type their full name for now until I fix that.  
+-Fesdor
+~
+Sender  Bree~
+Date    Thu Nov 13 10:44:28 2008~
+Stamp   1226601868
+To      all~
+Subject quest item replaced{x~
+Text
+Glow in the dark sunglasses have been replaced with Freya's mask.{x
+It has perm detects for everything from invis motion to infrared farsight and magic.{x
+Have a ball{x
+Bree{x
+~
+Sender  Fesdor~
+Date    Fri Nov 14 15:39:04 2008~
+Stamp   1226705944
+To      all~
+Subject combat changes{x~
+Text
+There have been minor tweaks to fight code, you will see
+hitroll/blindness acting differently as far as how many hits you land/get
+blocked/miss.  This is still a work in progress and I will continue to tweak
+it over the next couple days.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Nov 19 23:56:40 2008~
+Stamp   1227167800
+To      all~
+Subject Combat tweaks, quest sell bug, assassin enhanced{x~
+Text
+A new set of small combat tweaks are in now.  Please let me know if
+anything is acting strangely.  The goal is to make hitroll matter a little
+more (and work with a lower amount) and make blind matter a little less. 
+You may see attacks being parried/blocked/etc more through blind now.  This
+is normal.  
+ 
+The aforementioned bug with quest sell has been fixed.  There should be no problems,
+but one that might arise is if you have aesir/vinir of the same type and try
+to sell one and it thinks its the other.  I have tested this and it doesn't seem to
+do this, but it is a possibility as I didn't test it for every piece.
+ 
+Assassin enhanced damage now cares about sneak.  You must be sneaking
+to recieve your optimal damage boost, and a higher % in sneak will see
+a higher boost in damage.
+ 
+That is all for now. Please note immortal with any bugs you find.
+If you're not sure if it's a bug, note it anyway.  If we catch you abusing bugs
+there will be dire consequences.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Sat Nov 22 15:37:43 2008~
+Stamp   1227397063
+To      all~
+Subject mage enhanced damage{x~
+Text
+Enhanced damage for mages is here.
+Forsaken:
+Enhanced damage boost when using a weapon with a magical damtype.
+Archmage:
+Enhanced damage boost based on magic power focus.
+Conjurer:
+Enhanced damage boost based on magic power focus and another if your weapon is blessed.
+ 
+-Fesdor
+~
+Sender  Fesdor~
+Date    Thu Dec  4 19:47:57 2008~
+Stamp   1228448877
+To      all~
+Subject unite/strange{x~
+Text
+Strangle can now be used with a pk flag on.
+Unite has had its mana cost significantly lowered and its damage boosted slightly.
+~
+Sender  Fesdor~
+Date    Fri Dec  5 16:22:08 2008~
+Stamp   1228522928
+To      all~
+Subject Breath Spells{x~
+Text
+The mage breath spells should actually be useful now.
+Experiment and enjoy.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Dec 10 00:55:32 2008~
+Stamp   1228899332
+To      all~
+Subject nightstalker ability{x~
+Text
+Fades/Banshees rejoice, nightstalker has been enabled.  It should be
+bug-free now, but please report any unexpected crashes you experience.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Dec 10 03:40:41 2008~
+Stamp   1228909241
+To      all~
+Subject totally random change{x~
+Text
+I don't know why I did this, but whois now shows player descriptions.
+If you don't like it I can take it out.  Also . . . don't abuse it.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Thu Dec 18 13:41:03 2008~
+Stamp   1229636463
+To      all~
+Subject Magic Power{x~
+Text
+Sorcery has been reworked and should now operate as intended.  You may
+see some big spikes, especially at higher focus levels, but you should not
+see any 100-damage acid blasts anymore.  Please note me ASAP with any bugs
+you might encounter, as I did not test it for every single spell.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Dec 24 14:36:01 2008~
+Stamp   1230158161
+To      all~
+Subject christmas eve fixes{x~
+Text
+You can no longer walk out of combat after initiating any kind of attack.
+Player files will now save automatically after giving/selling/dropping to prevent duping/loss of eq.
+-Fesdor
+~
+Sender  Festest~
+Date    Wed Dec 24 14:47:49 2008~
+Stamp   1230158869
+To      all~
+Subject strangle{x~
+Text
+Strangle has been tweaked slightly to give the assassin a bit more of a chance of succeeding.
+Remember, it is a stealth skill, sneaking and hiding are VERY helpful.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Sat Jan  3 18:12:14 2009~
+Stamp   1231035134
+To      all~
+Subject Saves{x~
+Text
+Saves have been modified.  You will notice a change but it won't be huge.
+If you are the person casting the spell, your intelligence, spell %, and learned magic now matter.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan  6 20:34:18 2009~
+Stamp   1231302858
+To      all~
+Subject minor changes{x~
+Text
+Ice/Fire/Acid ward spells have been changed.
+They now last 0 ticks and have very minimal lag.  Use them tactically during fights.
+Conjure wrath has had its lag lowered because frankly it was worthless with 2 rounds of lag.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Jan  7 23:12:44 2009~
+Stamp   1231398764
+To      all~
+Subject a couple new things{x~
+Text
+Archmage gets a new spell: mana blast.
+This spell will automatically target any vulnerabilities the target has, otherwise it does normal damage.
+ 
+Plague will now take a noticeable amount of moves the first time it is cast on someone.  Voodan Curse has changed in a similar way.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Fri Jan  9 14:56:03 2009~
+Stamp   1231541763
+To      all~
+Subject Ch Ch Ch Chaaanges{x~
+Text
+Rage song has been fixed, enjoy.
+Mana blast's damage has been rewritten.  It will now decrease as your mana decreases.
+A few other minor tweaks and changes that you won't notice.
+-Fesdor
+~
+Sender  Digaaz~
+Date    Sat Jan 10 09:44:45 2009~
+Stamp   1231609485
+To      all~
+Subject Casters and Dodge/Parry{x~
+Text
+With Fesdors approval in the matter, and maybe Bree.  I will be going
+through, maybe later tonight and doing Dodge/parry add in for Casters.  It
+will be medium to high level.  Just so you are aware.  {x I will be as fair
+as I can be in the additions on what level you get the skill(s) at.  {x 
+ 
+Digaaz... I do stuff sometimes.
+~
+Sender  Digaaz~
+Date    Sat Jan 10 16:32:19 2009~
+Stamp   1231633939
+To      all~
+Subject Magey Dodgeyness and parryness{x~
+Text
+Archmage and Shamans got the Dodgey and the Parry-ey.  Conjurers with the
+next reboot.  More to come when I get back on.  {x 
+ 
+Digaaz... Working hard, or hardly working.
+~
+Sender  Digaaz~
+Date    Sat Jan 10 21:40:52 2009~
+Stamp   1231652452
+To      all~
+Subject Dodge and Parry Mage Classes{x~
+Text
+Mage classes should now all have dodge and parry. Enjoy.{x
+{x
+Digaaz... Not really working. Really.{x
+~
+Sender  Fesdor~
+Date    Wed Jan 14 01:48:51 2009~
+Stamp   1231926531
+To      all~
+Subject some changes{x~
+Text
+Monks must now be using martial arts to get their martial-art based
+combat skills such as vital hit.  More to come on this.  Highlanders have
+had their damage redone.  They will gain more each power level and will do
+more in general when using a 2hand weapon.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Jan 14 14:47:15 2009~
+Stamp   1231973235
+To      all~
+Subject combat changes{x~
+Text
+Our fight code has undergone another overhaul after a large amount of
+past changes were lost.  You won't notice a lot, though a lot of global
+things have been tweaked across the board (AC calculations, damroll,
+hitroll, etc.)  .  This is just to bring them up to speed with how
+characters are built nowadays, as a lot of them were years old, if not
+stock.  
+-Fesdor
+~
+Sender  Bree~
+Date    Fri Jan 16 18:52:47 2009~
+Stamp   1232160767
+To      all~
+Subject ghost flag{x~
+Text
+Ghost flag will now last 1 hour. This is a rough guess as i had to convert ticks to real time minutes.{x
+So it may vary by a factor of 10 minutes give or take, i'm not completely sure yet.{x
+The new rule is now in effect. If you remove your ghost flag before the end of 1 hour real time, you can legal be attacked again by the person who killed you.{x
+Bree{x
+~
+Sender  Fesdor~
+Date    Tue Jan 20 13:35:49 2009~
+Stamp   1232487349
+To      all~
+Subject January 20th Changes{x~
+Text
+Breaths no longer hit groupies
+Corpse retrieval fixed (all testing worked).  Contacts imms if it fails.
+Chance to fail fireblind upped slightly for flaming flag.
+Spells that were missing colors now have them.  Note immortal with any I missed.
+Track now works through flying.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 20 14:00:37 2009~
+Stamp   1232488837
+To      all~
+Subject Monk Martial Arts{x~
+Text
+Martial arts is now a toggleable skill for monk.  They will get combat
+bonuses when it is on, but will not be able to use certain healing/support
+skills and spells.  They will not be able to turn it off in combat, but will
+be able to toggle it at will otherwise (with some lag).  More information to
+follow in an updated helpfile.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 20 15:05:49 2009~
+Stamp   1232492749
+To      all~
+Subject Some Mage Changes{x~
+Text
+Archmage has lost the conjure spell.  They have enough other weapons now.
+A few other classes will be losing conjure in the future as I give them
+other things to compensate.  
+ 
+Archmage and Forsaken enhanced damage has been written again and should work now.
+  Any weapon that's not pierce/slash/bash will give a bonus.
+ 
+More to come sometime . . .
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 20 17:41:42 2009~
+Stamp   1232502102
+To      all~
+Subject Transmute{x~
+Text
+Alchemist has gained a spell: Transmute.  Used in conjunction with a new
+item at the Questmaster (Philosopher's Stone) An alchemist can change the
+damnoun of any weapon.  See help transmute for more info.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 20 21:18:02 2009~
+Stamp   1232515082
+To      all~
+Subject Saint Spell: Martyr{x~
+Text
+Saints have gained a spell called Martyr.  It will attract the attention
+of everything in the room and force them to attack the saint.  This will not
+work on anything in the saint's group, but everything else will turn on the
+saint beginning with the next round.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 20 23:48:28 2009~
+Stamp   1232524108
+To      all~
+Subject strangle{x~
+Text
+Strangle has been lowered by 1 tick.  It's now one tick less than sleep. 
+Considering you can't save against it and you can use it in nomagic rooms, I
+don't want to hear ANY bitching about this.  
+Direct all complaints to my left nut.
+-Fesdor
+~
+Sender  Digaaz~
+Date    Sun Jan 25 10:59:25 2009~
+Stamp   1232909965
+To      all~
+Subject Arena:: Cripple and Vital Hit clearance{x~
+Text
+I will look into this immediately and add the skills to the clear list if
+they are not there.  {x Thank you for bringing this to our attention.  {x 
+ 
+Digaaz... Hey look. I did something.
+~
+Sender  Fesdor~
+Date    Mon Jan 26 16:45:42 2009~
+Stamp   1233017142
+To      all~
+Subject Changes 1-26-09{x~
+Text
+Monk martial arts modifications have been completed.  You will find that
+all your self-cast and defensive spells are now not usable while in martial
+arts mode.  You will only gain access to your skills like throw, roundhouse,
+vital hit, etc.  When in martial arts mode.  Your enhanced damage is now
+based off of whether or not you are in martial arts mode as well.  
+ 
+Race stat caps have been reworked.  Rather than the old "quick and dirty"
+fix that was put on humans, I have made racial stat caps even at +4 across the board.
+Your stats will change no matter who you are.  Deal with it whether it's for the better or worse.
+If you are unevolved and would like to evolve as a result of the changes, let me know.
+
+You can now dump all your trains into hp/mana/move by typing 'train <hp/mana/move> all'
+I'm still working on smoothing this out and adding it to gain as well.  Should be completed fairly soon.
+
+A few other minor tweaks and changes have been made all over the place, most of which you won't notice.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Jan 27 01:29:28 2009~
+Stamp   1233048568
+To      all~
+Subject Assassinate/Backstab{x~
+Text
+As part of my plans for assassinate/backstab: Assassin's enhanced
+backstab is now tied to their skill % in assassinate.  Unless your
+assassinate is at 100%, you will see a decrease in damage.  Assassinate now
+has a chance to improve on all backstabs, not just ones where assassinate
+goes through.  This is the first of many changes to these two skills and how
+they interact with each other.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Jan 28 12:38:08 2009~
+Stamp   1233175088
+To      all~
+Subject voodan curse again{x~
+Text
+Voodan curse has been fixed again.  It now works as intended.  The only
+stacking stat will be -hitroll.  -con and -str will only apply the first
+time it is cast.  Mana/Move will only be drained the first time it is cast,
+and this is scaled by how close to full the victim is in those stats.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Sun Feb  1 21:34:56 2009~
+Stamp   1233552896
+To      all~
+Subject unite/mana blast/strangle/ghost/siphon{x~
+Text
+Unite will no longer surge.
+Chance to save vs mana blast added, this will reduce the damage it does significantly (similar to every other spell)
+Strangle changed so that you cannot overpower the assassin if you can't see them when they strangle you.
+Killing yourself no longer gives you a ghost flag.
+Siphons are being worked on and should be fixed soon.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Feb  4 11:49:03 2009~
+Stamp   1233776943
+To      all~
+Subject run fix{x~
+Text
+Fixed the memory bug with run, you should be able to run with followers
+now without crashing the mud.  It'll still crash if you run an absurd number
+of rooms, if I find someone doing something like run
+29e29w29e29w29e29w29e29w29e29w trying to crash the mud they will not be
+playing here anymore.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Thu Feb  5 23:51:01 2009~
+Stamp   1233906661
+To      all~
+Subject guards/ghosts{x~
+Text
+Ghosts are no longer allowed in clan halls.  The guard will boot you out.
+If you get into another part of a clanhall by other means ...  Whatever, the
+guard will boot you out.  
+ 
+If you die in a clan hall, your corpse will go to the morgue.
+ 
+Roundhouse bugginess has been resolved.  Roundhousing guards has not changed,
+and won't change until I figure out just how I want to take care of it.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Fri Feb  6 09:37:47 2009~
+Stamp   1233941867
+To      all~
+Subject Siphons{x~
+Text
+Siphon life/energy have been fixed.  Notify an immortal if you lost the
+skills so they can give them back to you.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Feb 10 18:33:32 2009~
+Stamp   1234319612
+To      all~
+Subject Overgrowth{x~
+Text
+Hunters have gained a new spell called Overgrowth that will turn any room
+into a forest temporarily.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Tue Feb 10 19:09:14 2009~
+Stamp   1234321754
+To      all~
+Subject overgrowth again{x~
+Text
+Shaman gets overgrowth too.  Rejoice dammit.
+~
+Sender  Fesdor~
+Date    Wed Feb 18 13:47:03 2009~
+Stamp   1234993623
+To      all~
+Subject bankruptcy{x~
+Text
+Stocks that bankrupt will now have their certificates turned to paper
+bags and the stock will be reset to 700 platinum.  
+Everyone thank Shryp for allowing me to selectively erase objects from pfiles.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Fri Feb 20 16:18:12 2009~
+Stamp   1235175492
+To      all~
+Subject Ghost Flag{x~
+Text
+Ghosted players will now take damage from mobs.
+-Fesdor
+~
+Sender  Bree~
+Date    Mon Feb 23 05:52:47 2009~
+Stamp   1235397167
+To      all~
+Subject stock market.{x~
+Text
+Stock prices will now not crash so often, and have been given a max boost of 17%{x
+Bree{x
+~
+Sender  Bree~
+Date    Fri Feb 27 18:46:35 2009~
+Stamp   1235789195
+To      all~
+Subject chop{x~
+Text
+chop will now hit twice{x
+more changes on classes to come soon{x
+Bree{x
+~
+Sender  Bree~
+Date    Fri Feb 27 18:54:29 2009~
+Stamp   1235789669
+To      all~
+Subject chop{x~
+Text
+damage was lowered slightly as a result of this.{x
+bree{x
+~
+Sender  Bree~
+Date    Fri Feb 27 19:22:06 2009~
+Stamp   1235791326
+To      all~
+Subject changes in classes{x~
+Text
+Chance to assassinate has been raised.{x
+Alchemist enhanced damage has been raised.{x
+conjurer gets iceward at lvl 66{x
+voodan get fireward at 66{x
+More changes to come soon{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat Feb 28 10:02:06 2009~
+Stamp   1235844126
+To      all~
+Subject assassin{x~
+Text
+Assassinate will now do about half the damage it did before, but when it lands the victim will receive a negative regeneration rate.{x
+Any ideas, please note me.{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat Feb 28 10:51:17 2009~
+Stamp   1235847077
+To      all~
+Subject assassinate{x~
+Text
+Assassinate doesn't take a third of your HPs anymore, you get the inital damage which is like 500-800 and then the - regen{x
+bree{x
+~
+Sender  Bree~
+Date    Sun Mar  1 10:09:24 2009~
+Stamp   1235930964
+To      all~
+Subject changes{x~
+Text
+Assassinate now will have a lower chance to hit.{x
+Phase % should go up quicker now, let me know if it doesn't.{x
+Bree{x
+~
+Sender  Bree~
+Date    Sun Mar  1 10:10:00 2009~
+Stamp   1235931000
+To      all~
+Subject also{x~
+Text
+You can put stocks in pouches and packs now too.{x
+~
+Sender  Bree~
+Date    Mon Mar  2 07:11:01 2009~
+Stamp   1236006661
+To      all~
+Subject assassinate{x~
+Text
+Assassinate damage has been raised slightly since it takes the place of backstab damage if it hits and since it hits slightly more now, it can mess with focusing if you keep hitting assassinate and no backstab.{x
+Also, the stacking effect of the -regen has been fixed. Please post any problems if you see them{x
+Bree{x
+~
+Sender  Bree~
+Date    Tue Mar 24 16:43:57 2009~
+Stamp   1237938237
+To      all~
+Subject demonfire{x~
+Text
+Demonfire is now on par with ray of truth.{x
+Bree{x
+~
+Sender  Bree~
+Date    Tue Apr  7 11:04:10 2009~
+Stamp   1239127450
+To      all~
+Subject changes{x~
+Text
+Bard claw technique will hit slightly more often.{x
+Sonic blast damage is now also based on red magic.{x
+Bree{x
+~
+Sender  Bree~
+Date    Tue Apr  7 16:59:07 2009~
+Stamp   1239148747
+To      all~
+Subject sonic {x~
+Text
+It goes offa blue magic now{x
+This really changes nothing from a players perspective.{x
+Bree{x
+~
+Sender  Bree~
+Date    Sun Apr 12 17:34:37 2009~
+Stamp   1239582877
+To      all~
+Subject spells{x~
+Text
+Gas breath damage to self lessened by a set 90 hps.{x
+mana shield mana drain lessened{x
+~
+Sender  Bree~
+Date    Mon Apr 13 10:57:53 2009~
+Stamp   1239645473
+To      all~
+Subject mana blast{x~
+Text
+mana blast damage based on your current mana now not max.{x
+~
+Sender  Bree~
+Date    Mon Apr 13 18:50:38 2009~
+Stamp   1239673838
+To      all~
+Subject helps{x~
+Text
+The following help files have been added/edited:{x
+Mana blast, Fork, Age, Hara, and Scripting.{x
+That is all for now.{x
+Bree{x
+~
+Sender  Bree~
+Date    Thu Apr 16 07:58:58 2009~
+Stamp   1239893938
+To      all~
+Subject necro/fade{x~
+Text
+Necro and Fade get Dual Wield now. Also the golems will be made a little less equal to demons/bears{x
+More to come{x
+Bree{x
+~
+Sender  Bree~
+Date    Fri Apr 17 13:32:16 2009~
+Stamp   1240000336
+To      all~
+Subject dual wield and weight{x~
+Text
+After the next copyover, the annoying, 'Your secondary weapon cannot be heavier then your primary one' will be cut in half. It now takes the weight of the second weapon, divides it by 2 and uses that number against the check{x
+Also, Dual Wield mastery will make your secondary weapon hit slightly more often, not more attacks mind you, but your nor mal ones that you miss.{x
+Bree{x
+~
+Sender  Bree~
+Date    Mon Apr 20 19:50:24 2009~
+Stamp   1240282224
+To      all~
+Subject head cut{x~
+Text
+After next copyover swashbucklers who have hitroll over 250 will get a damage bonus on headcut.{x
+Over 350 hitroll will give you an even bigger bonus, there are no bonuses past 350 hitroll. atm.{x
+Report any bugs or insane damage spikes.{x
+Bree{x
+~
+Sender  Bree~
+Date    Wed Apr 22 18:31:23 2009~
+Stamp   1240450283
+To      all~
+Subject thief classes{x~
+Text
+Assassin and ninja get blind fighting{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat Apr 25 08:04:45 2009~
+Stamp   1240671885
+To      all~
+Subject changes{x~
+Text
+You no longer have to be sneaking/hiding to ambush. (We all know the problem with being sneaking/hiding or your target sleeping and still not being able to ambush cause "they can see you"){x
+Surge damage on Fork lowered slightly.{x
+More to come{x
+Bree{x
+~
+Sender  Bree~
+Date    Wed Apr 29 17:46:27 2009~
+Stamp   1241052387
+To      all~
+Subject headcut{x~
+Text
+Headcut can blind if you hit them in the face{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat May  2 17:47:06 2009~
+Stamp   1241311626
+To      all~
+Subject grenado{x~
+Text
+Was watching Deadliest Warriors, a show i highly suggest i might add, and was watching pirates vs. knights.{x
+Anyway long story short, pirates had this cool grenade as a weapon, so, i made a skill like it and i'm giving it to swash bucklers.{x
++ Enjoy{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat May  2 18:04:39 2009~
+Stamp   1241312679
+To      all~
+Subject also{x~
+Text
+Grenado is hitroll based, if you want best results, your  hitroll needs to be 400 or more.{x
+Bree{x
+~
+Sender  Digaaz~
+Date    Thu May 14 15:08:18 2009~
+Stamp   1242338898
+To      all~
+Subject Paladin{x~
+Text
+OK, paladin's will now gain advanced sword at level 65{x
+OK, paladin's will now gain advanced mace at level 65{x
+{x
+Will cost you 4 creation points.{x
+{x
+Digaaz... Enjoy.{x
+~
+Sender  Digaaz~
+Date    Wed Jun 10 01:37:04 2009~
+Stamp   1244623024
+To      all~
+Subject Repent and Curse align{x~
+Text
+I had some people ask me to fix the having to repent and curse align 20
+times.  I did.  It costs one platinum, and it should be a one shot deal now.
+Any problems note me.  
+ 
+Digaaz... Making it faster to be badder... or a goody two shoes.
+~
+Sender  Digaaz~
+Date    Thu Jun 11 00:51:16 2009~
+Stamp   1244706676
+To      all~
+Subject Repent/Curse Align{x~
+Text
+I believe that the rate will be 500, the lag on the changing it doubled. 
+Cost will be reduced to 100 gold.  {x 
+ 
+Digaaz... It's a love/hate relationship.
+~

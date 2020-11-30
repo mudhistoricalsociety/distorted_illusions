@@ -1,0 +1,5747 @@
+#AREADATA
+Name Enoch~
+Builders None~
+VNUMs 2600 2799
+Continent 1
+Credits {y[{Y  LGD {y]{c Snaek    {YCity of Enoch{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#2600
+Cain Master~
+{8Cain the son of {6Adam{x~
+{8Cain stands here, Praying in silence.{X
+~
+Before you stands a man of conviction.  After being cursed to wander
+he founded the city of enoch.  He now stands here, trying to atone with
+the lord.
+~
+human~
+ABRTV CDEFQVc 0 1000 5706
+150 100 100d100+29999 100d100+29999 15d15+100 punch
+-100 -100 -100 -100
+ADFHK AB CDM 0
+stand stand male 35000
+ABCGHMV ABCDEFGHIJK medium unknown
+#2601
+guardian beast fearsome creature~
+{8The {!G{1u{!a{1r{!d{1i{!a{1n {8Beast{x~
+A fearsome creature crouches on all fours.
+~
+{#Yellow{x eyes stare at you with a inhuman intelligence.  Though it has
+canine properties it is definately not a dog.
+~
+human~
+ABFG DFJTV 0 -1000 0
+170 130 1d1+75000 110d10+100 900d3+1 bite
+-100 -85 -85 -85
+AEFGHK AIJ CDEMZ H
+stand stand male 80000
+I ABCDEFGHIJK medium unknown
+F for AHMV
+#2602
+warden~
+{8The Warden{x~
+{8The Warden stands here barking orders{x
+~
+A fearsome man dressed in black leather armor stands before you.  
+a grizzly face covered in scars stares through you.  Seasoned by combat,
+hardened by dealing with enoch's worst criminals.  This man is truly
+a fearsome opponent.
+~
+unique~
+ABCFGRS DFPTVc 0 0 0
+110 3 50d50+19500 1d100+18000 8d6+60 wrath
+-44 -45 -45 -45
+EFGHJK 0 CDFHIK 0
+stand stand male 15000
+0 0 medium unknown
+#2603
+castle blademaster blade master~
+{2The {4BladeMaster{x~
+{2The {4Castle Blademaster{x {2stands here training recruits.{x
+~
+All you see is flashing steel and a mencacing grimice as he trains his
+students in the way of the sword.  
+~
+human~
+ABT JTV 0 -600 0
+150 290 1d1+59999 23d9+100 9d10+41 slash
+-75 -75 -75 -75
+CEFNU D D C
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#2604
+abomination mass twisted limbs~
+{8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x~
+A mass of twisting limbs and flesh writhes in the darkness.
+~
+A mass of flesh, horribly twisted by science, stands before you.  The
+doctor who created this was unable to destroy it and hoped to make it
+weaker through starvation. 
+~
+human~
+ABFG DFJTV 0 -1000 0
+170 130 1d1+75000 110d10+100 900d3+1 fury
+-100 -85 -85 -85
+AEFGHK AIJ CDEMZ 0
+stand stand male 80000
+I ABCDEFGHIJK medium unknown
+F for AHMV
+#2606
+holy ghost light being~
+{&The H{#o{&ly Gh{#o{&st{x~
+{&A being of pure white light, stands before you.{x
+~
+The Holy energy that stands before you blinds you to the outside world.
+You cannot make out features, but rather a formless presence.
+~
+human~
+ABFGT DFJTV HN 1000 0
+150 130 1d1+89999 110d10+100 750d3+10 wrath
+-100 -85 -85 -85
+AEFGN ABJKM DEHZ 0
+stand stand male 80000
+E 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 2606 100~
+#2607
+mad scientist man diabolical~
+{@The M{8a{@d Doctor{x~
+A Diabolical little man runs about, tending his experiments.
+~
+The very term "Mad Scientist" seems to fit this man.  His short stature,
+barely allows him to view the tabletops.  As he notices your presence he
+begains to scream at you to "LEAVE At ONCE!!!"
+~
+dwarf~
+AB DFJ 0 800 0
+140 200 1d1+17000 40d9+100 50d10+40 slap
+10 10 10 10
+CFIU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2608
+Grail~
+{8Grail{x~
+Grail, the Dragon Boy/Thief, lies here battered and beaten.
+~
+~
+human~
+ABFGT EFQV 0 900 0
+150 0 1d1+10 1d1+99 1000d1000+20000 none
+10 10 10 10
+ABCEFGHIJKOU B A CD
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#2609
+lilith~
+{5Lilith{x~
+{5Lilith{x the first wife of adam, lies here waiting for Cain.
+~
+~
+dwarf~
+ABG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 none
+20 20 20 20
+CEFIK AB L 0
+rest rest female 10000
+AHMV ABCDEFGHIJK giant unknown
+#2610
+sorcerer negativity dark cloaked figure~
+{8The Sorcerer of {6Negativity{x~
+{8A Dark figure is cloaked here{x
+~
+~
+human~
+ABFG Vc 0 -1000 0
+155 400 1d1+13500 5d5+5 75d40+75 wrath
+-45 -45 -45 -45
+CDEHI AC 0 S
+stand stand none 39000
+0 BCK large unknown
+F for AHMV
+F par ADEFGHIJ
+#2611
+jim bagwell~
+{^Jimmy{x~
+Jim Bagwell sits here, enjoying a beer
+~
+As you meet his gaze, blue eyes glare fiercly back.  A hat covers most
+of his brow but you make out a few brown hairs poking out from underneath.
+It doesnt look like hes had a good day, it would be best to move along.
+~
+dwarf~
+AB DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 none
+20 20 20 20
+EFI AB LQ R
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2612
+Gifford~
+{^Gifford{x~
+Jason Gifford is here, ordering another drink.
+~
+A taller man stands before you.  a Small amount of scruff lies at the
+base of his chin underneath a good natured smile.  Brown hair is pulled
+behind his ears, as he takes another drink.
+~
+half-ogre~
+AB DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 beating
+20 20 20 20
+FI AB LQ R
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2613
+Ricky Michika~
+{^Rick Man{x~
+Rick Michika stands here, dancing on a table.
+~
+A good natured smile never seems to leave his face.  Blond hair dangles
+in front of blue eyes, as he dances to some music only he can hear.
+~
+human~
+AB DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 punch
+20 20 20 20
+FI AB LQ R
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2614
+Chris Kube Langlois~
+{^Kube{x~
+Chris Langlois dances here, totally Inebriated.
+~
+Blond hair, that was combed neatly atop his head, now lies in disarray.
+Glasses and a wicked smile are the only thing that that is on his face.
+A thin frame deceptivly hides the strength of a raging Kubee.  He looks
+straight at you and says "{5Damnit Jim I told you to Behave!{x".
+~
+dwarf~
+AB DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 chomp
+20 20 20 20
+FI AB LQ R
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2615
+Jared Lobato Jeddy hito~
+{^Jared{x~
+Jared Lobato is here, looking for his friends.
+~
+As you meet his eyes, the smile of a lunatic meets your face.  Short 
+hair shaved close to the scalp fades into long bangs.  A person of average
+height, you cant help but wonder why hes still grinning.
+~
+dwarf~
+AB DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 slice
+20 20 20 20
+FI AB LQ 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2617
+luke bartender~
+{^Luke{x~
+Luke the bartender is here, mixing drinks.
+~
+A slender bartender, looks around making sure his bar runs smoothly.
+This man seems like he is in way to good of a mood.
+~
+human~
+ABV 0 0 900 0
+45 0 1d1+499 1d1+99 1d8+18 beating
+-6 -6 -6 0
+FHJN AB CD 0
+stand stand male 150
+AHMV ABCDEFGHIJK medium unknown
+#2618
+Dave Gifford~
+{^Dave{x~
+Dave Gifford is here, making sure only paying customers go west.
+~
+A giant of a man stands before you.  You did not think it was possible
+for a man to get that big.  The brother of Jason Gifford, he is tasked
+with making sure that everything runs smoothly.
+~
+frost-giant~
+ABV 0 0 900 0
+45 0 1d1+499 1d1+99 1d8+18 beating
+-6 -6 -6 0
+FHJN ABI CD H
+stand stand male 150
+AHMV ABCDEFGHIJK medium unknown
+#2619
+girl hottie~
+A Girl~
+A hot girl is here, dancing next to chris.
+~
+~
+dwarf~
+AB DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 scratch
+10 10 10 10
+CFIKU AB LQ 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#2620
+ragsdale pig fat jason jas~
+{^Ragsdale{x~
+Jason Ragsdale lies here bleeding, and wheezing.
+~
+This fat pig is very hungry. He eats just about ANYTHING.
+~
+pig~
+ABCGH Gb 0 -1000 0
+5 0 2d6+60 49d1+1 1d6+1 slime
+5 5 5 9
+BDEI 0 0 0
+stand stand either 35
+ABGV ACDEFHJKV huge unknown
+#2621
+Gunter vec~
+{!Gunter{x~
+{!Gunter Vec{x is here, blocking the way down.
+~
+~
+human~
+ABFTV CDFJVZ 0 1000 3000
+150 200 90d90+12000 1d1+499 10d10+10 smash
+-25 -25 -25 -15
+DEFHIKLNOQT ABP CD 0
+stand stand male 15000
+AHMV ABCDEFGHIJK huge unknown
+#2622
+Povel Vec~
+{!Povel{x~
+{!Povel Vec{x is here, assisting {!Gunter{x
+~
+~
+dog~
+ABFTV CDFJVZ 0 -1000 3000
+150 200 100d100+30000 1d1+499 15d15+180 smash
+-25 -25 -25 -15
+ACDEFHIKLNOQT ABP CD 0
+stand stand male 15000
+AGV ABCDEFHJKLQTUV huge unknown
+#2623
+scholar~
+A {2S{@c{2h{@o{2l{@a{2r{x~
+A {2S{@c{2h{@o{2l{@a{2r{w roams here looking over the books.{x
+~
+~
+dwarf~
+A DFJ 0 800 0
+140 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+FIU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2624
+chamber guard~
+{8A Chamber Guard{x~
+A {8Chamber Guard{x stands here guarding the way North.
+~
+~
+human~
+ABF DFJ 0 -1000 0
+150 0 1d1+20000 40d9+100 50d10+40 chop
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2625
+master chef~
+the {@M{2a{@s{2t{@e{2R {@Ch{7e{@f{x~
+The {@M{2a{@s{2t{@e{2R {@Ch{7e{@f{x is here preparing a cullinary delite.
+~
+~
+dwarf~
+AB DFJ 0 1000 0
+145 0 1d1+20000 40d9+100 50d10+40 slap
+10 10 10 10
+FI AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2626
+scullery boys~
+{@A Scullery Boy{X~
+A {@Scullery Boy{x stands here, washing pots and pans.
+~
+~
+human~
+AB 0 0 900 0
+140 0 1d1+20000 40d9+100 50d10+40 punch
+10 10 10 10
+IR AB 0 0
+stand stand male 10000
+ABGHMV ABCDEFGHIJK medium unknown
+#2627
+queen enoch~
+The {^Queen{x ~
+The {^Queen{x of Enoch sits here, watching her guests.
+~
+~
+human~
+AB DFc 0 1000 0
+160 0 1d1+30000 40d9+100 50d10+75 slap
+40 40 40 40
+CFIK AB 0 0
+stand stand female 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2628
+King enoch~
+The {!King{x~
+The {!King{x of Enoch sits here, eating.
+~
+~
+human~
+AB DFc 0 1000 0
+160 0 1d1+30000 40d9+100 50d10+75 none
+40 40 40 40
+CFIK AB 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2629
+Royal Guest~
+A {#Royal {2Guest{x~
+A {#Royal{X Guest is here, enjoying their meal.
+~
+~
+human~
+AB DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+CFIKLU AB LQ 0
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#2630
+servant~
+A {6Palace{x Servant~
+A {6Palace{x servant is here, trying to look busy.
+~
+~
+human~
+A DFJ 0 0 0
+145 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+FI AB LQ 0
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#2631
+palace guard~
+A {6Palace{x Guard~
+A {6Palace{x Guard stands here, guarding the {6Palace{x.
+~
+~
+dwarf~
+AB DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 none
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2632
+stable master~
+The {3Stable{#M{3a{#s{3t{#e{3r{x~
+The {3Stable{#M{3a{#s{3t{#e{3r{x is here, tending to the horses.
+~
+~
+dwarf~
+ABG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 none
+20 20 20 20
+CEFIK AB L 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#2633
+stable boy~
+A {3Stable{x Boy~
+A {3Stable{x Boy stands here, cleaning a Horses pen.
+~
+~
+dwarf~
+A J 0 1000 0
+140 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+CFKQU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2634
+recruit trainee~
+A {1Recruit{x~
+A {1Recruit{x stands here, trying to learn all he can.
+~
+~
+human~
+AB J 0 1000 0
+140 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+I AB LQ 0
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#2635
+ri eccles~
+{^Rikki{x~
+{$Ri{7kk{$i Eccles{x is here, instructing recruits in medicine.
+~
+Before you stands a gorgeous girl, with blonde hair and blue eyes. Having
+achieved a medical degree, she now works at instrucing the recruits.
+Type 'heal' to see a listing of spells.
+~
+human~
+ABQVa DF 0 1000 0
+153 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#2636
+Marine Naval Infantry~
+A {!M{3a{1r{#i{!n{3e{x~
+A member of the Naval Infantry sits here, polishing his boots.
+~
+~
+human~
+A Jc 0 900 0
+140 0 1d1+20000 40d9+100 50d10+40 beating
+10 10 10 10
+CFIU AB LQ 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#2637
+gate guard~
+A {$Gate{x Guard~
+A {$Gate{x Guard is here guarding the castle entrance.
+~
+~
+human~
+AB DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 none
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2638
+Dryad Rose~
+A {RRose Dryad{x~
+A {!Rose Dryad{x is here, playing in the {!Roses{x
+~
+~
+human~
+AB J 0 900 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2639
+tullip dryad~
+A {$Tullip Dryad{x~
+A {$Tullip Dryad{x is here playing in the {$Tullips{x
+~
+~
+human~
+AB J 0 800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2640
+dryad lilly~
+A {#Lilly Dryad{x~
+A {#Lilly Dryad{x is here playing in the {#Lillies{x
+~
+~
+human~
+AB J 0 800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2641
+cherry dryad~
+A {1Cherry Dryad{x~
+A {1Cherry Dryad{x is here, playing among the {1Cherry{x Trees.
+~
+~
+human~
+AB J 0 800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2642
+dryad lotus~
+A {&Lotus Dryad{x~
+A {&Lotus Dryad{x is here, playing among the {&Lotuses{x
+~
+~
+dwarf~
+AB J 0 800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2643
+fortune teller~
+The {^F{3o{6r{#t{^u{3n{6e{x Teller~
+The {^F{3o{6r{#t{^u{3n{6e{x Teller is here, gazing into her crystal ball.
+~
+~
+dwarf~
+ABG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 psias
+20 20 20 20
+CFIK A L 0
+stand stand female 10000
+AHMV ABCDEFGHIJK giant unknown
+#2644
+witch doctor~
+The {#W{8i{3t{8c{#h{8-{#D{8o{3c{8t{#o{8r{x~
+The {#W{8i{3t{8c{#h{8-{#D{8o{3c{8t{#o{8r{x sits here, drawing symbols in the Dirt.
+~
+~
+human~
+ABG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 chop
+20 20 20 20
+CEFIK A L 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#2645
+potion tester~
+The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x~
+The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x is here, drinking...um...something.
+~
+A skinny man witha nervous twitch stands before you.  After years of 
+testing various brews, some of the side affects are begaining to show.
+~
+human~
+ABV 0 0 900 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#2646
+High Scholar theology~
+The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x~
+The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x sits here, reading on the mysteries of Religion.
+~
+A small man sits in front of you.  Long gray hair is pulled back in a 
+ponytail, that hangs to his mid back.  Small beady eyes stare through thick
+coke-bottle glasses, as he attempts to translate an ancient norse text.
+~
+human~
+ABV DFJ 0 -1000 0
+110 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ R
+stand stand male 5000000
+AHMV ABCDEFGHIJK medium unknown
+#2647
+Jimmy the blackjack dealer~
+{#J{%i{3m{5m{#y{x~
+{#J{%i{3m{5m{#y{x the dealer is here, sizing you up.
+~
+~
+human~
+ABG 0 0 0 0
+105 0 4d5+400 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2648
+Weapon master Polkowski al~
+{7Al {#P{3o{7lk{&ow{3s{#ki{x~
+{7Al {#P{3o{7lk{&ow{3s{#ki{x the bladesmith is here, forging a fine weapon.
+~
+~
+human~
+ABV DFJ 0 -1000 0
+110 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ R
+stand stand male 5000000
+AHMV ABCDEFGHIJK medium unknown
+#2649
+hath hathcock armorer~
+{#H{3a{7th{#C{3o{7ck{x~
+{#H{3a{7th{#C{3o{7ck{x is here, polishing some Platemail.
+~
+~
+dwarf~
+ABV DFJ 0 -1000 0
+110 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ R
+stand stand male 5000000
+AHMV ABCDEFGHIJK medium unknown
+#2650
+silver smith Treva~
+{WTr{we{Wva{x~
+{&Tr{7e{&va{x the {&Silver-Smith{x is here polising her wares.
+~
+~
+human~
+ABV DFJ 0 -1000 0
+110 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ R
+stand stand female 50000000
+AHMV ABCDEFGHIJK medium unknown
+#2651
+Alfred cannibal~
+{!Alfred{x ~
+{!Alfred{x the Cannibal is here, eating...something{x
+~
+~
+human~
+ABV 0 0 900 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#2652
+Metaphysician~
+{^Metaphysician{x~
+The {^Metaphysician{x is here, tending to a new patient.
+~
+~
+human~
+ABV DFJ 0 -1000 0
+130 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2653
+firebreather breather~
+A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X~
+A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X is here, igniting your clothes.
+~
+~
+human~
+A Jc 0 800 0
+140 0 1d1+20000 40d9+100 50d10+40 flash
+10 10 10 10
+CFIU AB LQ 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#2654
+midget bearded lady~
+The {8Bearded {5Lady{x~
+A midget {8Bearded {5Lady{x stands here, looking mean.
+~
+~
+dwarf~
+A J 0 800 0
+140 0 1d1+15000 40d9+100 50d10+40 fury
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2655
+cyclops~
+A {$C{6y{4c{^l{$o{6p{4s{x~
+A {$C{6y{4c{^l{$o{6p{4s{x stands here, surveying the crowd.
+~
+~
+frost-giant~
+A J 0 1000 0
+140 0 1d1+20000 40d9+100 50d10+40 pound
+10 10 10 10
+CFKQU ABI LQ H
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2656
+Mermaid~
+A {^M{2e{6r{@m{^a{2i{6d{x~
+A {^M{2e{6r{@m{^a{2i{6d{x splashes happily, in her tank.
+~
+~
+human~
+AB b 0 -1000 0
+146 146 50d10+14500 10d10+100 25d25+45 wave
+-50 -50 -50 -50
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#2657
+snake dancer~
+A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x~
+A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x dances here, with her snake.
+~
+~
+human~
+A Jc 0 800 0
+140 0 1d1+20000 40d9+100 50d10+50 acbite
+10 10 10 10
+FI AB LQ 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#2658
+citizen~
+A {$C{4i{$t{4i{$z{4e{$n{x~
+A {$C{4i{$t{4i{$z{4e{$n{x walks here, examining the shops.
+~
+~
+human~
+AG Jc 0 800 0
+140 0 1d1+20000 40d9+100 50d10+50 none
+10 10 10 10
+FI AB LQ 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#2659
+beggar~
+A {#B{3e{#g{3g{#a{3r{x~
+A {#B{3e{#g{3g{#a{3r{x sits here looking for someone to take pity on them.
+~
+A scaggy beggar sits here begging for a dime or two from 
+anyone who seems to give a damn.
+~
+dwarf~
+AG J 0 800 0
+140 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+I AB LQ 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#2660
+recruiter~
+A {!Re{1cr{!ui{1te{!r{x~
+A {!Re{1cr{!ui{1te{!r{x smiles as you enter the room.
+~
+~
+human~
+ABG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 none
+20 20 20 20
+CEFIK AB L 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#2661
+young man~
+A {!young{w man{x~
+A {!young{7 man stands here signing some papers.{x
+~
+~
+human~
+AB Jc 0 800 0
+140 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+CFIU AB LQ 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#2662
+Church goer~
+A {&C{7h{8u{7r{&ch{x {7Goer{x~
+A {&C{7h{8u{7r{&ch{x {7Goer{x runs towards the Cathedral
+~
+~
+human~
+AGS DEFJP 0 800 0
+150 0 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+BI AB LQ 0
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#2663
+Priest~
+{wA {DPr{Wie{Dst{x~
+{7A {8Pr{&ie{8st{x {7stands here reading from the bible.{x
+~
+~
+human~
+AB J 0 1000 0
+140 0 1d1+15000 40d9+100 50d10+40 none
+10 10 10 10
+I AB LQ 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2664
+zombie~
+A {8ZoMbIe{x~
+A {8ZoMbIe{x is here, rotting away
+~
+~
+dragon~
+ABF DFJKTV 0 -1000 0
+160 50 16000d1+0 0d0+0 10d20+20 chomp
+-10 -10 -10 -10
+DFHK AB I HN
+stand stand either 30000
+AHVZ ABCDEFGHIJKPQUVWX huge unknown
+F res BEH
+F vul FI
+#2665
+dungeon lackey~
+A {8Dungeon {@La{2ck{@ey{x~
+A {8Dungeon {@La{2ck{@ey{x is here, assisting in the dungeon.
+~
+~
+human~
+A V 0 -1000 0
+140 200 1d1+20000 40d9+100 50d10+40 none
+10 10 10 10
+FHIR AB 0 0
+stand stand male 10000
+ABGHMV ABCDEFGHIJKQV medium unknown
+#2666
+corpse eater~
+A {1c{1o{&rp{!s{1e {@E{2a{@t{2e{@r{x~
+A {1c{1o{&rp{!s{1e {@E{2a{@t{2e{@r{x sits here, eating quietly.
+~
+~
+human~
+ABCF DFJ 0 -1000 0
+150 0 1d1+20000 40d9+100 10d15+60 digestion
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2667
+man average interrorgator~
+The {!Int{1err{8o{1rga{!tor{x~
+A average looking man, washes the blood off his hands.
+~
+~
+human~
+ABG DFJc 0 -1000 0
+160 0 70d10+25940 50d9+100 70d10+75 drain
+30 30 30 30
+CFIK AB LQ R
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2669
+Templar ghost~
+A {&Ghost{x~
+The {&Ghost{x of a long dead {&Te{6m{^p{6l{&ar{x, is here.
+~
+~
+human~
+A DFJ 0 -1000 0
+150 0 1d1+20000 50d9+100 50d10+40 divine
+10 10 10 10
+FIKLQU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2670
+Guardian catacomb ~
+{8Catacomb{x {&G{7u{3a{#r{&d{#i{3a{&n{x~
+The Guardian of the {8Catacombs{x is here, Patroling
+~
+An againg knight stands before you.  Wisps of gray hair poke out from 
+under his visors.  He moves with the grace of a cat. In the blink of time
+that he notices you, he turns and swings his sword.
+~
+human~
+AFG DFJ 0 -1000 0
+155 0 1d1+25000 50d9+100 70d10+50 cleave
+20 20 20 20
+CEFIK AB L 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#2671
+dark apprentice~
+A {8Dark Apprentice{x~
+A {8Dark Apprentice{x stands here in the {8Shadows{x
+~
+~
+human~
+AF V 0 -1000 0
+140 200 1d1+20000 40d9+100 50d10+40 magic
+10 10 10 10
+FHIR AB 0 0
+stand stand male 10000
+ABGHMV ABCDEFGHIJKQV medium unknown
+#2672
+dark mage~
+A {8Dark Mage{x~
+A {8Dark Mage{x steps out of the shadows.
+~
+~
+human~
+ABF DFJ 0 -1000 0
+150 0 1d1+20000 40d9+100 10d15+60 magic
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2673
+dark sorcerer~
+A {8Dark Sorcerer{x~
+A {8Dark Sorcerer{x is here, enveloped in {8Shadows{x.
+~
+~
+human~
+ABF DFc 0 -1000 0
+160 0 1d1+30000 40d9+100 50d10+75 magic
+40 40 40 40
+CFIK AB 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2674
+light apprentice~
+An {&Apprentice of Light{x~
+An {&Apprentice of Light{x stands here, {&Glowing{x
+~
+~
+human~
+A V 0 1000 0
+140 200 1d1+20000 40d9+100 50d10+40 magic
+10 10 10 10
+FHIR AB 0 0
+stand stand male 10000
+ABGHMV ABCDEFGHIJKQV medium unknown
+#2675
+light mage~
+A {&Mage of Light{x ~
+A {&Mage of Light{x is here, radiating {&Light{x
+~
+~
+human~
+AB DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 magic
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2676
+light sorcerer~
+A {&Sorcerer of Light{x~
+A {&Sorcerer of Light{x is here basking in the {&Light{x
+~
+~
+human~
+AB DFc 0 1000 0
+160 0 1d1+30000 40d9+100 50d10+75 magic
+40 40 40 40
+CFIK AB 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2677
+jailer~
+A {8Jailer{x~
+A {8Jailer{x patrols the {8Dungeon{x
+~
+~
+human~
+ABF DFJV 0 1000 0
+155 0 1d1+20000 50d9+100 10d10+50 none
+20 20 20 20
+FI AB LQ R
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#2678
+showgirl girl show~
+A {YS{Mh{yo{Mw{YG{Mi{yr{ml{x~
+A {#S{%h{3o{5w{#G{%i{3r{5l{x entertains the patrons of the {#C{%a{3s{5i{#n{%o{x
+~
+A beautiful woman stands before you in the skimpiest clothing imaginable.
+her job is to provide an excellent view for the patrons of the casino.
+~
+human~
+AB J 0 900 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#2679
+electrom~
+{#Electrom{x~
+Electrom rests here, planning his escape.
+~
+~
+human~
+ABF DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 punch
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2680
+turok~
+{$Tur{^o{$k{x~
+Turok stands here, examining the cell for a way out.
+~
+~
+human~
+ABF DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 punch
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2681
+morpheous~
+{1Morpheous{x~
+Morpheous stands here, waiting patiently.
+~
+~
+human~
+ABF DFJ 0 1000 0
+150 0 1d1+20000 40d9+100 10d15+60 punch
+10 10 10 10
+CFIKU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#2682
+Carson quest Master~
+{#C{%a{3r{5s{#o{%n{x~
+{#C{%a{3r{5s{#o{%n{x the {@Quest{2Master{x is here, recruiting gamblers.
+~
+~
+human~
+ABGLUV CDEFGJZc 0 0 0
+101 0 1d1+29999 1d1+29999 1d1+1 divine
+-200 -200 -200 -200
+FK ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2683
+lord slaughter~
+The Lord of {!S{1l{!a{1u{!g{1h{!t{1e{!r{x~
+The Lord of {!S{1l{!a{1u{!g{1h{!t{1e{!r{x sits here, resting upon a throne of corpses.
+~
+A man dressed in crimson armor stands before you.  Blood seems to seep
+out of the creases of his armor.  A Grim smile appears on his face as
+he turns and looks at you.
+~
+human~
+ABFTV CDFJVZ 0 -1000 3000
+150 200 90d90+12000 1d1+499 10d10+10 chop
+-25 -25 -25 -15
+DEFHIKLNOQT ABP CD 0
+stand stand male 15000
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#2600
+slot machine~
+the {#S{3l{5o{#t{%M{3a{5c{#h{%i{3n{#e{x~
+The {#S{3l{5o{#t{%M{3a{5c{#h{%i{3n{#e{x is here.  Type '{7slots{x' to play.~
+unknown~
+furniture ORYd 0
+0 0 0 0 0
+0 0 5 P
+#2601
+thor faith thunder~
+{$Th{#o{$r's {7Faith in {#T{3h{#u{3n{#d{3e{#r{x~
+A patch with a hammer and lightningbolt lies here, forgotten.~
+?~
+armor ABGSTWd AV
+AB AB AB AB 0
+101 1 10000000 P
+A
+19 14
+A
+13 65
+A
+18 5
+#2602
+odin faith creation~
+{&O{7di{&n's {7Faith in {&C{7r{8e{8a{2t{2i{@o{@n{x~
+A patch with a pale one-eyed face lies here, forgotten.~
+?~
+armor ABGSTWd AV
+B B B D 0
+101 1 10000000 P
+A
+18 10
+A
+19 10
+A
+13 100
+#2603
+hel faith dead~
+{!H{1el's {7Faith of {8the Dead{x~
+A patch with the fires of hell lies here, forgotten.~
+?~
+armor ABGSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+20 -5
+A
+14 -100
+A
+19 14
+#2604
+loki faith guile~
+{@L{8o{2k{8i'{@s {7Faith in {@G{2u{2i{@le{x~
+A patch that is constantly shifting lies here, forgotten{x~
+?~
+armor ABGHMSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+19 8
+A
+20 -5
+A
+2 1
+A
+18 4
+#2605
+Sif Faith Shield~
+{^S{6if'{^s {7Faith of the {$S{4h{8ie{7l{&d{x~
+A patch with the symbol of a Iron shield, lies here forgotten.~
+?~
+armor ABGHMSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+17 -25
+A
+19 10
+#2606
+fenrir faith destruction~
+{rF{de{Dnr{di{rr{ds {DFaith in {rDes{Dtru{rtio{Rn{x~
+A patch with The Great Wolf's maw lies here forgotten.~
+?~
+armor ABGHSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+13 60
+A
+20 -2
+A
+19 17
+#2607
+modi faith wrath~
+{^M{8o{6d{&i{6'{8s {7Faith in {^Wr{8a{^th{x~
+A patch with the symbol of rage, lies here forgotten.~
+?~
+armor ABGHSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+13 60
+A
+19 14
+A
+20 -2
+A
+1 1
+#2608
+jormungand faith poison~
+{BJo{crm{Bun{cgu{Bnd{cs {DFaith in {GP{gois{Go{gn{x~
+A patch with the symbol of Jormungand lies here forgotten.~
+?~
+armor ABGSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+12 -400
+A
+26 25
+A
+14 -300
+F
+R 0 0 L
+A
+13 75
+#2609
+Magni faith Might~
+{!M{5a{1g{%n{!i{5'{!s {7Faith in {!Might{x~
+A patch depicting great strength lies here, forgotten.~
+?~
+armor ABGSTWd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+17 7
+A
+19 21
+#2610
+kinslayer black blade~
+"{8Kinslayer{X" the {8Black Blade{x~
+A weapon stained with the blood of families is lying here.~
+Onyx~
+weapon ABEGIJLOT AN
+sword 14 14 wrath CEF
+100 100 0 P
+E
+sword legendary Sardinella sardinella~
+Etched into the blade of this exotic sword are the words ' You are the 
+chosen one ... the holy conquerer...'
+~
+#2611
+tomb ivory~
+a Tomb~
+{&A dusty Tomb made from {&Ivory{x {&lies here.{x~
+Ivory~
+container 0 P
+10000 ABCD 2797 100000 100000
+101 0 0 P
+A
+12 199
+A
+14 1
+A
+13 90
+#2612
+Ivory Helm Glory~
+{&Ivory H{3e{&lm of {&Gl{3o{&ry{x~
+A white helm lies here, discarded~
+ivory~
+armor KLS AE
+ADE ADE ADE ADE 0
+101 10 20000 P
+A
+19 15
+A
+18 10
+A
+13 75
+#2613
+ivory girth faith~
+{&Ivory {&G{3i{&rth of {&F{3ai{&th{x~
+A girth made of Ivory lies here, discarded.~
+Ivory~
+armor KLS AL
+ABCD ABCD ABCD CE 0
+101 5 50000 P
+A
+19 15
+A
+18 15
+A
+20 -1
+#2614
+ivory legplates humility~
+{&Ivory {&L{3e{&gpl{3a{&t{3e{&s of {&H{3u{&m{3i{&l{3i{&ty{x~
+A pair of ivory legplates lie here, discarded.~
+ivory~
+armor KLS AF
+CE CE CE CE 0
+101 8 30000 P
+A
+20 -2
+A
+18 10
+A
+14 75
+A
+19 14
+#2615
+ivory armplates of hope~
+{&Ivory {3A{&rmpl{3a{&t{3e{&s of {&H{3o{&p{3e{x~
+A set of ivory armplates lie here, discarded.~
+Ivory~
+armor KLS AI
+CE CE CE CE 0
+101 10 15000 P
+A
+19 15
+A
+18 10
+A
+13 50
+A
+14 25
+#2616
+ivory boots Penance~
+{&Ivory {&B{3oo{&ts of {&P{3e{&n{3a{&nc{3e{x~
+A pair of Ivory boots lie here, discarded.~
+ivory~
+armor KLS AG
+BCE BCE BCE BCE 0
+101 12 20000 P
+A
+14 25
+A
+2 2
+A
+19 15
+A
+18 10
+#2617
+Ivory cloak Truth~
+{&Ivory {&Cl{3oa{&k of {&Tr{3u{&th{x~
+A pile of Ivory clothe lies here, discarded.~
+Ivory~
+armor KLS AK
+ADE ADE ADE ADE 0
+101 10 50000 P
+A
+19 12
+A
+14 50
+A
+18 10
+A
+20 -3
+#2618
+word god~
+{7The word of {&G{#o{&d{x~
+A omnious voice sounds here.~
+air~
+armor KS AS
+AC AC AC ABCD 0
+101 2 10000 P
+A
+20 -5
+A
+13 75
+#2619
+lingerie concubines~
+{6Concubines{x {$Li{4ng{6er{^ie{x~
+A pile of lace sits here.~
+lace~
+armor 0 AD
+0 0 0 0 0
+101 1 20000 P
+A
+19 11
+A
+20 -4
+A
+13 25
+#2620
+Legendary armplates ~
+{#L{3e{#g{3e{#n{3d{#a{3r{#y {3Armplates{x~
+A pair of {#Shining{x armplates lie here discarded amongst the wealth.~
+gold~
+armor AS AI
+CE CE CE CE 0
+101 5 30000 P
+A
+13 75
+A
+19 13
+#2621
+king kings king's crown~
+the False Crown of {@E{2n{@o{2c{@h{x~
+A shiny crown lies here collecting dust.~
+gold~
+armor 0 AE
+CE ABE CE E 0
+101 10 30000 P
+A
+2 -1
+A
+13 100
+A
+19 5
+#2622
+sceptre false enoch~
+the False Sceptre of {@E{2n{@o{2c{@h{x~
+A Sceptre lies here in the dirt.~
+silver~
+weapon M AN
+mace 8 23 pound E
+101 10 30000 P
+A
+19 9
+A
+20 -5
+A
+13 50
+#2623
+skinning knife~
+a {7Ceramic {#skinning {&knife{x~
+A skinning knife lies here discarded with the blade stuck in the ground.~
+unknown~
+weapon LM AN
+dagger 3 66 pierce E
+101 5 12000 P
+A
+13 80
+A
+19 10
+#2624
+calm visage~
+a Calm Visage{x~
+A sense of tranquility is here.~
+flesh~
+armor BFI AR
+BCD BCD BCD BCD 0
+101 20 50000 P
+A
+18 20
+#2625
+wicked knife~
+a wicked looking Knife~
+A jagged weapon lies here~
+ats-55~
+weapon BCIS AN
+dagger 9 23 thrust 0
+101 1 50000 P
+A
+18 6
+#2626
+assassin mark guild~
+mark of the {@As{2sa{8ss{7in{&s{x guild{x~
+A strange mark lies here.~
+magic cloth~
+armor SY AU
+0 0 0 0 0
+101 0 0 P
+A
+18 10
+A
+19 10
+A
+13 75
+A
+2 1
+#2627
+shard glass~
+{6a glass shard{x~
+A piece of glass wrapped in clothe lies here, hidden from view.~
+silver~
+weapon CS AN
+dagger 2 100 pierce E
+101 0 15000 P
+A
+13 100
+A
+19 10
+#2628
+disfiguring Mark~
+{8A {!Dis{1fig{8uring Mark{x~
+A hideous scar lies here.~
+unknown~
+armor S AW
+CD CD CD CD 0
+100 0 10000 P
+A
+1 3
+A
+19 9
+A
+18 7
+#2629
+hate~
+{8Hate{x~
+A sense of hate eminates from here.~
+glass~
+treasure GJS AO
+0 0 0 0 0
+101 2 640 P
+A
+19 14
+A
+20 -2
+A
+3 -1
+A
+4 -1
+A
+18 8
+A
+9 20
+#2630
+dried blood~
+dried {1Blood{x~
+A red stain is on the floor here.~
+blood~
+armor S AH
+CD CE CD CD 0
+101 2 30000 P
+A
+26 5
+A
+13 90
+#2631
+scalpel surgical~
+{wa surgical scalpel{x~
+A small silver scalpel lies here in a pool of blood.~
+steel~
+weapon LM AN
+dagger 4 52 slice E
+101 5 12000 P
+#2632
+screams agony~
+{!S{1c{!r{1e{!a{1m{!s {8of {1Agony{x~
+An ear peircing scream can be heard.~
+sound~
+armor GS AS
+AC AC AC BE 0
+101 20 60000 P
+A
+19 9
+A
+18 8
+A
+13 90
+#2633
+staff under world underworld~
+staff of the {8Under{$Wo{4rld{x~
+A staff from the depths of hell rests here.~
+Wood~
+weapon AGIORTY AN
+exotic 3 68 magic F
+101 0 60000 P
+A
+19 8
+A
+12 100
+A
+13 100
+A
+20 -5
+#2634
+sorcerer mark guild~
+mark of the {!So{1rc{3er{#er{&s{x guild~
+A strange mark is here.~
+magic cloth~
+armor SY AU
+BD BD BD BD 0
+101 0 0 P
+A
+20 -6
+A
+3 2
+#2635
+boot knife bloody~
+a small boot knife~
+A small knife lies here in the dirt~
+steel~
+armor 0 AT
+AC AC AC AC 0
+101 2 100000 P
+A
+19 20
+#2636
+nullstone stone~
+{8Null{7Stone{x~
+The {8Null{7Stone{x lies here warping realility.~
+unknown~
+treasure ABGIMST AO
+0 0 0 0 0
+101 5 60000 P
+A
+20 -17
+A
+12 -1200
+A
+13 -1000
+A
+14 -650
+#2637
+dusk ring~
+{8Ring of {7Du{8sk{x~
+A ring heralding the return of night is here.~
+night~
+jewelry JY AB
+0 0 0 0 0
+101 5 30000 P
+A
+20 -3
+A
+13 90
+A
+19 11
+A
+12 35
+#2638
+dawn ring~
+{&Ring of {8Da{&wn{x~
+A ring heralding the coming of day is here.~
+night~
+jewelry KY AB
+0 0 0 0 0
+101 5 30000 P
+A
+20 -3
+A
+13 90
+A
+19 11
+A
+12 38
+#2639
+cloak twilight~
+{&T{$w{8i{4l{&i{$g{8h{4t {&Cloak{x~
+A cloak of the morning lies here.~
+day~
+armor AFGKLS AK
+BD BD CE BD 0
+101 4 30000 P
+A
+19 10
+A
+13 60
+A
+20 -2
+E
+cloak~
+Yes, you have seen a thief wearing this once before.
+~
+#2640
+midnight cloak~
+{8M{$i{8d{4n{8i{$g{8h{4t {8Cloak{x~
+A cloak of the night sky lies here.~
+day~
+armor AFGJLS AK
+BD BD CE BD 0
+101 4 30000 P
+A
+19 10
+A
+13 60
+A
+20 -2
+E
+cloak~
+Yes, you have seen a thief wearing this once before.
+~
+#2641
+crest darkness~
+{8Crest of {8Darkness{x~
+A symbol of night lies here.~
+night~
+armor CFGJS AC
+CE ADE CE BD 0
+101 1 30000 P
+A
+19 9
+A
+20 -2
+A
+2 -2
+A
+13 75
+#2642
+crest illumination~
+{&Crest of Illumination{x~
+A symbol of day lies here.~
+night~
+armor FGKS AC
+CE ADE CE BD 0
+101 1 30000 P
+A
+19 9
+A
+20 -2
+A
+2 -2
+A
+13 75
+#2643
+whip long leather~
+a long leather Whip.~
+A long leather whip lies coiled here.~
+leather~
+weapon BS AN
+whip 10 20 whip 0
+101 140 20000 P
+A
+18 -12
+A
+19 15
+A
+13 20
+#2644
+swordsmans mark guild~
+mark of the {$Sw{4or{6ds{^ma{&ns{x guild~
+A strange mark is here.~
+magic cloth~
+armor SY AU
+0 0 0 0 0
+101 0 0 P
+A
+18 2
+A
+13 50
+A
+19 15
+A
+1 1
+#2645
+poison dart~
+{8A {@P{3o{2i{#s{@o{3n{x {8Dart{x~
+A bamboo stick lies here on the ground.~
+bamboo~
+wand GS AO
+140 10 10 'sleep' 0
+101 1 320 P
+E
+wand~
+It has a little note that says 'point this end at target'.
+~
+#2646
+protection vial~
+a {!Red{x Vial labeled "Protection"~
+A vial of red liquid lies here~
+unknown~
+potion 0 A
+104 'armor' 'stone skin' 'shield' 'steel flesh'
+101 5 25500 P
+#2647
+glowing vial holy~
+a {#Glowing{x vial labeled "Holy"{x~
+A glowing vial lies here.~
+unknown~
+potion AB A
+102 'frenzy' 'haste' 'haste' 'bless'
+101 5 30000 P
+#2648
+heal blue vial~
+a {^Blue{x vial labeled "Heal"~
+A blue vial sits here in the dirt.~
+unknown~
+potion B A
+104 'heal' 'heal' 'heal' 'heal'
+101 5 50000 P
+#2649
+gray vial remove~
+a {&G{7r{8a{7y{x vial labeled "Remove"~
+A gray vial lies hee in the dirt~
+unknown~
+potion B A
+104 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+101 5 60000 P
+#2650
+eye vial~
+a vial with a disembodied {@e{#y{@e{x inside.~
+A vial with a something inside lies here in the dirt.~
+glass~
+potion B A
+100 'cure blindness' 'cure blindness' '' ''
+101 0 60000 P
+#2651
+mjollnir replica~
+replica of {$Mj{4ol{8ln{7i{&r{x~
+A Hammer with a short handle lies here.~
+oldstyle~
+weapon AGKL AN
+mace 3 69 blast E
+101 240 200000 P
+A
+19 4
+E
+dawnbringer mace huge~
+The runes "DAwNbRIngER" are scrawled along the handle.
+~
+#2652
+gungir slender spear~
+the slender spear "{3Gu{#ng{7i{&r{x"~
+A wicked spear rests on the ground here.~
+oldstyle~
+weapon G AN
+staff 4 52 thrust 0
+101 18 200000 P
+A
+18 11
+#2653
+laevateinin sword wounding wand~
+the sword "{&La{7ev{8at{1ei{!nin{x" the wounding wand~
+A gleaming blade lies here.~
+steel~
+weapon HM AN
+sword 4 55 slash F
+101 250 200000 P
+E
+sword gith~
+The blade of this sword is a featureless gray.  As you touch it you feel an
+evil presence reaching out to consume your soul.
+
+Maybe picking it up wasn't such a good idea.
+~
+#2654
+scythe etched harvesting~
+an etched harvesting Scythe~
+A grim scythe lies here against the wall.~
+oldstyle~
+weapon AB AN
+polearm 11 18 thrust EF
+101 35 200000 P
+A
+19 15
+#2655
+neck guard~
+{8^*^*Neck GuarD*^*^{x~
+A neck plate lies here in the dirt.~
+steel~
+armor S AC
+CE CE CE AC 0
+101 1 200000 P
+A
+19 15
+#2656
+wrist guard~
+{8^*^*Wrist GuarD*^*^{x~
+A stainless steel wrist guard sits here~
+stainless steel~
+armor SY AM
+CE CE CE AC 0
+101 10 200000 P
+A
+19 15
+#2657
+benty grange helmet~
+the {7Benty {@G{2r{@a{2n{@g{2e {7Helmet{x~
+An antique looking helmet lies here~
+oldstyle~
+armor G AE
+ABCF ABCF ABCF ABCF 0
+101 300 200000 P
+#2658
+svalin shield sun before~
+"{#S{3v{#a{3l{#i{3n{x" the shield before the {#Sun{x~
+An antique looking shield lies here.~
+unknown~
+armor S AJ
+BCD ACD CD ABD 0
+101 20 200000 P
+A
+19 16
+#2659
+cloak valland~
+cloak of "{!V{1a{!l{1l{!a{1n{!d{x"~
+A cloak from the realm of slaughter is here.~
+blood~
+armor AGS AK
+B B B B 0
+101 4 200000 P
+A
+1 2
+A
+2 -4
+A
+19 20
+E
+cloak~
+Yes, you have seen a thief wearing this once before.
+~
+#2660
+diamond blue gem~
+a {Bblue diamond{x~
+A {Bblue diamond{x catches and reflects the lighting.~
+gem~
+treasure W AO
+0 0 0 0 0
+0 1 7500000 P
+A
+13 40
+#2661
+cubic zirconium gem~
+a cubic zirconium~
+A cubic zirconium catches and reflects the lighting.~
+gem~
+treasure W AO
+0 0 0 0 0
+0 1 750000 P
+A
+13 40
+#2663
+head shrunken~
+a shrunken Head~
+A shrunken head lies on the ground.~
+glass~
+drink G AO
+400 400 'cranberry juice' 0 0
+50 1 700000 P
+E
+mug everfull~
+The ale is a light orange color with a hint of fuggles hops in
+its aroma.
+~
+#2664
+liver~
+a {!Liver{x~
+A organ lies on the ground in a pool of blood.~
+food~
+food Y A
+3 3 0 0 0
+10 20 22 P
+#2665
+brain~
+a {$b{4r{&a{4i{$n{x~
+A pile of {4b{$r{&ai{$n{4s{x lies here on the ground.~
+food~
+food 0 A
+1 20 0 1 0
+0 20 22 P
+#2666
+tree knowledge great~
+the tree of {4Knowledge{x~
+A great tree sits here, its roots digging deep into the soil.~
+Ivory~
+container 0 P
+10000 ABC 0 100000 100000
+101 0 0 P
+A
+13 -30
+A
+19 20
+#2667
+apple snake red~
+a {@S{2n{@a{2k{@e{x coiled around a {!Red Apple{x~
+A serpent coiled around a piece of fruit lies at your feet.~
+evil~
+treasure GS AO
+0 0 0 0 0
+101 10 20000 P
+A
+20 -5
+A
+13 100
+A
+12 100
+#2668
+ebony key tree knowledge~
+a Key from the tree of {4Knowledge{x~
+A key carved out of a strange black wood lies here.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2669
+labratory key~
+the {@Labratory{x key~
+A key to the labratory vault, has been left here.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2670
+power room key~
+the {#Power Room{x key~
+A key to the {#Power room{x lies here.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2671
+maximum security key~
+the {8Maximum Security{x Key~
+A key lies here to the palace {8Dungeon{x.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2672
+chamber key~
+the {8Chamber{x Key~
+A key to the {8Masters Chamber{x lies here.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2673
+holy key~
+a {&Holy{x key~
+A glowing key lies here on the ground.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2674
+boom room key~
+the {%Boom Boom Room{x key~
+A glowing key lies here on the ground.~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2675
+mikes hard lemonade~
+a bottle of {3Mikes{x hard {#L{3e{#m{3o{#n{3a{#d{3e{x~
+A bottle of Mikes hard lemonade sits here, looking for someone to drink it.~
+glass~
+drink 0 A
+16 16 'lemonade' 0 0
+0 10 5 P
+A
+13 40
+#2676
+pint guinness~
+a pint of {&G{7u{8inness{x~
+A pint of Guinness is here, looking for Jared to drink it.~
+glass~
+drink 0 A
+16 16 'lemonade' 0 0
+0 10 5 P
+A
+13 40
+#2677
+burger hamburger juicy raven~
+a Burger from the {8Raven{x~
+A juicy hamburger lies here, begging to be eaten.~
+food~
+food 0 A
+3 3 0 0 0
+0 20 22 P
+#2678
+raven T shirt T-shirt leveling bar grill~
+a {8Raven{x Bar and Grill, leveling T-Shirt~
+A pile of black clothe lies here.~
+leather~
+armor 0 AD
+0 0 0 0 0
+1 50 144 P
+A
+17 16
+A
+5 2
+A
+4 2
+A
+3 2
+#2679
+vault key~
+the {#V{3a{#u{3l{#t{x Key~
+A key to the Castle {#V{3a{#u{3l{#t{x~
+mood~
+key ABPUd A
+0 0 0 0 0
+20 0 0 P
+A
+13 60
+#2680
+legendary chain mail~
+{#L{3e{#g{3e{#n{3d{#a{3r{#y {3chain mail{x~
+A pile of {#Shining{x mail lies here, amongst the wealth.~
+Gold~
+armor ABGSY AD
+BCDE BCDE BCDE BCDE 0
+101 20 50000 P
+A
+4 -2
+A
+19 15
+A
+12 -100
+A
+3 -2
+A
+18 10
+A
+13 100
+#2681
+clockwork work Demon~
+{3The {#C{3l{#o{3c{#k{3w{#o{3r{#k {3Demon{x ~
+A {#Shining{x Imp lies here atop the axe Grinning.{x~
+unknown~
+armor EF AQ
+AE AE AE AE 0
+101 1 100000 P
+A
+14 -100
+A
+5 -3
+A
+20 -1
+A
+13 50
+A
+19 17
+#2682
+axe legendary~
+{#L{3e{#g{3e{#n{3d{#a{3r{#y {3AxE{x~
+A {#Shining{x Axe Lies here amongst the wealth.~
+steel~
+weapon GS AN
+axe 26 7 slice EG
+101 120 60000 P
+A
+19 8
+#2683
+benevolant key~
+{Wa benevolant key{x~
+{wA {Wbenevolant key{w lies here in the dirt.{x~
+unknown~
+key Ta A
+0 0 0 0 0
+1 1 0 P
+#2685
+benevolant sphere quest~
+{WA Benevolant Sphere{x~
+Floating nearby you see a large, white, glowing sphere.~
+unknown~
+treasure T A
+0 0 0 0 0
+1 1 0 P
+#2797
+Ivory Key~
+{WAn Ivory Key{x~
+A thin key made of the finest ivory is here.~
+unknown~
+key HMVZ A
+0 0 0 0 0
+0 0 0 P
+#2798
+key bloodstained~
+{YThe {RBl{roo{Rds{rta{Rin{red {YKey{x~
+A gold key soaked in blood drips here.~
+unknown~
+key HMV AO
+0 0 0 0 0
+0 0 0 P
+#2799
+treasure chest~
+{yT{YH{yE {YT{yR{YE{yA{YS{yU{YR{yE {YC{yH{YE{yS{YT{x~
+A huge golden treasure chest sits on a platform.~
+unknown~
+container 0 0
+100000 ABCD 2798 100000 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2600
+{4Before the City of Legends{x~
+Before you stands a city older then the mountains themselves.  Its
+once proud walls stand before you, crumbling in the prevading elements.
+Far to the North stands a Dark Castle, Past it on the Horizon you 
+see two, twin towers.  A Bright beam dances wildly between the Spires.
+You turn your attention to the city before you, The buzzing of the 
+market fills your ears.
+~
+0 0 1
+D0
+~
+~
+0 0 2601
+D2
+~
+~
+0 0 6002
+S
+#2601
+{4Highstreet{x~
+The Highstreet runs to the north and south.  To the east you see a
+small building with a symbol of an Eagle and Anchor etched into the 
+door.  From the look of things it would seem that this city has a 
+low criminal population.
+~
+0 0 1
+D0
+~
+~
+0 0 2603
+D1
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2600
+S
+#2602
+Inside the Guard Shack~
+Many posters fill the walls of this small building.  You Gather that
+the Symbol of the anchor and the eagle stands for the Naval Infantry
+of this city, strangely the name of this city continues to elude you.
+this building also serves as the recruiting office.  Many of this 
+cities youth await the chance to serve the city and smite its enemies
+the only exit is to the west, onto the Highstreet.
+~
+0 8 1
+D3
+~
+~
+0 0 2601
+S
+#2603
+{2Intersection of {4Highstreet {2and {3Balance way{x~
+The Highstreet extends north and south.  Far to the north is the 
+out-line of a Dark castle.  Far to the south lies the exit to the exit
+to this great city.  Balance way runs east and west, and both directions
+are in stark contrast to one another.  To the East lies a Large cathedral
+with the street lined withexpensive looking houses.  To the West lies
+a Darker part of the city.  The poorest people of the city appear to
+live there a testimant to poverty and crime.  The the far west is a 
+GraveYard.  The Sounds of the city fill your ears.
+~
+0 0 1
+D0
+~
+~
+0 0 2636
+D1
+~
+~
+0 0 2604
+D2
+~
+~
+0 0 2601
+D3
+~
+~
+0 0 2618
+S
+#2604
+{3East Balance way{x~
+The amount of people along the streetside is staggering, strangely
+all the people are silent, as they shuffle towards the east.  The
+Ringing of Churchbells suddenly fills your ears.  Fine houses line 
+the street.  To the West you see the Intersection to the Highstreet.
+~
+0 0 1
+D1
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 2603
+S
+#2605
+{7Before the Cathedral{x~
+The towers of the Cathedral seem to reach the sky.  The Cathedrals
+white walls seem emaculate despite the elemants constant barrage.
+The ringing of the bells continue, and it sends a chill down your
+spine.  To the west is Balance way. and to the east is a stream of 
+people entering the Cathedral.
+~
+0 0 1
+D1
+~
+~
+1 0 2606
+D3
+~
+~
+0 0 2604
+S
+#2606
+{7Inside the Cathedral of Saint Kellam{x~
+This Cathedral seems to be a work of god.  Its Ivory walls stretch high, 
+to reveal a a mural on the Ceiling, depiction mans fall from grace, and
+The Asscension of Christ.  Rows of people stand in silence, praying,
+and paying Hommage to the Lord.  You feel it would be unwise to speak
+at such a holy gathering.  To the East is the Altar.  To the west is 
+the door to the Cathedral.
+~
+0 134217736 0
+D1
+~
+~
+0 0 2607
+D3
+~
+~
+1 0 2605
+S
+#2607
+{7Before the Altar{x~
+Before you Stands the Alter.  Behind it is a Huge sculpture depicting
+the crucification of Christ.  It seems to be almost alive with some type
+of Holy Energy.  Two stained Glass Pictures stand Depicting a man dressed
+in Bright Ivory Armor. Far to the West is the Entrance to the Cathedral.
+~
+0 134217736 1
+D3
+~
+~
+0 0 2606
+D5
+~
+~
+3 2683 2608
+S
+#2608
+{8Cathedral Catacombs{x~
+As you slowly step down the stairs into the Catacombs, the stench of 
+the dead invades your nostrils.  Dim torches light the room, they burn
+eternally to light the way for all those that would venture into the
+resting place of the Churches most Holy Warriors.  Up the stairs lead
+back to the Cathedral.  To the east the Catacombs continue.
+~
+0 8200 0
+D1
+~
+~
+0 0 2609
+D4
+~
+~
+3 0 2607
+S
+#2609
+{8Cathedral Catacombs{x~
+The Hallway continues to the east and west.  Torches line the Walls.
+to the North and south lay the resting place of noble Templars.  
+~
+0 8200 0
+D0
+~
+~
+0 0 2610
+D1
+~
+~
+0 0 2612
+D2
+~
+~
+0 0 2611
+D3
+~
+~
+0 0 2608
+S
+#2610
+{8Cathedral Catacombs{x~
+Here lies a tomb, of a Knight Templar.  His Tomb is Open allowing you 
+to see his Decaying remains.  His sword and shield lay rusting in the Damp
+air of the Catacombs.  The only exit is to the South.
+~
+0 8200 0
+D2
+~
+~
+0 0 2609
+S
+#2611
+{8Cathedral Catacombs{x~
+Here lies a tomb, of a Knight Templar.  His Tomb is Open allowing you 
+to see his Decaying remains.  His sword and shield lay rusting in the Damp
+air of the Catacombs.  The only exit is to the North.
+~
+0 8200 0
+D0
+~
+~
+0 0 2609
+S
+#2612
+{8Cathedral Catacombs{x~
+To the east the Hallway continues deeper into the Catacombs.  To the 
+west the incline leads you to believe that you are getting closer to 
+the Surface.
+~
+0 8200 0
+D1
+~
+~
+0 0 2613
+D3
+~
+~
+0 0 2609
+S
+#2613
+{8Bend in the Catacombs{x~
+The Torches seem to have gotten Brighter. The Hallway takes a sharp
+turn to the south, where you make out the faint glow of candles.  To 
+the west, the hallway extends.
+~
+0 8200 0
+D2
+~
+~
+0 0 2614
+D3
+~
+~
+0 0 2612
+S
+#2614
+{8Tomb of an Unknown Priest{x~
+Before you lies an imacculate Tomb.  There is no trace of dirt or rust 
+on the Tomb.  I circle of strange red candles surrond the tomb.
+the only exit is to the North.
+~
+0 8200 0
+D0
+~
+~
+0 0 2613
+D5
+~
+~
+1 0 2615
+S
+#2615
+{8Amidst the Broken Bones{x~
+You Smash face first into the rotting corpses.  A wave of nausea passes
+over you.  As you regain your composure, and brush off the dirt on 
+your armor, you see a Blinding light to the west.  You would do well
+to proceed with caution.
+~
+0 8 0
+D3
+~
+~
+1 0 2616
+S
+#2616
+{8Before the {&Holy {7Ghost{x~
+You Stand in AWE of the Being before you.  Its Bright Light all but
+blinds you to anything else, but its granduer.  You stand in contemplation
+of all your mistakes, vices, and misgivings.  You feel your soul quiver
+with anticipation.  You dont know if there is a way out of this room.
+~
+0 73736 0
+D1
+~
+~
+1 0 2615
+D3
+~
+~
+4 2673 2617
+S
+#2617
+{8The True Tomb of {7Saint Kellam{x~
+There seems to be a unnatural light emmanating from no where in this
+room.  A single Tomb lies at the center of the room.  A quiet humming
+fills your ears as a sense of great power emits from the tomb.  Are you
+worthy of recieving such power?
+~
+0 532488 0
+D1
+~
+~
+4 0 2616
+S
+#2618
+{3West Balance way{x~
+From the look of things this area appears to be the poorer side of town.
+Dark alley ways, and shifty people move in and out of the street.  
+Bright flashing lights and music Come from a door to the North, as 
+does the smell of good food.  It would appear that even this dark
+district has a haven.  To the Far west is a graveyard.
+~
+0 0 1
+D0
+~
+~
+1 0 2637
+D1
+~
+~
+0 0 2603
+D3
+~
+~
+0 0 2619
+S
+#2619
+{2Before the {8Graveyard{x~
+The Gates to the GraveYard appear rusted from disuse.  The wind blows
+at your back, seemingly pushing you to the west.  A glance through the
+Gates reveals rows and rows of Tombstones.  Some Appear to be erroded
+down to almost nothing, a testimant to time itself.  The only exit is
+to the east, back on to Balance way.
+~
+0 0 1
+D1
+~
+~
+0 0 2618
+D3
+~
+~
+1 0 2620
+S
+#2620
+{8Among the Tombstones{x~
+Rows and rows of graves fill your vision, a product of the great war
+that claimed the lives of many of the heroes of this city.  You pause 
+at that thought.  Do you even know the name of this city?  A dark cloud
+hangs low overhead, even with the wind, it appears unmoving.  The
+gates lie to the east.  The Graveyard continues to the south and west.
+~
+0 8193 1
+D1
+~
+~
+1 0 2619
+D2
+~
+~
+0 0 2622
+D3
+~
+~
+0 0 2621
+S
+#2621
+{8Among the Tombstones{x~
+As you tread through the rows of graves, you notice a Dark building to
+the west.  It appears dark and empty.  You wonder what type of building
+would be in a GraveYard?  The Graveyard continues to the east and south.
+~
+0 8193 1
+D1
+~
+~
+0 0 2620
+D2
+~
+~
+0 0 2623
+D3
+~
+~
+3 0 2624
+S
+#2622
+{8Among the Tombstones~
+Rows of Fresh graves line the area in front of you.  While the City
+does not appear to be mobilizing for war, it would appear that it is 
+always ready for new bodies to show up. The Graveyard continues to the
+north and the west.
+~
+0 8192 0
+D0
+~
+~
+0 0 2620
+D3
+~
+~
+0 0 2623
+S
+#2623
+{8Among the Tombstones{x~
+This appears to be the oldest area of the Graveyard.  The Names on the
+tombstones seem so archaeic that you can barely read them.  Another
+thought crosses your mind, How old is this city?  A Raven caws in the
+distance seeming to mock your very question.  The Graveyard continues 
+to the north and the east.
+~
+0 0 0
+D0
+~
+~
+0 0 2621
+D1
+~
+~
+0 0 2622
+S
+#2624
+{2The {8Mortuary{x~
+As you enter the Mortuary, you look around, and see a single coffin
+at the center of the room.  The benches that should be filled with
+mourners are strangely empty.  A single candle burns, casting strange
+shadows about the room.  Something is not right here.  The only exit
+is a door to the east, back into the Graveyard.
+~
+0 8 0
+D1
+~
+~
+3 0 2621
+D5
+~
+~
+3 0 2625
+S
+#2625
+{8At the Bottom of the Mortuary stairs{x~
+As you descend the stairs, you wonder why a mortuary would have a hidden
+staircase.  You can make out many sets of footprints through the dust on
+the floor.  This pathway is obviously used quite often.  Your only exits
+are back up the stairs into the Mortuary, or south into depths unknown.
+~
+0 8201 0
+D2
+~
+~
+0 0 2626
+D4
+~
+~
+3 0 2624
+S
+#2626
+{2Inside the {8Dungeon{x~
+This is not making any sense to you as to why there is a dungeon below
+the Mortuary.  The Dungeon branches off into three directions, North
+to the Stair case, south into a dark hallway, and east into a dark room
+~
+0 8200 0
+D0
+~
+~
+0 0 2625
+D1
+~
+~
+0 0 2628
+D2
+~
+~
+0 0 2627
+S
+#2627
+{2A bend in the {8Dungeon {2Hallway{x~
+Torches along the wall light your path.  The Hallway extends to the 
+North, and to the east.
+~
+0 8200 0
+D0
+~
+~
+0 0 2626
+D1
+~
+~
+0 0 2629
+S
+#2628
+{2Alcove in the {8Dungeon{x~
+Many tables fill this room.  Piles of clothes and armor are upon each 
+one.  Upon closter examination you realize that blood is soaked into
+all the piles.  The only exit is to the west.
+~
+0 8200 0
+D3
+~
+~
+0 0 2626
+S
+#2629
+{2A {8Dungeon {2Hallway{x~
+Torches along the wall light your path.  The Hallway extends to the
+east and the west.
+~
+0 8200 0
+D1
+~
+~
+0 0 2631
+D3
+~
+~
+0 0 2627
+S
+#2630
+{2The {1Torture {2Chamber{x~
+This Large room Contains many impliments of torture.  A large rack is
+at the center, with the Iron Maiden adjacent.  A table with surgical
+equipment is covered in huge amounts of blood.  The only exit from this
+gruesome room is to the south.
+~
+0 8200 0
+D2
+~
+~
+0 0 2631
+S
+#2631
+{2A T-shaped Intersection in the {8Dungeon{x~
+The Hallway comes to an abrubt stop.  Sceaming echos from the north.
+glancing about you see a dark room to the south, although you can make
+out anything due to the darkness, the stench of death is heavy there.
+A single stone block appears cracked at your feet.  
+~
+0 8200 0
+D0
+~
+~
+0 0 2630
+D2
+~
+~
+0 0 2632
+D3
+~
+~
+0 0 2629
+D5
+~
+~
+1 0 2633
+S
+#2632
+{2A Pile of Corpses{x~
+A huge pile of limbs, and bodies lie at your feet.  The pile is so high
+that is is almost touching the raftors of the ceiling.  Drainage gates
+let the blood flow out of the room and into the floor, where you here
+the sound of rushing water.  The Only exit is to the north.
+~
+0 8201 0
+D0
+~
+~
+0 0 2631
+S
+#2633
+{2The Broken Stairs Below the {8Dungeon{x~
+The broken stairs creak as you walk upon them.  More then once a stair 
+gives way and you almost tumble to your demise.  At the foot of the 
+stairs is a pile of limbs, heads and organs in a big metal basin.  All
+the blood and fluid seems to have been drained out.  To the North is
+a door with rays of light poking from underneath the door.  Up the stairs
+leads to the dungeon.
+~
+0 9 0
+D0
+~
+~
+1 0 2634
+D4
+~
+~
+1 0 2631
+S
+#2634
+{2The Lost {@Labratory{x~
+As you enter the {@Labratory{x The stench of chemicals makes you dizzy 
+for a moment.  Mismatched limbs lay half put together on metal tables
+Human heads, matched with giants torsos, matched again with Gremlin
+wings.  The atrocity of it makes you sick.  Electricity dances on copper
+wires attached to the Corpses, bring jerky twitching movements.  There
+are two doors to this room one to the south, and one to the north that
+appears to have been reinforced on what already appears to be sturdy
+hinges fit for a banks vault.
+~
+0 8200 0
+D0
+~
+~
+4 2669 2635
+D2
+~
+~
+1 0 2633
+S
+#2635
+{2The Experiment gone {!Wrong!{x~
+As you open the door, you realize your folly, and in haste attempt to 
+close the door.  But you are too late. One of the beings many hands
+slam onto the door blocking it.  Your only option is to fight your
+way out to the south, and back into the labratory.
+~
+0 65801 0
+D2
+~
+~
+4 0 2634
+S
+#2636
+{4Highstreet{x~
+The Highstreet continues to the north and south.  The sounds of children
+playing mixed with the shouts of vendors, helps to relax your Nerves.'
+~
+0 0 1
+D0
+~
+~
+0 0 2643
+D2
+~
+~
+0 0 2603
+S
+#2637
+{2The {8Raven {2Bar and Grill{x~
+As you step into the building, your senses are overwhelmed.  Loud music
+is booming from the west.  The Smell of Smoke, and food emit from the
+north.  Sounds of fighting and screaming come from the east.  A set of
+stair lead up towards a Large man.  Welcome to the {8Raven{x a local 
+hangout for all the Naval Infantry Members.  The only exit is to the
+south, and out to Balance way.
+~
+0 8 0
+D0
+~
+~
+0 0 2783
+D1
+~
+~
+0 0 2784
+D2
+~
+~
+1 0 2618
+D3
+~
+~
+0 0 2675
+D4
+~
+~
+0 0 2638
+S
+#2638
+{2Outside the {8Raven's {2Brothel{x~
+The doorway to the west is a cheap looking frame.  Its a wonder that 
+it even stands.  But then again with the size of the bouncer, it may
+as well be a vault door.  Down the stairs leads back to the lobby of
+the {8Raven{x.  Or Perhaps you could negotiate with the boucer to 
+somehow go to the west.
+~
+0 0 0
+D3
+~
+~
+4 2674 2639
+D5
+~
+~
+0 0 2637
+S
+#2639
+{%The Boom Boom Room{x~
+You shyly step inside the room, and glance about.  A {%Pink{x 
+Heart-Shaped bed lies at the center of the room rotating.  Various
+oils and Lotions are on a nightstand near the bed.  The smell of 
+perfume wafts from all directions.  What you do from here is up to 
+you, "Big Boy".  The only exit is a door to the east.
+~
+0 0 0
+D1
+~
+~
+4 0 2638
+S
+#2640
+The {4Castle {$Training Grounds{x~
+The sounds of war fill your vision, even if only mock combat the 
+prowess of these warriors impresses even you.  Rows of training dummies
+are set before students while the castle Surgeon instructs on the
+proper use of bandages and herbs to save lives.  The training grounds 
+continue to the north.  To the west a barracks building stands proud
+~
+0 0 1
+D0
+~
+~
+0 0 2744
+S
+#2641
+{2The {3Great Library {2of Alexandretta{x~
+A great mass of books fill this room, all are scattered about and are in
+no apparant order. All the books you notice deal with religion, or the 
+gods.  The only exit is to the North
+~
+0 8 0
+D0
+~
+~
+0 0 2652
+S
+#2642
+{2The {#W{8i{3t{8c{#h{8-{#D{8o{3c{8t{#o{8r'{3s {2Hut{x~
+Light streams in from holes in the thatch building.  Shruken heads are 
+lined in neat rows.  Strange diagrams are drawn in the dirt on the floor.
+A small fire burns in the center of the room.  The only exit is to the
+north.
+~
+0 8 0
+D0
+~
+~
+0 0 2651
+S
+#2643
+{4Highstreet{x~
+The Highstreet continues to the North and South.  To the East is a 
+small Iron gate that appears to lead to some sort of Garden.
+To the north, appears to be a busy intersection.
+~
+0 0 1
+D0
+~
+~
+0 0 2650
+D1
+~
+~
+1 0 2644
+D2
+~
+~
+0 0 2636
+S
+#2644
+{2The {@Garden {2side Gate{x~
+The side gate to the {@Garden{x sways in the breeze.  To the west you
+hear the sounds of a busy street.  To the east the smell of {&Lotuses{X
+fill your nostrils.  To the North you make out what seems to be a dirt 
+path.
+~
+0 0 3
+D0
+~
+~
+0 0 2649
+D1
+~
+~
+0 0 2645
+D3
+~
+~
+1 0 2643
+S
+#2645
+{2By the {&Lotus {2Garden{x~
+{&Bright white Lotuses fill your vision.  The White of the flowers
+combined with the white of the cloudy sky, seems to envelope you.  To 
+the north you make out what appears to be a dirt path.  To the east
+you see some fallen {1Cherries{x{&.  To the west is what appears to be
+a side entrance into the {@Garden{x.
+~
+0 0 3
+D0
+~
+~
+0 0 2648
+D1
+~
+~
+0 0 2646
+D3
+~
+~
+0 0 2644
+S
+#2646
+{2By the {1Cherry {2Grove{x~
+{RRows and rows of cherry trees stand before you dropping their fruit
+at your feet.  To the North you make out the roots of a great tree.
+to the west you smell what appears to be {&Lotuses{x.
+~
+0 0 3
+D0
+~
+~
+0 0 2647
+D3
+~
+~
+0 0 2645
+S
+#2647
+{2Before the Tree of Knowledge{x~
+Before you stands a tree older then the surrounding mountains.  Its
+gnarled roots puntcture deep into the surrounding soil. Its trunk stands
+as thick as five men, and stretches to the sky.  The strange hue of the
+leaves, lets you believe that this tree is one of a kind.  Scrawled into
+the Trunk is the words "No Man should recieve such Power".  To the west
+is a dirt path.  To the north you see scattered {#Lillies{x, to the 
+south you make out what appears to be {1Cherrie{x Branches.
+~
+0 0 3
+D0
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2646
+D3
+~
+~
+0 0 2648
+S
+#2648
+{2A Lane through the {@Garden{x~
+The Dirt path continues to the east and west.  The Smell of {$Tullips{x
+drifts from the north.  From the south you make the faint scent of
+{&Lotuses{x.  To the east you make out the roots of a great tree.
+~
+0 0 3
+D0
+~
+~
+0 0 2661
+D1
+~
+~
+0 0 2647
+D2
+~
+~
+0 0 2645
+D3
+~
+~
+0 0 2649
+S
+#2649
+{2A Lane through the {@Garden{x~
+A small dirt path leads you through the Garden.  Its leafy paradise
+is a monument to Beauty.  The smell of {!Roses{x comes strongly from
+the north.  To the west you see a busy intersection. To the South you
+notice a gate.  The path continues to the east.
+~
+0 0 3
+D0
+~
+~
+0 0 2660
+D1
+~
+~
+0 0 2648
+D2
+~
+~
+0 0 2644
+D3
+~
+~
+0 0 2650
+S
+#2650
+{2Intersection of {4Highstreet{2, {!CaRnIvAL {2road{2, and {@Garden {2way{x ~
+This appears to be the busiest intersection of this city.  The Highstreet
+comes to an abrubt halt as to the north you can make out the castle
+gates.  To the East you see a small path leading through a garden.
+to the West you see total and utter {!Chaos{x  many so called freaks
+offer their services for the right amount of coin. {!CaRnIvAL{x road
+is like nothing you have ever seen before.  To the south is the Highstreet
+~
+0 0 0
+D0
+~
+~
+0 0 2659
+D1
+~
+~
+0 0 2649
+D2
+~
+~
+0 0 2643
+D3
+~
+~
+0 0 2651
+S
+#2651
+{!CaRnIvAL {2road{x~
+Freaks of all sorts line the streets here.  Many stand entertaining
+the spectators as they watch in awe.  Once a temporary thing in this
+city it has become a permament addition to the city after many years.
+To the east you see a busy intersection.  To the north a small sign
+with a glowing crystal ball catches your eyes.  To the south you see a 
+small straw hut.  The road continues to the west.
+~
+0 0 1
+D0
+~
+~
+0 0 2658
+D1
+~
+~
+0 0 2650
+D2
+~
+~
+0 0 2642
+D3
+~
+~
+0 0 2652
+S
+#2652
+{!CaRnIvAL {2road{x~
+Freaks of all sorts line the streets here.  Many stand entertaining
+the spectators as they watch in awe.  Once a temporary thing in this
+city it has become a permament addition to the city after many years.
+To the north you sea a small sign with a glowing vial.  To the south
+you see a sign with a book and various holy symbols surrounding it.
+the {!CaRnIvAL{x continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 2657
+D1
+~
+~
+0 0 2651
+D2
+~
+~
+0 0 2641
+D3
+~
+~
+0 0 2654
+S
+#2653
+{2A Bend in {!CaRnIvAL {2road{x~
+The road seems to take a sharp turn to the north.  The loud sounds of 
+hammering come from the west.  To the south a appears to be a circus,
+but it now appears closed.  The {!CaRnIvAL{x runs east and north.
+~
+0 0 1
+D0
+~
+~
+0 0 2691
+D1
+~
+~
+0 0 2654
+D3
+~
+~
+0 0 2655
+S
+#2654
+{!CaRnIvAL {2road{x~
+Freaks of all sorts line the streets here.  Many stand entertaining
+the spectators as they watch in awe.  Once a temporary thing in this
+city it has become a permament addition to the city after many years.
+To the north you see a a commotion of flashing lights and the jingling
+of money.  The {!CaRnIvAL{x continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 2656
+D1
+~
+~
+0 0 2652
+D3
+~
+~
+0 0 2653
+S
+#2655
+{2The Weaponsmaster's {#F{3o{&r{3g{#e{x~
+The sounds of hammering fill your ears. A blast of heat hits your face
+as huge bellows are pumped by two small goblins.  On display are weapons
+that you did not dream were possible to forge by human hands.  The only
+exit is to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 2653
+S
+#2656
+{2The {#C{%a{3s{5i{#n{%o{x~
+Flashing lights fill your vision as you enter the Casino.  Happy people
+shout as they win HUGE sums of money. Not so Happy people hang their heads
+in sorrow, realizing that they have lost everything.  Upwards a twisting
+staircase leads towards higher levels.  To the south is {!CaRnIvAL{x road.
+~
+0 264 0
+D2
+~
+~
+0 0 2654
+D4
+~
+~
+0 0 2683
+S
+#2657
+{2The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x~
+Rows of glass jars and vials fill this room.  A small fire burns on a 
+table heating up a strange tube filled with blue liquid.  Most of the
+potions are labeled some are not.  The only exit is to the South.
+~
+0 8 0
+D2
+~
+~
+0 0 2652
+S
+#2658
+{2The {^F{3o{6r{#t{^u{3n{6e {2Teller{x~
+A large Crystal ball stands at the center of the room.  Colored incense
+swirls in the air.  The star pattern of the inside of the tent gives the
+appearance of the night sky.  The only exit is to the south.
+~
+0 8 0
+D0
+~
+~
+3 0 2682
+D2
+~
+~
+0 0 2651
+S
+#2659
+Before the {4Castle {$Gates{x~
+The Castle portcullis is to the north.  The walls seem to be made of
+a single piece of blue stone that was carved, rather then built with
+stone and mortar.  The members of the Naval Infantry move in and out
+of the gates in formation.  To the south is a busy intersection.
+~
+0 0 1
+D0
+~
+~
+0 0 2746
+D2
+~
+~
+0 0 2650
+S
+#2660
+{2By the {!Rose {2Gardern{x~
+{!Before you lies a sea of red, so many Roses fill your view that it 
+seems almost unatural.  To the south you see a dirt path.  To the east
+you smell {$Tullips{x
+~
+0 0 3
+D1
+~
+~
+0 0 2661
+D2
+~
+~
+0 0 2649
+S
+#2661
+{2By the {$Tullip {2Garden{x~
+{$This entire section of the garden appears to be strictly for {$Tullips{$.
+The smell of the flowers seem to calm your fears.  To the south you
+see a dirth path.  To the west you smell the scent of {!Roses{x. {$To
+the east you see a few scattered {#Lillies{x.
+~
+0 0 3
+D1
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2648
+D3
+~
+~
+0 0 2660
+S
+#2662
+{2By the {#Lilly {2Garden{x~
+{#A sea of Yellow fills your vision.  The only plants in this section
+of the {@Garden{x{#, appear to be Lillies.  There is a small rusted
+gate leading to the east.  To the west you smell the faint scent of
+{$Tullips{x{#.  To the South you notice the roots of a great tree.{x
+~
+0 0 3
+D1
+~
+~
+3 0 2663
+D2
+~
+~
+0 0 2647
+D3
+~
+~
+0 0 2661
+S
+#2663
+{2Behind the {@Garden{x~
+You seem to have entered a small clearing behind the {@Garden{x. To
+the north a path continues north along the Castle wall.  To the west is
+a small gate to the {@Garden{x
+~
+0 0 1
+D0
+~
+~
+0 0 2664
+D3
+~
+~
+3 0 2662
+S
+#2664
+{2Along the {4Castle {2Outer Wall{x~
+The path along the outside of the wall, runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 2665
+D2
+~
+~
+0 0 2663
+S
+#2665
+{2Along the {4Castle {2Outer Wall{x~
+The path along the outside of the wall, runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 2671
+D2
+~
+~
+0 0 2664
+S
+#2666
+{8A Dark Tunnel{x~
+This tunnel seems freshly dug.  The tunnel extends to the east and west.
+~
+0 513 5
+D1
+~
+~
+0 0 2667
+D3
+~
+~
+0 0 2668
+S
+#2667
+{8Hidden Entrance to the {4Castle{x~
+Up above you, you make out the out-line of a door.  A dark tunnel
+extends to the west.
+~
+0 521 5
+D3
+~
+~
+0 0 2666
+D4
+~
+~
+3 0 2672
+S
+#2668
+{8A Dark Tunnel{x~
+This tunnel seems freshly dug.  The tunnel extends to the east and west.
+~
+0 513 5
+D1
+~
+~
+0 0 2666
+D3
+~
+~
+0 0 2669
+S
+#2669
+{8A Dark Tunnel{x~
+This tunnel seems freshly dug.  The tunnel extends to the east and west.
+~
+0 513 5
+D1
+~
+~
+0 0 2668
+D3
+~
+~
+0 0 2670
+S
+#2670
+{8Above a Prisoners Cell{x~
+You appear to be standing directly over a prisoners cell.  Could it be
+that one of the prisoners escaped?  The outline of a trap door is below
+you the Tunnel extends to the east.
+~
+0 513 0
+D1
+~
+~
+0 0 2669
+D5
+~
+~
+3 0 2730
+S
+#2671
+{2Along the {4Castle {2Outer Wall{x~
+The path along the outside of the wall, runs north and south.  A strange
+set of footprints disappears in the eastern direction.
+~
+0 0 0
+D0
+~
+~
+0 0 2673
+D1
+~
+~
+1 0 2672
+D2
+~
+~
+0 0 2665
+S
+#2672
+{2A {8Hidden {2Clearing{x~
+You stand in the center of a clearing in the surrounding forrest.  A 
+set of footprints seems to vanish into Nothing.
+~
+0 0 0
+D3
+~
+~
+1 0 2671
+D5
+~
+~
+3 0 2667
+S
+#2673
+{2North-East Corner of the {4Castle {2Outer Wall{x~
+The path continues west , or south along the outer wall of the castle.
+~
+0 0 1
+D2
+~
+~
+0 0 2671
+D3
+~
+~
+0 0 2674
+S
+#2674
+{2Behind the {4Castle {2Outer Wall{x~
+The path continues east and west along the outside of the castle wall.
+~
+0 0 1
+D1
+~
+~
+0 0 2673
+D3
+~
+~
+0 0 2676
+S
+#2675
+{2The {8Raven's {!D{^A{$N{@C{%E {2Floor{x~
+The Flashing lights, and loud music leave you disoriented for a moment.
+As you regain your sense you look around and see that the Dance floor
+is packed with people.  Men, and women dance, seemingly oblivious to 
+everyone but their partner.  The only exit is to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 2637
+S
+#2676
+{2Behind the {4Castle {2Outer Wall{x~
+The path continues east and west along the outside of the castle wall.
+~
+0 0 1
+D1
+~
+~
+0 0 2674
+D3
+~
+~
+0 0 2677
+S
+#2677
+{2Behind the {4Castle {2Outer Wall{x~
+The path continues east and west along the outside of the castle wall.
+~
+0 0 1
+D1
+~
+~
+0 0 2676
+D3
+~
+~
+0 0 2678
+S
+#2678
+{2Behind the {4Castle {2Outer Wall{x~
+The path continues east and west along the outside of the castle wall.
+~
+0 0 1
+D1
+~
+~
+0 0 2677
+D3
+~
+~
+0 0 2679
+S
+#2679
+{2North-West Corner of the {4Castle {2Outer Wall{x~
+The path continues east or south along the outside of the castle wall.
+~
+0 0 1
+D1
+~
+~
+0 0 2678
+D2
+~
+~
+0 0 2680
+S
+#2680
+{2Between the {!CaRnIvAL{2, and {4Castle {2Wall{x~
+The Path continues behind the {!CaRnIvAL{x Tents, and along the western wall.
+~
+0 0 1
+D0
+~
+~
+0 0 2679
+D2
+~
+~
+0 0 2681
+S
+#2681
+{2Between the {!CaRnIvAL{2, and {4Castle {2Wall{x~
+The Path continues behind the {!CaRnIvAL{x Tents, and along the western wall.
+~
+0 0 1
+D0
+~
+~
+0 0 2680
+D2
+~
+~
+0 0 2682
+S
+#2682
+{2Between the {!CaRnIvAL{2, and {4Castle {2Wall{x~
+The Path continues behind the {!CaRnIvAL{x Tents, and along the western wall.
+The path ends at the back of one the tents.  You make out a rip in
+the tents fabric to the south.
+~
+0 0 1
+D0
+~
+~
+0 0 2681
+D2
+~
+~
+3 0 2658
+S
+#2683
+{2The {#S{%{3l{5o{#t{%M{3a{5c{#h{%i{3n{5{#e{x~
+Before you stands a Huge Slot Machine.  It towers above you reaching almost
+the ceiling.  Strange gods appear on the faces of the Machine, as you
+watch them spin.  A long line of people appear to be waiting to use the
+machine.  A staircase spirals up and down.
+~
+0 264 0
+D4
+~
+~
+0 0 2684
+D5
+~
+~
+0 0 2656
+S
+#2684
+{YThe {YB{Ml{ya{mc{Yk{MJ{ya{mc{Yk {YTable{x~
+Before you stands a HUGE BlackJack table.  It seats almost twenty people,
+with even more people standing around watching.  HUGE sums of money are
+won or lost with the flip of every card, with the crowd cheering or 
+sighing everytime.  A spiraling staircase leads downward.
+~
+0 264 0
+D5
+~
+~
+0 0 2683
+S
+#2685
+{2Before the {6Twin {2Towers of {8Negativity{x~
+Before you is the base of the {&White{x Tower.  Its length stretches
+skyward where a strange Lightning dances from the tip of this tower, to
+the tip of a {8Dark{x tower far to the east.  You feel a faint tingling
+to the north.  To the south is a small road.
+~
+0 134217728 1
+D0
+~
+~
+1 0 2693
+D2
+~
+~
+0 0 2686
+S
+#2686
+{2A Silent Trail{x~
+As you step onto this road you realize something is amiss.  The are no
+birds chirping, even the sounds of your footsteps seem to be lost. As
+you raise your voice in alarm even that comes out silent.  To the south
+is {!CaRnIvAL{x road.  To the North is a {&white{x spire touching the
+Heavens.
+~
+0 134217728 1
+D0
+~
+~
+0 0 2685
+D2
+~
+~
+0 0 2688
+S
+#2687
+{2The {^Metaphysician{x~
+This shop contains numerous tables, and glass tanks.  Inside the tanks
+you notice are living appendages, and creatures that will be spliced 
+and combined as the Metaphysician sees fit.  On a Table you see a 
+elf with newly grafted wings.  The only exit is to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 2688
+S
+#2688
+{!CaRnIvAL {2road{x~
+Freaks of all sorts line the streets here.  Many stand entertaining
+the spectators as they watch in awe.  Once a temporary thing in this
+city it has become a permament addition to the city after many years.
+To the east you see a sign with a sandwich with what appears to be fingers
+hanging out.  To the west you see a small sign with a scalpel and hammer
+crossed.  To the south the {!CaRnIvAL{x continues.  To the North the 
+road turns into a small trail.
+~
+0 0 1
+D0
+~
+~
+0 0 2686
+D1
+~
+~
+0 0 2689
+D2
+~
+~
+0 0 2691
+D3
+~
+~
+0 0 2687
+S
+#2689
+{2The {!Cannibal {#Snack {!Shack{x~
+As you enter this small Tiki Hut, The smell of food cooking fills your
+nostrils.  A glass case displays newly butchered meat. Three Cannibals
+watch you hugrily.  The only exit is to the west.
+~
+0 8 0
+D3
+~
+~
+0 0 2688
+S
+#2690
+{2The {7Silver-Smith{x~
+Glass cases display this shops fine wares.  Small Gnomes are heating
+wax that will be used to give the silver its shape.  Silver inlaid with
+jewels cover most of the pieces.  You wonder how much these fine pieces
+will cost you.  The only exit is to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 2691
+S
+#2691
+{!CaRnIvAL {2road{x~
+Freaks of all sorts line the streets here.  Many stand entertaining
+the spectators as they watch in awe.  Once a temporary thing in this
+city it has become a permament addition to the city after many years.
+To the east you hear the loud clang of Hammer on steel. To the west
+you see a small sign picturing a silver necklace encrusted with jewels.
+The {!CaRnIvAL{x runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 2688
+D1
+~
+~
+0 0 2692
+D2
+~
+~
+0 0 2653
+D3
+~
+~
+0 0 2690
+S
+#2692
+{2The Armorer's {#F{3o{&r{3g{#e{x~
+The sounds of hammering fill your ears as the Armorer pounds away at
+a new piece of mail.  A gleam catches your eye as two child dwarves
+vigorously polish their fathers newest creation.  Sets of Armor stand
+on display, waiting to be bought.  For the proper price of course.
+~
+0 8 0
+D3
+~
+~
+0 0 2691
+S
+#2693
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+To the north the tower continues. To the south is the Exit to the tower.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2698
+D2
+~
+~
+1 0 2685
+S
+#2694
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the north and west.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2697
+D3
+~
+~
+0 0 2695
+S
+#2695
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the north and east.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2696
+D1
+~
+~
+0 0 2694
+S
+#2696
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the north and south.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2699
+D2
+~
+~
+0 0 2695
+S
+#2697
+{2Before a set of {&White {2Stairs{x~
+{&Before you a set of white stairs extend upward, seemingly forver.
+To the south is the white hallway that extends on the base floor.{x
+~
+0 134226184 0
+D2
+~
+~
+0 0 2694
+D4
+~
+~
+0 0 2702
+S
+#2698
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the North and south.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2693
+S
+#2699
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the east and south.{x
+~
+0 134226184 0
+D1
+~
+~
+0 0 2700
+D2
+~
+~
+0 0 2696
+S
+#2700
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the east and west.{x
+~
+0 134226184 0
+D1
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2699
+S
+#2701
+{2Base of the {&White {2Tower{x~
+{&The room appears white and emtpy of all decorations.  The walls seem
+to have no edges, that curve seemlessly into the ceiling and floor.
+The hallway continues to the west and south.{x
+~
+0 134226184 0
+D2
+~
+~
+0 0 2698
+D3
+~
+~
+0 0 2700
+S
+#2702
+{2Atop the {&White {2Stairs{x~
+{&At the top of the stairs, another hallway extend to the north.  You
+glace down and cannot begain to tell the distance to the next floor.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2704
+D5
+~
+~
+0 0 2697
+S
+#2703
+{2Before a set of {&White {2Stairs{x~
+{&As the hallway comes to an end you stand at the base of another set
+of stairs, that extend upward.  Its distance is udecernable.  To the north
+is this floors hallway.{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2705
+D4
+~
+~
+0 0 2706
+S
+#2704
+{2Climbing the {&White {2Tower{x~
+{&This hallway appears the same as the one on the first floor.  Its walls
+devoid of all pleasantry and decoration.  It appears that these walls
+were carved rather then built. The hallway extends to the east and south{x
+~
+0 134226184 0
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2702
+S
+#2705
+{2Climbing the {&White {2Tower{x~
+{&This hallway appears the same as the one on the first floor.  Its walls
+devoid of all pleasantry and decoration.  It appears that these walls
+were carved rather then built. The hallway extends to the west and south{x
+~
+0 134226184 0
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2704
+S
+#2706
+{2Atop the {&White {2Stairs{x~
+{&As you stand atop the Stairway, you are again amazed at the length
+in which they descend to the north another hallway extends{x
+~
+0 134226184 0
+D0
+~
+~
+0 0 2709
+D5
+~
+~
+0 0 2703
+S
+#2707
+{2Before the {%Energy Bridge{x~
+{&The hallway from the north comes to an abrubt end, and you turn your
+attention to the east.  A large hole appears to have been carved out
+the wall, and the night sky fills your vision, mixed with crackling
+{%Energy.{X
+~
+0 134226184 0
+D0
+~
+~
+0 0 2708
+D1
+~
+~
+0 0 2710
+S
+#2708
+{2Atop the {&White {2Tower{x~
+{&The same white hallway that was on the first and second floors is before
+you, The same blank walls, same curving passageways.  In fact you arent
+even sure what floor you are on.  The Hallway continues to the west and south.{x
+~
+0 134226184 0
+D2
+~
+~
+0 0 2707
+D3
+~
+~
+0 0 2709
+S
+#2709
+{2Atop the {&White {2Tower{x~
+{&The same white hallway that was on the first and second floors is before
+you, The same blank walls, same curving passageways.  In fact you arent
+even sure what floor you are on.  The Hallway continues to the east and south.{x
+~
+0 134226184 0
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2706
+S
+#2710
+{%Energy Bridge{x~
+The {%energy{X crackling around you brings spasm of pain to your fragile
+body.  As you gaze down you look upon the city, if not for this terrible
+pain this might be a wonderous view.  To the west a large hole in the
+{&White{x tower provides relief from this pain.  Other wise the {%energy{x
+bridge continues to the east{x
+~
+0 1073741824 9
+D1
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2707
+S
+#2711
+{%Energy Bridge{x~
+As you aproach the center of the bridge the pain increases by a ten fold
+the {%energy{x bridge continues to the east and west.
+~
+0 1073741824 9
+D1
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2710
+S
+#2712
+{%Energy Bridge{x~
+Pain seems to flow through your body, as you hang in the beam of the
+{%Energy{x bridge.  To the west the Bridge continues.  To the east a 
+gaping hole in the side of a {8Dark{x tower offers relief from this
+torment.
+~
+0 1073741824 9
+D1
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2711
+S
+#2713
+{2Before the {%Energy Bridge{x~
+{8A large whole in the west side of the wall shows a glimpse of 
+{%Electricity{X {8and the night sky.  To the north a dark hallway
+beckons.{X
+~
+0 134226185 0
+D0
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2712
+S
+#2714
+{2Atop the {8Black {2Tower{x~
+{8The darkness before you is almost tangible.  The walls of this room
+are of the pitchest black, making even your light almost worthless.
+You think the hallway continues to the east and south.{x
+~
+0 134226185 0
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2713
+S
+#2715
+{2Atop the {8Black {2Tower{x~
+{8The darkness before you is almost tangible.  The walls of this room
+are of the pitchest black, making even your light almost worthless.
+You think the hallway continues to the west and south.{x
+~
+0 134226185 0
+D2
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2714
+S
+#2716
+{2Atop the {8Black {2Stairs{x~
+{8As you walk your feet step over a stair and you almost plumit to your
+death.  With out a railing descending these stairs will be difficult.
+to the north you think the hallway contiues{x
+~
+0 134226185 0
+D0
+~
+~
+0 0 2715
+D5
+~
+~
+0 0 2717
+S
+#2717
+{2Before a set of {8Black {2Stairs{x~
+{8As you feel a small gust of wind against your neck, you think there
+is a stairway leading upward.  The Darkness mixed with the blackness
+of the walls makes it impossible to see anything but yourself.  You
+think the Hallway continues to the south.{x
+~
+0 134226185 0
+D2
+~
+~
+0 0 2719
+D4
+~
+~
+0 0 2716
+S
+#2718
+{2Atop the {8Black {2Stairs{x~
+{8As you walk, you have learned to be more cautious with the darkness
+in this area, and thankfully it pays off.  You feel the edge of a step
+leading downward.  To the South the hallway continues, you think.{x
+~
+0 134226185 0
+D2
+~
+~
+0 0 2720
+D5
+~
+~
+0 0 2723
+S
+#2719
+{2Descending the {8Black {2Tower{x~
+{8As you stumble through the darkness, you are again frustrated at the 
+lack of light in this accursed place.  You think the hallway contiues
+to the north and to the east.{x
+~
+0 134226185 0
+D0
+~
+~
+0 0 2717
+D1
+~
+~
+0 0 2720
+S
+#2720
+{2Descending the {8Black {2Tower{x~
+{8As you stumble through the darkness, you are again frustrated at the 
+lack of light in this accursed place.  You think the hallway contiues
+to the north and to the west.{x
+~
+0 134226185 0
+D0
+~
+~
+0 0 2718
+D3
+~
+~
+0 0 2719
+S
+#2721
+{2Base of the {8Black {2Tower{x~
+{8The darkness surrounds you, but you walk faster as you near the end.  
+To the east the hallway continues, and to the south the humming persists.{x
+~
+0 134226185 0
+D1
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2724
+S
+#2722
+{2Base of the {8Black {2Tower{x~
+{8The darkness surrounds you, but you are no longer afraid.  To the
+east the hallway continues, and to the west the humming persists.{x
+~
+0 134226185 0
+D1
+~
+~
+0 0 2723
+D3
+~
+~
+0 0 2721
+S
+#2723
+{2Before a set of {8Black {2Stairs{x~
+{8The stairway before you is no suprise your cautious efforts have payed
+off and the ascending stairs do not make you trip.  To the west you hear
+a soft humming.{x
+~
+0 134226185 0
+D3
+~
+~
+0 0 2722
+D4
+~
+~
+0 0 2718
+S
+#2724
+{2Base of the {8Black {2Tower{x~
+{8The darkness surrounds you, but you walk faster as you near the end.  
+To the north the hallway continues, and to the south the humming grows
+louder.{x
+~
+0 134226185 0
+D0
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2727
+S
+#2725
+{2Chamber of the {8NuLL {7Stone{x~
+{8NuLL{7Stone{x insanity {8NuLL{7Stone{x plays {8NuLL{7Stone{x upon
+{8NuLL{7Stone{x your {8NuLL{7Stone{x mind {8NuLL{7Stone{x as {8NuLL{7Stone{x
+you {8NuLL{7Stone{x enter {8NuLL{7Stone{x this {8NuLL{7Stone{x room
+{8NuLL{7Stone{x you {8NuLL{7Stone{x can {8NuLL{7Stone{x only {8NuLL{7Stone{x
+think {8NuLL{7Stone{x of {8NuLL{7Stone{x one {8NuLL{7Stone{x thing {8NuLL{7Stone{x
+the {8NuLL{7Stone{x.
+~
+0 256 0
+D1
+~
+~
+4 0 2726
+S
+#2726
+{2Before the {#Power Source{x~
+Power seems to eminate from this room.  Strange magical symbols are
+inscribed on every strange device in this room.  All the devices seem 
+to make up the walls here, then flow smoothly into the darkness to the
+south.  To the west a vault door blocks your way.
+~
+0 134226185 0
+D2
+~
+~
+1 0 2729
+D3
+~
+~
+4 2670 2725
+S
+#2727
+{2Base of the {8Black {2Tower{x~
+{8The darkness surrounds you, but you walk faster as you near the end.  
+To the north the hallway continues, and to the east the humming grows
+louder.{x
+~
+0 134226185 0
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2728
+S
+#2728
+{2Base of the {8Black {2Tower{x~
+{8The darkness surrounds you, but you walk faster as you near the end.  
+To the west the hallway continues, and to the east the humming grows
+almost unbearable.{x
+~
+0 134226185 0
+D1
+~
+~
+0 0 2729
+D3
+~
+~
+0 0 2727
+S
+#2729
+{2Base of the {8Black {2Tower{x~
+{8The Darkess begans to dissipate as a soft glow comes from the north.
+You began to actually feel the humming eminating from the north.
+To the west is the familiar blackness that you associate with this place.{x
+~
+0 134226185 0
+D0
+~
+~
+1 0 2726
+D3
+~
+~
+0 0 2728
+S
+#2730
+{8Prison Cell{x~
+A pile of hay and some rotting food are the only things in this cell.
+the only exit is to the south.
+~
+0 9 0
+D2
+~
+~
+1 0 2731
+D4
+~
+~
+3 0 2670
+S
+#2731
+{8Prison Hallway{x~
+The shouting intensifys as you walk between the cells.  Cries for help
+and mercy come from all directions.  The smell of rotting food and body
+odor almost makes you heave in nausia.  The Prison hallway continues to
+the west.  To the north and south are the cells of the castle prisoners.
+On the floor a granite slab covered in locked chains blocks the path
+downward.
+~
+0 8 0
+D0
+~
+~
+1 0 2730
+D2
+~
+~
+1 0 2732
+D3
+~
+~
+0 0 2734
+D5
+~
+~
+3 0 2736
+S
+#2732
+{8Prison Cell{x~
+A pile of hay and some rotting food are the only things in this cell.
+the only exit is to the north.
+~
+0 9 0
+D0
+~
+~
+1 0 2731
+S
+#2733
+{8Prison Cell{x~
+A pile of hay and some rotting food are the only things in this cell.
+the only exit is to the south.
+~
+0 9 0
+D2
+~
+~
+1 0 2734
+S
+#2734
+{8Prison Hallway~
+The shouting intensifys as you walk between the cells.  Cries for help
+and mercy come from all directions.  The smell of rotting food and body
+odor almost makes you heave in nausia.  The Prison hallway continues to
+the east and west.  To the north and south are the cells of the castle
+prisoners.
+~
+0 8 0
+D0
+~
+~
+1 0 2733
+D1
+~
+~
+0 0 2731
+D2
+~
+~
+1 0 2735
+D3
+~
+~
+0 0 2739
+S
+#2735
+{8Prison Cell{x~
+A pile of hay and some rotting food are the only things in this cell.
+the only exit is to the north.
+~
+0 9 0
+D0
+~
+~
+1 0 2734
+S
+#2736
+{8Maximum Security Area{x~
+As you enter the Maximum security area, you notice rows of guards waiting
+in anticipation for the prisoner to attempt escape...Again.  The walls
+appear to be reinforced with steel bars.  Upward is the exit to the 
+regular prison area.  The Maximum security area continues to the east.
+~
+0 8201 0
+D1
+~
+~
+0 0 2737
+D4
+~
+~
+3 0 2731
+S
+#2737
+{8Maximum Security Area{x~
+As you enter the Maximum security area, you notice rows of guards waiting
+in anticipation for the prisoner to attempt escape...Again.  The walls
+appear to be reinforced with steel bars.  To the east a Huge door made 
+of solid steel, blocks your entry.  To the west the Maximum security area
+continues
+~
+0 8201 0
+D1
+~
+~
+4 2671 2738
+D3
+~
+~
+0 0 2736
+S
+#2738
+{8Maximum Security Prison Cell{x~
+There is nothing in this room.  Anything in which the prisoner could get 
+his hands on has been removed.  Even his food is thrown on the floor.
+The only exit is through the steel door to the west.
+~
+0 9 0
+D3
+~
+~
+4 2671 2737
+S
+#2739
+{8Before the Dungeon{x~
+As you glance to the east you see the hallway continue, flanked by rows  
+of prison cells.  A quick glance westward reminds you, that you can still
+exit to the west and out of this accursed place.
+~
+0 8 0
+D1
+~
+~
+0 0 2734
+D3
+~
+~
+0 0 2740
+S
+#2740
+{8At the bottom of the Dungeon Stairs{x~
+Moans of agony, and screams of pain fill your ears.  A dark staircase
+spirals upward, and a dim hallway leads east.
+~
+0 8 0
+D1
+~
+~
+0 0 2739
+D4
+~
+~
+0 0 2741
+S
+#2741
+{8Down the Dungeon Stairs{x~
+The smell of must and sweat come from the depths below.  You turn your
+face upwards and inhale in an attempt to get a breath of fresh air. 
+The stairway spirals down and upward.
+~
+0 9 0
+D4
+~
+~
+0 0 2753
+D5
+~
+~
+0 0 2740
+S
+#2742
+Barracks~
+Hundreds of Bunkbeds line the squad bay.  Footlockers rest at the foot
+of each Bed.  Soldiers sit up them some polishing their boots, some
+writing family that they may never see again.  you cannot believe how
+clean this bay is.  To the north the barracks continues.  
+~
+0 8 0
+D0
+~
+~
+0 0 2743
+S
+#2743
+Barracks~
+Hundreds of Bunkbeds line the squad bay.  Footlockers rest at the foot
+of each one.  Soldiers sit up them some polishing their boots, some
+writing family that they may never see again.  you cannot believe how
+clean this bay is.  To the south the barracks continues.  To the east
+is the training grounds
+~
+0 8 0
+D1
+~
+~
+1 0 2744
+D2
+~
+~
+0 0 2742
+S
+#2744
+The {4Castle {$Training Grounds{x~
+The sounds of war fill your vision, even if only mock combat the 
+prowess of these warriors impresses even you.  Rows of training dummies
+are set before students while the castle Blademaster instructs on the
+vital areas for stabbing and slashing.  The training grounds continue
+to the south.  To the west a barracks building stands. to the east is
+the castle courtyard.
+~
+0 0 1
+D1
+~
+~
+0 0 2745
+D2
+~
+~
+0 0 2640
+D3
+~
+~
+1 0 2743
+S
+#2745
+The {4Castle {$Courtyard{x~
+The castle courtyard extends in four directions.  To the east the smell
+of hay and animals lead you to believe that is the location to the 
+stables.  To the west the sounds of clanging steel and warcries, indicate
+the castle training grounds.  To the north a set of large doors mark
+the entryway to the castle.  To the south you see the path to the main
+gate.
+~
+0 0 1
+D0
+~
+~
+0 0 2759
+D1
+~
+~
+0 0 2747
+D2
+~
+~
+0 0 2746
+D3
+~
+~
+0 0 2744
+S
+#2746
+Courtyard entrance~
+The Castle courtyard stretches to the north.  Many of the castles servants
+and soldiers run doing errands, and helpig their king in anyway they can.
+To the south is the castle gates.
+~
+0 0 1
+D0
+~
+~
+0 0 2745
+D2
+~
+~
+0 0 2659
+S
+#2747
+The {3Stables{x~
+Many rows of individual pens line the stables.  Each on containg a 
+suitable mount for one of the Naval infantry elite.  Hay barrels are
+being broken down to provide food for the hungry equinnes.  The stable
+continues to the east.  To the west is the castle Courtyard.
+~
+0 0 1
+D1
+~
+~
+0 0 2748
+D3
+~
+~
+0 0 2745
+S
+#2748
+The {3Stables{x~
+Many rows of individual pens line the stables.  Each on containg a 
+suitable mount for one of the Naval infantry elite.  Stable boys run back
+and fourth trying to satisfy the orders of the {3StableMaster{X. The
+stables continue to the west.
+~
+0 0 1
+D3
+~
+~
+0 0 2747
+S
+#2749
+Hallway~
+The hallway seems dimly lit.  This section of the palace does not seem
+as finely furnished as the rest.  To the east you see an intersection
+of the Hallway, otherwise the hallway continues to the west.
+~
+0 8 0
+D1
+~
+~
+0 0 2758
+D3
+~
+~
+0 0 2761
+S
+#2750
+The {6Palace {$Entryway{x~
+As you enter the palace, the passage way splits in two directions, east
+and west.  As you glance upward you see a second floor and a Dark set 
+of Doors.  There is no way to reach them from here.  To the south is the
+palace exit.
+~
+0 8 0
+D1
+~
+~
+0 0 2751
+D2
+~
+~
+3 0 2759
+D3
+~
+~
+0 0 2758
+S
+#2751
+A T-shaped Intersection of the {6Palace{x~
+You come to a T-shaped intersection.  To the east you smell the scent 
+of Food cooking and the sounds of conversation.  To the north you see
+an ornate set of stairs.  To the west the Hallway continues.
+~
+0 8 0
+D0
+~
+~
+0 0 2752
+D1
+~
+~
+0 0 2755
+D3
+~
+~
+0 0 2750
+S
+#2752
+Before a {#Gilded {$Stairway{x~
+Before you is an ornate Stairway stretching to the upper levels of the
+Palace.  To the east you see a stone archway guarded by many guards.
+To the south you see a intersection of the Hallway.
+~
+0 8 0
+D1
+~
+~
+0 0 2753
+D2
+~
+~
+0 0 2751
+D4
+~
+~
+0 0 2767
+S
+#2753
+Stairs to the {4Castle {8Dungeon{x~
+A large stone arch ecompasses the room.  A dark set of stone stairs,
+spiral down into the darkness.  As you try peeking downward, you recieve
+a harsh glare from on of the guards.  To the west is a Hallway.
+~
+0 8 0
+D3
+~
+~
+0 0 2752
+D5
+~
+~
+0 0 2741
+S
+#2754
+The {2Kitchen{x~
+Pots and pans clang, as food is being prepared.  The Master Chef's voice
+barks out orders to the scullery boys who try to keep up with his demands.
+Numerous cooks prepare exotic dishes for the king and his guests. to the
+south is the Dining Hall.
+~
+0 8 0
+D2
+~
+~
+0 0 2756
+S
+#2755
+The Dining Hall~
+A long table extands from this room and far to the east.  Food and wine
+of all variety sit upon the great table.  Servents rush back and forth 
+in an attempt to satisfy all of the guests of the King.  The dining room
+continues to the east.  To the west is a Hallway.
+~
+0 0 0
+D1
+~
+~
+0 0 2756
+D3
+~
+~
+0 0 2751
+S
+#2756
+The Dining Hall~
+A long table extands from this room and far to the west.  Food and wine
+of all variety sit upon the great table.  Servents rush back and forth 
+in an attempt to satisfy all of the guests of the King.  The dining room
+continues to the west.  To the north is the Kithchen.
+~
+0 8 0
+D0
+~
+~
+0 0 2754
+D3
+~
+~
+0 0 2755
+S
+#2757
+Before a {#Gilded {$Stairway{x~
+Before you is an ornate stairway stretching to the upper levels of the
+Palace.  To the south you see an intersection of the Hallway.
+~
+0 0 0
+D2
+~
+~
+0 0 2758
+D4
+~
+~
+0 0 2773
+S
+#2758
+A T-shaped Intersection of the {6Palace{x~
+You come to a T-shaped intersection, to the east and west the hallway
+continues.  To the North you see an ornate set of stairs.
+~
+0 8 0
+D0
+~
+~
+0 0 2757
+D1
+~
+~
+0 0 2750
+D3
+~
+~
+0 0 2749
+S
+#2759
+Before the {6Palace {$Doors{x~
+A Pair of Ornate doors block your way to the north.  The exquisite
+craftsmanship astounds you.  as you peer upward you notice a dark cloud
+hangs low directly over the castle, as if some unseem force corrupts
+this castle and all its inhabitants.  To the south is the castle courtyard.
+~
+0 0 1
+D0
+~
+~
+3 0 2750
+D2
+~
+~
+0 0 2745
+S
+#2760
+Servants Chambers{x~
+A shabby bed lies at the center of the room.  A small desk and lamp
+are provided to the servents but nothing else.  The only exit is to the
+south
+~
+0 8 0
+D2
+~
+~
+1 0 2761
+S
+#2761
+Hallway~
+This hallway seems undecorated, and almost vacant.  A few servents rush
+past in silence as if hoping not to get tasked for extra duty.  The
+hallway continues east and west.  To the north and south you see sets 
+of doors.
+~
+0 8 0
+D0
+~
+~
+1 0 2760
+D1
+~
+~
+0 0 2749
+D2
+~
+~
+1 0 2762
+D3
+~
+~
+0 0 2764
+S
+#2762
+Servants Chambers{x~
+A shabby bed lies at the center of the room.  A small desk and lamp
+are provided to the servents but nothing else.  The only exit is to the
+north.
+~
+0 8 0
+D0
+~
+~
+1 0 2761
+S
+#2763
+Servants Chambers{x~
+A shabby bed lies at the center of the room.  A small desk and lamp
+are provided to the servents but nothing else.  The only exit is to the
+north.
+~
+0 8 0
+D0
+~
+~
+1 0 2764
+S
+#2764
+Hallway~
+This hallway seems undecorated, and almost vacant.  A few servents rush
+past in silence as if hoping not to get tasked for extra duty.  The
+hallway continues to the east.  To the north and south you see sets of doors.
+~
+0 8 0
+D0
+~
+~
+1 0 2765
+D1
+~
+~
+0 0 2761
+D2
+~
+~
+1 0 2763
+S
+#2765
+Servants Chambers~
+A shabby bed lies at the center of the room.  A small desk and lamp
+are provided to the servents but nothing else.  The only exit is to the
+south.
+~
+0 0 0
+D2
+~
+~
+1 0 2764
+S
+#2766
+Before the {8Master's {$Chamber{x~
+Two Great Ebony doors stand before you.  Ornate carvings of angels on
+one door are contrasted by the Dark carvings of Demons on the other.
+From underneath the door you see the flickerings of dim light.  The
+hallway continues to the east and west.
+~
+0 8 0
+D0
+~
+~
+3 0 2771
+D1
+~
+~
+0 0 2767
+D3
+~
+~
+0 0 2773
+S
+#2767
+Atop a {#Gilded {$Stairway{x~
+At the top of the stairway, a grand hallway extends to the east and
+west.  Downward the stairs lead to the castles lower level.
+~
+0 8 0
+D1
+~
+~
+0 0 2768
+D3
+~
+~
+0 0 2766
+D5
+~
+~
+0 0 2752
+S
+#2768
+Hallway~
+Before you to the east is a set of Doors.  You wonder who would have 
+the Honor of staying so close to the Master.  The hallway continues to 
+west towards a staircase.
+~
+0 8 0
+D1
+~
+~
+1 0 2769
+D3
+~
+~
+0 0 2767
+S
+#2769
+The {5Concubines {$Chamber{x~
+A elegant sense of beauty has gone into the furnishing of this room.
+A Silk bed is at the center of the room, it is so large that it takes
+up nearly half the space in the room.  The scent of Oils and perfume,
+waft from a small table near the bed.  To the west is a doorway.
+~
+0 8 0
+D3
+~
+~
+1 0 2768
+D4
+~
+~
+3 0 2770
+S
+#2770
+Atop a {8Secret {$Passage{x~
+Hidden atop the Concubines room led the entrance to this passage.  You 
+wonder what could be so valuable that would make someone design a entrance
+such as this.  To the east is the smell of fresh blood and decay. Downward
+lies the entrance to the concubines room.
+~
+0 8 0
+D1
+~
+~
+0 0 2778
+D5
+~
+~
+3 0 2769
+S
+#2771
+The {8Master's {$Study{x~
+As you enter the study you notice the thousands of books all neatly lined
+on ebony book cases.  As you glance at some of the titles, you notice
+that you are unable to make out the languages of some, and others the
+title has worn away with time.  The are two sets of doors, one to the 
+north, and one to the south.
+~
+0 8 0
+D0
+~
+~
+3 2672 2777
+D2
+~
+~
+3 0 2766
+S
+#2772
+The {#T{3R{#E{3A{#S{3U{#R{3E {$room{x~
+A great amount of wealth has been accumulated in this room.  Piles of 
+coins and jewels lay at your feet.  Ornate weapons lay on displays
+that hold as much beauty as the weapons themselves.  Armor so brightly
+polished that it hurts your eyes, lays among fine silks.  To the south
+is a set of vault doors.
+~
+0 8 0
+D2
+~
+~
+2 0 2778
+S
+#2773
+Atop a {#Gilded {$Stairway{x~
+At the top of the stairway, a grand hallway extends to the east and
+west.  Downward the stairs lead to the castles lower level.
+~
+0 8 0
+D1
+~
+~
+0 0 2766
+D3
+~
+~
+0 0 2774
+D5
+~
+~
+0 0 2757
+S
+#2774
+Hallway{x~
+Before you to the north is a set of Doors.  To the east the hallway continues
+to a set of stairs.
+~
+0 8 0
+D0
+~
+~
+1 0 2776
+D1
+~
+~
+0 0 2773
+S
+#2775
+The {3Library{x~
+As you Stand in the Library, thousands upon thousands of books fill your
+vision.  They are all nicely kept and appear to be sorted by subject.
+To the North the Library continues.
+~
+0 8 0
+D0
+~
+~
+0 0 2779
+S
+#2776
+The {3Library{x~
+As you Stand in the Library, thousands upon thousands of books fill your
+vision.  They are all nicely kept and appear to be sorted by subject.
+To the west the Library continues.  To the south there is a set of Doors.
+~
+0 8 0
+D2
+~
+~
+1 0 2774
+D3
+~
+~
+0 0 2779
+S
+#2777
+The {8Master's {$Chamber{x~
+Many exotic pieces of weaponry line the walls of this room.  A large
+bed is at the North wall, that appears to have never been used.  An
+altar to Christ is along the western wall.  The only exit is through
+the doors to the south.
+~
+0 65536 0
+D2
+~
+~
+3 2672 2771
+S
+#2778
+Amidst the {!Carnage{x~
+Pile of broken bodies lie here half eaten and dismembered.  The walls
+of this stone room are splashed in blood.  At your feet pools of blood
+begain to soak into your boots.  To the north a set of Iron vault doors
+block your way.  To the west leads an easy escape from this grissly room.
+~
+0 8200 0
+D0
+~
+~
+4 2679 2772
+D3
+~
+~
+0 0 2770
+S
+#2779
+A {8Dark {$Corner of the {3Library{x~
+This section appears to be filled with books that the librarian is trying
+to forget rather then Keep.  Books on the Occult and Satanism line the
+walls.  A great sense of evil seem to emminate from below.  The library
+continues to the east and south.
+~
+0 8 0
+D1
+~
+~
+0 0 2776
+D2
+~
+~
+0 0 2775
+D5
+~
+~
+3 0 2780
+S
+#2780
+{8Below the {3Library{x~
+The darkness of this room unerves you.  Upward a set of stairs leads to
+a hidden door.  To the north you see a faint glow.
+~
+0 9 0
+D0
+~
+~
+0 0 2781
+D4
+~
+~
+3 0 2779
+S
+#2781
+{8A {!T{3o{1r{#c{!h{3l{1i{#T {8Hallway{x~
+A row of torches line the wall illuminating an otherwise empty hallway
+as you walk your footsteps echo in the hall.  You must be getting close.
+the Hallway continues to the east and south.
+~
+0 8 0
+D1
+~
+~
+0 0 2782
+D2
+~
+~
+0 0 2780
+S
+#2782
+{8Before the Ebony Door{x~
+Before you to the East stands a great door made of Ebony wood.  Enscrawled
+upon it is a Great tree.  You swear that you have seen this Tree before,
+but where?  Strange whisper fill your ears, as they talk of power and
+Knowledge.  To the west is a Hallway.
+~
+0 0 0
+D1
+~
+~
+4 2668 10476
+D3
+~
+~
+0 0 2781
+S
+#2783
+{2The {8Raven {2Bar{x~
+A huge Oak bar stands in front of you, bottles of multi-colored liquid
+hang upside down.  The acrid smell of smoke fills your nostrils.
+Sawdust rustles as you make your way to the bar.  the only exit is to 
+south.
+~
+0 8 0
+D2
+~
+~
+0 0 2637
+S
+#2784
+{2The {8Raven {2Dueling Pit{x~
+"Enter The Arena"  a booming voice echos.  You can smell the dried 
+blood caked on the walls of this room.  One Bloody competetor walks
+slowly walks out of the Pit.  The other competetor is dragged out.
+This is where all disputes are settled, if you have the stomach for it.
+The only exit is to the west.
+~
+0 8 0
+D3
+~
+~
+0 0 2637
+S
+#2785
+Hall of {!S{1l{!a{1u{!g{1h{!t{1e{!r{x~
+Blood and gristle cover the walls of this hall.  Weaponry lays discarded
+and in a dissaray upon the floor.  No decorations are present except for 
+the mangled bodies that lay on the ground.
+~
+0 8196 0
+D2
+~
+~
+0 0 2786
+S
+#2786
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2785
+S
+#0
+
+
+
+#SPECIALS
+M 2600 spec_breath_any Load to: {8Cain the son of {6Adam{x
+M 2601 spec_breath_fire Load to: {8The {!G{1u{!a{1r{!d{1i{!a{1n {8Beast{x
+M 2602 spec_cast_mage Load to: {8The Warden{x
+M 2604 spec_breath_fire Load to: {8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x
+M 2621 spec_executioner Load to: {!Gunter{x
+M 2622 spec_executioner Load to: {!Povel{x
+M 2635 spec_cast_adept Load to: {^Rikki{x
+M 2662 spec_thief Load to: A {&C{7h{8u{7r{&ch{x {7Goer{x
+M 2664 spec_breath_gas Load to: A {8ZoMbIe{x
+M 2682 spec_questmaster Load to: {#C{%a{3r{5s{#o{%n{x
+M 2683 spec_executioner Load to: The Lord of {!S{1l{!a{1u{!g{1h{!t{1e{!r{x
+S
+
+
+
+#RESETS
+D 0 2607 5 2 The down door of {7Before the Altar{x is closed and locked
+D 0 2608 4 2 The up door of {8Cathedral Catacombs{x is closed and locked
+D 0 2614 5 1 The down door of {8Tomb of an Unknown Priest{x is closed
+D 0 2615 3 1 The west door of {8Amidst the Broken Bones{x is closed
+D 0 2616 3 2 The west door of {8Before the {&Holy {7Ghost{x is closed and locked
+D 0 2617 1 2 The east door of {8The True Tomb of {7Saint Kellam{x is closed and locked
+D 0 2618 0 1 The north door of {3West Balance way{x is closed
+D 0 2619 3 1 The west door of {2Before the {8Graveyard{x is closed
+D 0 2620 1 1 The east door of {8Among the Tombstones{x is closed
+D 0 2621 3 2 The west door of {8Among the Tombstones{x is closed and locked
+D 0 2624 1 2 The east door of {2The {8Mortuary{x is closed and locked
+D 0 2624 5 2 The down door of {2The {8Mortuary{x is closed and locked
+D 0 2625 4 2 The up door of {8At the Bottom of the Mortuary stairs{x is closed and locked
+D 0 2631 5 1 The down door of {2A T-shaped Intersection in the {8Dungeon{x is closed
+D 0 2633 0 1 The north door of {2The Broken Stairs Below the {8Dungeon{x is closed
+D 0 2633 4 1 The up door of {2The Broken Stairs Below the {8Dungeon{x is closed
+D 0 2634 0 2 The north door of {2The Lost {@Labratory{x is closed and locked
+D 0 2634 2 1 The south door of {2The Lost {@Labratory{x is closed
+D 0 2635 2 2 The south door of {2The Experiment gone {!Wrong!{x is closed and locked
+D 0 2637 2 1 The south door of {2The {8Raven {2Bar and Grill{x is closed
+D 0 2638 3 2 The west door of {2Outside the {8Raven's {2Brothel{x is closed and locked
+D 0 2639 1 2 The east door of {%The Boom Boom Room{x is closed and locked
+D 0 2658 0 2 The north door of {2The {^F{3o{6r{#t{^u{3n{6e {2Teller{x is closed and locked
+D 0 2662 1 2 The east door of {2By the {#Lilly {2Garden{x is closed and locked
+D 0 2663 3 2 The west door of {2Behind the {@Garden{x is closed and locked
+D 0 2667 4 2 The up door of {8Hidden Entrance to the {4Castle{x is closed and locked
+D 0 2670 5 2 The down door of {8Above a Prisoners Cell{x is closed and locked
+D 0 2671 1 1 The east door of {2Along the {4Castle {2Outer Wall{x is closed
+D 0 2672 3 1 The west door of {2A {8Hidden {2Clearing{x is closed
+D 0 2672 5 2 The down door of {2A {8Hidden {2Clearing{x is closed and locked
+D 0 2682 2 2 The south door of {2Between the {!CaRnIvAL{2, and {4Castle {2Wall{x is closed and locked
+D 0 2685 0 1 The north door of {2Before the {6Twin {2Towers of {8Negativity{x is closed
+D 0 2693 2 1 The south door of {2Base of the {&White {2Tower{x is closed
+D 0 2725 1 2 The east door of {2Chamber of the {8NuLL {7Stone{x is closed and locked
+D 0 2726 2 1 The south door of {2Before the {#Power Source{x is closed
+D 0 2726 3 2 The west door of {2Before the {#Power Source{x is closed and locked
+D 0 2729 0 1 The north door of {2Base of the {8Black {2Tower{x is closed
+D 0 2730 2 2 The south door of {8Prison Cell{x is closed and locked
+D 0 2730 4 2 The up door of {8Prison Cell{x is closed and locked
+D 0 2731 0 2 The north door of {8Prison Hallway{x is closed and locked
+D 0 2731 2 2 The south door of {8Prison Hallway{x is closed and locked
+D 0 2731 5 2 The down door of {8Prison Hallway{x is closed and locked
+D 0 2732 0 2 The north door of {8Prison Cell{x is closed and locked
+D 0 2733 2 2 The south door of {8Prison Cell{x is closed and locked
+D 0 2734 0 2 The north door of {8Prison Hallway is closed and locked
+D 0 2734 2 2 The south door of {8Prison Hallway is closed and locked
+D 0 2735 0 2 The north door of {8Prison Cell{x is closed and locked
+D 0 2736 4 2 The up door of {8Maximum Security Area{x is closed and locked
+D 0 2737 1 2 The east door of {8Maximum Security Area{x is closed and locked
+D 0 2738 3 2 The west door of {8Maximum Security Prison Cell{x is closed and locked
+D 0 2743 1 1 The east door of Barracks is closed
+D 0 2744 3 1 The west door of The {4Castle {$Training Grounds{x is closed
+D 0 2750 2 1 The south door of The {6Palace {$Entryway{x is closed
+D 0 2759 0 1 The north door of Before the {6Palace {$Doors{x is closed
+D 0 2760 2 1 The south door of Servants Chambers{x is closed
+D 0 2761 0 1 The north door of Hallway is closed
+D 0 2761 2 1 The south door of Hallway is closed
+D 0 2762 0 1 The north door of Servants Chambers{x is closed
+D 0 2763 0 1 The north door of Servants Chambers{x is closed
+D 0 2764 0 1 The north door of Hallway is closed
+D 0 2764 2 1 The south door of Hallway is closed
+D 0 2765 2 1 The south door of Servants Chambers is closed
+D 0 2766 0 1 The north door of Before the {8Master's {$Chamber{x is closed
+D 0 2768 1 1 The east door of Hallway is closed
+D 0 2769 3 1 The west door of The {5Concubines {$Chamber{x is closed
+D 0 2769 4 2 The up door of The {5Concubines {$Chamber{x is closed and locked
+D 0 2770 5 2 The down door of Atop a {8Secret {$Passage{x is closed and locked
+D 0 2771 0 2 The north door of The {8Master's {$Study{x is closed and locked
+D 0 2771 2 1 The south door of The {8Master's {$Study{x is closed
+D 0 2772 2 2 The south door of The {#T{3R{#E{3A{#S{3U{#R{3E {$room{x is closed and locked
+D 0 2774 0 1 The north door of Hallway{x is closed
+D 0 2776 2 1 The south door of The {3Library{x is closed
+D 0 2777 2 2 The south door of The {8Master's {$Chamber{x is closed and locked
+D 0 2778 0 2 The north door of Amidst the {!Carnage{x is closed and locked
+D 0 2779 5 2 The down door of A {8Dark {$Corner of the {3Library{x is closed and locked
+D 0 2780 4 2 The up door of {8Below the {3Library{x is closed and locked
+D 0 2782 1 2 The east door of {8Before the Ebony Door{x is closed and locked
+M 0 2658 10 2601 1 *Load A {$C{4i{$t{4i{$z{4e{$n{x
+M 0 2660 1 2602 1 *Load A {!Re{1cr{!ui{1te{!r{x
+M 0 2661 2 2602 2 *Load A {!young{w man{x
+M 0 2658 10 2603 1 *Load A {$C{4i{$t{4i{$z{4e{$n{x
+M 0 2659 4 2603 1 *Load A {#B{3e{#g{3g{#a{3r{x
+M 0 2662 4 2603 1 *Load A {&C{7h{8u{7r{&ch{x {7Goer{x
+M 0 2662 4 2604 1 *Load A {&C{7h{8u{7r{&ch{x {7Goer{x
+M 0 2662 4 2605 1 *Load A {&C{7h{8u{7r{&ch{x {7Goer{x
+M 0 2662 4 2606 1 *Load A {&C{7h{8u{7r{&ch{x {7Goer{x
+M 0 2663 1 2607 1 *Load {wA {DPr{Wie{Dst{x
+E 0 2618 0 21 *{7the word of {&g{#o{&d{x is loaded on the ears of {wA {DPr{Wie{Dst{x
+M 0 2669 6 2609 1 *Load A {&Ghost{x
+M 0 2669 6 2610 1 *Load A {&Ghost{x
+M 0 2669 6 2611 1 *Load A {&Ghost{x
+M 0 2669 6 2612 1 *Load A {&Ghost{x
+M 0 2669 6 2613 1 *Load A {&Ghost{x
+M 0 2670 1 2614 1 *Load {8Catacomb{x {&G{7u{3a{#r{&d{#i{3a{&n{x
+M 0 2669 6 2614 1 *Load A {&Ghost{x
+M 0 2606 1 2616 1 *Load {&The H{#o{&ly Gh{#o{&st{x
+G 0 2685 0 *{wa benevolant sphere{x is given to {&The H{#o{&ly Gh{#o{&st{x
+G 0 2673 0 *A {&holy{x key is given to {&The H{#o{&ly Gh{#o{&st{x
+O 0 2611 0 2617 *A tomb loaded to {8The True Tomb of {7Saint Kellam{x
+P 0 2612 1 2611 1 *{&ivory h{3e{&lm of {&gl{3o{&ry{x put inside {&Ivory H{3e{&lm of {&Gl{3o{&ry{x
+P 0 2613 1 2611 1 *{&ivory {&g{3i{&rth of {&f{3ai{&th{x put inside {&Ivory {&G{3i{&rth of {&F{3ai{&th{x
+P 0 2614 1 2611 1 *{&ivory {&l{3e{&gpl{3a{&t{3e{&s of {&h{3u{&m{3i{&l{3i{&ty{x put inside {&Ivory {&L{3e{&gpl{3a{&t{3e{&s of {&H{3u{&m{3i{&l{3i{&ty{x
+P 0 2615 1 2611 1 *{&ivory {3a{&rmpl{3a{&t{3e{&s of {&h{3o{&p{3e{x put inside {&Ivory {3A{&rmpl{3a{&t{3e{&s of {&H{3o{&p{3e{x
+P 0 2616 1 2611 1 *{&ivory {&b{3oo{&ts of {&p{3e{&n{3a{&nc{3e{x put inside {&Ivory {&B{3oo{&ts of {&P{3e{&n{3a{&nc{3e{x
+P 0 2617 1 2611 1 *{&ivory {&cl{3oa{&k of {&tr{3u{&th{x put inside {&Ivory {&Cl{3oa{&k of {&Tr{3u{&th{x
+M 0 2659 4 2618 1 *Load A {#B{3e{#g{3g{#a{3r{x
+M 0 2659 4 2619 1 *Load A {#B{3e{#g{3g{#a{3r{x
+M 0 2664 8 2620 2 *Load A {8ZoMbIe{x
+M 0 2664 8 2621 3 *Load A {8ZoMbIe{x
+M 0 2664 8 2622 1 *Load A {8ZoMbIe{x
+M 0 2664 8 2623 2 *Load A {8ZoMbIe{x
+M 0 2665 10 2625 1 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2665 10 2626 2 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2665 10 2627 2 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2665 10 2628 2 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2665 10 2629 1 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2667 1 2630 1 *Load The {!Int{1err{8o{1rga{!tor{x
+E 0 2631 0 16 *{wa surgical scalpel{x is loaded wielded of The {!Int{1err{8o{1rga{!tor{x
+E 0 2632 0 21 *{!s{1c{!r{1e{!a{1m{!s {8of {1agony{x is loaded on the ears of The {!Int{1err{8o{1rga{!tor{x
+M 0 2665 10 2631 1 *Load A {8Dungeon {@La{2ck{@ey{x
+M 0 2666 3 2632 3 *Load A {1c{1o{&rp{!s{1e {@E{2a{@t{2e{@r{x
+M 0 2607 1 2634 1 *Load {@The M{8a{@d Doctor{x
+G 0 2669 0 *The {@labratory{x key is given to {@The M{8a{@d Doctor{x
+M 0 2604 1 2635 1 *Load {8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x
+E 0 2628 0 27 *{8a {!dis{1fig{8uring mark{x is loaded as a patch of {8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x
+E 0 2629 0 17 *{8hate{x is loaded held in the hands of {8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x
+E 0 2630 0 9 *Dried {1blood{x is loaded on the hands of {8The {!A{1b{8o{!m{1i{8n{!a{1t{8i{!o{1n{x
+M 0 2615 1 2637 1 *Load {^Jared{x
+M 0 2618 1 2638 1 *Load {^Dave{x
+G 0 2674 0 *The {%boom boom room{x key is given to {^Dave{x
+M 0 2635 1 2640 1 *Load {^Rikki{x
+M 0 2634 4 2640 2 *Load A {1Recruit{x
+M 0 2646 1 2641 1 *Load The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2601 0 *{$th{#o{$r's {7faith in {#t{3h{#u{3n{#d{3e{#r{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2602 0 *{&o{7di{&n's {7faith in {&c{7r{8e{8a{2t{2i{@o{@n{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2603 0 *{!h{1el's {7faith of {8the dead{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2604 0 *{@l{8o{2k{8i'{@s {7faith in {@g{2u{2i{@le{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2605 0 *{^s{6if'{^s {7faith of the {$s{4h{8ie{7l{&d{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2606 0 *{rf{de{dnr{di{rr{ds {dfaith in {rdes{dtru{rtio{rn{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2607 0 *{^m{8o{6d{&i{6'{8s {7faith in {^wr{8a{^th{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2608 0 *{bjo{crm{bun{cgu{bnd{cs {dfaith in {gp{gois{go{gn{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+G 0 2609 0 *{!m{5a{1g{%n{!i{5'{!s {7faith in {!might{x is given to The {3High {#S{3c{#h{3o{#l{3a{#r{x of {3Theology{x
+M 0 2644 1 2642 1 *Load The {#W{8i{3t{8c{#h{8-{#D{8o{3c{8t{#o{8r{x
+E 0 2645 0 17 *{8a {@p{3o{2i{#s{@o{3n{x {8dart{x is loaded held in the hands of The {#W{8i{3t{8c{#h{8-{#D{8o{3c{8t{#o{8r{x
+M 0 2642 3 2645 3 *Load A {&Lotus Dryad{x
+M 0 2641 3 2646 3 *Load A {1Cherry Dryad{x
+O 0 2666 0 2647 *The tree of {4knowledge{x loaded to {2Before the Tree of Knowledge{x
+P 0 2667 1 2666 1 *A {@s{2n{@a{2k{@e{x coiled around a {!red apple{x put inside a {@S{2n{@a{2k{@e{x coiled around a {!Red Apple{x
+P 0 2668 1 2666 1 *A key from the tree of {4knowledge{x put inside a Key from the tree of {4Knowledge{x
+M 0 2653 9 2651 2 *Load A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X
+M 0 2654 7 2651 2 *Load The {8Bearded {5Lady{x
+M 0 2657 5 2651 1 *Load A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x
+M 0 2656 3 2651 1 *Load A {^M{2e{6r{@m{^a{2i{6d{x
+M 0 2654 7 2652 1 *Load The {8Bearded {5Lady{x
+M 0 2657 5 2652 2 *Load A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x
+M 0 2655 6 2652 2 *Load A {$C{6y{4c{^l{$o{6p{4s{x
+M 0 2654 7 2653 1 *Load The {8Bearded {5Lady{x
+M 0 2653 9 2653 3 *Load A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X
+M 0 2656 3 2653 1 *Load A {^M{2e{6r{@m{^a{2i{6d{x
+M 0 2654 7 2654 2 *Load The {8Bearded {5Lady{x
+M 0 2653 9 2654 2 *Load A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X
+M 0 2655 6 2654 2 *Load A {$C{6y{4c{^l{$o{6p{4s{x
+M 0 2648 1 2655 1 *Load {7Al {#P{3o{7lk{&ow{3s{#ki{x
+G 0 2651 0 *Replica of {$mj{4ol{8ln{7i{&r{x is given to {7Al {#P{3o{7lk{&ow{3s{#ki{x
+G 0 2652 0 *The slender spear "{3gu{#ng{7i{&r{x" is given to {7Al {#P{3o{7lk{&ow{3s{#ki{x
+G 0 2653 0 *The sword "{&la{7ev{8at{1ei{!nin{x" the wounding wand is given to {7Al {#P{3o{7lk{&ow{3s{#ki{x
+G 0 2654 0 *An etched harvesting scythe is given to {7Al {#P{3o{7lk{&ow{3s{#ki{x
+M 0 2682 1 2656 1 *Load {#C{%a{3r{5s{#o{%n{x
+M 0 2678 3 2656 3 *Load A {YS{Mh{yo{Mw{YG{Mi{yr{ml{x
+M 0 2645 1 2657 1 *Load The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+G 0 2646 0 *A {!red{x vial labeled "protection" is given to The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+G 0 2647 0 *A {#glowing{x vial labeled "holy"{x is given to The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+G 0 2648 0 *A {^blue{x vial labeled "heal" is given to The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+G 0 2649 0 *A {&g{7r{8a{7y{x vial labeled "remove" is given to The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+G 0 2650 0 *A vial with a disembodied {@e{#y{@e{x inside. is given to The {^P{6o{^t{6i{^o{6n {!T{1e{!s{1t{!e{1r{x
+M 0 2643 1 2658 1 *Load The {^F{3o{6r{#t{^u{3n{6e{x Teller
+M 0 2637 2 2659 2 *Load A {$Gate{x Guard
+M 0 2638 3 2660 3 *Load A {RRose Dryad{x
+M 0 2639 3 2661 3 *Load A {$Tullip Dryad{x
+M 0 2640 3 2662 3 *Load A {#Lilly Dryad{x
+M 0 2614 1 2675 1 *Load {^Kube{x
+M 0 2619 3 2675 3 *Load A Girl
+O 0 2600 0 2683 *The {#s{3l{5o{#t{%m{3a{5c{#h{%i{3n{#e{x loaded to {2The {#S{%{3l{5o{#t{%M{3a{5c{#h{%i{3n{5{#e{x
+M 0 2647 1 2684 1 *Load {#J{%i{3m{5m{#y{x
+M 0 2652 1 2687 1 *Load {^Metaphysician{x
+M 0 2653 9 2688 2 *Load A {!F{3i{1r{#e{!B{3r{1e{#a{!t{3h{1e{#r{X
+M 0 2657 5 2688 1 *Load A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x
+M 0 2656 3 2688 1 *Load A {^M{2e{6r{@m{^a{2i{6d{x
+M 0 2651 1 2689 1 *Load {!Alfred{x 
+G 0 2663 0 *A shrunken head is given to {!Alfred{x 
+G 0 2664 0 *A {!liver{x is given to {!Alfred{x 
+G 0 2665 0 *A {$b{4r{&a{4i{$n{x is given to {!Alfred{x 
+M 0 2650 1 2690 1 *Load {WTr{we{Wva{x
+G 0 2660 0 *A {bblue diamond{x is given to {WTr{we{Wva{x
+G 0 2661 0 *A cubic zirconium is given to {WTr{we{Wva{x
+M 0 2654 7 2691 2 *Load The {8Bearded {5Lady{x
+M 0 2657 5 2691 1 *Load A {@S{2n{#a{@k{3e {@D{2a{@n{2c{@e{2r{x
+M 0 2655 6 2691 2 *Load A {$C{6y{4c{^l{$o{6p{4s{x
+M 0 2649 1 2692 1 *Load {#H{3a{7th{#C{3o{7ck{x
+G 0 2655 0 *{8^*^*neck guard*^*^{x is given to {#H{3a{7th{#C{3o{7ck{x
+G 0 2656 0 *{8^*^*wrist guard*^*^{x is given to {#H{3a{7th{#C{3o{7ck{x
+G 0 2657 0 *The {7benty {@g{2r{@a{2n{@g{2e {7helmet{x is given to {#H{3a{7th{#C{3o{7ck{x
+G 0 2658 0 *"{#s{3v{#a{3l{#i{3n{x" the shield before the {#sun{x is given to {#H{3a{7th{#C{3o{7ck{x
+G 0 2659 0 *Cloak of "{!v{1a{!l{1l{!a{1n{!d{x" is given to {#H{3a{7th{#C{3o{7ck{x
+M 0 2674 8 2693 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2694 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2695 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2696 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2698 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2699 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2700 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2674 8 2701 1 *Load An {&Apprentice of Light{x
+E 0 2638 0 1 *{&ring of {8da{&wn{x is loaded on the left finger of An {&Apprentice of Light{x
+M 0 2675 3 2703 1 *Load A {&Mage of Light{x 
+E 0 2639 0 12 *{&t{$w{8i{4l{&i{$g{8h{4t {&cloak{x is loaded about the shoulders of A {&Mage of Light{x 
+M 0 2675 3 2704 1 *Load A {&Mage of Light{x 
+E 0 2639 0 12 *{&t{$w{8i{4l{&i{$g{8h{4t {&cloak{x is loaded about the shoulders of A {&Mage of Light{x 
+M 0 2675 3 2705 1 *Load A {&Mage of Light{x 
+E 0 2639 0 12 *{&t{$w{8i{4l{&i{$g{8h{4t {&cloak{x is loaded about the shoulders of A {&Mage of Light{x 
+M 0 2676 2 2708 1 *Load A {&Sorcerer of Light{x
+E 0 2642 0 3 *{&crest of illumination{x is loaded around the neck (1) of A {&Sorcerer of Light{x
+M 0 2676 2 2709 1 *Load A {&Sorcerer of Light{x
+E 0 2642 0 3 *{&crest of illumination{x is loaded around the neck (1) of A {&Sorcerer of Light{x
+M 0 2673 2 2714 1 *Load A {8Dark Sorcerer{x
+E 0 2641 0 3 *{8crest of {8darkness{x is loaded around the neck (1) of A {8Dark Sorcerer{x
+M 0 2673 2 2715 1 *Load A {8Dark Sorcerer{x
+E 0 2641 0 3 *{8crest of {8darkness{x is loaded around the neck (1) of A {8Dark Sorcerer{x
+M 0 2672 3 2717 1 *Load A {8Dark Mage{x
+E 0 2640 0 12 *{8m{$i{8d{4n{8i{$g{8h{4t {8cloak{x is loaded about the shoulders of A {8Dark Mage{x
+M 0 2672 3 2719 1 *Load A {8Dark Mage{x
+E 0 2640 0 12 *{8m{$i{8d{4n{8i{$g{8h{4t {8cloak{x is loaded about the shoulders of A {8Dark Mage{x
+M 0 2672 3 2720 1 *Load A {8Dark Mage{x
+E 0 2640 0 12 *{8m{$i{8d{4n{8i{$g{8h{4t {8cloak{x is loaded about the shoulders of A {8Dark Mage{x
+M 0 2671 7 2721 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2671 7 2722 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2671 7 2723 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2671 7 2724 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+O 0 2636 0 2725 *{8null{7stone{x loaded to {2Chamber of the {8NuLL {7Stone{x
+M 0 2610 1 2726 1 *Load {8The Sorcerer of {6Negativity{x
+E 0 2633 0 16 *Staff of the {8under{$wo{4rld{x is loaded wielded of {8The Sorcerer of {6Negativity{x
+E 0 2634 0 25 *Mark of the {!so{1rc{3er{#er{&s{x guild is loaded as a clan patch of {8The Sorcerer of {6Negativity{x
+G 0 2670 0 *The {#power room{x key is given to {8The Sorcerer of {6Negativity{x
+M 0 2671 7 2727 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2671 7 2728 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2671 7 2729 1 *Load A {8Dark Apprentice{x
+E 0 2637 0 1 *{8ring of {7du{8sk{x is loaded on the left finger of A {8Dark Apprentice{x
+M 0 2679 1 2732 1 *Load {#Electrom{x
+M 0 2680 1 2733 1 *Load {$Tur{^o{$k{x
+M 0 2681 1 2735 1 *Load {1Morpheous{x
+M 0 2677 7 2736 2 *Load A {8Jailer{x
+M 0 2602 1 2737 1 *Load {8The Warden{x
+G 0 2671 0 *The {8maximum security{x key is given to {8The Warden{x
+M 0 2608 1 2738 1 *Load {8Grail{x
+E 0 2624 0 20 *A calm visage{x is loaded on the face of {8Grail{x
+E 0 2626 0 25 *Mark of the {@as{2sa{8ss{7in{&s{x guild{x is loaded as a clan patch of {8Grail{x
+E 0 2635 0 23 *A small boot knife is loaded around the left ankle of {8Grail{x
+G 0 2627 0 *{6a glass shard{x is given to {8Grail{x
+G 0 2625 0 *A wicked looking knife is given to {8Grail{x
+M 0 2677 7 2741 5 *Load A {8Jailer{x
+M 0 2636 10 2742 5 *Load A {!M{3a{1r{#i{!n{3e{x
+M 0 2636 10 2743 5 *Load A {!M{3a{1r{#i{!n{3e{x
+M 0 2603 1 2744 1 *Load {2The {4BladeMaster{x
+E 0 2644 0 25 *Mark of the {$sw{4or{6ds{^ma{&ns{x guild is loaded as a clan patch of {2The {4BladeMaster{x
+M 0 2634 4 2744 2 *Load A {1Recruit{x
+M 0 2630 10 2745 1 *Load A {6Palace{x Servant
+M 0 2632 1 2748 1 *Load The {3Stable{#M{3a{#s{3t{#e{3r{x
+E 0 2643 0 16 *A long leather whip. is loaded wielded of The {3Stable{#M{3a{#s{3t{#e{3r{x
+M 0 2633 2 2748 2 *Load A {3Stable{x Boy
+M 0 2630 12 2751 1 *Load A {6Palace{x Servant
+M 0 2630 12 2752 1 *Load A {6Palace{x Servant
+M 0 2621 1 2753 1 *Load {!Gunter{x
+G 0 2683 0 *{wa benevolant key{x is given to {!Gunter{x
+M 0 2622 1 2753 1 *Load {!Povel{x
+M 0 2625 1 2754 1 *Load the {@M{2a{@s{2t{@e{2R {@Ch{7e{@f{x
+E 0 2623 0 16 *A {7ceramic {#skinning {&knife{x is loaded wielded of the {@M{2a{@s{2t{@e{2R {@Ch{7e{@f{x
+M 0 2626 2 2754 2 *Load {@A Scullery Boy{X
+M 0 2628 1 2755 1 *Load The {!King{x
+E 0 2621 0 6 *The false crown of {@e{2n{@o{2c{@h{x is loaded over the head of The {!King{x
+M 0 2629 4 2755 2 *Load A {#Royal {2Guest{x
+M 0 2627 1 2756 1 *Load The {^Queen{x 
+E 0 2622 0 16 *The false sceptre of {@e{2n{@o{2c{@h{x is loaded wielded of The {^Queen{x 
+M 0 2629 4 2756 2 *Load A {#Royal {2Guest{x
+M 0 2630 12 2758 1 *Load A {6Palace{x Servant
+M 0 2631 2 2759 2 *Load A {6Palace{x Guard
+M 0 2630 12 2760 1 *Load A {6Palace{x Servant
+M 0 2630 12 2762 1 *Load A {6Palace{x Servant
+M 0 2630 12 2763 1 *Load A {6Palace{x Servant
+M 0 2630 12 2765 1 *Load A {6Palace{x Servant
+M 0 2609 1 2769 1 *Load {5Lilith{x
+E 0 2619 0 5 *{6concubines{x {$li{4ng{6er{^ie{x is loaded on the body of {5Lilith{x
+M 0 2624 1 2771 1 *Load {8A Chamber Guard{x
+G 0 2672 0 *The {8chamber{x key is given to {8A Chamber Guard{x
+O 0 2799 0 2772 *{yt{yh{ye {yt{yr{ye{ya{ys{yu{yr{ye {yc{yh{ye{ys{yt{x loaded to The {#T{3R{#E{3A{#S{3U{#R{3E {$room{x
+P 0 2681 1 2799 1 *{3the {#c{3l{#o{3c{#k{3w{#o{3r{#k {3demon{x  put inside {3The {#C{3l{#o{3c{#k{3w{#o{3r{#k {3Demon{x 
+P 0 2682 1 2799 1 *{#l{3e{#g{3e{#n{3d{#a{3r{#y {3axe{x put inside {#L{3e{#g{3e{#n{3d{#a{3r{#y {3AxE{x
+P 0 2680 1 2799 1 *{#l{3e{#g{3e{#n{3d{#a{3r{#y {3chain mail{x put inside {#L{3e{#g{3e{#n{3d{#a{3r{#y {3chain mail{x
+P 0 2620 1 2799 1 *{#l{3e{#g{3e{#n{3d{#a{3r{#y {3armplates{x put inside {#L{3e{#g{3e{#n{3d{#a{3r{#y {3Armplates{x
+M 0 2630 12 2773 1 *Load A {6Palace{x Servant
+M 0 2623 6 2775 2 *Load A {2S{@c{2h{@o{2l{@a{2r{x
+M 0 2623 6 2776 2 *Load A {2S{@c{2h{@o{2l{@a{2r{x
+M 0 2600 1 2777 1 *Load {8Cain the son of {6Adam{x
+E 0 2610 0 16 *"{8kinslayer{x" the {8black blade{x is loaded wielded of {8Cain the son of {6Adam{x
+M 0 2601 1 2778 1 *Load {8The {!G{1u{!a{1r{!d{1i{!a{1n {8Beast{x
+G 0 2679 0 *The {#v{3a{#u{3l{#t{x key is given to {8The {!G{1u{!a{1r{!d{1i{!a{1n {8Beast{x
+G 0 2798 0 *{ythe {rbl{roo{rds{rta{rin{red {ykey{x is given to {8The {!G{1u{!a{1r{!d{1i{!a{1n {8Beast{x
+M 0 2623 6 2779 2 *Load A {2S{@c{2h{@o{2l{@a{2r{x
+M 0 2617 1 2783 1 *Load {^Luke{x
+G 0 2675 0 *A bottle of {3mikes{x hard {#l{3e{#m{3o{#n{3a{#d{3e{x is given to {^Luke{x
+G 0 2676 0 *A pint of {&g{7u{8inness{x is given to {^Luke{x
+G 0 2677 0 *A burger from the {8raven{x is given to {^Luke{x
+G 0 2678 0 *A {8raven{x bar and grill, leveling t-shirt is given to {^Luke{x
+M 0 2612 1 2783 1 *Load {^Gifford{x
+M 0 2611 1 2783 1 *Load {^Jimmy{x
+M 0 2613 1 2783 1 *Load {^Rick Man{x
+M 0 2620 1 2784 1 *Load {^Ragsdale{x
+S
+
+
+
+#SHOPS
+2617 0 0 0 0 0 100 100 0 23
+2645 0 10 0 0 0 100 100 0 23
+2646 0 0 0 0 0 100 100 0 23
+2648 0 5 0 0 0 100 100 0 23
+2649 0 9 0 0 0 100 100 0 23
+2650 33 8 32 0 0 110 100 0 23
+2651 0 19 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#2606
+mob oload 2797
+~
+#0
+
+#$

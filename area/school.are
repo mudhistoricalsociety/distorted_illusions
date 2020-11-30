@@ -1,0 +1,2700 @@
+#AREADATA
+Name Mud School~
+Builders None~
+VNUMs 3700 3899
+Continent 1
+Credits [01 09 ] Hatchet Mud School~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#3700
+adept cleric LoKi~
+an adept of {@L{8o{2k{8i{x~
+An adept of {@L{8o{2k{8i{x is here, welcoming you to Mud School.
+~
+A shifting form stands before you, grinning in all of its forms.
+~
+human~
+ABGQTV C H 1000 0
+59 10 1d1+999 1d1+999 2000d4390458+10000 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3701
+blob~
+the blob~
+The blob is here, waiting to eat you up.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+unique~
+ABG C 0 0 0
+10 300 1d1+49 1d1+99 2d2+3 digestion
+10 10 10 10
+AN AB CD 0
+stand stand none 0
+BSc 0 large unknown
+#3702
+monster~
+the monster~
+There is a monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABU 0 0 0 0
+2 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 150
+AMV ABCDEFHJKQU medium unknown
+#3703
+monster wimpy~
+the wimpy monster~
+There is a wimpy monster leashed here.
+~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABHU 0 0 0 0
+1 0 1d1+7 1d1+99 1d2+0 claw
+10 10 10 10
+O AB 0 C
+stand stand none 150
+AMV ABCDEFHJKQU medium unknown
+#3704
+monster aggressive~
+the aggressive monster~
+There is an aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFU 0 0 0 0
+1 0 1d1+7 1d1+99 1d4+0 claw
+10 10 10 10
+EK AB 0 C
+stand stand none 150
+AMV ABCDEFHJKQU medium unknown
+#3705
+monster wimpy aggressive~
+the wimpy aggressive monster~
+There is a wimpy aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFHU 0 0 0 0
+2 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+J AB 0 C
+stand stand none 150
+AMV ABCDEFHJKQU medium unknown
+#3706
+big creature~
+the big creature~
+There is a big creature hulking over your form.
+~
+He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+school monster~
+ABU JZ 0 0 0
+3 1 2d2+20 1d1+99 1d4+1 claw
+8 8 8 10
+FN AB 0 C
+stand stand none 200
+AMV ABCDEFHJKQU medium unknown
+#3707
+adept cleric~
+an adept of {!H{1el{x~
+An adept of {!H{1el{x, is here, the world of the dead, glinting in her eyes.
+~
+A beautiful woman stands before you, her pale skin seems flawless in the 
+light.  You see a leg from beneath her robe, it seems burnt and destroyed
+beyond recognition.
+~
+human~
+ABGQTV C H 1000 0
+103 200 1d1+999 1d1+999 20d20+200 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#3708
+adept~
+an adept of {&O{7din{x~
+An adept of {&O{7din{x hovers here, showered in light.
+~
+A Large figure stares at you with one eye from beneath his wide-brimmed hat.
+~
+human~
+ABGQTV C H 1000 0
+103 200 1d1+999 1d1+999 20d20+200 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3709
+rabbit~
+A cute rabbit~
+A rabbit hops around you, leaving brown easter eggs.
+~
+The rabbit smiles at you, completely harmless!
+~
+rabbit~
+AGHU 0 0 100 0
+1 0 1d1+10 1d1+99 1d3+0 bite
+10 10 10 10
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny unknown
+#3710
+A lizard~
+A lizard~
+A lizard slithers up to you.
+~
+It smiles as it's tongue lashes out viciously.
+~
+lizardman~
+AGU b 0 -100 0
+4 0 2d2+20 1d1+99 1d4+1 bite
+8 8 8 10
+R 0 L I
+stand stand either 0
+AGHMVXc ABCDEFGHIJKQV small unknown
+#3711
+boar~
+the boar~
+A boar tries to run you over.
+~
+It grunts at you.
+~
+pig~
+AGU 0 0 0 0
+6 1 3d3+30 1d1+99 1d6+1 charge
+7 7 7 9
+CDFR 0 0 0
+stand stand male 0
+AGV ACDEFHJK medium unknown
+#3712
+fox~
+the fox~
+A fox is here staring at you.
+~
+It's a pretty little thing, makes you want to kiss it.
+~
+fox~
+AGHU Z 0 100 0
+1 1 1d1+12 1d1+99 1d3+1 bite
+8 8 8 10
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV small unknown
+#3713
+snail~
+the snail~
+A snail is trying to get out of your way.
+~
+You don't see much but slime about it.
+~
+unique~
+AGU 0 0 0 0
+0 0 1d4+3 1d1+99 1d1+3 digestion
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AGQc AFHM tiny unknown
+#3714
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+school monster~
+AFTU Z 0 0 0
+10 1 5d5+55 1d1+99 1d6+3 bite
+5 5 5 8
+EKM AB HI C
+stand stand none 50
+AMV ABCDEFHJKQU large unknown
+#3715
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+bear~
+AGU 0 0 0 0
+8 1 4d4+44 1d1+99 1d6+2 claw
+6 5 6 7
+CDEOR 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV large unknown
+#3716
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU Z 0 0 0
+7 0 4d4+44 1d1+99 1d6+2 bite
+7 7 7 10
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium unknown
+#3717
+adept cleric~
+an adept of {^S{6if{x~
+An adept of {^S{6if{x is here, tending her shop.
+~
+This lovely shield-maiden seems ready to sell you things.
+~
+kender~
+ABCQTV CJV H 1000 0
+59 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#3718
+adept modi~
+an adept of {^M{8o{6d{&i{x~
+An adept of {^M{8o{6d{&i{x is here waiting to assist you in your training.
+~
+A blonde warrior with a sword in each hand, is here, waiting to train
+~
+human~
+ABCJQT C H 1000 0
+60 200 1d1+999 1d1+999 20d20+200 beating
+-15 -15 -15 -15
+ACEFHIKN ABG 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3719
+adept practice~
+an adept of {!M{5a{1g{%n{!i{x~
+An HUGE adept of {!M{5a{1g{%n{!i{x is here, awaiting to aid your practice.
+~
+A Huge man stands before you, muscle defination in all aspects of his frame
+that you did not think was possible.
+~
+human~
+ABCKQTV C H 1000 0
+60 200 1d1+999 1d1+999 20d20+200 beating
+-15 -15 -15 -15
+ACEFHIKN AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3720
+diploma beast~
+the diploma beast~
+The hideous diploma beast is here, holding your graduation present!
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+school monster~
+ABU J 0 0 0
+3 1 2d4+30 1d1+99 1d6+1 claw
+8 8 8 10
+EFN AB 0 C
+stand stand none 250
+AMV ABCDEFHJKQU medium unknown
+#3721
+adept thor thunder~
+an adept of {$Th{#o{$r{x~
+An adept of {BTh{Yo{Br{x the {YThunder{x god is here, welcoming his pupils to Mud School!
+~
+A Muscular warrior stands here with a stern face, judging on how you will fair in training.
+~
+human~
+ABCV C 0 1000 0
+60 200 1d1+999 0d0+0 20d20+200 beating
+-15 -15 -15 -15
+ACEFHIKN ABG 0 0
+stand stand male 0
+AHMV ACDEFGHIJK medium unknown
+F par B
+#3722
+adept priest Tyr~
+the adept of {^T{6yr{x~
+The adept of {^T{6yr{x is here tending his shop.
+~
+Deblin is here willing to help all travellers out with a basic set of
+items.  
+The adept of {^T{6yr{x is here willing to help all travellers out with a basic set of
+items.
+~
+human~
+ABCKV C 0 1000 0
+60 10 1d1+999 0d0+0 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3700
+Distorted Illusions Warhammer Newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mW{ca{Dr{wh{Wa{wm{Dm{ce{mr{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mW{ca{Dr{wh{Wa{wm{Dm{ce{mr{x~
+bronze~
+weapon U AN
+mace 6 5 pound 0
+15 30 250 P
+A
+4 1
+A
+18 5
+#3701
+Distorted Illusions Stiletto newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ct{Di{wle{Dt{ct{mo{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ct{Di{wle{Dt{ct{mo{x~
+bronze~
+weapon U AN
+dagger 6 5 pierce 0
+15 10 210 P
+A
+18 5
+A
+19 5
+#3702
+Distorted Illusions Scimitar newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{cc{Di{wmi{Dt{ca{mr{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{cc{Di{wmi{Dt{ca{mr{x~
+bronze~
+weapon U AN
+sword 6 5 slash 0
+15 30 360 P
+A
+18 3
+A
+19 3
+A
+2 1
+#3703
+Distorted Illusions Chainmail~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mC{ch{Da{wi{Wn{wm{Da{ci{ml{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mC{ch{Da{wi{Wn{wm{Da{ci{ml{x~
+leather~
+armor U AD
+BD BD BD BD 0
+15 50 144 P
+A
+1 1
+A
+5 2
+A
+13 50
+#3704
+Distorted Illusions Shielding newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Di{we{Wl{wd{Di{cn{mg{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Di{we{Wl{wd{Di{cn{mg{x~
+wood~
+armor U AJ
+BD BD BD BD 0
+15 30 108 P
+A
+13 50
+A
+5 1
+A
+18 3
+#3705
+Distorted Illusions Neckguard newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mN{ce{Dc{wk{Wg{wu{Da{cr{md{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mN{ce{Dc{wk{Wg{wu{Da{cr{md{x~
+cloth~
+armor U AC
+AC AC AC AC 0
+15 40 72 P
+A
+3 1
+A
+4 1
+A
+18 3
+A
+19 3
+#3706
+Distorted Illusions Basinet newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{ca{Ds{wi{Dn{ce{mt{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{ca{Ds{wi{Dn{ce{mt{x~
+leather~
+armor U AE
+BD BD BD BD 0
+15 30 72 P
+A
+3 1
+A
+13 25
+A
+18 2
+A
+19 2
+#3707
+Distorted Illusions Legplates newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mL{ce{Dg{wp{Wl{wa{Dt{ce{ms{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mL{ce{Dg{wp{Wl{wa{Dt{ce{ms{x~
+leather~
+armor U AF
+AC AC AC AC 0
+15 30 72 P
+A
+5 1
+A
+14 10
+A
+2 1
+A
+18 3
+A
+19 3
+#3708
+Distorted Illusions Sandals newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ca{Dn{wd{Da{cl{ms{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ca{Dn{wd{Da{cl{ms{x~
+leather~
+armor U AG
+AC AC AC AC 0
+15 30 72 P
+A
+2 1
+A
+14 10
+A
+13 25
+A
+18 3
+A
+19 3
+#3709
+Distorted Illusions Gauntlet newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mG{ca{Du{wn{Wt{wl{De{ct{ms{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mG{ca{Du{wn{Wt{wl{De{ct{ms{x~
+leather~
+armor U AH
+AC AC AC AC 0
+15 10 72 P
+A
+5 1
+A
+19 3
+A
+18 3
+A
+13 50
+#3710
+Distorted Illusions Armplates newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mA{cr{Dm{wp{Wl{wa{Dt{ce{ms{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mA{cr{Dm{wp{Wl{wa{Dt{ce{ms{x~
+leather~
+armor U AI
+AC AC AC AC 0
+15 20 72 P
+A
+5 1
+A
+4 1
+A
+18 3
+A
+19 3
+#3711
+Distorted Illusions Shrouding newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Dr{wo{Wu{wd{Di{cn{mg{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Dr{wo{Wu{wd{Di{cn{mg{x~
+cloth~
+armor U AK
+BD BD BD BD 0
+15 20 72 P
+A
+12 10
+A
+3 1
+A
+1 1
+A
+13 25
+#3712
+Distorted Illusions Irongirth newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mI{cr{Do{wn{Wg{wi{Dr{ct{mh{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mI{cr{Do{wn{Wg{wi{Dr{ct{mh{x~
+leather~
+armor U AL
+AC AC AC AC 0
+15 10 72 P
+A
+2 1
+A
+13 10
+A
+18 3
+A
+19 3
+A
+1 1
+#3713
+Distorted Illusions Bracer newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{cr{Da{wc{De{cr{ms{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{cr{Da{wc{De{cr{ms{x~
+bronze~
+armor U AM
+AC AC AC AC 0
+15 10 48 P
+A
+12 3
+A
+18 4
+A
+19 4
+A
+13 25
+A
+1 1
+#3714
+key~
+a key~
+You see a very important key here!~
+brass~
+key P A
+0 0 0 0 0
+0 10 0 P
+#3715
+Distorted Illusions Diploma newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mD{ci{Dp{wl{Do{cm{ma{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mD{ci{Dp{wl{Do{cm{ma{x~
+vellum~
+armor GU AO
+AC AC AC AC 0
+1 10 1140 P
+A
+3 1
+A
+4 1
+A
+13 25
+A
+5 1
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Merc Industries
+~
+#3716
+Distorted Illusions Lantern newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mL{ca{Dn{wt{De{cr{mn{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mL{ca{Dn{wt{De{cr{mn{x~
+cloth~
+light AG A
+0 0 DGH 0 0
+1 20 380 P
+A
+17 -5
+A
+18 3
+A
+19 3
+A
+13 50
+A
+4 2
+A
+3 2
+A
+5 2
+A
+1 2
+#3717
+Distorted Illusions Javalin newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mJ{ca{Dv{wa{Dl{ci{mn{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mJ{ca{Dv{wa{Dl{ci{mn{x~
+wood~
+weapon U AN
+staff 5 6 thrust 0
+15 50 111 P
+A
+2 2
+A
+18 7
+#3718
+Distorted Illusions Gisarme newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mG{ci{Ds{wa{Dr{cm{me{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mG{ci{Ds{wa{Dr{cm{me{x~
+wood~
+weapon U AN
+staff 6 6 pound F
+15 40 290 P
+A
+3 3
+#3719
+Distorted Illusions Hatchet newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mH{ca{Dt{wc{Dh{ce{mt{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mH{ca{Dt{wc{Dh{ce{mt{x~
+bronze~
+weapon U AN
+axe 6 5 chop 0
+15 50 350 P
+A
+5 2
+A
+19 2
+A
+18 3
+#3720
+Distorted Illusions Flail newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mF{cl{Da{ci{ml{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mF{cl{Da{ci{ml{x~
+bronze~
+weapon U AN
+flail 6 5 crush 0
+15 50 310 P
+A
+19 3
+A
+4 1
+A
+18 4
+#3721
+Distorted Illusions Bullwhip newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{cu{Dl{wlw{Dh{ci{mp{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mB{cu{Dl{wlw{Dh{ci{mp{x~
+leather~
+weapon U AN
+whip 6 5 whip 0
+15 20 330 P
+A
+2 2
+A
+19 2
+#3722
+Distorted Illusions Partisan newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mP{ca{Dr{wti{Ds{ca{mn{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mP{ca{Dr{wti{Ds{ca{mn{x~
+wood~
+weapon U AN
+polearm 6 6 slash F
+15 80 183 P
+A
+3 1
+A
+4 1
+A
+18 8
+#3723
+Distorted Illusions Healthpill newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mH{ce{Da{wl{Wth{wp{Di{cl{ml{x ~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mH{ce{Da{wl{Wth{wp{Di{cl{ml{x ~
+wood~
+pill I A
+10 'cure critical' 'cure critical' 'giant strength' 'haste'
+1 10 500 P
+#3724
+Distorted Illusions Shieldpill newbie~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Di{we{Wld{wp{Di{cl{ml{x~
+{mD{ci{Ds{wt{Wo{wr{Dt{ce{md {mI{cl{Dl{wu{Wsi{wo{cn{ms {mS{ch{Di{we{Wld{wp{Di{cl{ml{x~
+wood~
+pill I A
+10 'armor' 'steel flesh' 'stone skin' 'shield'
+1 20 500 P
+#3725
+light gods~
+{YLight {wof the {YGods{x~
+A {YLight {wof the {YGods{x shines here.~
+oldstyle~
+light G A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 80 0 P
+A
+4 2
+A
+13 75
+A
+12 25
+A
+18 5
+A
+19 5
+A
+3 2
+#3726
+spectacles wire rimmed gods~
+{YWire {wrimmed spectacles of the {YGods{x~
+A pair of {YWire {wrimmed spectacles of the {YGods{x lies here.~
+oldstyle~
+armor G AR
+BD BD BD BD 0
+1 1 0 P
+A
+3 3
+A
+4 2
+A
+5 2
+A
+13 75
+A
+18 5
+A
+19 5
+F
+A 0 0 F
+F
+A 0 0 D
+F
+A 0 0 J
+F
+A 0 0 E
+F
+A 0 0 Z
+F
+A 0 0 L
+E
+spectacles wire rimmed~
+They'll make you look smart.
+~
+#3727
+misty robe gods~
+{YMisty {wrobe of the {YGods{x~
+A long {YMisty {wrobe of the {YGods{x lies on the floor.~
+air~
+armor I AK
+BD BD BD BD A
+1 1 0 P
+A
+13 75
+A
+5 2
+F
+A 0 0 U
+A
+18 5
+A
+19 5
+A
+3 2
+#3728
+ring gods~
+{YRing {wof the {YGods{x~
+A {YRing {wof the {YGods{x lies here.~
+oldstyle~
+armor I AB
+AC AC AC AC 0
+1 1 0 P
+A
+4 2
+A
+3 2
+A
+13 75
+A
+19 5
+A
+18 5
+A
+12 25
+#3729
+platemail mail gods~
+{YPlatemail of the {YGods{x~
+The  {YPlatemail of the {YGods{x lies in a pile.~
+leather~
+armor 0 AD
+BD BD BD BD 0
+1 50 0 P
+A
+5 2
+A
+4 2
+A
+3 2
+A
+1 2
+A
+2 2
+A
+13 75
+A
+19 5
+A
+18 5
+#3730
+backpack pack gods~
+{YBackpack {wof the {YGods{x~
+A {YBackpack {wof the {YGods{x stands upright here.~
+oldstyle~
+container RY AX
+450 A 0 135 10
+1 20 0 P
+A
+19 5
+A
+18 5
+A
+3 2
+A
+17 -3
+#3731
+ring float gods~
+{YFloating Ring {wof the {YGods{x~
+A {YFloating Ring {wof the {YGods{x floats here.~
+oldstyle~
+boat G AB
+0 0 0 0 0
+1 20 0 P
+A
+19 5
+A
+18 5
+A
+3 2
+A
+5 2
+A
+17 -10
+#0
+
+
+
+#ROOMS
+#3700
+Entrance to Mud School~
+This is the entrance to the Merc Mud School.  Go north to go through mud
+school.  If you have been here before and want to go directly to the arena,
+go south.
+
+A sign warns 'You may not pass these doors once you have passed level 9.'
+~
+0 1036 0
+D0
+You see the doorway into the Mud School Building.
+~
+~
+0 0 3757
+D2
+You see the one way door into the Arena of Mud School.
+~
+door~
+1 -1 3744
+D3
+~
+~
+0 0 3772
+D5
+~
+~
+0 0 2909
+S
+#3701
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are west and south.  A small plaque is on the
+wall.
+~
+0 131084 0
+E
+plaque~
+This zone (Mud School) is created by Hatchet for any Merc Mud.
+Copyright 1992, 1993.
+~
+E
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wield a second weapon, type 'SECOND weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+D2
+You see a path into another room.
+~
+~
+0 -1 3757
+D3
+You see a path into another room.
+~
+~
+0 -1 3702
+S
+#3702
+The Center Room~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead in ALL directions.
+~
+0 131084 0
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+D0
+You see the room north that will lead you to the next section.
+~
+~
+0 0 3703
+D1
+You see a room.
+~
+~
+0 0 3701
+D2
+You see a room.
+~
+~
+0 0 3705
+D3
+You see a room.
+~
+~
+0 0 3704
+D4
+You see a room.
+~
+~
+0 0 3708
+D5
+You see a room.
+~
+~
+0 0 3707
+S
+#3703
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+0 131084 0
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+D0
+You see the next station ahead.
+~
+~
+0 -1 3709
+D2
+You see the central room.
+~
+~
+0 0 3702
+S
+#3704
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+0 131084 0
+E
+sign~
+Just go east to the central room.
+~
+D1
+You see the central room.
+~
+~
+0 0 3702
+S
+#3705
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+0 131084 0
+E
+sign~
+Just go north to the central room.
+~
+D0
+You see the central room.
+~
+~
+0 0 3702
+S
+#3707
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+0 131084 0
+E
+sign~
+Just go up to the central room.
+~
+D4
+You see the central room.
+~
+~
+0 0 3702
+S
+#3708
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+0 131084 0
+E
+sign~
+Just go down to the central room.
+~
+D5
+You see the central room.
+~
+~
+0 0 3702
+S
+#3709
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+0 131084 0
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+D3
+You see the next station of Mud School.
+~
+~
+0 -1 3711
+D5
+You see a cage.
+~
+~
+0 0 3710
+S
+#3710
+The Blob Cage~
+You are in a smelly cage.  Strangely, the walls are still clean!
+You see a sign here.  The only exit is up.
+~
+0 131080 0
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D4
+You see a safe room up.
+~
+~
+0 0 3709
+S
+#3711
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+0 131084 0
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+D1
+You see the next station of Mud School.
+~
+~
+0 0 3709
+D5
+You see the combat hall.
+~
+~
+0 0 3712
+S
+#3712
+The Cage Room~
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the
+ceiling in soft white tones.  Of course, there is a big sign on the wall.
+Exits lead into the cardinal directions plus down.
+~
+0 131084 0
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 3713
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 3716
+D2
+You see the wimpy monster inside!
+~
+~
+0 -1 3715
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 3714
+D5
+You see the next station below.
+~
+~
+0 -1 3717
+S
+#3713
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is south.
+~
+0 131080 0
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D2
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3714
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is east.
+~
+0 131080 0
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D1
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3715
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is north.
+~
+0 131080 0
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D0
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3716
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is west.
+~
+0 131080 0
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D3
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3717
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Find your own exit here.
+~
+0 131084 0
+E
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these commands:
+
+    BUY    Buy an item
+    LIST   List what is for sale
+
+After buying some food and drink, you can 'EAT' and 'DRINK' it.
+
+After that, find the next exit yourself.
+~
+D1
+You see the next station of Mud School.
+~
+door~
+1 -1 3719
+D2
+You see the Shop.
+~
+~
+0 0 3718
+D4
+You see the Cage room.
+~
+~
+0 -1 3712
+S
+#3718
+The Store in Mud School~
+You are in a cramped room.  Stacked neatly on shelves everywhere are items
+and packages.  Light fluoresces off the ceiling in soft white tones.  Of
+course, there is a sign on the wall.  The only exit is north.
+~
+0 131080 0
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+D0
+You see the only exit out of here.
+~
+~
+0 0 3717
+S
+#3719
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are north and west, with a door to the east.
+~
+0 131084 0
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK E, OPEN E,
+and continue east.
+~
+D0
+You see a darkened room inside.
+~
+~
+0 0 3720
+D1
+You see the next station of Mud School.
+~
+door~
+2 3714 3721
+D3
+You see the room you just came from.
+~
+door~
+1 -1 3717
+S
+#3720
+The Darkened Room~
+This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+0 131081 0
+D2
+You see the room that you have come from.
+~
+~
+0 0 3719
+S
+#3721
+The End of Mud School!~
+This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate north of you.
+~
+0 131080 0
+E
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+You see the Arena ahead.
+~
+gate~
+1 -1 3722
+D2
+~
+~
+0 0 3773
+S
+#3722
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3723
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3728
+D1
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3724
+South West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3725
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3726
+South East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3725
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3727
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3728
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3729
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3728
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3730
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3735
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3729
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3731
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3730
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3732
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3733
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3738
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3734
+Center of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3729
+D3
+~
+~
+0 0 3733
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+D5
+You see a dark murky dungeon below.
+~
+grate~
+3 -1 3748
+S
+#3735
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3740
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3730
+D3
+~
+~
+0 0 3734
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3736
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3735
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3737
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3738
+D2
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3738
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3743
+D1
+~
+~
+0 0 3739
+D2
+~
+~
+0 0 3733
+D3
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3739
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3744
+D1
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3734
+D3
+~
+~
+0 0 3738
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3740
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3745
+D1
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3739
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3741
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3740
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3742
+North West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D1
+~
+~
+0 0 3743
+D2
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3743
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3744
+D2
+~
+~
+0 0 3738
+D3
+~
+~
+0 0 3742
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3744
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3745
+D2
+~
+~
+0 0 3739
+D3
+~
+~
+0 0 3743
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3745
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D1
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3744
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3746
+North East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3745
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3748
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+D0
+You see the north wall.
+~
+~
+0 0 3750
+D1
+You see the east wall.
+~
+~
+0 0 3753
+D2
+You see the south wall.
+~
+~
+0 0 3755
+D3
+You see the west wall.
+~
+~
+0 0 3752
+D4
+You see safety!
+~
+grate~
+3 -1 3734
+S
+#3749
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+You see the north wall.
+~
+~
+0 0 3750
+D2
+You see the south wall.
+~
+~
+0 0 3752
+S
+#3750
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D3
+You see the north west corner.
+~
+~
+0 0 3749
+S
+#3751
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D2
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the north wall.
+~
+~
+0 0 3750
+S
+#3752
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north west corner.
+~
+~
+0 0 3749
+D1
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D2
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3753
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the center of the dungeon.
+~
+~
+0 0 3748
+S
+#3754
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north wall.
+~
+~
+0 0 3752
+D1
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3755
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D1
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3756
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3757
+A Room in Mud School~
+You are in a room in Mud School.  Paintings of the heroic graduates of mud
+school adorn the walls. To the west is Furey's Training Room, and to the east
+is Zump's Guild Room.  North of you is the next Station of Mud School.
+There is a sign on the wall (type 'LOOK SIGN' to read it).
+~
+0 131084 1
+E
+sign~
+To find out your attributes, type 'score'.  You can improve your attributes
+in Furey's Training Room to the west.  You can practice your skills and spells
+in Zump's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go 'WEST' from here, train your
+abilities, and then come back here and go 'NORTH'.
+~
+D0
+You see the next station of Mud School.
+~
+~
+0 0 3701
+D1
+You see Zump's Guild Room.  Go there to practice your skills.
+~
+~
+0 0 3759
+D2
+You see the entrance to Mud School.
+~
+~
+0 0 3700
+D3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0 0 3758
+S
+#3758
+Modi's Training Room~
+Wandering through out the school in quizzical exploration, you stumble
+upon the training room of Modi.  A variety of weaponry line the brimstone
+walls as well as massive tapestries depicting some of the God Modi's
+ancient students in tedious battle.  A legendary strider leans against the
+wall here, his arms folded firmly across his chest as he observes you.  He
+nods to to you in mute greeting, and with a hearty smile he motions to a
+{%p{5l{%a{5q{%u{5e{x on the wall.  (type 'read plaque'.)  
+~
+0 131084 1
+E
+plaque~
+Welcome to Bract's Training Room.  Type 'train' by itself for a list of
+stats available for you to improve.  Str is strength, Wis is wisdom, Int is
+intelligence, Dex is dexterity, Con is constitution.  They are all very
+vital statistics, each affecting the final outcome of your character's
+hitpoints and overall strength and vitality.  You may begin the game with 23
+practice sessions.  Choose wisely.  
+~
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 3757
+S
+#3759
+Magni's Practice Room~
+In this room, you find yourself surrounded by shelves of thick ancient
+books, the bindings covered in incantational runes.  Decoys of hideous
+monsters are scattered about.  With keen observation, you realize that this
+is where the students practice their skills.  A Wolf paces menacingly
+around the feet of Magni, who stands motionless, enshrouded within palpable
+shadow.  His movements fluid, he points to the {%p{5l{%a{5q{%u{5e{x upon the
+wall.  (type 'read plaque'.)  
+~
+0 131084 1
+E
+sign~
+Welcome to Zump's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 3757
+S
+#3760
+A Safe Room~
+You are in a safe room, away from all the mean rabbits and snails of the Arena.
+You can rest here, and go up to go back to the Temple of Midgard.
+~
+0 12 0
+D4
+~
+~
+0 0 2909
+S
+#3761
+A Room in Mud School~
+You enter a room with a serene ambience...  The walls are lined with
+ancient pictures of legendary trainers and philosophers from the realms of
+Asgard.  A delicately curious mute faerie dragon flits up to you with a sign
+which reads 'Welcome to the Mud mortal (that would be you)!  Please go north
+to continue mud school, where you will learn how to mud.  We immortals (type
+'HELP IMMORTAL') here hope you will enjoy your stay in the Realm of
+Distorted Illusions.  Please pay close attention through mud school or your
+stay here will not be long.' 
+~
+0 131084 1
+D0
+~
+~
+0 0 3762
+S
+#3762
+A Room in Mud School~
+This room is a large, brightly lit chamber.  There are many paths leading
+to all directions and stairs leading up and down.  A sign here labeled
+Directions is hung on the wall.  (Type 'LOOK SIGN' to read it).  
+
+~
+0 4 0
+E
+sign~
+Movement is vital to go around many areas of this mud, espcially for
+non-spellcasters.  In this mud, there are 6 avaliable directions which are:
+north, south, east, west, up or down.  Not all rooms have all exits
+available of course.  Some rooms may not have an exit at all.  You have the
+command 'AUTOEXIT' automatically set so you can see the obvious exits under
+a room's description.  You will learn about other auto functions later. 
+Some rooms have a door between each other.  If the door is closed, the exit
+will not be obvious with the autoexit function.  You will have to notice
+clues in the room description, or try going into that direction and see if
+you bump into a door.  Doors can be closed, locked, or secret.  There are 5
+others ways to get around a mud.  Three of which can be learned if you have
+or able to have the transportation spell class.  Those will be talked about
+later in mud school.  The two other ways are recall, when typed you will be
+mircaulously transportated from where you to the temple of Midgard.  Type
+'HELP RECALL' for more information about recall.  Another was is if someone
+with summoning capabilities, summons you.  Summoning is casting a spell
+which brings someone or something into the same room as the player who casts
+it.  Type 'NOSUM' if you want to be summoned by someone.  You can experiment
+with movement from this point.  When you are done, go north two times from
+this here.  
+~
+D0
+~
+~
+0 0 3765
+D1
+~
+~
+0 0 3764
+D2
+~
+~
+0 0 3761
+D3
+~
+~
+0 0 3763
+D4
+~
+~
+0 0 3766
+D5
+~
+~
+0 0 3767
+S
+#3763
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  The only
+exit is east.  
+~
+0 131084 0
+D1
+~
+~
+0 0 3762
+S
+#3764
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  The only
+exit is west.  
+~
+0 131084 0
+D3
+~
+~
+0 0 3762
+S
+#3765
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  The exits
+are south and north.  A sign hung on the wall reads 'Please go north to
+continue through mud school'.  
+~
+0 131084 0
+D0
+~
+~
+0 0 3768
+D2
+~
+~
+0 0 3762
+S
+#3766
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  The only
+exit is down.  
+~
+0 131084 0
+D5
+~
+~
+0 0 3762
+S
+#3767
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  The only
+exit is up.  
+~
+0 131084 0
+D4
+~
+~
+0 0 3762
+S
+#3768
+A Room in Mud School~
+You are in a large white hallway that branches out in many directions. 
+You hear many sounds all around you.  To your east, you hear weapons
+clashing and spells being cast.  To your west, lectures are being given on
+many subjects.  There is a large sign on the wall.  
+~
+0 131084 0
+D0
+~
+~
+0 0 3771
+D1
+~
+~
+0 0 3770
+D2
+~
+~
+0 0 3765
+D3
+~
+~
+0 0 3769
+S
+#3769
+The Training Room~
+Here is where you train your natural abilities, your attributes.  There
+is an instructor teaching basic physical fitness lessons and giving lectures
+on applied logic and reason.  You have much to learn here, please read the
+sign on the wall to learn how to train your abilities.  
+~
+0 131076 0
+D1
+~
+~
+0 0 3768
+S
+#3770
+The Practice Chamber~
+Here is where you can practice different skills.  Young warriors come
+here to learn the proper techniques of mastering new weapons, and where
+young mages unviel the power of their magic.  You hear weapons clashing and
+cackles of spells as young adventurers try out in awe of their newly learned
+skills and spells.  A warrior priest stands before you.  He points to a sign
+for you to read before you start your practicing.  
+~
+0 131084 0
+D3
+~
+~
+0 0 3768
+S
+#3771
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3768
+S
+#3772
+The Armoury~
+You have entered the armoury.  This room is cluttered with what most
+people would consider trash, but to the newbie in all of us is nice to have.
+All kinds of newbie crap items may be purchased here.  
+~
+0 12 0
+D1
+~
+~
+0 0 3700
+S
+#3773
+The Basement Armory~
+You have stepped into a small room that is well lit.  The walls are lined
+with armor and weapons.  A door leads back north.  
+ 
+Some equipment has been left on the ground to assist you in battle.
+~
+0 131080 0
+D0
+~
+~
+0 0 3721
+S
+#0
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept Load to: an adept of {!H{1el{x
+M 3708 spec_cast_adept Load to: an adept of {&O{7din{x
+M 3714 spec_fido Load to: the beast
+S
+
+
+
+#RESETS
+D 0 3700 2 1 The south door of Entrance to Mud School is closed
+D 0 3717 1 1 The east door of A Room in Mud School is closed
+D 0 3719 1 2 The east door of A Room in Mud School is closed and locked
+D 0 3719 3 1 The west door of A Room in Mud School is closed
+D 0 3721 0 1 The north door of The End of Mud School! is closed
+D 0 3734 5 1 The down door of Center of Arena is closed
+D 0 3748 4 1 The up door of The Center of the Dungeon is closed
+M 0 3721 1 3700 1 *Load an adept of {$Th{#o{$r{x
+M 0 3700 1 3701 1 *Load an adept of {@L{8o{2k{8i{x
+M 0 3701 1 3710 1 *Load the blob
+M 0 3707 1 3712 1 *Load an adept of {!H{1el{x
+M 0 3704 1 3713 1 *Load the aggressive monster
+E 0 3707 0 7 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ml{ce{dg{wp{wl{wa{dt{ce{ms{x is loaded on the legs of the aggressive monster
+E 0 3712 0 13 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mi{cr{do{wn{wg{wi{dr{ct{mh{x is loaded around the waist of the aggressive monster
+M 0 3705 1 3714 1 *Load the wimpy aggressive monster
+E 0 3708 0 8 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ca{dn{wd{da{cl{ms{x is loaded on the feet of the wimpy aggressive monster
+E 0 3713 0 14 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{cr{da{wc{de{cr{ms{x is loaded on the left wrist of the wimpy aggressive monster
+M 0 3703 1 3715 1 *Load the wimpy monster
+E 0 3706 0 6 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{ca{ds{wi{dn{ce{mt{x is loaded over the head of the wimpy monster
+E 0 3711 0 12 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ch{dr{wo{wu{wd{di{cn{mg{x is loaded about the shoulders of the wimpy monster
+M 0 3702 1 3716 1 *Load the monster
+E 0 3705 0 3 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mn{ce{dc{wk{wg{wu{da{cr{md{x is loaded around the neck (1) of the monster
+E 0 3705 0 4 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mn{ce{dc{wk{wg{wu{da{cr{md{x is loaded around the neck (2) of the monster
+M 0 3717 1 3718 1 *Load an adept of {^S{6if{x
+G 0 3138 0 *A buffalo water skin is given to an adept of {^S{6if{x
+G 0 3031 0 *A hooded brass lantern is given to an adept of {^S{6if{x
+M 0 3706 1 3720 1 *Load the big creature
+E 0 3709 0 9 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mg{ca{du{wn{wt{wl{de{ct{ms{x is loaded on the hands of the big creature
+E 0 3710 0 10 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ma{cr{dm{wp{wl{wa{dt{ce{ms{x is loaded on the arms of the big creature
+E 0 3714 0 17 *A key is loaded held in the hands of the big creature
+E 0 3713 0 14 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{cr{da{wc{de{cr{ms{x is loaded on the left wrist of the big creature
+M 0 3720 1 3721 1 *Load the diploma beast
+E 0 3715 0 17 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {md{ci{dp{wl{do{cm{ma{x is loaded held in the hands of the diploma beast
+M 0 3708 1 3721 1 *Load an adept of {&O{7din{x
+M 0 3713 5 3724 5 *Load the snail
+M 0 3712 3 3726 3 *Load the fox
+M 0 3709 4 3734 4 *Load A cute rabbit
+M 0 3710 3 3742 3 *Load A lizard
+M 0 3711 3 3746 3 *Load the boar
+M 0 3714 1 3749 1 *Load the beast
+M 0 3715 2 3751 2 *Load the bear
+M 0 3716 2 3754 2 *Load the wolf
+M 0 3718 1 3758 1 *Load an adept of {^M{8o{6d{&i{x
+M 0 3719 1 3759 1 *Load an adept of {!M{5a{1g{%n{!i{x
+M 0 3721 1 3769 1 *Load an adept of {$Th{#o{$r{x
+M 0 3722 1 3772 1 *Load the adept of {^T{6yr{x
+G 0 3700 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mw{ca{dr{wh{wa{wm{dm{ce{mr{x is given to the adept of {^T{6yr{x
+G 0 3701 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ct{di{wle{dt{ct{mo{x is given to the adept of {^T{6yr{x
+G 0 3702 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{cc{di{wmi{dt{ca{mr{x is given to the adept of {^T{6yr{x
+G 0 3703 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mc{ch{da{wi{wn{wm{da{ci{ml{x is given to the adept of {^T{6yr{x
+G 0 3704 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ch{di{we{wl{wd{di{cn{mg{x is given to the adept of {^T{6yr{x
+G 0 3705 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mn{ce{dc{wk{wg{wu{da{cr{md{x is given to the adept of {^T{6yr{x
+G 0 3706 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{ca{ds{wi{dn{ce{mt{x is given to the adept of {^T{6yr{x
+G 0 3707 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ml{ce{dg{wp{wl{wa{dt{ce{ms{x is given to the adept of {^T{6yr{x
+G 0 3708 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ca{dn{wd{da{cl{ms{x is given to the adept of {^T{6yr{x
+G 0 3709 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mg{ca{du{wn{wt{wl{de{ct{ms{x is given to the adept of {^T{6yr{x
+G 0 3710 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ma{cr{dm{wp{wl{wa{dt{ce{ms{x is given to the adept of {^T{6yr{x
+G 0 3711 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ch{dr{wo{wu{wd{di{cn{mg{x is given to the adept of {^T{6yr{x
+G 0 3712 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mi{cr{do{wn{wg{wi{dr{ct{mh{x is given to the adept of {^T{6yr{x
+G 0 3713 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{cr{da{wc{de{cr{ms{x is given to the adept of {^T{6yr{x
+G 0 3716 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ml{ca{dn{wt{de{cr{mn{x is given to the adept of {^T{6yr{x
+G 0 3717 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mj{ca{dv{wa{dl{ci{mn{x is given to the adept of {^T{6yr{x
+G 0 3718 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mg{ci{ds{wa{dr{cm{me{x is given to the adept of {^T{6yr{x
+G 0 3719 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mh{ca{dt{wc{dh{ce{mt{x is given to the adept of {^T{6yr{x
+G 0 3720 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mf{cl{da{ci{ml{x is given to the adept of {^T{6yr{x
+G 0 3721 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mb{cu{dl{wlw{dh{ci{mp{x is given to the adept of {^T{6yr{x
+G 0 3722 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mp{ca{dr{wti{ds{ca{mn{x is given to the adept of {^T{6yr{x
+G 0 3724 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {ms{ch{di{we{wld{wp{di{cl{ml{x is given to the adept of {^T{6yr{x
+G 0 3723 0 *{md{ci{ds{wt{wo{wr{dt{ce{md {mi{cl{dl{wu{wsi{wo{cn{ms {mh{ce{da{wl{wth{wp{di{cl{ml{x  is given to the adept of {^T{6yr{x
+O 0 3731 0 3773 *{yfloating ring {wof the {ygods{x loaded to The Basement Armory
+O 0 3729 0 3773 *{yplatemail of the {ygods{x loaded to The Basement Armory
+O 0 3728 0 3773 *{yring {wof the {ygods{x loaded to The Basement Armory
+O 0 3727 0 3773 *{ymisty {wrobe of the {ygods{x loaded to The Basement Armory
+O 0 3726 0 3773 *{ywire {wrimmed spectacles of the {ygods{x loaded to The Basement Armory
+O 0 3725 0 3773 *{ylight {wof the {ygods{x loaded to The Basement Armory
+O 0 3730 0 3773 *{ybackpack {wof the {ygods{x loaded to The Basement Armory
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+3722 5 9 26 0 0 120 60 0 23
+0
+
+
+
+#MOBPROGS
+#3721
+~
+#0
+
+#$

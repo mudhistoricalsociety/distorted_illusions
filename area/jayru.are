@@ -1,0 +1,85 @@
+#AREADATA
+Name Jayru Area~
+Builders Jayru Unlinked~
+VNUMs 9000 9099
+Continent 0
+Credits [CLOSE] Jayru   Unknown~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#9000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#9000
+large immortal cannon psionic Mentalminddestruction~
+the Psionic Cannon of Mentalminddestruction~
+A large immortal cannon lies here.~
+unknown~
+weapon 0 AN
+exotic 150 10 psias J
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#9000
+In the Clouds Somewhere ...~
+{Y
+                           _                                  
+                         (`  ).                   _           
+                        (     ).              .:(`  )`.       
+                       _(       '`.          :(   .    )      
+                   .=(`(      .   )     .--  `.  (    ) )      
+       .--.       ((    (..__.:'-'   .+(   )   ` _`  ) )                 
+     _(    `.     `(       ) )       (   .  )     (   )  ._   
+    (        )      ` __.:'   )     (   (   ))     `-'.-(`  ) 
+   ( `  .  )  )  ( )       --'       `- __.'         :(      )) 
+    `--(___.-'  (_.'          .')                    `(    )  ))
+                             (_  )                     ` __.:'         
+{)
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

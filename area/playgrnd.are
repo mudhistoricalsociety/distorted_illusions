@@ -1,0 +1,2443 @@
+#AREADATA
+Name Newbie Playground~
+Builders Unlinked Atheism~
+VNUMs 41100 41299
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#41100
+Orc female child~
+An Orc child~
+An orc child stands here, with long green hair flowing down to her waist. She wears a tattered dress and sandals.
+~
+~
+orc~
+A J 0 -200 0
+50 60 20d10+5 0d0+0 0d0+0 bite
+0 0 0 0
+0 0 0 S
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#41100
+fountain~
+a fountain flowing with blood~
+A large fountain made out of marble sits here flowing of blood of the fallen enemies.~
+unknown~
+fountain R 0
+2147483647 999999999 'blood' 0 0
+0 9999 0 P
+#41101
+hide of beast~
+hide of the beast~
+The hide is made from the skin of Ingeloakastimizilian~
+skin~
+armor G D
+CE CE CE CE 0
+101 5 4000 P
+A
+19 10
+A
+19 10
+#0
+
+
+
+#ROOMS
+#41100
+Forest path~
+Path's of stone and rubble lead straight to a large red mountain.  Bird's
+chirp, and squirrels play, leaving the surrounding forest quite occupied. 
+The path leads straight north and south, tree's line the path.  
+~
+0 0 3
+D0
+~
+~
+0 0 41101
+S
+#41101
+Forest path~
+The path leads east, and south.  A large boulder blocks any travel to the
+north, while large oak tree's line the path south and east.  The sounds of
+the squirrels and other animals inside the surrounding forest is starting to
+die out, only leaving the large mountain to be focused on.  
+~
+0 0 3
+D1
+~
+~
+0 0 41102
+D2
+~
+~
+0 0 41100
+S
+#41102
+Forest path~
+The path leads east and west, while large oak tree's block travel north
+and south.  Dead silence adds to the ambience of the huge mountain
+approaching.  Smoke is becoming visible ontop of the mountain.  
+~
+0 0 3
+D1
+~
+~
+0 0 41103
+D3
+~
+~
+0 0 41101
+S
+#41103
+Forest path~
+The path leads east and west, while large oak tree's block travel north
+and south.  Dead silence adds to the ambience of the huge mountain
+approaching.  Smoke is becoming visible ontop of the mountain.  
+~
+0 0 3
+D1
+~
+~
+0 0 41104
+D3
+~
+~
+0 0 41102
+S
+#41104
+Forest path~
+The path leads east and west, while large oak tree's block travel north
+and south.  Dead silence adds to the ambience of the huge mountain
+approaching.  Smoke is becoming visible ontop of the mountain.  
+~
+0 0 3
+D1
+~
+~
+0 0 41105
+D3
+~
+~
+0 0 41103
+S
+#41105
+Forest path~
+The path leads east and west, while large oak tree's block travel north
+and south.  Dead silence adds to the ambience of the huge mountain
+approaching.  Smoke is becoming visible ontop of the mountain.  
+~
+0 0 3
+D1
+~
+~
+0 0 41106
+D3
+~
+~
+0 0 41104
+S
+#41106
+Forest path~
+Huge boulders block travel to the east causing the path to take a jagged
+turn north.  The sky is starting to fill with smoke as the mountain
+approaches.  Tree's lining the path are becoming more and more wilted.  
+~
+0 0 3
+D0
+~
+~
+0 0 41107
+D3
+~
+~
+0 0 41105
+S
+#41107
+Forest path~
+Tree's grow taller as the path extends north and south, all wildlife has
+ceased as more smoke fills the air.  A narrow turn is south, as the mountain
+grows nearer and nearer to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 41108
+D2
+~
+~
+0 0 41106
+S
+#41108
+Forest path~
+Dead Oak trees guard the north exit preventing any further passage that
+way, leaving only west, and south.  The path leads on west or leads away
+south.  
+~
+0 0 3
+D2
+~
+~
+0 0 41107
+D3
+~
+~
+0 0 41109
+S
+#41109
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41108
+D3
+~
+~
+0 0 41110
+S
+#41110
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41109
+D3
+~
+~
+0 0 41111
+S
+#41111
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41110
+D3
+~
+~
+0 0 41112
+S
+#41112
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41111
+D3
+~
+~
+0 0 41113
+S
+#41113
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41112
+D3
+~
+~
+0 0 41114
+S
+#41114
+Forest path~
+The path leads west, and east, all the trees guiding the path have died,
+and wilted.  Smoke is heavily blocking the sky.  
+~
+0 0 3
+D1
+~
+~
+0 0 41113
+D3
+~
+~
+0 0 41115
+S
+#41115
+Forest path~
+The path heading north is lined with large boulders, making sure no
+pasage otherwise is enabled.  Large crashings of metal are becoming heard
+towards the mountain.  
+~
+0 0 3
+D0
+~
+~
+0 0 41116
+D1
+~
+~
+0 0 41114
+S
+#41116
+Forest path~
+Large boulders line the path on the east and west.  Smoke still is
+present in the air from the mountain to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 41117
+D2
+~
+~
+0 0 41115
+S
+#41117
+Forest path~
+A pile of skeletons blocks passage to the north, leaving east and south
+as the only options.  The sky is begining to get drowned out from the smoke
+coming from the top of the mountain.  
+~
+0 0 3
+D1
+~
+~
+0 0 41118
+D2
+~
+~
+0 0 41116
+S
+#41118
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41119
+D3
+~
+~
+0 0 41117
+S
+#41119
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41120
+D3
+~
+~
+0 0 41118
+S
+#41120
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41121
+D3
+~
+~
+0 0 41119
+S
+#41121
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41122
+D3
+~
+~
+0 0 41120
+S
+#41122
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41123
+D3
+~
+~
+0 0 41121
+S
+#41123
+Forest path~
+Large tree's guide the path east and west prevent passage to the north
+and south.  Smoke fills the air almost choking the life out of the wildlife
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41124
+D3
+~
+~
+0 0 41122
+S
+#41124
+Forest path~
+The tree line stops in this room, as stairs are seen east.  The smoke
+almost doesnt penetrate the area around the stairs.  
+~
+0 0 0
+D1
+~
+~
+0 0 41125
+D3
+~
+~
+0 0 41123
+S
+#41125
+Begining of the Ascent~
+Stairs lead up the side of the mountain.  Broken pieces of armor can be
+seen ascending the stone stairs.  The path end before the first step.  
+~
+0 0 0
+D3
+~
+~
+0 0 41124
+D4
+~
+~
+0 0 41126
+S
+#41126
+Steep Ascent of the Moutain Peak~
+A path can be seen down, along with a large grouping of dead oak trees. 
+Up the stairs smoke can be seen billowing from the top.  Stone stairs lead
+both up and down.  
+~
+0 0 0
+D4
+~
+~
+0 0 41127
+D5
+~
+~
+0 0 41125
+S
+#41127
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41128
+D5
+~
+~
+0 0 41126
+S
+#41128
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41129
+D5
+~
+~
+0 0 41127
+S
+#41129
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41130
+D5
+~
+~
+0 0 41128
+S
+#41130
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41131
+D5
+~
+~
+0 0 41129
+S
+#41131
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41132
+D5
+~
+~
+0 0 41130
+S
+#41132
+Steep Ascent of the Moutain Peak~
+Stone stairs lead up and down, forest can be seen down along with smoke
+from up on top of the mountain.  
+~
+0 0 0
+D4
+~
+~
+0 0 41133
+D5
+~
+~
+0 0 41131
+S
+#41133
+Steep Ascent of the Moutain Peak~
+Forest can be seen far down the side of the mountain, smoke billows out
+of the top of the mountain.  Stone stairs carry travelers both up and down. 
+~
+0 0 0
+D4
+~
+~
+0 0 41134
+D5
+~
+~
+0 0 41132
+S
+#41134
+Steep Ascent of the Moutain Peak~
+The stairs end as a path can be seen heading east.  A large forest can be
+seen all around the mountain.  Huts are in view east on the peak, fires
+light the sky as smoke billows wildy from them.  
+~
+0 0 0
+D4
+~
+~
+0 0 41135
+D5
+~
+~
+0 0 41133
+S
+#41135
+End of the Ascent~
+A path of woodchip leads to a village seen from the east.  Stairs take
+travelers down the side of the mountain into the forest below.  Fire can
+been seen to the east along with the smoke plaguing the forest below.  
+~
+0 0 0
+D1
+~
+~
+0 0 41136
+D5
+~
+~
+0 0 41134
+S
+#41136
+Shelf on the Mountain~
+Sounds of children can be heard to the north, followed by pounding of
+steel.  Smoke billows from the rooftops of the village, as peasants work
+hard.  To the west a large set of stairs can be seen descending the
+mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 41137
+D1
+~
+~
+0 0 41145
+D3
+~
+~
+0 0 41135
+S
+#41137
+Before Anvils~
+Large anvils litter the street as groups of Orcs pound away on steel. 
+Pile's of weapons can be seen lying around the anvils.  A large shrine of
+some type can be seen northeast, following by a fountain east.  Large huts
+are visible to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 41138
+D1
+~
+~
+0 0 41144
+D2
+~
+~
+0 0 41136
+S
+#41138
+Shelf on the Mountain~
+Large huts are east and west, smoke billows from the tops engulfing the
+sky.  Anvils can been south, and the end of the mountain is approaching
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 41139
+D1
+~
+~
+0 0 41143
+D2
+~
+~
+0 0 41137
+S
+#41139
+Shelf on the Mountain~
+Large huts are east and west, child play around in the streets
+unsupervised.  The end of the mountain is north and the path leads north,
+east, and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 41140
+D1
+~
+~
+0 0 41142
+D2
+~
+~
+0 0 41138
+S
+#41140
+Shelf on the Mountain~
+The path ends heading north, forest can be seen over the edge of the
+mountain top.  A path leads east towards an opening.  Large huts are visible
+south, followed by a set of anvils.  
+~
+0 0 0
+D1
+~
+~
+0 0 41141
+D2
+~
+~
+0 0 41139
+S
+#41141
+Shelf on the Mountain~
+A large path leads around the village heading east and west, accompanied
+by a path heading south towards a shrine, and fountain.  A large path can be
+seen northeast.  
+~
+0 0 0
+D1
+~
+~
+0 0 41150
+D2
+~
+~
+0 0 41142
+D3
+~
+~
+0 0 41140
+S
+#41142
+Shelf on the Mountain~
+Small huts are scattered through out the village, Orcs seem hard at work
+preparing for some event.  A large shrine is visible south, and large anvils
+are south east.  A path can be seen northeastern.  
+~
+0 0 0
+D0
+~
+~
+0 0 41141
+D1
+~
+~
+0 0 41149
+D2
+~
+~
+0 0 41143
+D3
+~
+~
+0 0 41139
+S
+#41143
+Before a Shrine~
+A large shrine lies in the middle of the room.  It seems to resemble a
+large multiarmed Orc, wielding four swords and two maces.  The village
+square is directly south, and anvils can be seen southeast.  
+~
+0 0 0
+D0
+~
+~
+0 0 41142
+D1
+~
+~
+0 0 41148
+D2
+~
+~
+0 0 41144
+D3
+~
+~
+0 0 41138
+S
+#41144
+Village Square~
+A large fountain sits in the middle of the room.  Anvils can be seen to
+the west, and a large hut is enclosing on the east.  A small path can start
+to be seen northeast.  A large shrine is north.  
+~
+0 0 0
+D0
+~
+~
+0 0 41143
+D1
+~
+~
+0 0 41147
+D2
+~
+~
+0 0 41145
+D3
+~
+~
+0 0 41137
+S
+#41145
+Shelf on the Mountain~
+The smoke billows from hatch roof cottages all around.  Children play
+careless in the paths between the cottages as the adults smelt iron, and
+create armors.  Stairs can be faintly seen to the west, along with a square
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 41144
+D1
+~
+~
+0 0 41146
+D3
+~
+~
+0 0 41136
+S
+#41146
+Shelf on the Mountain~
+A path leads north towards a giant hut, and the edge of the mountain is
+south.  Stairs seem to be appearing west, descending down the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 41147
+D3
+~
+~
+0 0 41145
+S
+#41147
+Shelf on the Mountain~
+The largest hut is to the east, and the village square is west.  A large
+path can be seen north.  The sound of steel pounding is west.  
+~
+0 0 0
+D0
+~
+~
+0 0 41148
+D1
+~
+~
+0 0 41231
+D2
+~
+~
+0 0 41146
+D3
+~
+~
+0 0 41144
+S
+#41148
+Shelf on the Mountain~
+A large opening can be seen north surrounded by large rock formations.  A
+giant hut is south, followed by a giant shrine west.  Orcs stay busy
+preparing for the event at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 41149
+D2
+~
+~
+0 0 41147
+D3
+~
+~
+0 0 41143
+S
+#41149
+Shelf on the Mountain~
+A large path can be seen north, followed by a giant hut south, and a
+large shrine southwest.  The edge of the mountain can be seen all around but
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 41150
+D2
+~
+~
+0 0 41148
+D3
+~
+~
+0 0 41142
+S
+#41150
+Shelf on the Mountain~
+A large path leads north surrounding by giant rock formations.  A path
+leads west around the village, and a large shrine can be seen southeast.  A
+giant hut is towards the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 41151
+D2
+~
+~
+0 0 41149
+D3
+~
+~
+0 0 41141
+S
+#41151
+Narrow path around the Crevice~
+A narrow path between to large boulders leads north away from the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 41152
+D2
+~
+~
+0 0 41150
+S
+#41152
+Narrow path around the Crevice~
+A narrow path between to large boulders leads north away from the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 41153
+D2
+~
+~
+0 0 41151
+S
+#41153
+Narrow path around the Crevice~
+A narrow path between to large boulders leads north away from the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 41154
+D2
+~
+~
+0 0 41152
+S
+#41154
+Narrow path around the Crevice~
+A narrow path between to large boulders leads north away from the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 41155
+D2
+~
+~
+0 0 41153
+S
+#41155
+Narrow path around the Crevice~
+The north ends at a large boulder, the path continues on east and south. 
+The village can be seen far south.  
+~
+0 0 0
+D1
+~
+~
+0 0 41156
+D2
+~
+~
+0 0 41154
+S
+#41156
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41157
+D3
+~
+~
+0 0 41155
+S
+#41157
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41158
+D3
+~
+~
+0 0 41156
+S
+#41158
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41159
+D3
+~
+~
+0 0 41157
+S
+#41159
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41160
+D3
+~
+~
+0 0 41158
+S
+#41160
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41161
+D3
+~
+~
+0 0 41159
+S
+#41161
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41162
+D3
+~
+~
+0 0 41160
+S
+#41162
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41163
+D3
+~
+~
+0 0 41161
+S
+#41163
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41164
+D3
+~
+~
+0 0 41162
+S
+#41164
+Narrow path around the Crevice~
+~
+0 0 0
+D1
+~
+~
+0 0 41165
+D3
+~
+~
+0 0 41163
+S
+#41165
+Narrow path around the Crevice~
+~
+0 0 0
+D2
+~
+~
+0 0 41166
+D3
+~
+~
+0 0 41164
+S
+#41166
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41165
+D2
+~
+~
+0 0 41167
+S
+#41167
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41166
+D2
+~
+~
+0 0 41168
+S
+#41168
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41167
+D2
+~
+~
+0 0 41169
+S
+#41169
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41168
+D2
+~
+~
+0 0 41170
+S
+#41170
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41169
+D2
+~
+~
+0 0 41171
+S
+#41171
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41170
+D2
+~
+~
+0 0 41172
+S
+#41172
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41171
+D2
+~
+~
+0 0 41173
+S
+#41173
+Narrow path around the Crevice~
+~
+0 0 0
+D0
+~
+~
+0 0 41172
+D2
+~
+~
+0 0 41174
+S
+#41174
+Narrow path around the Crevice~
+A hole can be seen approaching the south.  A turn in the path can be seen
+far north.  Large boulders block travel east, and west leaving a narrow
+passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 41173
+D2
+~
+~
+0 0 41175
+S
+#41175
+Narrow path around the Crevice~
+A hole leads down to the inside of the cavern.  Large rocks block passage
+east, and west.  A large path can be seen heading north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 41174
+D5
+~
+~
+0 0 41176
+S
+#41176
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41175
+D5
+~
+~
+0 0 41177
+S
+#41177
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41176
+D5
+~
+~
+0 0 41178
+S
+#41178
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41177
+D5
+~
+~
+0 0 41179
+S
+#41179
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41178
+D5
+~
+~
+0 0 41180
+S
+#41180
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41179
+D5
+~
+~
+0 0 41181
+S
+#41181
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41180
+D5
+~
+~
+0 0 41182
+S
+#41182
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41181
+D5
+~
+~
+0 0 41183
+S
+#41183
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41182
+D5
+~
+~
+0 0 41184
+S
+#41184
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41183
+D5
+~
+~
+0 0 41185
+S
+#41185
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41184
+D5
+~
+~
+0 0 41186
+S
+#41186
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41185
+D5
+~
+~
+0 0 41187
+S
+#41187
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41186
+D5
+~
+~
+0 0 41188
+S
+#41188
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41187
+D5
+~
+~
+0 0 41189
+S
+#41189
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41188
+D5
+~
+~
+0 0 41190
+S
+#41190
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41189
+D5
+~
+~
+0 0 41191
+S
+#41191
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41190
+D5
+~
+~
+0 0 41192
+S
+#41192
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41191
+D5
+~
+~
+0 0 41193
+S
+#41193
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41192
+D5
+~
+~
+0 0 41194
+S
+#41194
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41193
+D5
+~
+~
+0 0 41195
+S
+#41195
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41194
+D5
+~
+~
+0 0 41196
+S
+#41196
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41195
+D5
+~
+~
+0 0 41197
+S
+#41197
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41196
+D5
+~
+~
+0 0 41198
+S
+#41198
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41197
+D5
+~
+~
+0 0 41199
+S
+#41199
+Slipping down the Cliff Face~
+Falling!
+~
+0 8192 0
+D4
+~
+~
+0 0 41198
+D5
+~
+~
+0 0 41200
+S
+#41200
+Rock Bottom~
+A large stone wall faces in all directions but east.  Claw marks line the
+wall leaving traces of blood as it follows.  Torches line the walls down the
+cavern to the east.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41201
+D4
+~
+~
+0 0 41199
+S
+#41201
+Dimly lit area in the Cave~
+Torches line the walls to the east, and a large opening is to the west. 
+Scratch marks continue down east, as do the skeletal remains that are
+scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41202
+D3
+~
+~
+0 0 41200
+S
+#41202
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41203
+D3
+~
+~
+0 0 41201
+S
+#41203
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41204
+D3
+~
+~
+0 0 41202
+S
+#41204
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41205
+D3
+~
+~
+0 0 41203
+S
+#41205
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41206
+D3
+~
+~
+0 0 41204
+S
+#41206
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41207
+D3
+~
+~
+0 0 41205
+S
+#41207
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41208
+D3
+~
+~
+0 0 41206
+S
+#41208
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41209
+D3
+~
+~
+0 0 41207
+S
+#41209
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41210
+D3
+~
+~
+0 0 41208
+S
+#41210
+Dimly lit area in the Cave~
+Torches line the walls east and west.  Scratch marks can be seen all over
+the walls of the cave.  Orc remains are seen scattered about.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41211
+D3
+~
+~
+0 0 41209
+S
+#41211
+Dimly lit area in the Cave~
+The hallway continues west, and ends north.  One torch is left on the
+east wall to help ensue travel.  Large pools of red substances can be seen
+to the north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 41212
+D3
+~
+~
+0 0 41210
+S
+#41212
+Sacrifical Chamber~
+Hanging from the ceiling are bodies of sacrifices to the Orc's god. 
+Human bodies are tied by chains above a large pool of blood, it's rumored to
+say that the Orc's would sacrifice a human by cutting their throat so their
+beast could drink the blood of thy enemy.  
+~
+0 8192 0
+D0
+~
+~
+0 0 41213
+D2
+~
+~
+0 0 41211
+S
+#41213
+Inside a Cave~
+Large boulder's line the room almost trapping whatever is in it.  Trails
+of blood and bones lead west, as light leads south.  The ground is almost
+pure red from sometype of masacre.  
+~
+0 8192 0
+D2
+~
+~
+0 0 41212
+D3
+~
+~
+0 0 41214
+S
+#41214
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41213
+D3
+~
+~
+0 0 41215
+S
+#41215
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41214
+D3
+~
+~
+0 0 41216
+S
+#41216
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41215
+D3
+~
+~
+0 0 41217
+S
+#41217
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41216
+D3
+~
+~
+0 0 41218
+S
+#41218
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41217
+D3
+~
+~
+0 0 41219
+S
+#41219
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41218
+D3
+~
+~
+0 0 41220
+S
+#41220
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41219
+D3
+~
+~
+0 0 41221
+S
+#41221
+Inside a Cave~
+Large boulder's block passage north and south, trails of bones guide the
+west and east.  Stalagmites line the ceiling, followed by empty chains.  
+~
+0 8192 0
+D1
+~
+~
+0 0 41220
+D3
+~
+~
+0 0 41222
+S
+#41222
+Dark room in the Cave~
+Stalagmites hang from the ceiling 50 feet high.  Pool's of water sit
+directly below the stalagmites collecting drops of falling water.  Pile's of
+rib cages line the wester wall, as piles of skulls line the east.  
+~
+0 8193 0
+D0
+~
+~
+0 0 41223
+D1
+~
+~
+0 0 41221
+S
+#41223
+Dark room in the Cave~
+Stalagmites hang from the ceiling 50 feet high.  Pool's of water sit
+directly below the stalagmites collecting drops of falling water.  Pile's of
+rib cages line the wester wall, as piles of skulls line the east.  
+~
+0 8193 0
+D0
+~
+~
+0 0 41224
+D2
+~
+~
+0 0 41222
+S
+#41224
+Drop in the Cave~
+Trails of blood can be seen heading down a hole followed by claw marks. 
+A set of skeletal remains makes up an arrow pointing away from the hole. 
+Wall's drip with water from cracks lining the ceiling.  
+~
+0 8193 0
+D2
+~
+~
+0 0 41223
+D5
+~
+~
+0 0 41225
+S
+#41225
+Bloody Passage in the Cave~
+Large volumns of blood line the walls north, south, and west.  A hole can
+been seen leading up, as a passage leads east.  Skulls line the floor east,
+followed by footprints.  
+~
+0 8193 0
+D1
+~
+~
+0 0 41226
+D4
+~
+~
+0 0 41224
+S
+#41226
+Bloody Passage in the Cave~
+A large hole leads down, as a passage leads west.  Darkness envelopes
+down the hole, leading to who knows.  Bone fragments are scattered around
+the hole.  
+~
+0 8193 0
+D3
+~
+~
+0 0 41225
+D5
+~
+~
+0 0 41227
+S
+#41227
+Bloody Passage in the Cave~
+A large hole leads up, and a passage heads east.  Bone's and blood line
+around the walls.  Hand smudges in blood guide to the east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 41228
+D4
+~
+~
+0 0 41226
+S
+#41228
+Bloody Passage in the Cave~
+Broken chain pieces line the walls, along with skeletal remains.  Claw
+marks are present leading down a hole, while water drips from a crack in the
+ceiling.  
+~
+0 8193 0
+D3
+~
+~
+0 0 41227
+D5
+~
+~
+0 0 41229
+S
+#41229
+Bloody Passage in the Cave~
+The bloody passage seems to end east, and continue up.  Broken chains can
+be seen to the east along with human skulls.  Bloody hand prints are seen on
+the wall streaking towards the east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 41230
+D4
+~
+~
+0 0 41228
+S
+#41230
+Lair of the Beast~
+Large chains extrude out of the walls to the south.  Human skulls can be
+seen around the floor.  Whatever did this is a force to be reckoned with.  
+~
+0 1 0
+D3
+~
+~
+0 0 41229
+S
+#41231
+Chieftans Hut~
+Skulls line the walls on shelves resembling trophies of battle.  A large
+granite table adorns the center of the hut, followed by a cast iron stove in
+the east corner.  Large rugs of tiger fire line the floor, and a large straw
+bed sits in the west corner.  
+~
+0 4 0
+D3
+~
+~
+0 0 41147
+S
+#41232
+~
+~
+0 4 0
+S
+#41233
+~
+~
+0 4 0
+S
+#41234
+~
+~
+0 4 0
+S
+#41235
+~
+~
+0 4 0
+S
+#41236
+~
+~
+0 4 0
+S
+#41237
+~
+~
+0 4 0
+S
+#41238
+~
+~
+0 4 0
+S
+#41239
+~
+~
+0 4 0
+S
+#41240
+~
+~
+0 4 0
+S
+#41241
+~
+~
+0 4 0
+S
+#41242
+~
+~
+0 4 0
+S
+#41243
+~
+~
+0 4 0
+S
+#41244
+~
+~
+0 4 0
+S
+#41245
+~
+~
+0 4 0
+S
+#41246
+~
+~
+0 4 0
+S
+#41247
+~
+~
+0 4 0
+S
+#41248
+~
+~
+0 4 0
+S
+#41249
+~
+~
+0 4 0
+S
+#41250
+~
+~
+0 4 0
+S
+#41251
+~
+~
+0 4 0
+S
+#41252
+~
+~
+0 4 0
+S
+#41253
+~
+~
+0 4 0
+S
+#41254
+~
+~
+0 4 0
+S
+#41255
+~
+~
+0 4 0
+S
+#41256
+~
+~
+0 4 0
+S
+#41257
+~
+~
+0 4 0
+S
+#41258
+~
+~
+0 4 0
+S
+#41259
+~
+~
+0 4 0
+S
+#41260
+~
+~
+0 4 0
+S
+#41261
+~
+~
+0 4 0
+S
+#41262
+~
+~
+0 4 0
+S
+#41263
+~
+~
+0 4 0
+S
+#41264
+~
+~
+0 4 0
+S
+#41265
+~
+~
+0 4 0
+S
+#41266
+~
+~
+0 4 0
+S
+#41267
+~
+~
+0 4 0
+S
+#41268
+~
+~
+0 4 0
+S
+#41269
+~
+~
+0 4 0
+S
+#41270
+~
+~
+0 4 0
+S
+#41271
+~
+~
+0 4 0
+S
+#41272
+~
+~
+0 4 0
+S
+#41273
+~
+~
+0 4 0
+S
+#41274
+~
+~
+0 4 0
+S
+#41275
+~
+~
+0 4 0
+S
+#41276
+~
+~
+0 4 0
+S
+#41277
+~
+~
+0 4 0
+S
+#41278
+~
+~
+0 4 0
+S
+#41279
+~
+~
+0 4 0
+S
+#41280
+~
+~
+0 4 0
+S
+#41281
+~
+~
+0 4 0
+S
+#41282
+~
+~
+0 4 0
+S
+#41283
+~
+~
+0 4 0
+S
+#41284
+~
+~
+0 4 0
+S
+#41285
+~
+~
+0 4 0
+S
+#41286
+~
+~
+0 4 0
+S
+#41287
+~
+~
+0 4 0
+S
+#41288
+~
+~
+0 4 0
+S
+#41289
+~
+~
+0 4 0
+S
+#41290
+~
+~
+0 4 0
+S
+#41291
+~
+~
+0 4 0
+S
+#41292
+~
+~
+0 4 0
+S
+#41293
+~
+~
+0 4 0
+S
+#41294
+~
+~
+0 4 0
+S
+#41295
+~
+~
+0 4 0
+S
+#41296
+~
+~
+0 4 0
+S
+#41297
+~
+~
+0 4 0
+S
+#41298
+~
+~
+0 4 0
+S
+#41299
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 41100 0 41200 *A fountain flowing with blood loaded to Rock Bottom
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

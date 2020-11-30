@@ -1,0 +1,2755 @@
+#AREADATA
+Name Talus~
+Builders Unlinked~
+VNUMs 400 549
+Continent 0
+Credits [99 101] Deblin  Talus (Battlefield)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#400
+deer~
+a deer~
+A deer is here, feeding on the foliage.
+~
+~
+fox~
+AB Z 0 0 0
+43 0 10d100+0 0d0+0 4d4+1 none
+0 0 0 0
+FH 0 0 0
+stand stand female 5000
+AGV ACDEFHJKQV medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#400
+A Lage Crater~
+The shattered remains of the tree reach here as well.  The result of the
+explosion is seen in the charred splinters on the ground, and in the trees. 
+Small chunks of metal pepper the area.  An overgrown deer trail goes west of
+here, deeper into the forest.  
+~
+0 0 3
+D3
+~
+~
+0 0 401
+S
+#401
+Deer Trail near the Crater~
+The small trail is only about a foot wide.  Overgrowth goes over the soft
+dirt periodically.  Several birds can be heard throughout the dense forest. 
+Many pieces of broken wood litter the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 400
+D3
+~
+~
+0 0 402
+S
+#402
+A Deer Trail in the Forest~
+Thick forestry shadows the path.  Sunlight only comes through small
+holes in the canopy.  The ground is covered with thick foliage, and small
+saplings.  The faded trail goes west and east 
+~
+0 0 0
+D1
+~
+~
+0 0 401
+D3
+~
+~
+0 0 403
+S
+#403
+The Faded Deer Trail~
+The trees wall either side of the small path.  Branches and roots help
+block your way forward.  Rabbits and birds scurry about, making the forest
+more lively.  
+~
+0 0 0
+D1
+~
+~
+0 0 402
+D3
+~
+~
+0 0 404
+S
+#404
+Small Bend in the Trail~
+The trail bends southward as the growth ahead becomes thicker.  The light
+from the sky is barely making it through to the forest floor.  The ground is
+littered with dead leaves and plant matter.  
+~
+0 0 0
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 405
+S
+#405
+A Westward Bend in the Trail~
+The trail bends from south to west.  The further inward the forest you
+are, the more pieces of metal there are.  Half-spheres of metal as big as a
+fist can be seen every few paces.  Some strange sound is coming from the
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 404
+D3
+~
+~
+0 0 406
+S
+#406
+The Deer Trail Near the Field~
+Indistinctive yelling is coming from the west.  Nothing can be seen
+through the small passageway of trees and underbrush.  The clang of metal on
+metal is coming to you in a roar.  
+~
+0 0 0
+D1
+~
+~
+0 0 405
+D3
+~
+~
+0 0 407
+S
+#407
+Widening Path~
+The pathway widens enough to see a very large field.  A battle rages on
+throughout it all between regiments on the north and south.  A very tall and
+heavily branched tree is here, it looks like it can be easily climbed.  
+~
+0 0 0
+D1
+~
+~
+0 0 406
+D3
+~
+~
+0 0 408
+D4
+~
+~
+0 0 549
+S
+#408
+Far eastern battlefield ~
+The huge melee rages on through the center.  Men and beast are clashing
+against each other in hand to hand combat.  Scores of troops scour the
+field, lead by their commanders into the fray.  The battle is at a
+standstill.  
+~
+0 0 0
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 411
+S
+#409
+Eastren bend in the forest line~
+The deep foliage bends to the west for several yards.  Only a few members
+of the cavalry are here, hoping to flank the ogres.  A captain can be seen,
+displaying his bright coat of arms.  He's wearing majestic platemail.  His
+horse is similarly armored.  
+~
+0 0 0
+D0
+~
+~
+0 0 408
+D3
+~
+~
+0 0 410
+S
+#410
+Far eastern battlefield, by the forent line~
+A gigantic form imposes on this part of the field.  It's a huge, fully
+armored half ogre.  His screams shake the ground as he leads his troops
+forward.  A dozen arrows already stick out of his hide, slowing him down
+little.  
+~
+0 0 0
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 409
+D3
+~
+~
+0 0 485
+S
+#411
+Far eastren battlefield, at the clashing lines~
+A group of ogres are fighting in their tribal styles.  Champions lead
+their warriors into battle.  Some cavalry dragoons are fighting back in
+formation, assisted by men on foot.  
+~
+0 0 0
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 410
+D3
+~
+~
+0 0 477
+S
+#412
+Far eastern battlefield, by the treeline~
+A phalanx of footmen is preparing for the ogres.  The danger of each man
+is compounded by the multiple layers of lances behind each of them.  The
+steel tips of the weapons look menacing.  The clashing lines are to the
+south, and the castle is north.  
+~
+0 0 0
+D0
+~
+~
+0 0 413
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 469
+S
+#413
+Far eastern battlefield, by the treeline~
+~
+0 0 0
+D0
+~
+~
+0 0 414
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 461
+S
+#414
+Far northeastren battlefield, by the treeline~
+~
+0 0 0
+D0
+~
+~
+0 0 415
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 443
+S
+#415
+Far northeastren battlefield, by the treeline~
+~
+0 0 0
+D0
+~
+~
+0 0 418
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 414
+D3
+~
+~
+0 0 444
+S
+#416
+Far northeastren battlefield, by the treeline~
+~
+0 0 0
+D0
+~
+~
+0 0 417
+D3
+~
+~
+0 0 415
+S
+#417
+Far northeastren battlefield, by the treeline~
+~
+0 0 0
+D0
+~
+~
+0 0 419
+D2
+~
+~
+0 0 416
+D3
+~
+~
+0 0 418
+S
+#418
+Eastren front of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 417
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 446
+S
+#419
+Eastren wall of Talus Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 421
+D1
+~
+~
+0 0 420
+D2
+~
+~
+0 0 417
+S
+#420
+Far northern battlefield, on the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 546
+D3
+~
+~
+0 0 419
+S
+#421
+Eastren wall of Talus Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 422
+D1
+~
+~
+0 0 546
+D2
+~
+~
+0 0 419
+S
+#422
+Far northern battlefield, on the cliff~
+~
+0 0 0
+D1
+~
+~
+0 0 544
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 423
+S
+#423
+North wall of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 422
+D3
+~
+~
+0 0 424
+S
+#424
+North wall of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 423
+D3
+~
+~
+0 0 425
+S
+#425
+North wall of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 424
+D3
+~
+~
+0 0 426
+S
+#426
+North wall of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 425
+D3
+~
+~
+0 0 427
+S
+#427
+North wall of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 426
+D3
+~
+~
+0 0 428
+S
+#428
+Far northwestern battlefield, at the cliff ~
+~
+0 0 0
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 431
+D3
+~
+~
+0 0 429
+S
+#429
+Far northwestern battlefield, at the cliff ~
+~
+0 0 0
+D1
+~
+~
+0 0 428
+D2
+~
+~
+0 0 430
+S
+#430
+Far northwestern battlefield, at the cliff ~
+~
+0 0 0
+D0
+~
+~
+0 0 429
+D1
+~
+~
+0 0 431
+D2
+~
+~
+0 0 433
+S
+#431
+West wall of Talus Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 428
+D2
+~
+~
+0 0 432
+D3
+~
+~
+0 0 430
+S
+#432
+West wall of Talus Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 431
+D2
+~
+~
+0 0 435
+D3
+~
+~
+0 0 433
+S
+#433
+Far northwestern battlefield, at the cliff ~
+~
+0 0 0
+D0
+~
+~
+0 0 430
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 434
+S
+#434
+Far northwestern battlefield, at the cliff ~
+~
+0 0 0
+D0
+~
+~
+0 0 433
+D1
+~
+~
+0 0 435
+D2
+~
+~
+0 0 447
+S
+#435
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 436
+D2
+~
+~
+0 0 448
+D3
+~
+~
+0 0 434
+S
+#436
+Westren front of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 437
+D2
+~
+~
+0 0 449
+D3
+~
+~
+0 0 435
+S
+#437
+Westren front of Talus Castle~
+~
+0 0 0
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 436
+S
+#438
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 449
+S
+#439
+Talus Castle, near the front gates~
+~
+0 0 0
+D2
+~
+~
+0 0 440
+D3
+~
+~
+0 0 438
+S
+#440
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 439
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 453
+S
+#441
+Talus Castle, near the front gates~
+~
+0 0 0
+D0
+~
+~
+0 0 543
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 440
+S
+#442
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 445
+D1
+~
+~
+0 0 443
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 441
+S
+#443
+Far northeastren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 442
+S
+#444
+Far northeastren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 446
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 443
+D3
+~
+~
+0 0 445
+S
+#445
+Talus Castle, near the front gates~
+~
+0 0 0
+D1
+~
+~
+0 0 444
+D2
+~
+~
+0 0 442
+S
+#446
+Eastren front of Talus Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 444
+S
+#447
+Far northwestern battlefield, at the cliff ~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 434
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 450
+S
+#448
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 435
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 447
+S
+#449
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 436
+D1
+~
+~
+0 0 438
+D2
+~
+~
+0 0 452
+D3
+~
+~
+0 0 448
+S
+#450
+Far western battlefield, at the cliff~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south. 
+~
+0 0 0
+D0
+~
+~
+0 0 447
+D1
+~
+~
+0 0 451
+D2
+~
+~
+0 0 454
+S
+#451
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 448
+D1
+~
+~
+0 0 452
+D2
+~
+~
+0 0 455
+D3
+~
+~
+0 0 450
+S
+#452
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 449
+D1
+~
+~
+0 0 453
+D2
+~
+~
+0 0 456
+D3
+~
+~
+0 0 451
+S
+#453
+Far northwestren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 438
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 0 457
+D3
+~
+~
+0 0 452
+S
+#454
+Far western battlefield, at the cliff~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south. 
+~
+0 0 0
+D0
+~
+~
+0 0 450
+D1
+~
+~
+0 0 455
+D2
+~
+~
+0 0 462
+S
+#455
+Northwestern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 451
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 463
+D3
+~
+~
+0 0 454
+S
+#456
+Northwestern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 452
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 464
+D3
+~
+~
+0 0 455
+S
+#457
+Northwestern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 453
+D1
+~
+~
+0 0 458
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 456
+S
+#458
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 440
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 466
+D3
+~
+~
+0 0 457
+S
+#459
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 0 467
+D3
+~
+~
+0 0 458
+S
+#460
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 461
+D2
+~
+~
+0 0 468
+D3
+~
+~
+0 0 459
+S
+#461
+Far northeastren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 443
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 469
+D3
+~
+~
+0 0 460
+S
+#462
+Far western battlefield, at the cliff~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south. 
+~
+0 0 0
+D0
+~
+~
+0 0 454
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 470
+S
+#463
+Northwestern battlefield~
+A phalanx of footmen is preparing for when the minotaurs break through
+the first lines.  The danger of each man is compounded by the multiple
+layers of lances behind each of them.  The steel tips of the weapons look
+menacing.  The clashing lines are to the south, and the castle is north.  
+~
+0 0 0
+D0
+~
+~
+0 0 455
+D1
+~
+~
+0 0 464
+D2
+~
+~
+0 0 471
+D3
+~
+~
+0 0 462
+S
+#464
+Northwestern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 456
+D1
+~
+~
+0 0 465
+D2
+~
+~
+0 0 472
+D3
+~
+~
+0 0 463
+S
+#465
+Northwestern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 466
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 464
+S
+#466
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 458
+D1
+~
+~
+0 0 467
+D2
+~
+~
+0 0 474
+D3
+~
+~
+0 0 465
+S
+#467
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 459
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 475
+D3
+~
+~
+0 0 466
+S
+#468
+Far northern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 460
+D1
+~
+~
+0 0 469
+D2
+~
+~
+0 0 476
+D3
+~
+~
+0 0 467
+S
+#469
+Far northeastren battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 477
+D3
+~
+~
+0 0 468
+S
+#470
+Far western battlefield, at the cliff~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 462
+D1
+~
+~
+0 0 471
+D2
+~
+~
+0 0 478
+S
+#471
+Western battlefield, at the clashing lines~
+The huge forms of the minotaurs wield wicked looking weapons.  Their fur
+is stained red from the battling, as are the corpses of the humans below
+them.  There are far fewer minotaurs than their opponents, yet the battle is
+a standstill.  The open sea is to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 463
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 479
+D3
+~
+~
+0 0 470
+S
+#472
+Western battlefield, at the clashing lines~
+The huge forms of the minotaurs wield wicked looking weapons.  Their fur
+is stained red from the battling, as are the corpses of the humans below
+them.  There are far fewer minotaurs than their opponents, yet the battle is
+a standstill.  
+~
+0 0 0
+D0
+~
+~
+0 0 464
+D1
+~
+~
+0 0 473
+D2
+~
+~
+0 0 480
+D3
+~
+~
+0 0 471
+S
+#473
+Western battlefield, at the clashing lines~
+The huge forms of the minotaurs wield wicked looking weapons.  Their fur
+is stained red from the battling, as are the corpses of the humans below
+them.  There are far fewer minotaurs than their opponents, yet the battle is
+a standstill.  Bugbears are attacking the center lines to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 465
+D1
+~
+~
+0 0 474
+D2
+~
+~
+0 0 481
+D3
+~
+~
+0 0 472
+S
+#474
+Northern battlefield, at the clashing lines~
+Bugbears, the largest of the goblinoids, are taking the center lines. 
+With the confrontation of mounted knights, they are making no progress.  The
+castle is in view up to the north, behind several more lines of men. 
+Minotaurs can be seen covering the western flank.  
+~
+0 0 0
+D0
+~
+~
+0 0 466
+D1
+~
+~
+0 0 475
+D2
+~
+~
+0 0 482
+D3
+~
+~
+0 0 473
+S
+#475
+Northern battlefield, at the clashing lines~
+Bugbears, the largest of the goblinoids, are taking the center lines. 
+With the confrontation of mounted knights, they are making no progress.  The
+castle is in view up to the north, behind several more lines of men.  There
+are ogres to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 467
+D1
+~
+~
+0 0 476
+D2
+~
+~
+0 0 483
+D3
+~
+~
+0 0 474
+S
+#476
+Northern battlefield, at the clashing lines~
+A group of ogres are fighting in their tribal styles.  Champions lead
+their warriors into battle.  Some cavalry dragoons are fighting back in
+formation, assisted by men on foot.  Bugbears are west, taking the center
+lines.
+~
+0 0 0
+D0
+~
+~
+0 0 468
+D1
+~
+~
+0 0 477
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 475
+S
+#477
+Eastren battlefield, at the clashing lines~
+A group of ogres are fighting in their tribal styles.  Champions lead
+their warriors into battle.  Some cavalry dragoons are fighting back in
+formation, assisted by men on foot. 
+~
+0 0 0
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 485
+D3
+~
+~
+0 0 476
+S
+#478
+Far western battlefield, at the cliff~
+The plain ends sharply at a tall cliff.  The battle to the east ensues. 
+A fleet of Kolian warships can be seen providing reinforcements at a
+southern beach.  The castle is to the north, and the camp is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 470
+D1
+~
+~
+0 0 479
+D2
+~
+~
+0 0 486
+S
+#479
+Western battlefield~
+Scores of minotaurs are charging to the lines in a bloodlust.  They are
+all very tall and incredibly muscular.  Male and female warriors fight along
+side each other, a rarity among the races.  A hill is to the southeast, and
+more minotaurs are coming up from the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 471
+D1
+~
+~
+0 0 480
+D2
+~
+~
+0 0 487
+D3
+~
+~
+0 0 478
+S
+#480
+Western battlefield~
+Scores of minotaurs are charging to the lines in a bloodlust.  They are
+all very tall and incredibly muscular.  Male and female warriors fight along
+side each other, a rarity among the races.  A hill is south, it would be
+foolish to try to fight your way up the steep slope.  
+~
+0 0 0
+D0
+~
+~
+0 0 472
+D1
+~
+~
+0 0 481
+D3
+~
+~
+0 0 479
+S
+#481
+Western battlefield~
+Scores of minotaurs are charging to the lines in a bloodlust.  They are
+all very tall and incredibly muscular.  Male and female warriors fight along
+side each other, a rarity among the races.  A hill is south, it would be
+foolish to try to fight your way up the steep slope.  
+~
+0 0 0
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 482
+D3
+~
+~
+0 0 480
+S
+#482
+Northern battlefield~
+Troops of bugbears are running to the lines, weapons in hand.  Their
+layers of armor are little protection from the arrows raining down from the
+keep to the north.  The siege engines at the top of the hill are helping
+little in crumbling the ramparts.  The hill to the south is too steep to
+fight through.  
+~
+0 0 0
+D0
+~
+~
+0 0 474
+D1
+~
+~
+0 0 483
+D3
+~
+~
+0 0 481
+S
+#483
+Northern battlefield~
+Troops of bugbears are running to the lines, weapons in hand.  Their
+layers of armor are little protection from the arrows raining down from the
+keep to the north.  The siege engines at the top of the hill are helping
+little in crumbling the ramparts of the castle.  It continues to stand
+strong.  
+~
+0 0 0
+D0
+~
+~
+0 0 475
+D1
+~
+~
+0 0 484
+D2
+~
+~
+0 0 506
+D3
+~
+~
+0 0 482
+S
+#484
+Northern battlefield~
+Sparse groups of gigantic figures are charging fast into the fray.  The
+deafening roars of the ogres makes your armor shake.  More ogres are running
+up from the south, and humans are to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 485
+D2
+~
+~
+0 0 505
+D3
+~
+~
+0 0 483
+S
+#485
+Eastren battlefield~
+Sparse groups of gigantic figures are charging fast into the fray.  The
+deafening roars of the ogres makes your armor shake.  More ogres are running
+up from the south, and humans are to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 410
+D2
+~
+~
+0 0 504
+D3
+~
+~
+0 0 484
+S
+#486
+Far western battlefield, at the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 487
+D2
+~
+~
+0 0 488
+S
+#487
+Western battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 479
+D2
+~
+~
+0 0 489
+D3
+~
+~
+0 0 486
+S
+#488
+Far southwestern battlefield, at the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 486
+D1
+~
+~
+0 0 489
+D2
+~
+~
+0 0 490
+S
+#489
+Western battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 487
+D2
+~
+~
+0 0 491
+D3
+~
+~
+0 0 488
+S
+#490
+Far southwestern battlefield, at the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 488
+D1
+~
+~
+0 0 491
+D2
+~
+~
+0 0 492
+S
+#491
+Western battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 489
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 490
+S
+#492
+Far southwestern battlefield, at the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 490
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 507
+S
+#493
+Southern battlefield, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 491
+D1
+~
+~
+0 0 494
+D2
+~
+~
+0 0 508
+D3
+~
+~
+0 0 492
+S
+#494
+Southern battlefield, by the camp~
+~
+0 0 0
+D1
+~
+~
+0 0 495
+D2
+~
+~
+0 0 509
+D3
+~
+~
+0 0 493
+S
+#495
+Southern battlefield, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 535
+D1
+~
+~
+0 0 496
+D2
+~
+~
+0 0 510
+D3
+~
+~
+0 0 494
+S
+#496
+Southern battlefield~
+~
+0 0 0
+D1
+~
+~
+0 0 497
+D2
+~
+~
+0 0 511
+D3
+~
+~
+0 0 495
+S
+#497
+Southern battlefield~
+~
+0 0 0
+D1
+~
+~
+0 0 498
+D2
+~
+~
+0 0 512
+D3
+~
+~
+0 0 496
+S
+#498
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 499
+D2
+~
+~
+0 0 513
+D3
+~
+~
+0 0 497
+S
+#499
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 500
+D3
+~
+~
+0 0 498
+S
+#500
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 503
+D2
+~
+~
+0 0 499
+D3
+~
+~
+0 0 501
+S
+#501
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 500
+D2
+~
+~
+0 0 498
+S
+#502
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 505
+D1
+~
+~
+0 0 503
+D2
+~
+~
+0 0 501
+S
+#503
+Eastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 504
+D2
+~
+~
+0 0 500
+D3
+~
+~
+0 0 502
+S
+#504
+Eastren battlefield, by the treeline~
+The large humanoids charge through the field with large clubs in their
+hands.  The ground shakes in their passing as a seemingly unstopable pace. 
+None hesitate in their assent into the fray.  
+~
+0 0 0
+D0
+~
+~
+0 0 485
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 505
+S
+#505
+Northern battlefield~
+The large humanoids charge through the field with large clubs in their
+hands.  The ground shakes in their passing as a seemingly unstopable pace. 
+None hesitate in their assent into the fray.  
+~
+0 0 0
+D0
+~
+~
+0 0 484
+D1
+~
+~
+0 0 504
+D2
+~
+~
+0 0 502
+D3
+~
+~
+0 0 506
+S
+#506
+Northern battlefield~
+A trebuchet is lobbing shells on the hill just above you.  The slope is
+too steep to climb.  You could either go around to the east, wading through
+hordes of ogres, or north and west, fighting through bugbears and minotaurs.
+~
+0 0 0
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 505
+S
+#507
+Far southwestern battlefield, at the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 492
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 514
+S
+#508
+Northwestern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 515
+D3
+~
+~
+0 0 507
+S
+#509
+Northern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 494
+D1
+~
+~
+0 0 510
+D2
+~
+~
+0 0 516
+D3
+~
+~
+0 0 508
+S
+#510
+Northeastern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 495
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 517
+D3
+~
+~
+0 0 509
+S
+#511
+Southern battlefield, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 496
+D1
+~
+~
+0 0 512
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 0 510
+S
+#512
+Southern battlefield, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 497
+D1
+~
+~
+0 0 513
+D3
+~
+~
+0 0 511
+S
+#513
+Southeastern battlefield~
+~
+0 0 0
+D0
+~
+~
+0 0 498
+D3
+~
+~
+0 0 512
+S
+#514
+On the shore, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 515
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 523
+S
+#515
+Western Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 516
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 514
+S
+#516
+Central Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 509
+D1
+~
+~
+0 0 517
+D2
+~
+~
+0 0 521
+D3
+~
+~
+0 0 515
+S
+#517
+Eastern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 510
+D1
+~
+~
+0 0 518
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 516
+S
+#518
+Southern battlefield, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 511
+D3
+~
+~
+0 0 517
+S
+#519
+On the southern shore, by the camp~
+~
+0 0 0
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 520
+S
+#520
+Southwestern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 515
+D1
+~
+~
+0 0 521
+D3
+~
+~
+0 0 519
+S
+#521
+Southern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 522
+D3
+~
+~
+0 0 520
+S
+#522
+Southeastern Kolian camp~
+~
+0 0 0
+D0
+~
+~
+0 0 517
+D3
+~
+~
+0 0 521
+S
+#523
+Near the sea~
+~
+0 0 0
+D1
+~
+~
+0 0 514
+D3
+~
+~
+0 0 524
+S
+#524
+Near the sea~
+~
+0 0 0
+D1
+~
+~
+0 0 523
+D2
+~
+~
+0 0 525
+S
+#525
+In the sea~
+~
+0 0 0
+D0
+~
+~
+0 0 524
+D2
+~
+~
+0 0 526
+S
+#526
+In the sea, by the warship~
+~
+0 0 0
+D0
+~
+~
+0 0 525
+D4
+~
+~
+0 0 527
+S
+#527
+On the flagship, XXX~
+~
+0 0 0
+D1
+~
+~
+0 0 528
+D2
+~
+~
+0 0 529
+D5
+~
+~
+0 0 526
+S
+#528
+On the flagship, XXX~
+~
+0 0 0
+D2
+~
+~
+0 0 530
+D3
+~
+~
+0 0 527
+S
+#529
+On the flagship, XXX~
+~
+0 0 0
+D0
+~
+~
+0 0 527
+D1
+~
+~
+0 0 530
+D2
+~
+~
+0 0 531
+S
+#530
+On the flagship, XXX~
+~
+0 0 0
+D0
+~
+~
+0 0 528
+D2
+~
+~
+0 0 532
+D3
+~
+~
+0 0 529
+S
+#531
+On the flagship, XXX~
+~
+0 0 0
+D0
+~
+~
+0 0 529
+D1
+~
+~
+0 0 532
+S
+#532
+On the flagship, XXX, near the forecastle.~
+~
+0 0 0
+D0
+~
+~
+0 0 530
+D3
+~
+~
+0 0 531
+D4
+~
+~
+0 0 533
+S
+#533
+In the forecastle.~
+~
+0 0 0
+D2
+~
+~
+0 0 534
+D5
+~
+~
+0 0 532
+S
+#534
+In the admiral's chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 533
+S
+#535
+Behind the high ground~
+~
+0 0 0
+D0
+~
+~
+0 0 537
+D2
+~
+~
+0 0 495
+S
+#536
+Western end of the high ground~
+~
+0 0 0
+D0
+~
+~
+0 0 539
+D1
+~
+~
+0 0 537
+S
+#537
+The high ground~
+~
+0 0 0
+D0
+~
+~
+0 0 540
+D1
+~
+~
+0 0 538
+D2
+~
+~
+0 0 535
+D3
+~
+~
+0 0 536
+S
+#538
+Eastern end of the high ground~
+~
+0 0 0
+D0
+~
+~
+0 0 541
+D3
+~
+~
+0 0 537
+S
+#539
+Western end of the high ground~
+~
+0 0 0
+D1
+~
+~
+0 0 540
+D2
+~
+~
+0 0 536
+S
+#540
+The high ground~
+~
+0 0 0
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 541
+D2
+~
+~
+0 0 537
+D3
+~
+~
+0 0 539
+S
+#541
+Eastern end of the high ground~
+~
+0 0 0
+D2
+~
+~
+0 0 538
+D3
+~
+~
+0 0 540
+S
+#542
+The northern high ground~
+~
+0 0 0
+D2
+~
+~
+0 0 540
+S
+#543
+The stone bridge to Thalos Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 545
+D2
+~
+~
+0 0 441
+S
+#544
+Far northern battlefield, on the cliff~
+~
+0 0 0
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 422
+S
+#545
+The stone bridge to Thalos Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 547
+D2
+~
+~
+0 0 543
+S
+#546
+Far northern battlefield, on the cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 544
+D2
+~
+~
+0 0 420
+D3
+~
+~
+0 0 421
+S
+#547
+The stone bridge to Thalos Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 548
+D2
+~
+~
+0 0 545
+S
+#548
+Before the doors of Thalos Castle~
+~
+0 0 0
+D2
+~
+~
+0 0 547
+S
+#549
+Overlook from the tree~
+An umbranched portion of the old tree makes an ideal overlook throughout
+the entire field.  The forest circles to the north, up to the sea, and far
+to the south.  The cliff itself circles the field from the north end ,
+through the west, and finally to the south.  A castle is perched on the
+northern cliff.  Its ramparts are swarmed with men.  Two armies occupy the
+field, and are meshed together in the center.  The northern lines are being
+bombarded by 3 large catapults on a section of high ground.  Just to the
+south of it is a camp occupied by several evil races.  
+~
+0 0 0
+D5
+~
+~
+0 0 407
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 400 1 402 1 *Load a deer
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

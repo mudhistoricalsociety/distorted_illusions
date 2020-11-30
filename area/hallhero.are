@@ -1,0 +1,1838 @@
+#AREADATA
+Name Hall of Heroes~
+Builders Roq~
+VNUMs 1900 1949
+Continent 1
+Credits {y[{Y  LGD{y ]{c Roq {Y     Hall of Heroes{X  ~
+Security 4
+Flags 0
+End
+
+#MOBILES
+#1900
+statue aurien allmighty~
+a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x~
+A statue of {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x stands atop the pedestal.
+~
+~
+human~
+ABFNR DFVZc CDEH 0 0
+175 350 1d1+85000 1d1+400000 1d1+299 magic
+-120 -120 -120 -120
+FGHK 0 CDS 0
+stand stand male 15000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1901
+statue commander jegaul~
+a {WStatue{x of {WC{wommander {WJ{wegaul{x~
+A statue of {WC{wommander {WJ{wegaul{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc 0 0 0
+148 300 1d1+19999 1d1+999 1d1+450 none
+-130 -130 -150 -140
+ACDHIK 0 0 0
+stand stand male 23000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1902
+statue rezieal wise~
+a {WStatue{x of {WR{wezieal {Wt{whe {WW{wise{x~
+A statue of {WR{wezieal {Wt{whe {WW{wise{x stands atop the pedestal.
+~
+~
+human~
+ABNQR JVc H 0 0
+150 2200 1d1+55000 1d1+999 2d2+400 wrath
+-125 -125 -125 -130
+ACFHIKN 0 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1903
+statue elenor evilsbane~
+a {WStatue{x of {WE{wlenor {WE{wvilsbane{x~
+A statue of {WE{wlenor {WE{wvilsbane{x stands atop the pedestal.
+~
+~
+human~
+ABNST JVc 0 1000 0
+150 800 1d1+65000 1d1+999 1d4+1100 none
+-130 -140 -150 -160
+DFHKN 0 0 0
+stand stand male 18000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1904
+statue methos high mage highmage~
+a {WStatue{x of {WM{wethos {Wt{whe {WH{wigh{WM{wage{x~
+A statue of {WM{wethos {Wt{whe {WH{wigh{WM{wage{x stands atop the pedestal.
+~
+~
+human~
+ABNR Jc D 0 0
+150 300 1d1+20000 1d1+1999 1d3+400 none
+-140 -140 -140 -160
+G 0 0 0
+stand stand male 16000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1905
+statue valadin vigilant~
+a {WStatue{x of {WV{waladin {Wt{whe {WV{wigilant{x~
+A statue of {WV{waladin {Wt{whe {WV{wigilant{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc H 0 0
+150 300 1d1+17000 1d1+999 1d1+360 none
+-120 -120 -120 -120
+AFHIN 0 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1906
+statue kharis dwarven paladin~
+a {WStatue{x of {WK{wharis {Wt{whe {WD{wwarven {WP{waladin{x~
+A statue of {WK{wharis {Wt{whe {WD{wwarven {WP{waladin{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc 0 0 0
+150 300 1d1+18000 1d1+999 3d50+400 none
+-130 -130 -130 -150
+DEFN 0 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1907
+statue eagle eye elric archer knight~
+a {WStatue{x of {WE{wagle-{WE{wye {WE{wlric{x~
+A statue of {WE{wagle-{WE{wye {WE{wlric{x the {BA{brcher {BK{bnight{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc 0 0 0
+150 300 1d1+16000 1d1+999 2d3+399 pierce
+-130 -130 -130 -140
+CDEHIN 0 0 0
+stand stand male 19000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1908
+statue salamar sneaky~
+a {WStatue{x of {WS{walamar {Wt{whe {WS{wneaky{x~
+A statue of {WS{walamar {Wt{whe {WS{wneaky{x stands atop the pedestal.
+~
+~
+human~
+ABENS JVc 0 0 0
+150 300 1d1+19000 1d1+999 3d2+400 none
+-160 -150 -140 -130
+EFHI 0 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1909
+statue astoz vengeful~
+A {&Statue {7of A{8stoz {7t{8he {7V{8engeful{x~
+A statue of {wA{Dstoz {wt{Dhe {wV{Dengeful{x stands atop the pedestal.
+~
+~
+human~
+ABNR Jc 0 0 0
+150 300 1d1+19999 1d1+999 1d1+400 none
+-140 -140 -140 -100
+FGH 0 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1910
+statue irmarg ogre berserker~
+a {WStatue{x of {wI{Drmarg {wt{Dhe {wO{Dgre {wB{Derserker{x~
+A statue of {wI{Drmarg {wt{Dhe {wO{Dgre {wB{Derserker{x stands atop the pedestal.
+~
+~
+human~
+ABNR Jc 0 0 0
+150 299 1d1+18999 1d1+999 1d3+400 none
+-130 -130 -130 -130
+CEF 0 0 0
+stand stand male 18000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1911
+statue welrog wicked~
+a {WStatue{x of {wW{Delrog {wt{Dhe {wW{Dicked{x~
+A statue of {wW{Delrog {wt{Dhe {wW{Dicked{x stands atop the pedestal.
+~
+~
+human~
+ABNR JVc 0 0 0
+150 300 1d1+39999 1d1+999 1d3+400 none
+0 -70 -140 0
+CEFK 0 0 0
+stand stand male 19000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1912
+statue zalzamarr corrupt~
+a {WStatue{x of {wZ{Dalzamarr {wt{Dhe {wC{Dorrupt{x~
+A statue of {wZ{Dalzamarr {wt{Dhe {wC{Dorrupt{x stands atop the pedestal.
+~
+~
+human~
+ABNR JVc 0 0 0
+150 300 1d1+19999 1d1+999 1d2+400 none
+-130 -135 -140 -145
+CEFHK 0 0 0
+stand stand male 19000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1913
+statue firorg furious~
+a {WStatue{x of {wF{Dirorg {wt{Dhe {wF{Durious{x~
+A statue of {wF{Dirorg {wt{Dhe {wF{Durious{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc 0 0 0
+150 300 1d1+21999 1d1+999 1d5+420 none
+-140 -140 -140 -120
+CEFHIK 0 0 0
+stand stand male 29000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1914
+statue caleir seductress~
+a {WStatue{x of {wC{Daleir {wt{Dhe {wS{Deductress{x~
+A statue of {wC{Daleir {wt{Dhe {wS{Deductress{x stands atop the pedestal.
+~
+~
+human~
+ABNT JVc E 0 0
+150 50 1d1+21999 1d1+999 1d1+410 none
+-130 -130 -140 -150
+FHKN 0 0 0
+stand stand female 21000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1915
+statue carnorthor minotaur warchief~
+a {WStatue{x of {wC{Darnorthor {wt{Dhe {wM{Dinotaur {wW{Darchief{x~
+A statue of {wC{Darnorthor {wt{Dhe {wM{Dinotaur {wW{Darchief{x stands atop the pedestal.
+~
+~
+human~
+ABNT Jc 0 0 0
+150 300 1d1+39999 1d1+999 1d2+400 none
+-130 -130 -140 -150
+CEFK 0 0 0
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1916
+statue balhnorg terrible~
+a {WStatue{x of {dB{Dalhnorg the {dT{Derrible{x~
+A {WStatue{x of {dB{Dalhnorg the {dT{Derrible{x stands on its pedestal.
+~
+~
+human~
+ABNT 0 0 0 0
+150 0 100d1000+5000 0d0+0 20d150+100 none
+100 100 100 100
+EGHJKO N D M
+stand stand none 50000
+EH ABCDEFGK medium unknown
+F for AMV
+F par HIJ
+#1917
+statue snarm~
+a {WStatue{x of {dS{Dnarm{x~
+A {WStatue{x of {dS{Dnarm, the {dM{Daster of {dD{Death{x
+~
+~
+human~
+ABNS DEPQV BH 0 0
+150 0 100d1000+5000 1000d1000+100 1d1+299 none
+-150 -150 -250 -250
+BEFHJK 0 CD 0
+stand stand none 50000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 1932 1000~
+#1918
+Statue of Nytassa~
+A statue of Nytassa~
+A statue of {wNytassa the Mage Slayer{c stands atop a pedestal.
+~
+~
+human~
+ABN DFV 0 0 0
+150 350 1d1+21000 0d0+0 1d1+450 none
+-150 -150 -155 -155
+CDEHJ ABC 0 0
+stand stand female 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1919
+Statue of Rathal~
+a Statue of Rathal the Great~
+A statue of {wRathal the Great{x stands atop a pedestal.
+~
+~
+human~
+ABN V 0 0 0
+170 550 500d500+500 110d100+100 40d150+125 slap
+-155 -150 -150 -160
+0 AB CD 0
+stand stand none 21000
+J 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1920
+statue iezul forgemaster~
+A statue of {wIezul the Forgemaster{x~
+A statue of {wIezul the Forgemaster{x stands here atop a pedestal
+~
+~
+human~
+ABNT PTV 0 0 0
+150 550 100d500+100 0d0+0 100d100+200 beating
+-200 -200 -200 -200
+CDH AB D IM
+stand stand male 50000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1921
+statue kaori supreme knight balance~
+A statue of {wKaori{x~
+A statue of {wKaori the Supreme Knight of the Balance{x stands here atop a pedestal
+~
+~
+human~
+ABNT PTV BC 0 0
+150 550 100d500+100 0d0+0 100d100+200 none
+-200 -200 -200 -200
+CEH 0 0 0
+stand stand none 75000
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1922
+statue omnigor~
+A statue of {wOmnigor the Conjurer{x~
+A statue of {wOmnigor the Conjurer of Balance{x stands here atop a pedestal
+~
+~
+human~
+A 0 BH 0 0
+150 550 100d500+100 500d500+100 100d100+200 none
+-240 -240 -240 -240
+A ABC D MN
+stand stand none 75000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1923
+statue lana high conjurer~
+A statue of {wLana{x~
+A statue of Lana the High Conjurer stands here atop a pedestal
+~
+~
+human~
+AB IPVc 0 0 0
+150 600 100d2000+5000 100d120+5000 50d125+300 none
+-130 -130 -130 -130
+AEFGHIK 0 DENQ 0
+stand stand none 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1924
+Wriec Statue Glory~
+A statue of Wriech~
+A statue of Wriech, the first to Legend on Distorted Illusions, is here looking sneaky.
+~
+Behold! Wriech! The first mortal to reach Legend status on Distorted
+Illusions!
+~
+dragon~
+ABGST DFJTVc DO -1000 0
+200 250 1d1+23500 1d1+20000 25d79+90 fury
+-100 -100 -100 -100
+BEFGHIK ABHK BCEGH FINS
+stand stand none 90000
+AHZ ACDEFGHIJKPQUVX huge unknown
+#1925
+ghaleon giantslayer~
+{GGh{Da{Gl{Deo{Gn {Dth{Ge G{Cia{Gnts{Cla{Gy{Ce{Gr{x~
+{GGh{Da{Gl{Deo{Gn {Dth{Ge G{Cia{Gnts{Cla{Gy{Ce{Gr{g stands here, one with nature.{x
+~
+~
+human~
+ABEFRT DFJZc CDEH 1000 0
+185 500 1d100000+0 0d0+0 20d100+400 fury
+-140 -140 -140 -200
+DFGK ABLQ HIJPT 0
+stand stand male 50000
+AHMV ABCDEFGHIJK large unknown
+M FIGHT 1924 100~
+M RANDOM 1925 33~
+#1926
+bear ghalbear~
+a bear~
+A bear is standing here.
+~
+The bear follows its master.
+~
+human~
+ABFT DFUVZc 0 0 0
+101 500 1d1+4999 1d1+99 29d29+100 claw
+20 20 20 25
+CDO ABI 0 H
+stand stand none 0
+ABHIMV ABCDEFGHIJKLV giant unknown
+#1948
+astinos statue~
+Astinos~
+A statue of Astinos the Fierce stands atop a pedestal.
+~
+~
+storm-giant~
+ABF FVc 0 0 0
+150 500 1d1+85000 1d1+80000 1d1+500 fury
+0 0 0 0
+CDEJ J CMN P
+stand stand male 100000
+AHMV ABCDEFGHIJK large unknown
+#1949
+a huge santa christmas~
+OMG! It's Santa Claus! Maybe he has a present for you?~
+OMG! It's Santa Claus! Maybe he has a present for you?
+~
+~
+alaghi~
+A 0 0 0 0
+2100 100 1d1+5 10d10+10 0d0+0 peck
+2 2 2 2
+0 0 0 0
+stand stand none 0
+AHMVW ABCDEFGHIJKUVW medium unknown
+#0
+
+
+
+#OBJECTS
+#1900
+iron hammer~
+{DIron {wHammer{x~
+A large iron hammer sits here.~
+unknown~
+weapon AIK AN
+mace 13 15 smash N
+101 10 10000 P
+A
+18 10
+A
+19 10
+#1901
+Death~
+{W-{w={DD{we{Wa{wt{Dh{w={W-{x~
+Death lies here, waiting to claim you.~
+iron~
+weapon HY AN
+dagger 7 28 psias CH
+101 0 100000 P
+A
+2 -3
+A
+19 20
+A
+1 -2
+A
+13 -50
+#1902
+twinkling emerald earring ear~
+large {Geme{gr{Gald{x earring{x~
+A very precious looking stone lies here.~
+unknown~
+armor AY AS
+BE BE BE BE 0
+101 2 220000 P
+A
+19 12
+A
+18 12
+A
+14 -150
+#1903
+sage wisdom~
+{$W{^i{&sd{^o{$m {^of the {^S{&ag{$e{x~
+Eternal wisdom of the Sages~
+unknown~
+weapon SY AN
+exotic 11 18 magic BEFGJ
+101 1 20000 P
+A
+19 -7
+A
+18 -7
+A
+12 -80
+#1904
+divine blessing~
+{#D{7i{#vi{7n{#e {#B{7l{&e{#ss{&i{7n{#g{x~
+A pure divine light lies here, discarded~
+unknown~
+light AY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 1 100000 P
+A
+19 12
+A
+13 75
+A
+17 -5
+A
+18 5
+#1905
+command helmet~
+{*H{7e{&lmet {xof {*C{&o{7mmand~
+A high ranked helmet lies here thrown to the side~
+unknown~
+armor Y AE
+CE CE CE CE 0
+101 25 50000 P
+A
+20 7
+A
+19 15
+A
+18 15
+#1906
+Mark Aurien Burnt~
+{WM{wark of {WA{wurien{x~
+The burnt mark of {WA{wurien{x~
+nonmetal~
+armor ABFST AU
+BD BD BD BD 0
+101 4 200000 P
+A
+19 20
+A
+18 -10
+#1907
+Purification Dagger Thin White~
+{&W{7hite {&D{7agger of {&P{7urification~
+Thin white dagger radiating energy.~
+unknown~
+weapon ABIKf AN
+dagger 24 8 divine EJ
+101 8 0 P
+A
+19 5
+A
+18 -10
+A
+13 -50
+#1908
+Wall Aurien White~
+{&W{7all of {&A{7urien~
+A shimmering light of {WWhite{x~
+unknown~
+armor ABISTY AJ
+ABDF ABDF ABDF ABDF 0
+101 30 100000 P
+A
+2 -5
+A
+13 200
+#1909
+vigiliance incarnate~
+{&V{7igilance {#I{3ncarnate{x~
+{&V{7igilance {#I{3ncarnate{x lies here.~
+unknown~
+armor ABFK AB
+AC AC AC AC 0
+101 5 100000 P
+A
+17 -30
+A
+13 75
+#1910
+Minotaur Nose Ring~
+{7M{8inotau{7r {1N{3oserin{1g{x~
+The bloody ring from a great minotaurs nose.~
+iron~
+armor TY AR
+ABCD ADE ABCD ADE 0
+101 3 70000 P
+A
+12 -200
+A
+18 5
+A
+19 15
+#1911
+Commanders Voice~
+{&C{7ommanders {!V{1oice{x~
+{&C{7ommanders {!V{1oice{x lies here humming.~
+unknown~
+weapon ABIKT AN
+sword 12 16 wrath 0
+101 7 0 P
+A
+1 2
+A
+2 2
+A
+20 5
+A
+19 17
+A
+18 17
+A
+17 25
+#1912
+faith balance~
+{GF{ga{Gith {win {GB{ga{Glance{x~
+{GF{ga{Gith {win {GB{ga{Glance{x~
+unknown~
+armor ABIKT AV
+ABCD ABCD ABCD ABCD 0
+101 20 100000 P
+A
+20 -1
+A
+19 5
+A
+18 5
+A
+12 50
+A
+13 50
+#1913
+spellbane boots~
+{MSp{Be{bl{Bl{Mb{ma{Bn{Ce B{Woot{ws{x~
+Boots that seem to ward off all magic lie here.~
+unknown~
+armor ABIKT AG
+BCDE BCDE BCDE BCDE 0
+101 10 0 P
+A
+19 -10
+A
+20 -5
+#1914
+Hawkeye Longbow~
+{#H{3awkeye {2L{3o{2n{3g{2b{3o{2w{x~
+{#H{3awkeye {2L{3o{2n{3g{2b{3o{2w{x lies here.~
+unknown~
+weapon ABGIK AN
+exotic 23 8 pierce EFG
+101 10 0 P
+A
+18 5
+A
+19 -10
+A
+17 -20
+F
+A 0 0 L
+#1915
+Flowing White Cloak~
+{8F{&lowing {8W{&hite {8C{&loak{x~
+A huge white cloak lies here.~
+unknown~
+armor ABIK AK
+CE CE CE CE 0
+101 5 0 P
+A
+18 10
+A
+19 10
+F
+A 0 0 P
+#1916
+eyeball extracted~
+{&E{7x{1tr{!a{1ct{7e{&d {1E{&y{7e{!b{7a{&l{1l{x~
+A recently extracted eyeball~
+eyeball~
+armor Y AQ
+CE CE CE CE 0
+101 1 666 P
+A
+19 14
+A
+14 -75
+A
+3 -1
+A
+13 75
+#1917
+whip dominatrix~
+{*W{%hi{*p of {%Domi{*na{%tion{x~
+A leather whip belonging to the Dominatrix~
+unknown~
+weapon Y AN
+whip 52 3 whip 0
+101 6 15000 P
+A
+13 -25
+A
+1 2
+A
+19 10
+A
+18 5
+A
+2 2
+#1918
+fist rage~
+{3F{1i{!s{1t{3s of {1R{!ag{1e{x~
+Fists empowered by the rage of the ogre~
+iron~
+armor Y AH
+ACD BCD ABCD ACD 0
+101 2 10000 P
+A
+19 15
+A
+18 -10
+A
+13 75
+A
+1 2
+A
+3 -2
+#1919
+vengeance barrier~
+{7B{8arrier of {7V{8e{1n{3g{7e{3a{1n{8c{7e{x~
+A Barrier holding the vengeance of Astoz within it.~
+untouchable force~
+armor A AJ
+ABF ABF ABF ABF 0
+101 20 10000 P
+A
+19 15
+A
+13 -200
+#1920
+apron bloody~
+{!B{1lo{!o{1d{!y {&A{7p{1r{!on{x~
+A bloodstained apron belonging to a butcher~
+unknown~
+armor Y AK
+CE CE CE CE 0
+101 1 10000 P
+A
+1 1
+A
+13 -175
+A
+19 18
+#1921
+ranseur pacifier~
+{WT{che {WR{Canseur {G"{WP{cac{Cif{cie{Wr{G"{x~
+{WT{che {WR{Canseur {G"{WP{cac{Cif{cie{Wr{G"{x~
+unknown~
+weapon AMTYf AN
+polearm 55 3 fury EFG
+101 25 0 P
+A
+19 5
+A
+20 5
+#1922
+spellbane boots~
+{%Sp{$e{4l{$l{%b{5a{$n{^e B{&o{7o{&t{7s{X~
+A pair of boots lie here, looking unused~
+unknown~
+armor Y AG
+BCDE BCDE BCDE BCDE 0
+101 1 20000 P
+A
+1 -3
+A
+20 -6
+#1923
+whispers wisdom~
+{^W{6h{&i{7sp{&e{6r{^s {6o{^f {6W{^i{7s{&d{^o{6m{x~
+Wisdom swirls about,in the form of whispers~
+unknown~
+armor Y AS
+ABF ABF ABF ACDF 0
+101 1 10000 P
+A
+4 1
+#1924
+conjurer token~
+a {cconjuring {wtoken{x~
+A small, rectangular token lies in the dirt.~
+unknown~
+treasure GY AO
+0 0 0 0 0
+101 3 50000 P
+A
+13 100
+A
+12 200
+A
+20 -2
+A
+17 -15
+#1925
+Godly heavy crossbow special~
+{x Godly heavy crossbow~
+Heavy crossbow is here.~
+diamond~
+weapon KLY AN
+exotic 10 23 pierce AF
+101 0 100000 P
+A
+17 -50
+#1945
+scripture of healing~
+{&S{7cripture of {^H{6ealing{x~
+{&S{7cripture of {^H{6ealing{x~
+unknown~
+scroll ABHSY AO
+105 'mass healing' 'mass healing' 'heal' 'heal'
+101 1 200000 P
+#1946
+slim oak branch~
+{wS{Wl{wi{Wm {gO{Ya{gk {wB{Wr{wa{Wn{wc{Wh{x~
+A long, slim branch from an oak tree has fallen here~
+unknown~
+wand ABS AO
+145 8 8 'bless' 0
+101 1 100000 P
+#1947
+pill marked emergency~
+{2P{&i{2l{&l {7marked {0"{!Emergency{0"{x~
+{2P{&i{2l{&l {7marked {0"{!Emergency{0"{x~
+unknown~
+pill ABY A
+125 'earthmeld' 'invisibility' 'cure blindness' 'heal'
+101 0 200000 P
+#1948
+black laquered legplates~
+{DBlack-La{wq{Du{we{Dred L{weg{Dplates{x~
+A pair of legplates coated with black laquer lies here.~
+unknown~
+armor EJ AF
+BCDE BCDE BCDE BCDE 0
+101 10 20000 P
+A
+19 10
+A
+20 -2
+F
+R 12 -100 Q
+#1949
+scorched armplates~
+{!S{1c{3o{#rc{3h{1e{!d {#A{3r{1m{!p{#l{!a{1t{3e{#s{x~
+Armplates that seem to have somehow been burnt.~
+metal~
+armor LYf AI
+CE BD CE CE 0
+101 1 5000 P
+A
+2 -1
+A
+19 13
+A
+13 125
+#0
+
+
+
+#ROOMS
+#1900
+Entering the Hall of Heroes~
+The walls are made of stone and are clean.  Torchs hang here and there. 
+The floor has been swept clean.  A hall leads north through a large, archway
+door.  Glass windows are built into the ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 1901
+D4
+~
+~
+0 0 338
+S
+#1901
+Southern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  
+~
+0 8 0
+D0
+~
+~
+0 0 1902
+D1
+~
+~
+1 0 1919
+D2
+~
+~
+0 0 1900
+S
+#1902
+Southern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  
+~
+0 8 0
+D0
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1901
+S
+#1903
+Southern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  
+~
+0 8 0
+D0
+~
+~
+0 0 1905
+D1
+~
+~
+0 0 1920
+D2
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1921
+S
+#1904
+Southern Hallway~
+The halls are wide and well lit.  The hallways is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  
+~
+0 8 0
+D2
+~
+~
+0 0 1903
+S
+#1905
+Hallway Intersection~
+Two halls come together.  A small table sits at each corner holding huge
+candles.  A statue stands in the center of the intersection.  The halls lead
+in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 1906
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1903
+D3
+~
+~
+0 0 1918
+S
+#1906
+Northern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  
+~
+0 8 0
+D0
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1905
+S
+#1907
+Northern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  There are doors to the east
+and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+1 0 1943
+D2
+~
+~
+0 0 1906
+D3
+~
+~
+1 0 1947
+S
+#1908
+Northern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  There are doors to the east
+and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1909
+D1
+~
+~
+1 0 1942
+D2
+~
+~
+0 0 1907
+D3
+~
+~
+1 0 1946
+S
+#1909
+Northern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the north.  South leads back to the entrance.  There are doors to the east
+and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1948
+D1
+~
+~
+1 0 1941
+D2
+~
+~
+0 0 1908
+D3
+~
+~
+1 0 1945
+S
+#1910
+The Glory of Wriech~
+This appears to be the end of the hall. The wall is made up of a smooth,
+white marble. And there is a large burning torch hanging from the center
+of the wall. The only exit appears to be the way you just came.
+nw
+ 
+ 
+-
+~
+0 8 0
+D4
+~
+~
+0 0 1949
+S
+#1911
+Eastern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1931
+D1
+~
+~
+0 0 1912
+D2
+~
+~
+1 0 1935
+D3
+~
+~
+0 0 1905
+S
+#1912
+Eastern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1932
+D1
+~
+~
+0 0 1913
+D2
+~
+~
+1 0 1936
+D3
+~
+~
+0 0 1911
+S
+#1913
+Eastern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1933
+D1
+~
+~
+0 0 1914
+D2
+~
+~
+1 0 1937
+D3
+~
+~
+0 0 1912
+S
+#1914
+End of the Eastern Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the west.  There ard doors to the north, south and east.  
+~
+0 8 0
+D0
+~
+~
+1 0 1934
+D1
+~
+~
+1 0 1939
+D2
+~
+~
+1 0 1938
+D3
+~
+~
+0 0 1913
+S
+#1915
+End of the Western Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east.  There are doors to the north, west and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1927
+D1
+~
+~
+0 0 1916
+D2
+~
+~
+1 0 1923
+D3
+~
+~
+1 0 1922
+S
+#1916
+Western Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1928
+D1
+~
+~
+0 0 1917
+D2
+~
+~
+1 0 1924
+D3
+~
+~
+0 0 1915
+S
+#1917
+Western Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1929
+D1
+~
+~
+0 0 1918
+D2
+~
+~
+1 0 1925
+D3
+~
+~
+0 0 1916
+S
+#1918
+Western Hallway~
+The hall is wide and well lit.  The hallway is kept very clean.  Epic
+battle scenes have been carved into the stone walls.  The hall continues to
+the east and west.  There are doors to the north and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1930
+D1
+~
+~
+0 0 1905
+D2
+~
+~
+1 0 1926
+D3
+~
+~
+0 0 1917
+S
+#1919
+Caretakers Room~
+A large bed sits against the eastern wall.  The room is very clean and
+smells of fresh cut flowers.  There is a small closet in the northern wall. 
+A small candle sits on a table near the bed.  
+~
+0 8 0
+D3
+~
+~
+1 0 1901
+S
+#1920
+Small Room~
+This small room is lit buy two candles in the center of the room.  A few
+chairs surround the table.  There is a book case against one of the walls. 
+The room looks to have been provided for those who want to relax.  
+~
+0 8 0
+D3
+~
+~
+0 0 1903
+M 150 H 150
+S
+#1921
+Small Room~
+This small room is lit buy two candles in the center of the room.  A few
+chairs surround the table.  There is a book case against one of the walls. 
+The room looks to have been provided for those who want to relax.  
+~
+0 8 0
+D1
+~
+~
+0 0 1903
+M 150 H 150
+S
+#1922
+Throne of Aurien~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D1
+~
+~
+1 0 1915
+S
+#1923
+Jegaul's Command~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1915
+S
+#1924
+Shrine of Rezieal~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1916
+S
+#1925
+Elenor's Peace~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+E
+plaque~
+Some plaque dude.
+~
+D0
+~
+~
+1 0 1917
+S
+#1926
+Methos' Mission~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1918
+S
+#1927
+Valadin's Vigilance~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+0 0 1915
+S
+#1928
+Kharis' Protection~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1916
+S
+#1929
+Elric's Duty~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1917
+S
+#1930
+Salamar's Solitude~
+The room is large.  The walls are a very bright white color.  A sphere is
+hanging from the ceiling in the center that emits a light that brightens the
+room.  A large pedestal stands beneath the sphere.  A {Ygolden plaque{x is
+mounted in the pedestal.  A large statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1918
+S
+#1931
+Balhnorg's Butchery~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1911
+S
+#1932
+Snarm's Smite~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1912
+S
+#1933
+Carnorthor's Carnage~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1913
+S
+#1934
+Caleir's Seduction~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D2
+~
+~
+1 0 1914
+S
+#1935
+Firorg's Frenzy~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1911
+S
+#1936
+Zalzamarr's Corruption~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1912
+S
+#1937
+Welrog's Wickedness~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1913
+S
+#1938
+Irmarg's Rampage~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D0
+~
+~
+1 0 1914
+S
+#1939
+Astoz's Vengence~
+The room is very large.  The walls are a dark stone.  Smoke hangs in the
+air from the single torch that barely lights the room.  A large pedestal
+stands in the center of the room.  A {Ddark plaque{x is mounted in the
+pedestal.  A large black statue stands atop the pedestal as well.  
+~
+0 8 0
+D3
+~
+~
+1 0 1914
+S
+#1940
+Erirbor's Honor~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 12 0
+S
+#1941
+Lana's Shrine~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D3
+~
+~
+1 0 1909
+S
+#1942
+Kaori's Keep~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D3
+~
+~
+1 0 1908
+S
+#1943
+Nytassa's Stash~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D3
+~
+~
+1 0 1907
+S
+#1944
+Mauldyn's Perfection~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 12 0
+S
+#1945
+Omnigor's Tranquility~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D1
+~
+~
+1 0 1909
+S
+#1946
+Iezul's Anvil~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D1
+~
+~
+1 0 1908
+S
+#1947
+Rathal's Grave~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 8 0
+D1
+~
+~
+1 0 1907
+S
+#1948
+Astinos' Balance~
+The room is fairly large.  The walls have been painted a gray color. 
+Small stands sit in each corner, each holding a small lantern.  A large
+pedestal stands in the center of the room.  A {wmetal plaque{x is mounted in
+the pedestal underneath the spot where a large stone statue stands high.  
+~
+0 12 0
+D2
+~
+~
+0 0 1909
+S
+#1949
+Ghaleon's Domain~
+This room is overgrown with plant life, with rays of sunlight streaming
+in from large cracks in the ceiling where the roof has collapsed.  A statue
+of Ghaleon the Giantslayer dominates the room, a monument to his
+single-handed slaying of Jolungth the righteous frost giant.  
+~
+0 65536 3
+D5
+~
+~
+0 0 1910
+S
+#0
+
+
+
+#SPECIALS
+M 1900 spec_cast_cleric Load to: a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x
+M 1902 spec_cast_cleric Load to: a {WStatue{x of {WR{wezieal {Wt{whe {WW{wise{x
+M 1904 spec_cast_mage Load to: a {WStatue{x of {WM{wethos {Wt{whe {WH{wigh{WM{wage{x
+M 1909 spec_cast_mage Load to: A {&Statue {7of A{8stoz {7t{8he {7V{8engeful{x
+M 1912 spec_cast_mage Load to: a {WStatue{x of {wZ{Dalzamarr {wt{Dhe {wC{Dorrupt{x
+M 1922 spec_cast_mage Load to: A statue of {wOmnigor the Conjurer{x
+M 1923 spec_cast_mage Load to: A statue of {wLana{x
+M 1924 spec_breath_gas Load to: A statue of Wriech
+M 1925 spec_breath_acid Load to: {GGh{Da{Gl{Deo{Gn {Dth{Ge G{Cia{Gnts{Cla{Gy{Ce{Gr{x
+S
+
+
+
+#RESETS
+D 0 1901 1 1 The east door of Southern Hallway is closed
+D 0 1907 1 1 The east door of Northern Hallway is closed
+D 0 1907 3 1 The west door of Northern Hallway is closed
+D 0 1908 1 1 The east door of Northern Hallway is closed
+D 0 1908 3 1 The west door of Northern Hallway is closed
+D 0 1909 1 1 The east door of Northern Hallway is closed
+D 0 1909 3 1 The west door of Northern Hallway is closed
+D 0 1911 0 1 The north door of Eastern Hallway is closed
+D 0 1911 2 1 The south door of Eastern Hallway is closed
+D 0 1912 0 1 The north door of Eastern Hallway is closed
+D 0 1912 2 1 The south door of Eastern Hallway is closed
+D 0 1913 0 1 The north door of Eastern Hallway is closed
+D 0 1913 2 1 The south door of Eastern Hallway is closed
+D 0 1914 0 1 The north door of End of the Eastern Hallway is closed
+D 0 1914 1 1 The east door of End of the Eastern Hallway is closed
+D 0 1914 2 1 The south door of End of the Eastern Hallway is closed
+D 0 1915 2 1 The south door of End of the Western Hallway is closed
+D 0 1915 3 1 The west door of End of the Western Hallway is closed
+D 0 1916 0 1 The north door of Western Hallway is closed
+D 0 1916 2 1 The south door of Western Hallway is closed
+D 0 1917 0 1 The north door of Western Hallway is closed
+D 0 1917 2 1 The south door of Western Hallway is closed
+D 0 1918 0 1 The north door of Western Hallway is closed
+D 0 1918 2 1 The south door of Western Hallway is closed
+D 0 1922 1 1 The east door of Throne of Aurien is closed
+D 0 1923 0 1 The north door of Jegaul's Command is closed
+D 0 1924 0 1 The north door of Shrine of Rezieal is closed
+D 0 1925 0 1 The north door of Elenor's Peace is closed
+D 0 1926 0 1 The north door of Methos' Mission is closed
+D 0 1928 2 1 The south door of Kharis' Protection is closed
+D 0 1929 2 1 The south door of Elric's Duty is closed
+D 0 1930 2 1 The south door of Salamar's Solitude is closed
+D 0 1931 2 1 The south door of Balhnorg's Butchery is closed
+D 0 1932 2 1 The south door of Snarm's Smite is closed
+D 0 1933 2 1 The south door of Carnorthor's Carnage is closed
+D 0 1934 2 1 The south door of Caleir's Seduction is closed
+D 0 1935 0 1 The north door of Firorg's Frenzy is closed
+D 0 1936 0 1 The north door of Zalzamarr's Corruption is closed
+D 0 1937 0 1 The north door of Welrog's Wickedness is closed
+D 0 1938 0 1 The north door of Irmarg's Rampage is closed
+D 0 1939 3 1 The west door of Astoz's Vengence is closed
+D 0 1941 3 1 The west door of Lana's Shrine is closed
+D 0 1942 3 1 The west door of Kaori's Keep is closed
+D 0 1945 1 1 The east door of Omnigor's Tranquility is closed
+D 0 1946 1 1 The east door of Iezul's Anvil is closed
+D 0 1947 1 1 The east door of Rathal's Grave is closed
+M 0 1924 1 1910 1 *Load A statue of Wriech
+M 0 1900 1 1922 1 *Load a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x
+E 0 1906 0 25 *{wm{wark of {wa{wurien{x is loaded as a clan patch of a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x
+E 0 1907 0 16 *{&w{7hite {&d{7agger of {&p{7urification is loaded wielded of a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x
+E 0 1908 0 11 *{&w{7all of {&a{7urien is loaded as a shield of a {WStatue {gof {WA{wurien {Wt{whe {WA{wll{D-{WM{wighty{x
+M 0 1901 1 1923 1 *Load a {WStatue{x of {WC{wommander {WJ{wegaul{x
+E 0 1905 0 6 *{*h{7e{&lmet {xof {*c{&o{7mmand is loaded over the head of a {WStatue{x of {WC{wommander {WJ{wegaul{x
+E 0 1911 0 16 *{&c{7ommanders {!v{1oice{x is loaded wielded of a {WStatue{x of {WC{wommander {WJ{wegaul{x
+M 0 1902 1 1924 1 *Load a {WStatue{x of {WR{wezieal {Wt{whe {WW{wise{x
+E 0 1903 0 16 *{$w{^i{&sd{^o{$m {^of the {^s{&ag{$e{x is loaded wielded of a {WStatue{x of {WR{wezieal {Wt{whe {WW{wise{x
+M 0 1903 1 1925 1 *Load a {WStatue{x of {WE{wlenor {WE{wvilsbane{x
+E 0 1913 0 8 *{msp{be{bl{bl{mb{ma{bn{ce b{woot{ws{x is loaded on the feet of a {WStatue{x of {WE{wlenor {WE{wvilsbane{x
+M 0 1904 1 1926 1 *Load a {WStatue{x of {WM{wethos {Wt{whe {WH{wigh{WM{wage{x
+E 0 1902 0 21 *Large {geme{gr{gald{x earring{x is loaded on the ears of a {WStatue{x of {WM{wethos {Wt{whe {WH{wigh{WM{wage{x
+M 0 1905 1 1927 1 *Load a {WStatue{x of {WV{waladin {Wt{whe {WV{wigilant{x
+E 0 1909 0 2 *{&v{7igilance {#i{3ncarnate{x is loaded on the right finger of a {WStatue{x of {WV{waladin {Wt{whe {WV{wigilant{x
+M 0 1906 1 1928 1 *Load a {WStatue{x of {WK{wharis {Wt{whe {WD{wwarven {WP{waladin{x
+E 0 1904 0 0 *{#d{7i{#vi{7n{#e {#b{7l{&e{#ss{&i{7n{#g{x is loaded as a light of a {WStatue{x of {WK{wharis {Wt{whe {WD{wwarven {WP{waladin{x
+M 0 1907 1 1929 1 *Load a {WStatue{x of {WE{wagle-{WE{wye {WE{wlric{x
+E 0 1914 0 16 *{#h{3awkeye {2l{3o{2n{3g{2b{3o{2w{x is loaded wielded of a {WStatue{x of {WE{wagle-{WE{wye {WE{wlric{x
+M 0 1908 1 1930 1 *Load a {WStatue{x of {WS{walamar {Wt{whe {WS{wneaky{x
+E 0 1915 0 12 *{8f{&lowing {8w{&hite {8c{&loak{x is loaded about the shoulders of a {WStatue{x of {WS{walamar {Wt{whe {WS{wneaky{x
+M 0 1916 1 1931 1 *Load a {WStatue{x of {dB{Dalhnorg the {dT{Derrible{x
+E 0 1920 0 5 *{!b{1lo{!o{1d{!y {&a{7p{1r{!on{x is loaded on the body of a {WStatue{x of {dB{Dalhnorg the {dT{Derrible{x
+M 0 1917 1 1932 1 *Load a {WStatue{x of {dS{Dnarm{x
+E 0 1901 0 16 *{w-{w={dd{we{wa{wt{dh{w={w-{x is loaded wielded of a {WStatue{x of {dS{Dnarm{x
+M 0 1915 1 1933 1 *Load a {WStatue{x of {wC{Darnorthor {wt{Dhe {wM{Dinotaur {wW{Darchief{x
+E 0 1910 0 20 *{7m{8inotau{7r {1n{3oserin{1g{x is loaded on the face of a {WStatue{x of {wC{Darnorthor {wt{Dhe {wM{Dinotaur {wW{Darchief{x
+M 0 1914 1 1934 1 *Load a {WStatue{x of {wC{Daleir {wt{Dhe {wS{Deductress{x
+E 0 1917 0 16 *{*w{%hi{*p of {%domi{*na{%tion{x is loaded wielded of a {WStatue{x of {wC{Daleir {wt{Dhe {wS{Deductress{x
+M 0 1913 1 1935 1 *Load a {WStatue{x of {wF{Dirorg {wt{Dhe {wF{Durious{x
+E 0 1949 0 10 *{!s{1c{3o{#rc{3h{1e{!d {#a{3r{1m{!p{#l{!a{1t{3e{#s{x is loaded on the arms of a {WStatue{x of {wF{Dirorg {wt{Dhe {wF{Durious{x
+M 0 1912 1 1936 1 *Load a {WStatue{x of {wZ{Dalzamarr {wt{Dhe {wC{Dorrupt{x
+E 0 1948 0 7 *{dblack-la{wq{du{we{dred l{weg{dplates{x is loaded on the legs of a {WStatue{x of {wZ{Dalzamarr {wt{Dhe {wC{Dorrupt{x
+M 0 1911 1 1937 1 *Load a {WStatue{x of {wW{Delrog {wt{Dhe {wW{Dicked{x
+E 0 1916 0 18 *{&e{7x{1tr{!a{1ct{7e{&d {1e{&y{7e{!b{7a{&l{1l{x is loaded floating nearby of a {WStatue{x of {wW{Delrog {wt{Dhe {wW{Dicked{x
+M 0 1910 1 1938 1 *Load a {WStatue{x of {wI{Drmarg {wt{Dhe {wO{Dgre {wB{Derserker{x
+E 0 1918 0 9 *{3f{1i{!s{1t{3s of {1r{!ag{1e{x is loaded on the hands of a {WStatue{x of {wI{Drmarg {wt{Dhe {wO{Dgre {wB{Derserker{x
+M 0 1909 1 1939 1 *Load A {&Statue {7of A{8stoz {7t{8he {7V{8engeful{x
+E 0 1919 0 11 *{7b{8arrier of {7v{8e{1n{3g{7e{3a{1n{8c{7e{x is loaded as a shield of A {&Statue {7of A{8stoz {7t{8he {7V{8engeful{x
+M 0 1923 1 1941 1 *Load A statue of {wLana{x
+E 0 1924 0 17 *A {cconjuring {wtoken{x is loaded held in the hands of A statue of {wLana{x
+M 0 1921 1 1942 1 *Load A statue of {wKaori{x
+E 0 1947 0 17 *{2p{&i{2l{&l {7marked {0"{!emergency{0"{x is loaded held in the hands of A statue of {wKaori{x
+M 0 1918 1 1943 1 *Load A statue of Nytassa
+E 0 1946 0 17 *{ws{wl{wi{wm {go{ya{gk {wb{wr{wa{wn{wc{wh{x is loaded held in the hands of A statue of Nytassa
+M 0 1922 1 1945 1 *Load A statue of {wOmnigor the Conjurer{x
+E 0 1912 0 26 *{gf{ga{gith {win {gb{ga{glance{x is loaded as a religious patch of A statue of {wOmnigor the Conjurer{x
+M 0 1920 1 1946 1 *Load A statue of {wIezul the Forgemaster{x
+E 0 1900 0 16 *{diron {whammer{x is loaded wielded of A statue of {wIezul the Forgemaster{x
+M 0 1919 1 1947 1 *Load a Statue of Rathal the Great
+G 0 1945 0 *{&s{7cripture of {^h{6ealing{x is given to a Statue of Rathal the Great
+G 0 1945 0 *{&s{7cripture of {^h{6ealing{x is given to a Statue of Rathal the Great
+E 0 1981 0 21 *{^w{6h{&i{7sp{&e{6r{^s {6o{^f {6w{^i{7s{&d{^o{6m{x is loaded on the ears of a Statue of Rathal the Great
+M 0 1948 1 1948 1 *Load Astinos
+E 0 1921 0 16 *{wt{che {wr{canseur {g"{wp{cac{cif{cie{wr{g"{x is loaded wielded of Astinos
+M 0 1925 1 1949 1 *Load {GGh{Da{Gl{Deo{Gn {Dth{Ge G{Cia{Gnts{Cla{Gy{Ce{Gr{x
+E 0 1924 0 16 *A {cconjuring {wtoken{x is loaded wielded of {GGh{Da{Gl{Deo{Gn {Dth{Ge G{Cia{Gnts{Cla{Gy{Ce{Gr{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1924
+mob damage $n 100 10000
+if mobhere ghalbear
+else
+mob echo {GGh{Da{Gl{Dao{Gn {gsummons a bear forth from the bushes to aid him in battle!{x
+mob mload 1926
+mob force ghalbear kill $n
+endif
+~
+#1925
+if pos $i fight
+else
+if mobhere ghalbear
+mob purge ghalbear
+endif
+endif
+~
+#1932
+say Now is the time for you to DIE!
+backstab $n
+~
+#0
+
+#$

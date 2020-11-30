@@ -1,0 +1,685 @@
+#AREADATA
+Name Planar Zoo~
+Builders Unlinked~
+VNUMs 200 299
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#201
+gnome ticket seller zoo~
+{#G{%no{%m{#e {#T{%ick{%e{#t {#S{%ell{%e{#r{x~
+The {#G{%no{%m{#e {#T{%ick{%e{#t {#S{%ell{%e{#r{x stands here talking to the bystanders.
+~
+A small gnome dressed in colorful cloths stands here.  With a smiley face
+he greets everyone that approaches the stone arches.  
+~
+gnome~
+ABG DFJ 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+M GRALL 201 100~
+M BRIBE 202 10~
+#202
+planar zoo cage keep level 1 gnome~
+{#P{%lana{#r {#Z{%oo {#C{%ag{#e {#K{%eepe{#r {#L{%eve{#l {%1{x~
+The {#P{%lana{#r {#Z{%oo {#C{%ag{#e {#K{%eepe{#r {#L{%eve{#l {%1{x stands here.
+~
+A small gnome dressed in colorful cloths stands here.  He walks around
+the courtyard holding in his hands the key to the planar cages.  
+~
+gnome~
+ABG J 0 0 0
+30 30 1d50+100 1d100+30 1d30+10 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK small unknown
+#203
+planar zoo visiting mom level 1~
+{#V{%isitin{#g {#M{%om{x~
+A {#M{%om{x is here {#V{%isitin{#g{x the first level of the zoo.{x
+~
+A woman walks the courtyard amazed by the wonders of the planes.
+~
+human~
+ABG J 0 0 0
+30 30 1d50+100 1d100+30 1d30+10 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#204
+planar zoo visiting dad level 1~
+{#V{%isitin{#g {#D{%ad{x~
+A {#D{%ad{x is here {#V{%isitin{#g{x the first level of the zoo.{x
+~
+A man walks the courtyard amazed by the wonders of the planes.
+~
+human~
+ABG J 0 0 0
+30 30 1d50+100 1d100+30 1d30+10 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#205
+planar zoo visiting kid level 1~
+{#V{%isitin{#g {#K{%id{x~
+A {#K{%id{x is here {#V{%isitin{#g{x the first level of the zoo.{x
+~
+A child walks the courtyard amazed by the wonders of the planes.
+~
+human~
+ABG J 0 0 0
+30 30 1d50+100 1d100+30 1d30+10 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#206
+lantern archon celestial~
+{#L{&anter{#n {#A{&rcho{#n{x~
+A {#L{&anter{#n {#A{&rcho{#n{x stands here.
+~
+A floating ball of light that glow about as brightly as a torch.
+~
+song bird~
+ABG JT 0 1000 0
+30 30 1d50+100 1d100+30 1d30+10 flash
+-3 -3 -3 -3
+FH J L M
+stand stand none 100
+AGHMVW ABCDEFGHIJKP small unknown
+#207
+dretch~
+{!D{*retc{!h{x~
+A {!D{*retc{!h{x stands here.
+~
+A squat humanoid with blubbery, almost hairless bodies.  The skin is pale
+white to beige, giving way to sickly blue in some areas.  The creature has a
+slack and slobbery mouth with many small fangs, and the hair is sparse and
+bristly.  It is about 4 feet tall.  
+~
+beastman~
+ABG J 0 -1000 0
+30 30 1d50+100 1d100+30 1d30+10 flash
+-3 -3 -3 -3
+FH JL HIK N
+stand stand none 100
+AGHMV ABCDEFGHIJK small unknown
+F res C
+#0
+
+
+
+#OBJECTS
+#201
+portal zoo level 1~
+{#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x~
+The {#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x stands here.~
+unknown~
+portal R 0
+A A A ADGH 0
+0 0 0 P
+#202
+planar zoo ticket~
+{#P{%lana{#r {#Z{%oo {#T{%icke{#t{x~
+The {#P{%lana{#r {#Z{%oo {#T{%icke{#t{x lies here.~
+unknown~
+warp_stone ABGU AO
+0 0 0 0 0
+1 0 10 P
+#203
+portal zoo level 2~
+{#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%2{x~
+The {#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%2{x stands here.~
+unknown~
+portal R 0
+0 A A BFGH 0
+0 0 0 P
+#204
+zoo planar key level 1~
+{#P{%lana{#r {#Z{%oo {#L{%eve{#l {%1 {#K{%ey{x~
+The {#P{%lana{#r {#Z{%oo {#L{%eve{#l {%1 {#K{%ey{x lies here.~
+unknown~
+key ABGU AO
+0 0 0 0 0
+1 0 0 P
+#206
+portal zoo level 1 2~
+{#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x~
+The {#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x stands here.~
+unknown~
+portal R 0
+A A A ACEGH 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#200
+{#Z{%oo{x {#E{%ntranc{#e{x~
+The Zoo entrance is crowded.  Entire families form a single line in front
+of a stone arch.  The Arc is carved with arcane marks and glows every time
+someone with a ticket pass trough it.  Near the arch a gnome, dressed in
+colorful cloths, shout at the bystanders words about the wonders of the
+planar zoo.  He is also the ticket seller.  
+<{!Read Sign{x for credit info>
+~
+0 0 1
+E
+sign~
+{!----------------------------------------{x
+{!|        {#P{%lana{#r {#Z{%oo{x by Angela          |{x 
+{!----------------------------------------{x
+~
+S
+#201
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 204
+D3
+~
+~
+0 0 202
+S
+#202
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 207
+D1
+~
+~
+0 0 201
+D3
+~
+~
+0 0 203
+S
+#203
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 206
+D1
+~
+~
+0 0 202
+D3
+~
+~
+1 204 216
+S
+#204
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 205
+D3
+~
+~
+0 0 201
+S
+#205
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 210
+D1
+~
+~
+1 204 225
+D3
+~
+~
+0 0 204
+S
+#206
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 207
+D2
+~
+~
+0 0 203
+D3
+~
+~
+1 204 217
+S
+#207
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 212
+D1
+~
+~
+0 0 208
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 206
+S
+#208
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 209
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 207
+S
+#209
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 214
+D1
+~
+~
+0 0 210
+D2
+~
+~
+0 0 204
+D3
+~
+~
+0 0 208
+S
+#210
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+0 0 215
+D1
+~
+~
+1 204 224
+D2
+~
+~
+0 0 205
+D3
+~
+~
+0 0 209
+S
+#211
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+1 204 219
+D1
+~
+~
+0 0 212
+D2
+~
+~
+0 0 206
+D3
+~
+~
+1 204 218
+S
+#212
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+1 204 220
+D1
+~
+~
+0 0 213
+D2
+~
+~
+0 0 207
+D3
+~
+~
+0 0 211
+S
+#213
+{#P{%orta{#l{x {%to {#Z{%oo{x {#L{%eve{#l{x {%2{x ~
+~
+0 0 1
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 212
+S
+#214
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+1 204 221
+D1
+~
+~
+0 0 215
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 213
+S
+#215
+{#Z{%oo{x {#C{%ourtyar{#d{x~
+~
+0 0 1
+D0
+~
+~
+1 204 222
+D1
+~
+~
+1 204 223
+D2
+~
+~
+0 0 210
+D3
+~
+~
+0 0 214
+S
+#216
+{#L{&anter{#n {#A{&rcho{#n {*C{$age{x~
+~
+0 0 0
+D1
+~
+~
+1 0 203
+S
+#217
+{#L{&anter{#n {#A{&rcho{#n {*C{$age{x~
+~
+0 0 0
+D1
+~
+~
+1 0 206
+S
+#218
+{#L{&anter{#n {#A{&rcho{#n {*C{$age{x~
+~
+0 0 0
+D1
+~
+~
+1 0 211
+S
+#219
+{#L{&anter{#n {#A{&rcho{#n {*C{$age{x~
+~
+0 0 0
+D2
+~
+~
+1 0 211
+S
+#220
+{#L{&anter{#n {#A{&rcho{#n {*C{$age{x~
+~
+0 0 0
+D2
+~
+~
+1 0 212
+S
+#221
+{!D{*retc{!h {*C{$age{x~
+~
+0 0 0
+D2
+~
+~
+1 0 214
+S
+#222
+{!D{*retc{!h {*C{$age{x~
+~
+0 0 0
+D2
+~
+~
+1 0 215
+S
+#223
+{!D{*retc{!h {*C{$age{x~
+~
+0 0 0
+D3
+~
+~
+1 0 215
+S
+#224
+{!D{*retc{!h {*C{$age{x~
+~
+0 0 0
+D3
+~
+~
+1 0 210
+S
+#225
+{!D{*retc{!h {*C{$age{x~
+~
+0 0 0
+D3
+~
+~
+1 0 205
+S
+#226
+{#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 203 3 2 The west door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 205 1 2 The east door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 206 3 2 The west door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 210 1 2 The east door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 211 0 2 The north door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 211 3 2 The west door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 212 0 2 The north door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 214 0 2 The north door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 215 0 2 The north door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 215 1 2 The east door of {#Z{%oo{x {#C{%ourtyar{#d{x is closed and locked
+D 0 216 1 2 The east door of {#L{&anter{#n {#A{&rcho{#n {*C{$age{x is closed and locked
+D 0 217 1 2 The east door of {#L{&anter{#n {#A{&rcho{#n {*C{$age{x is closed and locked
+D 0 218 1 2 The east door of {#L{&anter{#n {#A{&rcho{#n {*C{$age{x is closed and locked
+D 0 219 2 2 The south door of {#L{&anter{#n {#A{&rcho{#n {*C{$age{x is closed and locked
+D 0 220 2 2 The south door of {#L{&anter{#n {#A{&rcho{#n {*C{$age{x is closed and locked
+D 0 221 2 2 The south door of {!D{*retc{!h {*C{$age{x is closed and locked
+D 0 222 2 2 The south door of {!D{*retc{!h {*C{$age{x is closed and locked
+D 0 223 3 2 The west door of {!D{*retc{!h {*C{$age{x is closed and locked
+D 0 224 3 2 The west door of {!D{*retc{!h {*C{$age{x is closed and locked
+D 0 225 3 2 The west door of {!D{*retc{!h {*C{$age{x is closed and locked
+M 0 201 1 200 1 *Load {#G{%no{%m{#e {#T{%ick{%e{#t {#S{%ell{%e{#r{x
+G 0 202 0 *{#p{%lana{#r {#z{%oo {#t{%icke{#t{x is given to {#G{%no{%m{#e {#T{%ick{%e{#t {#S{%ell{%e{#r{x
+M 0 202 1 201 1 *Load {#P{%lana{#r {#Z{%oo {#C{%ag{#e {#K{%eepe{#r {#L{%eve{#l {%1{x
+E 0 204 0 17 *{#p{%lana{#r {#z{%oo {#l{%eve{#l {%1 {#k{%ey{x is loaded held in the hands of {#P{%lana{#r {#Z{%oo {#C{%ag{#e {#K{%eepe{#r {#L{%eve{#l {%1{x
+M 0 203 13 202 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 202 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 202 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 203 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 203 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 203 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 204 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 204 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 204 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 205 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 205 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 205 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 206 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 206 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 206 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 207 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 207 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 207 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 208 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 208 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 208 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 209 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 209 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 209 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 210 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 210 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 210 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 211 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 211 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 211 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 212 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 212 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 212 1 *Load {#V{%isitin{#g {#K{%id{x
+O 0 203 0 213 *{#p{%orta{#l {%to {#z{%oo {#l{%eve{#l {%2{x loaded to {#P{%orta{#l{x {%to {#Z{%oo{x {#L{%eve{#l{x {%2{x 
+M 0 203 13 214 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 214 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 214 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 203 13 215 1 *Load {#V{%isitin{#g {#M{%om{x
+M 0 204 13 215 1 *Load {#V{%isitin{#g {#D{%ad{x
+M 0 205 13 215 1 *Load {#V{%isitin{#g {#K{%id{x
+M 0 206 15 216 3 *Load {#L{&anter{#n {#A{&rcho{#n{x
+M 0 206 15 217 3 *Load {#L{&anter{#n {#A{&rcho{#n{x
+M 0 206 15 218 3 *Load {#L{&anter{#n {#A{&rcho{#n{x
+M 0 206 15 219 3 *Load {#L{&anter{#n {#A{&rcho{#n{x
+M 0 206 15 220 3 *Load {#L{&anter{#n {#A{&rcho{#n{x
+M 0 207 15 221 3 *Load {!D{*retc{!h{x
+M 0 207 15 222 3 *Load {!D{*retc{!h{x
+M 0 207 15 223 3 *Load {!D{*retc{!h{x
+M 0 207 15 224 3 *Load {!D{*retc{!h{x
+M 0 207 15 225 3 *Load {!D{*retc{!h{x
+O 0 206 0 226 *{#p{%orta{#l {%to {#z{%oo {#l{%eve{#l {%1{x loaded to {#P{%orta{#l {%to {#Z{%oo {#L{%eve{#l {%1{x
+S
+
+
+
+#SHOPS
+201 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#201
+greet $n
+say Welcome to the {#P{%lana{#r {#Z{%oo{x!
+say If you want to see the wonders of the planes please buy a ticket and give it back to me.
+say Give me 10 silver pieces, no more, no less, and i will give you a ticket.
+~
+#202
+say Enjoy the wonders of the planes!
+emote creates and energy field on the stone arch opening the portal.
+mob oload 202
+give ticket $n
+mob oload 201
+drop portal
+say You may enter the portal now.
+say And remember that this ticket is valid for one visit only.
+~
+#0
+
+#$

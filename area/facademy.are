@@ -1,0 +1,1373 @@
+#AREADATA
+Name Fighter's Academy~
+Builders None~
+VNUMs 8400 8499
+Continent 1
+Credits {y[{Y75-101{y]{c Jair     {YFighters Academy{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#8400
+bats~
+{7bats{0~
+A group of bats flies above your head.
+~
+~
+bat~
+A TZ 0 0 0
+125 150 5d1000+8000 5d1000+10000 10d10+60 acbite
+-45 -45 -40 -40
+FHR 0 M NS
+stand stand none 25000
+AGV ACDEFHJKP medium unknown
+#8401
+bone golem~
+{3bone {2golem{0~
+A huge golem is here, barely moving.
+~
+~
+mongrelman~
+ABT 0 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 crush
+-45 -45 -40 -40
+H M D C
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8402
+black widow spider~
+{8black {7widow spider{0~
+The mother of spiders leaps down.
+~
+~
+centipede~
+AE Z 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 bite
+-45 -45 -40 -40
+HN L FI E
+stand stand none 25000
+ABGO ACK medium unknown
+#8403
+dead body~
+{3dead body{0~
+A dead body lies on the floor......twitching?
+~
+~
+gnoll~
+AE 0 0 0 0
+135 150 5d1000+10000 5d1000+10000 15d15+45 none
+-45 -45 -40 -40
+0 M 0 S
+stand stand none 25000
+AHMV ABCDEFGHIJKUV medium unknown
+#8404
+displacer beast~
+{@D{2isplacer {@B{2east{0~
+Something not quite a cat is here.
+~
+~
+rabbit~
+AB Z 0 0 0
+160 150 5d1000+15000 5d1000+10000 15d15+200 none
+-45 -45 -40 -40
+FHM 0 0 0
+stand stand none 25000
+AGV ACDEFHJKQUV medium unknown
+#8405
+ghoul~
+{8g{7houl{0~
+A ghoul grinds his teeth and lounges around.
+~
+~
+human~
+AT 0 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+CH 0 0 S
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8406
+giant bats~
+{1g{5iant {1b{5ats{0~
+Flying menaces, these giant bats eat other creatures.
+~
+~
+bat~
+A TZ 0 0 0
+140 150 5d1000+11000 5d1000+10000 12d12+60 none
+-45 -45 -40 -40
+FH 0 0 S
+stand stand none 25000
+AGV ACDEFHJKP medium unknown
+#8407
+giant centipedes~
+{@g{3iant {@c{3entipede{0~
+A long beast with a ripped body, this centipede is deadly.
+~
+~
+centipede~
+A Z 0 0 0
+155 150 5d1000+15000 5d1000+10000 25d25+90 none
+-45 -45 -40 -40
+HM 0 FI E
+stand stand none 25000
+ABGO ACK medium unknown
+#8408
+gray ooze~
+{7g{8ray {7o{8oze{0~
+{8A pile of ooze is gathering here.{0
+~
+~
+human~
+A 0 0 0 0
+150 150 5d1000+15000 5d1000+10000 20d20+100 none
+-45 -45 -40 -40
+R 0 DR C
+stand stand none 25000
+S 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8409
+giant rats~
+{^g{6iant {^r{6ats{0~
+A group of giant rats.
+~
+~
+rabbit~
+A 0 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+FH 0 0 0
+stand stand none 25000
+AGV ACDEFHJK medium unknown
+#8410
+mummy~
+{#m{3umm{#y{0~
+The mummy is here.
+~
+~
+human~
+ABE V 0 0 0
+160 150 5d1000+15000 5d1000+10000 15d15+150 none
+-45 -45 -40 -40
+CH 0 M H
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8411
+rats~
+{&r{6ats{0~
+A group of rats are here nawing away at various things.
+~
+~
+rabbit~
+A 0 0 0 0
+140 150 5d1000+12500 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+FH 0 0 0
+stand stand none 25000
+AGV ACDEFHJK medium unknown
+#8412
+robber fly~
+{#r{5obber {#f{5ly{0~
+A huge insect with wings rises from the ground.
+~
+~
+bat~
+AS TZ 0 0 0
+135 150 5d1000+1000 5d1000+10000 15d15+45 none
+-45 -45 -40 -40
+FHU 0 0 S
+stand stand none 25000
+AGV ACDEFHJKP medium unknown
+#8413
+rust monster~
+{3rust monster{0~
+A monster is here eating chunks of metal.
+~
+~
+troll~
+ABT FJcd 0 0 0
+160 50 5d1000+15000 5d1000+10000 15d15+200 none
+-45 -45 -40 -40
+ACD 0 BE HK
+stand stand none 25000
+ABHMV ABCDEFGHIJKUV medium unknown
+#8414
+skeleton~
+{8skeleton{0~
+The undead bones of life clambers towards you.
+~
+~
+orc~
+AS JV 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+BH 0 0 S
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8415
+tiger beetle~
+{#t{3i{#g{3e{#r {#b{3e{#e{3t{#l{3e{0~
+A striped beetle flies above.
+~
+~
+dog~
+A TZ 0 0 0
+140 150 5d1000+12400 5d1000+10000 15d15+50 none
+-45 -45 -40 -40
+FHN 0 0 S
+stand stand none 25000
+AGV ACDEFHJKPUV medium unknown
+#8416
+vampire bat~
+{1vampire {8bat{0~
+A blood thirsty bat hangs from the ceiling.
+~
+~
+bat~
+AP TZ 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+FH 0 0 S
+stand stand none 25000
+AGV ACDEFHJKP medium unknown
+#8417
+wight~
+{6wight{0~
+An undead being waiting for food.
+~
+~
+human~
+AE 0 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+CHN 0 0 0
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8418
+yellow mold~
+{3yellow mold{0~
+{3Sick yellow mold has gathered upon the ground...but is moving...{0
+~
+~
+human~
+AB 0 0 0 0
+135 150 8d1000+9000 5d1000+10000 15d15+45 none
+-45 -45 -40 -40
+NU 0 D C
+stand stand none 25000
+S 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8419
+zombie~
+{1z{8ombie{0~
+Another zombie prey.
+~
+~
+orc~
+AT JV 0 0 0
+150 150 5d1000+15000 5d1000+10000 15d15+60 none
+-45 -45 -40 -40
+CHK 0 0 S
+stand stand none 25000
+AHMV ABCDEFGHIJK medium unknown
+#8420
+guardian~
+{RO{rr{Gn{ga{Bt{be {WG{wua{Wrd{wia{Wn{x~
+An ornate guardian stands here guarding the entrance to the lair.
+~
+~
+human~
+AFT QV 0 0 0
+150 5000 1d1+75000 1d1+100 100d10+500 wrath
+-10 0 0 0
+AHJ 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8421
+lair guard~
+{DL{wa{Wi{wr {WG{wua{Wrd{wia{Wn{x~
+A guardian to Aegir's lair stands here.
+~
+~
+human~
+AFT QV 0 0 0
+150 5000 1d1+84000 0d0+0 100d1+700 wrath
+0 0 0 0
+AFJK 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8422
+aegir god neutral~
+{GA{ge{Yg{yi{Gr{x~
+The mighty {GA{ge{Yg{yi{Gr{w stands towering above you, laughing maniacly.{x
+~
+~
+draconian~
+ABT DFGJVZ BCDEHNO 0 0
+300 50000 1d1+132000 110d10+1000 1d1+500 wrath
+0 0 0 0
+ABDEFGHJK 0 CDFGHIJKLMNOPQSTXYZ F
+stand stand male 0
+AHMXc ABCDEFGHIJKPQ huge unknown
+F aff T
+F res E
+#0
+
+
+
+#OBJECTS
+#8400
+key ornate lair~
+an ornate key~
+A small, ornate key lies here in the dirt.~
+unknown~
+key PT A
+0 0 0 0 0
+1 1 0 P
+#8401
+lair key~
+a special key~
+A special key lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 0 P
+#8402
+aegir dagger~
+{GA{ge{Yg{yi{Gr{w'{gs {WD{wag{Wge{wr{x~
+{GA{ge{Yg{yi{Gr{w'{gs {WD{wag{Wge{wr{w lies here.{x~
+unknown~
+weapon P AN
+dagger 100 1 wrath ABEGH
+102 0 0 P
+#8403
+indifferent staff quest~
+{cA{Cn I{cnd{Cif{cfe{Cre{cnt {CSt{caf{Cf{x~
+A staff has been left here, force into the ground.~
+unknown~
+treasure T A
+0 0 0 0 0
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#8400
+Before the Fighter's Academy~
+You stand at the large wooden double doors that guard the entrance to the
+warrior's academy of Sir Jameson the Defender.  The tower stretches above
+you.  Behind you, a rocky pathway that rose up out of the swamp.  The path
+continues halfway up the walls of the cliffs that encircle Midgard.  The
+tower has a square design, telling its ancient age, as more recent towers
+are usually round.  The door on the right is slightly ajar, and its hinges
+and bindings are coated with rust.  
+~
+0 0 4
+D0
+~
+gate~
+1 0 8401
+D2
+~
+~
+0 0 2330
+S
+#8401
+Entryway~
+The sour, clinging odor of decay lingers with you as you enter what was
+once a stately entryway lined with woven tapestries.  The tapestries hand in
+shreds now, and the heraldic devices they once supported are lost in mildew.
+Many mold-spotted skeletons in scraps of armor lie on the floor, and other
+piles of bones rest in the room's corners.  
+~
+0 0 0
+D0
+~
+~
+0 0 8402
+D2
+~
+gate~
+1 0 8400
+S
+#8402
+Portculis~
+You stand before two giant portculises.  The steel is rusted and looks
+very heavy, but the wheel still looks like it is in working order.  On both
+sides stretch a hallway and behind you is the entrance of the tower.  
+~
+0 0 0
+D1
+~
+portculis~
+1 0 8403
+D2
+~
+~
+0 0 8401
+D3
+~
+portculis~
+1 0 8407
+S
+#8403
+Hall~
+This small hall and storage space appears to be empty except for some
+debris in one corner and a small spider spinning a web.  The portculis is to
+the west.
+~
+0 0 0
+D1
+~
+~
+0 0 8404
+D3
+~
+portculis~
+1 0 8402
+S
+#8404
+Eating Hall~
+Caterwauls and hisses greet your ears as you open the door.  A large
+table is sitting in the middle of the room collecting dust while animals of
+all sizes scurry around looking for food.  Broken benches and chairs line
+both sides of the table.  
+~
+0 0 0
+D2
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8403
+S
+#8405
+Kitchen~
+Quiet skittering and scratching mark your entrance to this room.  It
+smells musty and slightly foul.  Counters and cupboards all around this room
+indicate that it once served as a kitchen.  A twisted utensil rack hangs
+from the ceiling with a rusty cleaver and a dented pan hanging from it.  You
+catch a glimpse of a long, bare tail as its owner crawls beneath a rotting
+work table.  
+~
+0 0 0
+D0
+~
+~
+0 0 8404
+D3
+~
+~
+0 0 8406
+S
+#8406
+Pantry~
+The moldy smell of this small dark room makes you want to sneeze. 
+Shelves have collapsed under canisters and boxes.  The spilled contents are
+covered in a bright assortment of harmless molds and mushrooms.  Rotted
+sacks of flour have burst their seams, and a brownish mass has wandered onto
+the floor.  Three bins with hinged lids line the west wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 8405
+S
+#8407
+Hall with Stairs~
+This short hall contains three doors and a flight of stone steps that
+twist upwards.  A faintly sweet odor fills the air.  Small, pale, string
+mushrooms grow from between the stones in the wall.  The portculis is back
+to the east.  
+~
+0 0 0
+D0
+~
+closet~
+1 0 8408
+D1
+~
+portculis~
+1 0 8402
+D3
+~
+~
+0 0 8409
+D4
+~
+~
+0 0 8412
+S
+#8408
+Closet~
+This tiny room has numerous shelves that barely hold up rotten mouse
+nests made of old linens and towels.  A small locked chest is burried under
+rags.  
+~
+0 0 0
+D2
+~
+closet~
+1 0 8407
+S
+#8409
+Exercise Room~
+The droning buzz of insect wings fills the air of this murky room. 
+Broken wooden racks of weaponry line the north and east walls, and the
+remains of the weapons they held lie in heaps beneath them.  Rotting
+quilted-wool pads rest in damp, rolled heaps along the walls.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8411
+D1
+~
+~
+0 0 8407
+D3
+~
+~
+0 0 8410
+S
+#8410
+Mechanical Trainer~
+The acrid smell of rusting metal rushes from this room when the door is
+opened.  A sludge of water, mud, rust, and old grease covers most of the
+floor.  The northwest corner is consumed by a tangle of massive cogs and
+gears that connect to something outside the building.  Through the windows
+in the west wall, you see a giant waterwheel's hub spins uselessly, spurred
+on by the wind.  The rest of the machinery is still.  A system of mechanical
+levelers and poles runs from the machinery along the wall to three armored
+half-figures one on the west wall and two on the south.  Like dressmaker's
+dummies, the figure have only torsos, heads, and arms.  The figures hold
+shields and swords.  A delicate yellow fuzz covers most of the machinery and
+two of the armed figures.  
+~
+0 0 0
+D1
+~
+~
+0 0 8409
+S
+#8411
+Showers and Laundry~
+Several large washtubs are tipped over in the wider part of this room,
+and a washboard lies on the floor.  Two covered barrels lie in the northeast
+corner.  The ceiling in the narrow partof this room has a corroded copper
+pipe hanging from it with four small fixtures placed evenly along the pipe. 
+It looks as if water from the waterfall, which fed the waterwheep, was piped
+in here to be used for bathing.  A skeleton dressed in battered leather
+armor lies face down near the washboard.  
+~
+0 0 0
+D2
+~
+doorway~
+1 0 8409
+S
+#8412
+Hallway with Stairs~
+You have reached the second floor.  Smells of mold and mushrooms invade
+your mind and you feel quite dizzy.  The floor is remarkably clean, yet
+damp.  Tricky footing is ahead.  
+~
+0 0 0
+D2
+~
+~
+0 0 8413
+D5
+~
+~
+0 0 8407
+S
+#8413
+Hallway~
+As you turn the corner, the light reflects off the clean, gray floor. 
+It looks damp and might be tricky footing.  
+~
+0 0 0
+D0
+~
+~
+0 0 8412
+D1
+~
+~
+0 0 8415
+D3
+~
+doorway~
+1 0 8421
+S
+#8415
+Hallway~
+As you turn the corner, the light reflects off the clean, gray floor. 
+It looks damp and might be tricky footing.  
+~
+0 0 0
+D2
+~
+~
+0 0 8416
+D3
+~
+~
+0 0 8413
+S
+#8416
+Branching hallways~
+The light reflects off the clean, gray floor.  It looks damp and might be
+tricky footing.  Another hallways extends to the east with rooms branching
+off.  
+~
+0 0 0
+D0
+~
+~
+0 0 8415
+D1
+~
+~
+0 0 8422
+D2
+~
+~
+0 0 8417
+S
+#8417
+Hallway~
+The light reflects off the clean, gray floor.  It looks damp and might be
+tricky footing.  Tapestries line this wall and narrow slits of windows flood
+the room with light.  
+~
+0 0 0
+D0
+~
+~
+0 0 8416
+D3
+~
+~
+0 0 8418
+S
+#8418
+Hallway~
+The light reflects off the clean, gray floor.  It looks damp and might be
+tricky footing.  Tapestries line this wall and narrow slits of windows flood
+the room with light.  
+~
+0 0 0
+D0
+~
+~
+0 0 8419
+D1
+~
+~
+0 0 8417
+S
+#8419
+Hallway~
+The light reflects off the clean, gray floor.  It looks damp and might be
+tricky footing.  Tapestries line this wall and narrow slits of windows flood
+the room with light.  
+~
+0 0 0
+D0
+~
+~
+0 0 8420
+D2
+~
+~
+0 0 8418
+S
+#8420
+Stairwell~
+The light reflects off the clean, gray floor.  It looks damp and might be
+tricky footing.  Tapestries line this wall and narrow slits of windows flood
+the room with light.  A marble stairwell leads the way up to the third
+floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 8419
+D4
+~
+~
+0 0 8427
+S
+#8421
+Gymnasium~
+~
+0 0 0
+D1
+~
+doorway~
+1 0 8413
+S
+#8422
+Hallway~
+This hallway is not quite as clean as the last.  Rooms branch off to the
+north and south into unknown rooms.  The hallway continues further down, but
+ends shortly.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8423
+D1
+~
+~
+0 0 8425
+D2
+~
+doorway~
+1 0 8424
+D3
+~
+~
+0 0 8416
+S
+#8423
+Storage~
+Dim light spills into this dusty room through a single arrow slit window.
+Cobwebs drift back and forth in a faint draft.  
+~
+0 0 0
+D2
+~
+doorway~
+1 0 8422
+S
+#8424
+Weight Room~
+Racks of large, steel, circular plates with holes in the middle and iron
+bars line the walls of this room.  The reek of ammonia assaults your nose. 
+Two peculiar creatures are standing in front of an empty rack eating a pile
+of rusty metal.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8422
+S
+#8425
+Hallway~
+The hallway ends here at another room.  A sign above the door says
+dormitory, and small moans and wimpers can be heard on the other side.  
+~
+0 0 0
+D1
+~
+~
+0 0 8426
+D3
+~
+~
+0 0 8422
+S
+#8426
+Dormitory~
+The door to this room is ajar.  Numerous bunk beds line the east wall,
+all neatly made.  Each has a large chest on the floor at its foot.  The
+covers on every bottom bed are draped over an unmoving human form.  
+~
+0 0 0
+D0
+~
+~
+0 0 8447
+D2
+~
+~
+0 0 8448
+D3
+~
+~
+0 0 8425
+S
+#8427
+Stairwell~
+You stand before a beautiful marble stairwell leading down.  The floor is
+paved in exceptionally fine marble.  The remains of a tapestry lines the
+northern wall and continues down the hall telling a story of a boar hunt.  
+~
+0 0 0
+D1
+~
+~
+0 0 8428
+D5
+~
+~
+0 0 8420
+S
+#8428
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D2
+~
+~
+0 0 8429
+D3
+~
+~
+0 0 8427
+S
+#8429
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 4 0
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8436
+D2
+~
+doorway~
+1 0 8430
+S
+#8430
+Trophy and Conference Room~
+The chill in this room is almost as heavy as is the dust.  Four wooden
+chairs surround a carved mahogany table.  Overlooking the scene are more
+than a half dozen pairs of glass eyes, winking back from the numerous
+stuffed boar, deer, and other animal heads on the south and east walls.  A
+stuffed brown bear is frozen in a snarling charge, it stands in the
+southeast corner.  A skeleton with four arms holds guard in front of the
+door on the west wall.  Twin pinpricks of blue light dance in its dark eye
+sockets.  It holds a sword, a hand axe, a mace, and another sword in its
+hands.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8429
+D3
+~
+doorway~
+1 0 8431
+S
+#8431
+Sitting Room~
+What were once bookcases line the west and north walls of this room in a
+long pile of broken wood, mold, and mildewed hide binding-all that remains
+of the books.  A sofa, two high-backed chairs, and a low table are arranged
+in front of a fireplace with a mantle made of dark carved stone on the south
+wall.  In one of the chairs a figure sits, its eyes blazing with crimson
+light.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8432
+D1
+~
+doorway~
+1 0 8430
+S
+#8432
+Bedroom~
+The decrepit state of this once-luxurious, oak-paneled bedroom is sad to
+see.  A huge, red velvet canopy bed is covered with dust, its bed curtains
+tattered.  The mattress has obviously served as a home for mice and insects.
+A large oak wardrobe hangs open neatly, its wood spotted with termite
+tunnels and holes.  The formerly plush rug that covers most of the floor is
+moth-eaten.  A gilt frame holds the brownish remains of what was once a huge
+oil painting.  Its subject is now indeterminable.  
+~
+0 0 0
+D0
+~
+~
+0 0 8433
+D2
+~
+doorway~
+1 0 8431
+D3
+~
+balcony~
+1 0 8435
+S
+#8433
+Bedroom~
+The decrepit state of this once-luxurious, oak-paneled bedroom is sad to
+see.  A huge, red velvet canopy bed is covered with dust, its bed curtains
+tattered.  The mattress has obviously served as a home for mice and insects.
+A large oak wardrobe hangs open neatly, its wood spotted with termite
+tunnels and holes.  The formerly plush rug that covers most of the floor is
+moth-eaten.  A gilt frame holds the brownish remains of what was once a huge
+oil painting.  Its subject is now indeterminable.  
+~
+0 0 0
+D2
+~
+~
+0 0 8432
+D3
+~
+secret~
+1 0 8434
+S
+#8434
+Secret Room~
+This small, chilly, stone-walled room is thick with cobwebs.  In the room
+rests an ironbound chest with a large lock.  
+~
+0 0 0
+D1
+~
+secret~
+1 0 8433
+S
+#8435
+Balcony~
+The view from this balcony would have been breathtakingly beautiful
+before the marsh took over the land.  The view is now spoied by the fens and
+the choking air they give off.  The creaking of the ancient whaterwheel
+below punctuates the eternal thunder of the water falling from the rim of
+the land.  
+~
+0 0 1
+D1
+~
+balcony~
+1 0 8432
+S
+#8436
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D0
+~
+~
+0 0 8437
+D1
+~
+~
+0 0 8440
+D2
+~
+doorway~
+1 0 8439
+D3
+~
+~
+0 0 8429
+S
+#8437
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D1
+~
+~
+0 0 8441
+D2
+~
+~
+0 0 8436
+D3
+~
+~
+0 0 8438
+S
+#8438
+Guest Quarters~
+A strong ammonia odor seizes your nose as you open the door.  The room's
+table, chair, and wardrobe of carved dark wood are scratched and covered
+with animal droppings.  A faded, though still luxurious, canopy bed sits
+against the far wall.  Its heavy burgandy curtains are drawn.  
+~
+0 0 0
+D1
+~
+~
+0 0 8437
+S
+#8439
+Spider Den~
+The door to this room is wide open.  Inside, the remains of whatever
+furniture it used to contain are mounted in the far corner.  The entire room
+is draped in spider webs, and the floor is sprinkled with small animal
+bones.  
+~
+0 0 0
+D0
+~
+doorway~
+1 0 8436
+S
+#8440
+Wealthy Student Quarters~
+A chunky wooden bedframe, a broken wardrobe, and a rat-chewed armchair
+are all that remain in what was once some sort of living quarters.  A broken
+ceramic jug rests crookedly at the foot of the bedframe.  A faint whiff of a
+spicy fragrance lingers in this room, perhaps from the herbs and flowers
+that were once used to freshen the wardrobe.  
+~
+0 0 0
+D3
+~
+~
+0 0 8436
+S
+#8441
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D1
+~
+~
+0 0 8442
+D3
+~
+~
+0 0 8437
+S
+#8442
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D1
+~
+~
+0 0 8445
+D2
+~
+~
+0 0 8443
+D3
+~
+~
+0 0 8441
+S
+#8443
+Short Hall~
+Dust covers the mosaic in the floor of this short hall.  It seems to be a
+picture of the crest of Sir Jameson, and a little cleaning reveals a huge
+silver wyvern in flight on a blue shield that has stars sprinkled across it
+like the night sky.  A rotting, wool tapestry hangs on the east wall.  It
+shows a man on a horse with his hounds at the bottom of a hill.  They are
+chasing a stag that is silhouetted against the setting sun at the top of the
+hill.  
+~
+0 0 0
+D0
+~
+~
+0 0 8442
+D2
+~
+~
+0 0 8444
+S
+#8444
+Dueling Room~
+This room is lined with racks of rust swords, sabers, rapiers, maces,
+hand axes, battle axes, and other hand weapons.  High up on the ceiling is a
+silver shield with the symbol of two swords crossed on it.  This room was
+obviously used for training weapons.  
+~
+0 0 0
+D0
+~
+~
+0 0 8443
+S
+#8445
+Hallway~
+This hall is paved in exceptionally fine marble.  The remains of a fine
+woolen tapestry depicting a boar hunt can be found in tatters along its
+length.  
+~
+0 0 0
+D2
+~
+~
+0 0 8446
+D3
+~
+~
+0 0 8442
+S
+#8446
+Hall Storage~
+This room is a little warmer than most in the tower, though why is not
+apparent.  A stone spiral staircase with worn spets leads upward, but a
+baracade has blocked the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 8445
+S
+#8447
+Dormitory~
+The door to this room is ajar.  Numerous bunk beds line the east wall,
+all neatly made.  Each has a large chest on the floor at its foot.  The
+covers on every bottom bed are draped over an unmoving human form.  
+~
+0 0 0
+D2
+~
+~
+0 0 8426
+S
+#8448
+Dormitory~
+The door to this room is ajar.  Numerous bunk beds line the east wall,
+all neatly made.  Each has a large chest on the floor at its foot.  The
+covers on every bottom bed are draped over an unmoving human form.  
+~
+0 0 0
+D0
+~
+~
+0 0 8426
+S
+#8449
+Before the Lair~
+~
+0 0 0
+D5
+~
+~
+3 8400 8450
+S
+#8450
+A Cold, Damp Room~
+As you walk in you feel a chill run down your spine.  It is very cold and
+damp in here.  The walls are covered in mold.  Every direction you look
+there is a room, so you wonder which way to go.  
+~
+0 524289 0
+D0
+~
+~
+1 0 8451
+D1
+~
+~
+1 0 8452
+D2
+~
+~
+1 0 8454
+D3
+~
+~
+1 0 8453
+D4
+~
+~
+3 8400 8449
+D5
+~
+~
+1 0 8455
+S
+#8451
+Before a Guarded Chamber~
+~
+0 524289 0
+D0
+~
+~
+0 0 8456
+D2
+~
+~
+1 0 8450
+S
+#8452
+Wrong Turn!!~
+~
+0 524293 0
+S
+#8453
+Wrong Turn!!~
+~
+0 524293 0
+S
+#8454
+Wrong Turn!!~
+~
+0 524293 0
+S
+#8455
+Wrong Turn!!~
+~
+0 524293 0
+S
+#8456
+Guard Room~
+~
+0 524289 0
+D0
+~
+~
+3 8401 8457
+D2
+~
+~
+0 0 8451
+S
+#8457
+Aegir's Lair~
+Not much is seen as you look around in this room.  Aegir stands in the
+center of the room, towering over everyone and everything.  
+~
+0 524289 0
+D2
+~
+~
+3 0 8456
+S
+#0
+
+
+
+#SPECIALS
+M 8402 spec_poison Load to: {8black {7widow spider{0
+M 8416 spec_poison Load to: {1vampire {8bat{0
+S
+
+
+
+#RESETS
+D 0 8400 0 1 The north door of Before the Fighter's Academy is closed
+D 0 8401 2 1 The south door of Entryway is closed
+D 0 8402 1 1 The east door of Portculis is closed
+D 0 8402 3 1 The west door of Portculis is closed
+D 0 8403 3 1 The west door of Hall is closed
+D 0 8407 0 1 The north door of Hall with Stairs is closed
+D 0 8407 1 1 The east door of Hall with Stairs is closed
+D 0 8408 2 1 The south door of Closet is closed
+D 0 8409 0 1 The north door of Exercise Room is closed
+D 0 8411 2 1 The south door of Showers and Laundry is closed
+D 0 8413 3 1 The west door of Hallway is closed
+D 0 8421 1 1 The east door of Gymnasium is closed
+D 0 8422 0 1 The north door of Hallway is closed
+D 0 8422 2 1 The south door of Hallway is closed
+D 0 8423 2 1 The south door of Storage is closed
+D 0 8424 0 1 The north door of Weight Room is closed
+D 0 8429 2 1 The south door of Hallway is closed
+D 0 8430 0 1 The north door of Trophy and Conference Room is closed
+D 0 8430 3 1 The west door of Trophy and Conference Room is closed
+D 0 8431 0 1 The north door of Sitting Room is closed
+D 0 8431 1 1 The east door of Sitting Room is closed
+D 0 8432 2 1 The south door of Bedroom is closed
+D 0 8432 3 1 The west door of Bedroom is closed
+D 0 8433 3 1 The west door of Bedroom is closed
+D 0 8434 1 1 The east door of Secret Room is closed
+D 0 8435 1 1 The east door of Balcony is closed
+D 0 8449 5 2 The down door of Before the Lair is closed and locked
+D 0 8450 0 1 The north door of A Cold, Damp Room is closed
+D 0 8450 1 1 The east door of A Cold, Damp Room is closed
+D 0 8450 2 1 The south door of A Cold, Damp Room is closed
+D 0 8450 3 1 The west door of A Cold, Damp Room is closed
+D 0 8450 4 2 The up door of A Cold, Damp Room is closed and locked
+D 0 8450 5 1 The down door of A Cold, Damp Room is closed
+D 0 8451 2 1 The south door of Before a Guarded Chamber is closed
+D 0 8456 0 2 The north door of Guard Room is closed and locked
+D 0 8457 2 2 The south door of Aegir's Lair is closed and locked
+M 0 8414 15 8401 2 *Load {8skeleton{0
+M 0 8414 15 8402 1 *Load {8skeleton{0
+M 0 8405 5 8404 2 *Load {8g{7houl{0
+M 0 8404 1 8404 1 *Load {@D{2isplacer {@B{2east{0
+M 0 8411 1 8405 1 *Load {&r{6ats{0
+M 0 8409 2 8405 2 *Load {^g{6iant {^r{6ats{0
+M 0 8407 2 8406 2 *Load {@g{3iant {@c{3entipede{0
+M 0 8402 4 8408 1 *Load {8black {7widow spider{0
+M 0 8412 5 8409 3 *Load {#r{5obber {#f{5ly{0
+M 0 8418 2 8410 2 *Load {3yellow mold{0
+M 0 8415 3 8411 3 *Load {#t{3i{#g{3e{#r {#b{3e{#e{3t{#l{3e{0
+M 0 8408 15 8413 1 *Load {7g{8ray {7o{8oze{0
+M 0 8408 15 8416 2 *Load {7g{8ray {7o{8oze{0
+M 0 8408 15 8418 3 *Load {7g{8ray {7o{8oze{0
+M 0 8408 15 8419 2 *Load {7g{8ray {7o{8oze{0
+M 0 8408 15 8420 2 *Load {7g{8ray {7o{8oze{0
+M 0 8400 5 8424 2 *Load {7bats{0
+M 0 8413 2 8424 2 *Load {3rust monster{0
+M 0 8414 15 8426 2 *Load {8skeleton{0
+M 0 8401 2 8430 1 *Load {3bone {2golem{0
+M 0 8410 1 8431 1 *Load {#m{3umm{#y{0
+M 0 8418 15 8433 1 *Load {3yellow mold{0
+M 0 8416 5 8438 2 *Load {1vampire {8bat{0
+M 0 8400 5 8438 2 *Load {7bats{0
+M 0 8402 5 8439 2 *Load {8black {7widow spider{0
+M 0 8402 5 8440 1 *Load {8black {7widow spider{0
+M 0 8401 4 8444 1 *Load {3bone {2golem{0
+M 0 8414 15 8447 1 *Load {8skeleton{0
+M 0 8414 15 8448 1 *Load {8skeleton{0
+M 0 8420 1 8449 1 *Load {RO{rr{Gn{ga{Bt{be {WG{wua{Wrd{wia{Wn{x
+G 0 8400 0 *An ornate key is given to {RO{rr{Gn{ga{Bt{be {WG{wua{Wrd{wia{Wn{x
+M 0 8421 2 8456 1 *Load {DL{wa{Wi{wr {WG{wua{Wrd{wia{Wn{x
+G 0 8401 0 *A special key is given to {DL{wa{Wi{wr {WG{wua{Wrd{wia{Wn{x
+M 0 8422 1 8457 1 *Load {GA{ge{Yg{yi{Gr{x
+E 0 8402 0 16 *{ga{ge{yg{yi{gr{w'{gs {wd{wag{wge{wr{x is loaded wielded of {GA{ge{Yg{yi{Gr{x
+G 0 8403 0 *{ca{cn i{cnd{cif{cfe{cre{cnt {cst{caf{cf{x is given to {GA{ge{Yg{yi{Gr{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8400
+give staff $n
+MOB transfer all 2909
+~
+#0
+
+#$

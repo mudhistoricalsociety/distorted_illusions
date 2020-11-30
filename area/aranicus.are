@@ -1,0 +1,1709 @@
+#AREADATA
+Name Aranicus' area~
+Builders Unlinked Aranicus~
+VNUMs 45100 45299
+Continent 2
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#45100
+priest fate~
+{WT{whe{y Priest of Fa{wt{We{x~
+{WT{whe {yPriest of {yFa{wt{We {wstands here waiting for you.{x
+~
+The priest of fate stands before you with a list in his hand.  What is on
+his list you may never know.  Why he is here is still an unanswered
+question.  You feel a sense of danger in his presence.  
+~
+human~
+AB 0 0 1000 0
+101 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 45102 tokenfate~
+M SPEECH 45101 yes~
+M GRALL 45100 100~
+#45101
+beast burden boss~
+{RTh{re B{8ea{wst{8 of {rBur{Rden{x~
+A huge towering beast stands here, ready to face anything in its path.
+~
+~
+human~
+ABF 0 0 -1000 0
+110 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ABCDJKP medium unknown
+F for AHMV
+F par EFGHI
+M GRALL 45105 100~
+M DEATH 45104 100~
+#45102
+The Guardian of The First Choice~
+The Guardian of The First Choice~
+The Guardian of The First Choice stands here.
+~
+~
+human~
+ABa 0 0 0 0
+101 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 45111 give me wisdom~
+M SPEECH 45110 give me wealth~
+M SPEECH 45108 enlightenment~
+M SPEECH 45107 greed~
+M SPEECH 45106 power~
+M GRALL 45103 100~
+M SPEECH 45109 give me the strength~
+#45103
+man silent messenger~
+{8The Silent Messenger{x~
+A man dressed in black robes lurks in the shadows.
+~
+~
+human~
+ABJ 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 45113 100~
+M SPEECH 45112 hello~
+#0
+
+
+
+#OBJECTS
+#45100
+{RC{whains of the {RA{wbyss{x~
+chains of abyss~
+Chains of abyss~
+unknown~
+weapon 0 AN
+sword 5 44 slash 0
+105 1 1000 P
+#45101
+{wThe Bong of A Thousand Tokes{x~
+{wBong of A Thousand Tokes{x~
+{wBong of A Thousand Tokes{x~
+Mithril~
+staff AGI AO
+190 1000 1000 'feeble mind' 0
+105 10 50000 P
+A
+3 -333
+#45102
+{wA Finely Knit {GC{ga{Gn{gn{Ga{gb{Gi{gs {wRobe{x~
+{wA Finely Knit {GC{ga{Gn{gn{Ga{gb{Gi{gs {wRobe{x~
+{wA Finely Knit {GC{ga{Gn{gn{Ga{gb{Gi{gs {wRobe{x~
+unknown~
+armor 0 AD
+ACDF ACDF ACDF ACDF 0
+105 0 0 P
+#45103
+A small pebble.~
+a small pebble lies here.~
+A small pebble lies here.~
+unknown~
+treasure U A
+0 0 0 0 0
+1 2 0 P
+#45104
+test~
+test test test~
+(no description)~
+unknown~
+weapon N AN
+polearm 10 21 none EF
+101 1 0 P
+#45105
+flawed stone red~
+{W-{w=Fl{Waw{wed {r!{RRed{r!{x {wSt{Wo{wne={W-{x~
+A {Rred {Wstone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+E
+red~
+A red stone lies here, clearly flawed.  It almost looks like it was a
+piece of something much larger at one time.  
+~
+#45106
+flawed stone blue~
+{W-{w=Fl{Waw{wed {b!{BBlue{b!{x {wSt{Wo{wne={W-{x~
+A {Bblue {Wstone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45107
+flawed stone white~
+{W-{w=Fl{Waw{wed {w!{WWhite{w!{x {wSt{Wo{wne={W-{x~
+A white stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45108
+flawed stone black~
+{W-{w=Fl{Waw{wed {W!{wBlack{W!{x {wSt{Wo{wne={W-{x~
+A {wblack{x stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45109
+flawed stone green~
+{W-{w=Fl{Waw{wed {g!{GGreen{g!{x {wSt{Wo{wne={W-{x~
+A {ggreen{x stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45110
+flawed stone yellow~
+{W-{w=Fl{Waw{wed {y!{YYellow{y!{x {wSt{Wo{wne={W-{x~
+A {Yyellow{x stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45111
+stone shadow~
+{wA {WS{whad{wo{Ww {WS{wtone{x~
+A {wshadowy{x stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45112
+stone radiant~
+{WA {Y->R{Wa{yd{wi{ya{Wn{Yt<-{x Stone~
+A {Yradiant{x stone lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 1 1000 P
+#45113
+ruby small shard~
+{WA {WS{ym{Ya{yl{Wl {R<>{WRuby{R<> {WS{yh{Ya{yr{Wd{x~
+{WA {Rred{W shard lies here.{x~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45114
+garnet small shard~
+{WA {WS{ym{Ya{yl{Wl {B<>{WGarnet{B<> {WS{yh{Ya{yr{Wd{x~
+{WA {Bblue{W shard lies here.{x~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45115
+pearl small~
+{WA small P{wearl{x~
+A small P{wearl{x lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45116
+onyx shard small~
+{WA {WS{ym{Ya{yl{Wl {w<{W>{wB{Wl{wack {wO{Wn{wyx{W<{w> {WS{yh{Ya{yr{Wd{x~
+A {wblack{x shard lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45117
+emerald shard small~
+{WA {WS{ym{Ya{yl{Wl {G<>{WEmerald{G<> {WS{yh{Ya{yr{Wd{x~
+{WA {Ggreen{W shard lies here.{x~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45118
+diamond yellow~
+{WA {Y<>Y{ye{Yl{yl{Yo{Yw{Y<>{W Diamond{x~
+A {Yyellow{W diamond lies here.{x~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45119
+chunk dark matter darkmatter~
+{WA chunk of {bD{wark {bM{watter{x~
+A chunk of dark matter lies here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45120
+chunk solid light~
+{WA chunk of {YS{Wolid {YL{Wight{x~
+A piece of light shines here.~
+unknown~
+treasure ART A
+0 0 0 0 0
+1 0 10000 P
+#45121
+portal hall damned~
+{8A portal to the Halls of Damnation{x~
+A huge portal towers above you heading into darkness.~
+unknown~
+portal 0 0
+0 0 0 ADEGMNP 0
+1 0 0 P
+#45122
+portal halls justice~
+{8A portal to the Halls of Justice{x~
+A huge portal towers above you heading into light.~
+unknown~
+portal 0 0
+0 0 0 BDEGMNP 0
+0 0 0 P
+#45123
+key room destiny~
+a key to the Chamber of Destiny~
+{WA {Ygolden{W key lies here.{x~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#45124
+portal hall destiny ~
+{YA Port{yal to {Wthe Halls{y of De{Ystiny{x~
+A small portal lies here completely covered in dust.~
+unknown~
+portal 0 0
+0 0 0 ABDEGMNP 0
+0 0 0 P
+#45125
+statue enlightened~
+{WA Statue of the Enlightened{x~
+A statue of a lady holding scales stands here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+unknown~
+The priest of fate stands before you with a list in his hand.  What is on
+his list you may never know.  Why he is here is still an unanswered
+question.  You feel a sense of danger in his presence.  
+~
+E
+unknown~
+~
+#45126
+statue clouded mind~
+{WA Statue of a Clouded Mind{x~
+A statue of a man with his hands gripping his face stands here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+face~
+With his fingernails digging into his face, drawing blood, the statue
+stands hunched over before you.  Unable to remove his hands from his wounds,
+the man stands here frozen in time, suffering from his past choices and
+living an eternity of pain and guilt.  His eyes have been ripped out from
+vultures, leaving only gaping holes in his head.  
+~
+E
+holes~
+As you peer between the fingers of this man, into his darkened eyes, you
+notice something in the left socket.  
+~
+#45127
+token fate tokenfate~
+{cY{Co{Bur T{bo{cke{Cn {Wo{Yf {RF{ra{8t{we{x~
+A token with your head on it lies here.~
+unknown~
+trash AB A
+0 0 0 0 0
+1 0 0 P
+#45128
+key damnation~
+a small black key.~
+A small black key lies here.~
+unknown~
+key U AO
+0 0 0 0 0
+1 0 0 P
+#45129
+portal enlightenment~
+{WThe Portal of Enlightenment{x~
+A Portal with a White glow stands here.~
+unknown~
+portal 0 0
+0 0 0 0 0
+0 0 0 P
+#45130
+portal greed~
+{GThe Portal of Greed{x~
+{WA Portal with a {GGreen{W glow stands here.{x~
+unknown~
+portal 0 0
+0 0 0 BDEFGMNP 0
+0 0 0 P
+#45131
+portal power~
+the Portal of Power~
+{WA portal with a {RRed{W glow stands here.{x~
+unknown~
+portal 0 0
+0 0 0 BCFGMNP 0
+0 0 0 P
+#45132
+token power~
+{rA T{Ro{rken {Ro{rf {RPo{rw{Rer{x~
+{WA {RRed{W token lies here.{x~
+unknown~
+trash AB AO
+0 0 0 0 0
+1 0 0 P
+#45133
+rack wine winerack~
+a sturdy oak wine rack.~
+A sturdy oak wine rack is here.~
+unknown~
+container 0 0
+0 0 0 0 0
+1 0 0 P
+#45134
+bottle wine red~
+{WA bottle of {RR{re{Rd {Wwine{x~
+An old dusty bottle of wine~
+unknown~
+drink 0 AO
+0 10 'red wine' 0 0
+1 0 0 P
+#45135
+bottle wine cordial~
+a bottle of clear liquid~
+An old dusty bottle lies here~
+unknown~
+drink 0 AO
+0 10 'red wine' 0 0
+1 0 0 P
+#45136
+bottle green absinthe~
+{WA bottle of {GGreen{W liquid{x~
+An old dusty bottle lies here~
+unknown~
+drink 0 AO
+0 10 'absinthe' 0 0
+1 0 0 P
+#45145
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#45148
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#45100
+{RT{worture {RC{whambers{x~
+~
+0 8196 0
+S
+#45101
+{RD{wescending {Ri{wnto {RD{warkness{x~
+~
+0 4 0
+S
+#45102
+{RT{whe {RT{wwisted {RP{wath {RC{wontinues{x~
+~
+0 4 0
+S
+#45103
+~
+~
+0 4 0
+S
+#45104
+~
+~
+0 4 0
+S
+#45105
+~
+~
+0 4 0
+S
+#45106
+Guard room/key room~
+~
+0 4 0
+S
+#45107
+~
+~
+0 4 0
+S
+#45108
+~
+~
+0 4 0
+S
+#45109
+~
+~
+0 4 0
+S
+#45110
+~
+~
+0 4 0
+S
+#45111
+~
+~
+0 4 0
+S
+#45112
+~
+~
+0 4 0
+S
+#45113
+Bottom of the broken stairwell...~
+~
+0 4 0
+S
+#45114
+Atop the broken stairwell~
+~
+0 0 0
+D0
+~
+~
+1 0 45115
+D5
+~
+~
+0 0 45113
+S
+#45115
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45118
+D2
+~
+~
+1 0 45114
+D3
+~
+~
+0 0 45116
+S
+#45116
+boss mob~
+~
+0 0 0
+D0
+~
+~
+0 0 45117
+D1
+~
+~
+0 0 45115
+S
+#45117
+{RT{whe {RS{wlaughter {RP{wits{x~
+~
+0 0 0
+D1
+~
+~
+0 0 45118
+D2
+~
+~
+0 0 45116
+D4
+~
+~
+0 0 45119
+S
+#45118
+boss mob~
+~
+0 0 0
+D2
+~
+~
+0 0 45115
+D3
+~
+~
+0 0 45117
+S
+#45119
+~
+~
+0 0 0
+D1
+~
+~
+1 0 45120
+D5
+~
+~
+0 0 45117
+S
+#45120
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45121
+D1
+~
+~
+0 0 45127
+D3
+~
+~
+1 0 45119
+S
+#45121
+~
+~
+0 0 0
+D1
+~
+~
+0 0 45122
+D2
+~
+~
+0 0 45120
+S
+#45122
+Altar of the blahblah~
+~
+0 0 0
+D0
+~
+~
+0 0 45128
+D1
+~
+~
+0 0 45124
+D2
+~
+~
+0 0 45127
+D3
+~
+~
+0 0 45121
+S
+#45123
+~
+~
+0 0 0
+D2
+~
+~
+0 0 45126
+D3
+~
+~
+0 0 45122
+S
+#45124
+~
+~
+0 0 0
+D2
+~
+~
+0 0 45125
+D3
+~
+~
+0 0 45122
+S
+#45125
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45124
+D3
+~
+~
+0 0 45126
+S
+#45126
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45123
+D1
+~
+~
+0 0 45125
+D3
+~
+~
+0 0 45127
+S
+#45127
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45122
+D1
+~
+~
+0 0 45126
+D3
+~
+~
+0 0 45120
+S
+#45128
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45129
+D2
+~
+~
+0 0 45122
+S
+#45129
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45130
+D2
+~
+~
+0 0 45128
+S
+#45130
+{RT{whe {RF{wront {RF{woyer.{x~
+~
+0 0 0
+D0
+~
+~
+1 0 45131
+D2
+~
+~
+0 0 45129
+S
+#45131
+{RO{wutside the {RC{whurch.{x~
+~
+0 0 0
+D2
+~
+~
+1 0 45130
+D3
+~
+~
+0 0 45132
+S
+#45132
+{RA{wlong the Path Before the {RC{whurch.{x~
+~
+0 0 0
+D1
+~
+~
+0 0 45131
+D3
+~
+~
+0 0 45133
+S
+#45133
+{RF{wurther Along the {RP{wath.{x~
+~
+0 0 0
+D1
+~
+~
+0 0 45132
+D3
+~
+~
+0 0 45134
+S
+#45134
+{RF{wurther Along the {RP{wath.{x~
+~
+0 0 0
+D0
+~
+~
+0 0 45135
+D1
+~
+~
+0 0 45133
+S
+#45135
+{RP{wathway to the {RC{whurch of {RS{wouls.{x~
+~
+0 0 0
+D2
+~
+~
+0 0 45134
+S
+#45136
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8200 0
+D1
+~
+~
+0 0 45137
+S
+#45137
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8 0
+D0
+~
+~
+0 0 45140
+D1
+~
+~
+0 0 45138
+D2
+~
+~
+1 45123 45146
+D3
+~
+~
+0 0 45136
+S
+#45138
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8200 0
+D3
+~
+~
+0 0 45137
+S
+#45139
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8204 0
+S
+#45140
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8200 0
+D0
+~
+~
+0 0 45142
+D2
+~
+~
+0 0 45137
+S
+#45141
+{YThe {yHa{Wlls{y of F{Yate{x~
+~
+0 8204 0
+S
+#45142
+{YPat{yh of {Wthe {yCho{Ysen{x~
+~
+0 8200 0
+D0
+~
+~
+0 0 45143
+D2
+~
+~
+0 0 45140
+S
+#45143
+{YTh{ye Fr{Wont {yFoy{Yer{x~
+You find yourself standing in the enterance of a large hall.  The walls
+and ceilings are adorned in gold and silver tapestry, wheres the windows are
+all stained glass designs.  A wierd smell is in the air, it seems to be
+comming from the south.  
+~
+0 8200 0
+D0
+~
+~
+0 0 45144
+D2
+~
+~
+0 0 45142
+S
+#45144
+{YEn{yte{Wranc{ye to {YThe {YHa{yll{Ws of Des{yti{Yny{x~
+The buiding before you stands atleast 50' tall and you get this dizzying
+feeling as you look up.  You stand before two large doors bearing the symbol
+of fate.  Above the doors are stone gargoyles who appear to be watching your
+every move.  You get this sudden thought and think, "Should I even be here?"
+~
+0 8 0
+D2
+~
+~
+0 0 45143
+S
+#45145
+{8The chambers of the damned.{x~
+~
+0 4 0
+D1
+~
+~
+0 0 45148
+S
+#45146
+{YThe{y Por{Wtal of D{yest{Yiny{x~
+~
+0 8200 0
+D0
+~
+~
+1 45123 45137
+S
+#45147
+~
+~
+0 4 0
+S
+#45148
+{8The chambers of the damned.{x~
+~
+0 0 0
+D2
+~
+~
+0 0 45149
+D3
+~
+~
+0 0 45145
+S
+#45149
+{8The chambers of the damned.{x~
+~
+0 0 0
+D0
+~
+~
+0 0 45148
+D3
+~
+~
+0 0 45150
+S
+#45150
+{8The chambers of the damned.{x~
+~
+0 0 0
+D1
+~
+~
+0 0 45149
+D2
+~
+~
+1 0 45151
+S
+#45151
+{8Outside the chambers of the damned.{x~
+~
+0 0 0
+D0
+~
+~
+1 0 45150
+D2
+~
+~
+0 0 45152
+S
+#45152
+{8T{whe {WF{wirst {WC{whoice{x~
+~
+0 0 0
+D0
+~
+~
+0 0 45151
+D1
+~
+~
+0 0 45153
+D3
+~
+~
+0 0 45156
+S
+#45153
+{8T{whe {WF{wirst {WC{whoice{x~
+~
+0 0 0
+D3
+~
+~
+0 0 45152
+S
+#45154
+The Path to Enlightenment~
+~
+0 4 0
+S
+#45155
+The Path to Greed~
+~
+0 4 0
+S
+#45156
+{8T{whe {WF{wirst {WC{whoice{x~
+~
+0 0 0
+D1
+~
+~
+0 0 45152
+S
+#45157
+The Path to Power~
+~
+0 4 0
+S
+#45158
+{WT{whe {WT{wrials of {RPower{x~
+~
+0 0 0
+D2
+~
+~
+0 0 45159
+S
+#45159
+a turn in the path~
+~
+0 0 0
+D0
+~
+~
+0 0 45158
+D3
+~
+~
+0 0 45160
+S
+#45160
+A Fork in the Path~
+~
+0 0 0
+D1
+~
+~
+0 0 45159
+D2
+~
+~
+0 0 45172
+D3
+~
+~
+0 0 45161
+S
+#45161
+a turn in the path~
+~
+0 0 0
+D0
+~
+~
+0 0 45162
+D1
+~
+~
+0 0 45160
+S
+#45162
+the path continues~
+~
+0 0 0
+D0
+~
+~
+0 0 45163
+D2
+~
+~
+0 0 45161
+S
+#45163
+along the path of power~
+~
+0 0 0
+D2
+~
+~
+0 0 45162
+D3
+~
+~
+0 0 45164
+S
+#45164
+further along the path of power~
+~
+0 0 0
+D0
+~
+~
+0 0 45168
+D1
+~
+~
+0 0 45163
+D2
+~
+~
+0 0 45167
+D3
+~
+~
+0 0 45165
+S
+#45165
+even further along the path of power~
+~
+0 0 0
+D0
+~
+~
+0 0 45169
+D1
+~
+~
+0 0 45164
+D2
+~
+~
+0 0 45170
+D3
+~
+~
+0 0 45166
+S
+#45166
+boss power~
+~
+0 0 0
+D1
+~
+~
+0 0 45165
+D3
+~
+~
+1 0 45171
+S
+#45167
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45164
+S
+#45168
+~
+~
+0 0 0
+D2
+~
+~
+0 0 45164
+S
+#45169
+~
+~
+0 0 0
+D2
+~
+~
+0 0 45165
+S
+#45170
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45165
+S
+#45171
+portal back to MS~
+~
+0 0 0
+D1
+~
+~
+1 0 45166
+S
+#45172
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45160
+D2
+~
+~
+0 0 45173
+D3
+~
+~
+0 0 45174
+S
+#45173
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45172
+D3
+~
+~
+0 0 45177
+S
+#45174
+~
+~
+0 0 0
+D1
+~
+~
+0 0 45172
+D3
+~
+~
+0 0 45175
+S
+#45175
+~
+~
+0 0 0
+D1
+~
+~
+0 0 45174
+D2
+~
+~
+0 0 45176
+S
+#45176
+~
+~
+0 0 0
+D0
+~
+~
+0 0 45175
+D1
+~
+~
+0 0 45177
+S
+#45177
+~
+~
+0 0 0
+D1
+~
+~
+0 0 45173
+D3
+~
+~
+0 0 45176
+S
+#45178
+The Murky Sewers~
+~
+0 0 0
+D1
+~
+~
+0 0 45179
+S
+#45179
+The Murky Sewers~
+~
+0 0 0
+D0
+~
+~
+0 0 45180
+D3
+~
+~
+0 0 45178
+S
+#45180
+The Murky Sewers~
+~
+0 0 0
+D0
+~
+~
+0 0 45181
+D2
+~
+~
+0 0 45179
+S
+#45181
+A Bend in the Sewers.~
+~
+0 0 0
+D2
+~
+~
+0 0 45180
+D3
+~
+~
+0 0 45182
+S
+#45182
+A Hidden Room in the Sewers~
+~
+0 0 0
+D0
+~
+~
+0 0 45184
+D1
+~
+~
+0 0 45181
+D4
+~
+~
+0 0 45183
+S
+#45183
+The Meeting Room~
+~
+0 0 0
+D5
+~
+~
+0 0 45182
+S
+#45184
+Murky Sewers~
+~
+0 0 0
+D0
+~
+~
+0 0 45185
+D2
+~
+~
+0 0 45182
+S
+#45185
+Murky Sewers Beneath the Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 45186
+D2
+~
+~
+0 0 45184
+S
+#45186
+Murky Sewers at the Iron Gate~
+~
+0 0 0
+D1
+~
+~
+3 45128 45187
+D3
+~
+~
+0 0 45185
+S
+#45187
+At the Secret Enterance~
+~
+0 0 0
+D3
+~
+~
+3 45128 45186
+D4
+~
+~
+0 0 45188
+S
+#45188
+The Castle Wine Cellar~
+~
+0 0 0
+D0
+~
+~
+0 0 45189
+D1
+~
+~
+0 0 45191
+D5
+~
+~
+0 0 45187
+S
+#45189
+The Castle Wine Cellar~
+~
+0 0 0
+D1
+~
+~
+0 0 45190
+D2
+~
+~
+0 0 45188
+S
+#45190
+The Castle Wine Cellar~
+~
+0 0 0
+D2
+~
+~
+0 0 45191
+D3
+~
+~
+0 0 45189
+D4
+~
+~
+0 0 45192
+S
+#45191
+The Castle Wine Cellar~
+~
+0 0 0
+D0
+~
+~
+0 0 45190
+D3
+~
+~
+0 0 45188
+S
+#45192
+Stairway to the Wine Cellars~
+~
+0 0 0
+D0
+~
+~
+0 0 45193
+D5
+~
+~
+0 0 45190
+S
+#45193
+On The Castle Floors: Basement Level~
+~
+0 0 0
+D0
+~
+~
+0 0 45196
+D1
+~
+~
+0 0 45194
+D2
+~
+~
+0 0 45192
+S
+#45194
+On The Castle Floors: Basement Level~
+~
+0 0 0
+D1
+~
+~
+0 0 45195
+D3
+~
+~
+0 0 45193
+S
+#45195
+On The Castle Floors: Basement Level~
+~
+0 0 0
+D3
+~
+~
+0 0 45194
+S
+#45196
+On The Castle Floors: Basement Level~
+~
+0 0 0
+D0
+~
+~
+0 0 45197
+D2
+~
+~
+0 0 45193
+S
+#45197
+On The Castle Floors: Basement Level~
+~
+0 0 0
+D2
+~
+~
+0 0 45196
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 45114 0 1 The north door of Atop the broken stairwell is closed
+D 0 45115 2 1 The south door of  is closed
+D 0 45120 3 1 The west door of  is closed
+D 0 45130 0 1 The north door of {RT{whe {RF{wront {RF{woyer.{x is closed
+D 0 45131 2 1 The south door of {RO{wutside the {RC{whurch.{x is closed
+D 0 45137 2 2 The south door of {YThe {yHa{Wlls{y of F{Yate{x is closed and locked
+D 0 45146 0 2 The north door of {YThe{y Por{Wtal of D{yest{Yiny{x is closed and locked
+D 0 45150 2 2 The south door of {8The chambers of the damned.{x is closed and locked
+D 0 45151 0 2 The north door of {8Outside the chambers of the damned.{x is closed and locked
+D 0 45166 3 2 The west door of boss power is closed and locked
+D 0 45171 1 2 The east door of portal back to MS is closed and locked
+D 0 45186 1 2 The east door of Murky Sewers at the Iron Gate is closed and locked
+D 0 45187 3 2 The west door of At the Secret Enterance is closed and locked
+O 0 45125 0 45136 *{wa statue of the enlightened{x loaded to {YThe {yHa{Wlls{y of F{Yate{x
+O 0 45126 0 45138 *{wa statue of a clouded mind{x loaded to {YThe {yHa{Wlls{y of F{Yate{x
+O 0 45121 0 45139 *{8a portal to the halls of damnation{x loaded to {YThe {yHa{Wlls{y of F{Yate{x
+O 0 45122 0 45141 *{8a portal to the halls of justice{x loaded to {YThe {yHa{Wlls{y of F{Yate{x
+O 0 45124 0 45146 *{ya port{yal to {wthe halls{y of de{ystiny{x loaded to {YThe{y Por{Wtal of D{yest{Yiny{x
+M 0 45102 1 45152 1 *Load The Guardian of The First Choice
+O 0 45130 0 45155 *{gthe portal of greed{x loaded to The Path to Greed
+O 0 45131 0 45157 *The portal of power loaded to The Path to Power
+P 0 45134 1 45133 1 *{wa bottle of {rr{re{rd {wwine{x put inside {WA bottle of {RR{re{Rd {Wwine{x
+M 0 45101 1 45166 1 *Load {RTh{re B{8ea{wst{8 of {rBur{Rden{x
+M 0 45103 1 45183 1 *Load {8The Silent Messenger{x
+O 0 45133 0 45188 *A sturdy oak wine rack. loaded to The Castle Wine Cellar
+P 0 45136 1 45133 1 *{wa bottle of {ggreen{w liquid{x put inside {WA bottle of {GGreen{W liquid{x
+O 0 45133 0 45189 *A sturdy oak wine rack. loaded to The Castle Wine Cellar
+P 0 45135 1 45133 1 *A bottle of clear liquid put inside a bottle of clear liquid
+O 0 45133 0 45190 *A sturdy oak wine rack. loaded to The Castle Wine Cellar
+P 0 45135 1 45133 1 *A bottle of clear liquid put inside a bottle of clear liquid
+O 0 45133 0 45191 *A sturdy oak wine rack. loaded to The Castle Wine Cellar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#45100
+say Greetings $n, I have been awaiting your arrival.
+say Do you have your fate token?
+~
+#45101
+if CARRIES $n tokenfate
+say Quickly, give me the token, your destiny awaits you!
+else
+say Im sorry, you don't have the necessary item for this quest.
+endif
+ 
+~
+#45102
+if HAS $i tokenfate
+say I see you did have the token, your future now hangs in the balance.
+say Please, enter this portal and face your destiny!
+mob transfer all 45139
+else
+say Come back to me when you have the necessary item for this quest.
+endif
+~
+#45103
+say $n, welcome to your first choice.
+say Now $n, you must listen carefully to what I have to say.
+say Here, you will a very important decision, you will choose a path.
+say There are three paths to pick from, Power, Greed, or Enlightenment.
+say To hear more about each path, say their name.
+~
+#45104
+mob oload 45132 1 none
+~
+#45105
+say $n, get ready to face your first challenge.
+say When you are ready to face me, attack!
+say But be warned, this won't be easy.
+~
+#45106
+say Ahhhh! The path of power!
+say This path leads towards a life of strength.
+say This strength isnt only how strong you are, but your command over people too.
+say If power is what you desire, then be prepared for an adventure unlike any other.
+say The trials will be tough, but along the way you may have the chance to meet many new people.
+say To choose this path, say "Give me the strength"
+~
+#45107
+Say Hmmm, Greed you say.
+say This path isnt easy, the path to greed requires you to make many difficult choices.
+say These choices will rip apart your sense of what's right and wrong, you will only be driven by desire.
+say $n, this path is like a double-edged sword, sure it may sound bad, but it has its benefits.
+say By the end of this trial, incredible wealth and fame may be achieved.
+say You pick your fate, fate doesn't pick you.
+say To choose this path, say "Give me wealth"
+~
+#45108
+smile $n
+say Excellent choice!
+say $n, This path is for the wise, calm, and relaxed.
+say Kind hearted people who want nothing but understanding and wisdom.
+say As you traverse this path, the physical aspect may seem easy.
+say Don't get fooled, it won't be so simple mentally.
+say To choose this path, say "Give me wisdom"
+ 
+~
+#45109
+mob echo {5The Guardian whispers,  Remember to say hello to people you meet.{x
+mob transfer all 45157
+~
+#45110
+mob echo {5The Guardian whispers,  Remember to say hello to people you meet.{x
+mob transfer all 45155
+~
+#45111
+mob echo {5The Guardian whispers,  Remember to say hello to people you meet.{x
+mob transfer all 45154
+~
+#45112
+say $n, its about time you said hello.
+say Take this key, it will allow you access to the castle.
+say From here on out you're on your own, goodluck friend.
+ 
+give key $n
+~
+#45113
+grin $n
+mob oload 45128
+~
+#0
+
+#$

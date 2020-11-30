@@ -1,0 +1,65 @@
+[ 6411] Zsijn: colbey blinding me and not ungrouping us even though initiated pk flag
+[20350] Zsijn: charmed mobs can kill people and not flag it as pk
+[ 3367] Fenix: when you recall with -moves it halfs em instead of not letting you recall
+[ 9222] Fenix: rooms going dark when you kill a mob holding a light
+[ 7504] Ransom: fix nocharm flag for soulbind vs charm
+[ 3014] Zsijn: you can be walked out of combat if leader isnt being attacked and you are not being attacked
+[ 3005] Zsijn: when you get walked out of combat you cant still bash and fight the mob
+[ 5448] Zsijn: autoassiast allows you todo attacks while your harad
+[ 6406] Fenix: you still attack with autoassist while harastunned
+[  114] Zsijn: arena starting doesnt remove nerve affect!
+[ 3054] Zsijn: the mprogs on soldiers do damage when you flee into them but they dont initiate combat
+[17651] Zsijn: nerve doesnt initial combat on mobs if you fail
+[17667] Zsijn: mprog in kingdoms emotes 1k damage but doesnt actually do anything
+[20350] Zsijn: you should not be insta recalled out of combat when link drops, people use this to avoid deaths ie xavior sekhmet
+[ 1600] Marduk: you can throw while stunned
+[  700] Skyntil: yawn @ person doesn't have a social
+[ 3054] Ylathan: random of rage items give berserk and 0 hr dr
+[ 3007] Mutt: Urd says 'I'm sorry, but I don't have any quests for you at this time.'  Urd says 'Try again later.'  Urd says 'You have 26 minutes to complete this quest.
+[ 3056] Jored: when the conjurer is in the fountain of youth apothecary in midgard, you can't buy any potions.
+[17631] Ared: sometimes when i use roundhouse, it randomly picks a target... including players in my group.
+[ 1600] Marduk: roll on crab no worky!
+[ 1600] Marduk: blocking without shield doesn't work
+[ 1600] Marduk: smokebomb should be room affect immediately
+[ 3007] Claude: Can Hold an Item and Shield While wielding a Two-handed Sword doesnt sound right.
+[ 3056] Thraxian: You can't buy from a shop when the "powerful conjurer" is in the same room.
+[ 3700] Thraxian: No gods to choose from as a good hill-giant gladiator.  Had to guess.
+[ 1600] Marduk: earthquake shows ghost immortals
+[12521] Thraxian: I'm a storm-giant, and got hit with shifter's chain lightning.  I'm supposedly immune, but I still got damaged.
+[ 3712] Xalinax: New players equipped with a sword when NONE is selected as weapon choice.
+[17999] Fesdor: I've got a bug . . . Throw now fails like every time due to fear aura, and it gives the feared <@@@> shit.
+[42500] Fesdor: blackwater park is fucked up
+[ 9754] Jored: i "c locate 'med thor" and the mud crashed... x2
+[{wXorax        {B- {w    2{B] {yFeb 12: {wfix levitate shield and dual wield
+[{wXorax        {B- {w    2{B] {yFeb 12: {wfix second wield with heavier weapon
+[{wXorax        {B- {w    2{B] {yFeb 12: {wchange auction bid so you must type bid type as well as amount
+[{wXorax        {B- {w    2{B] {yFeb 12: {wredo quest code, add in mob item chance, add flag/message to tokens
+[{wXorax        {B- {w    2{B] {yFeb 12: {wcode in quest sell for aesir/vinir
+[{wXorax        {B- {w    2{B] {yFeb 12: {wcode in flag token code
+[{wXorax        {B- {w    2{B] {yFeb 12: {wrewrite reroll code to save everything
+[{wXorax        {B- {w    2{B] {yFeb 12: {wrestore / gspell hit pkers
+[{wXorax        {B- {w    2{B] {yFeb 12: {wconjurer doesnt convert platinum to gold
+[{wXorax        {B- {w    2{B] {yFeb 12: {wfists of darkness
+[{wXorax        {B- {w    2{B] {yFeb 12: {wquest info
+[{wTorik        {B- {w 9756{B] {yFeb 13: {wdruid identify
+[{wXorax        {B- {w    2{B] {yFeb 14: {wshow obj stats, add clan, add balance, fix immunities
+[{wXorax        {B- {w 7301{B] {yFeb 15: {wgladiator gets third attack before second attack
+[{wXorax        {B- {w    2{B] {yFeb 16: {wcheck harm
+[{wAlexandra    {B- {w 6450{B] {yMar  6: {wYou can dirt kick while in hara stun. I think..
+[{wAlexandra    {B- {w41017{B] {yMar  6: {wHead Cut works without a main weapon.
+[{wAlexandra    {B- {w12005{B] {yMar  6: {wthe door to cloud muntain doesnt have a key, cannot be openeed and is locked
+[{wJohar        {B- {w10607{B] {yMar  6: {wbash doesn't say how much damage it does
+[{wZarko        {B- {w20501{B] {yMar  8: {w'cripple working whilst stunned'
+[{wJohar        {B- {w10619{B] {yMar  8: {wcan't see kick/twirl damage with short combat on
+[{wRhyot        {B- {w20802{B] {yFeb 12: {wYou can still stay in meditation by using scrolls and staves. You guys fixed the wand party but yea I found that loophole.
+[{wMagoo        {B- {w 3365{B] {yFeb 16: {wVentriloquate doesn't work
+[{wKral         {B- {w 6413{B] {yFeb 16: {wguard dirtkick doesn't work
+[{wKral         {B- {w39743{B] {yFeb 17: {wac cap should be -1750?  with gods favors I was able to hit this : Armor: pierce: -1804  bash: -1805  slash: -1802  exotic: -1796
+[{wKral         {B- {w 1402{B] {yFeb 17: {wfists of ice?
+[{wLucius       {B- {w 3367{B] {yFeb 17: {wyou can recall while hara stunned but can't move, don't know if that's a huge deal but just noticed it...
+[{wRhyot        {B- {w 3054{B] {yFeb 17: {wyou can strangle someone while they're in combat, I got attacked then strangled to sleep fix it
+[{wBeitosm      {B- {w 2653{B] {yMar 25: {worder a pet to buy something crashes the mud
+[{wVorin        {B- {w 3011{B] {yApr  6: {wThe frost blade spell seems to be broken.. no success or failure messaging, and no flag added to the weapon.
+[{wEolu         {B- {w 3014{B] {yMay  8: {wThe directions helpfile doesnt contain anything for "sanctuary"
+[{wEolu         {B- {w 3007{B] {yMay  8: {wThe quest command refers to help quest, which accesses a help file having to do with hide and seek, instead of a helpful file on the quest command.
+[{wVeneficus    {B- {w10630{B] {yMay 17: {wBACKSTAB HAS LESS LAG THAN KILL COMMAND, PLEASE FIX THIS.

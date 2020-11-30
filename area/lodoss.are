@@ -1,0 +1,8426 @@
+#AREADATA
+Name Lodoss~
+Builders Kain~
+VNUMs 21000 21299
+Continent 2
+Credits {y[{YLGD+++{y] {cKain{x     {wLodoss{x~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#21000
+dark knight ashram~
+{DAs{wh{Dram{x~
+{wThe dark knight {DAs{wh{Dram{w peers at you intently.{x
+~
+~
+human~
+AT DFJVZc 0 -1000 0
+250 200 1d1+74999 1d1+1000 50d50+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB M N
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21001
+emperor beld~
+{cE{Dmperor {cB{Deld{x~
+{cE{Dmperor {cB{Deld {wfrowns at you with evil intentions.{x
+~
+~
+human~
+ABT DFJVZc H -1000 0
+250 200 1d1+59999 1d1+1000 50d50+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB M N
+stand stand male 75000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 21004 100~
+M GIVE 21006 21014~
+#21002
+goblin ~
+a {gG{Go{Db{gl{Gi{Dn{x~
+{wA {gG{Go{Db{gl{Gi{Dn{x {wprowls the area looking for a fight.{x
+~
+~
+goblin~
+ACFGT FJVZ 0 -1000 0
+190 0 1d1+39999 1d1+200 10d10+200 scratch
+-50 -50 -50 -50
+DEJ AB M S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21003
+dark elf drow~
+{xA {DDrow{x~
+{wA {Ddark elf {wlooks at you and smiles wickedly.{x
+~
+~
+elf~
+AGRS DJV 0 -1000 0
+195 100 1d1+39999 1d1+3000 10d35+150 stab
+-20 -20 -20 -60
+BEFGHJK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21004
+kobold~
+a {yKobol{Dd{x~
+{wA {yKobol{Dd{w growls at you.{x
+~
+~
+kobold~
+ACGT JZ 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+250 none
+-5 -5 -5 25
+CDEI AB 0 S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21005
+orc~
+an {cO{gr{Gc{x~
+{wAn {cO{gr{Gc{x {wmulls about waiting for action.{x
+~
+~
+kobold~
+AGT JVZ 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+240 none
+-5 -5 -5 25
+CDEIQ AB 0 S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21006
+demon~
+a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x~
+{wA {RDe{rm{wo{rn{Ric {wB{Rein{rg{x {wfloats on the breeze.{x
+~
+~
+draconian~
+AGOPR JTVZb 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+220 bite
+-5 -5 -5 25
+CDEGHIKQ AB E FS
+stand stand either 20000
+AHMVXc ABCDEFGHIJKPQ medium unknown
+#21007
+ogre~
+an {wO{cgr{We{x~
+{wAn {wO{cgr{We{x {wrampages toward you.{x
+~
+~
+ogre~
+AFGOPR JTZb 0 -1000 0
+195 100 1d1+39999 1d1+300 10d20+270 bite
+-20 -20 -20 20
+CDEGHIK AB E FS
+stand stand male 20000
+AHMVXc ABCDEFGHIJK medium unknown
+#21008
+legendary dragon shooting star~
+{YS{Rhooting {YS{Rtar{x~
+{YS{Rhooting {YS{Rtar{x {wswoops down to attack!!{x
+~
+~
+dragon~
+AFQT DFJTVZc 0 -1000 0
+400 500 1d1+150000 1d1+10000 500d5+900 flbite
+-100 -100 -100 -90
+ADHMO ABH BEH FI
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#21009
+demonic dragon narse~
+{DD{bemonic {DD{bragon, {DN{barse{x~
+{wThe {Dd{bemonic {Dd{bragon, {DN{barse{x {wis hellbent on destroying you!!{x
+~
+~
+dragon~
+ABFQT DFJTVZc 0 -1000 0
+400 500 1d1+150000 1d1+10000 500d5+900 acbite
+-100 -100 -100 -100
+ADHMO ABKM BE FIN
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+#21010
+ancient silver dragon bramb~
+{wThe {cAncient {WSilver {cDragon {wBramb{x~
+{wThe {cancient {Wsilver {cdragon {wBramb{x {wlooms above you.{x
+~
+~
+dragon~
+ABQT DFJTVZc 0 1000 0
+400 500 1d1+150000 1d1+10000 500d5+900 frbite
+-90 -90 -90 -120
+ADHMO ABI BEH H
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F vul FI
+#21011
+ancient gold dragon mycen~
+{yThe {WAncient {YGolden {WDragon {yMycen{x~
+{yThe {WAncient {YGolden {WDragon {yMycen{x {wwatches you intently.{x
+~
+~
+dragon~
+ABQT DFJTVZc 0 1000 0
+400 500 1d1+150000 1d1+10000 500d5+900 shbite
+-100 -100 -100 -100
+ADHMO ABJ BENS FIK
+stand stand female 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+#21012
+hibernating dragon abram~
+{cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x~
+{cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x {wslumbers in his lair.{x
+~
+~
+dragon~
+ABQT DFJTVZc C 1000 0
+400 500 1d1+150000 1d1+10000 500d5+500 frbite
+-50 -50 -50 -50
+ADHMO ABI BE HJ
+sleep sleep male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+F vul FI
+#21013
+wagnard sorcerer high destroyer~
+{RW{rag{Rn{rar{Rd{x~
+{RW{rag{Rn{rar{Rd{w utters an evil spell.{x
+~
+~
+human~
+ABFQR DFJLZc CDEH -1000 0
+225 250 1d1+74999 100d100+10000 222d5+100 none
+-120 -120 -120 -120
+FGH ABQ C 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21001 100~
+M KILL 21002 100~
+#21014
+wagnard high sorcerer~
+{RW{rag{Rn{rar{Rd{x~
+{RW{rag{Rn{rar{Rd{x {wstands here casting evil spells.{x
+~
+~
+human~
+ABQR DFJ 0 -1000 0
+200 400 1d1+49999 1d1+40000 100d3+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21000 100~
+#21015
+dark elf drow pirotess~
+{DP{bi{Drote{bs{Ds{x~
+{DP{bi{Drote{bs{Ds{x {wsees you and attacks!{x
+~
+~
+elf~
+ABFGRS DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 stab
+-40 -40 -40 -60
+BEFGHJK B 0 N
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21016
+groder evil mage~
+{gG{Drode{gr{x~
+{gG{Drode{gr{x {wstands here chanting evil incantations.{x
+~
+~
+elf~
+ABGR DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 stab
+-40 -40 -40 -60
+FGHK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21016 100~
+#21017
+dark elf astur~
+{DAstur{x~
+{DAstur {wgrins at you wickedly.{x
+~
+~
+elf~
+ABFGRS DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 crush
+-40 -40 -40 -60
+BEFGHJK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21018
+smeddy warrior~
+{DS{Bmedd{Dy{x~
+{DS{Bmedd{Dy{x {wstands here sharpening her swords.{x
+~
+~
+elf~
+ABGT DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 crush
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21019
+gilram warrior~
+{DG{Rilra{Dm{x~
+{DG{Rilra{Dm{x {wflexes his muscles at you.{x
+~
+~
+elf~
+ABGT DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 cleave
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21020
+evil mage gaberra~
+{gG{ma{Db{we{Dr{mr{ga{x~
+{gG{ma{Db{we{Dr{mr{ga{x {wattacks you with ill intent.{x
+~
+~
+human~
+ABFGR DJV 0 -1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 magic
+-40 -40 -40 -60
+FGHK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21020 100~
+#21021
+grey witch karla~
+{wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x~
+{wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x {wlooks at you with apathy.{x
+~
+~
+human~
+ABGQR DFJVZc C 0 0
+300 200 1d1+49999 1d1+1000 30d30+100 magic
+-120 -120 -120 -200
+FHK ABM CM 0
+stand stand female 50000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21023 100~
+M GIVE 21021 21099~
+M GREET 21022 100~
+#21022
+mercenary evil~
+a {wHuman {DMercenary{x~
+{wA Human {DMercenary{x {wroams the area.{x
+~
+~
+human~
+ACGT JVZ 0 -1000 0
+195 100 1d1+49999 1d1+300 30d30+0 none
+-30 -30 -30 -30
+CDEFIQ AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21023
+king fahn~
+{WK{Cing {WF{Cahn{x~
+{WK{Cing {WF{Cahn {wstands before you.{x
+~
+~
+human~
+ABT DFJVZc 0 1000 0
+225 200 1d1+39999 1d1+1000 50d50+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 75000
+AHMV ABCDEFGHIJK medium unknown
+#21024
+king kashue~
+{wK{Wing {wK{Washue{x~
+{wThe mercenary {wK{Wing {wK{Washue{x {wchecks his sword.{x
+~
+~
+human~
+AT DFJVZc 0 1000 0
+230 200 1d1+89999 1d1+1000 50d50+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 21007 100~
+#21025
+parn free knight~
+{DThe {WFree {wKnight {DP{warn{x~
+{DThe {WFree {wKnight {DP{warn{x {wsalutes you.{x
+~
+~
+human~
+AGT DFJVZc 0 1000 0
+220 200 1d1+79999 1d1+1000 50d50+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21008 100~
+M GIVE 21009 21000~
+#21026
+elf deedlit~
+{wD{Cee{wd{Cli{wt{x~
+{wD{Cee{wd{Cli{wt{x {wwatches her surroundings carefully.{x
+~
+~
+elf~
+ABGRS DJV 0 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 stab
+-40 -40 -40 -60
+BEFGHJKQ B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21027
+mage slayn~
+{RS{wlayn{x~
+{RS{wlayn{x {wstands here muttering to himself.{x
+~
+~
+human~
+AGR DJ 0 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 magic
+-40 -40 -40 -60
+FGHK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21028
+ghim dwarf warrior~
+{yG{Dhim{x~
+{yG{Dhim{x {wgrumbles at you.{x
+~
+~
+dwarf~
+ABGT DJV 0 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 crush
+-40 -40 -40 -60
+EFHJK B L 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21029
+etoh priest cleric~
+{WEtoh{x~
+{WEtoh{x {wsmiles happily at you.{x
+~
+~
+human~
+ABGQ DJVc 0 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 divine
+-40 -40 -40 -60
+FGHK B N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21029 100~
+#21030
+woodchuck thief~
+{DW{rood{Dc{rhuck{x~
+{DW{rood{Dc{rhuck{w slyly sneaks through the crowd.{x
+~
+~
+human~
+AGT FJPVZ 0 100 0
+200 100 1d1+44999 1d1+200 30d30+0 pierce
+-50 -50 -50 -50
+DEHJ AB M 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21030 100~
+#21031
+demonic treefolk~
+{DD{gem{Do{gni{Dc {GT{gree{x~
+A {DD{gem{Do{gni{Dc {GT{gree{x spring out of nowhere and attacks!
+~
+~
+draconian~
+ABFGOPR JTVZb H -1000 0
+195 100 1d1+39999 1d1+300 10d10+300 thwack
+-5 -5 -5 25
+CDEHK AB E FS
+stand stand either 20000
+AHMVXc ABC medium unknown
+F par DEFGHIJKPQ
+#21032
+gnoll~
+A {yGnoll{x~
+A {ygnoll{x snarls at you.
+~
+~
+gnoll~
+ACFGT JVZ 0 -1000 0
+195 100 1d1+46999 1d1+300 10d10+250 none
+-5 -5 -5 25
+CDEI AB 0 S
+stand stand either 20000
+AHMV ABCDEFGHIJKUV medium unknown
+#21033
+mercenary human good~
+a {WHuman {GMercenary{x~
+A {WHuman {GMercenary{x is here ready for battle.
+~
+~
+human~
+ACGT JVZ 0 1000 0
+190 100 1d1+49999 1d1+300 10d10+300 slice
+-30 -30 -30 -30
+CDEFI AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21034
+mercenary captain~
+a {DMercenary {wCaptain{x~
+A {DMercenary {wCaptain{x stands here issuing orders.
+~
+~
+human~
+ACGT JZ 0 -1000 0
+200 100 1d1+49999 1d1+300 10d10+350 charge
+-30 -30 -30 -30
+CDEFIQ AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21035
+castle servant ~
+{DCastle Servant{x~
+A {Dservant{x bows to you as you pass.
+~
+~
+human~
+AGT FJPZ 0 -1000 0
+185 100 1d1+44999 1d1+200 10d10+75 none
+0 0 0 50
+DEHJ AB M 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21036
+killer mushroom~
+a {RKiller {YM{Gus{Yhr{Goo{Ym{x~
+A {RKiller {YM{Gus{Yhr{Goo{Ym{x sprouts from the ground and attacks!
+~
+~
+draconian~
+ABFGOPR JTVZb 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+200 digestion
+-5 -5 -5 25
+CDEHK AB E FHI
+stand stand either 20000
+AHMVXc ABC medium unknown
+F par DEFGHIJKPQ
+#21037
+giant insect~
+{wG{Yian{wt {GI{cnsec{Gt{x~
+Duck!!  A {wG{Yi{Dan{wt {GI{cnsec{Gt{x swoops down to attack!
+~
+~
+draconian~
+AFGOR JTVZb 0 -1000 0
+185 100 1d1+39999 1d1+300 10d10+200 sting
+-5 -5 -5 25
+CDEHK AB E FS
+stand stand either 20000
+AHMVXc ABC medium unknown
+F par DEFGHIJKPQ
+#21038
+giant sand snake~
+{WG{yian{Wt {YS{yand {GS{gnak{Ge{x~
+A {WG{yian{Wt {YS{yand {GS{gnak{Ge{x slithers up and attacks.
+~
+~
+draconian~
+ABFG JVZb 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+200 bite
+-5 -5 -5 25
+CDEHK AB E FS
+stand stand either 20000
+AHMVXc A medium unknown
+F aff T
+F par BCDEFGHIJKPQ
+#21039
+knight holy valis~
+{WHoly {wKnight {Dof {WValis{x~
+A {WHoly {wKnight {Dof {WValis{x stands at attention.
+~
+~
+human~
+AGT DFJTVZb 0 1000 0
+200 100 1d1+39999 1d1+300 10d10+300 slash
+-20 -20 -20 -30
+CDEHIK AB F 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 21005 100~
+#21040
+cleric of valis~
+{CCleric {Dof {WValis{x~
+A {CCleric {Dof {WValis{x murmurs a prayer to you as you approach. 
+~
+~
+human~
+AGQ JTVZb E 1000 0
+190 100 1d1+39999 1d1+300 10d10+200 divine
+-20 -20 -20 -30
+HIK AB N GO
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21041
+castle servant ~
+{WCastle Servant{x~
+A {Wservant{x bows to you as you pass.
+~
+~
+human~
+AGT FJPVZ 0 1000 0
+185 100 1d1+44999 1d1+200 10d10+75 pierce
+0 0 0 50
+DEHJ AB N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21042
+citizen valis man~
+a {cCitizen {wof {WValis{x~
+A man with a smile on his face passes by you.
+~
+~
+human~
+AGT FJPZ 0 1000 0
+185 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEJ AB N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21043
+mercenary captain good~
+a {GMercenary {WCaptain{x~
+A {GMercenary {WCaptain{x stands here issuing orders.
+~
+~
+human~
+ACGT JVZ 0 1000 0
+200 100 1d1+49999 1d1+300 10d10+300 slice
+-30 -30 -30 -30
+CDEFIQ AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21044
+citizen valis woman~
+a {MCitizen {wof {WValis{x~
+A woman smiles at you as she goes about her business.
+~
+~
+human~
+AGT FJPVZ 0 1000 0
+185 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEJ AB N 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21045
+citizen flaim man~
+a {RCitizen {wof {yFlaim{x~
+A man with a smile on his face passes by you.
+~
+~
+human~
+AGT FJPVZ 0 0 0
+185 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEJ AB N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21046
+warrior flaim~
+a {cW{Barrio{cr {wof {yFlaim{x~
+A {cW{Barrio{cr {wof {yFlaim{x eyes you suspiciously.
+~
+~
+human~
+AGT JTVZb 0 0 0
+190 100 1d1+39999 1d1+300 10d10+300 slash
+-20 -20 -20 -30
+CDEHIKQ AB F 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21047
+citizen flaim woman~
+{mCitizen {wof {yFlaim{x~
+A woman smiles at you as she goes about her business.
+~
+~
+human~
+AGT FJPVZ 0 0 0
+185 100 1d1+44999 1d1+200 10d10+75 slap
+0 0 0 50
+DEJ AB N 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21048
+valis armorsmith smith~
+the {WA{Dr{wmor{Ws{Dm{with{x~
+The {WA{Dr{wmor{Ws{Dm{with{x looks up from the forge as you enter.
+~
+~
+human~
+ABG DFJK 0 1000 0
+10 0 1d1+99999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDMPQ 0 0
+stand stand male 100000000
+AHMV ABCDEFGHIJK medium unknown
+#21049
+valis weaposmith smith~
+the {RW{re{wapon{Rs{rm{with{x~
+The {RW{re{wapon{Rs{rm{with{x stops polishing his sword as you approach.
+~
+~
+human~
+ABG DFJK 0 1000 0
+10 0 1d1+99999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDMPQ 0 0
+stand stand male 100000000
+AHMV ABCDEFGHIJK medium unknown
+#21050
+valis wizened apothecary  ~
+the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x~
+The {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x tries to bring your attention to his wares.
+~
+~
+human~
+ABG DFJK 0 1000 0
+10 0 1d1+99999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDMPQ 0 0
+stand stand male 100000000
+AHMV ABCDEFGHIJK medium unknown
+#21051
+valis tiny wizard~
+a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x~
+A {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x looks at you with hazy eyes.
+~
+~
+human~
+ABG DFJK 0 1000 0
+10 0 1d1+99999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDMPQ 0 0
+stand stand male 100000000
+AHMV ABCDEFGHIJK medium unknown
+#21052
+small child boy~
+a {wSmall {BBoy{x~
+A small boy looks up to you and smiles.
+~
+~
+human~
+AG FJPVZ 0 1000 0
+85 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEHJ AB 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21053
+small child girl~
+a {wSmall {MGirl{x~
+A small girl smiles at you coyly.
+~
+~
+human~
+AG FJPVZ 0 1000 0
+185 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEHJ AB 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21054
+small child boy~
+a {ySmall {RBoy{x~
+A small boy grins at you.
+~
+~
+human~
+AG FJPVZ 0 0 0
+185 100 1d1+44999 1d1+200 10d10+75 peck
+0 0 0 50
+DEHJ AB 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21055
+small child girl~
+a {ySmall {mGirl{x~
+A small girl giggles at you.
+~
+~
+human~
+AG FJPVZ 0 0 0
+185 100 1d1+44999 1d1+200 10d10+75 beating
+0 0 0 50
+DEHJ AB 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21056
+spark knight training~
+{YS{Bpark{w, {WKnight {cin {wTraining{x~
+{YS{Bpark{x is here training to become a knight.
+~
+~
+human~
+AGT DFJVZc 0 1000 0
+200 200 1d1+59999 1d1+1000 30d30+100 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21057
+little neese~
+{mL{Wittle {mN{Me{we{Ms{me{x~
+{mL{Wittle {mN{Me{we{Ms{me{x smiles shyly towards you.
+~
+~
+human~
+AGQ DJVc H 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 divine
+-40 -40 -40 -60
+FGK B N 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21058
+garrack~
+{bG{Bar{Cr{Bac{bk{x~
+{bG{Bar{Cr{Bac{bk{x growls at you.
+~
+~
+elf~
+ABGT DJV 0 1000 0
+200 100 1d1+49999 1d1+3000 30d30+150 crush
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21059
+ryna~
+{wR{Gyn{wa{x~
+{wR{Gyn{wa{x stands here with her hand on her hip.
+~
+~
+human~
+AGST FJPVZ 0 100 0
+200 100 1d1+44999 1d1+200 30d30+100 pierce
+-50 -50 -50 -50
+DEHJ AB 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21060
+aldonova mage~
+{rA{yld{won{yov{ra{x~
+{rA{yld{won{yov{ra{x stands here practicing his spells.
+~
+~
+human~
+AGHR DJV D 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 magic
+-40 -40 -40 -60
+FGHK B P D
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21061
+leylia daughter~
+{ML{We{myl{Wi{Ma{x~
+{ML{We{myl{Wi{Ma{x smiles warmly to you.
+~
+~
+human~
+AGQ DJVc H 1000 0
+200 100 1d1+49999 1d1+3000 30d30+100 divine
+-40 -40 -40 -60
+FGK B N 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21062
+leaf~
+{GLe{ga{Gf{x~
+{GLe{ga{Gf{x stands here with her hands in her pockets.
+~
+~
+elf~
+ABGRS DJV 0 1000 0
+197 100 1d1+49999 1d1+3000 30d30+100 stab
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21063
+priest greevus~
+{WPriest {DGreevus{x~
+{WPriest {DGreevus{x mumbles under his breath.
+~
+~
+human~
+ABGQ DJc H 500 0
+200 100 1d1+49999 1d1+3000 30d30+100 cleave
+-40 -40 -40 -60
+FGHK B N 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21063 100~
+#21064
+wort high sage~
+{CT{che {YH{yigh {GS{gage {WW{Dort{x~
+{CT{che {YH{yigh {GS{gage {WW{Dort{x sits here studying a book.
+~
+~
+human~
+ABGQR DFJVZc H 0 0
+190 200 1d1+49999 1d1+1000 30d30+100 magic
+-120 -120 -120 -200
+FHK AB CM 0
+sit stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21290 100~
+M GRALL 21289 100~
+#21065
+neese high priestess~
+{wHigh {MP{Wrieste{Mss {WN{me{we{ms{We{x~
+{wHigh {MP{Wrieste{Mss {WN{me{we{ms{We{x smiles warmly to you.
+~
+~
+human~
+ABGQ DJVc EH 1000 0
+200 100 1d1+49999 1d1+3000 30d30+200 divine
+-40 -40 -40 -60
+FGK B CN 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21065 100~
+#21066
+neneel reincarnate~
+{DNe{rne{Del, {RK{Dardis {wR{weinc{Darnat{we{Wd{x~
+{DNe{rne{Del, {RK{Dardis {wR{weinc{Darnat{we{Wd{x hovers here.
+~
+~
+human~
+AGQ DJVc DH -1000 0
+171 100 1d1+49999 1d1+3000 25d25+500 fury
+-40 -40 -40 -60
+FGK B M 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21026 100~
+#21067
+duke rastor~
+{BD{Guke {BR{Gastor{x~
+{BD{Guke {BR{Gastor{x screams at you to go away!
+~
+~
+human~
+ABCGT JVZc 0 -1000 0
+196 100 1d1+49999 1d1+300 30d30+200 slash
+-30 -30 -30 -30
+CDEFIQ AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21067 100~
+#21068
+giant spider poisonous~
+{wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x~
+A {wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x floats down from the trees and attacks!
+~
+~
+draconian~
+ABFGOR JTVZb 0 -1000 0
+190 100 1d1+39999 1d1+300 10d10+200 bite
+-5 -5 -5 25
+CDEHK AB E FS
+stand stand either 20000
+AHMV ABC medium unknown
+F for Xc
+F par DEFGHIJKPQ
+#21069
+flail mercenary commander~
+{WT{wh{We {RM{we{Wr{Dc{Re{wn{Ra{wr{Wy {DC{wo{Wm{Dm{wa{Wn{Dd{we{Wr{x~
+{WT{wh{We {RM{we{Wr{Dc{Re{wn{Ra{wr{Wy {DC{wo{Wm{Dm{wa{Wn{Dd{we{Wr{x sits behind a mahogany desk.
+~
+~
+human~
+ABG DFJK 0 1000 0
+100 0 1d1+99999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDMPQ 0 0
+stand stand male 100000000
+AHMV ABCDEFGHIJK medium unknown
+#21070
+blade flaim warrior pet~
+{RB{Wlade {rof {yFlaim{x~
+A large warrior follows his leader.
+~
+~
+human~
+AIST TUc 0 0 0
+101 50 1d1+7500 0d0+0 30d30+0 slash
+10 10 10 10
+CDEIJKN 0 0 C
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21071
+mage wrath flaim pet~
+{WW{Brath {wof {yFlaim{x~
+A mage is here following her leader.
+~
+~
+human~
+AIR TU DE 0 0
+101 0 1d1+7500 50d50+500 30d29+0 wrath
+30 30 30 30
+FGK 0 0 D
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#21072
+priest hobb~
+{WP{wriest {RH{robb{x~
+{WP{wriest {RH{robb{x is here seeking true heroes.
+~
+~
+human~
+AB DFJLZ 0 0 0
+150 0 1d1+74999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDHIKMOQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21073
+dock master dockmaster~
+{wThe {yDock{cmaster{x~
+{wThe {yDock{cmaster{x is here hiring out ships.
+~
+~
+human~
+AB DFJLZ 0 0 0
+150 0 1d1+74999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDHIKMOQ 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21074 100~
+M SPEECH 21075 marmo~
+#21074
+harbor master~
+{WThe {BHarbor{Gmaster{x~
+{WThe {BHarbor{GMaster {msays {x'{mAre you ready to set sail?{x'
+~
+~
+human~
+AB DFJLZ 0 0 0
+150 0 1d1+74999 0d0+0 0d0+0 none
+0 0 0 0
+0 CDHIKMOQ 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 21073 kashue~
+#21075
+priest myrii~
+{RP{rr{wie{rs{Rt {wof {RM{ry{wr{ri{Ri{x~
+A {RP{rr{wie{rs{Rt {wof {RM{ry{wr{ri{Ri{x is here praying.
+~
+~
+human~
+AB 0 0 0 0
+75 0 1d1+9999 10d10+100 10d10+10 punch
+-10 -10 -10 -10
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#21076
+priest marfa~
+{gP{Griest {Cof {GM{ga{Wr{gf{Ga{x~
+A {gP{Griest {Cof {GM{ga{Wr{gf{Ga{x smiles at you.
+~
+~
+human~
+ABGQ JTVZb 0 1000 0
+195 100 1d1+39999 1d1+300 10d10+250 divine
+-20 -20 -20 -30
+HIK AB N GO
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21077
+priest marfa~
+{gP{Griestess {Cof {GM{ga{Wr{gf{Ga{x~
+A {gP{Griestess {Cof {GM{ga{Wr{gf{Ga{x smiles at you.
+~
+~
+human~
+ABGQ JTVZb 0 1000 0
+195 100 1d1+39999 1d1+300 10d10+250 divine
+-20 -20 -20 -30
+HIK AB N GO
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21078
+tourist traveling~
+A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x~
+A {Bt{wou{Br{wis{Bt{x gawks at you.
+~
+~
+human~
+AGT FJPVZ 0 0 0
+190 100 1d1+44999 1d1+200 10d10+75 none
+0 0 0 0
+DEJ AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21079
+valis gate guard~
+{WValis {wGate {DGuard{x~
+A {Dguard{x is standing here {Dguarding{x the {wgate{x.
+~
+~
+human~
+ABGT JTVZb 0 1000 0
+200 100 1d1+39999 1d1+300 10d10+300 slash
+-40 -40 -40 -50
+CDEHIKQ AB F 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21080
+goblin brute~
+{gA G{Go{Db{gl{Gi{Dn {RB{wr{ru{wt{Re{x~
+{gA G{Go{Db{gl{Gi{Dn {RB{wr{ru{wt{Re{x snarls at you.
+~
+~
+goblin~
+ABCFGT FJVZ 0 -1000 0
+200 200 1d1+42999 1d1+200 100d4+200 chomp
+-60 -60 -60 -60
+DEJ AB M S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21081
+chained giant~
+{WA {WC{Dhained {GG{gi{Gant{x~
+{WA {WC{Dhained {GG{gi{Gant{x is here waiting to be released to wreak {Rhavoc!!{x
+~
+~
+hill-giant~
+ABCGT FJVZ 0 -1000 0
+200 200 1d1+55554 1d1+200 100d4+300 smash
+-60 -60 -60 -60
+CDEJO AB M CS
+stand stand either 20000
+AHMV ABCDEFGHIJK large unknown
+#21082
+defender moss~
+{RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x~
+A {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x stands ready to fight!
+~
+~
+human~
+AFGT DFJTVZb 0 0 0
+195 100 1d1+39999 1d1+300 10d10+300 slash
+-20 -20 -20 -30
+CDEHIK AB F 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21083
+shiris~
+{RS{rhi{Rr{ris{x~
+{RS{rhi{Rr{ris{x stands here barking orders.
+~
+~
+human~
+ABGT DJV 0 0 0
+195 100 1d1+49999 1d1+3000 30d30+100 slash
+-40 -40 -40 -60
+BEFHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21084
+orson berserker~
+{RO{wr{rs{wo{Rn{x~
+{RO{wr{rs{wo{Rn{x, the {Rb{we{rr{ws{Re{wr{rk{we{Rr{x stands here.
+~
+~
+human~
+ABGT DJV 0 0 0
+195 100 1d1+49999 1d1+3000 30d30+300 cleave
+-40 -40 -40 -60
+BEFGHJK B D C
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21085
+jeweler jewelmaster master~
+The {WJ{Re{mwel{WM{Ra{mste{Wr{x~
+The {WJ{Re{mwel{WM{Ra{mste{Wr{x eyes you suspiciously.
+~
+~
+human~
+AB DFJZ 0 0 0
+100 0 1000d1000+10 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand male 50000000
+AHMV ABCDEFGHIJK medium unknown
+#21086
+jailor keeper keys~
+{wK{Weeper {Gof the {YK{yeys{x~
+A large burly {wj{Wailor{x sits here watching your every move.
+~
+~
+human~
+ABGT JTVZb 0 1000 0
+200 100 1d1+39999 1d1+300 10d10+300 slash
+-40 -40 -40 -50
+CDEHIKQ AB F 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21291
+barbas god death~
+{DB{ra{grb{ra{Ds{w, {DG{go{Dd {wof {DDe{ra{Dth{x~
+{DB{ra{grb{ra{Ds{w, {DG{go{Dd {wof {DDe{ra{Dth{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 -1000 0
+500 1000 1d1+199999 1d1+40000 700d6+0 drain
+-120 -120 -120 -120
+AFGHK ABQ 0 N
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21292 100~
+#21292
+baylos god fire fury~
+{RB{ya{Yy{Rl{yo{Ys{W, {RG{rod {yof {RF{yi{rr{Ye {wand {RF{ru{Rr{ry{x~
+{RB{ya{Yy{Rl{yo{Ys{W, {RG{rod {yof {RF{yi{rr{Ye {wand {RF{ru{Rr{ry{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 -750 0
+500 1000 1d1+199999 1d1+40000 700d6+0 flame
+-120 -120 -120 -120
+AFGHK ABHQ 0 I
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21291 100~
+#21293
+goddess kardis destroyer~
+{DK{Rardis {Dt{Rhe {DD{Restroyer{x~
+{DK{Rardis {Dt{Rhe {DD{Restroyer{x {wdesends upon you and attacks{R!!{x
+~
+~
+human~
+ABFRT DFJVZ 0 -1000 0
+500 1000 1d1+199999 1d1+40000 700d6+0 fury
+-120 -120 -120 -120
+AFGHK ABQ 0 N
+stand stand female 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21293 100~
+#21294
+falis god light~
+{WF{Balis{Y, {BG{Wod {wof {WL{Yi{Wg{Yh{Wt{x~
+{WF{Balis{Y, {BG{Wod {wof {WL{Yi{Wg{Yh{Wt{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 1000 0
+500 1000 1d1+199999 1d1+40000 700d6+0 divine
+-120 -120 -120 -120
+AFGHK ABNQ N MO
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21294 100~
+#21295
+marfa goddess creation~
+{GM{ga{Wr{gf{Ga{g, {WG{God{gd{Ges{Ws {wof {GC{Wr{we{gat{wi{Wo{Gn{x~
+{GM{ga{Wr{gf{Ga{g, {WG{God{gd{Ges{Ws {wof {GC{Wr{we{gat{wi{Wo{Gn{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 1000 0
+500 1000 1d1+199999 1d1+40000 700d6+0 psias
+-120 -120 -120 -120
+AFGHK ABQ N MO
+stand stand female 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21295 100~
+#21296
+myrii god war~
+{RM{ry{wr{ri{Ri{D, {rG{wod {rof {RW{rar{x~
+{RM{ry{wr{ri{Ri{D, {rG{wod {rof {RW{rar{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 0 0
+500 1000 1d1+199999 1d1+40000 700d6+0 sonic
+-120 -120 -120 -120
+AFGHKO ABQ D P
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21296 100~
+#21297
+rada god knowledge~
+{DR{wa{Dd{wa{W, {DGod {wof {DKn{wo{Dwl{we{Ddg{we{x~
+{DR{wa{Dd{wa{W, {DGod {wof {DKn{wo{Dwl{we{Ddg{we{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 0 0
+500 1000 1d1+199999 1d1+40000 700d6+0 none
+-120 -120 -120 -120
+AFGHK ABQ CP D
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21297 100~
+#21298
+chaza za god luck~
+{gC{Gha {gZ{Ga, {GGod {gof {GLuck{x~
+{gC{Gha {gZ{Ga, {GGod {gof {GLuck{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 0 0
+500 1000 1d1+199999 1d1+40000 700d6+0 grep
+-120 -120 -120 -120
+AFGHK ABQ G F
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21298 100~
+#21299
+falaris god darkness~
+{rF{Dalari{rs{D, {rG{Dod {rof {DDarkne{rss{x~
+{rF{Dalari{rs{D, {rG{Dod {rof {DDarkne{rss{x stands here.
+~
+~
+human~
+ABRT DFJVZ 0 -1000 0
+500 1000 1d1+199999 1d1+40000 700d6+0 blast
+-120 -120 -120 -120
+AFGHK ABMQ 0 N
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 21299 100~
+#0
+
+
+
+#OBJECTS
+#21000
+saints demise sword~
+{wS{Waint'{ws {DD{wemis{De{x~
+A large sword of demise stands here.~
+unknown~
+weapon CJLMY AN
+sword 22 9 slash BCF
+101 7 100000 P
+A
+19 15
+A
+2 -2
+A
+4 -2
+#21001
+soul crusher demon sword~
+{wT{rh{Re {wD{re{Rmo{Dn{wS{rw{Ror{wd {Y"{wS{Dou{wl {RC{rr{wu{Ds{rh{we{Rr{Y"{x~
+A large writhing greatsword is here.~
+unknown~
+weapon EJMTYf AN
+sword 19 11 cleave ACFG
+101 0 100000 P
+A
+14 -150
+A
+20 5
+A
+19 15
+A
+12 -500
+A
+18 5
+#21002
+soul crystal ball~
+{WS{coul {WC{crystal {WB{call{x~
+{WT{che {WS{coul {WC{crystal {WB{call{x~
+unknown~
+armor ABISY AO
+BCDE BCDE BCDE BCDE 0
+101 2 80000 P
+A
+19 -10
+A
+18 -10
+A
+12 500
+A
+20 -5
+A
+13 100
+#21003
+scepter of domination~
+{WScepter {wof {DDomination{x~
+{cThe {WScepter {wof {DDomination{x~
+unknown~
+wand ABSY AO
+160 1 1 'charm person' 0
+101 7 100000 P
+A
+20 -5
+A
+28 5
+#21004
+mirror of truth~
+{WMirror {wof {WTruth{x~
+{BThe {WMirror {wof {WTruth{x {Breflects reality.{x~
+unknown~
+armor ASTY AJ
+CE CE CE CFG 0
+101 5 200000 P
+A
+14 100
+A
+12 100
+A
+20 -1
+A
+13 100
+#21005
+staff of life~
+{GS{gt{waff {Wof {GL{gi{wfe{x~
+A slender staff sits here.~
+unknown~
+staff ABSTY AO
+10 50 50 'mass healing' 0
+101 2 200000 P
+A
+26 5
+A
+28 10
+#21006
+ferronierre of knowledge~
+{BF{cerronierr{Be {wof {YK{Gnowledg{Ye{x~
+{WThe {BF{cerronierr{Be {wof {YK{Gnowledg{Ye{W.{x~
+unknown~
+armor STY AE
+BCDE BCDE BCDE BEF 0
+101 2 200000 P
+A
+3 1
+A
+4 2
+A
+13 100
+A
+12 300
+A
+20 -3
+A
+5 -2
+A
+2 -2
+#21007
+steel shortsword~
+{DS{wte{Del {wSh{Dort{wsw{Dord{x~
+{WA {DS{wte{Del {wSh{Dort{wsw{Dord{x~
+unknown~
+weapon 0 AN
+sword 14 14 slash E
+101 4 1000000 P
+A
+19 7
+A
+18 10
+#21008
+steel hammer~
+{DS{wte{Del {wH{Da{wmm{De{wr{x~
+{WA {DS{wte{Del {wH{Da{wmm{De{wr{x~
+unknown~
+weapon 0 AN
+mace 35 5 crush B
+101 10 1000000 P
+A
+18 -7
+A
+2 -2
+A
+19 17
+#21009
+steel dagger~
+{DS{wtee{Dl {wD{Da{wgg{De{wr{x~
+{WA {DS{wtee{Dl {wD{Da{wgg{De{wr{x~
+unknown~
+weapon 0 AN
+dagger 23 8 pierce E
+101 1 1000000 P
+A
+12 -40
+A
+20 1
+A
+19 15
+A
+18 8
+#21010
+unholy armor~
+{DU{wnholy Armo{Dr{x~
+An evil set of platemail sits in the dirt.~
+unknown~
+armor EJY AD
+ADE ABF ABF BD 0
+101 5 50000 P
+A
+14 -200
+A
+18 10
+A
+13 100
+A
+19 15
+#21011
+steel bracer~
+{DS{wt{De{we{Dl B{wra{Dc{wer{x~
+(no description)~
+unknown~
+armor 0 AM
+ABCD ABCD ABCD BD 0
+101 2 1000000 P
+A
+13 25
+A
+18 6
+A
+19 15
+#21012
+staff of destruction~
+{RS{rtaff {Ro{rf {RD{restruction{x~
+{RT{rhe {RS{rtaff {Ro{rf {RD{restruction{x~
+unknown~
+weapon BESY AN
+staff 19 10 wrath ACFJ
+101 5 300000 P
+A
+5 -3
+A
+1 -3
+A
+17 -55
+A
+18 -15
+A
+19 -15
+A
+28 10
+#21013
+sorcerers robe~
+{RS{ror{Rc{rer{Re{rrs {RR{rob{Re{x~
+A long {RR{red{x robe lies here on the ground.~
+unknown~
+armor ESY AD
+ABF ABF ABF BEF 0
+101 3 300000 P
+A
+28 3
+A
+12 100
+A
+1 -3
+A
+20 -5
+#21014
+holy sword valis~
+the {WH{woly {DS{wword {Wof V{wali{Ws{x~
+The {WH{woly {DS{wword {Wof V{wali{Ws{x shimmers here.~
+unknown~
+weapon AGKMY AN
+sword 20 10 slash FG
+101 10 30000 P
+A
+17 -5
+A
+19 15
+#21015
+sword flaim~
+{DSword {wof {yFlai{rm{x~
+A long curved sword lies in the dust.~
+unknown~
+weapon BY AN
+sword 18 11 slash EN
+101 3 100000 P
+A
+4 -2
+A
+3 -2
+A
+18 10
+#21016
+giant scythe~
+a {BGiant {RScythe{x~
+A blood stained scythe rust in the dirt.~
+unknown~
+weapon 0 AN
+polearm 4 53 none AFG
+101 10 30000 P
+A
+14 -200
+A
+13 -200
+A
+19 15
+A
+18 10
+A
+12 -200
+#21017
+obsidian flail~
+an {DObsidian {cFlail{x~
+A dark flail lies here.~
+unknown~
+weapon C AN
+exotic 19 10 crush CJN
+101 7 30000 P
+A
+1 -1
+A
+5 -1
+#21018
+spiked whip~
+{yS{Yp{yik{Ye{yd {wWhip{x~
+A long leather whip sits here in a coil.~
+unknown~
+weapon S AN
+whip 105 1 whip DN
+101 2 30000 P
+A
+19 5
+A
+18 5
+#21019
+rusty axe~
+{rR{yus{rty {yA{rxe{x~
+A small rusty axe lies in the dirt.~
+unknown~
+weapon 0 AN
+exotic 70 2 chomp EH
+101 5 30000 P
+A
+19 10
+#21020
+white blade~
+a {WWhite {wBlade{x~
+A white bladed sword is lying here.~
+unknown~
+weapon IKY AN
+sword 16 12 slice E
+101 3 50000 P
+A
+18 5
+A
+13 50
+A
+19 15
+#21021
+greatax ax~
+a {DG{Rreat{WA{Cxe{x~
+A large axe is on a long handled pole.~
+unknown~
+weapon Y AN
+polearm 23 8 slash EG
+101 0 30000 P
+A
+19 15
+A
+18 -10
+#21022
+white shield~
+a {WWhite {DShield{x~
+A small white shield sits on the ground.~
+unknown~
+armor KY AJ
+BCDE BCDE BCDE BCDE 0
+101 5 50000 P
+A
+18 5
+A
+19 5
+A
+13 150
+#21023
+white platemail~
+{x{WWhite {CPlatemail{x~
+A set of platemail sits in a pile.~
+unknown~
+armor KY AD
+ABF ABF ABF ABF 0
+101 7 50000 P
+A
+19 5
+A
+13 150
+#21024
+silver anklet~
+{DSilver {WAnklet{x~
+A silver anklet shines here.~
+unknown~
+jewelry ABKY AT
+0 0 0 0 0
+101 1 30000 P
+A
+17 -15
+A
+18 5
+A
+13 50
+A
+26 3
+A
+28 3
+#21025
+battle veil~
+{DB{cattl{De V{cei{Dl{x~
+A metal mesh mask sits here.~
+unknown~
+armor M AR
+BD BD BD 0 0
+101 2 30000 P
+A
+12 -300
+A
+13 100
+A
+19 20
+#21026
+scroll flame~
+{RF{Yl{ra{Ym{Re {wS{Wc{Dro{Wl{wl{x~
+A piece of parchment sits here burning.~
+unknown~
+scroll Y A
+100 'fork' 'cremate' 'fireball' 'flamestrike'
+101 1 250000 P
+#21027
+chants evil~
+{DE{wvi{Dl {wC{Whant{ws{x~
+{DE{wvi{Dl {wC{Whant{ws{x~
+unknown~
+scroll U A
+100 'curse' 'blindness' 'slow' 'faerie fog'
+101 1 250000 P
+#21028
+benedictions~
+{WB{Ce{wn{We{Cd{wi{Wc{Ct{wi{Wo{Cn{ws{x~
+{WB{Ce{wn{We{Cd{wi{Wc{Ct{wi{Wo{Cn{ws{x~
+unknown~
+scroll UY A
+100 'holy aura' 'protection evil' 'fortify constitution' 'fortify dexterity'
+101 1 1000000 P
+#21029
+mantra~
+{WThe Mantra{x~
+{WThe Mantra{x~
+unknown~
+scroll SY A
+100 'heal' 'restore mana' 'mass healing' 'refresh'
+101 1 20000 P
+#21030
+colorful mist~
+{YC{Wo{Bl{Go{Rr{Cf{Wu{Yl {cMist{x~
+{YC{Wo{Bl{Go{Rr{Cf{Wu{Yl {cMist{x is bottled here.~
+unknown~
+potion 0 A
+100 'mass healing' 'restore mana' 'restore mana' 'restore mana'
+101 1 100000 P
+#21031
+black liquid~
+{DBlack Liquid{x~
+{DBlack Liquid{x is bottled here.~
+unknown~
+potion Y A
+140 'protection good' 'protective aura' 'steel flesh' 'curse'
+101 1 100000 P
+#21032
+purple liquid~
+{mPurple Liquid{x~
+{mPurple Liquid{x is bottled up here.~
+unknown~
+potion 0 A
+140 'haste' 'madness' 'bless' 'giant strength'
+101 0 100000 P
+#21033
+gold liquid~
+{YGold Liquid{x~
+{YGold Liquid{x is bottled here.~
+unknown~
+potion UY A
+140 'mass healing' 'mass healing' 'mass healing' 'mass healing'
+101 1 1000000 P
+#21034
+encasement wand~
+{WE{Dncasemen{Wt {wW{gan{wd{x~
+A long narrow wand stands here.~
+unknown~
+wand 0 AO
+100 10 10 'enchant armor' 0
+100 3 250000 P
+#21035
+blessings of falis~
+{CB{clessings {wof {WF{Balis{x~
+Mirag~
+unknown~
+wand 0 AO
+100 15 10 'bless' 0
+101 3 250000 P
+A
+28 -10
+A
+28 10
+#21036
+wandering whisper~
+{wW{Ran{rde{Rrin{wg {GW{chi{gs{cpe{Gr{x~
+{wW{Ran{rde{Rrin{wg {GW{chi{gs{cpe{Gr{x~
+unknown~
+potion 0 A
+100 'teleport' 'teleport' 'mass healing' 'mass healing'
+101 1 100000 P
+#21037
+white greaves~
+{WWhite {BGreaves{x~
+White legplates sit in the dirt.~
+unknown~
+armor KY AF
+CE CE CE ADE 0
+101 2 50000 P
+A
+18 5
+A
+19 15
+A
+13 50
+#21038
+unholy armplates~
+{DU{wnholy Armplate{Ds{x~
+A pile of unholy looking steel sits in the dust.~
+unknown~
+armor JY AI
+ADE ADE ADE BD 0
+101 5 50000 P
+A
+19 10
+A
+18 10
+A
+13 100
+#21039
+unholy helmet~
+{DU{wnholy Helme{Dt{x~
+An evil looking helmet sits in the dirt.~
+unknown~
+armor JY AE
+BCDE BCDE BCDE ADE 0
+101 10 50000 P
+A
+19 15
+A
+18 15
+A
+20 3
+A
+14 -100
+A
+3 -2
+#21040
+cloak desert king~
+{WCloak {Dof the {yDesert {YKing{x~
+A bright yellow cloak rustles in the wind.~
+unknown~
+armor SY AC
+ABCD ABCD ABCD ABCD 0
+101 1 100000 P
+A
+13 100
+A
+14 50
+A
+18 10
+A
+19 10
+#21041
+boots desert king~
+{RBoots {Dof the {yDesert {YKing{x~
+Cloth boots with the insignia of Flaim sits in the dirt.~
+unknown~
+armor SY AG
+CE CE CE CE 0
+101 1 100000 P
+A
+18 20
+A
+19 5
+A
+13 -100
+#21042
+cape desert king~
+{CCape {Dof the {yDesert {YKing{x~
+A yellow cape sit here.~
+unknown~
+armor Y AK
+BCDE BCDE BCDE BCDE 0
+101 1 100000 P
+A
+18 15
+#21043
+ring devotion~
+{WR{wing {Dof {RD{rev{Rot{rio{Rn{x~
+A shinny red ring.~
+unknown~
+armor SY AB
+AE AE AE AE 0
+101 1 50000 P
+A
+19 10
+A
+18 10
+A
+13 100
+A
+12 100
+A
+2 -2
+A
+28 3
+A
+1 -2
+#21044
+golden armor~
+{YG{yo{Yld{ye{Yn A{yr{Ym{yo{Yr{x~
+Dust covers iron plates here.~
+unknown~
+armor Y AD
+DF DF DF BCDE 0
+101 10 100000 P
+A
+19 10
+A
+18 10
+A
+13 100
+A
+4 -2
+A
+28 -3
+#21045
+golden gauntlets~
+{YG{yo{Yld{ye{Yn G{yau{Yn{yt{Yl{yet{Ys{x~
+Gold plate boots sit in the dust.~
+unknown~
+armor ISY AH
+CE CE CE CE 0
+101 3 50000 P
+A
+1 2
+A
+19 12
+A
+18 12
+A
+13 50
+#21046
+unholy strength~
+{DU{wnhol{Wy S{wtrengt{Dh{x~
+{DU{wnhol{Wy S{wtrengt{Dh{x~
+unknown~
+armor SY AU
+CE CE CE CE 0
+101 2 50000 P
+A
+19 10
+A
+18 10
+A
+13 100
+A
+1 3
+F
+A 0 0 K
+#21047
+steel axe~
+{DS{wt{De{we{Dl {wA{Dx{we{x~
+A large axe lies here.~
+unknown~
+weapon Y AN
+axe 16 12 chop D
+101 0 1000000 P
+A
+18 4
+A
+20 3
+A
+19 20
+#21048
+steel spear~
+{DS{wt{De{we{Dl {wS{Wp{De{Wa{wr{x~
+A long slender spear made of steal is stuck in the dirt.~
+unknown~
+weapon 0 AN
+staff 30 6 stab G
+101 5 1000000 P
+A
+1 -2
+A
+18 10
+A
+19 10
+#21049
+steel whip~
+{DS{wt{De{we{Dl {DW{whi{Dp{x~
+A long length of steel chain lie coiled up here.~
+unknown~
+weapon 0 AN
+whip 6 34 whip N
+101 3 1000000 P
+A
+19 14
+A
+26 1
+#21050
+steel flail~
+{DS{wt{De{we{Dl {WF{wl{Wa{wi{Wl{x~
+A dull colored flail lies in the dirt.~
+unknown~
+weapon 0 AN
+flail 15 13 crush B
+101 2 1000000 P
+A
+18 7
+A
+19 10
+#21051
+no name~
+{DS{wt{De{we{Dl {DP{Wo{Dl{we{Da{Wx{De{x~
+A long handled poleaxe lies on the ground.~
+unknown~
+weapon 0 AN
+polearm 3 73 none CF
+101 10 1000000 P
+A
+14 -50
+A
+2 -2
+A
+19 10
+#21052
+steel chainmail mail~
+{DS{wt{De{we{Dl {DC{wh{Da{wi{Wn{wm{Da{wi{Dl{x~
+Some tiny linked chain sits in a pile here.~
+unknown~
+armor 0 AD
+BCDE BCDE BCDE BCDE 0
+101 10 1000000 P
+A
+26 1
+A
+20 -1
+A
+13 100
+#21053
+steel full helm~
+{DS{wt{De{we{Dl {wF{Wu{Dl{wl {WH{De{wl{Wm{x~
+A sturdy looking helm is here.~
+unknown~
+armor 0 AE
+BCDE BCDE BCDE BCDE 0
+101 3 1000000 P
+A
+14 10
+A
+26 1
+A
+13 100
+#21054
+steel bootguard guard~
+{DS{wt{De{we{Dl {DBo{wot{Wg{wua{Drd{x~
+Metal cuffs sit in the dirt.~
+unknown~
+armor 0 AT
+ABCD ABCD ABCD ABCD 0
+101 0 1000000 P
+A
+28 -1
+A
+26 3
+A
+18 10
+A
+19 10
+#21055
+steel armplates~
+{DS{wt{De{we{Dl {DA{wr{Dm{Wp{Dl{wa{Dt{we{Ds{x~
+Curved steel plates sit here.~
+unknown~
+armor 0 AI
+ADE BCE BCE CE 0
+101 5 1000000 P
+A
+18 5
+A
+1 -1
+A
+19 15
+#21056
+steel legplates plates~
+{DS{wt{De{we{Dl {WL{De{wg{Wp{Dl{Wa{wt{We{Ds{x~
+Curved steel plates lie here.~
+unknown~
+armor 0 AF
+BCE BCE ADE BCE 0
+101 3 1000000 P
+A
+4 -2
+A
+2 -1
+A
+18 9
+A
+19 9
+A
+13 100
+#21057
+wooden mage staff~
+{wW{yooden {wM{yage {wS{ytaff{x~
+A staff with runes carved in it hovers above the ground.~
+unknown~
+weapon SY AN
+staff 13 15 magic FJ
+101 3 70000 P
+A
+12 100
+F
+A 0 0 J
+F
+A 0 0 L
+A
+26 -3
+A
+28 5
+A
+17 -25
+#21058
+holy scepter~
+{WHoly {wScepter{x~
+A holy white rod lies here.~
+unknown~
+weapon KSY AN
+mace 9 23 divine FG
+101 3 150000 P
+A
+17 -5
+A
+20 -3
+A
+19 10
+#21059
+unholy scepter~
+{DUnholy {wScepter{x~
+An evil looking rod sits here.~
+unknown~
+weapon JSY AN
+mace 9 23 fury CF
+101 3 150000 P
+A
+12 200
+A
+18 -10
+A
+19 15
+#21060
+thieves dagger~
+{DT{ghi{ce{gve{Ds {WD{ra{wgg{re{Wr{x~
+A small knife sits here.~
+unknown~
+weapon Y AN
+dagger 12 17 pierce EN
+101 1 150000 P
+A
+19 3
+#21061
+thin saber~
+{wT{chin {WS{Daber{x~
+A thin blade sits in the dirt.~
+unknown~
+weapon Y AN
+sword 71 2 slice DE
+101 1 150000 P
+A
+13 -100
+A
+1 -2
+A
+19 -10
+A
+18 20
+#21062
+strong sword~
+{RS{Wt{Rro{Wn{Rg {WS{Cw{Ro{Cr{Wd{x~
+A wide steel sword lies here.~
+unknown~
+weapon Y AN
+sword 14 14 slash E
+101 3 100000 P
+A
+1 1
+A
+18 10
+A
+19 10
+#21063
+circlet control~
+{GC{gi{Grclet {Wof {CC{co{Cntrol{x~
+A silver circlet hovers here.~
+unknown~
+armor MZ AE
+BCDE BCDE BCDE BEF 0
+101 1 200000 P
+F
+V 0 0 L
+F
+V 0 0 Q
+A
+9 10
+A
+26 3
+A
+28 5
+A
+13 200
+A
+12 300
+A
+20 10
+#21064
+key marmo~
+{DMarmo {wKey{x~
+{DMarmo {wKey{x~
+unknown~
+key V A
+0 0 0 0 0
+0 1 0 P
+#21065
+hazy dark portal~
+{wA {DDark{w, {WH{Ca{Wz{Cy{w portal leads to who knows where.{x~
+{wA {DDark{w, {WH{Ca{Wz{Cy{w portal leads to who knows where.{x~
+unknown~
+portal R 0
+0 0 AD BDFIJMO 0
+0 0 0 P
+#21066
+key karla~
+{YKey {wto {wK{Darla's {wD{Wemise{x~
+The {YKey {wto {wK{Darla's {wD{Wemise{x is here.~
+unknown~
+key U A
+0 0 0 0 0
+0 3 0 P
+#21067
+bane holy~
+{RB{rane {wof {Dthe {WHoly{x~
+There is no rest for the wicked.~
+unknown~
+armor JSY AV
+ABCD ABCD ABCD 0 0
+101 2 200000 P
+A
+9 10
+A
+19 15
+A
+18 10
+A
+20 3
+A
+4 -2
+A
+13 175
+A
+14 100
+#21068
+righteous fury~
+{WR{Cighteous {GF{cu{Gr{cy{x~
+Evil shall not survive.~
+unknown~
+armor KSY AV
+0 ABCD ABCD ABCD 0
+101 2 200000 P
+A
+13 150
+A
+19 20
+A
+18 10
+A
+4 -2
+A
+1 -3
+#21069
+valis vault key~
+{WValis {Ykey {wto the {WVault{x~
+A small shining key is here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#21070
+black flame~
+{DBlack {rFlame{x~
+A {DBlack {rFlame{x~
+unknown~
+light ASY AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 1 0 P
+A
+19 20
+A
+13 50
+#21071
+giant shackles~
+{GG{gi{Gant {wS{Dh{wackles{x~
+Some {GG{gi{Gant {wS{Dh{wackles{x~
+unknown~
+armor Y AT
+ABCD ABCD ABCD AC 0
+101 0 200000 P
+A
+13 200
+A
+4 -2
+A
+2 -4
+A
+19 17
+A
+18 5
+#21072
+giant cuffs~
+{GG{gi{Gant {WC{wu{Wffs{x~
+Some {GG{gi{Gant {WC{wu{Wffs{x~
+unknown~
+armor 0 AM
+ABC ABC ABC ABC 0
+101 5 200000 P
+A
+13 100
+A
+18 17
+A
+1 -4
+A
+19 10
+#21073
+furey's fureys presence~
+{rF{yu{wre{yy'{rs {wP{yr{resen{yc{we{x~
+Fureys hate presses down on you.~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+101 5 150000 P
+A
+19 20
+A
+18 -10
+A
+20 3
+A
+13 200
+A
+26 5
+F
+A 0 0 a
+#21074
+crystal earrings~
+{CC{Wr{Cy{Ws{Ct{Wa{Cl {cE{wa{cr{wr{ci{wn{cg{x~
+Some {CC{Wr{Cy{Ws{Ct{Wa{Cl {cE{wa{cr{wr{ci{wn{cg{x sparkle in the light.~
+unknown~
+jewelry SY AS
+0 0 0 0 0
+101 1 300000 P
+A
+12 25
+A
+17 -17
+A
+20 -1
+A
+18 7
+A
+19 7
+A
+13 100
+#21075
+platinum bar~
+{DP{wlatinum {DB{war{x~
+A large platinum bar lies here.~
+unknown~
+gem ABIRSTY A
+0 0 0 0 0
+0 1 10000000 P
+#21076
+burning gel~
+{RB{ru{Yr{rn{Ri{yn{Rg {GG{cel{x~
+Some burning gel smolders in a bottle.~
+unknown~
+potion 0 A
+150 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+101 1 100000 P
+#21077
+confusion~
+{rC{go{bn{cf{yu{rs{gi{bo{cn{x~
+{rC{go{bn{cf{yu{rs{gi{bo{cn{x overtakes you.~
+unknown~
+scroll 0 A
+125 'demonfire' 'ray of truth' 'steel flesh' 'weaken'
+101 1 250000 P
+#21078
+fireshard shard~
+{RF{yi{Rr{Ye{Rs{yh{Ra{Yr{Rd{x~
+A {RF{yi{Rr{Ye{Rs{yh{Ra{Yr{Rd{x sits in the dirt.~
+unknown~
+gem SY AO
+0 0 0 0 0
+101 0 5000000 P
+A
+13 100
+A
+18 10
+A
+19 15
+#21079
+firestones stones~
+{RF{yi{Rr{Ye{Rs{yt{Ro{Yn{Re{ys{x~
+Some small red gems sit here.~
+unknown~
+gem SY AS
+0 0 0 0 0
+101 1 5000000 P
+A
+13 100
+A
+18 5
+A
+19 5
+A
+17 -15
+A
+14 200
+#21080
+steel rod~
+{DSteel {WRod{x~
+A short steel rod lies here.~
+unknown~
+staff 0 AO
+150 5 5 'steel flesh' 0
+101 3 200000 P
+#21081
+valis cell key~
+{WValis {DCell {YK{yeys{x~
+{WValis {DCell {YK{yeys{x~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#21099
+dragonslayer emblem~
+{RD{Grag{Ron{Gsl{Ray{Ger {WE{Ymb{yle{Wm{x~
+{RD{Grag{Ron{Gsl{Ray{Ger {WE{Ymb{yle{Wm{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+101 5 0 P
+#21100
+dragonslayer slayer patch~
+{RD{Wr{Ga{Wg{Ro{Wn{Gs{Wl{Ra{Wy{Ge{Wr {RP{Wa{Gt{Wc{Rh{x~
+Proof of your courage,might, and will.~
+unknown~
+armor ABSTYf AX
+ABCD ABCD ABCD ABCD 0
+101 1 5000000 P
+A
+19 15
+A
+18 15
+A
+13 100
+A
+9 10
+A
+26 5
+A
+28 3
+#21250
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21255
+faith  exceptional normal~
+{xExceptional faith~
+{xExceptional Faith~
+unknown~
+armor Y AV
+CE ACE BDE ADE 0
+101 0 60000 P
+A
+13 75
+A
+9 20
+#21256
+teeth  Freya exceptional special~
+{xExceptional teeth of Freya~
+Exceptional teeth of Freya~
+unknown~
+armor 0 AR
+AD BE ACD ACD 0
+101 0 30000 P
+A
+12 35
+A
+20 -2
+A
+5 2
+A
+9 20
+#21257
+grand sceptre  Burning King's special~
+{xKing's grand sceptre of Burning~
+Grand sceptre is here.~
+unknown~
+weapon ORY AN
+mace 6 38 fury A
+101 1 101000 P
+F
+V 0 0 H
+A
+19 26
+A
+18 26
+#21290
+ultimate end~
+{wU{Wl{wt{Wi{wm{Wa{wt{We {DE{wn{Dd{x~
+{wU{Wl{wt{Wi{wm{Wa{wt{We {DE{wn{Dd{x~
+unknown~
+weapon TYf AN
+exotic 3 72 none ABCEGN
+101 10 300000 P
+F
+S 0 0 O
+F
+S 0 0 N
+A
+3 -1
+A
+4 -1
+A
+5 -1
+A
+1 -1
+A
+2 -1
+A
+14 -200
+A
+12 -200
+A
+13 -200
+#21291
+death's touch~
+{DD{geath{D'{gs {gT{Douch{x~
+A deadly looking blade sits here.~
+unknown~
+weapon TYf AN
+sword 54 3 slash CE
+101 5 300000 P
+A
+12 -200
+A
+18 5
+A
+19 11
+#21292
+pity mace~
+{mP{rity{x~
+A mace that inspires pity.~
+unknown~
+weapon TYf AN
+mace 6 35 thwack AEJ
+101 3 300000 P
+A
+1 -4
+A
+2 -4
+A
+19 15
+A
+18 -7
+#21293
+mercy polearm poleaxe~
+{BM{ce{Dr{cc{By{x~
+A large poleaxe sits here.~
+unknown~
+weapon TYf AN
+polearm 7 33 thrust F
+101 10 300000 P
+A
+19 20
+A
+18 -10
+A
+4 -2
+A
+3 -2
+A
+20 5
+#21294
+dagger chaos ~
+{gC{Gh{Da{Go{gs{x~
+A wicked looking dagger sits here.~
+unknown~
+weapon TYf AN
+dagger 4 53 pierce EGN
+101 3 300000 P
+A
+26 2
+A
+18 15
+A
+19 15
+A
+12 -300
+A
+13 -300
+A
+14 -300
+#21295
+sightbinder binder spear~
+{RS{rhort {RS{rpear {G"{DS{cight{DB{cinder{G"{x~
+A short spear that emits smoke is stuck in the ground.~
+unknown~
+weapon TYf AN
+staff 24 8 stab AC
+101 3 300000 P
+A
+13 -200
+A
+20 3
+A
+19 20
+#21296
+morningstar heavens~
+{YHeaven's {GMorning {CStar{x~
+A large flail catches your eye.~
+unknown~
+weapon STY AN
+flail 7 30 crush BCD
+101 5 300000 P
+A
+4 -2
+A
+3 -2
+A
+5 -2
+A
+2 -2
+A
+1 -2
+A
+19 15
+A
+18 5
+A
+20 -1
+#21297
+chains agony~
+{DC{wh{Da{wi{Dn{ws {Wof {RA{rg{Ro{rn{Ry{x~
+A multi-chained whip lies here.~
+silver~
+weapon TYf AN
+whip 6 35 whip BEG
+101 3 300000 P
+A
+17 15
+A
+14 -100
+A
+12 -100
+A
+13 -100
+A
+19 11
+A
+18 11
+#21298
+stats~
+{wStats{x~
+{wStats{x~
+silver~
+armor T AX
+0 0 0 0 0
+101 0 20000 P
+A
+19 100
+A
+18 100
+A
+2 15
+A
+1 15
+A
+5 15
+A
+4 15
+A
+3 15
+A
+17 -200
+#21299
+axe scarbringer~
+{rT{yh{Re {y"{rS{yc{Rar{yb{rr{yi{Rng{ye{rr{y"{x~
+An axe that scars even the earth is here.~
+unknown~
+weapon TYf AN
+axe 5 47 cleave ACEF
+101 20 300000 P
+A
+17 25
+A
+13 -150
+A
+19 17
+A
+2 -3
+A
+1 -3
+A
+14 -300
+A
+20 3
+#0
+
+
+
+#ROOMS
+#21000
+Marmo~
+You land on the beach of a dark forest.  The water laps against the sand.
+Tall trees stand before you.  No light shines through the canopy of the
+trees.  A path leads into the forest.  
+~
+0 5 3
+D1
+~
+~
+0 0 21001
+S
+#21001
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  
+~
+0 1 3
+D0
+~
+~
+0 0 21002
+D3
+~
+~
+0 0 21000
+S
+#21002
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  
+~
+0 1 3
+D0
+~
+~
+0 0 21003
+D2
+~
+~
+0 0 21001
+S
+#21003
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  
+~
+0 1 3
+D2
+~
+~
+0 0 21002
+D3
+~
+~
+0 0 21004
+S
+#21004
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  
+~
+0 1 3
+D0
+~
+~
+0 0 21005
+D1
+~
+~
+0 0 21003
+S
+#21005
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  
+~
+0 1 3
+D0
+~
+~
+0 0 21006
+D2
+~
+~
+0 0 21004
+S
+#21006
+Old Camp Site~
+A little light shines through a small opening in the canopy.  Remnants of
+a campfire litters the ground.  There appears to be large amounts of
+footprints in the dirt.  The trees have been hacked at and notches have been
+left in the trunks.  There is a small tent to one side of the fire pit.  The
+path continues on through the forest.  
+~
+0 0 3
+E
+tent~
+There is a small dingy tent staked into the ground here.
+~
+D0
+~
+~
+0 0 21008
+D1
+~
+~
+0 0 21007
+D2
+~
+~
+0 0 21005
+S
+#21007
+Inside the Tent~
+The tent is so small, you have to climb into it.  A small flap has been
+cut in the fabric to act as a window.  A tarp has been placed on the ground
+to cover the dirt.  It smells bad in here.  
+~
+0 1 0
+D3
+~
+~
+0 0 21006
+S
+#21008
+Dark Forest~
+The trees close in back around you.  Darkness descends as you move
+farther into this evil forest.  The trees look almost alive, and ready to
+attack you at any moment.  They seem to move, yet you feel no wind....  The
+path continues onward.  
+~
+0 0 3
+D2
+~
+~
+0 0 21006
+D3
+~
+~
+0 0 21009
+S
+#21009
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D0
+~
+~
+0 0 21010
+D1
+~
+~
+0 0 21008
+D2
+~
+~
+0 0 21011
+D3
+~
+~
+0 0 21013
+S
+#21010
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D2
+~
+~
+0 0 21009
+D3
+~
+~
+0 0 21014
+S
+#21011
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D0
+~
+~
+0 0 21009
+D3
+~
+~
+0 0 21012
+S
+#21012
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D0
+~
+~
+0 0 21013
+D1
+~
+~
+0 0 21011
+D2
+~
+~
+0 0 21015
+D3
+~
+~
+0 0 21021
+S
+#21013
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D0
+~
+~
+0 0 21014
+D1
+~
+~
+0 0 21009
+D2
+~
+~
+0 0 21012
+D3
+~
+~
+0 0 21021
+S
+#21014
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D1
+~
+~
+0 0 21010
+D2
+~
+~
+0 0 21013
+D3
+~
+~
+0 0 21021
+S
+#21015
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  
+~
+0 1 3
+D0
+~
+~
+0 0 21012
+D1
+~
+~
+1 0 21016
+S
+#21016
+Inside the Tent~
+The tent is so small, you have to climb into it.  A small flap has been
+cut in the fabric to act as a window.  A tarp has been placed on the ground
+to cover the dirt.  It smells bad in here.  
+~
+0 1 0
+D3
+~
+~
+1 0 21015
+S
+#21017
+End of the Path~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path ends here.  You
+have no choice but to turn back.  
+~
+0 0 3
+D1
+~
+~
+0 0 21018
+S
+#21018
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D1
+~
+~
+0 0 21019
+D3
+~
+~
+0 0 21017
+S
+#21019
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D2
+~
+~
+0 0 21020
+D3
+~
+~
+0 0 21018
+S
+#21020
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D0
+~
+~
+0 0 21019
+D1
+~
+~
+0 0 21014
+D2
+~
+~
+0 0 21021
+S
+#21021
+Dark Forest~
+It is dark beneath the limbs of the trees.  Erie sounds whistle
+throughout the forest.  An evil aura weighs down on your shoulders.  The
+path continues through the forest.  The trees seem to sway before your eyes,
+yet there is no wind.  There are many sets of footprints in the dirt.  A
+moderately sized black stone castle stands before you.  Large gates lead
+into Marmo Castle.  
+~
+0 1 3
+D0
+~
+~
+0 0 21020
+D1
+~
+~
+0 0 21013
+D2
+~
+~
+0 0 21022
+D3
+~
+~
+3 0 21028
+S
+#21022
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D0
+~
+~
+0 0 21021
+D2
+~
+~
+0 0 21023
+S
+#21023
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D0
+~
+~
+0 0 21022
+D1
+~
+~
+0 0 21015
+D3
+~
+~
+0 0 21024
+S
+#21024
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D1
+~
+~
+0 0 21023
+D2
+~
+~
+0 0 21025
+S
+#21025
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D0
+~
+~
+0 0 21024
+D3
+~
+~
+0 0 21026
+S
+#21026
+Path Around the Castle~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path continues on.  
+~
+0 0 3
+D1
+~
+~
+0 0 21025
+D2
+~
+~
+0 0 21027
+S
+#21027
+End of the Path~
+A small path goes along the wall of the castle through the forest.  The
+trees have been hacked into pieces in some places.  The path ends here.  You
+have no choice but to turn back.  
+~
+0 0 3
+D0
+~
+~
+0 0 21026
+D1
+~
+~
+1 0 21000
+S
+#21028
+Inside The Castle~
+You step into the castle and hear strange chants echoing down the halls. 
+The walls have arrow slits cut out of them.  Halls lead north and south and
+there is a large wooden door to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21029
+D1
+~
+~
+3 0 21021
+D2
+~
+~
+0 0 21030
+D3
+~
+~
+3 0 21035
+S
+#21029
+End of the Hall~
+The hallway comes to an abrupt end into a wooden door.  There is another
+door to the west.  
+~
+0 0 0
+D0
+~
+~
+3 0 21034
+D2
+~
+~
+0 0 21028
+D3
+~
+~
+3 0 21033
+S
+#21030
+End of the Hall~
+The hallway comes to an abrupt end into a wooden door.  There is another
+door to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21028
+D2
+~
+~
+3 0 21031
+D3
+~
+~
+3 0 21032
+S
+#21031
+Castle Bedroom~
+This bedroom is about 20 feet by 20 feet.  A large bed sits along the
+wall.  A small desk has an oil lamp on it for reading.  A bookshelf stands
+next to the desk.  There are no windows but there are small holes in the
+wall towards the halls.  
+~
+0 0 0
+D0
+~
+~
+3 0 21030
+S
+#21032
+Castle Bedroom~
+This bedroom is about 20 feet by 20 feet.  A large bed sits along the
+wall.  A small desk has an oil lamp on it for reading.  A bookshelf stands
+next to the desk.  There are no windows but there are small holes in the
+wall towards the halls.  
+~
+0 0 0
+D1
+~
+~
+3 0 21030
+S
+#21033
+Castle Bedroom~
+This bedroom is about 20 feet by 20 feet.  A large bed sits along the
+wall.  A small desk has an oil lamp on it for reading.  A bookshelf stands
+next to the desk.  There are no windows but there are small holes in the
+wall towards the halls.  
+~
+0 0 0
+D1
+~
+~
+3 0 21029
+S
+#21034
+Castle Bedroom~
+This bedroom is about 20 feet by 20 feet.  A large bed sits along the
+wall.  A small desk has an oil lamp on it for reading.  A bookshelf stands
+next to the desk.  There are no windows but there are small holes in the
+wall towards the halls.  
+~
+0 0 0
+D2
+~
+~
+3 0 21029
+S
+#21035
+Approaching the Throne Room~
+You enter a small room that leads to the throne room.  The walls are bare
+except two torches that keep the room well-lit.  The throne is ahead.  
+~
+0 0 0
+D1
+~
+~
+3 0 21028
+D3
+~
+~
+0 0 21036
+S
+#21036
+Throne Room~
+Red carpet leads up to a large throne that stands above you raised on a
+platform.  Erie light radiates from four globes that hang suspended in
+mid-air.  Empty suits of armor line the walls each holding a large halberd. 
+There are doors leading north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 21039
+D1
+~
+~
+0 0 21035
+D2
+~
+~
+1 0 21037
+S
+#21037
+Beld's Royal Chambers~
+You step into an enormous bed chamber.  The ceilings are covered in
+darkness.  A large bed stands along the south wall.  Ornate swords hang
+above a fireplace and a large table stands in the middle of the room.  A
+comfortable looking chair sits in front of the fire place.  
+~
+0 0 0
+D0
+~
+~
+1 0 21036
+D2
+~
+~
+3 21064 21038
+S
+#21038
+Dark Hazy Portal~
+~
+0 0 0
+D0
+~
+~
+3 21064 21037
+S
+#21039
+War Room~
+A large round table stands in the center of the room.  It is covered by a
+map of Lodoss.  Each corner of the map is held down by a small silver statue
+of an evil looking dragon.  The room is well-lit by glowing white orbs.  
+~
+0 0 0
+D2
+~
+~
+0 0 21036
+D3
+~
+~
+3 0 21040
+S
+#21040
+Back Room~
+There is nothing in this room but a staircase leading down.
+~
+0 0 0
+D1
+~
+~
+3 0 21039
+D5
+~
+~
+0 0 21041
+S
+#21041
+Marmo Basement~
+The stairs lead you to a landing in a dark room.  There is a door that
+leads east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21042
+D4
+~
+~
+0 0 21040
+S
+#21042
+Marmo Basement~
+The room is dark and cold.  Shelves line the walls stocked up with
+cleaning supplies.  Odd tools are leaned against the wall here and there. 
+The only exit leads back toward the castle.  
+~
+0 0 0
+D3
+~
+~
+0 0 21041
+D5
+~
+~
+3 0 21043
+S
+#21043
+Wagnard's Study~
+The room is large and has all kinds of magic paraphernalia scattered
+around the room.  It looks as if it was discarded in a hurry to move on to
+the next interesting item.  A large bed stands in one corner.  A desk and a
+table, also covered in magical items, stand against the western wall.  A
+large stone door leads north.  
+~
+0 0 0
+D0
+~
+~
+3 0 21044
+D4
+~
+~
+3 0 21042
+S
+#21044
+Alter to Kardis~
+This room is huge.  Pillars reach into the sky but end in darkness.  A
+large black marble alter stands before you.  An evil aura hangs in the air. 
+Wind slaps against your armor.  There are no other exits other than back to
+Wagnard's study.  
+~
+0 0 0
+D0
+~
+~
+0 0 21299
+D2
+~
+~
+3 0 21043
+S
+#21045
+End of the Dock~
+The dock end here.  A few ships are tied to the docks and some are
+anchored in the harbor.  Sailors run up and down the dock shouting to one
+another.  
+~
+0 0 1
+D3
+~
+~
+0 0 21046
+S
+#21046
+The Dock~
+The narrow path end in a small wooden dock.  To the far southeast you can
+see dark clouds hanging in the air.  The waves lap against the wooden
+columns that hold up the dock.  It continues east.  
+~
+0 0 1
+D1
+~
+~
+0 0 21045
+D3
+~
+~
+0 0 21047
+S
+#21047
+Narrow Pass~
+The path continues down through the hills.  You can see a wooden dock to
+the east.  
+~
+0 0 4
+D1
+~
+~
+0 0 21046
+D4
+~
+~
+0 0 21048
+S
+#21048
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D1
+~
+~
+0 0 21049
+D5
+~
+~
+0 0 21047
+S
+#21049
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D3
+~
+~
+0 0 21048
+D4
+~
+~
+0 0 21050
+S
+#21050
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D3
+~
+~
+0 0 21051
+D5
+~
+~
+0 0 21049
+S
+#21051
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D1
+~
+~
+0 0 21050
+D3
+~
+~
+0 0 21052
+S
+#21052
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D0
+~
+~
+0 0 21053
+D1
+~
+~
+0 0 21051
+S
+#21053
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D1
+~
+~
+0 0 21054
+D2
+~
+~
+0 0 21052
+S
+#21054
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D1
+~
+~
+0 0 21055
+D3
+~
+~
+0 0 21053
+S
+#21055
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D0
+~
+~
+0 0 21056
+D3
+~
+~
+0 0 21054
+S
+#21056
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D2
+~
+~
+0 0 21055
+D3
+~
+~
+0 0 21057
+S
+#21057
+Narrow Pass~
+The path continues down through the hills.
+~
+0 0 4
+D0
+~
+~
+0 0 21058
+D1
+~
+~
+0 0 21056
+S
+#21058
+City Streets~
+The city's streets are clean but crowded.  Small buildings line the
+streets, some are shops and others are homes.  There is a wall surrounding
+the city to keep monsters out.  
+~
+0 0 1
+D0
+~
+~
+0 0 21059
+D2
+~
+~
+0 0 21057
+S
+#21059
+City Streets~
+The city's streets are clean but crowded.  Small buildings line the
+streets, some are shops and others are homes.  There is a wall surrounding
+the city to keep monsters out.  There is a gate to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 21060
+D1
+~
+~
+0 0 21065
+D2
+~
+~
+0 0 21058
+D3
+~
+~
+0 0 21062
+S
+#21060
+City Streets~
+The city's streets are clean but crowded.  Small buildings line the
+streets, some are shops and others are homes.  There is a wall surrounding
+the city to keep monsters out.  
+~
+0 0 1
+D2
+~
+~
+0 0 21059
+D3
+~
+~
+0 0 21061
+S
+#21061
+City Streets~
+The city's streets are clean but crowded.  Small buildings line the
+streets, some are shops and others are homes.  There is a wall surrounding
+the city to keep monsters out.  The gate leads north.  
+~
+0 0 1
+D0
+~
+~
+0 0 21077
+D1
+~
+~
+0 0 21060
+D2
+~
+~
+0 0 21062
+S
+#21062
+City Streets~
+The city's streets are clean but crowded.  Small buildings line the
+streets, some are shops and others are homes.  There is a wall surrounding
+the city to keep monsters out.  A large manor house stands to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21061
+D1
+~
+~
+0 0 21059
+D2
+~
+~
+0 0 21063
+D3
+~
+~
+0 0 21092
+S
+#21063
+Large Manor House~
+This large house is well furnished with what appears to be expensive
+furniture.  Lamps burn in all four corners to keep the room well lit.  Small
+rooms lead in every direction and a staircase leads up.  
+~
+0 0 0
+D0
+~
+~
+0 0 21062
+D4
+~
+~
+0 0 21064
+S
+#21064
+Upstairs in the Manor~
+A large table stands in the middle of the room surrounded by plush
+pillowed chairs.  Large paintings hang on the wall that depict fierce battle
+scenes.  A balcony leads south that overlooks the harbor.  
+~
+0 0 0
+D5
+~
+~
+0 0 21063
+S
+#21065
+Outside the Town~
+There is a walled town to the west of here.  The gate is open.  
+~
+0 0 4
+D0
+~
+~
+0 0 21066
+D2
+~
+~
+0 0 21261
+D3
+~
+~
+0 0 21059
+S
+#21066
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D1
+~
+~
+0 0 21067
+D2
+~
+~
+0 0 21065
+D3
+~
+~
+0 0 21075
+S
+#21067
+The Killing Fields~
+The land around here appears to be a good place for a battleground. 
+There is a dark forest to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 21072
+D1
+~
+~
+0 0 21068
+D3
+~
+~
+0 0 21066
+S
+#21068
+The Killing Fields~
+The land around here appears to be a good place for a battleground. 
+There is a dark forest to the north.  
+~
+0 0 2
+D2
+~
+~
+0 0 21069
+D3
+~
+~
+0 0 21067
+S
+#21069
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21068
+D3
+~
+~
+0 0 21070
+S
+#21070
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21071
+D1
+~
+~
+0 0 21069
+S
+#21071
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D2
+~
+~
+0 0 21070
+D3
+~
+~
+0 0 21072
+S
+#21072
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21232
+D1
+~
+~
+0 0 21071
+D2
+~
+~
+0 0 21067
+D3
+~
+~
+0 0 21073
+S
+#21073
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21076
+D1
+~
+~
+0 0 21072
+D2
+~
+~
+0 0 21074
+S
+#21074
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21073
+D2
+~
+~
+0 0 21075
+S
+#21075
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D0
+~
+~
+0 0 21074
+D1
+~
+~
+0 0 21066
+S
+#21076
+The Killing Fields~
+The land around here appears to be a good place for a battleground.
+~
+0 0 2
+D2
+~
+~
+0 0 21073
+D3
+~
+~
+0 0 21079
+S
+#21077
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the northwest.  
+~
+0 0 4
+D0
+~
+~
+0 0 21078
+D2
+~
+~
+0 0 21061
+D3
+~
+~
+0 0 21091
+S
+#21078
+Approaching Valis~
+You stand before the gates of The Holy City of Valis.  The walls are
+polished white stone.  Music can be heard on the other side of the gate. 
+Rolling hills span before you in all other directions.  
+~
+0 0 4
+D0
+~
+~
+0 0 21079
+D2
+~
+~
+0 0 21077
+D3
+~
+~
+3 0 21150
+S
+#21079
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the southwest.  
+~
+0 0 4
+D0
+~
+~
+0 0 21080
+D1
+~
+~
+0 0 21076
+D2
+~
+~
+0 0 21078
+S
+#21080
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 21081
+D2
+~
+~
+0 0 21079
+S
+#21081
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21082
+D3
+~
+~
+0 0 21080
+S
+#21082
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the southwest.  
+~
+0 0 2
+D1
+~
+~
+0 0 21083
+D2
+~
+~
+0 0 21081
+D3
+~
+~
+0 0 21105
+S
+#21083
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the southwest.  
+~
+0 0 2
+D1
+~
+~
+0 0 21084
+D3
+~
+~
+0 0 21082
+S
+#21084
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D2
+~
+~
+0 0 21085
+D3
+~
+~
+0 0 21083
+S
+#21085
+Plains of Valis~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21084
+D1
+~
+~
+0 0 21086
+S
+#21086
+Eastern Lodoss~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D2
+~
+~
+0 0 21087
+D3
+~
+~
+0 0 21085
+S
+#21087
+Eastern Lodoss~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21086
+D1
+~
+~
+0 0 21088
+S
+#21088
+Eastern Lodoss~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the south and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21089
+D2
+~
+~
+0 0 21225
+D3
+~
+~
+0 0 21087
+S
+#21089
+Eastern Lodoss~
+Tall grass grows abundantly in this region.  A dark forest can be seen in
+the distance to the east and The Holy City of Valis can be seen in the
+distance to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21090
+D2
+~
+~
+0 0 21088
+S
+#21090
+Eastern Lodoss~
+Flowers grow in patches all around you.  Dust hangs in the air to the
+west.  A dark forest is in the distance to the south.  There is a road to
+the east that appears to lead north and south.  The ocean can be seen to the
+far east.  
+~
+0 0 2
+D1
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21089
+D3
+~
+~
+0 0 21221
+S
+#21091
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the north.  You can
+see the ocean to the south.  
+~
+0 0 4
+D1
+~
+~
+0 0 21077
+D2
+~
+~
+0 0 21092
+D3
+~
+~
+0 0 21093
+S
+#21092
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the north.  You can
+see the ocean to the south beyond a shear cliff face.  
+~
+0 0 4
+D0
+~
+~
+0 0 21091
+D1
+~
+~
+0 0 21062
+S
+#21093
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the north.  You can
+see the ocean to the south.  
+~
+0 0 4
+D0
+~
+~
+0 0 21094
+D1
+~
+~
+0 0 21091
+S
+#21094
+Approaching Valis~
+You stand before the gates of The Holy City of Valis.  The walls are
+polished white stone.  Music can be heard on the other side of the gate. 
+Rolling hills span before you in all other directions.  
+~
+0 0 4
+D0
+~
+~
+3 0 21136
+D2
+~
+~
+0 0 21093
+D3
+~
+~
+0 0 21095
+S
+#21095
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the northeast.  
+~
+0 0 4
+D0
+~
+~
+0 0 21096
+D1
+~
+~
+0 0 21094
+S
+#21096
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the northeast.  
+~
+0 0 4
+D2
+~
+~
+0 0 21095
+D3
+~
+~
+0 0 21097
+S
+#21097
+Plains of Valis~
+Tall grass sways with the wind.  Small hills stand in the distance.  A
+large white city stands to the northeast.  A city can be seen in the far
+southwest.  
+~
+0 0 0
+D0
+~
+~
+0 0 21098
+D1
+~
+~
+0 0 21096
+D3
+~
+~
+0 0 21127
+S
+#21098
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the east.  
+~
+0 0 4
+D1
+~
+~
+0 0 21099
+D2
+~
+~
+0 0 21097
+S
+#21099
+Approaching Valis~
+You stand before the gates of The Holy City of Valis.  The walls are
+polished white stone.  Music can be heard on the other side of the gate. 
+Rolling hills span before you in all other directions.  
+~
+0 0 4
+D0
+~
+~
+0 0 21100
+D1
+~
+~
+3 0 21151
+D3
+~
+~
+0 0 21098
+S
+#21100
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the east.  
+~
+0 0 4
+D1
+~
+~
+0 0 21101
+D2
+~
+~
+0 0 21099
+S
+#21101
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the southeast.  
+~
+0 0 4
+D0
+~
+~
+0 0 21102
+D3
+~
+~
+0 0 21100
+S
+#21102
+Approaching Valis~
+Small mounds of dirt are piled here and there.  The wind blows the tall
+grass.  A large walled city stands in the distance to the southeast.  A
+small house sits to the west.  
+~
+0 0 4
+D1
+~
+~
+0 0 21103
+D2
+~
+~
+0 0 21101
+D3
+~
+~
+4 21066 21213
+S
+#21103
+Approaching Valis~
+You stand before the gates of The Holy City of Valis.  The walls are
+polished white stone.  Music can be heard on the other side of the gate. 
+Rolling hills span before you in all other directions.  
+~
+0 0 4
+D1
+~
+~
+0 0 21105
+D2
+~
+~
+3 0 21149
+D3
+~
+~
+0 0 21102
+S
+#21104
+Sparring Chambers~
+The round room has plenty of space to practice swordsmanship.  A small
+window lets light in.  A door leads north and the staircase leads up.  
+~
+0 264 0
+D0
+~
+~
+1 0 21197
+D4
+~
+~
+0 0 21191
+S
+#21105
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+west to Valis and north to Flaim.  Small bushes grow along the road.  East
+leads back to the plains.  
+~
+0 0 4
+D0
+~
+~
+0 0 21106
+D1
+~
+~
+0 0 21082
+D3
+~
+~
+0 0 21103
+S
+#21106
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+south to Valis and east to Flaim.  Small bushes grow along the road.  
+~
+0 0 2
+D1
+~
+~
+0 0 21107
+D2
+~
+~
+0 0 21105
+S
+#21107
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+west to Valis and north to Flaim.  Small bushes grow along the road.  
+~
+0 0 2
+D0
+~
+~
+0 0 21108
+D3
+~
+~
+0 0 21106
+S
+#21108
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+south to Valis and west to Flaim.  Small bushes grow along the road.  
+~
+0 0 2
+D2
+~
+~
+0 0 21107
+D3
+~
+~
+0 0 21109
+S
+#21109
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+east to Valis and north to Flaim.  Small bushes grow along the road.  
+~
+0 0 2
+D0
+~
+~
+0 0 21110
+D1
+~
+~
+0 0 21108
+D2
+~
+~
+1 0 21106
+S
+#21110
+Valis-Flaim Road~
+The road is wide enough for four wagons to pass at the same time.  The
+dirt is well packed from all of the travelers that have used it.  It leads
+south to Valis and east to Flaim.  Small bushes grow along the road. 
+Dessert land can be seen to the far east.  
+~
+0 0 2
+D1
+~
+~
+0 0 21111
+D2
+~
+~
+0 0 21109
+S
+#21111
+Approaching Flaim~
+A small town is to the north.  Smoke streams into the air from house
+chimneys.  There is no wall around this city.  The road leads into the city.
+ 
+A small sign states {W"{wWelcome to Flaim{W"{x
+~
+0 0 2
+D0
+~
+~
+0 0 21112
+D1
+~
+~
+0 0 21214
+D3
+~
+~
+0 0 21110
+S
+#21112
+Entering Flaim~
+The road narrows down and enters the city.  Small houses stand here and
+there.  The streets are clean but packed dirt.  People stroll along the road
+going about daily business.  North leads into the town.  
+~
+0 0 1
+D0
+~
+~
+0 0 21177
+D2
+~
+~
+0 0 21111
+S
+#21113
+Western Exit~
+A small road leads out of the city to the west.  A large mountain awaits
+in the west.  Flaim is to the East.  
+~
+0 0 2
+D1
+~
+~
+0 0 21187
+D2
+~
+~
+0 0 21114
+S
+#21114
+Northwestern Lodoss~
+Small trees grow here and there.  The grass sways with the breeze.  A
+large mountain looms to the west.  A small town sits to the northeast.
+~
+0 0 2
+D0
+~
+~
+0 0 21113
+D3
+~
+~
+0 0 21115
+S
+#21115
+Northwestern Lodoss~
+Small trees grow here and there.  The grass sways with the breeze.  A
+large mountain looms to the west.  A small town sits to the northeast.
+~
+0 0 4
+D1
+~
+~
+0 0 21114
+D2
+~
+~
+0 0 21116
+S
+#21116
+Northwestern Lodoss~
+Small trees grow here and there.  The grass sways with the breeze.  A
+large mountain looms to the northwest.  
+~
+0 0 4
+D0
+~
+~
+0 0 21115
+D3
+~
+~
+0 0 21117
+S
+#21117
+In The Mountain's Shadow~
+A huge mountain looms north.  The plains lead in all other directions.
+~
+0 0 4
+D0
+~
+~
+0 0 21118
+D1
+~
+~
+0 0 21116
+D2
+~
+~
+0 0 21119
+D3
+~
+~
+0 0 21126
+S
+#21118
+In The Mountain's Shadow~
+A huge mountain looms north.  The plains lead in all other directions.
+~
+0 0 4
+D2
+~
+~
+0 0 21117
+D4
+~
+~
+0 0 21238
+S
+#21119
+Western Lodoss~
+Trees grow in masses to the south.  A large mountain looms to the north. 
+Small mountains and hills lie to the northwest.  
+~
+0 0 2
+D0
+~
+~
+0 0 21117
+D2
+~
+~
+0 0 21120
+S
+#21120
+Western Lodoss~
+Trees grow in masses to the south.  A large mountain looms to the north. 
+Small mountains and hills lie to the northwest.  
+~
+0 0 2
+D0
+~
+~
+0 0 21119
+D3
+~
+~
+0 0 21121
+S
+#21121
+Western Lodoss~
+Trees grow in masses to the south.  A large mountain looms to the north. 
+Small mountains and hills lie to the northwest.  
+~
+0 0 2
+D1
+~
+~
+0 0 21120
+D2
+~
+~
+0 0 21127
+D3
+~
+~
+0 0 21122
+S
+#21122
+Mountains of Western Lodoss~
+You enter a small mountain patch.  No grass grows on the rocky terrain. 
+The mountains continue to the northern area.  
+~
+0 0 5
+D0
+~
+~
+0 0 21123
+D1
+~
+~
+0 0 21121
+S
+#21123
+Mountains of Western Lodoss~
+Mountains surround you in every direction.  There is no path to guide
+you.  A huge mountain rises to the northeast.  
+~
+0 0 5
+D1
+~
+~
+0 0 21124
+D2
+~
+~
+0 0 21122
+S
+#21124
+Mountains of Western Lodoss~
+Mountains surround you in every direction.  There is no path to guide
+you.  A huge mountain rises to the northeast.  
+~
+0 0 5
+D1
+~
+~
+0 0 21125
+D3
+~
+~
+0 0 21123
+S
+#21125
+Mountains of Western Lodoss~
+Mountains surround you in every direction.  There is no path to guide
+you.  A huge mountain rises to the northeast.  
+~
+0 0 5
+D0
+~
+~
+0 0 21126
+D2
+~
+~
+0 0 21121
+D3
+~
+~
+0 0 21124
+S
+#21126
+In the Shadow of the Mountain~
+You enter a small mountain patch.  No grass grows on the rocky terrain. 
+The mountains continue to the western area.  A huge mountain lies north.  
+~
+0 0 5
+D1
+~
+~
+0 0 21117
+D2
+~
+~
+0 0 21125
+S
+#21127
+Western Lodoss~
+Trees grow in masses to the south.  A large mountain looms to the north. 
+Small mountains and hills lie to the northwest.  
+~
+0 0 2
+D0
+~
+~
+0 0 21121
+D1
+~
+~
+0 0 21097
+D2
+~
+~
+0 0 21262
+S
+#21128
+Grasslands~
+High grass grows and sways with the breeze.  A large forest area lies
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 21266
+D1
+~
+~
+0 0 21129
+S
+#21129
+Grasslands~
+High grass grows and sways with the breeze.  A large forest area lies
+north.  
+~
+0 0 2
+D2
+~
+~
+0 0 21130
+D3
+~
+~
+0 0 21128
+S
+#21130
+Grasslands~
+High grass grows and sways with the breeze.
+~
+0 0 2
+D0
+~
+~
+0 0 21129
+D2
+~
+~
+0 0 21131
+S
+#21131
+Grasslands~
+High grass grows and sways with the breeze.
+~
+0 0 2
+D0
+~
+~
+0 0 21130
+D1
+~
+~
+0 0 21092
+D2
+~
+~
+0 0 21132
+D3
+~
+~
+0 0 21134
+S
+#21132
+Grasslands~
+High grass grows and sways with the breeze.
+~
+0 0 2
+D0
+~
+~
+0 0 21131
+S
+#21133
+Grasslands~
+High grass grows and sways with the breeze.  A small fortress town lies
+to the south.  The gates stand closed.  Red flags fly from atop the walls
+with a golden dragon emblazed on it.  
+~
+0 0 2
+D0
+~
+~
+0 0 21134
+D2
+~
+~
+3 0 21205
+S
+#21134
+Grasslands~
+High grass grows and sways with the breeze.
+~
+0 0 2
+D1
+~
+~
+0 0 21131
+D2
+~
+~
+0 0 21133
+S
+#21135
+Cave of the Golden Dragon~
+You enter a large cave.  The room rises well above you.  It appears to be
+deep.  Bones from deer and other forest beast liter the cave.  
+~
+0 524297 0
+D0
+~
+~
+1 0 21209
+S
+#21136
+South Gate~
+This is the southern entrance to the city.  Streamers fly above the
+gates.  The street leads north into the town.  
+~
+0 0 1
+D0
+~
+~
+0 0 21137
+D1
+~
+~
+0 0 21273
+D2
+~
+~
+3 0 21094
+D3
+~
+~
+0 0 21284
+S
+#21137
+South Street~
+Buildings stand around you.  The streets are well maintained and clean. 
+The street leads north and south.  A building stands to the east.  It
+appears to be a armor shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 21138
+D1
+~
+~
+0 0 21152
+D2
+~
+~
+0 0 21136
+S
+#21138
+South Street~
+Buildings stand around you.  The streets are well maintained and clean. 
+There is a small building with wares displayed in its windows to the west. 
+A sign hangs from the awning depicting a ring and a beaker.  The castle sits
+to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 21139
+D2
+~
+~
+0 0 21137
+D3
+~
+~
+0 0 21153
+S
+#21139
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the north.  The streets continue on.  
+~
+0 0 1
+D0
+~
+~
+3 0 21156
+D1
+~
+~
+0 0 21140
+D2
+~
+~
+0 0 21138
+D3
+~
+~
+0 0 21146
+S
+#21140
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the northwest.  The streets continue on.
+~
+0 0 1
+D0
+~
+~
+0 0 21141
+D1
+~
+~
+0 0 21272
+D3
+~
+~
+0 0 21139
+S
+#21141
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the west.  The streets continue on.  There is a gate
+to the far east.  
+~
+0 0 1
+D0
+~
+~
+0 0 21142
+D1
+~
+~
+0 0 21150
+D2
+~
+~
+0 0 21140
+S
+#21142
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the southwest.  The streets continue on.  
+~
+0 0 1
+D2
+~
+~
+0 0 21141
+D3
+~
+~
+0 0 21143
+S
+#21143
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the south.  The streets continue on.  
+~
+0 0 1
+D0
+~
+~
+0 0 21147
+D1
+~
+~
+0 0 21142
+D3
+~
+~
+0 0 21144
+S
+#21144
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the southeast.  The streets continue on.  
+~
+0 0 1
+D1
+~
+~
+0 0 21143
+D2
+~
+~
+0 0 21145
+S
+#21145
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the east.  The streets continue on.  
+~
+0 0 1
+D0
+~
+~
+0 0 21144
+D2
+~
+~
+0 0 21146
+D3
+~
+~
+0 0 21151
+S
+#21146
+Town Square Before the Castle~
+The streets are packed with people as they go about their everyday life. 
+A large castle sits to the northeast.  The streets continue on.  
+~
+0 0 1
+D0
+~
+~
+0 0 21145
+D1
+~
+~
+0 0 21139
+S
+#21147
+North Street~
+Buildings stand all around you.  The streets are well maintained and
+clean.  There is a small wooden building to the west of here with a large
+sign out front of the shop advertising magical potions.  The castle lies to
+the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21148
+D2
+~
+~
+0 0 21143
+D3
+~
+~
+0 0 21154
+S
+#21148
+North Street~
+Buildings stand all around you.  The streets are well maintained and
+clean.  There is a large stone building to the east.  The castle lies to the
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21149
+D1
+~
+~
+0 0 21155
+D2
+~
+~
+0 0 21147
+S
+#21149
+North Gate~
+This is the northern gate to the city.  Streamers fly about the gates. 
+The streets lead south into the city.  Shrubs grow along the street to both
+sides.  Trees are planted in the courtyards around the road.  
+~
+0 0 1
+D0
+~
+~
+3 0 21103
+D1
+~
+~
+0 0 21278
+D2
+~
+~
+0 0 21148
+D3
+~
+~
+0 0 21279
+S
+#21150
+East Gate~
+This is the eastern gate to the city.  Streamers fly about the gates. 
+The streets lead west into the city.  Shrubs grow along the street to both
+sides.  Trees are planted in the courtyards around the road.  
+~
+0 0 1
+D0
+~
+~
+0 0 21276
+D1
+~
+~
+3 0 21078
+D2
+~
+~
+0 0 21275
+D3
+~
+~
+0 0 21141
+S
+#21151
+West Gate~
+This is the western gate to the city.  Streamers fly about the gates. 
+The streets lead east into the city.  Shrubs grow along the street to both
+sides.  Trees are planted in the courtyards around the road.  
+~
+0 0 1
+D0
+~
+~
+0 0 21281
+D1
+~
+~
+0 0 21145
+D2
+~
+~
+0 0 21282
+D3
+~
+~
+3 0 21099
+S
+#21152
+Armor Smith~
+Armor hangs on stands all around the room.  Smoke seeps in through the
+back walls.  A large man with a cudgel stands close to the door.  There are
+counters displaying smaller armaments.  The door leads west back to the
+streets.  
+~
+0 0 1
+D3
+~
+~
+0 0 21137
+S
+#21153
+Magic Shop~
+Magical items are displayed in in cases and behind glass windows.  An
+eerie haze hangs in the air as low humming sounds come from a back room. 
+The room is small and cramped together leaving very little room to move. 
+The door leads back west to the stre 
+~
+0 0 1
+D1
+~
+~
+0 0 21138
+S
+#21154
+Potion Shop~
+Tables are set up around the room to display potions of all sizes and
+colors.  Popping sounds can be heard from somewhere in the shop.  A large
+pedestal stands against the northern wall with a sign on it displaying the
+prices of the wonderful potions sol The door leads back east to the streets.
+~
+0 0 1
+D1
+~
+~
+0 0 21147
+S
+#21155
+Weapon Smith~
+The stone walls of the building surround you.  The clanging of metal on
+metal can be heard from the east.  A large variety of weapons are displayed
+for sale all around the room.  Two large men with cudgels stand to either
+side of the door leading west ba to the streets.  
+~
+0 0 1
+D3
+~
+~
+0 0 21148
+S
+#21156
+Inside The Castle~
+White marble walls surround you.  Light shines in from windows up above. 
+A hallway leads north further into the castle.  
+~
+0 8 0
+D0
+~
+~
+0 0 21157
+D2
+~
+~
+3 0 21139
+S
+#21157
+Main Hall~
+White marble walls surround you.  A lush red carpet sits beneath your
+feet.  Suits of armor stand against the walls and evenly spaced.  The hall
+continues in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 21158
+D1
+~
+~
+0 0 21173
+D2
+~
+~
+0 0 21156
+D3
+~
+~
+0 0 21170
+S
+#21158
+Main Hall~
+White marble walls surround you.  A lush red carpet sits beneath your
+feet.  Suits of armor stand against the walls and evenly spaced.  The hall
+continues in all directions.  A large iron door stands closed leading to the
+north.  
+~
+0 0 0
+D0
+~
+~
+1 0 21159
+D1
+~
+~
+0 0 21174
+D2
+~
+~
+0 0 21157
+D3
+~
+~
+0 0 21168
+S
+#21159
+Throne Room~
+White marble walls surround you.  Red, plush carpet covers the floor. 
+This room is huge.  Tables stand against the walls covered in papers.  Large
+chandeliers hang from the ceiling.  A throne sits atop a platform towards
+then northern part of the room.  A marble staircase leads up to the rooms
+above.  
+~
+0 0 0
+D0
+~
+~
+3 21069 21160
+D2
+~
+~
+1 0 21158
+D4
+~
+~
+0 0 21161
+S
+#21160
+Vault~
+This is a small room that is poorly lit.
+~
+0 0 0
+D2
+~
+~
+1 0 21159
+S
+#21161
+Royal Chambers~
+This is a very large room.  Plush carpets cover the floor.  A large, four
+poster bed stands against the eastern wall.  Large crystal windows let the
+sun and moonlight shine in.  A door leads north to a balcony that looks over
+the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 21162
+D5
+~
+~
+0 0 21159
+S
+#21162
+Balcony~
+You stand on a balcony that overlooks the city.
+~
+0 0 1
+D2
+~
+~
+0 0 21161
+S
+#21163
+Jailers hallway~
+A narrow hallway leads north to the cells.
+~
+0 0 0
+D0
+~
+~
+0 0 21164
+D4
+~
+~
+1 0 21168
+S
+#21164
+Jailers hallway~
+The narrow hallway continues north.  There is a cell to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 21165
+D1
+~
+~
+3 21081 21167
+D2
+~
+~
+0 0 21163
+S
+#21165
+Jailers Hallway~
+The narrow hallway ends.  There is a cell to the east.
+~
+0 0 0
+D1
+~
+~
+3 21081 21166
+D2
+~
+~
+0 0 21164
+S
+#21166
+Small Cell~
+The small cell stinks of sweat.  A small chamber pot sits beneath a
+wooden plank attached to the wall for a bed.  The walls are stone and a
+small barred window leads outside.  The door has a small barred window as
+well.  
+~
+0 0 0
+D3
+~
+~
+3 0 21165
+S
+#21167
+Small Cell~
+The small cell stinks of sweat.  A small chamber pot sits beneath a
+wooden plank attached to the wall for a bed.  The walls are stone and a
+small barred window leads outside.  The door has a small barred window as
+well.  
+~
+0 0 0
+D3
+~
+~
+3 0 21164
+S
+#21168
+Western Hallway~
+The hallway ends to the west.  There is a door leading north and a
+staircase leading down.  
+~
+0 0 0
+D0
+~
+~
+1 0 21169
+D1
+~
+~
+0 0 21158
+D5
+~
+~
+1 0 21163
+S
+#21169
+Western Guest Room~
+A large bed sits against the northern wall.  A chandelier hangs from the
+center of the ceiling.  The door leads south back to the hallway.  
+~
+0 0 0
+D2
+~
+~
+1 0 21168
+S
+#21170
+Western Guardhouse~
+The walls are lined with armor and weapons.  There is a staircase leading
+up.  
+~
+0 0 0
+D1
+~
+~
+0 0 21157
+D4
+~
+~
+0 0 21171
+S
+#21171
+Western Guard Tower~
+You stand in a tower raised above the castle, above the city.  It
+overlooks the gate below and surveys the city.  A small path leads to the
+other tower.  
+~
+0 0 0
+D1
+~
+~
+0 0 21172
+D5
+~
+~
+0 0 21170
+S
+#21172
+Eastern Guard Tower~
+You stand in a tower raised above the castle, above the city.  It
+overlooks the gate below and surveys the city.  A small path leads to the
+other tower.  
+~
+0 0 0
+D3
+~
+~
+0 0 21171
+D5
+~
+~
+0 0 21173
+S
+#21173
+Eastern Guardhouse~
+The walls are lined with armor and weapons.  There is a staircase leading
+up.  
+~
+0 0 0
+D3
+~
+~
+0 0 21157
+D4
+~
+~
+0 0 21172
+S
+#21174
+Eastern Hallway~
+The hallway leads east and west from here.  Smells of food waif from the
+east along with sounds of metal banging on metal.  
+~
+0 0 0
+D1
+~
+~
+0 0 21175
+D3
+~
+~
+0 0 21158
+S
+#21175
+Dining Hall~
+Tables are lined up in this large room.  Benches pair up to each table. 
+The room is very large to accommodate many people.  The kitchen is to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 21176
+D3
+~
+~
+0 0 21174
+S
+#21176
+Kitchen~
+Stoves are set up all around the room.  Tables stand near them.  Pots and
+pans, knifes and forks, plates and cups are in cabinets along the walls. 
+South leads back to the dining hall.  
+~
+0 0 0
+D2
+~
+~
+0 0 21175
+S
+#21177
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road continues north and exits the town south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21178
+D2
+~
+~
+0 0 21112
+S
+#21178
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road continues west and south leads to the exit of
+the town.  
+~
+0 0 1
+D2
+~
+~
+0 0 21177
+D3
+~
+~
+0 0 21179
+S
+#21179
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 21180
+D1
+~
+~
+0 0 21178
+S
+#21180
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21181
+D2
+~
+~
+0 0 21179
+S
+#21181
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads north and south.  A small castle stands
+in the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 21182
+D1
+~
+~
+0 0 21188
+D2
+~
+~
+0 0 21180
+S
+#21182
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21183
+D1
+~
+~
+0 0 21286
+D2
+~
+~
+0 0 21181
+S
+#21183
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 21184
+D1
+~
+~
+0 0 21195
+D2
+~
+~
+0 0 21182
+D3
+~
+~
+0 0 21185
+S
+#21184
+The Shipyard~
+The long wooden dock is lined with many ships of different shapes and
+sizes.  The town lies to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 21183
+S
+#21185
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads east and south.  The ocean lies to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 21183
+D2
+~
+~
+0 0 21186
+S
+#21186
+Streets of Flaim~
+The narrow road leads through the city.  Small houses lie to either sides
+of the road.  Smoke hangs in the air from chimneys.  People walk down the
+street ahead of you.  The road leads to the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 21185
+D3
+~
+~
+0 0 21187
+S
+#21187
+Entering Flaim~
+The road meets the plains.  A large mountain looms in the distance to the
+west.  The city lies to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 21186
+D3
+~
+~
+0 0 21113
+S
+#21188
+Before Flaim Castle~
+The road stops in front of a small castle.  The gate stands open to
+welcome guest.  
+~
+0 0 0
+D0
+~
+~
+1 0 21189
+D3
+~
+~
+0 0 21181
+S
+#21189
+Entering the Castle~
+The hallways walls have tapestries depicting great battles on them
+hanging from the walls.  Closed doors lead to rooms further in the castle. 
+The hallway leads east.  
+~
+0 8 0
+D1
+~
+~
+0 0 21190
+D2
+~
+~
+1 0 21188
+S
+#21190
+Castle Hallway~
+The hallway ends with doors in all directions.  West leads back to the
+entrance.  
+~
+0 8 0
+D0
+~
+~
+1 0 21194
+D1
+~
+~
+3 0 21191
+D2
+~
+~
+1 0 21193
+D3
+~
+~
+0 0 21189
+S
+#21191
+Throne Room~
+A small throne sits against the eastern wall.  The floor is padded with
+thick carpet before it.  Suits of armor stand against the walls.  A large
+area to the south has tables and chairs set up for banquets and room to
+dance.  A staircase leads up and down.  
+~
+0 8 0
+D2
+~
+~
+0 0 21192
+D3
+~
+~
+3 0 21190
+D5
+~
+~
+0 0 21104
+S
+#21192
+Banquet Hall~
+A small throne sits against the eastern wall.  The floor is padded with
+thick carpet before it.  Suits of armor stand against the walls.  A large
+area to the south has tables and chairs set up for banquets and room to
+dance.  A staircase leads up and down.  
+~
+0 8 0
+D0
+~
+~
+0 0 21191
+D4
+~
+~
+0 0 21198
+S
+#21193
+Guest Room~
+There is a small bed against the western wall.  A window lets light in. 
+Other furniture has been provided to accommodate the castle's guest.  The
+door leads to the hallway.  
+~
+0 8 0
+D0
+~
+~
+1 0 21190
+S
+#21194
+Guest Room~
+There is a small bed against the western wall.  A window lets light in. 
+Other furniture has been provided to accommodate the castle's guest.  The
+door leads to the hallway.  
+~
+0 8 0
+D2
+~
+~
+1 0 21190
+S
+#21195
+The Blades of Flaim~
+Men sit around round tables places in the room at random intervals.  A
+mahogany desk sits to one side of the room.  Windows allow light in from
+outside.  A door leads back out to the street.  
+~
+0 4360 1
+D3
+~
+~
+0 0 21183
+S
+#21196
+PetShopRoom~
+~
+0 4 0
+S
+#21197
+Cells~
+Iron bars line the window and door.  There is no escape.
+~
+0 8456 0
+D2
+~
+~
+1 0 21104
+S
+#21198
+Kashue's Chambers~
+A large feather mattress sits on a four poster bed in the corner of the
+room.  A window overlooks the city.  An armor stand sits empty near the bed.
+A large map or Lodoss hangs on one wall and a large map of Flaim hangs on
+another.  The staircase leads back down.  
+~
+0 0 0
+D5
+~
+~
+0 0 21192
+S
+#21199
+The Temple of Marfa~
+White stairs lead up to a small temple.  Stone columns hold up the stone
+roof.  A door leads north into the temple.  
+~
+0 0 0
+D0
+~
+~
+1 0 21200
+D2
+~
+~
+0 0 21252
+S
+#21200
+Inside the Temple of Marfa~
+White stone walls surround you.  Priest and priestess walk around huddled
+together talking in low voices.  Tapestries hang on the walls showing holy
+battles, and religious scenes.  Pedestals hold artifacts of the holy order. 
+~
+0 8 0
+D0
+~
+~
+0 0 21203
+D1
+~
+~
+0 0 21201
+D2
+~
+~
+1 0 21199
+D3
+~
+~
+0 0 21202
+S
+#21201
+Inside the Temple of Marfa~
+White stone walls surround you.  Priest and priestess walk around huddled
+together talking in low voices.  Tapestries hang on the walls showing holy
+battles, and religious scenes.  Pedestals hold artifacts of the holy order. 
+~
+0 8 0
+D3
+~
+~
+0 0 21200
+S
+#21202
+Inside the Temple of Marfa~
+White stone walls surround you.  Priest and priestess walk around huddled
+together talking in low voices.  Tapestries hang on the walls showing holy
+battles, and religious scenes.  Pedestals hold artifacts of the holy order. 
+~
+0 8 0
+D1
+~
+~
+0 0 21200
+S
+#21203
+Inside the Temple of Marfa~
+White stone walls surround you.  Priest and priestess walk around huddled
+together talking in low voices.  An alter stands to the north.  Tapestries
+hang on the walls showing holy battles, and religious scenes.  
+~
+0 8 0
+D2
+~
+~
+0 0 21200
+D5
+~
+~
+1 0 21204
+S
+#21204
+Chamber of the Silver Dragon~
+You enter large stone chamber without a roof.  The room is bare and
+clean.  A staircase leads back up to the temple.  
+~
+0 0 0
+D4
+~
+~
+1 0 21203
+S
+#21205
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D0
+~
+~
+3 0 21133
+D1
+~
+~
+0 0 21206
+D3
+~
+~
+0 0 21212
+S
+#21206
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D2
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21205
+S
+#21207
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D0
+~
+~
+0 0 21206
+D2
+~
+~
+0 0 21208
+S
+#21208
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D0
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21209
+S
+#21209
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D1
+~
+~
+0 0 21208
+D2
+~
+~
+1 0 21135
+D3
+~
+~
+0 0 21210
+S
+#21210
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D0
+~
+~
+0 0 21211
+D1
+~
+~
+0 0 21209
+S
+#21211
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D0
+~
+~
+0 0 21212
+D2
+~
+~
+0 0 21210
+S
+#21212
+Inside Fortress Moss~
+The halls are narrow to help provided protection from invading masses. 
+Murder holes have been cut in the walls that allow people in other rooms to
+assist in defending the halls.  This fort was made for the sole purpose of
+defending.  
+~
+0 8 0
+D1
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21211
+S
+#21213
+House of Karla~
+You enter a small house.  Magical artifacts line the shelves against the
+walls.  Old paintings hang on the walls.  A window leads out side that
+allows the light to enter.  A table stands in the middle of the room.  There
+is a map of lodoss on the table.  
+~
+0 8200 0
+D1
+~
+~
+4 21066 21102
+S
+#21214
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  There is a
+small kingdom to the north west.  Sand only awaits in all directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 21219
+D2
+~
+~
+0 0 21215
+D3
+~
+~
+0 0 21111
+S
+#21215
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  There is a
+small kingdom to the north west.  Sand only awaits in all directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 21214
+D1
+~
+~
+0 0 21221
+D2
+~
+~
+0 0 21216
+S
+#21216
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  There is a
+small kingdom to the north west.  Sand only awaits in all directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 21215
+D1
+~
+~
+0 0 21217
+S
+#21217
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  Sand only
+awaits in all directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 21218
+D3
+~
+~
+0 0 21216
+S
+#21218
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  There is a
+small kingdom to the north west.  Sand only awaits in all directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 21219
+D1
+~
+~
+0 0 21220
+D2
+~
+~
+0 0 21217
+S
+#21219
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  There is a
+small kingdom to the north west.  Sand only awaits in all directions.  
+~
+0 0 10
+D2
+~
+~
+0 0 21218
+D3
+~
+~
+0 0 21214
+S
+#21220
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  Sand only
+awaits in all directions.  
+~
+0 0 10
+D2
+~
+~
+0 0 21221
+D3
+~
+~
+0 0 21218
+S
+#21221
+Storm and Fire Desert~
+Sand, sand, and more sand.  The air seems hazy before your eyes.  The
+heat is almost unbearable.  Lines have been left in the sand where animals
+have passed.  Hills have been formed from the wind pushing the sand.  Shoots
+of grass sway in the wind and cacti grow in sporadic spots.  Sand only
+awaits in all directions.  To the far east, the desert ends into grasslands.
+~
+0 0 10
+D0
+~
+~
+0 0 21220
+D1
+~
+~
+0 0 21090
+D3
+~
+~
+0 0 21215
+S
+#21222
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 21223
+D2
+~
+~
+0 0 21253
+D3
+~
+~
+0 0 21090
+S
+#21223
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 21224
+D2
+~
+~
+0 0 21222
+S
+#21224
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D2
+~
+~
+0 0 21223
+D3
+~
+~
+0 0 21251
+S
+#21225
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532485 3
+D0
+~
+~
+0 0 21088
+D2
+~
+~
+0 0 21226
+S
+#21226
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21225
+D2
+~
+~
+0 0 21235
+D3
+~
+~
+0 0 21227
+S
+#21227
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21225
+D2
+~
+~
+0 0 21228
+S
+#21228
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D2
+~
+~
+0 0 21234
+D3
+~
+~
+0 0 21229
+S
+#21229
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21237
+D2
+~
+~
+0 0 21230
+S
+#21230
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D1
+~
+~
+0 0 21231
+D3
+~
+~
+0 0 21236
+S
+#21231
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21228
+D1
+~
+~
+0 0 21234
+D2
+~
+~
+0 0 21232
+S
+#21232
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532485 3
+D1
+~
+~
+0 0 21233
+D2
+~
+~
+0 0 21072
+D3
+~
+~
+0 0 21236
+S
+#21233
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21234
+S
+#21234
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21235
+D1
+~
+~
+0 0 21233
+S
+#21235
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D1
+~
+~
+0 0 21234
+D3
+~
+~
+0 0 21228
+S
+#21236
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D0
+~
+~
+0 0 21230
+S
+#21237
+Forest of No-Return~
+Trees surround you causing slight discomfort and difficulty moving.  The
+light is completely blocked out and the heat is stifling.  Branches litter
+the forest floor and roots stand out of the dirt, trying to trip the
+unweary.  There are no sounds beyond you being made in the woods.  Continue
+at your own risk.  
+~
+0 532481 3
+D1
+~
+~
+0 0 21227
+D3
+~
+~
+0 0 21235
+S
+#21238
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  
+~
+0 4 5
+D1
+~
+~
+0 0 21239
+D5
+~
+~
+0 0 21118
+S
+#21239
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  
+~
+0 0 5
+D3
+~
+~
+0 0 21238
+D4
+~
+~
+0 0 21240
+S
+#21240
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  
+~
+0 0 5
+D3
+~
+~
+0 0 21241
+D5
+~
+~
+0 0 21239
+S
+#21241
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  
+~
+0 0 5
+D1
+~
+~
+0 0 21240
+D3
+~
+~
+0 0 21242
+S
+#21242
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  
+~
+0 0 5
+D1
+~
+~
+0 0 21241
+D4
+~
+~
+0 0 21243
+S
+#21243
+Fire Dragon Mountain~
+A narrow path leads up the mountain.  It twist around the mountain as it
+ascends.  Smoke rises into the air near the top.  A large cave opens up into
+the mountain.  
+~
+0 0 5
+D1
+~
+~
+0 0 21244
+D5
+~
+~
+0 0 21242
+S
+#21244
+Fire Dragon Chamber~
+Large spires of stone rise from the cavern floor.  Flows of magma bubble
+from a pool near the center of the mountain.  Smoke hangs in the air making
+it hard to see.  
+~
+0 524297 5
+D0
+~
+~
+0 0 21246
+D3
+~
+~
+0 0 21243
+S
+#21245
+Fire Dragon Chamber~
+Large spires of stone rise from the cavern floor.  Flows of magma bubble
+from a pool near the center of the mountain.  Smoke hangs in the air making
+it hard to see.  
+~
+0 524297 5
+D0
+~
+~
+0 0 21247
+D3
+~
+~
+0 0 21244
+S
+#21246
+Fire Dragon Chamber~
+Large spires of stone rise from the cavern floor.  Flows of magma bubble
+from a pool near the center of the mountain.  Smoke hangs in the air making
+it hard to see.  
+~
+0 524297 5
+D1
+~
+~
+0 0 21247
+D2
+~
+~
+0 0 21244
+S
+#21247
+Fire Dragon Chamber~
+Large spires of stone rise from the cavern floor.  Flows of magma bubble
+from a pool near the center of the mountain.  Smoke hangs in the air making
+it hard to see.  
+~
+0 524297 5
+D2
+~
+~
+0 0 21245
+D3
+~
+~
+0 0 21246
+S
+#21248
+Water Dragon Island~
+You land on a small island.  Tropical trees and plants grow on the
+island.  A small cave leads deeper into the island.  
+~
+0 0 0
+D1
+~
+~
+0 0 21184
+D5
+~
+~
+0 0 21249
+S
+#21249
+Water Dragon Cavern~
+Natural stairs lead down into the cave.  Air hits you in the face as you
+descend.  Up leads back to the surface.  
+~
+0 0 0
+D4
+~
+~
+0 0 21248
+D5
+~
+~
+0 0 21250
+S
+#21250
+Water Dragon Chamber~
+A large pond sit at the bottom of the cavern.  Light shines on the water.
+The stairs lead back to the surface.  
+~
+0 0 0
+D4
+~
+~
+0 0 21249
+S
+#21251
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 21252
+D1
+~
+~
+0 0 21224
+S
+#21252
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  To the north stands a small temple
+dedicated to one of the gods.  
+~
+0 0 2
+D0
+~
+~
+0 0 21199
+D2
+~
+~
+0 0 21251
+S
+#21253
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21254
+S
+#21254
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  A dark forest sits to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 21253
+D1
+~
+~
+0 0 21288
+D3
+~
+~
+0 0 21255
+S
+#21255
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  A dark forest sits to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 21254
+D2
+~
+~
+0 0 21256
+S
+#21256
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east.  The road leads north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 21255
+D2
+~
+~
+0 0 21257
+S
+#21257
+Eastern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east and south.  The road leads west.
+~
+0 0 2
+D0
+~
+~
+0 0 21256
+D1
+~
+~
+0 0 21296
+D3
+~
+~
+0 0 21258
+S
+#21258
+Southern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+east and south.  The road leads west.
+~
+0 0 2
+D1
+~
+~
+0 0 21257
+D2
+~
+~
+0 0 21259
+S
+#21259
+Southern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+south and east.  The road leads east and west. 
+~
+0 0 2
+D0
+~
+~
+0 0 21258
+D3
+~
+~
+0 0 21260
+S
+#21260
+Southern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+south and east.  The road leads east.  
+~
+0 0 2
+D0
+~
+~
+0 0 21261
+D1
+~
+~
+0 0 21259
+S
+#21261
+Southern Lodoss Road~
+You step onto a small road that is packed dirt.  The ocean lies to the
+south and east.  The road leads east.  
+~
+0 0 2
+D0
+~
+~
+0 0 21065
+D2
+~
+~
+0 0 21260
+S
+#21262
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  North leads out of the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21127
+D1
+~
+~
+0 0 21270
+D2
+~
+~
+0 0 21263
+D3
+~
+~
+0 0 21269
+S
+#21263
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21262
+D2
+~
+~
+0 0 21264
+D3
+~
+~
+0 0 21267
+S
+#21264
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21263
+D1
+~
+~
+0 0 21271
+D2
+~
+~
+0 0 21265
+S
+#21265
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21264
+D3
+~
+~
+0 0 21266
+S
+#21266
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  South leads out of the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21267
+D1
+~
+~
+0 0 21265
+D2
+~
+~
+0 0 21128
+S
+#21267
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21268
+D1
+~
+~
+0 0 21263
+D2
+~
+~
+0 0 21266
+S
+#21268
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21269
+D2
+~
+~
+0 0 21267
+S
+#21269
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 21262
+D2
+~
+~
+0 0 21268
+S
+#21270
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 21271
+D3
+~
+~
+0 0 21262
+S
+#21271
+Glassy Forest~
+Tall evergreens surround you.  Nettles and cones have piled on the forest
+floor.  Wildlife chatter and stir as you approach.  A small path has been
+cut through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 21270
+D3
+~
+~
+0 0 21264
+S
+#21272
+Church of Falis~
+You enter a large church.  Wooden pews are arranged in rows facing an
+alter with a walkway between them.  Stained glass windows distort the light
+causing a rainbow of colors to shine through.  Tapestries and paintings that
+depict holy events hang on the wall.  Doors lead further into the church. 
+West leads back to the streets of Valis.  
+~
+0 134217736 0
+D3
+~
+~
+0 0 21140
+S
+#21273
+Southern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 21274
+D3
+~
+~
+0 0 21136
+S
+#21274
+Southern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21275
+D3
+~
+~
+0 0 21273
+S
+#21275
+Eastern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21150
+D2
+~
+~
+0 0 21274
+S
+#21276
+Eastern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21277
+D2
+~
+~
+0 0 21150
+S
+#21277
+Northern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D2
+~
+~
+0 0 21276
+D3
+~
+~
+0 0 21278
+S
+#21278
+Northern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 21277
+D3
+~
+~
+0 0 21149
+S
+#21279
+Northern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 21149
+D3
+~
+~
+0 0 21280
+S
+#21280
+Northern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 21279
+D2
+~
+~
+0 0 21281
+S
+#21281
+Western Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21280
+D2
+~
+~
+0 0 21151
+S
+#21282
+Western Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21151
+D2
+~
+~
+0 0 21283
+S
+#21283
+Southern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 21282
+D1
+~
+~
+0 0 21284
+S
+#21284
+Southern Valis~
+A tall wall separates the city from the plains.  Joyful music and voices
+can be generate from within the city.  The road continues along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 21136
+D3
+~
+~
+0 0 21283
+S
+#21285
+{WWelcome To Lodoss!!{x~
+Once, long ago, a war was waged by ancient gods.  The battle was fought
+pitting the forces of evil against the forces of good.  Dragons and beast,
+humans and demi-humans all fought for the glory of thier gods.  One by one
+the gods fell till only Marfa, mother Goddess of Creation, and Kardis,
+Goddess of Destruction, were left standing.  As their battle raged on, the
+ground quaked and the oceans rolled.  At the climax of their final battle,
+The land was spilt and what was formed has come to be known as Lodoss, The
+Accursed Island.  Both goddesses where struck down at once and the war
+ended.  That was a thousand years ago and now Lodoss remains.  
+~
+0 134750208 9
+D5
+~
+~
+0 0 21068
+S
+#21286
+Diamond in the Dirt~
+Large gems and jewels sit inside glass cases.  A door leads back out to
+the streets.  
+~
+0 8 1
+D3
+~
+~
+0 0 21182
+S
+#21288
+Eastern Lodoss~
+The grasslands end into low rolling hills.  A tower stands in the
+distance to the northeast.  
+~
+0 0 2
+D0
+~
+~
+0 0 21289
+D3
+~
+~
+0 0 21254
+S
+#21289
+Eastern Lodoss~
+The grasslands end into low rolling hills.  A tower stands in the
+distance to the northeast.  
+~
+0 0 2
+D0
+~
+~
+0 0 21293
+D2
+~
+~
+0 0 21288
+S
+#21290
+Black Dragon Shrine~
+Black walls surround you.  Loud scratching sounds echo down the halls. 
+The path continues north.  
+~
+0 524296 0
+D0
+~
+~
+0 0 21291
+D4
+~
+~
+0 0 21038
+S
+#21291
+Black Dragon Shrine~
+Black walls surround you.  Loud scratching sounds echo down the halls. 
+The path continues north.  
+~
+0 524296 0
+D0
+~
+~
+0 0 21292
+D2
+~
+~
+0 0 21290
+S
+#21292
+Black Dragon Shrine~
+The hallway dumps you out into a large chamber with black walls.  Pillars
+hold up the ceiling.  The room is pitch black.  Scraping and scratching
+sounds come from the darkness.  
+~
+0 524296 0
+D2
+~
+~
+0 0 21291
+S
+#21293
+Eastern Lodoss~
+The grasslands end into low rolling hills.  A tower stands in the east. 
+It appears to be about 30 feet tall.  Its grey stone walls appear to have
+weathered many storms.  
+~
+0 0 2
+D1
+~
+~
+1 0 21294
+D2
+~
+~
+0 0 21289
+S
+#21294
+Wort's Tower~
+Furniture line the walls here and there.  A fire roars in the hearth of
+the fireplace.  A staircase leads to the upper layer of the tower.  
+~
+0 8 0
+D3
+~
+~
+1 0 21293
+D4
+~
+~
+0 0 21295
+S
+#21295
+Wort's Tower~
+A bed sits in one of the corners of the room.  Large window let in the
+air and light.  Smoke from candles hang in the air.  A long desk sits in the
+middle of the room covered in papers.  The staircase leads back down to the
+ground floor.  
+~
+0 8 0
+D5
+~
+~
+0 0 21294
+S
+#21296
+Eastern Lodoss~
+The ocean lies to the east and south.  You can see a small, red marble
+temple to the southeast.  
+~
+0 4 2
+E
+sign~
+Its a sign!!
+READ IT ALREADY!
+~
+D2
+~
+~
+0 0 21297
+D3
+~
+~
+0 0 21257
+S
+#21297
+Eastern Lodoss~
+The ocean lies to the east and south.  You can see a small, red marble
+temple to the east.  
+~
+0 8 2
+E
+sign~
+Its a sign!!
+READ IT ALREADY!
+~
+D0
+~
+~
+0 0 21296
+D1
+~
+~
+0 0 21298
+M 150 H 150
+S
+#21298
+Temple of Myrii~
+You enter a small temple dedicated to the god of war, Myrii.  Tapestries
+depicting war hang on the wall.  The room is pretty much bare of anything
+except small furniture.  Light shines through stained glass windows.  The
+ceiling is covered in a mosaic of the great war of the gods.  
+~
+0 0 0
+D3
+~
+~
+0 0 21297
+M 500 H 500
+S
+#21299
+Shrine of Kardis~
+~
+0 4 0
+D2
+~
+~
+0 0 21044
+S
+#0
+
+
+
+#SPECIALS
+M 21008 spec_breath_fire Load to: {YS{Rhooting {YS{Rtar{x
+M 21009 spec_breath_acid Load to: {DD{bemonic {DD{bragon, {DN{barse{x
+M 21010 spec_breath_frost Load to: {wThe {cAncient {WSilver {cDragon {wBramb{x
+M 21011 spec_breath_lightning Load to: {yThe {WAncient {YGolden {WDragon {yMycen{x
+M 21012 spec_breath_frost Load to: {cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x
+M 21013 spec_cast_mage Load to: {RW{rag{Rn{rar{Rd{x
+M 21014 spec_cast_mage Load to: {RW{rag{Rn{rar{Rd{x
+M 21016 spec_cast_mage Load to: {gG{Drode{gr{x
+M 21020 spec_cast_mage Load to: {gG{ma{Db{we{Dr{mr{ga{x
+M 21021 spec_cast_mage Load to: {wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x
+M 21027 spec_cast_mage Load to: {RS{wlayn{x
+M 21029 spec_cast_cleric Load to: {WEtoh{x
+M 21030 spec_thief Load to: {DW{rood{Dc{rhuck{x
+M 21036 spec_poison Load to: a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 21037 spec_poison Load to: {wG{Yian{wt {GI{cnsec{Gt{x
+M 21038 spec_poison Load to: {WG{yian{Wt {YS{yand {GS{gnak{Ge{x
+M 21040 spec_cast_cleric Load to: {CCleric {Dof {WValis{x
+M 21057 spec_cast_cleric Load to: {mL{Wittle {mN{Me{we{Ms{me{x
+M 21059 spec_thief Load to: {wR{Gyn{wa{x
+M 21060 spec_cast_mage Load to: {rA{yld{won{yov{ra{x
+M 21061 spec_cast_cleric Load to: {ML{We{myl{Wi{Ma{x
+M 21063 spec_cast_cleric Load to: {WPriest {DGreevus{x
+M 21064 spec_cast_mage Load to: {CT{che {YH{yigh {GS{gage {WW{Dort{x
+M 21065 spec_cast_cleric Load to: {wHigh {MP{Wrieste{Mss {WN{me{we{ms{We{x
+M 21066 spec_cast_cleric Load to: {DNe{rne{Del, {RK{Dardis {wR{weinc{Darnat{we{Wd{x
+M 21068 spec_poison Load to: {wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x
+M 21071 spec_cast_mage Load to: {WW{Brath {wof {yFlaim{x
+M 21072 spec_questmaster Load to: {WP{wriest {RH{robb{x
+M 21073 spec_questmaster Load to: {wThe {yDock{cmaster{x
+M 21074 spec_questmaster Load to: {WThe {BHarbor{Gmaster{x
+M 21076 spec_cast_cleric Load to: {gP{Griest {Cof {GM{ga{Wr{gf{Ga{x
+M 21077 spec_cast_cleric Load to: {gP{Griestess {Cof {GM{ga{Wr{gf{Ga{x
+M 21292 spec_janitor Load to: {RB{ya{Yy{Rl{yo{Ys{W, {RG{rod {yof {RF{yi{rr{Ye {wand {RF{ru{Rr{ry{x
+M 21293 spec_cast_mage Load to: {DK{Rardis {Dt{Rhe {DD{Restroyer{x
+M 21294 spec_cast_cleric Load to: {WF{Balis{Y, {BG{Wod {wof {WL{Yi{Wg{Yh{Wt{x
+M 21295 spec_cast_cleric Load to: {GM{ga{Wr{gf{Ga{g, {WG{God{gd{Ges{Ws {wof {GC{Wr{we{gat{wi{Wo{Gn{x
+M 21297 spec_janitor Load to: {DR{wa{Dd{wa{W, {DGod {wof {DKn{wo{Dwl{we{Ddg{we{x
+M 21298 spec_janitor Load to: {gC{Gha {gZ{Ga, {GGod {gof {GLuck{x
+M 21299 spec_cast_mage Load to: {rF{Dalari{rs{D, {rG{Dod {rof {DDarkne{rss{x
+S
+
+
+
+#RESETS
+D 0 21015 1 1 The east door of Dark Forest is closed
+D 0 21016 3 1 The west door of Inside the Tent is closed
+D 0 21021 3 1 The west door of Dark Forest is closed
+D 0 21027 1 2 The east door of End of the Path is closed and locked
+D 0 21028 1 1 The east door of Inside The Castle is closed
+D 0 21028 3 1 The west door of Inside The Castle is closed
+D 0 21029 0 1 The north door of End of the Hall is closed
+D 0 21029 3 1 The west door of End of the Hall is closed
+D 0 21030 2 1 The south door of End of the Hall is closed
+D 0 21030 3 1 The west door of End of the Hall is closed
+D 0 21031 0 1 The north door of Castle Bedroom is closed
+D 0 21032 1 1 The east door of Castle Bedroom is closed
+D 0 21033 1 1 The east door of Castle Bedroom is closed
+D 0 21034 2 1 The south door of Castle Bedroom is closed
+D 0 21035 1 1 The east door of Approaching the Throne Room is closed
+D 0 21036 2 1 The south door of Throne Room is closed
+D 0 21037 0 1 The north door of Beld's Royal Chambers is closed
+D 0 21037 2 2 The south door of Beld's Royal Chambers is closed and locked
+D 0 21038 0 2 The north door of Dark Hazy Portal is closed and locked
+D 0 21039 3 1 The west door of War Room is closed
+D 0 21040 1 1 The east door of Back Room is closed
+D 0 21042 5 1 The down door of Marmo Basement is closed
+D 0 21043 0 1 The north door of Wagnard's Study is closed
+D 0 21043 4 1 The up door of Wagnard's Study is closed
+D 0 21044 2 1 The south door of Alter to Kardis is closed
+D 0 21078 3 1 The west door of Approaching Valis is closed
+D 0 21094 0 1 The north door of Approaching Valis is closed
+D 0 21099 1 1 The east door of Approaching Valis is closed
+D 0 21102 3 2 The west door of Approaching Valis is closed and locked
+D 0 21103 2 1 The south door of Approaching Valis is closed
+D 0 21104 0 2 The north door of Sparring Chambers is closed and locked
+D 0 21109 2 1 The south door of Valis-Flaim Road is closed
+D 0 21133 2 1 The south door of Grasslands is closed
+D 0 21135 0 1 The north door of Cave of the Golden Dragon is closed
+D 0 21136 2 1 The south door of South Gate is closed
+D 0 21139 0 1 The north door of Town Square Before the Castle is closed
+D 0 21149 0 1 The north door of North Gate is closed
+D 0 21150 1 1 The east door of East Gate is closed
+D 0 21151 3 1 The west door of West Gate is closed
+D 0 21156 2 1 The south door of Inside The Castle is closed
+D 0 21158 0 1 The north door of Main Hall is closed
+D 0 21159 0 2 The north door of Throne Room is closed and locked
+D 0 21159 2 1 The south door of Throne Room is closed
+D 0 21163 4 1 The up door of Jailers hallway is closed
+D 0 21164 1 2 The east door of Jailers hallway is closed and locked
+D 0 21165 1 2 The east door of Jailers Hallway is closed and locked
+D 0 21166 3 2 The west door of Small Cell is closed and locked
+D 0 21167 3 2 The west door of Small Cell is closed and locked
+D 0 21168 0 1 The north door of Western Hallway is closed
+D 0 21168 5 1 The down door of Western Hallway is closed
+D 0 21169 2 1 The south door of Western Guest Room is closed
+D 0 21188 0 1 The north door of Before Flaim Castle is closed
+D 0 21190 0 1 The north door of Castle Hallway is closed
+D 0 21190 1 1 The east door of Castle Hallway is closed
+D 0 21190 2 1 The south door of Castle Hallway is closed
+D 0 21191 3 1 The west door of Throne Room is closed
+D 0 21193 0 1 The north door of Guest Room is closed
+D 0 21194 2 1 The south door of Guest Room is closed
+D 0 21197 2 2 The south door of Cells is closed and locked
+D 0 21199 0 1 The north door of The Temple of Marfa is closed
+D 0 21200 2 1 The south door of Inside the Temple of Marfa is closed
+D 0 21203 5 1 The down door of Inside the Temple of Marfa is closed
+D 0 21204 4 1 The up door of Chamber of the Silver Dragon is closed
+D 0 21205 0 1 The north door of Inside Fortress Moss is closed
+D 0 21209 2 1 The south door of Inside Fortress Moss is closed
+D 0 21213 1 2 The east door of House of Karla is closed and locked
+D 0 21293 1 1 The east door of Eastern Lodoss is closed
+D 0 21294 3 1 The west door of Wort's Tower is closed
+M 0 21005 7 21001 1 *Load an {cO{gr{Gc{x
+M 0 21002 7 21001 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21003 7 21002 1 *Load {xA {DDrow{x
+M 0 21002 7 21003 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21004 7 21004 1 *Load a {yKobol{Dd{x
+M 0 21003 7 21004 1 *Load {xA {DDrow{x
+M 0 21006 7 21005 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21005 7 21005 1 *Load an {cO{gr{Gc{x
+M 0 21003 7 21005 1 *Load {xA {DDrow{x
+M 0 21002 7 21005 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21006 7 21006 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21002 7 21006 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21080 2 21007 1 *Load {gA G{Go{Db{gl{Gi{Dn {RB{wr{ru{wt{Re{x
+G 0 21070 0 *{dblack {rflame{x is given to {gA G{Go{Db{gl{Gi{Dn {RB{wr{ru{wt{Re{x
+M 0 21007 5 21008 1 *Load an {wO{cgr{We{x
+M 0 21006 7 21008 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21005 7 21008 1 *Load an {cO{gr{Gc{x
+M 0 21007 5 21009 1 *Load an {wO{cgr{We{x
+M 0 21006 7 21009 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21005 7 21009 1 *Load an {cO{gr{Gc{x
+M 0 21006 7 21010 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21003 7 21010 1 *Load {xA {DDrow{x
+M 0 21007 5 21011 1 *Load an {wO{cgr{We{x
+M 0 21005 7 21011 1 *Load an {cO{gr{Gc{x
+M 0 21002 7 21011 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21004 7 21012 1 *Load a {yKobol{Dd{x
+M 0 21002 7 21012 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21007 5 21013 1 *Load an {wO{cgr{We{x
+M 0 21002 7 21013 1 *Load a {gG{Go{Db{gl{Gi{Dn{x
+M 0 21006 7 21014 1 *Load a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x
+M 0 21005 7 21014 1 *Load an {cO{gr{Gc{x
+M 0 21003 7 21014 1 *Load {xA {DDrow{x
+M 0 21004 7 21015 1 *Load a {yKobol{Dd{x
+M 0 21080 2 21016 1 *Load {gA G{Go{Db{gl{Gi{Dn {RB{wr{ru{wt{Re{x
+M 0 21003 7 21020 1 *Load {xA {DDrow{x
+M 0 21007 5 21021 1 *Load an {wO{cgr{We{x
+M 0 21004 7 21021 1 *Load a {yKobol{Dd{x
+M 0 21005 7 21021 1 *Load an {cO{gr{Gc{x
+M 0 21003 7 21022 1 *Load {xA {DDrow{x
+M 0 21005 7 21023 1 *Load an {cO{gr{Gc{x
+M 0 21081 1 21027 1 *Load {WA {WC{Dhained {GG{gi{Gant{x
+E 0 21071 0 24 *{gg{gi{gant {ws{dh{wackles{x is loaded around the right ankle of {WA {WC{Dhained {GG{gi{Gant{x
+E 0 21072 0 15 *{gg{gi{gant {wc{wu{wffs{x is loaded on the right wrist of {WA {WC{Dhained {GG{gi{Gant{x
+M 0 21035 5 21028 1 *Load {DCastle Servant{x
+M 0 21035 5 21029 1 *Load {DCastle Servant{x
+M 0 21035 5 21030 1 *Load {DCastle Servant{x
+M 0 21035 5 21035 1 *Load {DCastle Servant{x
+M 0 21001 1 21036 1 *Load {cE{Dmperor {cB{Deld{x
+E 0 21039 0 6 *{du{wnholy helme{dt{x is loaded over the head of {cE{Dmperor {cB{Deld{x
+E 0 21010 0 5 *{du{wnholy armo{dr{x is loaded on the body of {cE{Dmperor {cB{Deld{x
+E 0 21001 0 16 *{wt{rh{re {wd{re{rmo{dn{ws{rw{ror{wd {y"{ws{dou{wl {rc{rr{wu{ds{rh{we{rr{y"{x is loaded wielded of {cE{Dmperor {cB{Deld{x
+G 0 21064 0 *{dmarmo {wkey{x is given to {cE{Dmperor {cB{Deld{x
+O 0 21065 0 21038 *{wa {ddark{w, {wh{ca{wz{cy{w portal leads to who knows where.{x loaded to Dark Hazy Portal
+M 0 21000 1 21039 1 *Load {DAs{wh{Dram{x
+E 0 21000 0 16 *{ws{waint'{ws {dd{wemis{de{x is loaded wielded of {DAs{wh{Dram{x
+E 0 21038 0 10 *{du{wnholy armplate{ds{x is loaded on the arms of {DAs{wh{Dram{x
+E 0 21010 0 5 *{du{wnholy armo{dr{x is loaded on the body of {DAs{wh{Dram{x
+E 0 21046 0 25 *{du{wnhol{wy s{wtrengt{dh{x is loaded as a clan patch of {DAs{wh{Dram{x
+M 0 21014 1 21043 1 *Load {RW{rag{Rn{rar{Rd{x
+M 0 21073 1 21045 1 *Load {wThe {yDock{cmaster{x
+M 0 21034 3 21051 1 *Load a {DMercenary {wCaptain{x
+M 0 21034 3 21055 1 *Load a {DMercenary {wCaptain{x
+M 0 21022 20 21056 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21057 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21058 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21059 1 *Load a {wHuman {DMercenary{x
+M 0 21034 5 21060 1 *Load a {DMercenary {wCaptain{x
+M 0 21022 20 21060 1 *Load a {wHuman {DMercenary{x
+M 0 21033 15 21061 1 *Load a {WHuman {GMercenary{x
+M 0 21067 1 21064 1 *Load {BD{Guke {BR{Gastor{x
+M 0 21022 20 21065 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21066 1 *Load a {wHuman {DMercenary{x
+M 0 21034 20 21066 1 *Load a {DMercenary {wCaptain{x
+M 0 21022 20 21067 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21068 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21069 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21070 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21071 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21072 1 *Load a {wHuman {DMercenary{x
+M 0 21026 1 21073 1 *Load {wD{Cee{wd{Cli{wt{x
+E 0 21061 0 16 *{wt{chin {ws{daber{x is loaded wielded of {wD{Cee{wd{Cli{wt{x
+M 0 21025 1 21073 1 *Load {DThe {WFree {wKnight {DP{warn{x
+E 0 21045 0 9 *{yg{yo{yld{ye{yn g{yau{yn{yt{yl{yet{ys{x is loaded on the hands of {DThe {WFree {wKnight {DP{warn{x
+E 0 21044 0 5 *{yg{yo{yld{ye{yn a{yr{ym{yo{yr{x is loaded on the body of {DThe {WFree {wKnight {DP{warn{x
+E 0 21020 0 16 *A {wwhite {wblade{x is loaded wielded of {DThe {WFree {wKnight {DP{warn{x
+M 0 21022 20 21073 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21074 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21075 1 *Load a {wHuman {DMercenary{x
+M 0 21033 15 21076 1 *Load a {WHuman {GMercenary{x
+M 0 21034 20 21076 1 *Load a {DMercenary {wCaptain{x
+M 0 21033 15 21077 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21078 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21079 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21080 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21081 1 *Load a {WHuman {GMercenary{x
+M 0 21043 3 21082 1 *Load a {GMercenary {WCaptain{x
+M 0 21033 15 21082 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21091 1 *Load a {WHuman {GMercenary{x
+M 0 21033 15 21093 1 *Load a {WHuman {GMercenary{x
+M 0 21027 1 21095 1 *Load {RS{wlayn{x
+E 0 21057 0 16 *{ww{yooden {wm{yage {ws{ytaff{x is loaded wielded of {RS{wlayn{x
+M 0 21043 3 21103 1 *Load a {GMercenary {WCaptain{x
+M 0 21033 15 21103 1 *Load a {WHuman {GMercenary{x
+M 0 21046 10 21104 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21033 15 21105 1 *Load a {WHuman {GMercenary{x
+M 0 21043 3 21107 1 *Load a {GMercenary {WCaptain{x
+M 0 21084 1 21134 1 *Load {RO{wr{rs{wo{Rn{x
+E 0 21073 0 18 *{rf{yu{wre{yy'{rs {wp{yr{resen{yc{we{x is loaded floating nearby of {RO{wr{rs{wo{Rn{x
+M 0 21083 1 21134 1 *Load {RS{rhi{Rr{ris{x
+M 0 21011 1 21135 1 *Load {yThe {WAncient {YGolden {WDragon {yMycen{x
+G 0 21004 0 *{wmirror {wof {wtruth{x is given to {yThe {WAncient {YGolden {WDragon {yMycen{x
+M 0 21079 8 21136 2 *Load {WValis {wGate {DGuard{x
+M 0 21042 7 21136 1 *Load a {cCitizen {wof {WValis{x
+M 0 21052 5 21137 1 *Load a {wSmall {BBoy{x
+M 0 21044 7 21137 1 *Load a {MCitizen {wof {WValis{x
+M 0 21044 7 21138 1 *Load a {MCitizen {wof {WValis{x
+M 0 21042 7 21138 1 *Load a {cCitizen {wof {WValis{x
+M 0 21052 5 21139 1 *Load a {wSmall {BBoy{x
+M 0 21053 5 21140 1 *Load a {wSmall {MGirl{x
+M 0 21044 7 21140 1 *Load a {MCitizen {wof {WValis{x
+M 0 21052 5 21141 1 *Load a {wSmall {BBoy{x
+M 0 21042 7 21141 1 *Load a {cCitizen {wof {WValis{x
+M 0 21053 5 21142 1 *Load a {wSmall {MGirl{x
+M 0 21052 5 21143 1 *Load a {wSmall {BBoy{x
+M 0 21053 5 21144 1 *Load a {wSmall {MGirl{x
+M 0 21042 7 21144 1 *Load a {cCitizen {wof {WValis{x
+M 0 21052 5 21145 1 *Load a {wSmall {BBoy{x
+M 0 21044 7 21145 1 *Load a {MCitizen {wof {WValis{x
+M 0 21053 5 21146 1 *Load a {wSmall {MGirl{x
+M 0 21042 7 21146 1 *Load a {cCitizen {wof {WValis{x
+M 0 21044 7 21147 1 *Load a {MCitizen {wof {WValis{x
+M 0 21042 7 21147 1 *Load a {cCitizen {wof {WValis{x
+M 0 21044 7 21148 1 *Load a {MCitizen {wof {WValis{x
+M 0 21079 8 21149 2 *Load {WValis {wGate {DGuard{x
+M 0 21053 5 21149 1 *Load a {wSmall {MGirl{x
+M 0 21079 8 21150 2 *Load {WValis {wGate {DGuard{x
+M 0 21042 7 21150 1 *Load a {cCitizen {wof {WValis{x
+M 0 21079 8 21151 2 *Load {WValis {wGate {DGuard{x
+M 0 21044 7 21151 1 *Load a {MCitizen {wof {WValis{x
+M 0 21042 7 21151 1 *Load a {cCitizen {wof {WValis{x
+M 0 21048 1 21152 1 *Load the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21056 0 *{ds{wt{de{we{dl {wl{de{wg{wp{dl{wa{wt{we{ds{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21055 0 *{ds{wt{de{we{dl {da{wr{dm{wp{dl{wa{dt{we{ds{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21054 0 *{ds{wt{de{we{dl {dbo{wot{wg{wua{drd{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21053 0 *{ds{wt{de{we{dl {wf{wu{dl{wl {wh{de{wl{wm{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21052 0 *{ds{wt{de{we{dl {dc{wh{da{wi{wn{wm{da{wi{dl{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21011 0 *{ds{wt{de{we{dl b{wra{dc{wer{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+G 0 21075 0 *{dp{wlatinum {db{war{x is given to the {WA{Dr{wmor{Ws{Dm{with{x
+M 0 21051 1 21153 1 *Load a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+G 0 21029 0 *{wthe mantra{x is given to a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+G 0 21028 0 *{wb{ce{wn{we{cd{wi{wc{ct{wi{wo{cn{ws{x is given to a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+G 0 21027 0 *{de{wvi{dl {wc{whant{ws{x is given to a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+G 0 21026 0 *{rf{yl{ra{ym{re {ws{wc{dro{wl{wl{x is given to a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+G 0 21077 0 *{rc{go{bn{cf{yu{rs{gi{bo{cn{x is given to a {wT{bi{rn{wy {wW{bi{rz{wa{yr{cd{x
+M 0 21050 1 21154 1 *Load the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+G 0 21033 0 *{ygold liquid{x is given to the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+G 0 21032 0 *{mpurple liquid{x is given to the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+G 0 21031 0 *{dblack liquid{x is given to the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+G 0 21076 0 *{rb{ru{yr{rn{ri{yn{rg {gg{cel{x is given to the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+G 0 21030 0 *{yc{wo{bl{go{rr{cf{wu{yl {cmist{x is given to the {wW{Di{Wz{we{Dn{We{Dd {cA{Cp{wo{Ct{wh{Ce{wc{ca{Cr{wy{x
+M 0 21049 1 21155 1 *Load the {RW{re{wapon{Rs{rm{with{x
+G 0 21051 0 *{ds{wt{de{we{dl {dp{wo{dl{we{da{wx{de{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21050 0 *{ds{wt{de{we{dl {wf{wl{wa{wi{wl{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21049 0 *{ds{wt{de{we{dl {dw{whi{dp{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21048 0 *{ds{wt{de{we{dl {ws{wp{de{wa{wr{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21047 0 *{ds{wt{de{we{dl {wa{dx{we{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21009 0 *{ds{wtee{dl {wd{da{wgg{de{wr{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21008 0 *{ds{wte{del {wh{da{wmm{de{wr{x is given to the {RW{re{wapon{Rs{rm{with{x
+G 0 21007 0 *{ds{wte{del {wsh{dort{wsw{dord{x is given to the {RW{re{wapon{Rs{rm{with{x
+M 0 21039 15 21156 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21041 6 21157 1 *Load {WCastle Servant{x
+M 0 21039 15 21157 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21041 6 21158 1 *Load {WCastle Servant{x
+M 0 21039 15 21158 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21023 1 21159 1 *Load {WK{Cing {WF{Cahn{x
+E 0 21023 0 5 *{x{wwhite {cplatemail{x is loaded on the body of {WK{Cing {WF{Cahn{x
+E 0 21014 0 16 *The {wh{woly {ds{wword {wof v{wali{ws{x is loaded wielded of {WK{Cing {WF{Cahn{x
+E 0 21022 0 11 *A {wwhite {dshield{x is loaded as a shield of {WK{Cing {WF{Cahn{x
+G 0 21069 0 *{wvalis {ykey {wto the {wvault{x is given to {WK{Cing {WF{Cahn{x
+O 0 21074 0 21160 *{cc{wr{cy{ws{ct{wa{cl {ce{wa{cr{wr{ci{wn{cg{x loaded to Vault
+M 0 21041 6 21161 1 *Load {WCastle Servant{x
+M 0 21086 1 21163 1 *Load {wK{Weeper {Gof the {YK{yeys{x
+G 0 21081 0 *{wvalis {dcell {yk{yeys{x is given to {wK{Weeper {Gof the {YK{yeys{x
+M 0 21041 6 21163 1 *Load {WCastle Servant{x
+M 0 21039 15 21163 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21164 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21165 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21030 1 21166 1 *Load {DW{rood{Dc{rhuck{x
+E 0 21060 0 16 *{dt{ghi{ce{gve{ds {wd{ra{wgg{re{wr{x is loaded wielded of {DW{rood{Dc{rhuck{x
+M 0 21039 15 21168 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21169 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21170 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21171 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21172 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21173 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21039 15 21174 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21041 6 21175 1 *Load {WCastle Servant{x
+M 0 21039 15 21175 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21041 6 21176 1 *Load {WCastle Servant{x
+M 0 21039 15 21176 1 *Load {WHoly {wKnight {Dof {WValis{x
+M 0 21047 7 21177 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21177 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21047 7 21179 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21179 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21055 3 21180 1 *Load a {ySmall {mGirl{x
+M 0 21054 3 21180 1 *Load a {ySmall {RBoy{x
+M 0 21047 7 21181 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21181 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21055 3 21182 1 *Load a {ySmall {mGirl{x
+M 0 21054 3 21182 1 *Load a {ySmall {RBoy{x
+M 0 21047 7 21183 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21183 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21074 1 21184 1 *Load {WThe {BHarbor{Gmaster{x
+M 0 21055 3 21185 1 *Load a {ySmall {mGirl{x
+M 0 21054 3 21185 1 *Load a {ySmall {RBoy{x
+M 0 21047 7 21186 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21186 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21047 7 21187 1 *Load {mCitizen {wof {yFlaim{x
+M 0 21045 7 21187 1 *Load a {RCitizen {wof {yFlaim{x
+M 0 21046 10 21188 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21188 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21189 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21189 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21190 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21024 1 21191 1 *Load {wK{Wing {wK{Washue{x
+E 0 21040 0 3 *{wcloak {dof the {ydesert {yking{x is loaded around the neck (1) of {wK{Wing {wK{Washue{x
+E 0 21042 0 12 *{ccape {dof the {ydesert {yking{x is loaded about the shoulders of {wK{Wing {wK{Washue{x
+E 0 21041 0 8 *{rboots {dof the {ydesert {yking{x is loaded on the feet of {wK{Wing {wK{Washue{x
+E 0 21015 0 16 *{dsword {wof {yflai{rm{x is loaded wielded of {wK{Wing {wK{Washue{x
+M 0 21046 10 21192 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21193 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21046 10 21194 1 *Load a {cW{Barrio{cr {wof {yFlaim{x
+M 0 21069 1 21195 1 *Load {WT{wh{We {RM{we{Wr{Dc{Re{wn{Ra{wr{Wy {DC{wo{Wm{Dm{wa{Wn{Dd{we{Wr{x
+M 0 21071 10 21196 1 *Load {WW{Brath {wof {yFlaim{x
+M 0 21070 10 21196 1 *Load {RB{Wlade {rof {yFlaim{x
+M 0 21077 2 21200 1 *Load {gP{Griestess {Cof {GM{ga{Wr{gf{Ga{x
+M 0 21076 2 21200 1 *Load {gP{Griest {Cof {GM{ga{Wr{gf{Ga{x
+M 0 21061 1 21200 1 *Load {ML{We{myl{Wi{Ma{x
+M 0 21076 2 21201 1 *Load {gP{Griest {Cof {GM{ga{Wr{gf{Ga{x
+M 0 21077 2 21202 1 *Load {gP{Griestess {Cof {GM{ga{Wr{gf{Ga{x
+M 0 21065 1 21203 1 *Load {wHigh {MP{Wrieste{Mss {WN{me{we{ms{We{x
+E 0 21024 0 24 *{dsilver {wanklet{x is loaded around the right ankle of {wHigh {MP{Wrieste{Mss {WN{me{we{ms{We{x
+M 0 21010 1 21204 1 *Load {wThe {cAncient {WSilver {cDragon {wBramb{x
+G 0 21005 0 *{gs{gt{waff {wof {gl{gi{wfe{x is given to {wThe {cAncient {WSilver {cDragon {wBramb{x
+M 0 21082 10 21205 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21206 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21207 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21208 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21209 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21210 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21211 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21082 10 21212 1 *Load {RD{Yef{Re{Ynd{Rer {wof {RM{Yoss{x
+M 0 21021 1 21213 1 *Load {wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x
+E 0 21063 0 6 *{gc{gi{grclet {wof {cc{co{cntrol{x is loaded over the head of {wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x
+M 0 21038 5 21214 1 *Load {WG{yian{Wt {YS{yand {GS{gnak{Ge{x
+M 0 21037 5 21215 1 *Load {wG{Yian{wt {GI{cnsec{Gt{x
+M 0 21038 5 21216 1 *Load {WG{yian{Wt {YS{yand {GS{gnak{Ge{x
+M 0 21037 5 21218 1 *Load {wG{Yian{wt {GI{cnsec{Gt{x
+M 0 21037 5 21219 1 *Load {wG{Yian{wt {GI{cnsec{Gt{x
+M 0 21038 5 21221 1 *Load {WG{yian{Wt {YS{yand {GS{gnak{Ge{x
+M 0 21031 5 21226 1 *Load {DD{gem{Do{gni{Dc {GT{gree{x
+M 0 21036 5 21227 1 *Load a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 0 21068 5 21228 1 *Load {wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x
+M 0 21031 5 21228 1 *Load {DD{gem{Do{gni{Dc {GT{gree{x
+M 0 21068 5 21229 1 *Load {wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x
+M 0 21031 5 21230 1 *Load {DD{gem{Do{gni{Dc {GT{gree{x
+M 0 21036 5 21231 1 *Load a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 0 21031 5 21232 1 *Load {DD{gem{Do{gni{Dc {GT{gree{x
+M 0 21036 5 21233 1 *Load a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 0 21036 5 21234 1 *Load a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 0 21036 5 21235 1 *Load a {RKiller {YM{Gus{Yhr{Goo{Ym{x
+M 0 21068 5 21237 1 *Load {wG{Yi{Dant {GP{yoison{gous {DS{Rp{gi{rd{De{Rr{x
+M 0 21031 5 21237 1 *Load {DD{gem{Do{gni{Dc {GT{gree{x
+M 0 21016 1 21244 1 *Load {gG{Drode{gr{x
+E 0 21017 0 16 *An {dobsidian {cflail{x is loaded wielded of {gG{Drode{gr{x
+M 0 21020 1 21244 1 *Load {gG{ma{Db{we{Dr{mr{ga{x
+E 0 21059 0 16 *{dunholy {wscepter{x is loaded wielded of {gG{ma{Db{we{Dr{mr{ga{x
+M 0 21008 1 21245 1 *Load {YS{Rhooting {YS{Rtar{x
+G 0 21003 0 *{wscepter {wof {ddomination{x is given to {YS{Rhooting {YS{Rtar{x
+M 0 21018 1 21246 1 *Load {DS{Bmedd{Dy{x
+E 0 21062 0 16 *{rs{wt{rro{wn{rg {ws{cw{ro{cr{wd{x is loaded wielded of {DS{Bmedd{Dy{x
+M 0 21019 1 21246 1 *Load {DG{Rilra{Dm{x
+E 0 21016 0 16 *A {bgiant {rscythe{x is loaded wielded of {DG{Rilra{Dm{x
+M 0 21015 1 21247 1 *Load {DP{bi{Drote{bs{Ds{x
+E 0 21018 0 16 *{ys{yp{yik{ye{yd {wwhip{x is loaded wielded of {DP{bi{Drote{bs{Ds{x
+M 0 21017 1 21247 1 *Load {DAstur{x
+E 0 21057 0 16 *{ww{yooden {wm{yage {ws{ytaff{x is loaded wielded of {DAstur{x
+M 0 21012 1 21250 1 *Load {cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x
+G 0 21002 0 *{ws{coul {wc{crystal {wb{call{x is given to {cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x
+M 0 21028 1 21252 1 *Load {yG{Dhim{x
+E 0 21019 0 16 *{rr{yus{rty {ya{rxe{x is loaded wielded of {yG{Dhim{x
+M 0 21032 5 21254 1 *Load A {yGnoll{x
+M 0 21032 5 21257 1 *Load A {yGnoll{x
+M 0 21022 20 21258 1 *Load a {wHuman {DMercenary{x
+M 0 21032 5 21259 1 *Load A {yGnoll{x
+M 0 21022 20 21259 1 *Load a {wHuman {DMercenary{x
+M 0 21022 20 21260 1 *Load a {wHuman {DMercenary{x
+M 0 21032 5 21261 1 *Load A {yGnoll{x
+M 0 21034 5 21261 1 *Load a {DMercenary {wCaptain{x
+M 0 21022 20 21261 1 *Load a {wHuman {DMercenary{x
+M 0 21063 1 21263 1 *Load {WPriest {DGreevus{x
+E 0 21021 0 16 *A {dg{rreat{wa{cxe{x is loaded wielded of {WPriest {DGreevus{x
+M 0 21062 1 21266 1 *Load {GLe{ga{Gf{x
+M 0 21058 1 21268 1 *Load {bG{Bar{Cr{Bac{bk{x
+M 0 21059 1 21269 1 *Load {wR{Gyn{wa{x
+M 0 21057 1 21270 1 *Load {mL{Wittle {mN{Me{we{Ms{me{x
+M 0 21056 1 21270 1 *Load {YS{Bpark{w, {WKnight {cin {wTraining{x
+E 0 21025 0 20 *{db{cattl{de v{cei{dl{x is loaded on the face of {YS{Bpark{w, {WKnight {cin {wTraining{x
+M 0 21060 1 21271 1 *Load {rA{yld{won{yov{ra{x
+M 0 21029 1 21272 1 *Load {WEtoh{x
+E 0 21058 0 16 *{wholy {wscepter{x is loaded wielded of {WEtoh{x
+M 0 21040 3 21272 1 *Load {CCleric {Dof {WValis{x
+M 0 21040 3 21272 1 *Load {CCleric {Dof {WValis{x
+M 0 21040 3 21272 1 *Load {CCleric {Dof {WValis{x
+M 0 21078 10 21274 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21276 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21277 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21278 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21279 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21280 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21282 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21078 10 21284 1 *Load A {wT{Gra{wve{Gli{wng {BT{wou{Br{wis{Bt{x
+M 0 21085 1 21286 1 *Load The {WJ{Re{mwel{WM{Ra{mste{Wr{x
+G 0 21079 0 *{rf{yi{rr{ye{rs{yt{ro{yn{re{ys{x is given to The {WJ{Re{mwel{WM{Ra{mste{Wr{x
+G 0 21078 0 *{rf{yi{rr{ye{rs{yh{ra{yr{rd{x is given to The {WJ{Re{mwel{WM{Ra{mste{Wr{x
+G 0 21080 0 *{dsteel {wrod{x is given to The {WJ{Re{mwel{WM{Ra{mste{Wr{x
+M 0 21009 1 21292 1 *Load {DD{bemonic {DD{bragon, {DN{barse{x
+G 0 21006 0 *{bf{cerronierr{be {wof {yk{gnowledg{ye{x is given to {DD{bemonic {DD{bragon, {DN{barse{x
+M 0 21064 1 21295 1 *Load {CT{che {YH{yigh {GS{gage {WW{Dort{x
+G 0 21066 0 *{ykey {wto {wk{darla's {wd{wemise{x is given to {CT{che {YH{yigh {GS{gage {WW{Dort{x
+M 0 21072 1 21298 1 *Load {WP{wriest {RH{robb{x
+M 0 21075 1 21298 1 *Load {RP{rr{wie{rs{Rt {wof {RM{ry{wr{ri{Ri{x
+S
+
+
+
+#SHOPS
+21048 5 9 0 0 0 100 100 5 22
+21049 9 5 0 0 0 100 100 5 22
+21050 33 10 0 0 0 100 100 7 20
+21051 33 3 4 2 0 100 100 5 22
+21069 0 0 0 0 0 100 100 0 23
+21073 0 0 0 0 0 100 100 0 23
+21074 0 0 0 0 0 100 100 0 23
+21085 0 8 32 33 30 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#21000
+say Kardis, all mighty Goddess of Destruction, grant me the power to destroy your enemies.
+mob echo {RW{rag{Rn{rar{Rd{x eyes turn a {Rbright red{x.
+mob echo {RW{rag{Rn{rar{Rd{x becomes protected by Kardis' power.
+mob echo {RW{rag{Rn{rar{Rd{x stands back up and launches a fireball at you!!
+mob mload 21013
+~
+#21001
+say Though you have defeated me, you can not stand against my god.
+say Let us see how you fare against {DK{Rardis{m, Goddess of Destruction!{x
+mob echo {RW{rag{Rn{rar{Rd{x utters an incantation.
+mob goto 21299
+mob mload 21293
+mob goto 21043
+mob say She has arisen.  {DK{Rardis{m has come to destroy you all!{x
+mob junk all
+mob oload 21012
+mob oload 21013
+mob oload 21043
+~
+#21002
+if wears $i devotion say {WNow You Die!!{x
+else
+endif
+if carries $i devotion say {WNow You Die!!{x
+wear all
+else
+mob oload 21012
+mob oload 21013
+mob oload 21043
+wear all
+say {WNow You Die!!{x
+endif
+~
+#21003
+mob junk all
+mob oload 21012
+mob oload 21013
+mob oload 21043
+~
+#21004
+if isgood $n
+say You shall die you worthless worm!
+kill $n
+else 
+say I have a task for you $n
+say I wish for you to kill King Fahn for me.
+say Bring me his sword as proof of the deed.
+endif
+~
+#21005
+if isevil $n
+sa Evil is not welcome here.
+kill $n
+endif
+~
+#21006
+say Well done $n.  You have proven you strength to me.
+say May your enemies die a horrible death.
+say This is your reward for a job well done.
+mob oload 21067
+giv bane $n
+mob junk valis
+~
+#21007
+if isneutral $n
+say Have you come to help me slay the dragons?
+say We have a course set for Blue Dragon Island.
+say Speak my name to the Harbormaster and he will take you.
+endif
+~
+#21008
+if isgood $n
+say Where is Ashram.  I must find him and defeat him but I have
+say no time to waste on the likes of him.  Why dont you kill
+sa him for me.  Bring me his sword when it is done.
+if isevil $n
+kill $n
+endif
+endif
+~
+#21009
+say Great work $n.  You are as great of a hero as I am.
+say You should be knighted but I can not.  Take this instead.
+mob oload 21068
+give fury $n
+mob junk saint
+~
+#21016
+say You will feel my hate.  Falaris will destroy you all!
+mob goto 21017
+mob mload 21299
+mob goto 21244
+~
+#21020
+sa {mDeath will come to all.  {DB{ra{grb{ra{Ds{m will own your soul.{x
+mob goto 21257
+mob mload 21291
+mob goto 21244
+~
+#21021
+if carries $i 21002
+if carries $i 21003
+if carries $i 21004
+if carries $i 21005
+if carries $i 21006
+say You have gathered all of the treasures of Kastul.
+say I shall reward you with a great treasure.
+mob echo Karla speaks a magic incantation and forms an item.
+mob oload 21100
+give patch $n
+say Now, be gone.
+mob junk all
+else
+drop all
+endif
+else
+drop all
+endif
+else
+drop all
+endif
+else
+drop all
+endif
+else
+drop all
+endif
+~
+#21022
+say A long time ago, The kingdom of Kastul was overran by barbarians.
+say To protect the greatest objects of magic, they were given to five
+sa ancient dragons to protect.  Bring them back to me and give me this
+say after you have given me the treasures and Ill recognize you as a  
+say true hero of the ages.
+mob oload 21099
+give dragon $n
+~
+#21023
+say You may destroy this body, but my soul will live within you.
+mob echo Karla's circlet hovers above her for a second then forces its way onto your head.
+mob cast 'cure blind' self
+remove circ
+give circ $n
+mob force $n wear circl
+mob echo Your visions whites out for a moment as you feel your mind tingle.
+~
+#21026
+say {mHave you come to learn of {wK{Darla{m?{x
+~
+#21027
+sa A long time ago, there was a kingdom of sorcery.  It was called Kastuul.
+sa Kastuul was ran by a council of wizards, lead by the governor.  One day, 
+sa the neighboring villages of barbarians, who where tired of being ruled
+sa by wizards of Kastuul, revolted and attacked Kastuul.  By sheer numbers,
+sa They started to overrun the kingdom.  As an act of desperation, the wizards
+sa used their magic to enslave five ancient dragons and tasked them with
+sa protecting artifacts of great magical power.  Knowing of her imminent doom, 
+sa Karla used powerful and ancient magic to trap her soul and place it in her
+sa circlet.  She then went into the battle where she was killed.  Her circlet
+sa was picked up by her killer and her soul possessed the man.  Through these 
+sa means, she has lived for over 500 years.  Defeat her if you must, but be
+sa weary, for you will likely be possessed if you succeed.
+~
+#21029
+mob echo {WEtho{w prays to his god.
+say {WF{Dalis, {mall mighty {BG{Wod {wof {WL{Yi{Wg{Yh{Wt{m, please forgive your child for his acts.{x
+sa {mAccept him into your fold.{x
+mob goto 21096
+mob mload 21294
+mob goto 21272
+~
+#21030
+say Well, I guess that's just the way it is...Just my luck.
+sa Cha Za, why were you not with me?
+mob goto 21084
+mob mload 21298
+mob goto 21166
+~
+#21063
+sa You are truly strong.  But can you match the might of {RM{ry{wr{ri{Ri{m?{x
+mob goto 21065
+mob mload 21296
+mob goto 21263
+~
+#21064
+sa My knowledge will go to a waste as I am consumed by the worms.
+sa {DR{wa{Dd{wa {mwill take me to a better life.{x
+mob goto 21134
+mob mload 21297
+mob goto 21295
+~
+#21065
+say {GM{ga{Wr{gf{Ga{m accept me into your warm embrace.{x
+mob mload 21295
+~
+#21067
+say {mFire will ravage this world.  {RB{ya{Yy{Rl{yo{Ys{m, mighty {RG{rod {yof {RF{yir{Re{m, come destroy my eneimes.{x
+mob goto 21126
+mob mload 21292
+mob goto 21064
+~
+#21073
+bow $n
+mob echo The {BHarbor{GMaster{x leads you to a large ship.
+mob echo The ship rolls with the tide as you sail out to sea.
+mob goto 21248
+mob transfer $n
+mob echo You board the ship and set sail.  The waves rock the ship.
+mob echo A man shouts from the crow's nest. {mLand ho{x!!
+mob echo You have arrived to Water Dragon Island.
+mob goto 21184
+~
+#21074
+say So, You wish to depart to Marmo?  Are you sure?  Once we are there,
+say there may be no way to return to the mainland..
+say If you are sure, say to Marmo.
+~
+#21075
+mob echo {wThe {yDock{cmaster{x leads you to a ship and helps you board.
+mob echo The ship rocks to and fro.  You can see storm clouds to the southeast.
+mob goto 21000
+mob echo You beach on the south side of the island.
+mob transfer $n
+say Well we are here..  I'll not wait on you on this evil island.
+mob echo {wThe {yDock{cmaster{x boards his ship and sets sail back to the mainland.
+mob goto 21045
+~
+#21289
+say I bet you have come to learn of {wK{Darla{m.{x
+mob echo {WW{Dort{x thinks for a second.
+say A long time ago, there was a kingdom of sorcery.  It was called Kastuul.
+say Kastuul was ran by a council of wizards, lead by the governor.  One day, 
+say the neighboring villages of barbarians, who where tired of being ruled
+say by wizards of Kastuul, revolted and attacked Kastuul.  By sheer numbers,
+say They started to overrun the kingdom.  As an act of desperation, the wizards
+say used their magic to enslave five ancient dragons and tasked them with
+say protecting artifacts of great magical power.  Knowing of her imminent doom, 
+say Karla used powerful and ancient magic to trap her soul and place it in her
+say circlet.  She then went into the battle where she was killed.  Her circlet
+say was picked up by her killer and her soul possessed the man.  Through these 
+say means, she has lived for over 500 years.  Defeat her if you must, but be
+say weary, for you will likely be possessed if you succeed.
+~
+#21290
+say My knowledge will go to a waste as I am consumed by the worms.
+say {DR{wa{Dd{wa{m will take me to a better life.{x
+mob goto 21134
+mob mload 21297
+mob goto 21295
+~
+#21291
+say Fire shall scorch the land. Burn with my hatred $n.
+mob oload 21297
+~
+#21292
+say Die. Death will claim you in the end and I will get my revenge.
+mob oload 21291
+~
+#21293
+say Destruction will still reign. My disciples will come for you.
+mob oload 21295
+~
+#21294
+say May the light of salvation wash over your heart.
+mob oload 21292
+~
+#21295
+say May your heart be at peace, even though I could not show you the way.
+mob oload 21296
+~
+#21296
+say You are a great hero $n.  Take my weapon as proof!
+mob oload 21299
+~
+#21297
+say My knowledge is no match for you might.  Here is my weapon.
+mob oload 21293
+~
+#21298
+say You have bested me.  Here, take this.
+mob oload 21294
+~
+#21299
+sa You have defeated me.  Here, take my weapons as proof of your heroics.
+mob oload 21292
+~
+#0
+
+#$

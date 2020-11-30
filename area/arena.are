@@ -1,0 +1,649 @@
+#AREADATA
+Name Arena~
+Builders None~
+VNUMs 100 149
+Continent 1
+Credits [------] Kefka   The Arena~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#100
+bouncer~
+The Bouncer~
+The Arena Lounge Bouncer is here.
+~
+~
+jotun~
+AB CDEFGJLTVab 0 0 0
+3000 1000 50d50+500000 0d0+0 999d999+9999 divine
+-100 -100 -100 -100
+CDFGHIKMNOU ABCD 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK huge unknown
+F vul P
+M ACT 100 appears in the room~
+#108
+bouncer lounge~
+The Bouncer~
+The Arena Lounge Bouncer is here.
+~
+~
+jotun~
+AB CDEFGJLTVab 0 0 0
+3000 1000 50d50+500000 0d0+0 999d999+9999 divine
+-100 -100 -100 -100
+CDFGHIKMNOU ABCD 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK huge unknown
+F vul P
+M GRALL 100 100~
+M DELAY 101 100~
+M RANDOM 101 10~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#100
+South West Corner of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D0
+~
+~
+0 0 103
+D1
+~
+~
+0 0 101
+S
+#101
+South Wall of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D0
+~
+~
+0 0 104
+D1
+~
+~
+0 0 102
+D3
+~
+~
+0 0 100
+D4
+~
+~
+0 0 129
+D5
+~
+~
+0 0 111
+S
+#102
+South East Corner of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D0
+~
+~
+0 0 105
+D3
+~
+~
+0 0 101
+S
+#103
+West Wall of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D0
+~
+~
+0 0 106
+D1
+~
+~
+0 0 104
+D2
+~
+~
+0 0 100
+S
+#104
+Center of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being.
+~
+0 33562632 3
+D0
+~
+~
+0 0 107
+D1
+~
+~
+0 0 105
+D2
+~
+~
+0 0 101
+D3
+~
+~
+0 0 103
+D4
+~
+~
+0 0 120
+D5
+~
+~
+0 0 117
+S
+#105
+East Wall of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D0
+~
+~
+0 0 108
+D2
+~
+~
+0 0 102
+D3
+~
+~
+0 0 104
+S
+#106
+North West Corner of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D1
+~
+~
+0 0 107
+D2
+~
+~
+0 0 103
+S
+#107
+North Wall of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D1
+~
+~
+0 0 108
+D2
+~
+~
+0 0 104
+D3
+~
+~
+0 0 106
+D4
+~
+~
+0 0 123
+D5
+~
+~
+0 0 115
+S
+#108
+North East Corner of Arena~
+You are in the Arena. Ceilings can barely be seen in this huge Arena.
+You feel as if you are being watched by some divine being. 
+~
+0 33562632 0
+D2
+~
+~
+0 0 105
+D3
+~
+~
+0 0 107
+S
+#109
+The Arena Attic: South~
+~
+0 33562624 0
+D0
+~
+~
+0 0 110
+D1
+~
+~
+0 0 129
+S
+#110
+The Arena Attic: South~
+~
+0 33562624 0
+D1
+~
+~
+0 0 126
+D2
+~
+~
+0 0 109
+S
+#111
+Arena Basement~
+~
+0 33562624 0
+D0
+~
+~
+0 0 112
+D2
+~
+~
+0 0 115
+D4
+~
+~
+0 0 101
+S
+#112
+Arena Basement~
+~
+0 33562624 0
+D0
+~
+~
+0 0 117
+D2
+~
+~
+0 0 111
+S
+#113
+Arena Basement~
+~
+0 33562624 0
+D1
+~
+~
+0 0 119
+D3
+~
+~
+0 0 114
+S
+#114
+Arena Basement~
+~
+0 33562624 0
+D1
+~
+~
+0 0 113
+D3
+~
+~
+0 0 117
+S
+#115
+Arena Basement~
+~
+0 33562624 0
+D0
+~
+~
+0 0 111
+D2
+~
+~
+0 0 116
+D4
+~
+~
+0 0 107
+S
+#116
+Arena Basement~
+~
+0 33562624 0
+D0
+~
+~
+0 0 115
+D2
+~
+~
+0 0 117
+S
+#117
+Arena Basement~
+~
+0 33562624 3
+D0
+~
+~
+0 0 116
+D1
+~
+~
+0 0 114
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 118
+D4
+~
+~
+0 0 104
+S
+#118
+Arena Basement~
+~
+0 33562624 0
+D1
+~
+~
+0 0 117
+D3
+~
+~
+0 0 119
+S
+#119
+Arena Basement~
+~
+0 33562624 0
+D1
+~
+~
+0 0 118
+D3
+~
+~
+0 0 113
+S
+#120
+The Arena Attic: Center~
+~
+0 33562624 0
+D1
+~
+~
+0 0 121
+D2
+~
+~
+0 0 126
+D3
+~
+~
+0 0 125
+D5
+~
+~
+0 0 104
+S
+#121
+The Arena Attic: North~
+~
+0 33562624 0
+D0
+~
+~
+0 0 122
+D3
+~
+~
+0 0 120
+S
+#122
+The Arena Attic: North~
+~
+0 33562624 0
+D2
+~
+~
+0 0 121
+D3
+~
+~
+0 0 123
+S
+#123
+The North Stairs~
+~
+0 33562624 0
+D1
+~
+~
+0 0 122
+D3
+~
+~
+0 0 124
+D5
+~
+~
+0 0 107
+S
+#124
+The Arena Attic: North~
+~
+0 33562624 0
+D1
+~
+~
+0 0 123
+D2
+~
+~
+0 0 125
+S
+#125
+The Arena Attic: North~
+~
+0 33562624 0
+D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 120
+S
+#126
+The Arena Attic: Center~
+~
+0 33562624 0
+D0
+~
+~
+0 0 120
+D1
+~
+~
+0 0 127
+D3
+~
+~
+0 0 110
+D5
+~
+~
+0 0 104
+S
+#127
+The Arena Attic: South~
+~
+0 33562624 0
+D2
+~
+~
+0 0 128
+D3
+~
+~
+0 0 126
+S
+#128
+The Arena Attic: South~
+~
+0 33562624 0
+D0
+~
+~
+0 0 127
+D3
+~
+~
+0 0 129
+S
+#129
+The South Stairs~
+~
+0 33562624 0
+D1
+~
+~
+0 0 128
+D3
+~
+~
+0 0 109
+D5
+~
+~
+0 0 101
+S
+#130
+Arena Lounge~
+Your challenge is over.  Hang out here if you want.  You can recall out.
+You can also open the door down to MS.
+~
+0 1028 0
+D5
+~
+~
+1 0 3014
+S
+#131
+Wait here until the match ends.~
+~
+0 9220 0
+S
+#135
+~
+~
+0 4 0
+S
+#136
+~
+~
+0 4 0
+S
+#137
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 130 5 1 The down door of Arena Lounge is closed
+M 0 108 1 130 1 *Load The Bouncer
+S
+
+
+
+#SHOPS
+108 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#100
+say You have thirty seconds to leave this room. Have a nice day.
+mob remember $n
+mob delay 6
+~
+#101
+mob echo $i grabs you by the ear and drags you out of the room.
+open down
+mob cast 'faerie fog'
+mob force 13. stand
+mob force 12. stand
+mob force 11. stand
+mob force 10. stand
+mob force 9. stand
+mob force 8. stand
+mob force 7. stand
+mob force 6. stand
+mob force 5. stand
+mob force 4. stand
+mob force 3. stand
+mob force 2. stand
+mob force 1. stand
+mob force 13. down
+mob force 12. down
+mob force 11. down
+mob force 10. down
+mob force 9. down
+mob force 8. down
+mob force 7. down
+mob force 6. down
+mob force 5. down
+mob force 4. down
+mob force 3. down
+mob force 2. down
+mob force 1. down
+mob goto 3014
+mob echo $I dusts off his hands and goes back to the Arena Lounge.
+mob goto 130
+~
+#0
+
+#$

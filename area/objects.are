@@ -1,0 +1,2472 @@
+#AREADATA
+Name Core Objects~
+Builders Unlinked~
+VNUMs 700 999
+Continent 0
+Credits [-----] Tas/Bree     Core Objects~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#700
+ring~
+ring~
+A ring is here.~
+unknown~
+jewelry ORYd AB
+0 0 0 0 0
+1 2 1000 P
+#701
+necklace~
+necklace~
+A necklace is here.~
+unknown~
+armor ORYd AC
+CD CD CD CD 0
+75 3 75000 P
+#702
+amulet~
+amulet~
+A amulet is here.~
+unknown~
+armor ORYd AC
+D D D D 0
+50 3 50000 P
+#703
+cloak~
+cloak~
+A cloak is here.~
+unknown~
+armor ORYd AC
+C C C C 0
+1 3 1000 P
+#704
+collar~
+collar~
+A collar is here.~
+unknown~
+armor ORYd AC
+BC BC BC BC 0
+25 3 25000 P
+#705
+leather armor ~
+leather armor~
+Leather armor is here.~
+unknown~
+armor ORYd AD
+AC AC AC AC 0
+1 8 1000 P
+#706
+studded leather ~
+studded leather~
+Studded leather is here.~
+unknown~
+armor ORYd AD
+ABC ABC ABC BC 0
+15 10 15000 P
+#707
+ringmail  ~
+ringmail~
+Ringmail  is here.~
+unknown~
+armor ORYd AD
+AD AD AD AD 0
+30 15 30000 P
+#708
+chainmail  ~
+chainmail~
+Chainmail  is here.~
+unknown~
+armor ORYd AD
+CD CD CD CD 0
+45 15 45000 P
+#709
+scalemail  ~
+scalemail~
+Scalemail  is here.~
+unknown~
+armor ORYd AD
+ABCD ABCD ABCD ABCD 0
+60 15 60000 P
+#710
+torso  ~
+torso~
+Torso  is here.~
+unknown~
+armor ORYd AD
+ABE ABE ABE ABE 0
+75 17 75000 P
+#711
+breastplate  ~
+breastplate~
+Breastplate  is here.~
+unknown~
+armor ORYd AD
+ABCE ABCE ABCE ABCE 0
+90 17 90000 P
+#712
+platemail  ~
+platemail~
+Platemail  is here.~
+unknown~
+armor ORYd AD
+BDE BDE BDE BDE 0
+95 18 95000 P
+#713
+Gothic Platemail random~
+gothic platemail~
+Gothic platemail~
+unknown~
+armor ORYd AD
+DF DF DF DF 0
+101 18 101000 P
+#714
+cap  ~
+cap~
+Cap  is here.~
+unknown~
+armor ORYd AE
+AB AB AB AB 0
+1 5 1000 P
+#715
+hood  ~
+hood~
+Hood  is here.~
+unknown~
+armor ORYd AE
+BC BC BC BC 0
+15 5 15000 P
+#716
+helmet  ~
+helmet~
+Helmet  is here.~
+unknown~
+armor ORYd AE
+AD AD AD AD 0
+30 10 30000 P
+#717
+helm  ~
+helm~
+Helm  is here.~
+unknown~
+armor ORYd AE
+CD CD CD CD 0
+45 10 45000 P
+#718
+full helm ~
+full helm~
+Full helm is here.~
+unknown~
+armor ORYd AE
+BCD BCD BCD BCD 0
+60 11 60000 P
+#719
+great helm ~
+great helm~
+Great helm is here.~
+unknown~
+armor ORYd AE
+ABCD ABCD ABCD ABCD 0
+75 12 75000 P
+#720
+tiara  ~
+tiara~
+Tiara  is here.~
+unknown~
+armor ORYd AE
+AE AE AE AE 0
+90 8 90000 P
+#721
+crown  ~
+crown~
+Crown  is here.~
+unknown~
+armor ORYd AE
+ABE ABE ABE ABE 0
+101 10 101000 P
+#722
+mask  ~
+mask~
+Mask  is here.~
+unknown~
+armor ORYd AR
+ABCD ABCD ABCD ABCD 0
+66 5 66000 P
+#723
+veil  ~
+veil~
+Veil  is here.~
+unknown~
+armor ORYd AR
+AB AB AB AB 0
+1 3 1000 P
+#724
+visor  ~
+visor~
+Visor  is here.~
+unknown~
+armor ORYd AR
+BCD BCD BCD BCD 0
+101 7 101000 P
+#725
+pants  ~
+pants~
+Pants  is here.~
+unknown~
+armor ORYd AF
+AB AB AB AB 0
+1 5 1000 P
+#726
+leggings  ~
+leggings~
+Leggings  is here.~
+unknown~
+armor ORYd AF
+CD CD CD CD 0
+50 7 50000 P
+#727
+legplates  ~
+legplates~
+Legplates  is here.~
+unknown~
+armor ORYd AF
+AE AE AE AE 0
+101 12 101000 P
+#728
+gloves  ~
+gloves~
+Gloves  is here.~
+unknown~
+armor ORYd AH
+B B B B 0
+1 4 1000 P
+#729
+chain gloves ~
+chain gloves~
+Chain gloves is here.~
+unknown~
+armor ORYd AH
+D D D D 0
+50 7 50000 P
+#730
+light gauntlets ~
+light gauntlets~
+Light gauntlets is here.~
+unknown~
+armor ORYd AH
+AC AC AC AC 0
+25 8 25000 P
+#731
+gauntlets  ~
+gauntlets~
+Gauntlets  is here.~
+unknown~
+armor ORYd AH
+BD BD BD BD 0
+75 10 75000 P
+#732
+fists  ~
+fists~
+Fists  is here.~
+unknown~
+armor ORYd AH
+ABCD ABCD ABCD ABCD 0
+101 8 101000 P
+#733
+boots~
+boots~
+Boots are here.~
+unknown~
+armor ORYd AG
+B B B B 0
+1 4 1000 P
+#734
+chain boots ~
+chain boots~
+Chain boots is here.~
+unknown~
+armor ORYd AG
+D D D D 0
+33 7 33000 P
+#735
+plate boots ~
+plate boots~
+Plate boots is here.~
+unknown~
+armor ORYd AG
+CD CD CD CD 0
+66 8 66000 P
+#736
+greaves  ~
+greaves~
+Greaves  is here.~
+unknown~
+armor ORYd AG
+ADE ADE ADE ADE 0
+101 10 101000 P
+#737
+sleeves  ~
+sleeves~
+Sleeves  is here.~
+unknown~
+armor ORYd AI
+B B B B 0
+1 4 1000 P
+#738
+armguards  ~
+armguards~
+Armguards  is here.~
+unknown~
+armor ORYd AI
+AD AD AD AD 0
+50 7 50000 P
+#739
+arm plates ~
+arm plates~
+Arm plates is here.~
+unknown~
+armor ORYd AI
+BCD BCD BCD BCD 0
+101 9 101000 P
+#740
+buckler  ~
+buckler~
+Buckler  is here.~
+unknown~
+armor ORYd AJ
+C C C C 0
+1 7 1000 P
+#741
+shield  ~
+shield~
+Shield  is here.~
+unknown~
+armor ORYd AJ
+BD BD BD BD 0
+20 10 20000 P
+#742
+kite shield ~
+kite shield~
+Kite shield is here.~
+unknown~
+armor ORYd AJ
+AE AE AE AE 0
+40 10 40000 P
+#743
+tower shield ~
+tower shield~
+Tower shield is here.~
+unknown~
+armor ORYd AJ
+BCE BCE BCE BCE 0
+60 15 60000 P
+#744
+spiked shield ~
+spiked shield~
+Spiked shield is here.~
+unknown~
+armor ORYd AJ
+ABF ABF ABF ABF 0
+80 20 80000 P
+#745
+gothic shield ~
+gothic shield~
+Gothic shield is here.~
+unknown~
+armor ORYd AJ
+DF DF DF DF 0
+101 20 101000 P
+#746
+cape  ~
+cape~
+Cape  is here.~
+unknown~
+armor ORYd AK
+B B B B 0
+1 5 1000 P
+#747
+robe  ~
+robe~
+Robe  is here.~
+unknown~
+armor ORYd AK
+AC AC AC AC 0
+25 7 25000 P
+#748
+overcoat  ~
+overcoat~
+Overcoat  is here.~
+unknown~
+armor ORYd AK
+BD BD BD BD 0
+50 9 50000 P
+#749
+globe  ~
+globe~
+Globe  is here.~
+unknown~
+armor ORYd AK
+CD CD CD CD 0
+75 3 75000 P
+#750
+aura  ~
+aura~
+Aura  is here.~
+unknown~
+armor ORYd AK
+ADE ADE ADE ADE 0
+101 1 101000 P
+#751
+sash  ~
+sash~
+Sash  is here.~
+unknown~
+armor ORYd AL
+AB AB AB AB 0
+1 4 1000 P
+#752
+girdle  ~
+girdle~
+Girdle  is here.~
+unknown~
+armor ORYd AL
+BC BC BC BC 0
+25 7 25000 P
+#753
+girth  ~
+girth~
+Girth  is here.~
+unknown~
+armor ORYd AL
+ABD ABD ABD ABD 0
+50 8 50000 P
+#754
+belt  ~
+belt~
+Belt  is here.~
+unknown~
+armor ORYd AL
+BD BD BD BD 0
+75 5 75000 P
+#755
+plate belt ~
+plate belt~
+Plate belt is here.~
+unknown~
+armor ORYd AL
+ABCD ABCD ABCD ABCD 0
+101 9 101000 P
+#756
+wristguard  ~
+wristguard~
+Wristguard  is here.~
+unknown~
+armor ORYd AM
+B B B B 0
+1 5 1000 P
+#757
+bracer  ~
+bracer~
+Bracer is here.~
+unknown~
+armor ORYd AM
+BD BD BD BD 0
+50 3 50000 P
+#758
+vambraces  ~
+vambraces~
+Vambraces  is here.~
+unknown~
+armor ORYd AM
+AE AE AE AE 0
+101 7 101000 P
+#759
+faith  ~
+faith~
+Faith  is here.~
+unknown~
+armor ORYd AV
+CE CE CE CE 0
+101 3 101000 P
+#760
+mark  ~
+mark~
+Mark  is here.~
+unknown~
+armor ORYd AU
+E E E E 0
+101 3 101000 P
+#761
+hand axe ~
+hand axe~
+Hand axe is here.~
+unknown~
+weapon ORYd AN
+axe 4 4 chop 0
+1 4 1000 P
+#762
+axe  ~
+axe~
+Axe  is here.~
+unknown~
+weapon ORYd AN
+axe 5 6 chop 0
+15 6 15000 P
+#763
+throwing axe ~
+throwing axe~
+Throwing axe is here.~
+unknown~
+weapon ORYd AN
+axe 8 7 chop 0
+30 5 30000 P
+#764
+military pick ~
+military pick~
+Military pick is here.~
+unknown~
+weapon ORYd AN
+axe 9 9 chop 0
+45 10 45000 P
+#765
+war axe ~
+war axe~
+War axe is here.~
+unknown~
+weapon ORYd AN
+axe 11 10 chop 0
+60 12 60000 P
+#766
+broad axe ~
+broad axe~
+Broad axe is here.~
+unknown~
+weapon ORYd AN
+axe 12 12 chop 0
+75 13 75000 P
+#767
+battle axe ~
+battle axe~
+Battle axe is here.~
+unknown~
+weapon ORYd AN
+axe 11 15 chop 0
+90 15 90000 P
+#768
+great axe ~
+great axe~
+Great axe is here.~
+unknown~
+weapon ORYd AN
+axe 9 22 chop 0
+101 17 101000 P
+#769
+dagger  ~
+dagger~
+Dagger  is here.~
+unknown~
+weapon ORYd AN
+dagger 4 4 pierce 0
+1 4 1000 P
+#770
+dirk  ~
+dirk~
+Dirk  is here.~
+unknown~
+weapon ORYd AN
+dagger 10 9 pierce 0
+50 4 50000 P
+#771
+kris  ~
+kris~
+Kris  is here.~
+unknown~
+weapon ORYd AN
+dagger 12 12 pierce 0
+75 5 75000 P
+#772
+blade  ~
+blade~
+Blade  is here.~
+unknown~
+weapon ORYd AN
+dagger 19 10 pierce 0
+101 6 101000 P
+#773
+throwing knife ~
+throwing knife~
+Throwing knife is here.~
+unknown~
+weapon ORYd AN
+dagger 4 12 pierce 0
+25 4 25000 P
+#774
+flail  ~
+flail~
+Flail  is here.~
+unknown~
+weapon ORYd AN
+flail 4 4 smash 0
+1 6 1000 P
+#775
+morning star ~
+morning star~
+Morning star is here.~
+unknown~
+weapon ORYd AN
+flail 12 12 smash 0
+75 7 75000 P
+#776
+ball chain~
+ball and chain~
+A ball and chain is here.~
+unknown~
+weapon ORYd AN
+flail 4 12 smash 0
+25 8 25000 P
+#777
+spiked flail ~
+spiked flail~
+Spiked flail is here.~
+unknown~
+weapon ORYd AN
+flail 10 9 smash 0
+50 8 50000 P
+#778
+great flail ~
+great flail~
+Great flail is here.~
+unknown~
+weapon ORYd AN
+flail 10 19 slice 0
+101 1 101000 P
+#779
+club  ~
+club~
+Club  is here.~
+unknown~
+weapon ORYd AN
+mace 4 4 pound 0
+1 7 1000 P
+#780
+spiked club ~
+spiked club~
+Spiked club is here.~
+unknown~
+weapon ORYd AN
+mace 5 7 pound 0
+20 8 20000 P
+#781
+mace  ~
+mace~
+Mace  is here.~
+unknown~
+weapon ORYd AN
+mace 9 8 pound 0
+40 7 40000 P
+#782
+war hammer ~
+war hammer~
+War hammer is here.~
+unknown~
+weapon ORYd AN
+mace 11 10 pound 0
+60 10 60000 P
+#783
+maul  ~
+maul~
+Maul  is here.~
+unknown~
+weapon ORYd AN
+mace 13 12 pound 0
+80 9 80000 P
+#784
+great maul ~
+great maul~
+Great maul is here.~
+unknown~
+weapon ORYd AN
+mace 12 18 pound F
+101 12 10100 P
+#785
+bardiche  ~
+bardiche~
+Bardiche  is here.~
+unknown~
+weapon ORYd AN
+polearm 4 4 thrust F
+1 10 1000 P
+#786
+voulge  ~
+voulge~
+Voulge  is here.~
+unknown~
+weapon ORYd AN
+polearm 5 7 thrust F
+17 10 17000 P
+#787
+scythe  ~
+scythe~
+Scythe  is here.~
+unknown~
+weapon ORYd AN
+polearm 6 10 slice F
+34 12 34000 P
+#788
+poleaxe  ~
+poleaxe~
+Poleaxe  is here.~
+unknown~
+weapon ORYd AN
+polearm 10 9 cleave F
+51 14 51000 P
+#789
+halberd  ~
+halberd~
+Halberd  is here.~
+unknown~
+weapon ORYd AN
+polearm 8 16 slice F
+68 15 68000 P
+#790
+ranseur  ~
+ranseur~
+Ranseur  is here.~
+unknown~
+weapon ORYd AN
+polearm 9 18 thrust F
+85 17 85000 P
+#791
+war scythe ~
+war scythe~
+War scythe is here.~
+unknown~
+weapon ORYd AN
+polearm 9 24 slash F
+101 20 101000 P
+#792
+javelin  ~
+javelin~
+Javelin  is here.~
+unknown~
+weapon ORYd AN
+staff 4 4 thrust F
+1 11 1000 P
+#793
+spear  ~
+spear~
+Spear  is here.~
+unknown~
+weapon ORYd AN
+staff 4 10 thrust F
+20 9 20000 P
+#794
+glaive  ~
+glaive~
+Glaive  is here.~
+unknown~
+weapon ORYd AN
+staff 4 20 stab F
+40 13 40000 P
+#795
+spiculum~
+spiculum~
+Spiculum is here.~
+unknown~
+weapon ORYd AN
+staff 5 42 thrust 0
+101 8 101000 P
+#796
+trident  ~
+trident~
+Trident  is here.~
+unknown~
+weapon ORYd AN
+staff 13 12 stab F
+80 12 80000 P
+#797
+pike  ~
+pike~
+Pike  is here.~
+unknown~
+weapon ORYd AN
+staff 4 50 stab F
+101 14 101000 P
+#798
+shortsword  ~
+shortsword~
+Shortsword  is here.~
+unknown~
+weapon ORYd AN
+sword 4 4 slash 0
+1 8 1000 P
+#799
+scimitar  ~
+scimitar~
+Scimitar  is here.~
+unknown~
+weapon ORYd AN
+sword 5 5 slash 0
+15 9 15000 P
+#800
+saber  ~
+saber~
+Saber  is here.~
+unknown~
+weapon ORYd AN
+sword 8 7 slash 0
+30 9 30000 P
+#801
+falchion  ~
+falchion~
+Falchion  is here.~
+unknown~
+weapon ORYd AN
+sword 9 9 slash 0
+45 9 45000 P
+#802
+longsword  ~
+longsword~
+Longsword  is here.~
+unknown~
+weapon ORYd AN
+sword 11 10 slash 0
+60 10 60000 P
+#803
+two-handed sword ~
+two-handed sword~
+Two-handed sword is here.~
+unknown~
+weapon ORYd AN
+sword 15 14 slash F
+101 15 75000 P
+#804
+claymore  ~
+claymore~
+Claymore  is here.~
+unknown~
+weapon ORYd AN
+sword 11 16 slash 0
+90 15 90000 P
+#805
+bastard sword ~
+bastard sword~
+Bastard sword is here.~
+unknown~
+weapon ORYd AN
+sword 9 22 slash 0
+101 15 101000 P
+#806
+lash  ~
+lash~
+Lash  is here.~
+unknown~
+weapon ORYd AN
+whip 4 4 sting 0
+1 5 1000 P
+#807
+whip  ~
+whip~
+Whip  is here.~
+unknown~
+weapon ORYd AN
+whip 11 10 sting 0
+60 6 60000 P
+#808
+chain  ~
+chain~
+Chain  is here.~
+unknown~
+weapon ORYd AN
+whip 13 12 whip 0
+80 8 80000 P
+#809
+strap  ~
+strap~
+Strap  is here.~
+unknown~
+weapon ORYd AN
+whip 5 7 whip 0
+20 4 20000 P
+#810
+bullwhip  ~
+bullwhip~
+Bullwhip  is here.~
+unknown~
+weapon ORYd AN
+whip 10 19 sting 0
+101 7 101000 P
+#811
+crop  ~
+crop~
+Crop  is here.~
+unknown~
+weapon ORYd AN
+whip 9 8 whip 0
+40 4 40000 P
+#812
+staff  ~
+staff~
+Staff  is here.~
+unknown~
+weapon ORYd AN
+exotic 4 4 none F
+1 6 1000 P
+#813
+war staff ~
+war staff~
+War staff is here.~
+unknown~
+weapon ORYd AN
+staff 19 11 beating F
+101 8 33000 P
+#814
+sceptre  ~
+sceptre~
+Sceptre  is here.~
+unknown~
+weapon ORYd AN
+mace 10 12 wrath F
+66 10 66000 P
+#815
+grand sceptre ~
+grand sceptre~
+Grand sceptre is here.~
+unknown~
+weapon ORYd AN
+mace 6 38 fury F
+101 12 101000 P
+#816
+long bow ~
+long bow~
+Long bow is here.~
+unknown~
+weapon ORYd AN
+exotic 4 4 pierce F
+1 8 1000 P
+#817
+composite bow ~
+composite bow~
+Composite bow is here.~
+unknown~
+weapon ORYd AN
+exotic 4 12 pierce F
+25 9 25000 P
+#818
+battle bow ~
+battle bow~
+Battle bow is here.~
+unknown~
+weapon ORYd AN
+exotic 10 9 pierce F
+50 12 50000 P
+#819
+crossbow  ~
+crossbow~
+Crossbow  is here.~
+unknown~
+weapon ORYd AN
+exotic 13 11 pierce F
+75 10 75000 P
+#820
+heavy crossbow ~
+heavy crossbow~
+Heavy crossbow is here.~
+unknown~
+weapon ORYd AN
+exotic 10 23 pierce F
+101 15 101000 P
+#821
+talon  ~
+talon~
+Talon  is here.~
+unknown~
+jewelry ORYd AB
+0 0 0 0 0
+101 1 101000 P
+#822
+claw  ~
+claw~
+Claw  is here.~
+unknown~
+jewelry ORYd AB
+0 0 0 0 0
+66 1 66000 P
+#823
+band  ~
+band~
+Band  is here.~
+unknown~
+jewelry ORYd AB
+0 0 0 0 0
+33 2 33000 P
+#824
+teeth  ~
+teeth~
+Teeth  is here.~
+unknown~
+armor ORYd AR
+AD AD AD AD 0
+33 4 33000 P
+#825
+medallion  ~
+medallion~
+Medallion  is here.~
+unknown~
+armor ORYd AC
+BCD BCD BCD BCD 0
+101 2 101000 P
+#850
+stormshield storm shield~
+{^Storm{&Shield{x~
+The infamous {^Storm{&Shield{x lies here humming with power.~
+diamond~
+armor ABORSTY AJ
+AEF AEF AEF CDEF 0
+101 1 101000 P
+A
+19 14
+A
+5 -5
+A
+3 -4
+A
+20 -2
+A
+9 6
+A
+13 200
+A
+17 -5
+#851
+morwen blade sword~
+{*Mo{7rw{&en's B{7la{*de{x~
+{*Mo{7rw{&en's B{7la{*de{x lies here shimmering with a white aura.~
+unknown~
+weapon ABORY AN
+sword 4 56 divine E
+101 1 11111 P
+A
+18 11
+A
+19 11
+A
+13 -111
+A
+2 1
+A
+1 1
+A
+20 11
+#852
+Thor sash~
+{3T{#ho{3r's {*s{7a{&s{*h{x~
+{3T{#ho{3r's {*s{7a{&s{*h{x lies here, waiting for it's owner.~
+unknown~
+armor ABORSY AL
+ACDE ACDE ACDE CDE 0
+101 1 50000 P
+A
+17 -10
+A
+5 -2
+A
+19 13
+A
+28 5
+A
+13 100
+A
+12 100
+#853
+scavenger carapace~
+{8Sca{wven{8ger Car{wap{8ace{x~
+A carapace is here, looking to be scavenged.~
+unknown~
+armor BCFORY AD
+BCDE BCDE BCDE BCDE 0
+80 5 80000 P
+A
+19 11
+A
+5 -4
+A
+13 100
+A
+18 10
+#854
+shroud buri~
+{WB{wur{ri's S{Rhr{ro{wu{Wd{x~
+A shroud belonging to the oldest of gods lies here.~
+unknown~
+armor AGORS AK
+ABF ABF ABF ABF 0
+101 5 95000 P
+A
+18 10
+A
+13 115
+A
+19 10
+#855
+bramble~
+{YBr{yamb{Yle{x~
+A thorned ring lies here.~
+unknown~
+jewelry ORY AB
+0 0 0 0 0
+65 1 25000 P
+A
+2 -3
+A
+13 75
+A
+1 -3
+A
+19 23
+#856
+nightscape cape~
+{8Nightscape{x~
+A fluttering thick black cape is here.~
+unknown~
+armor ORY AC
+ACDE ACDE ACDE ACDE 0
+101 2 70000 P
+A
+13 100
+A
+18 9
+A
+14 -200
+A
+19 10
+A
+2 2
+A
+20 -2
+#857
+optic amulet~
+an {bO{Bp{Wt{Bi{bc{x {wAmulet{x~
+An amulet with a small precision lens lies here.~
+unknown~
+armor ORY AC
+DF DF DF DF 0
+100 2 100000 P
+A
+20 -5
+F
+A 0 0 J
+F
+A 0 0 F
+A
+28 3
+#858
+double exp voucher~
+{YA Double EXP Voucher{x~
+A voucher for one hour of double exp lies here.~
+unknown~
+treasure OR AO
+0 0 0 0 0
+1 4 35000 P
+A
+5 5
+E
+voucher~
+Give this to an immortal for one hour of Double EXP!
+~
+#859
+crimson visage~
+{RC{rrimson {RV{risage{x~
+The red visage of pain lies here.~
+unknown~
+armor ORY AR
+BD BD BD BD 0
+101 3 101000 P
+A
+4 -5
+A
+19 24
+A
+13 -200
+A
+18 17
+A
+14 -150
+A
+20 -2
+#860
+arkaines valor~
+{RA{rr{yk{Ya{yi{rn{Re{w's {WV{walor{x~
+The armor of an ancient king lies here.~
+unknown~
+armor ORY AD
+DF ABF ABF ABF 0
+101 15 101000 P
+A
+5 2
+A
+12 -150
+A
+13 200
+A
+18 15
+#861
+powergreaves greaves~
+{WP{Rower{WG{Rreaves{x~
+A pair of greaves lies here, glowing with power.~
+unknown~
+armor ORY AF
+CE CE CE CE 0
+101 8 55000 P
+A
+19 20
+A
+18 -15
+A
+26 3
+A
+28 2
+A
+1 2
+#862
+quickstrike~
+{CQui{cck{CStr{cike{x~
+A silver wristguard is here, humming~
+unknown~
+armor BORY AM
+BCDE BCDE BCDE BCDE 0
+101 1 70000 P
+A
+19 5
+A
+18 15
+A
+2 2
+A
+13 25
+#863
+thunder foot~
+{bTh{cund{ber{x {YFoot{x~
+Feet of thunder crackle with angry noises.~
+unknown~
+armor ORY AG
+BCDE BCDE BCDE CE 0
+101 7 40000 P
+A
+18 10
+A
+20 -6
+A
+19 5
+#864
+magicite armband~
+{BM{Ya{Gg{Ci{Wc{Ri{Mt{8e{x~
+Multi-colored armbands lie here, sparking.~
+unknown~
+armor ORY AM
+BCDE BCDE BCDE DF 0
+101 2 90000 P
+A
+20 -7
+A
+14 -200
+A
+13 200
+A
+18 -10
+#865
+gibous moon~
+{8Gi{wbo{Wus {WM{woon{x~
+A massive polearm lies here~
+unknown~
+weapon ORY AN
+polearm 10 21 fury EFJ
+101 10 99000 P
+A
+18 -10
+A
+19 15
+#866
+constriction ring~
+{GC{gonstriction{x ring~
+A small, tight band of green lies here.~
+unknown~
+armor ORY AB
+BCDE BCDE BCDE BCDE 0
+101 1 50000 P
+A
+2 -3
+A
+20 -6
+A
+12 50
+A
+28 3
+#867
+nightfang fang~
+{8Night{GF{gang{x~
+A dagger is here, dripping with venom.~
+unknown~
+weapon ORY AN
+dagger 12 16 pierce EH
+101 2 50000 P
+A
+19 23
+A
+1 -2
+A
+5 -3
+#868
+needler~
+the {YN{yeedler{x~
+A rapid-fire bow lies here.~
+unknown~
+weapon ORY AN
+exotic 56 1 sting CE
+60 2 60000 P
+A
+18 -12
+A
+19 23
+#869
+pica stone~
+the {CP{Wi{cc{wa {8Stone{x~
+A strange rock lies here~
+unknown~
+jewelry ORY AO
+0 0 0 0 0
+20 5 20000 P
+A
+3 2
+A
+1 2
+A
+2 2
+A
+5 2
+A
+4 2
+#870
+stride ankleguards~
+{Y.{WStride{Y.{x~
+White ankleguards lie here.~
+unknown~
+jewelry ORY AT
+0 0 0 0 0
+101 3 100000 P
+A
+13 125
+A
+12 -100
+F
+A 0 0 P
+A
+18 5
+A
+19 17
+A
+4 -2
+A
+14 100
+A
+17 -15
+#871
+mjollnir~
+{BMj{bol{8ln{wi{Wr{x~
+The hammer of Thor is here.~
+unknown~
+weapon ORY AN
+mace 12 17 pound G
+101 40 101000 P
+A
+18 -20
+A
+19 19
+A
+1 2
+#872
+heimdall warhelm~
+{1H{!e{3i{#m{&d{#a{3l{!l{7'{1s {$Wa{4rh{$elm{x~
+The warhelm of Heimdall lies here.~
+unknown~
+armor ORY AE
+BCDE BCDE BCDE BCDE 0
+101 1 75000 P
+A
+19 20
+A
+20 1
+A
+4 -2
+A
+3 -2
+A
+17 -10
+#873
+snotra's wisdom ring~
+{!S{3n{#o{7t{#r{3a{*'{!s {@W{3isdo{#m{x~
+A ring lies here, overflowing with knowledge.~
+unknown~
+armor ABORY AB
+BD BD BD BD 0
+15 1 15000 P
+A
+3 1
+A
+4 1
+A
+5 1
+#874
+smasher mace~
+{!S{1m{!a{1s{!h{1e{!r{x~
+A mace is lying here ready to smash something.~
+unknown~
+weapon BORY AN
+mace 24 8 flash AEN
+101 1 60000 P
+A
+19 10
+A
+12 -200
+A
+13 -100
+A
+18 5
+#875
+loki's boots~
+{#L{@o{#k{@i{1'{#s {7Boots{x~
+A pair of trickster boots lies here.~
+unknown~
+armor BORY AG
+BCF BCF BCF ABF 0
+101 1 101000 P
+A
+26 2
+A
+13 200
+A
+18 5
+A
+1 -3
+A
+20 5
+A
+19 18
+#876
+tyr's guidance rage~
+{^T{6yr's {&G{7uidance{x~
+A feeling of rage surrounds you.~
+unknown~
+armor Y AQ
+ABF ABF ABF ABF 0
+101 1 101000 P
+A
+13 100
+A
+14 -200
+A
+19 15
+A
+5 -2
+A
+20 -2
+A
+12 25
+#877
+flame armor flamearmor~
+{#Fl{!a{1meA{!rm{#or{x~
+A suit of flaming armor lies here.~
+unknown~
+armor AORY AD
+DF DF DF DF 0
+90 1 90000 P
+A
+13 150
+A
+5 -3
+A
+19 10
+A
+19 7
+#878
+Mayorl's Stiletto dagger~
+{@Mayorl's {^St{&il{7et{*to{x~
+A sharp dagger lies here.~
+unknown~
+weapon ORY AN
+dagger 10 18 stab N
+101 1 30000 P
+A
+17 -65
+A
+28 20
+A
+19 -10
+A
+18 -10
+#879
+drojakaar's might patch~
+{&Dro{7jak{*aar{@'{&s {3M{#i{@g{#h{3t{x~
+A small patch lies at your feet.~
+unknown~
+armor Y AW
+ACE ACE ACE ACE 0
+101 1 80000 P
+A
+5 -3
+A
+1 3
+A
+19 19
+A
+18 5
+#880
+Bhelliom sword~
+{@B{3he{#ll{3io{@m{x~
+A mystical sword hums with power at your feet.~
+unknown~
+weapon ABGORY AN
+sword 11 19 psias EF
+101 1 101000 P
+A
+19 12
+A
+26 3
+#881
+voices earring~
+{@V{*oi{*ce{@s{x~
+The voices in your head lies here.~
+unknown~
+jewelry BORY AS
+0 0 0 0 0
+101 1 99000 P
+A
+13 100
+A
+9 5
+A
+4 -3
+A
+17 -15
+A
+19 15
+A
+12 100
+A
+28 5
+#882
+thor's burden cloak~
+{#T{3h{#o{3r{*'{#s {!B{1urde{!n{x~
+A cloak woven from Thor's burdens lies here.~
+unknown~
+armor ORY AC
+CE ABCD ABCD CE 0
+101 1 75000 P
+A
+18 10
+A
+2 -3
+A
+19 20
+A
+13 25
+#883
+Naeic mask~
+{@N{#a{3e{#i{@c'{#s {&M{7as{*k{x~
+A mask lies here, shaped like it's owner.~
+unknown~
+armor ORY AR
+BCDE BCDE BCDE BCDE 0
+101 1 40000 P
+A
+9 8
+A
+2 -2
+A
+19 13
+A
+18 5
+A
+13 75
+#884
+Aeternal's Staff~
+{#A{@e{^t{@e{#r{^n{@a{#l{&'s {@S{*ta{@ff{x~
+The Aeternal's staff lies here, begging you to use it.~
+unknown~
+weapon ORY AN
+staff 10 20 thrust EF
+101 1 101000 P
+A
+12 300
+A
+28 10
+A
+19 10
+#885
+Tuo's Scales~
+{@T{2u{@o's {&Sc{7al{*es{x~
+A dragon's scales lie here, waiting to be worn.~
+unknown~
+armor ORY AK
+DF DF DF DF 0
+101 1 50000 P
+A
+19 10
+A
+28 5
+#886
+sunsong sun song earrings~
+{#Sun{^S{6on{^g{x~
+A pair of earrings lie here, glistening like the sun.~
+unknown~
+armor ABORY AS
+ACD ACD ACD ACD 0
+101 1 101000 P
+A
+17 -10
+A
+19 10
+A
+13 200
+A
+12 100
+#887
+windsong bow~
+{&W{7i{*n{&d{^So{6ng{x~
+A bow lies here, humming along with the wind.~
+unknown~
+weapon ABORY AN
+exotic 11 18 flash BCEFG
+101 1 900000 P
+A
+3 -2
+A
+19 10
+#888
+caeim anklet~
+{#C{3a{#e{3i{#m{x~
+A strange anklet lies at your feet, shimmering in the light.~
+unknown~
+armor ORY AT
+ACD CD CD ACD 0
+101 1 101000 P
+A
+19 21
+A
+18 10
+A
+3 -2
+#889
+hymir's pants~
+{!H{7y{#m{7i{!r{3'{*s {$P{6ants{x~
+A pair of pants lie here, belonging to Hymir.~
+unknown~
+armor ORY AF
+ACDE ACDE ACDE ACDE 0
+101 1 80000 P
+A
+3 -2
+A
+19 15
+A
+13 150
+A
+14 -175
+A
+12 200
+A
+18 5
+#890
+Scaravel Paen spear~
+{@S{3carave{#l P{3ae{@n{x~
+A spear lies here, radiating power.~
+unknown~
+weapon ABGORY AN
+staff 17 12 magic EF
+101 1 20000 P
+A
+14 -200
+A
+12 -300
+A
+18 25
+A
+19 10
+#891
+blessed glow aura~
+{&B{7l{*e{7s{&s{7e{*d {@Glow{x~
+A glowing aura lies here.~
+unknown~
+armor ABGIORY AR
+BEF BEF BEF BEF 0
+101 1 15000 P
+A
+2 2
+A
+18 19
+A
+12 -300
+A
+13 -80
+#892
+aeic's girdle~
+{#A{3e{@i{3c{*'{#s {6Girdle{x~
+A girdle lies here, with the name Aeic inscribed upon it.~
+unknown~
+container ORS AL
+200 0 0 500 20
+101 1 101000 P
+A
+26 5
+A
+19 10
+#893
+helm refreshing~
+{&R{7e{*f{6r{^e{&s{7h{*i{6n{^g {&H{7e{*l{&m{x~
+Here lies a helm with two mugs on the sides.~
+unknown~
+drink ORSY AE
+2147483647 2147483647 'root beer' 0 0
+1 1 101000 P
+A
+19 15
+A
+18 15
+A
+28 15
+A
+26 40
+#894
+aegir armor~
+{@A{#e{@g{#i{@r {^A{6r{^m{6o{^r{x~
+A set of armor stamed with Aegir on them lies here waiting to be used.~
+unknown~
+armor ORY AD
+BEF BEF BEF BEF 0
+90 30 90000 P
+A
+20 10
+A
+14 -100
+A
+17 -10
+A
+13 200
+A
+19 20
+#895
+laeir cape~
+{#L{3a{#e{3i{#r{*'{3s {*C{7ap{*e{x~
+A cape lies here, faded with age.~
+unknown~
+armor ORY AC
+ACF ACF ACF ACF 0
+101 1 90000 P
+A
+9 15
+A
+20 -3
+A
+13 75
+A
+19 5
+#896
+godfather flail~
+{&G{7o{*d{7f{&a{7t{*h{7e{&r{x~
+A long flail lies here, reeking of age.~
+unknown~
+weapon ORY AN
+flail 9 23 crush E
+101 1 101000 P
+A
+5 -4
+A
+9 20
+A
+19 10
+#897
+patch taeir~
+{&P{7a{*t{7c{&h {^o{6f {@Taeir{x~
+A small patch lies here, humming with a bright aura.~
+unknown~
+armor ABORY AV
+CE CE CE CE 0
+101 1 30000 P
+A
+19 17
+A
+13 75
+A
+17 -10
+#898
+demon crown helm~
+{!Demon{#C{3row{#n{x~
+A crown lies here, glowing with a demonic energy.~
+unknown~
+armor AORY AE
+DF DF DF DF 0
+101 1 101000 P
+A
+19 12
+A
+3 -2
+A
+13 100
+A
+17 -10
+#899
+gungir slender spear odins~
+{WO{wdin's {xslender spear, "{yGu{Yng{wi{Wr{x{x"~
+A wicked spear rests on the ground here.~
+oldstyle~
+weapon GY AN
+staff 9 23 thrust EG
+101 3 200000 P
+A
+19 7
+#900
+lantern souls~
+{BLa{Cnte{Brn {cof {wS{co{bu{cl{ws{x~
+A Lantern writhing with the anguish of thousands of trapped souls rests here.~
+unknown~
+light ABORTY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 1 50000 P
+A
+18 9
+A
+2 -2
+A
+13 100
+A
+17 -20
+A
+19 15
+F
+A 0 0 L
+#901
+PowerWhip~
+{bP{Bower{bW{Bhip{x~
+A small crazy looking whip lies here humming with ancient power.~
+nonmetal~
+weapon ORY AN
+whip 7 26 sting E
+101 0 0 P
+A
+4 -2
+A
+1 4
+A
+19 20
+A
+18 20
+#902
+patch jotunheim~
+{BPa{ct{bch {Co{bf {CJo{Btu{bnh{cei{Cm{x~
+A patch bearing the seal of the Jotuns lies here.~
+unknown~
+armor ABORSTY AU
+CE CE CE CE 0
+101 0 100000 P
+A
+2 -3
+A
+19 18
+A
+3 -3
+A
+1 2
+A
+13 100
+A
+18 7
+#903
+ymir signet ring~
+{WYm{Ci{Wr's {CSig{Wn{Cet{x~
+A small signet ring lies here, radiating power.~
+unknown~
+armor ORY AB
+ACE ACE ACE ACE 0
+101 2 100000 P
+A
+19 19
+A
+20 -2
+A
+2 -4
+A
+13 33
+#904
+Axe of Despair~
+{RA{rxe{w of {rD{Respai{rr{x~
+A dark red axe is buried in the ground here.~
+diamond~
+weapon AEORY AN
+axe 10 20 cleave EJ
+101 0 250000 P
+A
+14 -75
+A
+19 15
+A
+2 -2
+F
+A 0 1 Z
+#905
+Faith Immortal~
+{CI{cmmo{Cr{ctal'{Cs {CF{cai{Ct{ch{x~
+You see a small platinum crest lying here radiating what seems to be...Power!?~
+platinum~
+armor GORY AV
+CE CE CE CE 0
+101 0 0 P
+A
+20 -3
+A
+18 10
+A
+19 10
+A
+13 100
+#906
+plate belt war~
+{YP{yl{Ya{yt{Ye {YB{ye{Yl{yt{w of {RW{rA{RR{x.~
+A large sturdy belt lies here in the dirt.~
+unknown~
+armor ORY AL
+ADE ADE ADE ADE 0
+101 1 250000 P
+A
+19 20
+A
+13 50
+#907
+Silk of Nature~
+{WS{Di{Wl{Dk{x {wo{Wf{x {DN{wa{Wt{wu{Dr{we{x~
+A peice of silk lies here.~
+unknown~
+armor AORY AK
+BCDE BCDE BCDE BCDE 0
+101 1 101000 P
+A
+26 5
+A
+13 200
+A
+20 -3
+#908
+Circlet Of Burning light~
+{CC{yircle{Ct{X Of {RB{Du{rr{Rn{ri{Dn{Rg{X {ylight{X~
+A burning circle lies here~
+unknown~
+treasure ORY AO
+0 0 0 0 0
+101 0 0 P
+A
+17 -30
+A
+20 -5
+A
+13 200
+#909
+cloak invisibility~
+{Dc{wl{Wo{wa{Dk{x of {Di{yn{Wv{wi{Dsi{wb{Wil{wi{yt{Dy{x~
+A {Dc{wl{Wo{wa{Dk{x of {Di{yn{Wv{wi{Dsi{wb{Wil{wi{yt{Dy{x lies here on the ground.~
+unknown~
+armor AGORY AD
+BCDE BCDE BCDE BCDE 0
+101 0 0 P
+A
+19 12
+F
+A 0 1 L
+F
+S 0 0 B
+A
+13 50
+A
+2 3
+#910
+evil orb of destruction~
+{RE{Dvi{Rl{x {Do{wr{Db{X of {Dd{ye{ws{yt{wr{yu{wc{yt{wi{yo{Dn{X~
+An {RE{Dvi{Rl{x {Do{wr{Db{X of {Dd{ye{ws{yt{wr{yu{wc{yt{wi{yo{Dn{X lies here, pulsating.~
+unknown~
+jewelry AEORY AO
+0 0 0 0 0
+101 1 101000 P
+A
+13 75
+A
+19 20
+A
+1 2
+A
+26 2
+#911
+staff of power unique~
+{3S{#t{Da{#f{3f{x {Do{wf{x {RP{5o{rw{5e{Rr{x~
+The {3S{#t{Da{#f{3f{x {Do{wf{x {RP{5o{rw{5e{Rr{x is lying on the ground here.~
+unknown~
+staff ACEGORY AO
+175 5 5 'illusionary armor' 0
+101 1 101000 P
+A
+13 50
+A
+19 10
+#912
+dragon wings unique~
+{rD{yr{@a{yg{ro{Rn{x {DW{wi{Wn{wg{Ds{x~
+A pair of {rD{yr{@a{yg{ro{Rn{x {DW{wi{Wn{wg{Ds{x have been left on the ground here.~
+unknown~
+armor AGORY AX
+ACE ACE ACE ACE 0
+101 1 101000 P
+F
+A 0 0 T
+A
+3 4
+A
+12 100
+A
+28 5
+#913
+Achilles Battle Helm~
+{RA{rch{Ril{rle{Rs{x {BB{3a{#t{3t{bl{Be{x Helm~
+A large shinny battle helm lies here.~
+platinum~
+armor AORY AE
+ABCDE ABCDE ABCDE CDE 0
+101 3 101000 P
+A
+2 -3
+A
+18 20
+A
+19 10
+A
+26 5
+A
+20 5
+#914
+black spinning hole~
+a {Db{wl{Wa{wc{Dk{x {Dspin{Wn{Ding{X {5h{Do{5l{De{x~
+A {Db{wl{Wa{wc{Dk{x {Dspin{Wn{Ding{X {5h{Do{5l{De{x lies here on the ground.~
+black matter~
+treasure AGORY AO
+0 0 0 0 0
+101 1 101000 P
+A
+13 40
+A
+14 -100
+A
+17 -15
+A
+19 15
+A
+17 -20
+#915
+Mark of Forgiveness ~
+{XThe {gM{Dar{gk{x of {DF{wo{Wr{wg{Di{wv{We{wn{De{ws{Ds{x~
+The Mark of Forgiveness lies here on the ground.~
+unknown~
+armor AORY AV
+ABF ABF ABF ABF 0
+101 1 10100 P
+A
+13 100
+A
+18 20
+A
+20 3
+#916
+bracer of the magi~
+{DBr{ca{Dcer{x of the {5M{ca{5g{ci{x~
+A bracer of the Magi lies on the ground here.~
+unknown~
+armor AORY AM
+ABF ABF ABF ABF 0
+101 1 101000 P
+A
+19 13
+A
+13 100
+A
+12 200
+#917
+Favor of the Aesir~
+{rF{Wa{Yv{Wo{rr{x of the {GA{Ye{Ws{Yi{Gr{x ~
+The Favor of the Aesir lies here on the ground.~
+unknown~
+armor AGORY AU
+BD BD BD BD 0
+101 1 101000 P
+A
+9 10
+A
+19 15
+A
+20 -5
+A
+26 3
+#918
+spear of ages~
+{BSp{be{Bar{x of {RA{Yg{We{Cs{x~
+An old spear lies here.~
+mythril~
+weapon AGORY AN
+staff 5 41 wrath BC
+101 3 101000 P
+A
+26 5
+A
+13 100
+A
+12 -100
+A
+19 15
+A
+20 5
+A
+5 -4
+#919
+floating panda box~
+{XThe floating {gP{Da{gn{Dd{ga{X Box~
+A floating box with the mark of the panda lies here.~
+unknown~
+treasure AGRY AQ
+0 0 0 0 0
+101 1 101000 P
+A
+17 -15
+A
+19 15
+A
+13 175
+A
+18 10
+#920
+A mask lies on the ground here.~
+{DM{wa{Ws{Dk{x of {5R{ce{5s{co{5l{cv{5e{X~
+(no description)~
+unknown~
+armor AGRY AR
+ABF ABF ABF ABF 0
+101 1 101000 P
+A
+12 200
+A
+13 100
+A
+20 5
+A
+9 1
+A
+19 13
+A
+18 5
+#921
+necklace of regeneration~
+{DN{we{Wc{Gkl{Wa{wc{De{X of {1R{3e{1g{3e{1n{3e{1r{3a{1t{3i{1o{3n{x~
+A necklace lies on the ground here.~
+mythril~
+treasure AGORY AC
+0 0 0 0 0
+101 1 101000 P
+A
+28 15
+A
+26 15
+A
+17 -5
+A
+20 4
+#922
+Loki's Shield~
+{GL{Yo{Gk{Yi'{Gs{x {DS{wh{Wi{we{Wl{Dd{x~
+A powerful looking shield lies here.~
+Polytanium~
+armor AGORY AJ
+DF DF DF DF 0
+101 3 101000 P
+A
+26 5
+A
+20 -3
+A
+18 15
+#923
+circlet of the damned~
+{bC{Di{wr{Wc{wl{De{bt{x of the {RD{ra{Dm{wn{re{Rd{X~
+A damned anklet seems to have been left here.~
+unknown~
+jewelry AGORY AT
+0 0 0 0 0
+101 1 101000 P
+A
+19 20
+A
+20 3
+A
+1 -3
+A
+17 -6
+A
+26 4
+A
+13 125
+A
+18 10
+#924
+gauntlets of horror~
+{BG{ba{Du{wn{Wt{wl{De{bt{Bs{x of {RH{ro{Rr{rr{Ro{rr{x~
+Some horrific looking gauntlets are lying on the ground.~
+platinum~
+armor AGY AH
+CDE CDE CDE CDE 0
+101 1 101000 P
+A
+1 -4
+A
+17 -9
+A
+19 15
+A
+12 75
+A
+13 75
+#925
+patch of destiny~
+{$P{2a{$t{2c{$h{x of {5De{ws{Dt{wi{Wn{5y{x~
+A large patch lies here.~
+foam~
+treasure ABGORY AV
+0 0 0 0 0
+101 1 101000 P
+A
+17 -10
+A
+13 200
+A
+12 200
+A
+5 -3
+A
+19 16
+#926
+hel wand deathbringing~
+{RH{re{Rl{D'{Rs W{Da{dn{rd of D{De{Ra{Dthbri{Rn{Dgi{Rn{Dg{x~
+A leaning looking wand lies here.~
+unknown~
+wand AGORY AO
+175 5 5 'torrents of flame' 0
+101 0 101000 P
+A
+13 150
+A
+20 -3
+#927
+ring of regress~
+{$R{7in{$g{x {Do{wf{X {5R{1e{%{5g{1r{%e{5s{1s{x~
+A regressing ring lies here.~
+unknown~
+treasure AEGORY AB
+0 0 0 0 0
+101 1 101000 P
+A
+28 10
+A
+26 20
+A
+20 3
+#928
+Anklet of Agelessness~
+{DThe {RA{Bn{Rk{Bl{Re{Bt {wof {RA{rg{Be{Dl{we{Ds{Ws{wne{rs{Rs{x~
+An ageless anklet lies here.~
+unknown~
+jewelry ABGORY AT
+0 0 0 0 0
+101 1 101000 P
+A
+9 20
+A
+17 -15
+A
+18 15
+#929
+cloak of the mage~
+{DC{5l{wo{5a{Dk{x of the {5M{ca{5g{ce{x~
+A cloak lies here, pulsating softly.~
+unknown~
+armor AGORY AC
+BCDE BCDE BCDE BCDE 0
+101 1 101000 P
+A
+5 -2
+A
+19 10
+A
+9 5
+A
+18 -5
+A
+3 4
+A
+12 150
+#930
+boots of armor~
+{DB{wo{Wo{wt{Ds{X {Dof{X {RA{rr{Dm{ro{Rr{x~
+Some nice looking boots lies here.~
+biometal~
+armor AGORY AG
+ADE ADE ADE ADE 0
+101 2 101000 P
+A
+18 -5
+A
+19 15
+A
+20 -4
+A
+13 103
+#931
+Iron weaved belt~
+an {DI{Wr{wo{Wn{X {Dw{we{Wa{wv{We{Dd{x {Bb{Wel{Bt{x~
+An {DI{Wr{wo{Wn{X {Dw{we{Wa{wv{We{Dd{x {Bb{Wel{Bt{x lies on the ground here.~
+ironcloth~
+armor ABGORY AL
+BCDE BCDE BCDE BCDE 0
+101 1 101000 P
+A
+14 -200
+A
+13 100
+A
+20 -7
+A
+19 16
+A
+5 -4
+A
+18 -2
+#932
+mask of regeneration~
+{DM{wa{Ws{Dk{X of {RR{re{yge{wne{Wra{wt{yi{ro{Rn{X~
+A regenerating mask lies here.~
+mythril~
+armor ABORY AR
+ABCE ABCE ABCE ABCE 0
+101 1 101000 P
+A
+26 10
+A
+28 10
+A
+4 -2
+#933
+famine dagger hel~
+{W"{DF{Ga{Dmine{W"{D, D{Ga{Dg{Gg{Der of th{Ge {DUnd{Ge{Drw{Go{Drld{x~
+The Mark of Tas lies on the ground here.~
+evil~
+weapon ABEGORY AN
+dagger 34 5 psias BCEHJ
+101 1 101000 P
+A
+20 -5
+A
+14 -400
+#934
+patch of honor~
+{BP{Da{Wtc{Dh{x of {DH{Wo{wn{Wo{Dr{x~
+An honorable looking patch lies here.~
+unknown~
+armor ABGORY AW
+BCDE BCDE BCDE BCDE 0
+101 1 101000 P
+A
+18 10
+A
+19 12
+A
+17 -10
+A
+5 -3
+A
+13 50
+A
+12 -75
+#935
+odin lifeblood~
+{WOd{Yi{Wn's Lif{Re{Wbl{Roo{Wd{x~
+A vial containing the lifeblood of a god himself lies here.~
+unknown~
+potion GSTY A
+220 'illusionary armor' 'mana shield' 'stone skin' 'bless'
+101 5 0 P
+#936
+claw gods~
+{GC{Yl{Wa{Gw {Xof the {GG{Yo{Wd{Gs{X~
+The {GC{Yl{Wa{Gw {Xof the {GG{Yo{Wd{Gs{X lies on the ground here.~
+unknown~
+armor AORY AB
+CE CE CE CE 0
+101 1 101000 P
+A
+19 14
+A
+18 8
+A
+13 100
+A
+9 5
+#0
+
+
+
+#ROOMS
+#700
+Bree's Unique Making Room~
+Remember to change the object vnums in randobj.c to include newly made vnums.
+~
+0 8196 0
+S
+#851
+~
+~
+0 4 0
+S
+#926
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

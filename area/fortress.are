@@ -1,0 +1,2119 @@
+#AREADATA
+Name Sahuagin Fortress~
+Builders None~
+VNUMs 5400 5499
+Continent 1
+Credits {y[{Y70-101{y]{c Shayla   {YSahuagin Fortress{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#5400
+lizardman~
+a {@li{2za{@rd{2ma{@n{0~
+A lizardman sits on the bed relaxing.
+~
+~
+lizardman~
+AB b 0 -1000 0
+140 150 50d10+12500 10d10+100 6d25+40 slash
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5401
+lizardwoman~
+a {@li{2za{@rd{2wo{@ma{2n{0~
+A {@li{2za{@rd{2wo{@ma{2n{0 primps in front of the mirror.
+~
+~
+lizardman~
+AB b 0 -1000 0
+140 140 50d10+12500 10d10+100 11d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5402
+guard~
+a {3guard{0~
+A {3guard{0 stands here trying to do his job.
+~
+~
+lizardman~
+AB DFb 0 -1000 0
+140 140 50d10+12500 10d10+100 12d20+20 none
+-20 -20 -20 -20
+0 0 D C
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+M FIGHT 5401 30~
+M GRALL 5400 100~
+M FIGHT 5401 30~
+M GRALL 5400 100~
+#5403
+chieftain~
+a {3ch{7ie{8f{7ta{3in{0~
+A {3ch{7ie{8f{7ta{3in{0 stands here ordering his troops.
+~
+~
+lizardman~
+AB b 0 -1000 0
+140 140 50d10+12500 10d10+100 12d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5404
+warrior~
+a {6warrior{0~
+A {6warrior{0 is here looking for a fight.
+~
+~
+lizardman~
+AB b 0 -1000 0
+140 140 50d10+12500 10d10+100 12d25+40 none
+-20 -20 -20 -20
+0 0 D C
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5405
+lieutenant~
+a {#lie{3uten{#ant{0~
+A {#lie{3uten{#ant{0 is here bossing everyone around.
+~
+~
+lizardman~
+AB b 0 -1000 0
+140 140 50d10+12500 10d10+100 12d20+20 none
+-20 -20 -20 -20
+0 0 D C
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5407
+slave~
+a slave~
+A slave is crouched in the corner.
+~
+~
+human~
+AB 0 0 1000 0
+142 140 50d10+12500 10d10+100 6d20+21 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#5408
+senior chieftain~
+a {$S{4enior {$C{4hieftain{x~
+A {$s{4enior {$c{4hieftain{x is bossing EVERYONE around.
+~
+~
+lizardman~
+AB b 0 -1000 0
+142 140 50d10+12500 10d10+100 6d20+21 slash
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5409
+chieftain~
+a {%C{5hieftain{x~
+A {%C{5hieftain{x is here hiding from his boss.
+~
+~
+lizardman~
+AB b 0 -1000 0
+143 140 50d10+12500 10d10+100 6d20+21 slash
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5410
+female sahuagin~
+a {&fe{7male {#sa{3hu{#ag{3in{0~
+A {&fe{7male {#sa{3hu{#ag{3in{0 is here looking for her children.
+~
+~
+lizardman~
+AB b 0 -1000 0
+143 143 50d10+12500 10d10+100 6d20+23 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5411
+sahuagin hatchling~
+a {#sa{3hu{#ag{3in {&ha{7t{8chl{7i{&ng{0~
+A {#sa{3hu{#ag{3in {&ha{7t{8chl{7i{&ng{0 is here...hatching
+~
+~
+lizardman~
+AB b 0 -1000 0
+143 143 50d10+12500 10d10+100 9d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5414
+cleric~
+a cleric~
+A cleric is here praying to some unknown god.
+~
+~
+lizardman~
+AB b 0 -1000 0
+144 144 50d10+12500 10d10+100 6d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5415
+senior priestess~
+a senior priestess~
+A senior priestess is here overlooking the temple's patrons.
+~
+~
+lizardman~
+AB b 0 -1000 0
+145 144 50d10+12500 10d10+100 6d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5416
+elite guard~
+an {6elite{3 guard{0~
+An {6elite{3 guard{0 is here, watching his post.
+~
+~
+lizardman~
+ABF b 0 -1000 0
+145 145 50d10+12500 10d10+100 6d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5417
+king sahuagin~
+the {#sa{3hu{#ag{3in {!k{1i{!n{1g{0~
+The {#sa{3hu{#ag{3in {!k{1i{!n{1g{0 sits here on his throne.
+~
+~
+lizardman~
+AB b 0 -1000 0
+145 145 50d10+14500 10d10+100 10d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5418
+sahuagin queen~
+the {#sa{3hu{#ag{3in {^q{6u{^e{6e{^n{0~
+The {#sa{3hu{#ag{3in {^q{6u{^e{6e{^n{0 sits here on her throne.
+~
+~
+lizardman~
+AB b 0 -1000 0
+146 146 50d10+14500 10d10+100 25d20+25 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5419
+baron~
+the {!b{1aro{!n{0~
+The {!B{1aro{!n{0 is here, looking for his wife.
+~
+~
+lizardman~
+AB b 0 -1000 0
+146 146 50d10+14500 10d10+100 20d20+25 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5420
+baroness~
+the {^b{6aro{^n{6es{^s{0~
+The {^B{6aro{^n{6es{^s{0 is here, looking for her husband.
+~
+~
+lizardman~
+AB b 0 -1000 0
+146 146 50d10+14500 10d10+100 10d20+20 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5423
+lizardman~
+a lizardman~
+A lizardman is here trying to figure out how to escape.
+~
+~
+lizardman~
+AB b 0 -1000 0
+147 147 50d10+14500 10d10+100 6d20+25 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5424
+troll~
+a troll~
+A troll is here looking for escape.
+~
+~
+troll~
+AB FJc 0 -1000 0
+148 148 50d10+14500 10d10+100 6d25+45 none
+-20 -20 -20 -20
+D 0 BE HK
+stand stand male 20000
+ABHMV ABCDEFGHIJKUV medium unknown
+#5425
+elf~
+an elf~
+An elf is here looking for escape.
+~
+~
+elf~
+AB J 0 1000 0
+148 148 50d10+14500 10d10+100 6d25+45 none
+-20 -20 -20 -20
+0 B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#5426
+goblin~
+a goblin~
+A goblin is here looking for escape.
+~
+~
+goblin~
+AB J 0 -1000 0
+148 148 50d10+14500 10d10+100 6d25+45 none
+-20 -20 -20 -20
+0 0 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#5427
+orc ~
+an orc~
+An orc is here looking for escape.
+~
+~
+orc~
+AB J 0 -1000 0
+149 148 50d10+14500 10d10+100 6d25+45 none
+-20 -20 -20 -20
+0 0 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#5428
+warrior sahuagin~
+a sahuagin warrior~
+A sahuagin warrior is here preparing for battle.
+~
+~
+lizardman~
+AB b 0 -1000 0
+149 149 50d10+14500 10d10+100 6d25+45 claw
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5430
+sahuagin guard~
+a {#sa{3hu{#ag{3in {5guard{0~
+A {#sa{3hu{#ag{3in {5guard{0 is here, watching his post.
+~
+~
+lizardman~
+AB b 0 -1000 0
+150 150 50d10+14500 10d10+100 6d25+45 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5431
+maid~
+a {8m{&a{8i{&d{0~
+A {8m{&a{8i{&d{0 is here, cleaning up.
+~
+~
+lizardman~
+AB b 0 -1000 0
+146 146 50d10+14500 10d10+100 6d25+40 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#5432
+senior cleric~
+a senior cleric~
+A senior cleric is here supervising the clerics.
+~
+~
+lizardman~
+AB b 0 -1000 0
+145 146 50d10+14500 10d10+100 6d25+40 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#0
+
+
+
+#OBJECTS
+#5400
+crossbow~
+a crossbow~
+A crossbow lies here collecting dust.~
+wood~
+weapon 0 AN
+exotic 20 8 grep 0
+90 20 20000 P
+A
+19 10
+A
+18 14
+#5401
+pickaxe~
+a pickaxe~
+A pickaxe lies here gathering dust.~
+steel~
+weapon 0 AN
+dagger 20 8 pierce 0
+90 20 10000 P
+A
+19 10
+A
+18 14
+#5402
+spear~
+a spear~
+A spear lies here gathering dust.~
+steel~
+weapon 0 AN
+staff 17 11 pierce F
+90 20 30000 P
+A
+19 1
+A
+2 -2
+#5403
+dagger~
+a dagger~
+A dagger lies here collecting dust.~
+steel~
+weapon 0 AN
+dagger 18 9 pierce 0
+90 20 20000 P
+A
+18 14
+A
+19 10
+#5404
+gold armband~
+a gold armband~
+A gold arm band lies here collecting dust.~
+gold~
+armor 0 AM
+ABCD ABCD ABCD ABCD 0
+90 20 35000 P
+A
+18 10
+A
+5 2
+#5405
+broadsword~
+a broadsword~
+A broadsword lies here collecting dust.~
+steel~
+weapon 0 AN
+sword 18 9 slash 0
+90 20 20000 P
+A
+18 10
+A
+19 14
+#5406
+shield~
+a shield~
+A shield lies here collecting dust.~
+wood~
+armor 0 AJ
+ABCD ABCD ABCD ABCD 0
+90 20 20000 P
+A
+19 5
+A
+17 -13
+#5407
+coral necklace~
+a coral necklace~
+A coral necklace lies here collecting dust.~
+stone~
+armor 0 AC
+AE AE AE AE 0
+90 20 10000 P
+A
+3 2
+A
+18 9
+#5408
+fishbone ring~
+a fishbone ring~
+A fishbone ring lies here collecting dust.~
+bone~
+armor 0 AB
+ACE ACE ACE AE 0
+90 20 20000 P
+A
+18 12
+#5409
+brown robe~
+a brown robe~
+A brown robe is crumpled in the corner.~
+cloth~
+armor 0 AD
+ABCD ABCD ABCD ABCD 0
+90 20 10000 P
+A
+13 99
+A
+12 99
+#5410
+wooden staff~
+a wooden staff~
+A wooden staff is propped against the wall.~
+wood~
+staff 0 AO
+110 15 15 'cure critical' 0
+90 20 10000 P
+#5411
+longsword~
+a longsword~
+A longsword lies here collecting dust.~
+steel~
+weapon 0 AN
+sword 18 9 slash 0
+90 20 20000 P
+A
+19 10
+A
+18 10
+A
+2 1
+#5412
+electrum armband~
+an electrum armband~
+An electrum armband lies here collecting dust.~
+electrum~
+armor 0 AM
+DE DE DE DE 0
+90 20 30000 P
+A
+1 3
+#5413
+king kings king's crown~
+a King's crown~
+A shiny crown lies here collecting dust.~
+gold~
+armor 0 AE
+ACE ACE ACE AE 0
+90 20 30000 P
+A
+13 100
+#5414
+queen queens queen's crown~
+a Queen's crown~
+A shiny crown lies here gathering dust.~
+gold~
+armor 0 AE
+AE AE AE AE 0
+90 20 20000 P
+A
+19 8
+A
+18 8
+#5415
+golden circlet~
+a golden circlet~
+A golden circlet lies here collecting dust.~
+gold~
+armor 0 AE
+ACE ACE ACE ACE 0
+90 20 20000 P
+A
+19 11
+#5416
+diamond tiara~
+a diamond tiara~
+A diamond tiara lies here collecting dust.~
+crystal~
+armor 0 AE
+BCE BCE ABCE ABCE 0
+90 20 50000 P
+A
+20 -4
+#5417
+spear~
+a spear~
+A spear lies here gathering dust.~
+steel~
+weapon 0 AN
+staff 16 11 thrust F
+90 20 30000 P
+A
+2 -1
+A
+19 17
+A
+18 -4
+#5418
+dagger~
+a dagger~
+A dagger lies here collecting dust.~
+steel~
+weapon 0 AN
+dagger 18 9 pierce 0
+90 20 20000 P
+A
+19 10
+A
+18 9
+A
+13 50
+#5419
+platinum armband~
+a platinum armband~
+A platinum armband lies here collecting dust.~
+platinum~
+armor 0 AM
+BE BE BE BE 0
+90 20 50000 P
+A
+18 9
+A
+19 9
+A
+4 -2
+#5420
+shortsword~
+a shortsword~
+A shortsword lies here collecting dust.~
+steel~
+weapon 0 AN
+sword 18 9 slash 0
+90 20 10000 P
+A
+18 10
+A
+19 14
+#5421
+key~
+a key~
+A key lies here gathering dust.~
+steel~
+key 0 A
+0 0 0 0 0
+90 20 0 P
+A
+13 190
+A
+12 50
+#5422
+key~
+a key~
+A key lies here gathering dust.~
+steel~
+key 0 A
+0 0 0 0 0
+90 20 0 P
+A
+13 190
+A
+12 50
+#5423
+coins~
+a pile of coins~
+A large pile of coins lies here.~
+~
+money 0 A
+EGIJOP 0 0 0 0
+90 20 0 P
+A
+13 190
+A
+12 5
+#0
+
+
+
+#ROOMS
+#5400
+Northern Entrance~
+You have crossed the causeway and now stand on a rock ledge about 40 feet
+wide. Ahead of you and about 15 feet away, a pair of stone doors stand
+ajar. Downwards you can dive into the ocean. Hope you brought your scuba
+gear.
+~
+0 8 3
+D0
+~
+~
+0 0 16944
+D2
+~
+~
+0 -1 5401
+S
+#5401
+Guard Post~
+This a bare, spartan room. A stone bench runs along the south wall and 
+continues round the angle along the west wall.
+~
+0 8 3
+D0
+~
+~
+0 -1 5400
+D1
+~
+~
+0 -1 5404
+D2
+~
+~
+0 -1 5402
+S
+#5402
+Chieftain's Quarters~
+The walls and floor of this room are tiled in dark blue color. The ceiling
+is off white, dressed stone. In the center of the room is a table, beside
+it is a small bench.
+~
+0 8 0
+D0
+~
+~
+0 -1 5401
+D1
+~
+~
+0 -1 5403
+D2
+~
+~
+0 -1 5417
+S
+#5403
+Chieftain's Quarters~
+The walls and floor of this room are tiled in dark blue color. The ceiling
+is off white, dressed stone. In the center of the room is a table, beside
+it is a small bench.
+~
+0 8 0
+D3
+~
+~
+0 -1 5402
+S
+#5404
+Store Room~
+This is a room of plain stone construction. Placed around the floor in an
+orderly fashion are a number of coils of rope, piles of animal hides, 
+heaps of metal nails, hooks and buckles, together with some leather belts
+and straps.
+~
+0 8 0
+D1
+~
+~
+0 -1 5405
+D3
+~
+~
+0 -1 5401
+S
+#5405
+Store Room~
+This is a room of plain stone construction. Placed around the floor in an
+orderly fashion are a number of coils of rope, piles of animal hides, 
+heaps of metal nails, hooks and buckles, together with some leather belts
+and straps.
+~
+0 8 0
+D2
+~
+~
+0 -1 5406
+D3
+~
+~
+0 -1 5404
+S
+#5406
+Armoury~
+You have entered a room with plain stone walls, floor, and ceiling.  Two
+rows of metal racks run almost the entire length of the room; they are
+parallel and abouth 6 feet apart, thus leaving a narrow passage between
+them.  Hanging on these racks, in large numbers, are spears, tridents, and
+javelins.  
+~
+0 8 0
+D0
+~
+~
+0 -1 5405
+D2
+~
+~
+0 -1 5407
+S
+#5407
+Barracks~
+This huge area has floor, walls, and ceiling of plain dressed stone. A
+large number of coffers, without lids, are arranged around the walls of 
+the room, though there are none near the northern wall west of the archway.
+~
+0 8 0
+D0
+~
+~
+0 -1 5406
+D2
+~
+~
+0 -1 5408
+S
+#5408
+Lieutenant's Quarters - First Floor~
+This is an austere room of plain, dressed stone. In the center is a small 
+table with two chairs beside it.
+~
+0 8 0
+D0
+~
+~
+0 -1 5407
+D1
+~
+~
+0 -1 5409
+D2
+~
+~
+0 -1 5411
+D3
+~
+~
+0 -1 5410
+S
+#5409
+Lieutenant's Quarters - First Floor~
+This is an austere room of plain, dressed stone. In the center is a small 
+table with two chairs beside it.
+~
+0 8 0
+D3
+~
+~
+0 -1 5408
+S
+#5410
+Lieutenant's Quarters - First Floor~
+This is an austere room of plain, dressed stone. In the center is a small 
+table with two chairs beside it.
+~
+0 8 0
+D1
+~
+~
+0 -1 5408
+S
+#5411
+Guard Station~
+This a bare, spartan room. A stone bench runs along the south wall and 
+continues round the angle along the west wall.
+~
+0 8 0
+D0
+~
+~
+0 -1 5408
+D1
+~
+~
+2 5421 5413
+D2
+~
+~
+0 0 41099
+D3
+~
+~
+0 -1 5414
+S
+#5413
+Slave Pen~
+You have entered a long, quite narrow room of plain dressed stone. Four
+pillars are equally spaced north-south. Along the foot of the east wall,
+there appears to be a shallow trough cut into the stone floor. This is
+slightly stained in various places and traces of a brownish liquid shine
+wetly in the light you are casting.
+~
+0 8 8
+D3
+~
+~
+2 -1 5411
+S
+#5414
+Male Guest Room~
+The floor and ceiling of this room are tiled in a plain, dark green color.
+The walls are colorfully tiled with various mosaics. There is a table in
+the center of the room with a small, ornately-carved bench to either
+side.
+~
+0 8 0
+D1
+~
+~
+0 -1 5411
+D3
+~
+~
+0 -1 5415
+S
+#5415
+Female Guest Room~
+The floor and ceiling of this room are tiled in a plain, dark green color.
+The walls are colorfully tiled with various mosaics. There is a table in
+the center of the room with a small, ornately-carved bench to either
+side.
+~
+0 8 0
+D1
+~
+~
+0 -1 5414
+D3
+~
+~
+0 -1 5416
+S
+#5416
+Larder~
+The air here is distinctly colder than outside and the temperature 
+difference is apparent immediately as you enter. It is a plain room of
+dressed stone construction and contains no furniture, but around the
+walls there hang, presumably on hooks, several carcasses of various
+creatures.
+~
+0 8 0
+D0
+~
+~
+0 -1 5417
+D1
+~
+~
+0 -1 5415
+S
+#5417
+Storage Room~
+This is a room of plain stone construction. Placed around the floor in an
+orderly fashion are a number of coils of rope, piles of animal hides, 
+heaps of metal nails, hooks and buckles, together with some leather belts
+and straps.
+~
+0 8 0
+D0
+~
+~
+0 0 5402
+D2
+~
+~
+0 -1 5416
+D3
+~
+~
+0 -1 5418
+S
+#5418
+Secret Room~
+You have managed to discover the secret room.  This is a plain room of
+dressed stone construction but a variety of contents interest you
+immediately.  
+~
+0 8 0
+D1
+~
+~
+0 -1 5417
+D5
+~
+~
+0 -1 5419
+S
+#5419
+An Intersection~
+Descending the stairs you find yourself in a large open area of plain,
+dressed stone construction. There are stone pillars from floor to ceiling,
+two each to your right and left.
+~
+0 8 0
+D0
+~
+~
+0 -1 5430
+D1
+~
+~
+0 0 5420
+D2
+~
+~
+0 -1 5423
+D3
+~
+~
+0 -1 5421
+D4
+~
+~
+0 -1 5418
+D5
+~
+~
+0 -1 5426
+S
+#5420
+Senior Chieftain's Quarters~
+The walls and floor of this room are tiled in a dark green color, while
+the ceiling is tiled in white. There is a table in the center of the room, 
+a small bench beside it.
+~
+0 8 0
+D3
+~
+~
+0 -1 5419
+S
+#5421
+Chieftain's Quarters~
+The walls and floor of this room are tiled in dark blue color. The ceiling
+is off white, dressed stone. In the center of the room is a table, beside
+it is a small bench.
+~
+0 8 0
+D0
+~
+~
+0 -1 5422
+D1
+~
+~
+0 0 5419
+S
+#5422
+Chieftain's Quarters~
+The walls and floor of this room are tiled in dark blue color. The ceiling
+is off white, dressed stone. In the center of the room is a table, beside
+it is a small bench.
+~
+0 8 0
+D2
+~
+~
+0 -1 5421
+S
+#5423
+Female's Quarters~
+This large area is tiled throughout - the floor in indigo, the walls in
+dark blue and the ceiling in light blue. Four smooth stone pillars support
+the ceiling.
+~
+0 8 0
+D0
+~
+~
+0 -1 5419
+D1
+~
+~
+0 -1 5424
+D3
+~
+~
+0 -1 5425
+S
+#5424
+Hatchery~
+You are looking down a long narrow area of plain dressed stone.  There is
+no furniture in here, but against the wall are clusters of what look like
+large fish eggs.  
+~
+0 8 0
+D3
+~
+~
+0 -1 5423
+S
+#5425
+Hatchery~
+You are looking down a long narrow area of plain dressed stone.  There is
+no furniture in here, but against the wall are clusters of what look like
+large fish eggs.  
+~
+0 8 0
+D1
+~
+~
+0 -1 5423
+S
+#5426
+Barracks~
+This huge area has floor, walls, and ceilings of plain dressed stone. A 
+large number of coffers, without lids, are arranged around the walls of 
+the room, though there are none near the northern wall west of the archway.
+~
+0 8 0
+D1
+~
+~
+0 -1 5428
+D4
+~
+~
+0 -1 5419
+D5
+~
+~
+0 -1 5427
+S
+#5427
+Barracks~
+This huge area has floor, walls, and ceilings of plain dressed stone. A 
+large number of coffers, without lids, are arranged around the walls of 
+the room, though there are none near the northern wall west of the archway.
+~
+0 8 0
+D3
+~
+~
+0 -1 5429
+D4
+~
+~
+0 -1 5426
+S
+#5428
+Lieutenant's Quarters~
+This is an austere room of plain, dressed stone. In the center is a small 
+table with two chairs beside it.
+~
+0 8 0
+D3
+~
+~
+0 -1 5426
+S
+#5429
+Lieutenants Quarters~
+This is an austere room of plain, dressed stone.  In the center is a
+small table with two chairs beside it.  A loose stone in the floor shifts as
+you walk over it.  
+~
+0 8 0
+D1
+~
+~
+0 -1 5427
+D5
+~
+stone~
+1 0 5475
+S
+#5430
+Temple~
+You have entered a large area.  The walls and floor are tiled in grey,
+the ceiling is white-tiled.  White-tiled pillars support the ceiling and run
+down the length of the area on either side of the center.  Emblazoned in
+white on the walls are weird symbols and runes.  
+~
+0 8 0
+D0
+~
+~
+0 -1 5443
+D1
+~
+~
+0 -1 5431
+D2
+~
+~
+0 -1 5419
+D3
+~
+~
+0 -1 5437
+S
+#5431
+Hallway~
+This is the hallway leading the cleric's chambers. The walls, floor, and
+ceiling are dressed in plain grey tiles.
+~
+0 8 0
+D0
+~
+~
+0 -1 5434
+D1
+~
+~
+0 -1 5432
+D3
+~
+~
+0 -1 5430
+S
+#5432
+Hallway~
+This is the hallway leading the cleric's chambers. The walls, floor, and
+ceiling are dressed in plain grey tiles.
+~
+0 8 0
+D0
+~
+~
+0 -1 5435
+D1
+~
+~
+0 -1 5433
+D3
+~
+~
+0 -1 5431
+S
+#5433
+Hallway~
+This is the hallway leading the cleric's chambers. The walls, floor, and
+ceiling are dressed in plain grey tiles.
+~
+0 8 0
+D0
+~
+~
+0 -1 5436
+D3
+~
+~
+0 -1 5432
+S
+#5434
+Cleric's Quarters~
+The floor and walls of this room are tiled a medium grey, while the ceiling
+has white tiles. There is a small table in the cener of the room, a small
+bench beside it. A bed covers the south-east corner.
+~
+0 8 0
+D2
+~
+~
+0 -1 5431
+S
+#5435
+Cleric's Quarters~
+The floor and walls of this room are tiled a medium grey, while the ceiling
+has white tiles. There is a small table in the cener of the room, a small
+bench beside it. A bed covers the south-east corner.
+~
+0 8 0
+D2
+~
+~
+0 -1 5432
+S
+#5436
+Cleric's Quarters~
+The floor and walls of this room are tiled a medium grey, while the ceiling
+has white tiles. There is a small table in the cener of the room, a small
+bench beside it. A bed covers the south-east corner.
+~
+0 8 0
+D2
+~
+~
+0 -1 5433
+S
+#5437
+Hallway~
+This is a hallway leading to more cleric chambers. The walls, floor, and
+ceiling are tiled in plain grey.
+~
+0 8 0
+D0
+~
+~
+0 -1 5440
+D1
+~
+~
+0 -1 5430
+D3
+~
+~
+0 -1 5438
+S
+#5438
+Hallway~
+This is a hallway leading to more cleric chambers. The walls, floor, and
+ceiling are tiled in plain grey.
+~
+0 8 0
+D0
+~
+~
+0 -1 5441
+D1
+~
+~
+0 -1 5437
+D3
+~
+~
+0 -1 5439
+S
+#5439
+Hallway~
+This is a hallway leading to more cleric chambers. The walls, floor, and
+ceiling are tiled in plain grey.
+~
+0 8 0
+D0
+~
+~
+0 -1 5442
+D1
+~
+~
+0 -1 5438
+S
+#5440
+High Priestess' Quarters~
+The floor and walls of this rooms are tiled in grey, the ceiling tiled white.
+in the center of the room is a white stone table, the top surface of which
+is picked out in some gold-colored engravings. Three small ornately-
+carved benches stand near the table. A bed fills the south-east corner.
+~
+0 8 0
+D2
+~
+~
+0 -1 5437
+S
+#5441
+Senior Cleric's Quarters~
+The floor and walls of this room are tiled in a medium grey, while the
+ceiling has white tiles.  There is a small table in the center of the room,
+a small bench beside it.  A small bed covers the south-west corner.  
+~
+0 8 0
+D2
+~
+~
+0 -1 5438
+S
+#5442
+Cleric's Quarters~
+The floor and walls of this room are tiled in a medium grey, while the
+ceiling has white tiles.  There is a small table in the center of the room,
+a small bench beside it.  A small bed covers the south-west corner.  
+~
+0 8 0
+D2
+~
+~
+0 -1 5439
+S
+#5443
+Banqueting Hall~
+This is a large chamber whose walls are tiled in coral pink and the ceiling
+in white. Black-tiled pillars are regularly placed in a line slightly south 
+of the east-west axis. To the north of the pillars there is a series of long 
+tables placed end-to-end, with benches to either side.
+~
+0 8 0
+D0
+~
+~
+0 -1 5446
+D1
+~
+~
+0 -1 5444
+D2
+~
+~
+0 -1 5430
+D3
+~
+~
+0 -1 5445
+S
+#5444
+Elite Guards' Quarters~
+This is an austere room with walls and floor tiled in dark green, the ceiling
+in pale green. A table stands in the center, two benches beside it. Nearly all
+the south wall is covered by a large bed.
+~
+0 8 0
+D3
+~
+~
+0 -1 5443
+S
+#5445
+Elite Guards' Quarters~
+This is an austere room with walls and floor tiled in dark green, the ceiling
+in pale green. A table stands in the center, two benches beside it. Nearly all
+the south wall is covered by a large bed.
+~
+0 8 0
+D1
+~
+~
+0 -1 5443
+S
+#5446
+Throne Room~
+This room has floors tiled in indigo and walls in dark blue. at the north
+side of the room there are two massive ornately-carved thrones standing on
+a pale blue dais.
+~
+0 8 0
+D1
+~
+~
+0 -1 5447
+D2
+~
+~
+0 -1 5443
+D3
+~
+~
+0 -1 5450
+S
+#5447
+Maid's Room~
+This is a blue-tiled room. A bench runs along the south wall and there is a
+small bed in the south-east corner. The walls are decorated with a rough
+mosaic. In the center of the floor a faint scuffing of some previous mess
+is apparent.
+~
+0 8 0
+D1
+~
+~
+0 -1 5448
+D3
+~
+~
+0 -1 5446
+S
+#5448
+Living Quarters of the Baroness~
+The floor and ceiling are tiled in pale green, the walls in coral pink. A 
+table stands in the center of the room, a small bench to either side. On 
+the table is a statuette, apparently of metal, depicting a squid locked in
+combat with a shark.
+~
+0 8 0
+D1
+~
+~
+0 -1 5449
+D3
+~
+~
+0 -1 5447
+S
+#5449
+Sleeping Quarters of the Baroness~
+This room is tiled in light blue and there are frescoes on the ceiling
+representing various forms of marine life. A large bed fills the south-west
+corner of the room.
+~
+0 8 0
+D3
+~
+~
+0 -1 5448
+S
+#5450
+Baron's Living Quarters~
+This room is tiled in coral pink. The walls are frescoed with scenes of
+sahuagin in victorious combat against a variety of marine creatures. A 
+large table is in the center of the room with benches on all four sides.
+~
+0 8 0
+D1
+~
+~
+0 -1 5446
+D3
+~
+~
+0 -1 5451
+S
+#5451
+Baron's Sleeping Quarters~
+This room is tiled a rich, deep green. The walls are frescoed with repre-
+sentations of various forms of marine life. A large bed fills the north-
+west corner of the room.
+~
+0 8 0
+D1
+~
+~
+0 -1 5450
+D3
+~
+~
+0 -1 5452
+S
+#5452
+Downward Staircase~
+The staircase is stone tiled in white. Although it is well lit by torches
+here as you look down you see nothing but darkness.
+~
+0 8 0
+D1
+~
+~
+0 -1 5451
+D5
+~
+~
+0 -1 5453
+S
+#5453
+Barracks~
+This huge area has floor, walls, and ceiling of plain dressed stone. A
+large number of coffers, without lids, are arranged around the walls of
+the room, though there are none near the northern wall.
+~
+0 8 0
+D2
+~
+~
+0 -1 5454
+D4
+~
+~
+0 -1 5452
+S
+#5454
+Lieutenant's Station- Basement Floor~
+This is an austere room of plain dressed stone. In the center of the room is
+a small table and two chairs beside it.
+~
+0 8 0
+D0
+~
+~
+0 -1 5453
+D3
+~
+~
+0 -1 5455
+S
+#5455
+The Basement Floor Hallway~
+This is the hallway leading to cells where captives are kept.
+~
+0 8 0
+D0
+~
+~
+2 5422 5464
+D1
+~
+~
+0 -1 5454
+D3
+~
+~
+0 -1 5456
+S
+#5456
+The Basement Floor Hallway~
+This is the hallway leading to cells where captives are kept.
+~
+0 8 0
+D0
+~
+~
+2 5422 5463
+D1
+~
+~
+0 -1 5455
+D3
+~
+~
+0 -1 5457
+S
+#5457
+The Basement Floor Hallway~
+This is the hallway leading to cells where captives are kept.
+~
+0 8 0
+D0
+~
+~
+2 5422 5462
+D1
+~
+~
+0 -1 5456
+D2
+~
+~
+0 -1 5467
+D3
+~
+~
+0 -1 5458
+S
+#5458
+The Basement Floor Hallway~
+This is the hallway leading to cells where captives are kept.
+~
+0 8 0
+D0
+~
+~
+2 5422 5461
+D1
+~
+~
+0 -1 5457
+D3
+~
+~
+0 -1 5459
+S
+#5459
+The Basement Floor Hallway~
+This is the hallway leading to cells where captives are kept.
+~
+0 8 0
+D0
+~
+~
+2 5422 5460
+D1
+~
+~
+0 -1 5458
+D3
+~
+~
+0 -1 5465
+S
+#5460
+Cell~
+This is a cell of plain dressed stone. There is one torch in the wall and
+the only furniture you see is a small straw bed.
+~
+0 8 0
+D2
+~
+~
+0 -1 5459
+S
+#5461
+Cell~
+This is a cell of plain dressed stone. There is one torch in the wall and
+the only furniture you see is a small straw bed.
+~
+0 8 0
+D2
+~
+~
+0 -1 5458
+S
+#5462
+Cell~
+This is a cell of plain dressed stone. There is one torch in the wall and
+the only furniture you see is a small straw bed.
+~
+0 8 0
+D2
+~
+~
+0 -1 5457
+S
+#5463
+Cell~
+This is a cell of plain dressed stone. There is one torch in the wall and
+the only furniture you see is a small straw bed.
+~
+0 8 0
+D2
+~
+~
+0 -1 5456
+S
+#5464
+Cell~
+This is a cell of plain dressed stone. There is one torch in the wall and
+the only furniture you see is a small straw bed.
+~
+0 8 8
+D2
+~
+~
+0 -1 5455
+S
+#5465
+Armoury and Stores~
+This is obviously a storage area, of plain dressed stone. To your right are
+coils of rope, piles of hides neatly lashed with cord, a heap of nails, a
+pile of hooks and a few buckles, all of brass.
+~
+0 8 0
+D1
+~
+~
+0 -1 5459
+D2
+~
+~
+0 -1 5466
+S
+#5466
+Treasure Chamber~
+This is a large room tiled in white. Torches all along the walls cause shadows
+to dance wildly.
+~
+0 8 0
+D0
+~
+~
+0 -1 5465
+S
+#5467
+Arena~
+The walls of the arena are 30 feet high. The ceiling is supported by pillars
+at each corner. The ceiling is made of a clear quartz dome.
+~
+0 8 0
+D0
+~
+~
+0 -1 5457
+D1
+~
+~
+0 -1 5468
+D2
+~
+~
+0 -1 5474
+D3
+~
+~
+0 -1 5470
+S
+#5468
+Barracks~
+This huge area has floor, walls, and ceiling of plain dressed stone. A
+large number of coffers, without lids, are arranged around the walls of
+the room, though there are none near the northern wall.
+~
+0 8 0
+D2
+~
+~
+0 -1 5469
+D3
+~
+~
+0 -1 5467
+S
+#5469
+Lieutenant's Quarters - Basement Floor~
+This is an austere room of plain dressed stone. In the center of the room is
+a small table and two chairs beside it.
+~
+0 8 0
+D0
+~
+~
+0 -1 5468
+D2
+~
+~
+0 -1 5473
+S
+#5470
+Barracks~
+This huge area has floor, walls, and ceiling of plain dressed stone. A
+large number of coffers, without lids, are arranged around the walls of
+the room, though there are none near the northern wall.
+~
+0 8 0
+D1
+~
+~
+0 -1 5467
+D2
+~
+~
+0 -1 5471
+S
+#5471
+Lieutenant's Quarters - Basement Floor~
+This is an austere room of plain dressed stone. In the center of the room is
+a small table and two chairs beside it.
+~
+0 8 0
+D0
+~
+~
+0 -1 5470
+D2
+~
+~
+0 -1 5472
+S
+#5472
+Guard Post~
+This is a bare, spartan room. A stone bench runs against the south wall and
+countinues around the angle along the west wall.
+~
+0 8 0
+D0
+~
+~
+0 -1 5471
+S
+#5473
+Guard Post~
+This is a bare, spartan room. A stone bench runs against the south wall and
+countinues around the angle along the west wall.
+~
+0 8 0
+D0
+~
+~
+0 -1 5469
+S
+#5474
+Drill Hall~
+You have entered a vast cavern. It is made of plain, dressed stone and is
+bounded to the south by a ledge along which plain pillars are set supporting
+the roof high above.
+~
+0 8 0
+D0
+~
+~
+0 -1 5467
+S
+#5475
+The Water Tunnel~
+This tunnel is pitch black and entirely filled with water.  It appears to
+go south, although directions are fuzzy down here ...  
+~
+0 4 6
+D2
+~
+~
+0 0 5476
+D4
+~
+stone~
+1 0 5429
+S
+#5476
+The Water Tunnel~
+Black as night, it is impossible to tell which way is which in this
+water-filled tunnel.  
+~
+0 0 6
+D0
+~
+~
+0 0 5477
+D1
+~
+~
+0 0 5479
+D2
+~
+~
+0 0 5478
+D3
+~
+~
+0 0 5477
+S
+#5477
+The Water Tunnel~
+Black as night, it is impossible to tell which way is which in this water-filled tunnel.
+~
+0 0 6
+D1
+~
+~
+0 0 5476
+D2
+~
+~
+0 0 5479
+D3
+~
+~
+0 0 5477
+D5
+~
+~
+0 0 5478
+S
+#5478
+The Water Tunnel~
+Black as night, it is impossible to tell which way is which in this water-filled tunnel.
+~
+0 0 6
+D0
+~
+~
+0 0 5476
+D1
+~
+~
+0 0 5477
+D2
+~
+~
+0 0 5477
+D3
+~
+~
+0 0 5476
+S
+#5479
+The Water Tunnel~
+Black as night, it is impossible to tell which way is which in this water-filled tunnel.
+~
+0 0 6
+D0
+~
+~
+0 0 5475
+D2
+~
+~
+0 0 5480
+S
+#5480
+The Water Tunnel~
+Light filters in from above, apparently this is one end of some sort of
+underwater tunnel.  Fish swim throughout the coral all around, as the
+occassional eel pokes its head out of its hole in the rock.  
+~
+0 0 6
+D0
+~
+~
+0 0 5479
+D4
+~
+~
+0 0 5481
+S
+#5481
+Under the Sea~
+The ocean is surprisingly warm about 500 feet below its surface, as
+bright schools of fish dart about in all directions.  The occasional larger
+fish meanders by, shimmering in the filtered sunlight.  The ocean floor can
+be seen below, rock and coral with a thin layer of sand.  
+~
+0 0 6
+D4
+~
+~
+0 0 13999
+D5
+~
+~
+0 0 5480
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5411 1 1 The east door of Guard Station is closed
+D 0 5413 3 2 The west door of Slave Pen is closed and locked
+D 0 5429 5 1 The down door of Lieutenants Quarters is closed
+D 0 5455 0 2 The north door of The Basement Floor Hallway is closed and locked
+D 0 5456 0 2 The north door of The Basement Floor Hallway is closed and locked
+D 0 5457 0 2 The north door of The Basement Floor Hallway is closed and locked
+D 0 5458 0 2 The north door of The Basement Floor Hallway is closed and locked
+D 0 5459 0 2 The north door of The Basement Floor Hallway is closed and locked
+D 0 5475 4 1 The up door of The Water Tunnel is closed
+M 0 5402 2 5401 1 *Load a {3guard{0
+E 0 5400 0 16 *A crossbow is loaded wielded of a {3guard{0
+M 0 5402 2 5401 1 *Load a {3guard{0
+E 0 5400 0 16 *A crossbow is loaded wielded of a {3guard{0
+M 0 5403 2 5402 1 *Load a {3ch{7ie{8f{7ta{3in{0
+E 0 5401 0 16 *A pickaxe is loaded wielded of a {3ch{7ie{8f{7ta{3in{0
+M 0 5404 2 5407 1 *Load a {6warrior{0
+E 0 5403 0 16 *A dagger is loaded wielded of a {6warrior{0
+M 0 5405 1 5408 10 *Load a {#lie{3uten{#ant{0
+E 0 5402 0 16 *A spear is loaded wielded of a {#lie{3uten{#ant{0
+E 0 5404 0 10 *A gold armband is loaded on the arms of a {#lie{3uten{#ant{0
+M 0 5405 1 5409 10 *Load a {#lie{3uten{#ant{0
+E 0 5403 0 16 *A dagger is loaded wielded of a {#lie{3uten{#ant{0
+E 0 5404 0 10 *A gold armband is loaded on the arms of a {#lie{3uten{#ant{0
+M 0 5405 1 5410 10 *Load a {#lie{3uten{#ant{0
+E 0 5402 0 16 *A spear is loaded wielded of a {#lie{3uten{#ant{0
+E 0 5404 0 10 *A gold armband is loaded on the arms of a {#lie{3uten{#ant{0
+M 0 5402 2 5411 1 *Load a {3guard{0
+M 0 5407 1 5413 1 *Load a slave
+M 0 5400 1 5414 1 *Load a {@li{2za{@rd{2ma{@n{0
+M 0 5401 1 5415 1 *Load a {@li{2za{@rd{2wo{@ma{2n{0
+M 0 5408 1 5420 1 *Load a {$S{4enior {$C{4hieftain{x
+E 0 5405 0 16 *A broadsword is loaded wielded of a {$S{4enior {$C{4hieftain{x
+E 0 5406 0 11 *A shield is loaded as a shield of a {$S{4enior {$C{4hieftain{x
+M 0 5409 1 5421 1 *Load a {%C{5hieftain{x
+E 0 5402 0 16 *A spear is loaded wielded of a {%C{5hieftain{x
+E 0 5406 0 11 *A shield is loaded as a shield of a {%C{5hieftain{x
+M 0 5409 2 5422 1 *Load a {%C{5hieftain{x
+E 0 5403 0 16 *A dagger is loaded wielded of a {%C{5hieftain{x
+E 0 5406 0 11 *A shield is loaded as a shield of a {%C{5hieftain{x
+M 0 5410 1 5423 1 *Load a {&fe{7male {#sa{3hu{#ag{3in{0
+M 0 5411 2 5424 1 *Load a {#sa{3hu{#ag{3in {&ha{7t{8chl{7i{&ng{0
+M 0 5411 2 5425 1 *Load a {#sa{3hu{#ag{3in {&ha{7t{8chl{7i{&ng{0
+M 0 5428 1 5426 4 *Load a sahuagin warrior
+M 0 5428 2 5427 4 *Load a sahuagin warrior
+M 0 5428 1 5429 4 *Load a sahuagin warrior
+M 0 5414 1 5434 1 *Load a cleric
+E 0 5407 0 3 *A coral necklace is loaded around the neck (1) of a cleric
+E 0 5408 0 1 *A fishbone ring is loaded on the left finger of a cleric
+M 0 5414 2 5435 1 *Load a cleric
+E 0 5408 0 1 *A fishbone ring is loaded on the left finger of a cleric
+E 0 5407 0 3 *A coral necklace is loaded around the neck (1) of a cleric
+M 0 5414 3 5436 1 *Load a cleric
+E 0 5407 0 3 *A coral necklace is loaded around the neck (1) of a cleric
+E 0 5408 0 1 *A fishbone ring is loaded on the left finger of a cleric
+M 0 5415 1 5440 1 *Load a senior priestess
+E 0 5409 0 12 *A brown robe is loaded about the shoulders of a senior priestess
+M 0 5432 1 5441 1 *Load a senior cleric
+E 0 5410 0 17 *A wooden staff is loaded held in the hands of a senior cleric
+M 0 5414 4 5442 1 *Load a cleric
+E 0 5408 0 1 *A fishbone ring is loaded on the left finger of a cleric
+E 0 5407 0 3 *A coral necklace is loaded around the neck (1) of a cleric
+M 0 5416 2 5444 2 *Load an {6elite{3 guard{0
+E 0 5411 0 16 *A longsword is loaded wielded of an {6elite{3 guard{0
+E 0 5412 0 10 *An electrum armband is loaded on the arms of an {6elite{3 guard{0
+M 0 5416 2 5444 2 *Load an {6elite{3 guard{0
+E 0 5411 0 16 *A longsword is loaded wielded of an {6elite{3 guard{0
+E 0 5412 0 10 *An electrum armband is loaded on the arms of an {6elite{3 guard{0
+M 0 5416 4 5445 2 *Load an {6elite{3 guard{0
+E 0 5411 0 16 *A longsword is loaded wielded of an {6elite{3 guard{0
+E 0 5412 0 10 *An electrum armband is loaded on the arms of an {6elite{3 guard{0
+M 0 5416 4 5445 2 *Load an {6elite{3 guard{0
+E 0 5411 0 16 *A longsword is loaded wielded of an {6elite{3 guard{0
+E 0 5412 0 10 *An electrum armband is loaded on the arms of an {6elite{3 guard{0
+M 0 5417 1 5446 1 *Load the {#sa{3hu{#ag{3in {!k{1i{!n{1g{0
+E 0 5413 0 6 *A king's crown is loaded over the head of the {#sa{3hu{#ag{3in {!k{1i{!n{1g{0
+M 0 5418 1 5446 1 *Load the {#sa{3hu{#ag{3in {^q{6u{^e{6e{^n{0
+E 0 5414 0 6 *A queen's crown is loaded over the head of the {#sa{3hu{#ag{3in {^q{6u{^e{6e{^n{0
+M 0 5431 1 5447 1 *Load a {8m{&a{8i{&d{0
+M 0 5420 1 5448 1 *Load the {^b{6aro{^n{6es{^s{0
+E 0 5416 0 6 *A diamond tiara is loaded over the head of the {^b{6aro{^n{6es{^s{0
+M 0 5419 1 5451 1 *Load the {!b{1aro{!n{0
+E 0 5415 0 6 *A golden circlet is loaded over the head of the {!b{1aro{!n{0
+M 0 5404 1 5453 1 *Load a {6warrior{0
+E 0 5418 0 16 *A dagger is loaded wielded of a {6warrior{0
+M 0 5405 1 5454 1 *Load a {#lie{3uten{#ant{0
+E 0 5419 0 10 *A platinum armband is loaded on the arms of a {#lie{3uten{#ant{0
+G 0 5422 0 *A key is given to a {#lie{3uten{#ant{0
+M 0 5423 1 5460 1 *Load a lizardman
+M 0 5424 1 5461 1 *Load a troll
+M 0 5425 1 5462 1 *Load an elf
+M 0 5426 1 5463 1 *Load a goblin
+M 0 5427 1 5464 1 *Load an orc
+O 0 5423 0 5466 *A pile of coins loaded to Treasure Chamber
+M 0 5428 2 5467 1 *Load a sahuagin warrior
+E 0 5417 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 5428 4 5468 1 *Load a sahuagin warrior
+E 0 5418 0 16 *A dagger is loaded wielded of a sahuagin warrior
+M 0 5428 4 5468 1 *Load a sahuagin warrior
+E 0 5418 0 16 *A dagger is loaded wielded of a sahuagin warrior
+M 0 5430 2 5470 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5417 0 16 *A spear is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+E 0 5406 0 11 *A shield is loaded as a shield of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 2 5470 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5417 0 16 *A spear is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+E 0 5406 0 11 *A shield is loaded as a shield of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 4 5472 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5418 0 16 *A dagger is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+E 0 5406 0 11 *A shield is loaded as a shield of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 4 5472 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5406 0 11 *A shield is loaded as a shield of a {#sa{3hu{#ag{3in {5guard{0
+E 0 5418 0 16 *A dagger is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 6 5473 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5417 0 16 *A spear is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 6 5473 2 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5417 0 16 *A spear is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+M 0 5430 7 5474 1 *Load a {#sa{3hu{#ag{3in {5guard{0
+E 0 5417 0 16 *A spear is loaded wielded of a {#sa{3hu{#ag{3in {5guard{0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5400
+if level $n <= 75
+say Why are you coming here little one.  You are not welcome.
+kill $n
+mob cast 'haste' guard
+mob cast 'stone skin' guard
+else
+say Come on in, $n.
+end if
+~
+#5401
+mob damage $n 500 1000
+mob echo {6A {3guard {6rams his weapon through $n's side.{0
+~
+#0
+
+#$

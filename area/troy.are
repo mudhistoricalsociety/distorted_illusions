@@ -1,0 +1,3311 @@
+#AREADATA
+Name Troy~
+Builders None~
+VNUMs 10900 10999
+Continent 2
+Credits {y[{Y80-101{y]{c Donald   {YTroy{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#10900
+ajax~
+Ajax~
+Ajax stands proudly before you.
+~
+Ajax is a mighty warrior, the most powerful of the Achaens, save for Achilles. He is a proud man, and his pride may one day lead to his downfall.
+~
+human~
+ABF 0 0 0 0
+130 40 50d200+10000 0d0+0 14d13+70 slash
+-20 -20 -20 -20
+FK AB 0 0
+stand stand none 20000
+H ACK medium unknown
+F for AMV
+F par BDEFGHIJ
+#10901
+achilles~
+Achilles~
+Achilles sits here, sulking.
+~
+Achilles is sulking in his tent due to a slight from Agamemnon.  This is
+unfortunate for the Achaeans, as he is their most powerful warrior.  He is
+favored of the gods, and possessed of supernatural defenses as he was dipped
+in the Styx while a babe.  He was given a choice long ago to live a long but
+uneventful life, or a short but action-filled life, and he chose the latter.
+~
+human~
+A 0 H 0 0
+130 130 50d100+11000 0d0+0 20d13+80 none
+0 0 0 0
+0 0 0 0
+stand stand none 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10902
+odysseus~
+King Odysseus~
+King of Ithaca, grins as he concocts another scheme.
+~
+Odysseus is a powerful warrior, the strongest of the Achaens, and the
+most cunning.  While not the best combatant, he more than compensates for
+this with his quick wits, which keep him alive long after all his allies
+have died.  
+~
+human~
+AB 0 0 0 0
+150 40 50d50+15000 0d0+0 5d24+70 slash
+-25 -25 -25 -25
+CFK AB F 0
+stand stand none 30000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10903
+agamemnon~
+King Agamemnon~
+King of Mycenae and commander of the Achaens, stands before you.
+~
+Agamemnon, one of the two Atreides, is the commander-in-chief of the
+Greek forces who are amassed here to "rescue" Helen from the Trojans.  He is
+stern and haughty, and also quite hard and unrelenting in his quest for
+vengeance.  
+~
+human~
+AB 0 0 0 0
+150 40 100d100+20000 0d0+0 10d16+70 slash
+-25 -25 -25 -25
+CFK AB F 0
+stand stand none 30000
+H CK medium unknown
+F for AMV
+F par ABDEFGHIJ
+#10904
+nestor~
+King Nestor~
+King of Pylos, smiles politely at you.
+~
+Nestor is ruler of the port of Pylos, who came with a small force to aid
+his allies Menelaus and Agamemnon.  An elderly man, he is one of the few to
+survive the Trojan War and the subsequent journey home.  
+~
+human~
+AB 0 0 0 0
+150 45 100d50+20000 0d0+0 10d20+70 pound
+-20 -20 -18 -20
+CFK AB 0 0
+stand stand none 20000
+H ABCK medium unknown
+F for AMV
+F par DEFGHIJ
+#10905
+menelaus~
+King Menelaus~
+King of Sparta, frowns worriedly.
+~
+Menelaus, one of the Atreides, is one of the central players in this war,
+for it is because of the kidnapping of his wife Helen by Paris that the
+Achaens have come here.  Menelaus is worried for his wife, whom he loves
+greatly.  
+~
+human~
+AB 0 0 -50 0
+150 45 10d2000+14000 0d0+0 5d23+70 slash
+-50 -50 -50 -50
+CEFK AB CEF 0
+stand stand none 30000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10906
+patroclus~
+Patroclus~
+Patroclus, favorite of Achilles, stands here quietly.
+~
+Patroclus is the favored err...  "companion" of Achilles.  Achilles cares
+deeply for him, but when he goes into his sulk, Patroclus enters the field
+wearing his armor, and is slain by Hector, who thinks him to be Achilles. 
+But that is another story.  
+~
+human~
+AB 0 0 0 0
+150 45 10d1000+14000 0d0+0 13d13+70 slice
+-20 -20 -20 -20
+CFGK AB CEJX 0
+stand stand none 30000
+H ACK medium unknown
+F for AMV
+F par BDEFGHIJ
+#10907
+paris~
+Paris~
+Paris, a prince of Troy, glares arrogantly at you.
+~
+Here he is, the rogue who stole away Helen from Menelaus.  Paris is not a
+mean or spiteful man, just a lustful one.  Unfortunately his breach of the
+host-guest code of behaviour will cost his whole city its existence.  
+~
+human~
+AB 0 0 -150 0
+150 150 5d3000+12000 0d0+0 5d19+45 none
+-15 -15 -15 -1
+FIK AB E C
+stand stand none 20000
+H BCK medium unknown
+F for AMV
+F par ADEFGHIJ
+#10908
+hector~
+Hector~
+Hector, brother of Paris, stands before you.
+~
+Hector is one of the mightiest heroes of Troy, save maybe for Aeneas if
+you believe Virgil.  He is the favorite son of his parents, and of Troy.  He
+is in charge of the Trojan forces.  
+~
+human~
+AB 0 0 100 0
+150 150 5d3000+12000 0d0+0 5d18+45 none
+-15 -15 -15 -20
+F AB C 0
+stand stand none 20000
+H ABCK medium unknown
+F for AMV
+F par DEFGHIJ
+#10909
+priam~
+King Priam~
+Priam, king of Ilium, hobbles weakly forward.
+~
+Priam is the elderly king of Troy, and father of Paris and Hector.  He is
+too infirm to command his army in battle so that task falls to his favorite
+son, Hector.  
+~
+human~
+AB DFVe 0 0 0
+150 150 5d3000+12000 0d0+0 5d17+50 none
+-20 -20 -10 1
+CFK ABNPQS C 0
+stand stand none 20000
+H ACK medium unknown
+F for AMV
+F par BDEFGHIJ
+#10910
+aeneas~
+Aeneas~
+Aeneas, champion of Troy, stands before you.
+~
+Aeneas is according to Virgil the greatest of the Trojans, and the one
+who escapes to found Rome.  He is a powerful warrior, and a just and
+honorable, if proud, man.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 0d0+0 slice
+-50 -50 -50 -50
+CFK ABF CD 0
+stand stand none 20000
+H ABCK medium unknown
+F for AMV
+F par DEFGHIJ
+#10911
+helen~
+Helen~
+Helen, consort of Paris and wife of Menelaus, stands here.
+~
+Helen is the cause, albeit not willingly, of the war.  She was
+"kidnapped" by Paris, whom she developed a deep affection for due to the
+machinations of Aphrodite.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d18+45 none
+-15 -15 -15 -15
+CFK AB D 0
+stand stand none 20000
+H ABCK medium unknown
+F for AMV
+F par DEFGHIJ
+#10912
+cassandra~
+Cassandra~
+Cassandra, priestess of Apollo, foretells the fall of Troy.
+~
+Cassandra is the sister of Hector and Paris.  She fooled the god Apollo
+into giving her the power of prophecy, which he couldn't reverse, so he
+cursed her by having it that no-one would ever believe her prophecies.  
+~
+human~
+AB 0 0 100 0
+150 150 5d3000+12000 0d0+0 5d18+45 slash
+-15 -15 -15 -10
+CFK AB C 0
+stand stand none 20000
+H BCK medium unknown
+F for AMV
+F par ADEFGHIJ
+#10913
+andromache~
+Andromache~
+Andromache, the wife of Hector, stands here.
+~
+Andromache is married to Hector, Ilium's favorite son.  She stands here
+on the walls watching her husband lead the soldiers into battle.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d19+48 pound
+-15 -15 -15 -10
+FKNO AB F 0
+stand stand none 20000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10914
+hecabe~
+Hecabe~
+Hecabe, Queen of Ilium, smiles sadly.
+~
+Hecabe is the wife of Priam, and mother of Hector, Paris and Cassandra. 
+And that's all there is to say, really.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 0d0+0 pound
+-40 -40 -40 -40
+FKN ABC 0 0
+stand stand none 20000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10915
+automedon~
+Automedon~
+Automedon, squire of Achilles, stands ready here.
+~
+Automedon is one of Achilles' Myrmidons, and serves as his squire.  He
+also serves as squire for Patroclus when he goes into battle.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d17+45 none
+-15 -15 -15 -15
+FKN AB 0 0
+stand stand none 20000
+H ABCEFK medium unknown
+F for AMV
+F par DGHIJ
+#10916
+aias~
+Aias~
+Aias stands here whining insolently.
+~
+Aias was in a race for the armor of Achilles, against Odysseus, and was
+tripped when he was ahead by Athena so Odysseus would win.  He got a face
+full of dung, and isn't happy about it.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d10+40 crush
+-10 -1 -1 -2
+EFKN AB F CD
+stand stand none 20000
+H ABCK medium unknown
+F for AMV
+F par DEFGHIJ
+#10917
+chalcas~
+Chalcas~
+Chalcas, son of Thestor, prophesies about the future.
+~
+Chalcas is the chief prophet and augur of the Achaen expedition, and
+offers wise advice with his gods-granted powers.  
+~
+human~
+AB 0 0 0 0
+140 140 5d3500+10000 0d0+0 5d20+60 none
+-10 -15 -50 -10
+CFGK AB 0 0
+stand stand none 14000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10918
+chryseis~
+Chryseis~
+Chryseis, daughter of Chryses, weeps to herself.
+~
+Chryseis was captured at Thebe by Achilles and alloted to Agamemnon. 
+Apollo, deity of her father, forced Agamemnon to return her.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d15+40 crush
+-10 -10 -10 -8
+FKN AB 0 0
+stand stand none 20000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10919
+briseis~
+Briseis~
+Briseis stands here looking confused.
+~
+Briseis is the source of the quarrel between Achilles and Agamemnon. 
+When Agamemnon was forced to return Chryseis, he took Briseis from Achilles,
+who had rightfully captured her.  Achilles lost face, and decided to retreat
+to his tent to nurse his injured pride.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d18+45 slash
+-10 -10 -15 -10
+CFK AB 0 0
+stand stand male 20000
+H BCFK medium unknown
+F for AMV
+F par ADEGHIJ
+#10920
+antilochus~
+Antilochus~
+Antilochus, son of Nestor, grunts in greeting.
+~
+Antilochus is the brother of Thrasymedes, and the son of King Nestor of
+Pylos.  He is a brave and capable warrior, and loyal to his father.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d15+35 slice
+-10 -10 -10 -10
+CFK AB 0 0
+stand stand none 20000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10921
+thrasymedes~
+Thrasymedes~
+Thrasymedes, son of Nestor, grunts in greeting.
+~
+Thrasymedes is the brother of Antilochus, and the son of King Nestor of
+Pylos.  He is a brave and capable warrior, and loyal to his father.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d16+45 slash
+-10 -10 -10 -10
+CFK AB 0 0
+stand stand none 20000
+H CFK medium unknown
+F for AMV
+F par ABDEGHIJ
+#10922
+king diomodes~
+King Diomedes~
+Diomedes, king of Argos, smiles and greets you.
+~
+Diomedes is an affable-enough fellow, very found of Tydeus his father. 
+He is of even temper, and much more likeable than most of the surly
+Achaeans.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d20+55 none
+-50 -50 -50 -50
+0 AB CD 0
+stand stand none 30000
+H ABCEFK medium unknown
+F for AMV
+F par DGHIJ
+#10923
+eurypylus~
+Eurypylus~
+Eurypylus stands ready for combat.
+~
+An Achaean soldier who has seen action fighting Paris.  He is
+unremarkable.  
+~
+human~
+AB 0 0 0 0
+120 120 5d2500+8000 0d0+0 10d10+60 pierce
+-6 -6 -6 -5
+CFK AB 0 0
+stand stand none 10000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10924
+idomeneus~
+King Idomeneus~
+Idomeneus, son of Deucalion and King of Crete, is one of Agamemnon's captains.
+~
+Idomeneus is easily one of the most ablest officers in Agamemnon's staff,
+and quite amiable to boot.  He is able in command and in combat.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 10d150+10 slash
+-10 -15 -15 -20
+CFK AB 0 P
+stand stand none 30000
+H ABCDEFHJK large unknown
+F for AMV
+F par GI
+#10925
+machaon~
+Machaon~
+Machaon, son of the famous Asclepius, tends to the sick here.
+~
+Machaon, along with his brother Podaleirius, serves as chief physician to
+the Achaen troops.  
+~
+human~
+AB V 0 0 0
+150 150 5d3000+12000 0d0+0 5d15+35 pound
+-10 -10 -10 -10
+FGK AB 0 0
+stand stand none 20000
+H ABCDFHJK medium unknown
+F for AMV
+F par EGI
+#10926
+menestheus~
+Menestheus~
+Menestheus, son of Prince Peteos, leads the Athenian contingent.
+~
+Menestheus is the son of Prince Peteos, ruler of Athens, and has been
+sent in charge of the troops Athens sent to aid her allies.  
+~
+human~
+AB Va E 0 0
+150 150 5d3000+12000 0d0+0 5d18+45 slash
+-15 -15 -15 -15
+CFK AB 0 0
+stand stand none 20000
+H ACK medium unknown
+F for AMV
+F par BDEFGHIJ
+#10927
+meriones~
+Meriones~
+Meriones, nephew of Idomeneus, stands ready.
+~
+Meriones is squire to Idomeneus, and also second in command of the Cretan
+contingent.  
+~
+human~
+AB V 0 0 0
+150 150 5d3000+12000 0d0+0 5d19+40 slice
+-15 -15 -15 -15
+CFK AB 0 0
+stand stand none 20000
+H ABCFK medium unknown
+F for AMV
+F par DEGHIJ
+#10928
+sthenelus~
+Sthenelus~
+Sthenelus, squire of Diomedes, stands ready to assist his master.
+~
+Sthenelus is an unremarkable squire.  
+~
+human~
+A 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d15+45 pound
+-15 -15 -15 -15
+FGK AB 0 0
+stand stand none 20000
+H ABCDFHJK medium unknown
+F for AMV
+F par EGI
+#10929
+talthybius~
+Talthybius~
+Talthybius, herald of Agamemnon, stands outside the tent.
+~
+He is Agamemnon's chief herald.  
+~
+human~
+AB 0 0 0 0
+105 105 5d1000+7000 0d0+0 10d15+50 pound
+-15 -15 -15 -15
+CEFGKN AB 0 0
+stand stand male 15000
+H ABCFHJ medium unknown
+F for AMV
+F par DEGIK
+#10930
+greater aias~
+the greater Aias~
+The greater Aias strings his bow and eyes you cautiously.
+~
+The greater Aias is the greatest archer of all the Achaeans.  He is the
+son of King Telamon, the ruler of Salamis, and is thus sometimes called
+Telamonian Aias.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 0d0+0 pierce
+-15 -15 -15 -15
+FK AB 0 0
+stand stand none 20000
+H ABCHJK medium unknown
+F for AMV
+F par DEFGI
+#10931
+thersites~
+Thersites~
+Thersites scratches himself and spits on the ground.
+~
+A common foot soldier, Thersites is remarkable only for his unruliness,
+and his big mouth, which gets him killed by Achilles eventually.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d19+35 crush
+-15 -15 -15 -15
+CFK AB 0 0
+stand stand none 20000
+H ABCF medium unknown
+F for AMV
+F par DEGHIJK
+#10932
+tleopolemus~
+Tleopolemus~
+Tleopolemus smiles grimly and readies his weapons.
+~
+Tleopolemus is the son of Heracles and Astyocheia, and hails from Rhodes.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d20+45 pound
+-15 -15 -20 -11
+CFK AB 0 0
+stand stand none 20000
+H ABCEF medium unknown
+F for AMV
+F par DGHIJK
+#10933
+antenor~
+Antenor~
+Antenor the traitor sneaks past.
+~
+Antenor was called a traitor for he advised his king to give up Helen to
+the Achaeans, and when they took Ilium they spared him.  He was a Trojan
+noble.  
+~
+human~
+ABF 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d18+45 slice
+-15 -15 -15 -10
+BK AB 0 0
+stand stand none 20000
+H AC medium unknown
+F for AMV
+F par BDEFGHIJK
+#10934
+deiphobus~
+Deiphobus~
+Deiphobus, another Prince of Troy, strolls past you.
+~
+Deiphobus is another son of Priam and Hecabe.  When Paris is slain he
+weds Helen and is subsequently slain by Menelaus for his troubles.  
+~
+human~
+A V 0 0 0
+150 150 5d3000+12000 0d0+0 5d15+35 slice
+-10 -10 -10 -10
+CFK AB 0 0
+stand stand none 20000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10935
+glaucus~
+Glaucus~
+Glaucus son of Hippolochus stands here.
+~
+Glaucus is second in command of the Lycian allies under Sarpedon his
+cousin.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d18+48 slash
+-15 -15 -15 -20
+FK AB 0 0
+stand stand none 20000
+H ACK medium unknown
+F for AMV
+F par BDEFGHIJ
+#10936
+helenus~
+Helenus~
+Helenus, yet another Prince of Troy, casts an augury.
+~
+Helenus is another son of Priam and Hecabe.  Like Cassandra, his sister,
+he has the gift of prophecy.  He eventually weds Andromache.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d20+50 slash
+-15 -15 -15 -19
+CFK AB 0 0
+stand stand male 20000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10937
+neoptolemus~
+Neoptolemus~
+Neoptolemus, son of Achilles, swaggers past you.
+~
+Neoptolemus may be the son of Achilles, but he isn't a patch on his
+father in terms of ability or strength.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d17+45 slash
+-15 -15 -15 -10
+CFK AB 0 0
+stand stand male 20000
+H ABCDF medium unknown
+F for AMV
+F par EGHIJK
+#10938
+idaeus~
+Idaeus~
+Idaeus stands ready in the court.
+~
+Idaeus is the herald of king Priam, his chief herald in fact.  Not the
+most exciting of jobs, really.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d18+45 slice
+-15 -15 -15 -20
+FK AB 0 0
+stand stand none 20000
+H 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#10939
+pandarus~
+Pandarus~
+Pandarous, son of Lycaon, is here.
+~
+Pandarus is a fool, a treacherous one at that too.  He isn't very important 
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d20+40 slice
+-15 -15 -15 -20
+CFK 0 0 0
+stand stand none 20000
+H ABCJ medium unknown
+F for AMV
+F par DEFGHIK
+#10940
+polydamas~
+Polydamas~
+Polydamus, a Trojan general, surveys his men.
+~
+Despite being a commoner, Polydamus is one of Troy's best warriors and
+leaders.  He is a cautious, clear-headed strategist, one of the ablest of
+the leaders on either side.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d20+45 slash
+-20 -20 -20 -50
+CFK AB 0 0
+stand stand none 20000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10941
+sarpedon~
+King Sarpedon~
+King Sarpedon, king of Lycia and a son of Zeus himself, is here.
+~
+Sarpedon is the commander of Troy's Lycian allies, and is a competent
+ruler.  His mother, Laodameia, was the daughter of Bellerophon, slayer of
+the Chimera, and tamer of the Pegasus.  
+~
+human~
+AB 0 0 0 0
+150 150 5d3000+12000 0d0+0 5d25+50 divine
+-50 -50 -50 -45
+FK AB CD 0
+stand stand none 20000
+H ABCJK medium unknown
+F for AMV
+F par DEFGHI
+#10942
+achaean soldier~
+an Achaean soldier~
+An Achaean soldier marches back and forth.
+~
+This fellow has been fighting for nine years.  
+~
+human~
+AB V 0 0 0
+130 130 100d100+11000 0d0+0 13d13+65 slash
+-25 -25 -25 -30
+CFK AB CDEF 0
+stand stand none 15000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10943
+trojan soldier~
+a Trojan soldier~
+A Trojan soldier marches back and forth.
+~
+This fellow has been fighting for nine years.  
+~
+human~
+AB FV 0 0 0
+130 150 5d1000+10000 0d0+0 13d13+65 slash
+-25 -25 -25 -25
+CFK AB EFH 0
+stand stand none 15000
+H ABC medium unknown
+F for AMV
+F par DEFGHIJK
+#10944
+trojan citizen~
+a Trojan citizen~
+A Trojan citizen hurries by.
+~
+These citizens are sick of the war.  
+~
+human~
+AB 0 0 0 0
+120 50 5d2000+3000 0d0+0 10d10+60 pound
+-15 -15 -15 -15
+CFK AB DFG 0
+stand stand none 10000
+H ABCDHJK medium unknown
+F for AMV
+F par EFGI
+#10945
+a shark~
+a shark~
+A shark is swimming around here
+~
+~
+water fowl~
+ABFG PVbc B 0 0
+130 240 30d70+8000 10d10+10 0d0+0 bite
+-50 -50 -50 -25
+CDFK 0 R APT
+stand stand none 0
+Ga ACDEFK large unknown
+F aff T
+F for AW
+F par HP
+#10946
+Leviathan~
+a leviathan~
+A leviathan is swimming around looking for someone to snack on
+~
+~
+human~
+ABFG JVbc H 0 0
+145 250 40d85+8050 10d10+10 0d0+0 bite
+-60 -60 -60 -12
+CDH AIR K NPT
+stand stand none 0
+Ra AK huge unknown
+F for AHMV
+F par BCDEFGHIJ
+#10947
+piranah~
+a piranah~
+A vicious piranah is swimming here
+~
+~
+human~
+ABG Vc H 0 0
+140 250 30d75+8500 10d10+10 0d0+0 bite
+-30 -30 -30 -25
+DFHK A K NPT
+stand stand none 0
+0 AK medium unknown
+F for AHMV
+F par BCDEFGHIJ
+#0
+
+
+
+#OBJECTS
+#10900
+short thrusting spear~
+a short thrusting spear~
+A short thrusting spear is jabbed in the dirt here.~
+wood~
+weapon B AN
+staff 13 15 thrust DEF
+101 100 1000 P
+A
+19 9
+A
+18 8
+#10901
+long throwing spear~
+a long throwing spear~
+A long throwing spear has been thrust into the dirt here.~
+iron~
+weapon Ae AN
+staff 12 16 thrust AF
+101 130 1000 P
+A
+18 9
+A
+19 8
+A
+20 -4
+#10902
+ox hide shield~
+an ox hide shield~
+An ox hide shield rests on the ground here.~
+unknown~
+armor AY AJ
+BD BD ABCD ABCD 0
+101 5 1000 P
+A
+18 10
+A
+20 -4
+#10903
+boar tusk helm~
+a boar tusk helm~
+A boar tusk hel lies here.~
+iron~
+armor BY AE
+AD AD AD AD 0
+101 10 1500 P
+A
+20 -6
+#10904
+leather jerkin~
+a leather jerkin~
+A leather jerkin lies in the dirt here.~
+cotton~
+armor Y AD
+ABCD CE CE ADE 0
+101 1 1000 P
+A
+20 -2
+A
+13 140
+#10905
+bronze breastplate~
+a bronze breastplate~
+A bronze breastplate has been left here.~
+bronze~
+armor AY AD
+BD ABCD BD ADE 0
+101 5 1000 P
+A
+13 100
+A
+14 100
+A
+19 6
+#10906
+goblet wine~
+a goblet of watered wine~
+A goblet of watered wine rests here.~
+unknown~
+drink AU AO
+100 100 'red wine' 0 0
+101 1 1 P
+#10907
+board game~
+a board game~
+A board game resets on a table here.~
+unknown~
+trash U AO
+0 0 0 0 0
+1 1 1 P
+A
+13 50
+#10908
+achilles breastplate~
+{WA{wch{yill{wie{Ws {DB{creastplat{De{x~
+{WA{wch{yill{wie{Ws {DB{creastplat{De{x lies here.{x~
+gold~
+armor Y AD
+ABCD ABCD ABCD ABCD 0
+80 10 2000 P
+A
+20 -1
+A
+2 -2
+A
+19 5
+A
+18 5
+A
+13 50
+#10909
+achillies' gauntlets~
+{WA{wch{yill{wie{Ws {DG{cauntlet{Ds{x~
+{WA{wch{yill{wie{Ws {DG{cauntlet{Ds{x lie here.{x~
+gold~
+armor Y AH
+BC BC BC BC 0
+80 5 2000 P
+A
+1 2
+A
+12 40
+A
+19 4
+A
+13 52
+#10910
+achilles helm~
+achillies helm~
+Achillies' helm lies here.~
+gold~
+armor 0 AE
+AD AD AD AD 0
+101 4 2000 P
+A
+12 50
+A
+13 100
+A
+20 -4
+#10911
+achilles sword~
+achillies' sword~
+Achillies' sword lies here.~
+metal~
+weapon A AN
+sword 15 13 slash A
+101 50 1000 P
+A
+19 5
+#10912
+bronze sword~
+a bronze sword~
+A bronze sword lies here.~
+metal~
+weapon 0 AN
+sword 13 14 slash A
+101 55 1000 P
+A
+3 -1
+A
+1 3
+A
+19 10
+A
+18 14
+#10913
+bronze dagger~
+a bronze dagger~
+A bronze dagger with lions carved upon it lies here.~
+metal~
+weapon B AN
+dagger 13 14 pierce AE
+101 5 1500 P
+A
+18 15
+A
+19 4
+#10914
+bronze shield~
+a bronze shield~
+A bronze shield has been left here.~
+metal~
+armor 0 AJ
+AD AC AC AD 0
+101 5 1500 P
+A
+13 100
+A
+20 -5
+#10915
+achilles' shield~
+achilles' shield~
+Achilles' shield lies here.~
+metal~
+armor e AJ
+AC BD AC AC 0
+101 5 1500 P
+A
+1 1
+A
+20 -3
+A
+13 130
+A
+5 1
+#10916
+sandals~
+a pair of sandals~
+A pair of sandals lie here.~
+leather~
+armor Y AG
+A A A A 0
+101 1 1 P
+A
+13 75
+A
+14 200
+A
+2 3
+A
+18 3
+#10917
+stone axe~
+a stone axe~
+A stone axe lies here.~
+stone~
+weapon Y AN
+axe 15 13 pound FG
+101 65 100 P
+A
+19 14
+A
+18 -3
+#10918
+banner~
+a banner~
+A banner is stuck in the ground here.~
+cotton~
+trash 0 AO
+0 0 0 0 0
+1 1 1 P
+A
+13 50
+#10919
+bronze helm~
+bronze helm~
+A bronze helm with horsehair plume lies here.~
+metal~
+armor Y AE
+BD BD BD BD 0
+101 5 50 P
+A
+18 7
+A
+19 10
+A
+13 75
+#10920
+cot~
+a cot~
+A cot with heavy furs piled on it sits here.~
+fur~
+furniture Td 0
+A DFGHIJ EHK CDEFHJ CDFI
+101 1 1 P
+#10921
+mace of Life~
+mace of Life~
+A very modest looking mace lies here.~
+nonmetal~
+weapon SY AN
+mace 17 11 smash G
+101 20 55000 P
+A
+18 -10
+A
+19 16
+#10922
+royal boots~
+royal boots~
+A very regal set of boots lay here.~
+leather~
+armor AS AG
+DE DE DE CE 0
+101 20 55000 P
+A
+18 -8
+A
+19 13
+A
+2 1
+#10923
+blessing of Athens~
+blessing of Athens~
+A small delicate potion lays here.~
+glass~
+potion ABFY AO
+115 'bless' 'holy word' 'steel flesh' 'mass invis'
+101 15 25000 P
+#10924
+sword centaur~
+{*Sword of the Centaur{x~
+One of the famed {*Sword of the Centaurs{x lies here~
+unknown~
+weapon AHT AN
+sword 10 20 slice E
+101 4 1000 P
+A
+13 25
+A
+17 10
+A
+19 14
+#10925
+broadsword~
+a broadsword~
+A broadsword lies here.~
+unknown~
+weapon 0 AN
+sword 12 11 slice 0
+71 2 20000 P
+A
+19 10
+A
+18 9
+#10926
+perpetual light beam~
+{YPe{Wr{Ypet{Wu{Yal Li{Wg{Yht{x~
+A beam of light shines for all eternity.~
+unknown~
+treasure AS AO
+0 0 0 0 0
+101 0 500 P
+A
+17 -40
+#0
+
+
+
+#ROOMS
+#10900
+{1D{!a{3w{#n{^ on the Crystal Sea{x~
+{6   You are sailing across the deep seas of the north.  Dawn appears,
+fresh and rosy-fingered.  Catching you offguard as you make your way
+across the amazingly deep crystal clear stretches of the sea, sailing
+toward whatever adventures may wait in this mystical land.{x
+~
+0 4 0
+D0
+~
+~
+0 0 10905
+D1
+~
+~
+0 0 10901
+D2
+~
+~
+0 0 13992
+S
+#10901
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 4 0
+D0
+~
+~
+0 0 10906
+D1
+~
+~
+0 0 10902
+D2
+~
+~
+0 0 13995
+D3
+~
+~
+0 0 10900
+S
+#10902
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait. 
+Mountains loom to the south, though you do see a point where you could set
+ashore.  
+~
+0 0 0
+D0
+~
+~
+0 0 10907
+D1
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10901
+S
+#10903
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10908
+D1
+~
+~
+0 0 10904
+D3
+~
+~
+0 0 10902
+S
+#10904
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10909
+D3
+~
+~
+0 0 10903
+S
+#10905
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10910
+D1
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10900
+D3
+~
+~
+0 0 44064
+S
+#10906
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10911
+D1
+~
+~
+0 0 10907
+D2
+~
+~
+0 0 10901
+D3
+~
+~
+0 0 10905
+S
+#10907
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10912
+D1
+~
+~
+0 0 10908
+D2
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 10906
+S
+#10908
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10913
+D1
+~
+~
+0 0 10909
+D2
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10907
+S
+#10909
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north. Dawn appears, fresh and rosy-fingered, and catches you making your way across the wine dark stretches of the deep sea, sailing toward whatever adventures may wait.
+~
+0 0 0
+D0
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 10904
+D3
+~
+~
+0 0 10908
+S
+#10910
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10915
+D1
+~
+~
+0 0 10911
+D2
+~
+~
+0 0 10905
+S
+#10911
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10916
+D1
+~
+~
+0 0 10912
+D2
+~
+~
+0 0 10906
+D3
+~
+~
+0 0 10910
+S
+#10912
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10917
+D1
+~
+~
+0 0 10913
+D2
+~
+~
+0 0 10907
+D3
+~
+~
+0 0 10911
+S
+#10913
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10918
+D1
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 10908
+D3
+~
+~
+0 0 10912
+S
+#10914
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10909
+D3
+~
+~
+0 0 10913
+S
+#10915
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10920
+D1
+~
+~
+0 0 10916
+D2
+~
+~
+0 0 10910
+S
+#10916
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10921
+D1
+~
+~
+0 0 10917
+D2
+~
+~
+0 0 10911
+D3
+~
+~
+0 0 10915
+S
+#10917
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10922
+D1
+~
+~
+0 0 10918
+D2
+~
+~
+0 0 10912
+D3
+~
+~
+0 0 10916
+S
+#10918
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10923
+D1
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10913
+D3
+~
+~
+0 0 10917
+S
+#10919
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10924
+D2
+~
+~
+0 0 10914
+D3
+~
+~
+0 0 10918
+S
+#10920
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  
+~
+0 0 0
+D0
+~
+~
+0 0 10925
+D1
+~
+~
+0 0 10921
+D2
+~
+~
+0 0 10915
+S
+#10921
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here, though there is no place to land.  
+~
+0 0 0
+D0
+~
+~
+0 0 10926
+D1
+~
+~
+0 0 10922
+D2
+~
+~
+0 0 10916
+D3
+~
+~
+0 0 10920
+S
+#10922
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here, though there is no place to land.  
+~
+0 0 0
+D1
+~
+~
+0 0 10923
+D2
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10921
+S
+#10923
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here, as are several black hulled ships, all
+moored to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 10928
+D1
+~
+~
+0 0 10924
+D2
+~
+~
+0 0 10918
+D3
+~
+~
+0 0 10922
+S
+#10924
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here, though there is no place to land.  
+~
+0 0 0
+D2
+~
+~
+0 0 10919
+D3
+~
+~
+0 0 10923
+S
+#10925
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north. Dawn appears, fresh and rosy-fingered, and catches you making your way across the wine dark stretches of the deep sea, sailing toward whatever adventures may wait.
+~
+0 0 0
+D1
+~
+~
+0 0 10926
+D2
+~
+~
+0 0 10920
+S
+#10926
+Sailing Over the Wine Dark Sea~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here, though there is no place to land.  
+~
+0 0 0
+D2
+~
+~
+0 0 10921
+D3
+~
+~
+0 0 10925
+S
+#10927
+Before a Small Inlet~
+You are sailing across the deep seas of the north.  Dawn appears, fresh
+and rosy-fingered, and catches you making your way across the wine dark
+stretches of the deep sea, sailing toward whatever adventures may wait.  The
+coastline is visible from here.  You could moor in a small inlet to the east
+near the walls of a great city.  
+~
+0 0 0
+D1
+~
+~
+0 0 10929
+D3
+~
+~
+0 0 10928
+S
+#10928
+The Shallows~
+You are currently bobbing up and down in the shallows.  To the north lies
+a huge plain, littered with tents and armored men, who are grouped around
+the walls of a huge city.  It looks as if some fierce fighting has taken
+place here.  
+~
+0 0 0
+D1
+~
+~
+0 0 10927
+D2
+~
+~
+0 0 10923
+S
+#10929
+An Inlet~
+You are bobbing up and down in an inlet below a small cliff than lies beneath the walls of a massive city- TROY. You could ascend this way, if you have the means, otherwise you will have to sail round till you find a more convenient disemarkation point.
+~
+0 0 0
+D3
+~
+~
+0 0 10927
+D4
+~
+~
+0 0 10930
+S
+#10930
+Flying up the Cliffs~
+You are traveling by a method which eluded the Achaeans besieging Troy-
+flight.  If they could fly the war would have ended years ago.  You chuckle
+at their misfortune and continue to travel.  The walls lie to the east of
+you.  Below lies the wine-dark sea.  
+~
+0 0 0
+D1
+~
+~
+0 0 10994
+D4
+~
+~
+0 0 10991
+D5
+~
+~
+0 0 10929
+S
+#10931
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10934
+D1
+~
+~
+0 0 10932
+S
+#10932
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10935
+D1
+~
+~
+0 0 10933
+D3
+~
+~
+0 0 10931
+S
+#10933
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10936
+D3
+~
+~
+0 0 10932
+S
+#10934
+Achilles' Tent~
+Chilles is in here, moping.  He lost face when Agamemnon took Briseis
+from him, and he is punishing the Mycenaean ruler by refusing to take to the
+field, a move which is costing the Achaeans dearly, as he is their best
+warrior.  
+~
+0 0 0
+D2
+~
+~
+0 0 10931
+S
+#10935
+Ajax's Tent~
+This tent is the abode of the hero Ajax.  He is usually not here, as he
+prefers to be out fighting or in the wine tent drinking.  
+~
+0 0 0
+D2
+~
+~
+0 0 10932
+S
+#10936
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10944
+D1
+~
+~
+0 0 10937
+D2
+~
+~
+0 0 10933
+S
+#10937
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10938
+D1
+~
+~
+0 0 10940
+D2
+~
+~
+0 0 10939
+D3
+~
+~
+0 0 10936
+S
+#10938
+Nestor's Tent~
+This is the tent of King Nestor, leader of the contingent from Pylos.  He
+is one of the older generals here, and one of the more wiser.  However, he
+is not one of the more influential.  
+~
+0 0 0
+D2
+~
+~
+0 0 10937
+S
+#10939
+Odysseus' Tent~
+This is the tent of noble Odysseus, the most notable of all the heroes
+assembled for this battle.  Chances are he won't be here, but rather off
+fixing up his little equine surprise for the Trojans...  
+~
+0 0 0
+D0
+~
+~
+0 0 10937
+S
+#10940
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10941
+D1
+~
+~
+0 0 10943
+D2
+~
+~
+0 0 10942
+D3
+~
+~
+0 0 10937
+S
+#10941
+Menelaus' Tent~
+Here resides King Menelaus of Sparta, the man who is at the center of all
+the trouble, for it is his wife (Helen) everyone from all over Greece is
+here to rescue.  He must feel terribly embarrassed for having dragged half
+of Greece to some remote Turkish city for 9 years.  
+~
+0 0 0
+D2
+~
+~
+0 0 10940
+S
+#10942
+Agamemnon's Tent~
+Here the head of the Achaean expedition resides, and also holds his staff
+meetings.  Battle plans hang on the walls and are also strewn over tables,
+chairs, cots and the floor.  Agamemnon is rather irritated at having spent
+nine years in this tent, and the floor.  Agamemnon is rather irritated at
+having spent nine years in this tent, and the stress is starting to show.  
+~
+0 0 0
+D0
+~
+~
+0 0 10940
+S
+#10943
+The Physicians' Tent~
+Here Machaon, son of Asclepius, and his brother tend to the sick and the
+wounded.  They will even tend your injuries, for a fee.  
+~
+0 0 0
+D3
+~
+~
+0 0 10940
+S
+#10944
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10948
+D2
+~
+~
+0 0 10936
+D3
+~
+~
+0 0 10945
+S
+#10945
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D1
+~
+~
+0 0 10944
+D3
+~
+~
+0 0 10946
+S
+#10946
+The Games~
+Even during times of war, the Achaeans find time for competitive sports
+meets, and this war is no exception.  This area has been converted into a
+rudimentary arena, with lanes for running and chariot racing, circles for
+discus and shotput, and a ring for boxing 
+~
+0 0 0
+D1
+~
+~
+0 0 10945
+D3
+~
+~
+0 0 10947
+S
+#10947
+The Games~
+Even during times of war, the Achaeans find time for competitive sports
+meets, and this war is no exception.  This area has been converted into a
+rudimentary arena, with lanes for running and chariot racing, circles for
+discus and shotput, and a ring for boxing 
+~
+0 0 0
+D1
+~
+~
+0 0 10946
+S
+#10948
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10956
+D1
+~
+~
+0 0 10955
+D2
+~
+~
+0 0 10944
+D3
+~
+~
+0 0 10949
+S
+#10949
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10950
+D1
+~
+~
+0 0 10948
+D2
+~
+~
+0 0 10951
+D3
+~
+~
+0 0 10952
+S
+#10950
+Idomenus' Tent~
+This is the tent of Idomeneus, King of the Cretans (NOT Cretins ;P).  He
+is Agamemnon's best and most trusted captain, and as such is highly
+respected by the Achaeans.  
+~
+0 0 0
+D2
+~
+~
+0 0 10949
+S
+#10951
+Menestheus' Tent~
+Menestheus is a prince from Athens, and leader of the Athenian contingent
+sent to the war.  He is not a major player so I won't give him a major room
+description.  
+~
+0 0 0
+D0
+~
+~
+0 0 10949
+S
+#10952
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10953
+D1
+~
+~
+0 0 10949
+D2
+~
+~
+0 0 10954
+D3
+~
+~
+0 0 10957
+S
+#10953
+Tlepolemus' Tent~
+This is the tent of the Argive prince Tlepolemus, son of the legendary
+Heracles.  He is a mighty warrior and a great ally of the Achaean forces. 
+Notice how all these Achaeans have names ending with 's'?  
+~
+0 0 0
+D2
+~
+~
+0 0 10952
+S
+#10954
+Aias the Greater's Tent~
+This is the tent of Aias the Greater, the best archer of all the
+Achaeans, and a superb athlete.  He is most probably currently competing in
+some competition even as we speak.  
+~
+0 0 0
+D0
+~
+~
+0 0 10952
+S
+#10955
+The Horse~
+This is a broad clearing full of tradesmen and a huge, half-finished
+wooden horse.  You see scattered about the clearing wooden rabbits, badgers,
+stoats, turtles, hawks and echidnas.  Evidently a lot of thought went into
+the final choice for the lure...  
+~
+0 0 0
+D3
+~
+~
+0 0 10948
+S
+#10956
+The Battlefield~
+You are walking across the battlefield before the walls of Troy, where
+the besieging army of the Achaeans, led by Agamemnon, have sat encamped for
+years, the monotony only broken by the occasional battle.  Tents lay
+everywhere, housing the many soldiers that currently call this place home.  
+~
+0 0 0
+D0
+~
+~
+0 0 10958
+D2
+~
+~
+0 0 10948
+S
+#10957
+Diomedes' Tent~
+This is the tent of Diomedes, King of Argos, the most amicable and well-
+liked of the Achaean leaders on the field.  He is also a competent warrior
+and military leader, and engenders great likeness and respect from the
+troops.  
+~
+0 0 0
+D1
+~
+~
+0 0 10952
+S
+#10958
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10965
+D1
+~
+~
+0 0 10961
+D2
+~
+~
+0 0 10956
+D3
+~
+~
+0 0 10960
+S
+#10959
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10963
+D1
+~
+~
+0 0 10960
+S
+#10960
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10964
+D1
+~
+~
+0 0 10958
+D3
+~
+~
+0 0 10959
+S
+#10961
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10966
+D1
+~
+~
+0 0 10962
+D3
+~
+~
+0 0 10958
+S
+#10962
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10967
+D3
+~
+~
+0 0 10961
+S
+#10963
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10968
+D1
+~
+~
+0 0 10964
+D2
+~
+~
+0 0 10959
+S
+#10964
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 10965
+D2
+~
+~
+0 0 10960
+D3
+~
+~
+0 0 10963
+S
+#10965
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 10972
+D1
+~
+~
+0 0 10966
+D2
+~
+~
+0 0 10958
+D3
+~
+~
+0 0 10964
+S
+#10966
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 10967
+D2
+~
+~
+0 0 10961
+D3
+~
+~
+0 0 10965
+S
+#10967
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10970
+D2
+~
+~
+0 0 10962
+D3
+~
+~
+0 0 10966
+S
+#10968
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 10969
+D2
+~
+~
+0 0 10963
+S
+#10969
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the east.  
+~
+0 0 0
+D2
+~
+~
+0 0 10968
+S
+#10970
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 10971
+D2
+~
+~
+0 0 10967
+S
+#10971
+The Front Line~
+You are on the front line, in the midst of the field that has hosted the
+bulk of the senseless conflict between Achaean and Trojan.  The blood of
+thousands slain on both sides has soaked into the soil here, and there are
+weapons, armor and bones littered all about here.  The City of Troy lies
+directly to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 10970
+S
+#10972
+Outside the Gates of Ilium~
+The Gates of Ilium loom before you, tall and magnificent.  They are
+crafted of solid oak bound with bronze.  Surprisingly, they are closed but
+unlocked- the Achaean never thought to turn the handle...  
+~
+0 0 0
+D0
+~
+~
+0 0 10973
+D2
+~
+~
+0 0 10965
+S
+#10973
+The Streets of llium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+city gates lie to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 10980
+D1
+~
+~
+0 0 10976
+D2
+~
+~
+0 0 10972
+D3
+~
+~
+0 0 10975
+S
+#10974
+The Streets of Ilium~
+Ou are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the west look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10978
+D1
+~
+~
+0 0 10975
+S
+#10975
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the south look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10979
+D1
+~
+~
+0 0 10973
+D3
+~
+~
+0 0 10974
+S
+#10976
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the south look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10981
+D1
+~
+~
+0 0 10977
+D3
+~
+~
+0 0 10973
+S
+#10977
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the east look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10982
+D3
+~
+~
+0 0 10976
+S
+#10978
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the west look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10983
+D2
+~
+~
+0 0 10974
+S
+#10979
+A Residence~
+This is the home of some important citizen of Troy.  Fine tapestries
+adorn the walls, while a thick rug woven from materials unfamiliar to you
+covers the stone floor.  There is an ornate sofa near one wall, and a table
+holding a bronze urn near the doorway.  
+~
+0 0 0
+D2
+~
+~
+0 0 10975
+S
+#10980
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the south look strong enough to repel
+any foe, though.  The palace lies to the north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10984
+D2
+~
+~
+0 0 10973
+S
+#10981
+A Residence~
+This is the home of some important citizen of Troy.  Fine tapestries
+adorn the walls, while a thick rug woven from materials unfamiliar to you
+covers the stone floor.  There is an ornate sofa near one wall, and a table
+holding a bronze urn near the doorway.  
+~
+0 0 0
+D2
+~
+~
+0 0 10976
+S
+#10982
+The Streets of Ilium~
+Ou are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the east look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10985
+D2
+~
+~
+0 0 10977
+S
+#10983
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the west look strong enough to repel
+any foe, though.  A heavy iron sewer grate blocks passage down into a dark
+tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 10986
+D2
+~
+~
+0 0 10978
+D5
+~
+~
+3 0 22090
+S
+#10984
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the south look strong enough to repel
+any foe, though.  The walls of the magnificent palace loom to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 10988
+D2
+~
+~
+0 0 10980
+S
+#10985
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the east look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10990
+D2
+~
+~
+0 0 10982
+S
+#10986
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the west look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10991
+D1
+~
+~
+0 0 10987
+D2
+~
+~
+0 0 10983
+S
+#10987
+A Residence~
+This is the home of some important citizen of Troy.  Fine tapestries
+adorn the walls, while a thick rug woven from materials unfamiliar to you
+covers the stone floor.  There is an ornate sofa near one wall, and a table
+holding a bronze urn near the doorway.  
+~
+0 0 0
+D3
+~
+~
+0 0 10986
+S
+#10988
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the south look strong enough to repel
+any foe, though.  The entrance to the palace is directly north of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 10992
+D2
+~
+~
+0 0 10984
+S
+#10989
+A Residence~
+This is the home of some important citizen of Troy.  Fine tapestries
+adorn the walls, while a thick rug woven from materials unfamiliar to you
+covers the stone floor.  There is an ornate sofa near one wall, and a table
+holding a bronze urn near the doorway.  
+~
+0 0 0
+D1
+~
+~
+0 0 10990
+S
+#10990
+The Streets of Ilium~
+You are standing on a street in the city of Ilium, also known as Troy. 
+Trojans run here and there, with worried looks on their faces, for they are
+concerned for the safety of their city and their families during this war. 
+This state of war has lasted for nine years, with no sign of abating.  The
+massive walls of the city that loom to the east look strong enough to repel
+any foe, though.  
+~
+0 0 0
+D0
+~
+~
+0 0 10993
+D2
+~
+~
+0 0 10985
+D3
+~
+~
+0 0 10989
+S
+#10991
+The End of the Road~
+The road ends here at the sheer face of the northern wall of the city,
+which faces onto the tall, impenetrable mountains that loom north of the
+plains of Ilium.  However, you may climb the wall here at a weak point
+should you wish to.  
+~
+0 0 0
+D2
+~
+~
+0 0 10986
+D5
+~
+~
+0 0 10930
+S
+#10992
+Inside the Palace~
+This opulent abode is heavily furnished with items of bronze, gold and
+silver.  There is a central throne room to the north of here.  This place
+appears to be fairly deserted compared to the rest of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 10997
+D2
+~
+~
+0 0 10988
+S
+#10993
+The End of the Road~
+The road ends here at the sheer face of the northern wall of the city,
+which faces onto the tall, impenetrable mountains that loom north of the
+plains of Ilium.  
+~
+0 0 0
+D2
+~
+~
+0 0 10990
+S
+#10994
+Atop the Walls~
+You are strolling along the battlements of the mammoth walls of Troy.  To
+the south lies the massive battlefield where Trojans have fought Achaeans
+for the last nine years.  To the west lies the wine-dark seas.  
+~
+0 0 0
+D0
+~
+~
+0 0 10996
+D3
+~
+~
+0 0 10930
+S
+#10995
+Atop the Walls~
+You are strolling along the battlements of the mammoth walls of Troy.  To
+the south lies the massive battlefield where Trojans have fought Achaeans
+for the last nine years.  To the west lies the wine-dark sea.  
+~
+0 0 0
+D2
+~
+~
+0 0 10996
+S
+#10996
+Atop the Walls~
+You are strolling along the battlements of the mammoth walls of Troy.  To
+the south lies the massive battlefield where Trojans have fought Achaeans
+for the last nine years.  To the east lies the wine-dark sea.  Progress
+further south is prevented by a new barricade.  Evidently this section of
+the city has been hard-pressed in the siege.  
+~
+0 0 0
+D0
+~
+~
+0 0 10995
+D2
+~
+~
+0 0 10994
+S
+#10997
+The Center of the Palace~
+Here stands the throne of King Priam, and is the room in which he
+conducts business and receives visitors.  To the north, east and west lie
+the chambers of his family.  
+~
+0 0 0
+D1
+~
+~
+0 0 10998
+D2
+~
+~
+0 0 10992
+D3
+~
+~
+0 0 10999
+S
+#10998
+Chambers~
+In these luxurious rooms reside the many members of Priam's family.  Soft
+cushions and fabrics are draped over ornate furniture while naked slaves
+walk about pouring wine for the residents who are currently relaxing here. 
+Even in times of war, the rich citizens of Ilium live well.  
+~
+0 0 0
+D3
+~
+~
+0 0 10997
+S
+#10999
+Chambers~
+In these luxurious rooms reside the many members of Priam's family.  Soft
+cushions and fabrics are draped over ornate furniture while naked slaves
+walk about pouring wine for the residents who are currently relaxing here. 
+Even in times of war, the rich citizens of Ilium live well.  
+~
+0 0 0
+D1
+~
+~
+0 0 10997
+S
+#0
+
+
+
+#SPECIALS
+M 10925 spec_cast_cleric Load to: Machaon
+S
+
+
+
+#RESETS
+D 0 10983 5 2 The down door of The Streets of Ilium is closed and locked
+M 0 10943 100 10931 3 *Load a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan soldier
+M 0 10943 150 10931 3 *Load a Trojan soldier
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of a Trojan soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of a Trojan soldier
+E 0 10910 0 6 *Achillies helm is loaded over the head of a Trojan soldier
+E 0 10909 0 9 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded on the hands of a Trojan soldier
+E 0 10908 0 5 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded on the body of a Trojan soldier
+M 0 10943 100 10932 3 *Load a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10932 3 *Load an Achaean soldier
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10933 3 *Load a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+M 0 10942 150 10933 3 *Load an Achaean soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of an Achaean soldier
+M 0 10942 150 10934 5 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10901 1 10934 1 *Load Achilles
+E 0 10911 0 16 *Achillies' sword is loaded wielded of Achilles
+E 0 10908 0 12 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded about the shoulders of Achilles
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of Achilles
+E 0 10910 0 6 *Achillies helm is loaded over the head of Achilles
+M 0 10900 1 10935 1 *Load Ajax
+M 0 10943 100 10936 3 *Load a Trojan soldier
+M 0 10943 3 10936 100 *Load a Trojan soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan soldier
+E 0 10913 0 16 *A bronze dagger is loaded wielded of a Trojan soldier
+E 0 10910 0 6 *Achillies helm is loaded over the head of a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+M 0 10942 150 10936 3 *Load an Achaean soldier
+M 0 10942 3 10936 150 *Load an Achaean soldier
+M 0 10943 100 10937 3 *Load a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+M 0 10942 150 10937 3 *Load an Achaean soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of an Achaean soldier
+M 0 10904 1 10938 1 *Load King Nestor
+M 0 10902 1 10939 1 *Load King Odysseus
+M 0 10943 100 10940 3 *Load a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10940 3 *Load an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+E 0 10909 0 9 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded on the hands of an Achaean soldier
+M 0 10905 1 10941 1 *Load King Menelaus
+M 0 10903 1 10942 1 *Load King Agamemnon
+M 0 10925 1 10943 1 *Load Machaon
+M 0 10943 100 10944 3 *Load a Trojan soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10944 3 *Load an Achaean soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10945 3 *Load a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10945 3 *Load an Achaean soldier
+E 0 10908 0 5 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded on the body of an Achaean soldier
+E 0 10909 0 6 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded over the head of an Achaean soldier
+E 0 10910 0 6 *Achillies helm is loaded over the head of an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+O 0 10907 0 10946 *A board game loaded to The Games
+O 0 10907 0 10947 *A board game loaded to The Games
+M 0 10943 100 10948 3 *Load a Trojan soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10948 3 *Load an Achaean soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of an Achaean soldier
+M 0 10942 150 10949 3 *Load an Achaean soldier
+E 0 10908 0 5 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded on the body of an Achaean soldier
+E 0 10909 0 9 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded on the hands of an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+E 0 10910 0 6 *Achillies helm is loaded over the head of an Achaean soldier
+M 0 10943 100 10949 3 *Load a Trojan soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+M 0 10924 1 10950 1 *Load King Idomeneus
+E 0 10908 0 5 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded on the body of King Idomeneus
+E 0 10909 0 9 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded on the hands of King Idomeneus
+E 0 10910 0 6 *Achillies helm is loaded over the head of King Idomeneus
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of King Idomeneus
+E 0 10911 0 16 *Achillies' sword is loaded wielded of King Idomeneus
+E 0 10926 0 17 *{ype{wr{ypet{wu{yal li{wg{yht{x is loaded held in the hands of King Idomeneus
+M 0 10926 1 10951 1 *Load Menestheus
+E 0 10923 0 17 *Blessing of athens is loaded held in the hands of Menestheus
+M 0 10942 150 10952 3 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10952 3 *Load a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10932 1 10953 1 *Load Tleopolemus
+M 0 10930 1 10954 1 *Load the greater Aias
+E 0 10922 0 8 *Royal boots is loaded on the feet of the greater Aias
+M 0 10944 20 10955 3 *Load a Trojan citizen
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan citizen
+E 0 10902 0 11 *An ox hide shield is loaded as a shield of a Trojan citizen
+E 0 10903 0 6 *A boar tusk helm is loaded over the head of a Trojan citizen
+E 0 10904 0 5 *A leather jerkin is loaded on the body of a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+M 0 10922 1 10957 1 *Load King Diomedes
+E 0 10921 0 16 *Mace of life is loaded wielded of King Diomedes
+M 0 10942 150 10959 3 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10959 3 *Load a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10960 3 *Load an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+M 0 10943 100 10960 3 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10961 3 *Load an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+M 0 10943 100 10961 3 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10962 3 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10962 3 *Load a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10963 3 *Load an Achaean soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of an Achaean soldier
+M 0 10943 100 10963 3 *Load a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+M 0 10942 150 10964 3 *Load an Achaean soldier
+E 0 10908 0 5 *{wa{wch{yill{wie{ws {db{creastplat{de{x is loaded on the body of an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of an Achaean soldier
+M 0 10943 100 10964 3 *Load a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10965 3 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10965 3 *Load a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10966 3 *Load an Achaean soldier
+E 0 10915 0 11 *Achilles' shield is loaded as a shield of an Achaean soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of an Achaean soldier
+M 0 10942 100 10966 3 *Load an Achaean soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of an Achaean soldier
+M 0 10942 150 10967 3 *Load an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+M 0 10943 100 10967 3 *Load a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+M 0 10942 150 10968 3 *Load an Achaean soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of an Achaean soldier
+M 0 10943 100 10968 3 *Load a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+M 0 10942 150 10969 3 *Load an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+M 0 10943 100 10969 3 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10942 150 10970 3 *Load an Achaean soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of an Achaean soldier
+M 0 10943 100 10970 3 *Load a Trojan soldier
+E 0 10901 0 16 *A long throwing spear is loaded wielded of a Trojan soldier
+M 0 10942 150 10971 3 *Load an Achaean soldier
+E 0 10909 0 9 *{wa{wch{yill{wie{ws {dg{cauntlet{ds{x is loaded on the hands of an Achaean soldier
+E 0 10911 0 16 *Achillies' sword is loaded wielded of an Achaean soldier
+E 0 10910 0 6 *Achillies helm is loaded over the head of an Achaean soldier
+M 0 10943 100 10971 3 *Load a Trojan soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10944 20 10973 2 *Load a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+M 0 10944 20 10974 2 *Load a Trojan citizen
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+M 0 10944 20 10975 2 *Load a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+E 0 10904 0 5 *A leather jerkin is loaded on the body of a Trojan citizen
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan citizen
+M 0 10944 20 10976 2 *Load a Trojan citizen
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan citizen
+E 0 10902 0 11 *An ox hide shield is loaded as a shield of a Trojan citizen
+E 0 10903 0 6 *A boar tusk helm is loaded over the head of a Trojan citizen
+E 0 10904 0 5 *A leather jerkin is loaded on the body of a Trojan citizen
+M 0 10944 20 10977 2 *Load a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+M 0 10944 20 10979 1 *Load a Trojan citizen
+O 0 10920 0 10979 *A cot loaded to A Residence
+M 0 10944 20 10980 1 *Load a Trojan citizen
+E 0 10903 0 6 *A boar tusk helm is loaded over the head of a Trojan citizen
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan citizen
+M 0 10944 20 10981 1 *Load a Trojan citizen
+O 0 10920 0 10981 *A cot loaded to A Residence
+M 0 10943 100 10984 1 *Load a Trojan soldier
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan soldier
+M 0 10943 100 10985 2 *Load a Trojan soldier
+E 0 10904 0 5 *A leather jerkin is loaded on the body of a Trojan soldier
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan soldier
+M 0 10943 100 10986 1 *Load a Trojan soldier
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan soldier
+E 0 10916 0 8 *A pair of sandals is loaded on the feet of a Trojan soldier
+O 0 10920 0 10987 *A cot loaded to A Residence
+M 0 10943 100 10988 1 *Load a Trojan soldier
+E 0 10902 0 11 *An ox hide shield is loaded as a shield of a Trojan soldier
+E 0 10903 0 6 *A boar tusk helm is loaded over the head of a Trojan soldier
+E 0 10917 0 16 *A stone axe is loaded wielded of a Trojan soldier
+O 0 10920 0 10989 *A cot loaded to A Residence
+M 0 10943 100 10990 1 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10943 100 10991 1 *Load a Trojan soldier
+E 0 10918 0 17 *A banner is loaded held in the hands of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10943 100 10993 1 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+M 0 10943 100 10994 1 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+G 0 10925 0 *A broadsword is given to a Trojan soldier
+M 0 10944 100 10995 1 *Load a Trojan citizen
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan citizen
+E 0 10902 0 16 *An ox hide shield is loaded wielded of a Trojan citizen
+G 0 10924 0 *{*sword of the centaur{x is given to a Trojan citizen
+M 0 10943 100 10996 2 *Load a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+E 0 10905 0 5 *A bronze breastplate is loaded on the body of a Trojan soldier
+M 0 10909 1 10997 1 *Load King Priam
+M 0 10943 100 10998 1 *Load a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+E 0 10900 0 16 *A short thrusting spear is loaded wielded of a Trojan soldier
+M 0 10943 100 10999 1 *Load a Trojan soldier
+E 0 10914 0 11 *A bronze shield is loaded as a shield of a Trojan soldier
+E 0 10919 0 6 *Bronze helm is loaded over the head of a Trojan soldier
+E 0 10912 0 16 *A bronze sword is loaded wielded of a Trojan soldier
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

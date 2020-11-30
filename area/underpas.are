@@ -1,0 +1,5724 @@
+#AREADATA
+Name Ocean Passage~
+Builders Unlinked~
+VNUMs 13700 13999
+Continent 1
+Credits {y[ {YLGD  {y] {CIsh/Mdk  {MOcean Passage{x~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#13800
+sleeping goblin~
+a starving goblin~
+A goblin lies asleep, chained in the corner.
+~
+This goblin looks extremely hungry.
+~
+goblin~
+A J 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 S
+sleep sleep none 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 13800 wakes~
+#13801
+starving goblin~
+a goblin~
+A starving goblin stands straining against his chains.
+~
+This goblin looks extremely hungry.
+~
+goblin~
+A J 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 13803 100~
+M RANDOM 13804 100~
+M GIVE 13801 13809~
+#13802
+rat~
+a plague rat~
+A plague infested rat swims along in the sewage.
+~
+This small rat is covered with plague sores.
+~
+human~
+A X 0 0 0
+115 100 1d1+9000 0d0+0 5d25+28 bite
+-5 -5 -5 -5
+0 LQ R 0
+stand stand none 12390
+G ABCEFJQU small unknown
+F for AHMV
+F par DGHIK
+#13803
+glutinous lipopod~
+a glutinous lipopod~
+A glutinous lipopod oozes in the area.
+~
+~
+human~
+A V 0 0 0
+150 250 1d1+12000 0d0+0 12d38+75 acbite
+-20 -20 -20 -20
+0 EKR BDH IM
+stand stand none 0
+S 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 13815 100~
+#13804
+troll rock~
+a rock troll~
+A rock troll stands here glaring at you.
+~
+Rock Troll!
+~
+troll~
+A DFJac 0 0 0
+150 300 1d1+18000 0d0+0 6d28+48 none
+-30 -30 -30 -30
+CDE QRSX ABCDEIJLXYZ HKOPT
+stand stand none 48340
+ABHMV ABCDEFGHIJKUV large unknown
+#13805
+scaled worm~
+a scaled worm~
+A large scaled worm rears back at your entrance.
+~
+Thick scales provide armor like protection for this giant worm.
+~
+snake~
+A DFVa 0 0 0
+145 500 1d1+13988 0d0+0 6d28+23 digestion
+-45 -45 -45 -40
+0 ABL L I
+stand stand none 0
+AGXYc ADEFKLQVX large unknown
+#13806
+dark spirit death~
+a dark spirit~
+A dark spirit floats here.
+~
+~
+human~
+A DFc 0 0 0
+160 500 1d1+4000 1d700+10 10d30+100 drain
+0 0 0 0
+F ABCDEFGHIJKLPQTXYZ 0 MNOS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#13807
+a darkly clad man~
+a darkly clad man~
+A darkly clad man stands here guarding the passage east.
+~
+~
+human~
+A DFJZ CDE 0 0
+150 300 1d1+18723 0d0+0 4d25+10 pound
+-20 -20 -20 -20
+CEFH AB 0 0
+stand stand none 63200
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 13808 skul~
+M EXALL 13807 1~
+M GIVE 13806 13814~
+M GRALL 13805 100~
+#13808
+worm blind~
+a blind worm~
+A large blind worm wriggles on the floor.
+~
+~
+lizardman~
+A Ab 0 0 0
+90 0 1d1+8000 0d0+0 5d20+20 none
+-2 -2 -2 -2
+0 BT 0 S
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+#13809
+tunnel worker man~
+a tunnel worker~
+A man stands here making sure the tunnel is in perfect condition.
+~
+~
+human~
+A 0 0 1000 0
+87 25 1d1+6000 0d0+0 3d15+15 slice
+-2 -2 -2 -2
+0 0 0 0
+stand stand none 32001
+AHMV ABCDEFGHIJK medium unknown
+#13810
+shade assassin~
+a shade assassin~
+A shade assassin quietly stalks its prey in the shadows.
+~
+~
+human~
+A DFPQTVc B 0 0
+155 0 1d1+15000 0d0+0 7d27+50 stab
+0 0 0 0
+BDEFHIK 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M HPCNT 13811 39~
+M GRALL 13809 100~
+#13811
+no name~
+{x~
+{x
+~
+~
+human~
+AB DF 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 13812 100~
+#13950
+offspring scylla great daughter beast~
+an offspring of Scylla~
+One of the great daughters of Scylla lies here threateningly.
+~
+This 6 headed beast is the direct offspring of the great Scylla herself who
+fought the crew of Oddyseus' ship and ate 6 of their men. Unfortunately in her
+reproduction she had many children...
+~
+human~
+ABFT DFJQZbc 0 0 0
+180 1 1d1+10000 1d1+1000 5d30+5 thwack
+-80 -80 -80 -80
+0 B R 0
+stand stand female 100000
+0 ABDEFKLNQUVX giant unknown
+F for AHMV
+F par CGHIJ
+M GRALL 13950 100~
+#13951
+head scylla beast~
+a head of Scylla~
+One of the heads of the beast attacks!
+~
+~
+human~
+ABFT FJZabc 0 0 0
+120 75 1d1+7500 0d0+0 15d15+700 bite
+-30 -30 -30 -30
+HO 0 0 0
+stand stand female 100000
+0 AEKLVX medium unknown
+F for AHMV
+F par BCDFGHIJ
+#13952
+spawn charybdis~
+a spawn of Charybdis~
+A spawn of Charybdis dwells here greedily reaching out.
+~
+~
+human~
+ABFGT FZc 0 0 0
+180 1000 1d1+15000 0d0+0 1d1+2200 drain
+0 0 0 0
+ADFNO B CD 0
+stand stand none 100000
+0 LNOUV medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#13953
+spawn chaybdis~
+a spawn of Charybdis~
+A spawn of Charybdis dwells here greedily reaching out.
+~
+~
+human~
+AFGT FZc 0 0 0
+180 1000 1d1+15000 0d0+0 1d1+2200 drain
+0 0 0 0
+ADFNO B CD 0
+stand stand none 100000
+0 LNOUV medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#13954
+no name~
+a swift current~
+{x
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#13955
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 13955 100~
+M ACT 13955 leaves~
+#13956
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 13956 100~
+M ACT 13956 leaves~
+#13957
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13957 leaves~
+M GRALL 13957 100~
+#13958
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13958 bows~
+M GRALL 13958 100~
+M ACT 13958 leaves~
+#13959
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 13959 100~
+M ACT 13959 leaves~
+#13960
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#13961
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13961 leaves~
+M GRALL 13961 100~
+#13962
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13962 leaves~
+M GRALL 13962 100~
+#13963
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13963 leaves~
+M GRALL 13963 100~
+#13966
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13966 leaves~
+M GRALL 13966 100~
+#13967
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13967 leaves~
+M GRALL 13967 100~
+#13968
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13968 leaves~
+M GRALL 13968 100~
+#13969
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13969 leaves~
+M GRALL 13969 100~
+#13970
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13970 leaves~
+M GRALL 13970 100~
+#13971
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13971 leaves~
+M GRALL 13971 100~
+#13972
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13972 leaves~
+M GRALL 13972 100~
+#13973
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13973 leaves~
+M GRALL 13973 100~
+#13974
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13974 leaves~
+M GRALL 13974 100~
+#13975
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13975 leaves~
+M GRALL 13975 100~
+#13976
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13976 leaves~
+M GRALL 13976 100~
+#13977
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13977 leaves~
+M GRALL 13977 100~
+#13978
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13978 leaves~
+M GRALL 13978 100~
+#13979
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13979 leaves~
+M GRALL 13979 100~
+#13980
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13980 leaves~
+M GRALL 13980 100~
+#13981
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13981 leaves~
+M GRALL 13981 100~
+#13982
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13982 leaves~
+M GRALL 13982 100~
+#13983
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13983 leaves~
+M GRALL 13983 100~
+#13984
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13984 leaves~
+M GRALL 13984 100~
+#13986
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13986 leaves~
+M GRALL 13986 100~
+#13987
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13987 leaves~
+M GRALL 13987 100~
+#13988
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13988 leaves~
+M GRALL 13988 100~
+#13989
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13989 leaves~
+M GRALL 13989 100~
+#13991
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13991 leaves~
+M GRALL 13991 100~
+#13992
+current~
+a swift current~
+{x
+~
+~
+human~
+AB DFJZ 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 13992 leaves~
+M GRALL 13992 100~
+#0
+
+
+
+#OBJECTS
+#13800
+water pool basin~
+a basin~
+{x~
+rock~
+fountain Y 0
+10 10 'water' 0 0
+0 2147483647 0 D
+#13801
+chute slide~
+a slippery chute~
+{x~
+rock~
+portal R 0
+0 KL A BCJKMN 0
+0 0 0 G
+#13802
+chute~
+chute~
+{x~
+rock~
+portal R 0
+0 KL A ABCDEJKMN 0
+0 0 0 P
+#13803
+stream water~
+stream~
+A small stream of water flows through the area.~
+water~
+fountain R 0
+0 0 'water' 0 0
+0 0 0 P
+#13804
+pool~
+pool~
+{x~
+unknown~
+portal R 0
+0 KL A ADEGJKMN 0
+0 0 0 P
+#13805
+{x~
+stream~
+A small stream of water flows through the area.~
+water~
+fountain R 0
+0 0 'water' 0 0
+0 0 0 P
+E
+stream~
+The stream forms a deep pool before rushing through the opening.  It
+appears you could swim through by entering the pool.  
+~
+#13806
+stairs~
+set of stairs~
+{x~
+rock~
+portal R 0
+0 KL A ABCFGJKMN 0
+0 0 0 P
+#13807
+gap~
+a gap~
+{x~
+metal~
+portal R 0
+0 KL A ABILMN 0
+0 0 0 P
+#13808
+tunnel~
+a side tunnel~
+{x~
+unknown~
+portal 0 0
+0 KL A CDEFJKMN 0
+0 0 0 P
+#13809
+food leg turkey~
+a roasted turkey leg~
+{x~
+turkey~
+food 0 A
+1 1 0 0 0
+1 0 1 P
+#13810
+sapling tree pine~
+a sharp pine sapling~
+A small tree sharpened at one end lies discarded.~
+wood~
+weapon S AN
+staff 4 37 stab 0
+73 25 30000 P
+A
+2 -3
+A
+19 12
+A
+18 5
+#13811
+armor leather breastplate~
+a studded leather breastplate~
+A suit of leather armor lays discarded collecting dust.~
+leather~
+armor S AD
+BCD BCD BCD CD 0
+72 35 50000 P
+A
+13 25
+A
+1 2
+#13812
+shadow armor mass~
+a twisted mass of shadows~
+A concentrated mass of shadows sits in the corner.~
+shadow~
+armor ABCFJKLd AK
+ABF ABF ABF ABF 0
+101 0 0 P
+#13813
+blade shadow~
+a condensed mass of shadows~
+A dark blade like shape lies on the floor.~
+unknown~
+weapon ABCJKL AN
+exotic 12 16 slash E
+101 0 0 P
+#13814
+try again travellers~
+a travellers glyph~
+The sign of a true traveller.~
+cloth~
+armor ABGTU A
+0 0 0 0 0
+101 5 100000 P
+#13815
+cloak ebon murky~
+a murky ebon cloak~
+A dark pile of cloth lays bunched on the floor.~
+unknown~
+armor C AK
+AD AD AD AD 0
+79 0 100000 P
+A
+12 75
+A
+3 2
+A
+4 2
+#13816
+plate vambraces ebony~
+a pair of steel-plated vambraces~
+A pair of arm guards lay glinting in the light.~
+metal~
+armor 0 AI
+BD BD BD BD 0
+79 0 50000 P
+A
+18 5
+A
+1 2
+A
+19 7
+#13817
+greaves steel plate~
+a pair of steel-plated greaves~
+A pair of greaves lay here glinting in the light.~
+steel~
+armor 0 AF
+BCD BCD BCD BCD 0
+79 0 50000 P
+A
+19 5
+A
+2 3
+#13818
+ebony steel breastplate~
+an ebony steel breastplate~
+A dark breastplate ectched with the figure of a man binding a serpent.~
+steel~
+armor 0 AD
+BE BE BE BE 0
+79 25 80000 P
+A
+5 3
+#13819
+black boots~
+a pair of soft black boots~
+A pair of black boots.~
+cloth~
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+77 2 40000 P
+A
+18 5
+A
+14 100
+#13820
+dark leather cowl~
+a dark leather cowl~
+A piece of headgear made of dark leather.~
+leather~
+armor 0 AE
+BE BE BE BE 0
+81 3 75000 P
+A
+20 -2
+A
+13 75
+#13821
+scorched longsword~
+a scorched longsword~
+A blackened longsword lies discarded.~
+unknown~
+weapon C AN
+sword 8 19 slash A
+85 10 123099 P
+A
+18 10
+A
+19 12
+A
+2 2
+#13822
+pickaxe~
+a pickaxe~
+The tool of a tunnel working repairing the tunnel.~
+axe~
+weapon 0 AN
+axe 10 11 none 0
+57 0 40000 P
+#13823
+timber beam~
+a wooden support beam~
+A long timber beam used for supporting the tunnel lays on its side.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 1309 0 P
+#13824
+jadded obsidian blade~
+a jagged obsidian blade~
+A jagged piece of dark rock.~
+obsidian~
+weapon C AN
+dagger 10 20 stab 0
+101 1 120000 P
+A
+18 7
+A
+19 10
+#13825
+forest path~
+a path through the forest~
+{x~
+path~
+portal R 0
+0 KL A ABCEFGJKMN 0
+0 0 0 P
+#13826
+small rock crystal~
+a small rock crystal~
+A small rock crystal glitters in the light.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+0 1 100000 P
+#13827
+medium rock crystal~
+a medium rock crystal~
+A medium rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 135000 P
+#13828
+large rock crystal~
+a large rock crystal~
+A large rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 177250 P
+#13829
+huge rock crystal~
+a huge rock crystal~
+A huge rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#13830
+small turquoise stone~
+a small turquoise stone~
+A small turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 120000 P
+#13831
+medium turquoise stone~
+a medium turquoise stone~
+A medium turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 187500 P
+#13832
+large turquoise stone~
+a large turquoise stone~
+A large turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 230000 P
+#13833
+huge turquoise stone~
+a huge turquoise stone~
+A huge turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 297750 P
+#13834
+small black pearl~
+a small black pearl~
+A small black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 200000 P
+#13835
+medium black pearl~
+a medium black pearl~
+A medium black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 280000 P
+#13836
+large black pearl~
+a large black pearl~
+A large black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 330000 P
+#13837
+huge black pearl~
+a huge black pearl~
+A huge black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 375000 P
+#13838
+small fire opal~
+a small fire opal~
+A small fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 275000 P
+#13839
+medium fire opal~
+a medium fire opal~
+A medium fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 350000 P
+#13840
+large fire opal~
+a large fire opal~
+A large fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 455000 P
+#13841
+huge fire opal~
+a huge fire opal~
+A huge fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 570000 P
+#13842
+small ruby~
+a small ruby~
+A small ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 500000 P
+#13843
+medium ruby~
+a medium ruby~
+A medium ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 677500 P
+#13844
+large ruby~
+a large ruby~
+A large ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 775000 P
+#13845
+huge ruby~
+a huge ruby~
+A huge ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 1000000 P
+#13846
+massive green sapphire~
+a massive green sapphire~
+A massive green sapphire radiates brightly in the light.~
+sapphire~
+gem 0 A
+0 0 0 0 0
+0 0 10000000 P
+#13847
+travellers glyph~
+a travellers glyph~
+The sign of a true traveller.~
+cloth~
+armor ABGTU AQ
+AE AE AE AE 0
+101 5 0 P
+A
+13 80
+A
+19 10
+#13976
+funnel~
+a funnel~
+{x~
+unknown~
+portal 0 0
+0 0 A BCDFHJKMN 0
+1 10000 0 P
+#13998
+sea green annulet~
+a sea-green annulet~
+A sea-green annulet passes by flashing in the waves.~
+unknown~
+jewelry G AB
+0 0 0 0 0
+101 0 0 P
+A
+17 -10
+A
+12 500
+#0
+
+
+
+#ROOMS
+#13800
+Beginning of the Passage~
+The entrance to the passage is illuminated by a torch on either side,
+fasted in iron sconces.  Moss lined rock walls lay out the path ahead,
+sloping slightly downwards, leading into the depths of darkness.  
+~
+0 134225925 0
+D0
+~
+~
+0 0 13801
+D3
+~
+~
+0 0 13944
+S
+#13801
+Turn in the Passage~
+The dim flickering of the torch light still provides a faint glow showing
+the sharp turn eastward in the passage.  Little is revealed about the path
+ahead only the faint sound of running water can be heard from the darkness. 
+~
+0 8193 0
+D1
+~
+~
+0 0 13802
+D2
+~
+~
+0 0 13800
+S
+#13802
+Turn in the Passage~
+The light from the entrance can no longer be seen and yet another turn in
+the passage looms ahead turning sharply towards the north.  The sound of
+running water is now more distinct but the location is still unclear.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13803
+D3
+~
+~
+0 0 13801
+S
+#13803
+Split in the Passage~
+A small stream runs from east to west as the passage splits into a
+T-junction.  The western passage slopes down into darkness.  The eastern
+path slopes up and appears almost identical to the western passage.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13804
+D2
+~
+~
+0 0 13802
+D3
+~
+~
+0 0 13814
+S
+#13804
+Dark Passage~
+The passage continues on along side the small stream that is flowing down
+the slight incline to the west.  Strangely the southern wall is void of all
+moss and growth, revealing a smooth wet rock wall.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13805
+D3
+~
+~
+0 0 13803
+S
+#13805
+Turn in the Passage~
+The stream disappears into the eastern rock wall as the passage takes yet
+another sharp turn.  The passage to the south continues to slope up and is
+void of any distinguishing signs or landmarks.  
+~
+0 134225921 0
+D2
+~
+~
+0 0 13806
+D3
+~
+~
+0 0 13804
+S
+#13806
+Turn in the Passage~
+The passage twists sharply again leading into the unknown.  The eastern
+passage continues on a slight incline, while the northern passage declines
+and leads back to the stream.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13805
+D1
+~
+~
+0 0 13807
+S
+#13807
+Turn in the Passage~
+The passage continues its winding path deeper into the darkness.  A lone
+stalagtite hangs from the ceiling slowly dripping water into a small basin
+below.  
+~
+0 134225921 0
+E
+basin~
+Formed through thousands of years of erosion, water dripped from the
+stalagtite above pools in this natrual basin.  
+~
+D2
+~
+~
+0 0 13808
+D3
+~
+~
+0 0 13806
+S
+#13808
+Dark Passage~
+The passage continues on in the darkness sloping up in the northern
+direction and down in the southern direction.  A decaying skeleton leans up
+against the eastern wall undoubtably the remains of a lost adventurer.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13807
+D2
+~
+~
+0 0 13809
+S
+#13809
+Turn in the Passage~
+The passage snakes along in the darkness its mundane rock walls offer no
+indication of when or where an exit will appear.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13808
+D3
+~
+~
+0 0 13810
+S
+#13810
+Dark Passage~
+The passage levels off and appears to head into a long dark corridor
+surrounded by solid rock.  Off to the side the charred remains of an old
+camp fire lay soaking with moister.
+~
+0 134225921 0
+E
+camp~
+Upon closer examination the fire blackened logs are forming an arrow
+pointing off to the east.  
+~
+E
+fire~
+Upon closer examination the fire blackened logs are forming an arrow
+pointing off to the east.  
+~
+E
+remains~
+Upon closer examination the fire blackened logs are forming an arrow
+pointing off to the east.  
+~
+D1
+~
+~
+0 0 13809
+D3
+~
+~
+0 0 13811
+S
+#13811
+Dark Passage~
+The passage continues on without further clues as to an exit.  On the
+ceiling small drops of water seep throw a narrow crack.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13810
+D3
+~
+~
+0 0 13812
+S
+#13812
+Turn in the Passage~
+The dark corridor abruptly ends and twists north.  A dim flickering of
+torch light can be seen to the north 
+~
+0 134225921 0
+E
+north~
+Looking more carefully you notice that the torch is attached close to the
+ceiling and that infact it is a long drop down below.  
+~
+D0
+~
+~
+0 0 13813
+D1
+~
+~
+0 0 13811
+S
+#13813
+Long Fall~
+Above you a single torch is fastened in an iron sconce high near the
+ceiling.  Back to the south is a high unscalable rock wall, the only passage
+is off to the west.  
+~
+0 134225920 0
+D3
+~
+~
+0 0 13800
+S
+#13814
+Turn in the Passage~
+The passage twists to the north, while the stream disappears into the
+rock face.  The passage to the north descends further into the unknown.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13815
+D1
+~
+~
+0 0 13803
+S
+#13815
+Turn in the Passage~
+The passage makes another abrupt turn moving deeper into the depths,
+moving closer towards an unknown destination.  
+~
+0 134225921 0
+D2
+~
+~
+0 0 13814
+D3
+~
+~
+0 0 13816
+S
+#13816
+Turn in the Passage~
+The passage snakes north and continues its way deeper into the depths. 
+Laying scattered in the corner are pieces of rusted armor, long since
+discarded by their owner.  
+~
+0 8193 0
+E
+armor~
+This armor is throughly rusted and absolutely of no use to anyone.  
+~
+D0
+~
+~
+0 0 13817
+D1
+~
+~
+0 0 13815
+S
+#13817
+Dark Passage~
+The passage levels off and continues further towards the unknown
+destination.  The green moss growing on the walls creates the affect of a
+bland one color tapestry.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13818
+D2
+~
+~
+0 0 13816
+S
+#13818
+Dark Passage~
+The passage continues onward its rock walls glisten with moister from the
+large water source above.  On the eastern wall there are several deep gouges
+in the rock face.  
+~
+0 134225921 0
+E
+east~
+Looking closer you notice that an arrow is gouged into the rock pointing
+north.  
+~
+E
+wall~
+Looking closer you notice that an arrow is gouged into the rock pointing
+north.  
+~
+D0
+~
+~
+0 0 13819
+D2
+~
+~
+0 0 13817
+S
+#13819
+Turn in the Passage~
+The passage turns abruptly making its destination even more confusing. 
+Water from a narrow crack in the ceiling drips down from above.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13820
+D2
+~
+~
+0 0 13818
+S
+#13820
+Split in the Passage~
+The passage splits off into two directions each looking identical and
+equally foreboding.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13824
+D2
+~
+~
+0 0 13821
+D3
+~
+~
+0 0 13819
+S
+#13821
+Turn in the Passage~
+The passage twists sharply in the darkness deeper into the unknown.  The
+moss lined walls drip with moisture and provide no sign of an end to this
+path.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13820
+D1
+~
+~
+0 0 13822
+S
+#13822
+Split in the Passage~
+The passage splits off to the east and north.  Both paths equally
+shrouded in darkness void of any clues of which to take.  A small pile of
+stones lay gathered at the base of the southern wall.  
+~
+0 134225921 0
+E
+stones~
+Looking closer you see that the stones have been shaped to form a small
+arrow pointing north.  
+~
+D0
+~
+~
+0 0 13825
+D1
+~
+~
+0 0 13823
+D3
+~
+~
+0 0 13821
+S
+#13823
+Turn in the Passage~
+The main passage runs into a solid rock wall, however, what appears to be
+a small side passage runs south.  The entrance to the southern passage
+appears as if all the moss has been scraped off in someones last ditch
+effort to stop their descent.  
+~
+0 134225921 0
+E
+south~
+The passage to the south isnt really a passage at all, rather a slippery chute headed  back in the direction of the entrance.
+~
+D2
+~
+~
+0 0 13804
+D3
+~
+~
+0 0 13822
+S
+#13824
+Turn in the Passage~
+The passage continues twisting and winding deeper in the darkness.  On
+the northern wall it appears a message has been acid etched into the rock
+face.  
+~
+0 134225921 0
+E
+message~
+Welcome to the Underground Passage built by Ishamael the Betrayer of
+Hope.  Do not be discouraged if you feel hopelessly and stuck in this
+tunnel.  A word of advice look carefully this zone is not built to be
+spammed through.  
+~
+E
+rock~
+Welcome to the Underground Passage built by Ishamael the Betrayer of
+Hope.  Do not be discouraged if you feel hopelessly and stuck in this
+tunnel.  A word of advice look carefully this zone is not built to be
+spammed through.  
+~
+E
+wall~
+Welcome to the Underground Passage built by Ishamael the Betrayer of
+Hope.  Do not be discouraged if you feel hopelessly and stuck in this
+tunnel.  A word of advice look carefully this zone is not built to be
+spammed through.  
+~
+D1
+~
+~
+0 0 13825
+D2
+~
+~
+0 0 13820
+S
+#13825
+Split in the Passage~
+The passage splits off towards the north and the south.  Each passage
+equally dark and mysterious offering no clue as which is the right choice.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13826
+D2
+~
+~
+0 0 13822
+D3
+~
+~
+0 0 13824
+S
+#13826
+Turn in the Passage~
+The passage makes another abrupt turn moving deeper into the depths,
+moving closer towards an unknown destination.  Strangely the passage ceiling
+appears to be incredibly high in this section.  
+~
+0 134225921 0
+D2
+~
+~
+0 0 13825
+D3
+~
+~
+0 0 13827
+S
+#13827
+Turn in the Passage~
+The passage twists sharply in the darkness deeper into the unknown.  The
+moss lined walls drip with moisture and provide no sign of an end to this
+path.  
+~
+0 8193 0
+D0
+~
+~
+0 0 13828
+D1
+~
+~
+0 0 13826
+S
+#13828
+Dark Passage~
+The passage levels off and continues further towards the unknown
+destination.  The green moss growing on the walls creates the affect of a
+bland one color tapestry.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13829
+D2
+~
+~
+0 0 13827
+S
+#13829
+Dead End~
+Surrounded by solid rock walls the only passage is back to the south.  A
+large mound of debris is used to hide something in the northeast corner.  
+~
+0 134217729 0
+E
+northeast~
+Looking underneath all the debris you see a slippery chute headed deeper
+into the earth.  It is a extremely good idea you enter this.  
+~
+E
+corner~
+Looking underneath all the debris you see a slippery chute headed deeper
+into the earth.  It is a extremely good idea you enter this.  
+~
+E
+debris~
+Looking underneath all the debris you see a slippery chute headed deeper
+into the earth.  It is a extremely good idea you enter this.  
+~
+D2
+~
+~
+0 0 13828
+S
+#13830
+Cavern~
+The wide open area is filled with ruined weapons and armor strewn
+haphazardly on the floor.  Battered support beams provide small arch-like
+exits to the east and north.  
+~
+0 1 0
+D0
+~
+~
+0 0 13835
+D1
+~
+~
+0 0 13831
+S
+#13831
+Cavern~
+Crumbling bits of rock litter the floor and splintered logs lay scattered
+everywhere.  A solid rock wall prevents any travel to the south.  
+~
+0 8192 0
+D0
+~
+~
+0 0 13836
+D1
+~
+~
+0 0 13832
+D3
+~
+~
+0 0 13830
+S
+#13832
+Cavern~
+Skeletal remains of a human body lay partially buried by a cave-in to the
+east.  The large hunks of rock prevent passage in this direction forcing
+travel to the west and north.  
+~
+0 1 0
+D0
+~
+~
+0 0 13837
+D3
+~
+~
+0 0 13831
+S
+#13833
+Cavern~
+The torso of a human skeleton lay partially burried by a cave-in the to
+west.  The large hunks of rock prevent passage in this direction forcing
+travel to the east and north.  
+~
+0 8196 0
+D0
+~
+~
+0 0 13838
+D1
+~
+~
+0 0 13834
+S
+#13834
+Cavern~
+Oddly the room is clear of all forms of debris.  In the northwest corner
+a small table is set with some food on it.  The cavern corners off heading
+to the west and north.  
+~
+0 0 0
+E
+table~
+On the table rests a large juicy roast turkey leg.
+~
+D0
+~
+~
+0 0 13839
+D3
+~
+~
+0 0 13833
+S
+#13835
+Cavern~
+The sprawl of debris makes walking through the room diffucult.  The
+northern passage funnels into a narrow rock passage.  The eastern and
+southern passage continue into the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 13840
+D1
+~
+~
+0 0 13836
+D2
+~
+~
+0 0 13830
+S
+#13836
+Cavern~
+The area is a total disaster, strewn bits of of armor and bones lay
+covering most of the floor.  The cavern corners off and heads off to the
+west and south.
+~
+0 0 0
+D2
+~
+~
+0 0 13831
+D3
+~
+~
+0 0 13835
+S
+#13837
+Cavern~
+The large cavern's size is diminished by the ammount of junk strewn
+around the area.  Bits of tables, broken pieces of armor, and shattered logs
+make up only a small part of the mess.  The debris are piled so high, the
+passage to the west is blocked 
+~
+0 1 0
+D0
+~
+~
+0 0 13842
+D1
+~
+~
+0 0 13838
+D2
+~
+~
+0 0 13832
+S
+#13838
+Cavern~
+The cavern spreads out allowing passage in all directions.  The wide open
+space of the cavern draws attention away from the ammount of junk that has
+been accumulated and scattered around the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 13843
+D1
+~
+~
+0 0 13839
+D2
+~
+~
+0 0 13833
+D3
+~
+~
+0 0 13837
+S
+#13839
+Cavern~
+Large piles of debris prevent further passage north in the cavern.  A few
+broken pieces of timber lay up against the eastern wall forming a makeshift
+weapon rack.  
+~
+0 5 0
+D2
+~
+~
+0 0 13834
+D3
+~
+~
+0 0 13838
+S
+#13840
+Narrow Passage~
+The narrow passage provides a small shortcut connecting the cavern to
+another large cavern.  The slick rock walls guide your passage along into
+the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 13845
+D2
+~
+~
+0 0 13835
+S
+#13841
+Cavern~
+Passage to the west and south are blocked by solid rock walls as the
+cavern appears to end in those directions.  Large spiderwebs cover the
+corner formed by these walls, the dew on them glistening on the dark.  
+~
+0 0 0
+D0
+~
+~
+0 0 13846
+D1
+~
+~
+0 0 13842
+S
+#13842
+Cavern~
+The cavern spreads out allowing passage in all directions.  The wide open
+space of the cavern draws attention away from the ammount of junk that has
+been accumulated and scattered around the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 13847
+D1
+~
+~
+0 0 13843
+D2
+~
+~
+0 0 13837
+D3
+~
+~
+0 0 13841
+S
+#13843
+Cavern~
+Battered and broken pieces of wood and rock form a barricade to the
+north.  Only a small amount of space is cleared making passage impossible.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13844
+D2
+~
+~
+0 0 13838
+D3
+~
+~
+0 0 13842
+S
+#13844
+Cavern~
+The cavern is littered with chunks of rock making it diffucult to move
+quickly.  The way to the south is impassable and the only options are to
+head west or north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 13849
+D3
+~
+~
+0 0 13843
+S
+#13845
+Cavern~
+The cavern comes to an abrupt end.  Narrow passages lead off to the north
+and south, while the eastern direction heads off into the cavern.  Resting
+at the base of the western wall an enourmous but empty barrel of sits slowly
+rotting away.  
+~
+0 134217729 0
+E
+west~
+The barrel sitting at the base of the wall appears overly large and
+strange in some way.  Perhaps you should look at it!  
+~
+E
+barrel~
+Looking in the large barrel you notice not only the lid but the bottom of
+the barrel are missing covering over a narrow chute headed down into
+darkness.  
+~
+D0
+~
+~
+0 0 13850
+D1
+~
+~
+0 0 13846
+D2
+~
+~
+0 0 13840
+S
+#13846
+Cavern~
+The size of the cavern has greatly diminished and the ammount of debris
+seems to have increased in the area.  The solid rock wall prevents passage
+to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 13847
+D2
+~
+~
+0 0 13841
+D3
+~
+~
+0 0 13845
+S
+#13847
+Cavern~
+The cavern ends to the north, only a small passage through the rock leads
+in that direction.  
+~
+0 134225921 0
+D0
+~
+~
+0 0 13852
+D2
+~
+~
+0 0 13842
+D3
+~
+~
+0 0 13846
+S
+#13848
+Cavern~
+Passage to the south is blocked by battered timber and debris, the setup
+of a makeshift barricade.  Several suits of armor lay cluttered on the floor
+gathered around a group of spears.  
+~
+0 8196 0
+D0
+~
+~
+0 0 13853
+D1
+~
+~
+0 0 13849
+S
+#13849
+Cavern~
+The cavern opens up providing more directions to travel.  The area is
+littered with crumbling rock and broken pieces of timber.  Through the pile
+of broken timber along the eastern wall you can just make out a side tunnel
+that could be entered.  
+~
+0 4 0
+D0
+~
+~
+0 0 13854
+D2
+~
+~
+0 0 13844
+D3
+~
+~
+0 0 13848
+S
+#13850
+Narrow Passage~
+Surrounded by walls of solid rock, there is little choice but to head to
+the east further down the passage.  The entrace south opens up into the main
+cavern.  
+~
+0 134225921 0
+D1
+~
+~
+0 0 13851
+D2
+~
+~
+0 0 13845
+S
+#13851
+Narrow Passage~
+Surrounded by solid rock walls there is little choice but to head east or
+west in this passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 13852
+D3
+~
+~
+0 0 13850
+S
+#13852
+Narrow Passage~
+Surrounded by walls of solid rock, there is little choice but to head to
+the west further down the passage.  The entrace south opens up into the main
+cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 13847
+D3
+~
+~
+0 0 13851
+S
+#13853
+Cavern~
+The cavern is nearing an end, passage is blocked to the west and north by
+solid rock walls.  In the corner lies a pile of broken brokens and crushed
+skulls, the remains of fallen adventurers.  
+~
+0 4 0
+D1
+~
+~
+0 0 13854
+D2
+~
+~
+0 0 13848
+S
+#13854
+Cavern~
+The cavern is nearing an end, passage is blocked to the east and north by
+solid rock walls.  In the corner lies a pile of broken brokens and crushed
+skulls, the remains of fallen adventurers.  
+~
+0 8196 0
+D2
+~
+~
+0 0 13849
+D3
+~
+~
+0 0 13853
+S
+#13855
+Dark Corridor~
+Small beads of moister glisten on the smooth limestone walls of the
+corridor.  Little can be determined about the path ahead, the area is clear
+of all markings and sign of life.  
+~
+0 4 0
+D3
+~
+~
+0 0 13856
+S
+#13856
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage east or
+west.  Little else can be found, only small chips of limestone lay scattered
+about the floor.  
+~
+0 5 0
+D1
+~
+~
+0 0 13855
+D3
+~
+~
+0 0 13857
+S
+#13857
+Four-Way Intersection~
+The corridor opens up into a large room with paths branching out in all
+directions.  In the center of the room a large stalagmite hangs a few inches
+from touching its couterpart stalagtite.  
+~
+0 1 0
+D0
+~
+~
+0 0 13858
+D1
+~
+~
+0 0 13856
+D2
+~
+~
+0 0 13867
+D3
+~
+~
+0 0 13860
+S
+#13858
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  
+~
+0 1 0
+D0
+~
+~
+0 0 13859
+D2
+~
+~
+0 0 13857
+S
+#13859
+Corridors End~
+Solid rock walls block travel in the limestone corridor.  Though off to
+the east is a slick chute sliding down into the darkness.  
+~
+0 5 0
+D1
+~
+~
+0 0 13850
+D2
+~
+~
+0 0 13858
+S
+#13860
+Sharp Turn~
+The corridor turns sharply headed off to the north and east.  The smooth
+limestone walls shine softly in the dim light.  
+~
+0 5 0
+D0
+~
+~
+0 0 13861
+D1
+~
+~
+0 0 13857
+S
+#13861
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  
+~
+0 5 0
+D0
+~
+~
+0 0 13862
+D2
+~
+~
+0 0 13860
+S
+#13862
+Dead End~
+Solid rock prevents passage further along the corridor.  The only option
+is to turn back and head south.  
+~
+0 0 0
+D2
+~
+~
+0 0 13861
+S
+#13863
+Sharp Turn~
+The corridor turns sharply a solid wall preventing passage south and
+west.  The path shifts to head east and north, its limestone walls glowing
+softly in the dim.  
+~
+0 5 0
+D0
+~
+~
+0 0 13867
+D1
+~
+~
+0 0 13864
+S
+#13864
+Sharp Turn~
+The corridor twists sharply again headed back in the original direction
+south and west.  The limestone walls provide guidance for the path in the
+darkness.  
+~
+0 0 0
+D2
+~
+~
+0 0 13865
+D3
+~
+~
+0 0 13863
+S
+#13865
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  
+~
+0 5 0
+D0
+~
+~
+0 0 13864
+D2
+~
+~
+0 0 13866
+S
+#13866
+Corridors End~
+The corridor comes to an unexpected end, limestone walls prevent travel
+further along the corridor.  A new passage heads off east down into a dark
+passageway.  
+~
+0 5 0
+D0
+~
+~
+0 0 13865
+D1
+~
+~
+0 0 13828
+S
+#13867
+Three-Way Intersection~
+The large room from the north continues here before splitting off into
+two corridors headed west and south.  Each passage appears equally identical
+smooth rock walls headed off in each direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 13857
+D2
+~
+~
+0 0 13863
+D3
+~
+~
+0 0 13868
+S
+#13868
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage east or
+west.  Little else can be found, only small chips of limestone lay scattered
+about the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 13867
+D3
+~
+~
+0 0 13869
+S
+#13869
+Three-Way Intersection~
+The corridor splits off headed west and south while the eastern direction
+heads back towards the main tunnel.  A foul stench whaffs from the southern
+direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 13868
+D2
+~
+~
+0 0 13870
+D3
+~
+~
+0 0 13879
+S
+#13870
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  The stench is becoming more pungent lingering
+like a cloud in the area.  
+~
+0 8197 0
+D0
+~
+~
+0 0 13869
+D2
+~
+~
+0 0 13871
+S
+#13871
+Dark Corridor~
+The corridor turns sharply headed west and north, its limestone walls
+guiding passage.  The thick stench grows stronger engulfing the area with
+its pungency.  
+~
+0 1 0
+D0
+~
+~
+0 0 13870
+D3
+~
+~
+0 0 13872
+S
+#13872
+Dead End~
+The corridor runs into a dead end, the stench now lingering everywhere,
+becoming unbearable.  On the ground a thick matel grate leads down further
+into the depths.  
+~
+0 0 0
+D1
+~
+~
+0 0 13871
+D5
+~
+~
+1 0 13875
+S
+#13873
+Sewers End~
+The murky brown water cascades down through a large grate, bits of waste
+block several entrances slowing the flow.  Passage further east is not
+possible a large rock wall blocks passage.  
+~
+0 1 0
+D3
+~
+~
+0 0 13874
+S
+#13874
+Underground Sewer~
+Ankle deep murky brown water flows off to the east, small bits of refuge
+float by with the slow current.  The overpowering reek engulfs everything
+within the area.  
+~
+0 1 0
+D1
+~
+~
+0 0 13873
+D3
+~
+~
+0 0 13875
+S
+#13875
+Underground Sewer~
+Ankle deep murky brown water flows off to the east, small bits of refuge
+float by with the slow current.  The overpowering reek engulfs everything
+within the area.  A rusty ladder leads up providing an escape from the
+stench.  
+~
+0 0 0
+D1
+~
+~
+0 0 13874
+D3
+~
+~
+0 0 13876
+D4
+~
+~
+1 0 13872
+S
+#13876
+Underground Sewer~
+Ankle deep murky brown water flows off to the east, small bits of refuge
+float by with the slow current.  The overpowering reek engulfs everything
+within the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 13875
+D3
+~
+~
+0 0 13877
+S
+#13877
+Underground Sewer~
+Ankle deep murky brown water flows off to the east, small bits of refuge
+float by with the slow current.  The overpowering reek engulfs everything
+within the area.  
+~
+0 8197 0
+D1
+~
+~
+0 0 13876
+D3
+~
+~
+0 0 13878
+S
+#13878
+Underground Sewer~
+A large metal grate prevents further passage west, beneath you murky
+brown water flows off to the east.  A small rusty ladder leads up towards a
+hatch in the ceiling.  An overpowering stench shrouds the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 13877
+D4
+~
+~
+1 0 9591
+S
+#13879
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage east or
+west.  Little else can be found, only small chips of limestone lay scattered
+about the floor.  
+~
+0 5 0
+D1
+~
+~
+0 0 13869
+D3
+~
+~
+0 0 13880
+S
+#13880
+Sharp Turn~
+The corridor turns sharply headed north, its limestone walls guiding the
+passage further.  In the corner broken peglegs and several torn eyepatchs
+sit discarded, the owners long forgotten them.  
+~
+0 5 0
+D0
+~
+~
+0 0 13881
+D1
+~
+~
+0 0 13879
+S
+#13881
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  
+~
+0 8197 0
+D0
+~
+~
+0 0 13882
+D2
+~
+~
+0 0 13880
+S
+#13882
+Dark Corridor~
+Smooth, pale white walls enclose the area allowing only passage north or
+south.  Little else can be found, only small chips of limestone lay
+scattered about the floor.  
+~
+0 8197 0
+D0
+~
+~
+0 0 13883
+D2
+~
+~
+0 0 13881
+S
+#13883
+Dead End~
+The corridor runs into a dead end, solid limestone walls block passage
+further into the depths.  Only a rusty metal ladder hangs from the ceiling
+headed up towards daylight.  
+~
+0 4 0
+D2
+~
+~
+0 0 13882
+D4
+~
+~
+0 0 13939
+S
+#13884
+Tunnel Entrance~
+A single torch burns brightly signifying the begining of a new tunnel. 
+The tunnel heads east void of any signs of direction in refrence to the
+surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 13885
+S
+#13885
+Sharp Turn~
+Soft flickering torchlight from the entrance provides some illumination
+through the area.  The tunnel twists sharply headed towards the south its
+rock walls guiding passage.  
+~
+0 0 0
+D2
+~
+~
+0 0 13886
+D3
+~
+~
+0 0 13884
+S
+#13886
+In the Tunnel~
+Small drops of water seap through the overhead ceiling gently splashing
+on the rock floor below.  A dark cave looms to the east and the tunnel
+continues on its north-south route.  
+~
+0 0 0
+D0
+~
+~
+0 0 13885
+D1
+~
+~
+0 0 13887
+D2
+~
+~
+0 0 13889
+S
+#13887
+Cave Entrance~
+The tunnel opens up into a small cave, stalagmites hang from the ceiling
+like jagged teeth.  The cave opens up further to the east and the path west
+leads back to the tunnel.  
+~
+0 5 0
+D1
+~
+~
+0 0 13888
+D3
+~
+~
+0 0 13886
+S
+#13888
+Dark Cave~
+Several stalagmites hang from the ceiling slowing dripping water towards
+the floor.  Remains of small animals lay scattered throughout the cave
+crunching softly when stepped on.  
+~
+0 1 0
+D3
+~
+~
+0 0 13887
+S
+#13889
+Curve in the Tunnel~
+The tunnel bends slightly towards the east forming the upper half of a
+giant S shaped curve.  The polished rock walls guide passage further along
+towards an unknown destination.  
+~
+0 1 0
+D0
+~
+~
+0 0 13886
+D1
+~
+~
+0 0 13890
+S
+#13890
+Curve in the Tunnel~
+The tunnel bends slightly towards the south forming the lower half of a
+giant S shaped curve.  The polished rock walls guide passage further along
+towards an unknown destination.  
+~
+0 1 0
+D2
+~
+~
+0 0 13891
+D3
+~
+~
+0 0 13889
+S
+#13891
+In the Tunnel~
+The tunnel straightens out and heads back on its north-south route.  The
+path is clear and easy to negociate with few obstacles blocking passage.  
+~
+0 1 0
+D0
+~
+~
+0 0 13890
+D2
+~
+~
+0 0 13892
+S
+#13892
+In the Tunnel~
+The tunnel continues on its north-south route with little sign of end. 
+Laying against the eastern wall the rusty remains of a suit of armor lay in
+a small pile.  
+~
+0 1 0
+D0
+~
+~
+0 0 13891
+D2
+~
+~
+0 0 13893
+S
+#13893
+T-Junction~
+The tunnel splits out forming a T, only passage south is impossible.  The
+passage east is littered with broken rock and other debris, while the
+passage west appears to be in better condition.  
+~
+0 1 0
+D0
+~
+~
+0 0 13892
+D1
+~
+~
+0 0 13894
+D3
+~
+~
+0 0 13896
+S
+#13894
+Abandoned Tunnel~
+The tunnel is in absolute shambles, debris is scattered everywhere and
+the ceiling appears to be near collapse.  Travelling further in this tunnel
+appears to be almost certain death.  
+~
+0 5 0
+D0
+~
+~
+0 0 13895
+D3
+~
+~
+0 0 13893
+S
+#13895
+Cave In~
+Massive ammounts of rock and rubble fill the tunnel making travel
+impossible.  The only path remaining is to head back to the south.  
+~
+0 1 0
+D2
+~
+~
+0 0 13894
+S
+#13896
+T-Junction~
+The tunnel forks off headed west and south, the western branch narrows
+slightly compared to the southern branch.  From the south a faint splashing
+echos through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 13893
+D2
+~
+~
+0 0 13904
+D3
+~
+~
+0 0 13897
+S
+#13897
+Narrow Tunnel~
+The walls narrow making travel through this section of the tunnel
+diffucult.  The rock walls are jagged and rough as if this tunnel was never
+fully completed.  
+~
+0 0 0
+D1
+~
+~
+0 0 13896
+D3
+~
+~
+0 0 13898
+S
+#13898
+Narrow Tunnel~
+Jagged pieces of rock jut out from the side walls, bloodstained from the
+flight of a hasty adventurer scrambling through.  Western passage is blocked
+by a massive cave-in, however a new tunnel has been started headed to the
+south.  
+~
+0 0 0
+D1
+~
+~
+0 0 13897
+D2
+~
+~
+0 0 13899
+S
+#13899
+Narrow Tunnel~
+Chunks of rock lay scattered around the floor, crunching with every step.
+The tunnel continues on its north-south route without any sign of end.  
+~
+0 1 0
+D0
+~
+~
+0 0 13898
+D2
+~
+~
+0 0 13900
+S
+#13900
+Narrow Tunnel~
+Chunks of rock lay scattered around the floor, crunching with every step.
+The tunnel continues on its north-south route without any sign of end.  
+~
+0 1 0
+D0
+~
+~
+0 0 13899
+D2
+~
+~
+0 0 13901
+S
+#13901
+Narrow Tunnel~
+The bones of a half buried skeleton lay to the south buried under a
+massive boulder the prevents further passage.  A new tunnel has been dug
+headed to the west to bypass this obstacle.
+~
+0 1 0
+D0
+~
+~
+0 0 13900
+D3
+~
+~
+0 0 13902
+S
+#13902
+Narrow Tunnel~
+The tunnel inclides steeply leading to the west, the loose stones making
+the climb diffucult proceeding up this ramp.  A dim flickering of torchlight
+can be seen near the top of the incline.  
+~
+0 0 0
+D1
+~
+~
+0 0 13901
+D3
+~
+~
+0 0 13903
+S
+#13903
+Before a Dark Chasm~
+A solitary torch is fixed in place on the wall provided light to the
+passage ahead.  The tunnel floor comes to a sudden end dropping down into a
+darker passage to the west.  
+~
+0 4 0
+D1
+~
+~
+0 0 13902
+D3
+~
+~
+0 0 13826
+S
+#13904
+In the Tunnel~
+The tunnel continues south headed through the rock surrounding it.  The
+faint sound of water can be heard far to the south.  
+~
+0 1 0
+D0
+~
+~
+0 0 13896
+D2
+~
+~
+0 0 13905
+S
+#13905
+In the Tunnel~
+The tunnel continues south headed through the rock surrounding it.  The
+sound of running water grows louder to the south.  
+~
+0 1 0
+D0
+~
+~
+0 0 13904
+D2
+~
+~
+0 0 13906
+S
+#13906
+Along the Stream~
+Water flows from the top of the eastern wall forming a small waterfall. 
+The run off forms a small ankle deep stream flowing off towards the east. 
+The tunnel takes a turn and follows the path of the stream 
+~
+0 1 0
+D0
+~
+~
+0 0 13905
+D1
+~
+~
+0 0 13907
+S
+#13907
+Along the Stream~
+The tunnel splits off headed off to the south, while another path follows
+the stream in the eastern direction.  The cool waters of the stream splash
+slightly as it flows through the passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 13908
+D2
+~
+~
+0 0 13909
+D3
+~
+~
+0 0 13906
+S
+#13908
+Along the Stream~
+The tunnel ends only leading back to the west.  The small stream
+disappears under the rock wall its cool waters pooling slightly before it
+rushes through the opening.  
+~
+0 1 0
+D3
+~
+~
+0 0 13907
+S
+#13909
+In the Tunnel~
+The tunnel turns away from the stream and heads off to the east.  To the
+north the sound of running water can be heard.  
+~
+0 1 0
+D0
+~
+~
+0 0 13907
+D1
+~
+~
+0 0 13910
+S
+#13910
+In the Tunnel~
+The tunnel continues to run in the east-west route.  The surrounding
+walls begin to narrow to the east making passage through more diffucult.  
+~
+0 1 0
+D1
+~
+~
+0 0 13911
+D3
+~
+~
+0 0 13909
+S
+#13911
+In the Tunnel~
+The tunnel narrows only around seven feet wide limiting travel to single
+file.  Several scrape marks and blood stains are splattered on the walls as
+if some form of hasty combat occurred here.  
+~
+0 1 0
+D1
+~
+~
+0 0 13912
+D3
+~
+~
+0 0 13910
+S
+#13912
+Dead End~
+Solid rock prevents passage further east in the tunnel making the only
+choice to turn around and head back west.  High up in the northern wall an
+unreachable opening appears out of place in the wall.  
+~
+0 1 0
+D3
+~
+~
+0 0 13911
+S
+#13913
+Water Filled Tunnel~
+Chest deep water floods the room slowly funneling through a small hole in
+the eastern wall.  The only path leads south on to higher dryer ground.  
+~
+0 5 0
+D2
+~
+~
+0 0 13914
+S
+#13914
+Underground Passage~
+A new passage begins headed off to the east, its rock walls supported by
+several beams of timber to prevent cave-ins.  The faint sounds of sloshing
+water drift from the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 13913
+D1
+~
+~
+0 0 13915
+S
+#13915
+Underground Passage~
+The passage twists as if its designers were unsure of the direction it
+was to take.  Thick support beams uphold the walls to prevent them from
+collapsing in.  
+~
+0 1 0
+D2
+~
+~
+0 0 13916
+D3
+~
+~
+0 0 13914
+S
+#13916
+Underground Passage~
+The passage twists as if its designers were unsure of the direction it
+was to take.  Thick support beams uphold the walls to prevent them from
+collapsing in.  
+~
+0 1 0
+D0
+~
+~
+0 0 13915
+D1
+~
+~
+0 0 13917
+S
+#13917
+Underground Passage~
+The passage splits off in two directions headed south and east.  The
+eastern path appears to be in better condition, its supports well
+maintained.  To the south the timbers supporting the ceiling are half rotten
+potentially near collapse.  
+~
+0 5 0
+D1
+~
+~
+0 0 13918
+D2
+~
+~
+0 0 13922
+D3
+~
+~
+0 0 13916
+S
+#13918
+Underground Passage~
+The passage is well maintained, its supports appear near and the path
+itself is clear of all debris.  Several lit torches fixed in bronze sconces
+provide light through the passage ending the gloom of travel through
+passages.  
+~
+0 0 0
+D1
+~
+~
+0 0 13919
+D3
+~
+~
+0 0 13917
+S
+#13919
+Underground Passage~
+The passage slopes upwards slightly and twists towards the north, the
+torch light provided guidence through.  The area is remarkably well kept,
+every measure taken to prevent anything from happening to this path.  
+~
+0 0 0
+D0
+~
+~
+0 0 13920
+D3
+~
+~
+0 0 13918
+S
+#13920
+Underground Passage~
+Torch light provides guidence as the passage twists to the west and has a
+steeper incline.  The bronze sconces almost sparkle as it appears great care
+was taken to preserve this part of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 13919
+D3
+~
+~
+0 0 13921
+S
+#13921
+Passage End~
+The passage ends abruptly but still appears to be in near perfect
+condition.  The northern wall is decorated with a large tapestry depicting a
+serpent coiled ready to strike.  
+~
+0 1 0
+E
+tapestry~
+The tapestry depicts a large serpent poised to attack an unseen foe. 
+Looking closer you notice behind the tapestry a set of stairs leading up to
+the surface.  You should ENTER the STAIR to exit the passage.  
+~
+D1
+~
+~
+0 0 13920
+S
+#13922
+Underground Passage~
+The passage is poorly maintained and littered with debris making passage
+difficult.  Broken pieces of timber lay scattered throughout the area and
+broken pieces of rock crunch with every step.  
+~
+0 1 0
+D0
+~
+~
+0 0 13917
+D2
+~
+~
+0 0 13923
+S
+#13923
+Underground Passage~
+Passage is blocked further south by large chunks of rock the result of a
+cave-in.  Several boulders lay scattered in the room making the path more
+diffucult, the overhead beams creak loudly and appear to be badly dry
+rotted.  
+~
+0 1 0
+D0
+~
+~
+0 0 13922
+D3
+~
+~
+0 0 13924
+S
+#13924
+Underground Passage~
+Overhead the ceiling sags in, the support beams barely holding the weight
+above them.  The beams are badly splintered and decaying appearing ready to
+collapse under the weight.  
+~
+0 5 0
+D1
+~
+~
+0 0 13923
+D3
+~
+~
+0 0 13925
+S
+#13925
+Underground Passage~
+A badly decayed support beam lays broken on the floor along with several
+hunks of rock.  Only one single struct supports the passage from collaspe.  
+~
+0 0 0
+D1
+~
+~
+0 0 13924
+D3
+~
+~
+0 0 13926
+S
+#13926
+Passage End~
+A face of solid rock signifies the end of the passage the designers of
+the passage abandoning further travel in this direction.  To the north a
+steep drop looms into what appears a bottemless pit.  
+~
+0 5 0
+D0
+~
+~
+0 0 13912
+D1
+~
+~
+0 0 13925
+S
+#13927
+Small Peninsula~
+The small penisula sticks out in the shallows of the river.  An odd set
+of stairs lead down beneath the river and into a underground passage.  
+~
+0 0 2
+D1
+~
+~
+0 0 13928
+D5
+~
+~
+0 0 13921
+S
+#13928
+In the Shallows~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  
+~
+0 0 6
+D1
+~
+~
+0 0 13929
+D3
+~
+~
+0 0 13927
+S
+#13929
+In the Shallows~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  
+~
+0 0 6
+D1
+~
+~
+0 0 13930
+D2
+~
+~
+0 0 13932
+D3
+~
+~
+0 0 13928
+S
+#13930
+Shallows Alongside the Riverbank~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  To the east a steep riverbank prevents the river from spilling over onto the land.
+~
+0 0 6
+D2
+~
+~
+0 0 13931
+D3
+~
+~
+0 0 13929
+S
+#13931
+Shallows Alongside the Riverbank~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  To the east the riverbank declines
+slightly and will soon allow an oppurtunity to leave the river.  
+~
+0 4 0
+D0
+~
+~
+0 0 13930
+D2
+~
+~
+0 0 13934
+D3
+~
+~
+0 0 13932
+S
+#13932
+In the Shallows~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  The water deepens to the south and west
+making passage that way too dangerous to continue.  
+~
+0 0 6
+D0
+~
+~
+0 0 13929
+D1
+~
+~
+0 0 13931
+S
+#13933
+Path Through the Bushes~
+The narrow path snakes through the maze of brush and bushes.  Thorns
+stick out from some of the plants making passage delicate.  To the north a
+small clearing can be seen.  
+~
+0 0 3
+D0
+~
+~
+0 0 13936
+D2
+~
+~
+0 0 14592
+S
+#13934
+Shallows Alongside the Riverbank~
+The ankle deep water flows swiftly in the rivers current.  The smooth
+stones beneath the waters surface make travel through the river tricky, one
+must be careful where they step.  To the east the riverbank levels with the
+river and is flooded over with the waters.  
+~
+0 0 6
+D0
+~
+~
+0 0 13931
+D1
+~
+~
+0 0 13935
+S
+#13935
+Flooded Riverbank~
+The riverbank is half flooded with water from the river, the ground is
+soggy and muddy from the extra water.  To the east passage is blocked by a
+12 foot tall fence, though it appears there may be a section missing,
+perhaps closer examination is needed.  
+~
+0 4 6
+E
+fence~
+The fence though sturdily built has a small gap that could be squeezed
+through.  It would be a good idea to ENTER GAP.  
+~
+D3
+~
+~
+0 0 13934
+S
+#13936
+Small Clearing~
+The bushes and thorns have ben hacked and tossed aside forming a small
+clearing to rest in.  To the west a small path leading to the river bank
+cuts through the dense foliage.  
+~
+0 0 2
+D2
+~
+~
+0 0 13933
+D3
+~
+~
+0 0 13937
+S
+#13937
+Path through the Bushes~
+The thick brush begins to thin out to the west as it gets nearer to the
+river bank.  The path is less diffucult to travel and river can finally be
+seen through the sparse trees.  
+~
+0 0 2
+D1
+~
+~
+0 0 13936
+D3
+~
+~
+0 0 13938
+S
+#13938
+Riverbank~
+The steep rocky bank slopes greatly downward towards the west and the
+river.  Travel down the bank will be easy but it appears a return trip up
+the bank will not be possible.  
+~
+0 4 2
+D1
+~
+~
+0 0 13937
+D3
+~
+~
+0 0 13930
+S
+#13939
+On the Ladder~
+Surrounded by rock walls this narrow pass continues up towards the
+surface.  The rusty metal ladder though old looking is rather stable.  
+~
+0 0 0
+D4
+~
+~
+0 0 13940
+D5
+~
+~
+0 0 13883
+S
+#13940
+On the Ladder~
+Surrounded by rock walls this narrow pass continues up towards the
+surface.  The rusty metal ladder though old looking is rather stable. 
+~
+0 0 0
+D4
+~
+~
+0 0 13941
+D5
+~
+~
+0 0 13939
+S
+#13941
+Top of the Ladder~
+Surrounded by rock walls this narrow pass continues up towards the
+surface.  The rusty metal ladder though old looking is rather stable.  The
+ladder ends at the top of the narrow pass leading to a heavy metal hatch.  
+~
+0 0 0
+D4
+~
+~
+3 0 13942
+D5
+~
+~
+0 0 13940
+S
+#13942
+Beneath the Pier~
+The heavy metal hatch snaps close disappearing back into the sand making
+it impossible to find.  Above you runs a rickety wooden pier with a ladder
+over the side leading up to it.  
+~
+0 4 0
+D4
+~
+~
+0 0 16004
+S
+#13943
+Path through the Forest~
+The path winds its way between the tall pine trees of the forest.  Large
+ferns grow aling the sides of the path swaying slightly in the breeze.  The
+path to the south leads back to the road and heads deeper into the forest to
+the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 13945
+D2
+~
+~
+0 0 9791
+S
+#13944
+In the Pitfall~
+The pit is very deep and its steep dirt walls make climbing out
+impossible.  However, to the east there is narrow opening to what appears to
+be a tunnel entrance.  
+~
+0 8192 0
+D1
+~
+~
+0 0 13800
+S
+#13945
+Path through the Forest~
+The path winds its way between the tall pine trees of the forest.  Large
+ferns grow aling the sides of the path swaying slightly in the breeze.  The
+path to the south leads back to the road and heads deeper into the forest to
+the north. 
+~
+0 0 0
+D2
+~
+~
+0 0 13943
+S
+#13950
+The Dragon Ocean~
+The ocean continues to spread out with the horizon quickly fading to the
+west and a dim fog slowly beginning to blur the edges of all vision.  The
+waves are moderately calm but betray a hidden power that begs to surrender
+to the deeper ocean currents.  
+~
+0 0 6
+D0
+~
+~
+0 0 13951
+D1
+~
+~
+0 0 13952
+D2
+~
+~
+0 0 9797
+D3
+~
+~
+0 0 13954
+S
+#13951
+Western Reaches~
+The sky is mostly clear with some cirus clouds dotting the expanse. 
+While no land is in sight the entire view seems calm and pleasing.  The surf
+softly laps all around and only a soft rumble in the east betrays the
+calmness that seems everywhere.  To the north and west the bank continues
+allowing no portege or rest from the waters.  
+~
+0 0 6
+D1
+~
+~
+0 0 13953
+D2
+~
+~
+0 0 13950
+D3
+~
+~
+0 0 13999
+S
+#13952
+Southern Cliffs~
+A slight chill races across the water throwing bits of surf into the air
+and causing shapes to appear in the rough.  The waves bounce across each
+other showing a danger lies nearby.  A seagull squawks in the air and dodges
+between spray of surf.  Along the south ridge tall cliffs stand as guardians
+to keep the waters at bay.  
+~
+0 0 6
+D0
+~
+~
+0 0 13953
+D1
+~
+~
+0 0 13955
+D3
+~
+~
+0 0 13950
+S
+#13953
+Northern Cliffs~
+A heavy bank of stratus clouds hang over the eastern sky.  The wind
+begins to pick up and salty brime seems to be everywhere.  In the sky a
+seagull gets buffeted by a gust of wind and goes flying off to the west. 
+The northern cliffs seem unbreakable with still no chance of landing.  
+~
+0 0 6
+D1
+~
+~
+0 0 13958
+D2
+~
+~
+0 0 13952
+D3
+~
+~
+0 0 13951
+S
+#13954
+The Dragon Sea~
+The water is covered with white caps as far as the eye can see to the
+East and North.  To the west a ship looms out of the water, the white paint
+on its bow read "Royal Eagle."  Far to the south a dock can be seen, jutting
+out into the water.  
+~
+0 4 6
+D0
+~
+~
+0 0 13999
+D1
+~
+~
+0 0 13950
+D2
+~
+~
+0 0 9788
+S
+#13955
+Southern Cliffs~
+Massive thunderclouds drift over the sky clashing against one another
+sending lightning crashing into the waves.  The surf picks up tremendously
+and slams down on the once calm surface sending plumes of water everywhere. 
+The east seems only to get worse and a strong current rushes everything
+westward.  The tall line of cliffs mark the southern border.  
+~
+0 1 6
+D0
+~
+~
+0 0 13958
+D1
+~
+~
+0 0 13956
+D3
+~
+~
+0 0 13952
+S
+#13956
+Before the Funnel~
+A heavy storm dances across the entire sky.  The immense lightning-storm
+threatens to destroy any and all creatures that may be upon the waters.  If
+there ever was a doubt that creation had lost any potency since creation, it
+ends here.  To the north massive waves shatter the horizon looking more like
+a maw of a giant sea creature than an actual ocean.  To the south a torrent
+of activity can be seen.  Waves, foam, and all else is sucked into a gap in
+the cliffs.  
+~
+0 1 6
+D0
+~
+~
+0 0 13959
+D1
+~
+~
+0 0 13961
+D2
+~
+~
+0 0 13957
+D3
+~
+~
+0 0 13955
+S
+#13957
+The Funnel~
+A tremendous current rushes against the southern cliffs tossing all
+objects south through the opening.  Large rocks, dulled over the years from
+the relentless pounding of water give guidance to the air and water forming
+a terrible wind tunnel of power.  
+~
+0 0 6
+D0
+~
+~
+0 0 13956
+D2
+~
+~
+0 0 10603
+S
+#13958
+Northern Cliffs~
+A heavy bank of stratus clouds hang over the eastern sky.  The wind
+begins to pick up and salty brime seems to be everywhere.  In the sky a
+seagull gets buffeted by a gust of wind and goes scrambling off to the west.
+The northern cliffs seem unbreakable with still no chance of landing, but to
+the east, claps and peals of thunder mark the air and tension seems to
+expand.  
+~
+0 1 6
+D1
+~
+~
+0 0 13959
+D2
+~
+~
+0 0 13955
+D3
+~
+~
+0 0 13953
+S
+#13959
+The First Maw~
+Caught by unknown forces below the waves a tremendous maw of power slams
+the waves back and forth against each other dragging helpless fish to the
+depths and leaving foam and froth to scatter the sky.  There is no victory
+over the power unleashed here.  The best anything could hope for would be a
+lucky battering to send them away instead of into the maw.  
+~
+0 1 6
+D0
+~
+~
+0 0 13960
+D1
+~
+~
+0 0 13962
+D2
+~
+~
+0 0 13956
+D3
+~
+~
+0 0 13958
+S
+#13960
+Northern Cliffs~
+Swirling with terrible power and speed the waves crash and rip through
+this area battering the northern cliffs.  The currents come from the east
+and rip their way south toward what looks to be a massive display of brute
+power.  
+~
+0 1 6
+D1
+~
+~
+0 0 13963
+D2
+~
+~
+0 0 13959
+S
+#13961
+In the Turmoil~
+The waves lick the southern walls in agitation and a strong undertow
+pulls towards the north and to the west.  A terrible storm darkens the
+entire sky and lightning continues to shatter the darkness.  The southern
+wall remains sound and unbreakable.  
+~
+0 1 6
+D0
+~
+~
+0 0 13962
+D1
+~
+~
+0 0 13965
+D3
+~
+~
+0 0 13956
+S
+#13962
+In the Turmoil~
+A darkness flattens across the waterscape with lightning giving the only
+lumination.  Whitecaps light up a picture that look like rocky terrain.  The
+illusion is only betrayed by the horendous noise the currents give off
+roaring into the distance.  To the west most travel, although a tug seems to
+draw to the north.  
+~
+0 1 6
+D0
+~
+~
+0 0 13963
+D1
+~
+~
+0 0 13966
+D2
+~
+~
+0 0 13961
+D3
+~
+~
+0 0 13959
+S
+#13963
+Northern Cliffs~
+Passing with tremendous power and rhythm the waves travel from the
+eastern horizon to the western.  There is no pause or lack of understanding
+of the strength of this current, there is only hope to avoid it's draw and
+survive above it.  
+~
+0 1 6
+D1
+~
+~
+0 0 13967
+D2
+~
+~
+0 0 13962
+D3
+~
+~
+0 0 13960
+S
+#13964
+Dragons Teeth Ridge~
+Lighting up against the black sky a deadly southern and western shore
+becomes apparent.  Sharp jagged rocks dot the landscape and disappear into
+thrashing swells of waves.  A jet of steam rockets out of the ocean showing
+a newly forming island.  The heat all around is oppressive and hinders even
+near sight.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13965
+D1
+~
+~
+0 0 13969
+S
+#13965
+In the Turmoil~
+While still the raging waters course across the landscape, the immediate
+area seems more calm than others.  The darkness is no better with only
+flashes in the heavens giving comfort, but still a lull in the storm seems
+apparent.  To the northeast a raging storm seems to be growing again.  
+~
+0 1 6
+D0
+~
+~
+0 0 13966
+D1
+~
+~
+0 0 13970
+D2
+~
+~
+0 0 13964
+D3
+~
+~
+0 0 13961
+S
+#13966
+In the Turmoil~
+Battling across the sea waves crash into each other fighting to head
+west, north, and east.  This cross-current creates an odd phenomena where
+water actually seems to spring up out of nowhere.  The dark sky above
+threatens to let lose more rain but for the moment the skies are silent and
+forboding.  
+~
+0 1 6
+D0
+~
+~
+0 0 13967
+D1
+~
+~
+0 0 13971
+D2
+~
+~
+0 0 13965
+D3
+~
+~
+0 0 13962
+S
+#13967
+Northern Cliffs~
+The sky flashes with lightning and the wind whips about.  To the east
+surging waves continue to come quickly disappearing just as fast to the
+south and west.  A giant plume to the east is a reminder of the dangers on
+these waters.  
+~
+0 1 6
+D1
+~
+~
+0 0 13972
+D2
+~
+~
+0 0 13966
+D3
+~
+~
+0 0 13963
+S
+#13968
+Dragons Teeth Ridge~
+To the south and west tremendous heat and smoke come.  The immediate
+waterscape is plagued with razor spirals arching from the waters and pools
+of shimmering steam.  The air is think enough to cut with a knife, and no
+normal life can be seen around.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13969
+D1
+~
+~
+0 0 13973
+S
+#13969
+Dragons Teeth Ridge~
+The immediate waters around here light up the area with an eerie glow. 
+Scattered across jets of steam escape from the waves making a hidden fire
+underneath.  Besides these jets hundreds of rock spirals rise up out of the
+waters preventing fast movement.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13970
+D1
+~
+~
+0 0 13974
+D2
+~
+~
+0 0 13968
+D3
+~
+~
+0 0 13964
+S
+#13970
+In the Turmoil~
+Roaring across the landscape with greater noise than a heard of horses,
+and perhaps greater power, the waves travel in from the east vomitting
+themselves out to the west and to the south.  The sky is terrible in its
+fury and threatens to swallow everything by its presence.  
+~
+0 1 6
+D0
+~
+~
+0 0 13971
+D1
+~
+~
+0 0 13975
+D2
+~
+~
+0 0 13969
+D3
+~
+~
+0 0 13965
+S
+#13971
+In the Turmoil~
+Storm clouds dance across the sky in dizzying fashions.  The storm around
+blackens the sky making sight near impossible.  To the north a great plume
+jettison's into the sky as raging waters swirl about.  The currents here
+move from the west to the east.  
+~
+0 1 6
+D0
+~
+~
+0 0 13972
+D1
+~
+~
+0 0 13976
+D2
+~
+~
+0 0 13970
+D3
+~
+~
+0 0 13966
+S
+#13972
+The Second Great Maw~
+The waves churn and form a giant whirlpool whipping around a funnel.  The
+surf is extremely thick and mixed with flashes of lightning has a horrific
+effect.  To say the least no seagull is flying around, only the roar and
+lash of waves can be seen.  With the massive clifts directly to the north
+the spin seems fiercer and darker than ever.  
+~
+0 1 6
+D1
+~
+~
+0 0 13977
+D2
+~
+~
+0 0 13971
+D3
+~
+~
+0 0 13967
+S
+#13973
+Dragons Teeth Ridge~
+The southern frontier is littered with thousands of edged spirals that
+prevent any forays in that direction.  A swift current blasts its way to the
+east from the west.  The darkened sky rumbles with warning and farther to
+the northwest a massive maw can be seen surging in and out of the waves.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13974
+D1
+~
+~
+0 0 13979
+D3
+~
+~
+0 0 13968
+S
+#13974
+The Great Maw~
+A tsunami larger than any you have ever seen blasts through from the east
+and crashes into the nearby waters.  The power and rage present deafens all
+other lightning and storm whipping through the air.  A whirlpool of death
+spins with insane ferocity driving all manners of creatures into the depths.
+~
+0 1 6
+D0
+~
+~
+0 0 13975
+D1
+~
+~
+0 0 13980
+D2
+~
+~
+0 0 13973
+D3
+~
+~
+0 0 13969
+S
+#13975
+In the Turmoil~
+A fierce wind ravages the waters throwing up surf and blinding the view. 
+A strong current lashes out from the north heading southwesterly.  To the
+east and south massive whirlpools can be seen whipping and drawing waters to
+themselves.  
+~
+0 1 6
+D0
+~
+~
+0 0 13976
+D1
+~
+~
+0 0 13981
+D2
+~
+~
+0 0 13974
+D3
+~
+~
+0 0 13970
+S
+#13976
+In the Turmoil~
+Directly to the northwest a massive whirlpool spins and sucks and
+directly to the southeast another spins and sucks.  Fierce currents run from
+west to north, and also from east to south.  The ripping between them
+threatens to tear seemingly even the water apart, but it also has made an
+calm funnel spinning happily in the midst trying to balance out the raging
+currents.  
+~
+0 1 6
+E
+funnel~
+Spinning happily in the midst of powerful currents the funnel dips down low,
+perhaps low enough even to enter.
+~
+D0
+~
+~
+0 0 13977
+D1
+~
+~
+0 0 13982
+D2
+~
+~
+0 0 13975
+D3
+~
+~
+0 0 13971
+S
+#13977
+In the Turmoil~
+Spotting a maw directly to the west, it is no wonder that nightmarish
+currents thrash from the south heading northward.  With the bank of cliffs
+to the northwest the current apparently reaches another location rather than
+around the maw.  Still up above dark clouds threaten and lash out with
+occurring lightning.  
+~
+0 1 6
+D0
+~
+~
+0 0 13978
+D1
+~
+~
+0 0 13983
+D2
+~
+~
+0 0 13976
+D3
+~
+~
+0 0 13972
+S
+#13978
+Sunken Caverns~
+The constant battering from the second great maw's currents have opened
+up a passage in the cliffs.  The headroom is not great, but the wind dies
+down and only the constant passage of waters surging around the corner can
+be seen.  The walls are wet and shiny and on occasion gems sparkle out from
+a stray light.  
+~
+0 1 6
+D1
+~
+~
+0 0 13984
+D2
+~
+~
+0 0 13977
+S
+#13979
+Dragons Teeth Ridge~
+Southward filled with flames and smoke the Dragon Teeth Ridge hangs. 
+While looking mostly empty, haphazard rivets of steam punch through the
+ocean surface reminding of the death that lies below.  Sharp rock pillars
+from unknown times reach up trying to break free of their prison.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13980
+D1
+~
+~
+0 0 13985
+D3
+~
+~
+0 0 13973
+S
+#13980
+In the Turmoil~
+Heavy winds and waves flow in from the west heading north.  The
+maelstorm's, looking as maws, lie directly to the north and west.  The speed
+of the currents is intense and the air whips along content to follow such
+patterns.  The blackened sky flashes and grumbles with disgust.  
+~
+0 1 6
+D0
+~
+~
+0 0 13981
+D1
+~
+~
+0 0 13986
+D2
+~
+~
+0 0 13979
+D3
+~
+~
+0 0 13974
+S
+#13981
+The Great Maw~
+Swirling with a power unknown and unseen to this age, a great pit of
+power whirls with ungodly speed and ferocity.  The blacked sky swoops down
+seemingly to touch the very waters and nightmarish thoughts creep into all
+conscious.  The power unveiled being too great to know or understand.  
+~
+0 1 6
+D0
+~
+~
+0 0 13982
+D1
+~
+~
+0 0 13987
+D2
+~
+~
+0 0 13980
+D3
+~
+~
+0 0 13975
+S
+#13982
+In the Turmoil~
+Fighting back the creation power unleashed is no small task, but yet in
+this maelstorm there seems to be no other option.  Here the waves hurtle
+against each other lashing out fighting for supremacy.  The raw fury battles
+in from the northeast traveling south and westward.  To the direct east and
+south the source of such power lies.  
+~
+0 1 6
+D0
+~
+~
+0 0 13983
+D1
+~
+~
+0 0 13988
+D2
+~
+~
+0 0 13981
+D3
+~
+~
+0 0 13976
+S
+#13983
+In the Turmoil~
+Joined by the rushing waters from the north and the east a terrific surge
+powers its way south and west.  The focus of the storm can almost be
+pictured to the south and the darkness seems so complete and fearsome that
+hell would have a struggle to match.  
+~
+0 1 6
+D0
+~
+~
+0 0 13984
+D1
+~
+~
+0 0 13989
+D2
+~
+~
+0 0 13982
+D3
+~
+~
+0 0 13977
+S
+#13984
+Sunken Caverns~
+Finishing a loop the waves strike from the west, crash against the
+eastern walls and promptly head south to be whipping into the already raging
+waters.  The walls are immaculate with smoothness and gems and one day hope
+would allow a chance to harvest the great wealth.  
+~
+0 1 6
+D2
+~
+~
+0 0 13983
+D3
+~
+~
+0 0 13978
+S
+#13985
+Dragon Teeth Ridge~
+The prison set out by the Dragons Teeth Ridge slowly slopes up and eases
+into a rugged landscape blocking portege to the south.  The heavy waves and
+surf buckle against the cape lending images of the future fury lying north
+and westward.  Steam reaches up out of the depths as the ocean remembers the
+fury of the core below.  
+~
+0 268435457 6
+D0
+~
+~
+0 0 13986
+D3
+~
+~
+0 0 13979
+S
+#13986
+In the Turmoil~
+As on the edge of a knife, the waters here are balanced with surges
+coming from the west and south, but also waves stacking up from the north
+and east.  Wherever this is it doesn't look safe to wander too far.  To the
+northwest a maw of power sinks into the waves and to the south edged spirals
+of rock soar.  
+~
+0 1 6
+D0
+~
+~
+0 0 13987
+D1
+~
+~
+0 0 13990
+D2
+~
+~
+0 0 13985
+D3
+~
+~
+0 0 13980
+S
+#13987
+In the Turmoil~
+A huge wave launches in from the south and west heading north.  The
+currents are intense and the air above does not lesson it.  The gusts of
+wind lash out drawing on the waters and airing the storm above that strikes
+with lightning and darkness.  To the west and the south powerful maelstorms
+whirl and spin drawing everything into themselves.  
+~
+0 1 6
+D0
+~
+~
+0 0 13988
+D1
+~
+~
+0 0 13991
+D2
+~
+~
+0 0 13986
+D3
+~
+~
+0 0 13981
+S
+#13988
+The Great Maw~
+Dipping in a graceful curve a maelstorm deceives perception.  The actual
+power and fury of nearby surf streams and surges pushing to the north and
+drawing from the south and east.  This nightmarish hole sucks in all life
+and betraying hidden power locked within it.  
+~
+0 1 6
+D0
+~
+~
+0 0 13989
+D1
+~
+~
+0 0 13992
+D2
+~
+~
+0 0 13987
+D3
+~
+~
+0 0 13982
+S
+#13989
+The Great Maw~
+Slamming against the cliffs to the north a massive maw of power spins
+dizzingly and mindlessly.  The thoughtless power of creation meets the wall
+of land buttressing forth and slowly wears over the centuries to where it
+now is.  Lightning flashes and strikes the waters instantly creating
+supercharged death.  
+~
+0 1 6
+D2
+~
+~
+0 0 13988
+D3
+~
+~
+0 0 13983
+S
+#13990
+In the Turmoil~
+A storm swallows the region in darkness and forboding pressures. To the south the 
+creation rages against banks of stone blocking portege. The air above is oppressive
+and rank with death and electricity. Sparks fly and streams of lightning hit the
+oceans surface throwing surf up and about.
+~
+0 1 6
+D0
+~
+~
+0 0 13991
+D1
+~
+~
+0 0 13993
+D3
+~
+~
+0 0 13986
+S
+#13991
+In the Turmoil~
+The air above turns black and smells of decay and age.  The powers of the
+storm begin to spread from the west eating away at what sunlight once
+existed.  The currents strike north and west being draw to deepers waters. 
+Relief can be seen to the east if escape is still possible.  
+~
+0 1 6
+D0
+~
+~
+0 0 13992
+D1
+~
+~
+0 0 13994
+D2
+~
+~
+0 0 13990
+D3
+~
+~
+0 0 13987
+S
+#13992
+In the Turmoil~
+A fierce storm engulfs the nearby regions throwing surf up and objects
+down.  A current catches the air drawing all out into the deeper waters. 
+Lightning flashes and the sky darkens hinting at the ferocity that lies
+nearby to the west.  
+~
+0 1 6
+D0
+~
+~
+0 0 10900
+D1
+~
+~
+0 0 13995
+D2
+~
+~
+0 0 13991
+D3
+~
+~
+0 0 13988
+S
+#13993
+The Dragon Ocean~
+A soft bank lies to the south suggesting rolling hills and green fields. 
+Here on the ocean the wind is brisk and salty, and brime flies up caught by
+its passage.  The east shows a sandy beach and to the west shadows form
+showing a great storm.  
+~
+0 0 6
+D0
+~
+~
+0 0 13994
+D1
+~
+~
+0 0 13996
+D3
+~
+~
+0 0 13990
+S
+#13994
+The Dragon Ocean~
+A break in the cloud cover allows a stream of light to break through. 
+The illuminated waters show varied marine life, strong and striving.  The
+shadows around foreshadow a greater one to the western horizon.  To the east
+shining beaches welcome visitors.  
+~
+0 4 6
+D0
+~
+~
+0 0 13995
+D1
+~
+~
+0 0 13997
+D2
+~
+~
+0 0 13993
+D3
+~
+~
+0 0 13991
+S
+#13995
+The Dragon Ocean~
+A seagull cries out and swoops down snatching something out of the
+waters.  The waters begin to pick up in wave strength nervously indicating a
+greater work going on.  The westward view shows a nearby storm with lashing
+lightning and fierce waves.  Here though, on the outskirts, only a chill
+seeps in.  To the east a bank rises.  
+~
+0 4 6
+D0
+~
+~
+0 0 10901
+D2
+~
+~
+0 0 13994
+D3
+~
+~
+0 0 13992
+S
+#13996
+Eastern Reaches~
+The beach breaks here into a path to the east.  The nearby sand is white
+and sparkling, showing much polish and wear.  The wind is crisp but
+overhanging the air is pressure pointing to a nearby storm.  Over the
+western horizon only water lays, but a shadow darkens the far reaches.  
+~
+0 4 6
+D0
+~
+~
+0 0 13997
+D1
+~
+~
+0 0 14501
+D3
+~
+~
+0 0 13993
+S
+#13997
+Eastern Reaches~
+Soft waters lap against the eastern shore of the ocean.  The waters to
+the west give no indication of how far away land may be.  The nearby shore
+teams with life, with small crabs scuttling about, and clams basking in the
+sun.  A shadow in the west hangs over the horizon.  
+~
+0 4 6
+D2
+~
+~
+0 0 13996
+D3
+~
+~
+0 0 13994
+S
+#13998
+Inside the Funnel~
+Swirling around at a dizzying speed the nearby waters toss and throw. If not
+for being in an ocean it's positive vomit would be spilled everywhere. Fish
+putter by flashing large lidless eyes in curiosity. The flashes of lightning
+above and the storm seemingly lost into oblivion.
+~
+0 0 0
+D4
+~
+~
+0 0 13976
+S
+#13999
+The Dragon Sea~
+The water laps about the sides of your boat, splashing up onto the bow,
+leaving a salty residue as it dries in the sun.  The sea here is choppy, but
+not especially rough, and it expands to the east and south.  To the west
+impassable cliffs tower thousands of feet above, and to the north a tall
+structure rises from the water, its fifty foot wall seemingly impossible to
+scale.  
+~
+0 4 6
+D1
+~
+~
+0 0 13951
+D2
+~
+~
+0 0 13954
+D5
+~
+~
+0 0 5481
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13872 5 1 The down door of Dead End is closed
+D 0 13875 4 1 The up door of Underground Sewer is closed
+D 0 13878 4 1 The up door of Underground Sewer is closed
+D 0 13941 4 1 The up door of Top of the Ladder is closed
+M 0 13804 20 13803 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+M 0 13808 10 13805 1 *Load a blind worm
+O 0 13800 0 13807 *A basin loaded to Turn in the Passage
+M 0 13804 20 13807 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+M 0 13804 1 13811 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+M 0 13808 1 13811 1 *Load a blind worm
+M 0 13804 20 13811 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+M 0 13808 10 13811 1 *Load a blind worm
+M 0 13804 20 13817 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+M 0 13808 10 13820 1 *Load a blind worm
+M 0 13804 20 13825 1 *Load a rock troll
+E 0 13810 0 16 *A sharp pine sapling is loaded wielded of a rock troll
+E 0 13811 0 5 *A studded leather breastplate is loaded on the body of a rock troll
+O 0 13801 0 13829 *A slippery chute loaded to Dead End
+M 0 13800 1 13834 1 *Load a starving goblin
+O 0 13809 0 13834 *A roasted turkey leg loaded to Cavern
+M 0 13804 20 13837 1 *Load a rock troll
+M 0 13804 20 13838 1 *Load a rock troll
+M 0 13804 20 13840 1 *Load a rock troll
+M 0 13804 20 13842 1 *Load a rock troll
+O 0 13802 0 13845 *Chute loaded to Cavern
+M 0 13804 20 13847 1 *Load a rock troll
+O 0 13808 0 13849 *A side tunnel loaded to Cavern
+M 0 13804 20 13853 1 *Load a rock troll
+M 0 13803 10 13856 1 *Load a glutinous lipopod
+M 0 13803 10 13861 1 *Load a glutinous lipopod
+M 0 13803 10 13865 1 *Load a glutinous lipopod
+M 0 13803 10 13870 1 *Load a glutinous lipopod
+M 0 13802 15 13873 3 *Load a plague rat
+M 0 13802 15 13874 3 *Load a plague rat
+M 0 13802 15 13875 3 *Load a plague rat
+M 0 13802 15 13876 3 *Load a plague rat
+M 0 13802 15 13877 3 *Load a plague rat
+M 0 13802 15 13878 3 *Load a plague rat
+M 0 13803 10 13880 1 *Load a glutinous lipopod
+M 0 13808 10 13885 1 *Load a blind worm
+M 0 13805 5 13888 1 *Load a scaled worm
+M 0 13806 2 13895 1 *Load a dark spirit
+E 0 13812 0 12 *A twisted mass of shadows is loaded about the shoulders of a dark spirit
+E 0 13813 0 16 *A condensed mass of shadows is loaded wielded of a dark spirit
+M 0 13808 10 13898 1 *Load a blind worm
+M 0 13805 5 13902 1 *Load a scaled worm
+O 0 13803 0 13906 *Stream loaded to Along the Stream
+O 0 13803 0 13907 *Stream loaded to Along the Stream
+O 0 13805 0 13908 *Stream loaded to Along the Stream
+O 0 13804 0 13908 *Pool loaded to Along the Stream
+M 0 13805 5 13908 1 *Load a scaled worm
+M 0 13810 1 13911 1 *Load a shade assassin
+E 0 13824 0 16 *A jagged obsidian blade is loaded wielded of a shade assassin
+M 0 13808 10 13918 1 *Load a blind worm
+M 0 13809 1 13920 1 *Load a tunnel worker
+E 0 13822 0 16 *A pickaxe is loaded wielded of a tunnel worker
+O 0 13823 0 13920 *A wooden support beam loaded to Underground Passage
+O 0 13823 0 13920 *A wooden support beam loaded to Underground Passage
+O 0 13823 0 13920 *A wooden support beam loaded to Underground Passage
+O 0 13823 0 13920 *A wooden support beam loaded to Underground Passage
+O 0 13806 0 13921 *Set of stairs loaded to Passage End
+M 0 13808 10 13923 1 *Load a blind worm
+M 0 13806 2 13925 1 *Load a dark spirit
+E 0 13812 0 12 *A twisted mass of shadows is loaded about the shoulders of a dark spirit
+E 0 13813 0 16 *A condensed mass of shadows is loaded wielded of a dark spirit
+M 0 13807 1 13934 1 *Load a darkly clad man
+E 0 13815 0 12 *A murky ebon cloak is loaded about the shoulders of a darkly clad man
+E 0 13816 0 10 *A pair of steel-plated vambraces is loaded on the arms of a darkly clad man
+E 0 13817 0 7 *A pair of steel-plated greaves is loaded on the legs of a darkly clad man
+E 0 13818 0 5 *An ebony steel breastplate is loaded on the body of a darkly clad man
+E 0 13819 0 8 *A pair of soft black boots is loaded on the feet of a darkly clad man
+E 0 13820 0 6 *A dark leather cowl is loaded over the head of a darkly clad man
+E 0 13821 0 16 *A scorched longsword is loaded wielded of a darkly clad man
+G 0 13847 0 *A travellers glyph is given to a darkly clad man
+O 0 13807 0 13935 *A gap loaded to Flooded Riverbank
+M 0 13811 1 13945 1 *Load {x
+M 0 13953 16 13952 1 *Load a spawn of Charybdis
+M 0 13955 1 13955 1 *Load a swift current
+M 0 13952 16 13956 1 *Load a spawn of Charybdis
+M 0 13956 1 13956 1 *Load a swift current
+M 0 13957 1 13957 1 *Load a swift current
+M 0 13958 1 13958 1 *Load a swift current
+M 0 13950 6 13959 1 *Load an offspring of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13951 36 13959 6 *Load a head of Scylla
+M 0 13959 1 13959 1 *Load a swift current
+M 0 13960 1 13960 1 *Load a swift current
+M 0 13961 1 13961 1 *Load a swift current
+M 0 13952 16 13962 1 *Load a spawn of Charybdis
+M 0 13962 1 13962 1 *Load a swift current
+M 0 13953 7 13963 1 *Load a spawn of Charybdis
+M 0 13963 1 13963 1 *Load a swift current
+M 0 13953 7 13964 1 *Load a spawn of Charybdis
+M 0 13952 16 13965 1 *Load a spawn of Charybdis
+M 0 13952 16 13967 1 *Load a spawn of Charybdis
+M 0 13967 1 13967 1 *Load a swift current
+M 0 13952 16 13969 1 *Load a spawn of Charybdis
+M 0 13969 1 13969 1 *Load a swift current
+M 0 13970 1 13970 1 *Load a swift current
+M 0 13952 16 13971 1 *Load a spawn of Charybdis
+M 0 13971 1 13971 1 *Load a swift current
+M 0 13950 6 13972 1 *Load an offspring of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13951 36 13972 6 *Load a head of Scylla
+M 0 13972 1 13972 1 *Load a swift current
+M 0 13952 16 13973 1 *Load a spawn of Charybdis
+M 0 13973 1 13973 1 *Load a swift current
+M 0 13950 6 13974 1 *Load an offspring of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13951 36 13974 6 *Load a head of Scylla
+M 0 13974 1 13974 1 *Load a swift current
+M 0 13952 16 13975 1 *Load a spawn of Charybdis
+M 0 13975 1 13975 1 *Load a swift current
+M 0 13953 7 13976 1 *Load a spawn of Charybdis
+M 0 13976 1 13976 1 *Load a swift current
+O 0 13976 0 13976 *A funnel loaded to In the Turmoil
+M 0 13952 16 13977 1 *Load a spawn of Charybdis
+M 0 13977 1 13977 1 *Load a swift current
+M 0 13978 1 13978 1 *Load a swift current
+M 0 13953 7 13979 1 *Load a spawn of Charybdis
+M 0 13952 16 13980 1 *Load a spawn of Charybdis
+M 0 13980 1 13980 1 *Load a swift current
+M 0 13950 6 13981 1 *Load an offspring of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13951 36 13981 6 *Load a head of Scylla
+M 0 13981 1 13981 1 *Load a swift current
+M 0 13950 1 13982 1 *Load an offspring of Scylla
+M 0 13982 1 13982 1 *Load a swift current
+M 0 13983 1 13983 1 *Load a swift current
+M 0 13953 7 13984 1 *Load a spawn of Charybdis
+M 0 13984 1 13984 1 *Load a swift current
+M 0 13952 16 13985 1 *Load a spawn of Charybdis
+M 0 13986 1 13986 1 *Load a swift current
+M 0 13952 16 13987 1 *Load a spawn of Charybdis
+M 0 13987 1 13987 1 *Load a swift current
+M 0 13950 6 13988 1 *Load an offspring of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13951 36 13988 6 *Load a head of Scylla
+M 0 13988 1 13988 1 *Load a swift current
+M 0 13950 6 13989 1 *Load an offspring of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13951 36 13989 6 *Load a head of Scylla
+M 0 13989 1 13989 1 *Load a swift current
+M 0 13952 16 13990 1 *Load a spawn of Charybdis
+M 0 13991 1 13991 1 *Load a swift current
+M 0 13953 7 13992 1 *Load a spawn of Charybdis
+M 0 13992 1 13992 1 *Load a swift current
+O 0 13998 0 13998 *A sea-green annulet loaded to Inside the Funnel
+S
+
+
+
+#SHOPS
+13811 0 0 0 0 0 100 100 0 23
+13954 0 0 0 0 0 100 100 0 23
+13955 0 0 0 0 0 100 100 0 23
+13956 0 0 0 0 0 100 100 0 23
+13957 0 0 0 0 0 100 100 0 23
+13958 0 0 0 0 0 100 100 0 23
+13959 0 0 0 0 0 100 100 0 23
+13960 0 0 0 0 0 100 100 0 23
+13961 0 0 0 0 0 100 100 0 23
+13962 0 0 0 0 0 100 100 0 23
+13963 0 0 0 0 0 100 100 0 23
+13966 0 0 0 0 0 100 100 0 23
+13967 0 0 0 0 0 100 100 0 23
+13968 0 0 0 0 0 100 100 0 23
+13969 0 0 0 0 0 100 100 0 23
+13970 0 0 0 0 0 100 100 0 23
+13971 0 0 0 0 0 100 100 0 23
+13972 0 0 0 0 0 100 100 0 23
+13973 0 0 0 0 0 100 100 0 23
+13974 0 0 0 0 0 100 100 0 23
+13975 0 0 0 0 0 100 100 0 23
+13976 0 0 0 0 0 100 100 0 23
+13977 0 0 0 0 0 100 100 0 23
+13978 0 0 0 0 0 100 100 0 23
+13979 0 0 0 0 0 100 100 0 23
+13980 0 0 0 0 0 100 100 0 23
+13981 0 0 0 0 0 100 100 0 23
+13982 0 0 0 0 0 100 100 0 23
+13983 0 0 0 0 0 100 100 0 23
+13984 0 0 0 0 0 100 100 0 23
+13986 0 0 0 0 0 100 100 0 23
+13987 0 0 0 0 0 100 100 0 23
+13988 0 0 0 0 0 100 100 0 23
+13989 0 0 0 0 0 100 100 0 23
+13991 0 0 0 0 0 100 100 0 23
+13992 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#13800
+mob echo The goblin strains against his chains reaching for the table
+mob echo The goblin snarls, 'Gimme the leg!'
+mob echo The goblin snarls, 'Ill tell you secrets!'
+mob mload 13801
+mob purge sleeping
+~
+#13801
+mob echo The goblin gobbles down the turkey leg.
+mob delay 5
+mob echo The goblin sits down and thinks.
+mob delay 3
+mob echo The goblin uses the bone to pick the lock on his chains.
+mob delay 2
+mob echo The goblin snarls, 'Thank you! Enter a tunnel along the eastern wall and if asked say skul!'
+mob delay 2
+mob echo The goblin scampers off disappearing into the shadows.
+mob purge $i
+~
+#13802
+mob echo The goblin strains against his chains reaching for the table.
+mob echo The goblin snarls, 'Gimme the leg!'
+mob echo The goblin snarls, 'Ill tell you secrets!'
+~
+#13803
+mob echo The goblin curls up and goes to sleep.
+mob mload 13800
+mob purge starving
+~
+#13804
+mob purge sleeping
+~
+#13805
+if level $n < 101
+say greetings young one you may pass.
+else
+if wears $n glyph
+say Greetings Traveller, may you always have safe journies.
+else
+if carries $n glyph
+say Present your glyph and you shall pass.
+else
+say Halt! Say the phrase or you shall not pass!
+endif
+endif
+~
+#13806
+say ah a true traveller indeed, you may pass!
+give glyph $n
+mob transfer $n 13935
+~
+#13807
+if level $n < 101
+say you may pass little one.
+mob transfer $n 13935
+else
+if wears $n glyph
+say You wear the glyph of a traveller, you may pass.
+mob transfer $n 13935
+else
+say You shall not pass!
+mob kill $n
+endif
+~
+#13808
+if carries $n glyph
+say You have already earned your glyph, present it to proceed.
+else
+if wears $n glyph
+say You have already earned your glyph, present it to proceed.
+else
+say impressive you are a true explorer, this glyph will allow passage in the future
+mob oload 13847
+give glyph $n
+mob junk glyph
+endif
+endif
+~
+#13809
+if wears $n glyph
+mob echo A shade hisses, 'greetings protected one'
+else
+if level $n < 101
+say You may passss, little one.
+else
+backstab $n
+endif
+endif
+~
+#13810
+~
+#13811
+mob flee
+~
+#13812
+mob echo As you step forward, the path disppears beneath your feet sending you tumbling into a deep pit.
+mob transfer $n 13944
+~
+#13814
+if rand 25
+if rand 30
+mob oload 13826
+else
+if rand 35
+mob oload 13827
+else
+if rand 40
+mob oload 13828
+else
+if rand 45
+mob oload 13829
+else
+if rand 35
+mob oload 13830
+else
+if rand 40
+mob oload 13831
+else
+if rand 45
+mob oload 13832
+else
+if rand 50
+mob oload 13833
+else
+if rand 40
+mob oload 13834
+else
+if rand 45
+mob oload 13835
+else
+if rand 50
+mob oload 13836
+else
+if rand 55
+mob oload 13837
+else
+if rand 45
+mob oload 13838
+else
+if rand 50
+mob oload 13839
+else
+if rand 55
+mob oload 13840
+else
+if rand 60
+mob oload 13841
+else
+if rand 50
+mob oload 13842
+else
+if rand 55
+mob oload 13843
+else
+if rand 60
+mob oload 13844
+else
+if rand 65
+mob oload 13845
+else
+else
+if rand 99
+if rand 99
+if rand 99
+mob oload 13846
+~
+#13815
+if rand 15
+if rand 35
+mob call 13816 self
+else
+if rand 40
+mob call 13817 self
+else
+if rand 45
+mob call 13818 self
+else
+if rand 60
+mob call 13819 self
+else
+if rand 75
+mob call 13820 self
+ 
+~
+#13816
+if rand 85
+mob oload 13829
+else
+if rand 70
+mob oload 13828
+else
+if rand 55
+mob oload 13827
+else
+mob oload 13826
+~
+#13817
+if rand 85
+mob oload 13833
+else
+if rand 70
+mob oload 13832
+else
+if rand 55
+mob oload 13831
+else
+mob oload 13830
+~
+#13818
+if rand 85
+mob oload 13837
+else
+if rand 70
+mob oload 13836
+else
+if rand 55
+mob oload 13835
+else
+mob oload 13834
+~
+#13819
+if rand 85
+mob oload 13841
+else
+if rand 70
+mob oload 13840
+else
+if rand 55
+mob oload 13839
+else
+mob oload 13838
+~
+#13820
+if rand 96
+mob oload 13846
+else
+if rand 85
+mob oload 13845
+else
+if rand 70
+mob oload 13844
+else
+if rand 55
+mob oload 13843
+else
+mob oload 13842
+~
+#13950
+if isnpc $n
+break
+else
+mob kill $n
+end if
+~
+#13955
+if rand 90
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13952
+~
+#13956
+if rand 90
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13957
+~
+#13957
+mob transfer charybdis 13956
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 10603
+mob force $n sit
+~
+#13958
+if rand 90
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13953
+~
+#13959
+if rand 90
+if rand 75
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13958
+else
+if rand 75
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13956
+else
+if rand 75
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13962
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13960
+~
+#13960
+if rand 90
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13959
+~
+#13961
+if rand 90
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13962
+~
+#13962
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13959
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13963
+~
+#13963
+if rand 90
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13960
+~
+#13966
+if rand 90
+if rand 66
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13962
+else
+if rand 66
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13967
+else
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13971
+~
+#13967
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13963
+else
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13966
+~
+#13968
+if rand 90
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13973
+~
+#13969
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13964
+else
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13968
+~
+#13970
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13965
+else
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13969
+~
+#13971
+if rand 90
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13976
+~
+#13972
+if rand 90
+if rand 66
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13967
+else
+if rand 66
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13971
+else
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13977
+~
+#13973
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13974
+else
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13979
+~
+#13974
+if rand 90
+if rand 75
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13969
+else
+if rand 75
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13973
+else
+if rand 75
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13980
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13975
+~
+#13975
+if rand 90
+if rand 66
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13970
+else
+if rand 66
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13974
+else
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13981
+~
+#13976
+if rand 90
+if rand 75
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13971
+else
+if rand 75
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13975
+else
+if rand 75
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13982
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13977
+~
+#13977
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13978
+else
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13972
+~
+#13978
+if rand 90
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13984
+~
+#13979
+if rand 90
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13980
+~
+#13980
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13981
+else
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13974
+~
+#13981
+if rand 90
+if rand 75
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13975
+else
+if rand 75
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13980
+else
+if rand 75
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13987
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13982
+~
+#13982
+if rand 90
+if rand 66
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13976
+else
+if rand 66
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13981
+else
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13988
+~
+#13983
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13982
+else
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13977
+~
+#13984
+if rand 90
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13983
+~
+#13985
+~
+#13986
+if rand 90
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13987
+~
+#13987
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13988
+else
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13981
+~
+#13988
+if rand 90
+if rand 75
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13982
+else
+if rand 75
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13987
+else
+if rand 75
+mob echo A current hits $n pushing $m to the east.
+mob transfer $n 13992
+else
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13989
+~
+#13989
+if rand 90
+if rand 50
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13983
+else
+mob echo A current hits $n pushing $m to the south.
+mob transfer $n 13988
+~
+#13991
+if rand 90
+mob echo A current hits $n pushing $m to the north.
+mob transfer $n 13992
+~
+#13992
+if rand 90
+mob echo A current hits $n pushing $m to the west.
+mob transfer $n 13988
+~
+#0
+
+#$

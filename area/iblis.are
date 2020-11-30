@@ -1,0 +1,1255 @@
+#AREADATA
+Name Sahuagin Kingdom~
+Builders Iblis Unlinked~
+VNUMs 47600 47700
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#47690
+Sahuagin King~
+{2Sa{@h{7ua{@g{2in{x King~
+The mighty king of the Sahuagin stands here leading his kind into war.
+~
+The mighty leader of the Sahuagin stands here awaiting you to foolishly attack him or his people.
+~
+elf~
+A JVac CH -1000 0
+160 450 300d300+600 0d0+0 600d200+300 claw
+-200 -200 -200 -200
+AFHKM B L J
+stand stand male 2000
+AHMV ABCDEFGHIJK small unknown
+#47691
+sahuagin bre~
+{2Sa{@h{7ua{@g{2in{X {*B{7r{*ee{7d{7e{*r{x~
+A Sahuagin stands here exhausted from a days work.
+~
+~
+elf~
+A J C -1000 0
+145 150 200d100+50 0d0+0 40d40+40 scratch
+-5 -5 -5 -5
+0 B KL J
+stand stand none 2000
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#47600
+The Grand Gates of the Sahuagin Kingdom~
+You stand at the fabled gates that lead into the Sahuagin Kingdom.  The
+guards stand at attention eyeing you up and down as you enter.  The smell of
+fish and decaying flesh fills the air.  The water on this swampy ground come
+up to your knees making it much harder to even walk.  
+~
+0 0 0
+D2
+~
+~
+0 0 47601
+S
+#47601
+Begining of the Stream~
+As you continue into the Sahuagin Kingdom you can tell that the origins
+of this race started somewhere near.  Whale rib cages line either side of
+the banks creating an imtimating wall.  The stream has a slight current and
+carries you towards the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 47600
+D2
+~
+~
+0 0 47602
+S
+#47602
+Fork in the Stream~
+The stream has split into three seperate paths.  Each one looks the same
+and the stream is a stagnant pool void of life.  The sounds of splashing are
+head in all directions as Sahuagin move around to observe you from the
+banks.  
+~
+0 0 0
+D0
+~
+~
+0 0 47601
+D1
+~
+~
+0 0 47603
+D2
+~
+~
+0 0 47629
+D3
+~
+~
+0 0 47604
+S
+#47603
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47605
+D3
+~
+~
+0 0 47602
+S
+#47604
+The Western Stream~
+The stream continues on towards the west.  Heads of fallen foes impaled
+with spears for target practice line the banks on either side.  The water
+seems to be getting deeper and you notice something moving around your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 47602
+D3
+~
+~
+0 0 47626
+S
+#47605
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47606
+D3
+~
+~
+0 0 47603
+S
+#47606
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47607
+D3
+~
+~
+0 0 47605
+S
+#47607
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47606
+D2
+~
+~
+0 0 47608
+S
+#47608
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47607
+D2
+~
+~
+0 0 47609
+S
+#47609
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47608
+D3
+~
+~
+0 0 47611
+S
+#47610
+~
+~
+0 4 0
+S
+#47611
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47612
+D1
+~
+~
+0 0 47609
+D2
+~
+~
+0 0 47613
+D3
+~
+~
+0 0 47614
+S
+#47612
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47611
+S
+#47613
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47611
+S
+#47614
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47632
+D1
+~
+~
+0 0 47611
+D3
+~
+~
+0 0 47615
+S
+#47615
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47628
+D1
+~
+~
+0 0 47614
+D2
+~
+~
+0 0 47633
+D3
+~
+~
+0 0 47616
+D5
+~
+~
+0 0 47627
+S
+#47616
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47631
+D1
+~
+~
+0 0 47615
+D3
+~
+~
+0 0 47617
+S
+#47617
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47619
+D1
+~
+~
+0 0 47616
+D2
+~
+~
+0 0 47620
+D3
+~
+~
+0 0 47618
+S
+#47618
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47621
+D1
+~
+~
+0 0 47617
+S
+#47619
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47617
+S
+#47620
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47617
+S
+#47621
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47622
+D2
+~
+~
+0 0 47618
+S
+#47622
+The Western Shores~
+The west banks of the stream meet here only to be forced back by the walls surrounding the kingdom.
+~
+0 0 0
+D0
+~
+~
+0 0 47623
+D2
+~
+~
+0 0 47621
+S
+#47623
+The Northwest Corner~
+As you reach the northwest corner of the steam you feel the eyes of many
+unseen creatures staring you down.  The streams direction changes to the
+south and the sounds of wildlife begin to fill the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 47626
+D2
+~
+~
+0 0 47622
+S
+#47624
+~
+~
+0 4 0
+S
+#47626
+The Western Stream~
+The stream here continues west with a small current pulling you towards
+the west.  Sahuagin stand around a fire cooking fish from a succesful hunt. 
+Staring you down as you walk by a small chill creeps up your spine as you
+feel you may be the next meal.  
+~
+0 0 0
+D1
+~
+~
+0 0 47604
+D3
+~
+~
+0 0 47623
+S
+#47627
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47663
+D3
+~
+~
+0 0 47657
+D4
+~
+~
+0 0 47615
+S
+#47628
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47629
+D1
+~
+~
+0 0 47632
+D2
+~
+~
+0 0 47615
+D3
+~
+~
+0 0 47631
+S
+#47629
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47602
+D2
+~
+~
+0 0 47628
+S
+#47630
+~
+~
+0 4 0
+S
+#47631
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47628
+D2
+~
+~
+0 0 47616
+S
+#47632
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47614
+D3
+~
+~
+0 0 47628
+S
+#47633
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47615
+D2
+~
+~
+0 0 47634
+S
+#47634
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47633
+D5
+~
+~
+0 0 47635
+S
+#47635
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47636
+D3
+~
+~
+0 0 47646
+D4
+~
+~
+0 0 47634
+S
+#47636
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47637
+D3
+~
+~
+0 0 47635
+S
+#47637
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47638
+D2
+~
+~
+0 0 47642
+D3
+~
+~
+0 0 47636
+S
+#47638
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47639
+D2
+~
+~
+0 0 47637
+S
+#47639
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47641
+D1
+~
+~
+0 0 47640
+D3
+~
+~
+0 0 47638
+S
+#47640
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47639
+S
+#47641
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47639
+S
+#47642
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47637
+D1
+~
+~
+0 0 47643
+S
+#47643
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47644
+D2
+~
+~
+0 0 47645
+D3
+~
+~
+0 0 47642
+S
+#47644
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47643
+S
+#47645
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47643
+S
+#47646
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47635
+D3
+~
+~
+0 0 47647
+S
+#47647
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47649
+D1
+~
+~
+0 0 47646
+D2
+~
+~
+0 0 47653
+S
+#47648
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47647
+S
+#47649
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47647
+D3
+~
+~
+0 0 47650
+S
+#47650
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47652
+D1
+~
+~
+0 0 47649
+D3
+~
+~
+0 0 47651
+S
+#47651
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47650
+S
+#47652
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47650
+S
+#47653
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47647
+D3
+~
+~
+0 0 47654
+S
+#47654
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47653
+D2
+~
+~
+0 0 47656
+D3
+~
+~
+0 0 47655
+S
+#47655
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47654
+S
+#47656
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47654
+S
+#47657
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47627
+D2
+~
+~
+0 0 47658
+S
+#47658
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47657
+D2
+~
+~
+0 0 47659
+S
+#47659
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47658
+D1
+~
+~
+0 0 47660
+S
+#47660
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47661
+D2
+~
+~
+0 0 47664
+D3
+~
+~
+0 0 47659
+S
+#47661
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47662
+D3
+~
+~
+0 0 47660
+S
+#47662
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47663
+D2
+~
+~
+0 0 47661
+S
+#47663
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47662
+D3
+~
+~
+0 0 47627
+S
+#47664
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47660
+D2
+~
+~
+0 0 47665
+S
+#47665
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47664
+D5
+~
+~
+0 0 47666
+S
+#47666
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47667
+D4
+~
+~
+0 0 47665
+S
+#47667
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47666
+D1
+~
+~
+0 0 47672
+D2
+~
+~
+0 0 47676
+D3
+~
+~
+0 0 47668
+S
+#47668
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47667
+D3
+~
+~
+0 0 47669
+S
+#47669
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47670
+D1
+~
+~
+0 0 47668
+S
+#47670
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47669
+D3
+~
+~
+0 0 47671
+S
+#47671
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47670
+S
+#47672
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47673
+D3
+~
+~
+0 0 47667
+S
+#47673
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47674
+D3
+~
+~
+0 0 47672
+S
+#47674
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47675
+D2
+~
+~
+0 0 47673
+S
+#47675
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47674
+S
+#47676
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47667
+D2
+~
+~
+0 0 47677
+S
+#47677
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47676
+D4
+~
+~
+0 0 47678
+S
+#47678
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47679
+D5
+~
+~
+0 0 47677
+S
+#47679
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47678
+D1
+~
+~
+0 0 47682
+D2
+~
+~
+0 0 47680
+D3
+~
+~
+0 0 47686
+S
+#47680
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47679
+D2
+~
+~
+0 0 47681
+S
+#47681
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47680
+S
+#47682
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47683
+D3
+~
+~
+0 0 47679
+S
+#47683
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47684
+D3
+~
+~
+0 0 47682
+S
+#47684
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47683
+D1
+~
+~
+0 0 47685
+S
+#47685
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47684
+S
+#47686
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47679
+D3
+~
+~
+0 0 47687
+S
+#47687
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47686
+D2
+~
+~
+0 0 47688
+S
+#47688
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47687
+D3
+~
+~
+0 0 47689
+S
+#47689
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47688
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

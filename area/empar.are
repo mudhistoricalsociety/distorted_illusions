@@ -1,0 +1,2680 @@
+#AREADATA
+Name Castle of Empar~
+Builders Fesdor~
+VNUMs 37000 37099
+Continent 2
+Credits {y[{Y  LGD{y ]{c Tien/Fes{Y Castle of Empar{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#37001
+nobody~
+nobody~
+Nobody is here.
+~
+~
+human~
+ABN 0 A 0 0
+1 0 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+0 AB 0 S
+stand stand none 1000000
+DGS 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37002
+BlackSmith~
+A blacksmith~
+A blacksmith stands here selling his wares.
+~
+~
+human~
+AB 0 0 0 0
+150 0 1d1+1 0d0+0 1d1+20 none
+0 0 0 0
+0 AB 0 0
+stand stand male 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37003
+Peasant~
+A Peasant~
+A Peasant stands here waiting for your order.
+~
+You see nothing special about this peasant shopkeeper.  
+~
+human~
+AB 0 0 0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 300000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37004
+Butcher~
+A Butcher~
+A Butcher stands here cutting up a slab of beef.
+~
+His hands are bloody and they look kinda worn down.  I don't think I
+would stay around too long, he may want you for dinner.  
+~
+human~
+AB 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+#37005
+Baker~
+A Baker~
+A Baker stands here with flour on his clothes.
+~
+His hands are bloody and they look kinda worn down.  I don't think I
+would stay around too long, he may want you for dinner.  A Baker stands
+here.  Catch him before he eats your doughnuts!  
+~
+human~
+AB 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37006
+Apothecary~
+An Apothecary~
+An Apothecary stands here mixing medicines.
+~
+A normal alchemist stands before you looking ragged and worn down.  
+~
+human~
+AB 0 0 0 0
+0 0 10d10+100000 0d0+0 10d10+1000 none
+0 0 0 0
+0 AB 0 0
+stand stand none 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37007
+Librarian~
+A Librarian~
+A Librarian stands here reading a book.
+~
+It's an old lady, what did you expect?  
+~
+human~
+AB 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37008
+Healer~
+A {&Healer{0~
+A {&Healer{x stands here with his arms outstretched.
+~
+A normal run of the mill priest.  
+~
+human~
+ABa 0 0 0 0
+150 0 100d150+10000 200d200+50000 200d200+5000 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37009
+Grave Digger~
+A {&G{*rave {^D{6igger{x~
+A {&G{*rave {^D{6igger{x sits here indian style waiting for a corpse.
+~
+{*Big and tuff, Watch out before he takes your corpse before it's done!  
+~
+human~
+AB 0 0 0 0
+0 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 500000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#37010
+Portal Guard~
+a {^P{6ortal {!G{1uard{X~
+A {^P{6ortal {!G{1uard{X sits here.
+~
+You see nothing special about the {^P{6ortal {!  G{1uard.  {x 
+~
+storm-giant~
+ABFT DFJVZa 0 1000 0
+140 30 50d10+12500 0d0+0 20d7+0 grep
+-10 -10 -10 -10
+CKU AB 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+F imm J
+F vul P
+#37011
+guard~
+A {!G{1uard{x~
+A {!G{1uard{x sits here.
+~
+A {!  G{1uard{x stands here looking kinda bored.  
+~
+storm-giant~
+ABT 0 0 -1000 0
+150 30 50d60+10000 0d0+0 50d20+40 slash
+-25 -25 -25 -25
+CFIKU AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+F imm J
+F vul P
+#37012
+undead peasant~
+A {^P{6easant{x~
+An {!u{1ndead {^p{6easant{x stands here cleaning up the castle.
+~
+Put them out of their misery!
+~
+beastman~
+A Ka 0 -1000 0
+130 100 50d10+10940 0d0+0 50d10+40 scratch
+-20 -20 -20 -20
+F AB C 0
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+#37013
+regal prince~
+A {&P{*rince{x~
+A {!R{1egal {&P{*rince{x is standing here.
+~
+The prince is here worrying about his kingdom.  
+~
+storm-giant~
+ABT 0 N 1000 0
+140 30 50d60+10000 0d0+0 7d9+50 slash
+-25 -25 -25 -25
+FHIK AB CD 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+F imm J
+F vul P
+#37014
+Princess~
+A {&V{*irtuous {^P{6rincess{x~
+A {&V{*irtuous {^P{6rincess{x stands here waiting.
+~
+A Queen in the making.
+~
+sylvan-elf~
+AB J N 1000 0
+130 0 1d1+60000 0d0+0 50d50+400 none
+-30 -30 -30 -30
+0 AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK large unknown
+#37015
+tower guard~
+A {^T{6ower {!G{1uard{x~
+A {&W{*hite {^T{6ower {!G{1uard{x stands here.
+~
+He guards the towers.
+~
+hill-giant~
+ABF 0 N 0 0
+130 400 10d20+15000 0d0+0 25d25+25 none
+-30 -30 -30 -30
+U AB 0 C
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#37016
+Skeleton~
+A {&S{*keleton{x~
+A {&S{*keleton{x stands here rattling away.
+~
+AHH! A skeleton!!
+~
+kenku~
+AB FLT O -1000 0
+140 0 5d10+15000 0d0+0 10d15+10 none
+-40 -40 -40 -40
+0 AB 0 0
+stand stand none 20000
+AHMV ABCDEFGHIJKP medium unknown
+#37017
+soul~
+A {!S{1oul{x~
+A {!S{1oul{x stands here screaming at you!
+~
+A Soul, It sounds mean too!
+~
+storm-giant~
+AB 0 0 -1000 0
+140 0 50d60+15000 0d0+0 10d15+30 none
+0 0 0 0
+0 AB J 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+F imm J
+F vul P
+#37018
+Ghoul~
+A {^G{6houl{x~
+A {^G{6houl{x stands here laughing in your face.
+~
+Do you REALLY wanna know what it looks like?
+~
+bullywug~
+AB b 0 0 0
+140 0 50d60+15000 0d0+0 10d15+10 none
+-30 -30 -30 -30
+0 AB 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+F off R
+#37019
+dying prisoner~
+A {!D{1ying {^P{6risoner{x~
+A {!D{1ying {^P{6risoner{x is laying on his back weeping.
+~
+Remember the night of the living dead?
+~
+human~
+AB M 0 1000 0
+140 0 50d60+15000 0d0+0 10d15+10 scratch
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#37020
+prison guard~
+A {&P{*rison {!G{1uard{x~
+A {&P{*rison {!G{1uard{x stands here waiting for you to attack.
+~
+Big and tuff, what else did ya expect?
+~
+ogre~
+AB 0 O -1000 0
+140 0 50d60+15000 0d0+0 10d15+10 crush
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 20000
+AHMV ABCDEFGHIJK large unknown
+#37021
+pit viper~
+A {!P{1it {^V{6iper{x~
+A {!P{1it {^V{6iper{x strikes at your legs!
+~
+It's gonna bite ya, RUN!
+~
+snake~
+ABFOP 0 N -1000 0
+130 0 50d60+15000 0d0+0 10d15+10 bite
+-30 -30 -30 -30
+ADFHMU AB L 0
+stand stand male 0
+AGXYc ADEFKLQVX medium unknown
+F vul I
+#37022
+King~
+The {!K{1ing{x~
+The {!K{1ing{x is sitting here praying for rescue.
+~
+The king of this castle sits here hoping for comfort.  
+~
+human~
+AB K N 1000 0
+140 0 50d60+15000 0d0+0 10d15+10 divine
+-40 -40 -40 -40
+0 AB 0 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#37023
+Queen~
+The {^Q{6ueen{x~
+The {^Q{6ueen{x sits here tapping her foot impatiently.
+~
+The Queen doesn't like to be delayed.
+~
+human~
+A K N 1000 0
+140 0 50d60+15000 0d0+0 10d15+10 divine
+-40 -40 -40 -40
+0 AB 0 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#37024
+Castle Sentry~
+a {^C{6astle {!S{1entry{x~
+A {^C{6astle {!S{1entry{x sits here on his deathbed.
+~
+This sentry has been dragged all over the place.  
+~
+derro~
+AB JK N 1000 0
+130 0 50d60+15000 0d0+0 10d15+10 scratch
+-30 -30 -30 -30
+U AB L S
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#37025
+giant sewer rat~
+A {^S{6ewer {!R{1at{x~
+A giant {^s{6ewer {!r{1at{x looks at you with red eyes.
+~
+A giant sewer rat, run already!!!
+~
+rabbit~
+A 0 0 -1000 0
+130 0 50d60+15000 0d0+0 50d10+40 bite
+-15 -15 -15 -15
+FH AB L I
+stand stand none 20000
+AGV ACDEFHJKQ medium unknown
+#37026
+avian~
+An {^A{6vian{x~
+An {^A{6vian{x is flittering around like a butterfly.
+~
+Just kill it and get it over with.
+~
+wyvern~
+A DFT 0 1000 0
+130 0 50d60+15000 0d0+0 10d15+10 bite
+-20 -20 -20 -20
+CFH ABL 0 S
+stand stand none 20000
+ABG ACDEFHJKQV medium unknown
+F for Z
+F par X
+#37027
+air elemental~
+An {&A{*ir {!E{1lemental{x~
+An {&A{*ir {!E{1lemental{x stands here ready to fight!
+~
+He's big and tuff and stuff!  
+~
+wyvern~
+A DFT 0 1000 0
+130 0 50d60+15000 0d0+0 10d15+10 bite
+-20 -20 -20 -20
+CFH ABL 0 S
+stand stand none 20000
+ABG ACDEFHJKQV medium unknown
+F for Z
+F par X
+#37028
+Skeleton~
+{wA S{Wkeleton{x~
+A Skeleton stands here, serving its master.
+~
+~
+human~
+AFO DFJZ 0 -1000 0
+100 250 1d1+5000 0d0+0 1d1+50 slash
+0 0 0 0
+CEH 0 F E
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 37000 100~
+#37029
+lich~
+{BA L{bich{x~
+A lich stands here, under the Aeternal's control.
+~
+~
+human~
+ABFOR DFJZ 0 -1000 0
+120 0 1d1+2500 0d0+0 5d50+100 drain
+0 0 0 0
+H 0 M N
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 37000 100~
+#37030
+greater demon~
+{RA G{rreater {RD{remon{x~
+A Greater Demon is here, wreaking havoc.
+~
+~
+human~
+ABFP DEJVZ D -1000 0
+140 150 1d1+25000 0d0+0 1d1+350 flbite
+-10 -10 -10 -10
+CDEFHK 0 M NS
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 37000 100~
+#37096
+Bill Gates~
+{RB{rill {RG{rates{X~
+Here stands the new God.
+~
+~
+human~
+AT DFJQTUVa H -1000 0
+150 21 500d200+500 1d100+0 50d50+50 none
+-40 -40 -40 -15
+CEHIJN AB D F
+stand stand male 10000
+A ABCDEFGHIJK medium unknown
+F for HMV
+#37099
+Aeternal Evil~
+{GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x~
+{YT{yhe {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml {GR{gadiates {ME{mvil{x
+~
+No time to look at him, he's attacking!!!
+~
+human~
+ABFGLQRT DFJTVZ 0 -1000 0
+150 130 50d100+95000 1000d1000+10000 600d3+50 fury
+-120 -85 -85 -70
+AEFGH ABJKM DEHZ S
+stand stand male 200000
+E ABCDEFGHIJK medium unknown
+F for AHMV
+M FIGHT 37001 35~
+#0
+
+
+
+#OBJECTS
+#37000
+dusty portal~
+a {^D{6usty {!P{1ortal{x~
+A {^D{6usty {!P{1ortal {xsits here waiting to be used.~
+unknown~
+portal O 0
+0 A A CDHMP 0
+0 0 0 P
+#37001
+dusty portal~
+a {^D{6usty {!P{1ortal{x~
+A {^D{6usty {!P{1ortal {xsits here waiting to be used.~
+unknown~
+portal O 0
+0 A A ABDHMP 0
+0 0 0 P
+#37002
+viper fangs~
+{!V{1iper {^F{6angs{x~
+A set of Viper fangs recently pulled lie here.~
+unknown~
+jewelry AG AS
+0 0 0 0 0
+90 3 1000 P
+A
+13 50
+A
+20 -5
+A
+18 5
+#37003
+axe aeternal~
+{7Axe of the {%A{@e{#t{^e{!r{#n{@a{%l{x~
+{7The Axe of the {%A{@e{#t{^e{!r{#n{@a{%l{7 lies here{x~
+unknown~
+weapon 0 AN
+axe 15 13 fury E
+101 10 50000 P
+A
+19 10
+A
+20 5
+A
+18 5
+A
+3 -2
+A
+13 100
+#37004
+mind control cap~
+{xMind Control{x~
+A cap with 'Mind Control' lies here waiting.~
+leather~
+armor ABTdf AE
+BD BD BD BD 0
+101 10 30000 G
+A
+19 -20
+A
+5 -5
+A
+3 -2
+F
+R 18 15 P
+#37005
+handcuffs aeternal~
+{7Handcuffs of the {%A{@e{#t{^e{!r{#n{@a{%l{x~
+A set of handcuffs lie here unused.~
+unknown~
+jewelry A AM
+0 0 0 0 0
+90 2 10000 P
+A
+9 15
+A
+4 1
+A
+17 -15
+A
+13 -100
+A
+1 -2
+A
+20 -2
+A
+5 1
+#37006
+portal satan~
+a portal to Satan and you soon regret it~
+A portal leading to {!S{1atan{x is here with a sign that says {#[{!Suicide Portal{#]{x on it.~
+unknown~
+portal 0 0
+0 KL A CDFGHLN 0
+101 5000 0 P
+#37007
+shortbread~
+shortbread~
+A delicious piece of shortbread is here waiting to be eaten.~
+unknown~
+food 0 A
+5 3 0 0 0
+70 1 100 P
+#37008
+pitcher orange juice~
+a pitcher of {#O{3range {#J{3uice{x~
+A pitcher of {#O{3range {#J{3uice{x is here.~
+unknown~
+drink G AO
+300 300 'orange juice' 0 0
+70 1 10000 P
+#37009
+stack pancakes~
+pancakes~
+An extra tall stack of pancakes lie here waiting to be eaten.~
+unknown~
+food 0 A
+5 3 0 0 0
+70 1 100 P
+#37010
+twinkies~
+a {3t{#wi{&n{#ki{3e{x~
+A small package containing a twinkie lies here.~
+unknown~
+food 0 AO
+5 3 0 0 0
+70 1 100 P
+#37011
+loaf wonderbread~
+a {3loaf{X of {&W{$on{!de{$r{&B{!re{$ad{x~
+A {3loaf{X of {&W{$on{!de{$r{&B{!re{$ad{x lies here uneaten.~
+unknown~
+food 0 AO
+5 3 0 0 0
+70 1 100 P
+#37012
+slim jim beef jerky package~
+a {#Slim {#Jim{x~
+A package of beef jerky lies here unopened.~
+unknown~
+food 0 AO
+5 3 0 0 0
+70 1 100 P
+#37013
+peperoni stick~
+a stick of {!p{1e{!p{1e{!r{1o{!n{1i{x~
+A stick of {!p{1e{!p{1e{!r{1o{!n{1i{x lies here.~
+unknown~
+food 0 AO
+5 3 0 0 0
+70 1 100 P
+#37014
+t-bone steak tbone~
+a {&t-bone{x {1steak{x~
+A {&t-bone{x {1steak{x lies here.{x~
+unknown~
+food 0 AO
+4 3 0 0 0
+70 1 100 P
+#37015
+Winged Avian Helm~
+{CWi{cng{Ced {CA{cvian {Yhelm{X~
+Feathers have been woven together to form a helmet.~
+unknown~
+armor BI AE
+ADE ADE BCDE ADE 0
+90 4 20000 P
+A
+18 5
+A
+14 20
+F
+A 0 0 T
+#37016
+Avian Claw~
+{CA{cvian {WClaw{X~
+A pair of claws has been ripped off an {CA{cvian{X.  They are encaked in blood and sharp as the finest blade.~
+unknown~
+weapon 0 AN
+exotic 12 15 peck H
+91 2 9000 P
+A
+18 5
+A
+19 5
+A
+20 1
+#37017
+patch royalty~
+the Patch of Royalty~
+The patch of the royal family of Empar is here, crest shining brightly.~
+unknown~
+armor A AW
+CE BCDE CE ABCD 0
+101 2 25000 P
+A
+18 8
+A
+19 8
+#37018
+Air Trident~
+{WTr{Dident {Wof {RA{rir{X~
+Barely visible it floats here waiting for a worthy soul to master it.~
+unknown~
+weapon 0 AN
+polearm 16 12 charge F
+101 8 2000 P
+A
+20 -2
+A
+2 2
+A
+18 15
+#37019
+tower guard tower shield~
+{CT{cower {RG{ruard {WS{whield{X~
+A Tower Guard's shield sits here protecting the user.~
+unknown~
+armor AI AJ
+ABCF ABCF ABCF ABCF 0
+101 12 15000 P
+#37020
+skimpy lingerie~
+the {Cq{cueen's {Xlingerie~
+You PERVERT! You stole the {Cq{cueen's {Xlingerie!! GIVE IT BACK NOW!~
+unknown~
+armor 0 AD
+ACDE ACDE ACDE CDE 0
+101 1 20000 P
+A
+9 5
+A
+2 2
+F
+A 0 0 U
+#37021
+royal dagger~
+{CR{coyal {RD{ragger{X~
+A dagger owned by the royal family of Empar lies here.~
+unknown~
+weapon FG AN
+dagger 15 13 pierce H
+101 5 15000 P
+A
+18 8
+A
+13 50
+#37022
+prison guard shield~
+{WA {WP{Drison {RG{ruard's {WS{Dhield{x~
+A prison guard's shield lies here.~
+unknown~
+armor 0 AJ
+BCDE BCDE BCDE BCDE 0
+101 9 20000 P
+A
+19 5
+A
+18 5
+#37023
+hot sausage link~
+{!h{1o{!t {3sausage{x~
+A link of hot sausage lies here waiting to be eaten.~
+unknown~
+food 0 AO
+15 15 0 0 0
+70 1 100 P
+#37024
+guard sword~
+a {RG{ruard's {Xsword~
+The {RG{ruard's{X sword has been soaked with blood while defending the castle from invaders. The blade is as sharp as any ever produced.~
+unknown~
+weapon 0 AN
+sword 21 9 slash DEF
+101 14 20000 P
+A
+19 5
+A
+18 5
+A
+1 1
+#37025
+skeleton sharp bone~
+{dS{Dkeletal {dB{Dracer{X~
+The ripped off arm of a {dS{Dkeleton{X waits for a new body.~
+unknown~
+armor J AM
+ABCD ABCD ACD BCD 0
+101 3 20000 P
+A
+20 -5
+A
+13 20
+#37026
+soul breath~
+{RS{roul's {Xlast breath~
+The breath from a departed human floats here.~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+90 30 15000 P
+A
+20 -6
+#37027
+twisted rapier~
+{WA T{wwisted {WR{wapier{x~
+A rapier with a twisted blade lies here.~
+unknown~
+weapon 0 AN
+sword 5 27 thrust E
+70 5 50000 P
+A
+19 10
+#37028
+steel club~
+{DA S{dteel {DC{dlub{x~
+A club made entirely of steel lies here.~
+unknown~
+weapon 0 AN
+mace 2 75 crush 0
+70 25 50000 P
+A
+19 14
+A
+18 -25
+#37029
+thin dagger~
+{RA T{rhin {RD{ragger{x~
+A long, thin dagger lies in the dirt~
+unknown~
+weapon 0 AN
+dagger 8 15 pierce 0
+70 6 50000 P
+A
+19 21
+A
+2 3
+#37030
+hunting hatchet~
+{GA H{gunting {GH{gatchet{x~
+A hatchet used for hunting lies here.~
+unknown~
+weapon 0 AN
+axe 14 9 chop 0
+70 7 50000 P
+A
+13 80
+A
+19 10
+A
+18 5
+#37031
+pitch torch~
+{YA P{yitch {YT{yorch{x~
+A torch soaked in pitch lies here, burning away~
+unknown~
+light A A
+0 0 BCDJK 0 0
+70 5 10000 P
+#37032
+satchel leather~
+{yA Leather Satchel{x~
+A satchel made of leather lies here~
+unknown~
+container 0 AO
+250 A 0 200 30
+70 1 30000 P
+#37033
+canvas canteen~
+{gA {GC{gan{Gv{gas {gC{Ga{gnt{Ge{gen{x~
+A canteen made of canvas is here.~
+unknown~
+drink 0 AO
+525 1 'water' 0 0
+70 11 20000 P
+#37034
+potion divine~
+{WA D{Yiv{Win{Ye P{Wot{Yio{Wn{x~
+A potion sits here, radiating a divine aura~
+unknown~
+potion AB AO
+90 'protection evil' 'armor' 'steel flesh' 'stone skin'
+70 1 15000 P
+#37035
+potion hatred hate~
+{RA P{Dot{Rio{Dn {Rof H{Dat{Rred{x~
+A dark red potion labeled "Hatred" lies here.~
+unknown~
+potion E AO
+90 'frenzy' 'giant strength' 'haste' 'protection good'
+70 1 15000 P
+#37036
+sprig sage~
+{GS{Cpri{Gg {Cof {GS{Cag{Ge{x~
+A spring of sage lies here, giving off a strong aroma.~
+unknown~
+pill 0 AO
+90 'stone skin' 'shield' 'protection evil' 'mass invis'
+70 1 15000 P
+#37037
+sprig thyme~
+{gA S{cpri{gg {cof {gTh{cy{gme{x~
+A sprig of thyme looks delicious.~
+unknown~
+pill A AO
+105 'cure blindness' 'cure disease' 'cure poison' 'remove curse'
+70 1 15000 P
+#37038
+tome power~
+{RA T{rome {Ro{rf {RP{rower{x~
+A tome is here, radiating an evil power~
+unknown~
+scroll B AO
+70 'demonfire' 'blindness' 'cure blindness' 'cure serious'
+70 5 20000 P
+#37039
+book blessing~
+{WA B{Yoo{Wk of D{Yivin{We W{Yrat{Wh{x~
+A book with holy markings on its cover lies here.~
+unknown~
+scroll A AO
+70 'holy word' 'curse' 'remove curse' ''
+70 7 20000 P
+#37089
+cloak Aeternal~
+{%Cl{5oak {@o{2f {#t{3he {%A{@e{#t{^e{!r{#n{@a{%l{x~
+The cloak of the Aeternal sits in a pile~
+Ivory~
+armor ABS AK
+ADE ADE ADE ADE 0
+101 10 50000 P
+A
+19 12
+A
+18 12
+A
+13 50
+#37090
+armplates aeternal~
+{MArm{mplates {Go{gf {Yt{yhe {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x~
+Armplates belonging to the Aeternal lie here~
+unknown~
+armor ABS AI
+CE CE CE CE 0
+101 10 50000 P
+A
+19 15
+A
+26 5
+A
+18 7
+#37091
+girth aeternal~
+{%Gi{5rth {@o{2f {#t{3he {%A{@e{#t{^e{!r{#n{@a{%l{x~
+The girth of the aeternal sits here.~
+unknown~
+armor ABS AL
+CE CE CE CE 0
+101 3 50000 P
+F
+S 18 10 C
+A
+19 14
+A
+12 75
+#37092
+helm aeternal~
+{%He{5lm {@o{2f {#t{3he {%A{@e{#t{^e{!r{#n{@a{%l{x~
+The helm of the aeternal sits here.~
+unknown~
+armor AB AE
+CE CE CE CE 0
+101 2 50000 P
+A
+12 50
+A
+9 15
+A
+18 12
+A
+19 9
+A
+13 50
+#37093
+Kiam's Coffin~
+{RK{ri{Da{dm{w'{Ws C{wo{df{Df{ri{Rn{x~
+A coffin sits here~
+unknown~
+furniture 0 0
+A EGIJOP CFIL CDFI CDFI
+0 0 0 P
+A
+19 -16
+#37094
+legplates aeternal~
+{MLegp{mlates {Go{gf {Yt{yhe {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x~
+Legplates belonging to the Aeternal lie here~
+unknown~
+armor AB AF
+BD CE CE BCDE 0
+101 7 50000 P
+A
+19 15
+A
+18 7
+A
+20 -2
+A
+28 3
+#37095
+throne darkness vex~
+{#T{3hron{#e {7of {6Dar{3kne{1ss{x~
+A throne stands here, high-backed and shrouded in darkness and magic.~
+unknown~
+furniture ABC 0
+AB EFGIJKM BEH DGKMNOPQRSTUVWXYZabcdef EFLMNOPQRSTUVWXYZabcdef
+1 0 0 P
+A
+13 50
+#37098
+bowl blood~
+a {&b{7ow{&l{x of {!B{1loo{!d{x~
+A bowl of blood lies here, filled to the brim.~
+unknown~
+drink ABG AO
+1000 1000 'blood' 0 0
+104 1 1 P
+#37099
+boots aeternal~
+{MBo{mots {Go{gf {Yt{yhe {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x~
+Boots belonging to the Aeternal have been forgotten~
+unknown~
+armor ABS AG
+BCE BCE BCE BCE 0
+101 7 50000 P
+A
+14 25
+A
+19 9
+A
+9 10
+A
+2 2
+A
+18 15
+#0
+
+
+
+#ROOMS
+#37000
+Fesdor's Room~
+Welcome to FESDOR'S ROOM! Have fun!
+~
+0 540676 0
+D5
+~
+~
+0 0 109
+S
+#37001
+The Base of a Mountain~
+A path begins to emerge from the pure wilderness that is the top of this
+ridge.  It leads North towards the slopes of a giant mountain.  The shrubs
+and trees here are shriveled as a result of the extreme elevation, and the
+air is much thinner, making every step much more laborious.  
+~
+0 0 2
+D0
+~
+~
+0 0 37003
+D2
+~
+~
+0 0 17848
+S
+#37002
+Road to Castle Empar~
+As you continue along the path you notice the trees and brush slowly
+becoming more immaculate and well groomed.  As you look around for any signs
+of life, you see only the grass and trees.  You slowly come to realize there
+are no animals or insects and the sounds of birds have all but dissapeared. 
+This is strange, strange indeed.  
+~
+0 4 2
+S
+#37003
+The Portal to Castle Empar~
+Far above you on the peak of a mountain sits the Castle Empar.  Cliffs
+thousands of feet tall surround it on all sides, making it completely
+inaccessible by normal means.  A portal rises from the ground at the end of
+the path, it can only lead one place ...  
+~
+0 0 2
+D2
+~
+~
+0 0 37001
+S
+#37004
+Inside the Walls~
+As you step out of the portal into the bright sunlight of the courtyard,
+you notice that you are trapped within it's dark grey walls.  The only way
+through those walls is the dusty pipe from which you emerged.  The energy of
+the Aeternal radiates throughout this place, his curse penetrating the very
+fabric of the rooms.  
+~
+0 0 1
+D0
+~
+~
+0 0 37007
+S
+#37005
+The Blacksmith~
+You are standing in an old blacksmithing room.  There is a large forge in
+the corner covered with black soot.  A large rack on the back wall displays
+the equipment for sale.  The smell of smoke is heavy but bearable.  
+~
+0 132 0
+D0
+~
+~
+0 0 37008
+D1
+~
+~
+0 0 37066
+S
+#37006
+Butcher's House~
+You enter a small shop that specializes in meat.  There is a lot of meat,
+all kept in chilled glass cases for open view.  Remarkably these meats don't
+look spoiled or even slightly browned.  Yet another mystery of this strange
+place.  
+~
+0 132 0
+D0
+~
+~
+0 0 37009
+D3
+~
+~
+0 0 37064
+S
+#37007
+Center of the Marketplace~
+You enter a large courtyard, filled with the remains of an old
+marketplace.  To the west is the food court, only the baker and the butcher
+have remained.  To the east, the blacksmith's and the general store is all
+that remains open from a once great armoury.  
+~
+0 0 1
+D0
+~
+~
+0 0 37010
+D1
+~
+~
+0 0 37008
+D2
+~
+~
+0 0 37004
+D3
+~
+~
+0 0 37009
+S
+#37008
+Eastern Armoury~
+You enter the old armoury area.  The walls are even darker here than in
+other parts of the castle.  You can hear the solitary banging of the
+blacksmith and the soft cries of Bob as he greets the few remaining peasants
+outside of the castle proper.  
+~
+0 0 0
+D0
+~
+~
+0 0 37011
+D2
+~
+~
+0 0 37005
+D3
+~
+~
+0 0 37007
+S
+#37009
+Western Food Court~
+As you enter the small food court, the smell of fresh baked bread
+overwhelms you.  The smell of the cakes and cookies of the bakery almost
+drive you insane.  You look around and wonder how a market such as this
+could exist this close to the castle.  Yet another puzzle in this intriguing
+place.  
+~
+0 0 0
+D0
+~
+~
+0 0 37012
+D1
+~
+~
+0 0 37007
+D2
+~
+~
+0 0 37006
+S
+#37010
+Bottom of South Stairwell~
+You are at the base of a very large red velvet staircase.  The outer wall
+is a sickly pale color.  The interior walls are a deep obsidian, reflecting
+how you feel as you go deeper into the castle.  My, what a strange place
+this is!  
+~
+0 0 0
+D2
+~
+~
+0 0 37007
+D4
+~
+~
+0 0 37013
+S
+#37011
+Supply Store~
+You step into a small store.  A bell rings as the door closes behind you.
+As you walk around looking in the cases you see many useful items, only a
+few of which are actually for sale.  A smell of musk hangs in the air.  
+~
+0 132 0
+D1
+~
+~
+0 0 37063
+D2
+~
+~
+0 0 37008
+S
+#37012
+Baker's Place~
+You enter a quaint shop.  There are all types of breads here to purchase.
+A cake is cooling on a rack beside you on the counter.  
+~
+0 132 0
+D2
+~
+~
+0 0 37009
+D3
+~
+~
+0 0 37065
+S
+#37013
+South Stairwell~
+You are standing in the heart of the southern stairwell.  The stairwell
+continues up into the black tower and down towards the castle entrance.  The
+eastern and western exits lead to the other parts of the castle.  
+~
+0 1 0
+D1
+~
+~
+0 0 37014
+D3
+~
+~
+0 0 37015
+D4
+~
+~
+0 0 37035
+D5
+~
+~
+0 0 37010
+S
+#37014
+Cross hall~
+You are standing at the intersection of the southern hallway and the
+eastern hallway.  To the north lays the eastern hallway.  To the west is the
+south stairs, to the east is the entrance to a white tower.  
+~
+0 1 0
+D0
+~
+~
+0 0 37016
+D1
+~
+~
+0 0 37039
+D3
+~
+~
+0 0 37013
+S
+#37015
+Cross hall~
+You are standing at the intersection of the southern hallway and the
+western hallway.  To the north lays the western hallway.  To the east is the
+south stairs, to the west is the entrance to a white tower.  
+~
+0 1 0
+D0
+~
+~
+0 0 37022
+D1
+~
+~
+0 0 37013
+D3
+~
+~
+0 0 37021
+S
+#37016
+Eastern Hallway~
+You find yourself in a carpeted hallway.  The walls are a dark obsidian
+color.  The doors along the hallway have been chained shut from the inside
+and out.  There is no way of entering them.  
+~
+0 1 0
+D0
+~
+~
+0 0 37017
+D2
+~
+~
+0 0 37014
+S
+#37017
+Eastern Hallway~
+You stand next to the entrance to the dungeon.  To the east you can hear
+the sounds of the ghosts wailing.  To the north the hallway continues on.  
+~
+0 1 0
+D0
+~
+~
+0 0 37019
+D1
+~
+~
+0 0 37018
+D2
+~
+~
+0 0 37016
+S
+#37018
+East Dungeon Entrance~
+You enter a dark room with drab walls. A deep stairwell leads into the dungeons. You feel that it may not be wise to continue down into the dungeons.
+~
+0 0 0
+D3
+~
+~
+0 0 37017
+D5
+~
+~
+0 0 37056
+S
+#37019
+Eastern Hallway~
+You find yourself in a carpeted hallway.  The walls are a dark obsidian
+color.  The doors along the hallway have been chained shut from the inside
+and out.  There is no way of entering them.  
+~
+0 1 0
+D0
+~
+~
+0 0 37020
+D2
+~
+~
+0 0 37017
+S
+#37020
+Cross Hall~
+You are standing at the intersection of the northern hallway and the
+eastern hallway.  To the south lays the eastern hallway.  To the east is the
+entrance to a white tower.  To the west is the north stairs.  
+~
+0 1 0
+D1
+~
+~
+0 0 37037
+D2
+~
+~
+0 0 37019
+D3
+~
+~
+0 0 37027
+S
+#37021
+Base of South West Tower~
+You stand at the entrance to a white tower.  You can feel the power
+eminating from it, pushing back the blackness of the rest of the castle. 
+You feel safer here.  
+~
+0 5 0
+D1
+~
+~
+0 0 37015
+D4
+~
+~
+0 0 37038
+S
+#37022
+Western Hallway~
+You find yourself in a carpeted hallway.  The walls are a dark obsidian
+color.  The doors along the hallway have been chained shut from the inside
+and out.  There is no way of entering them.  
+~
+0 1 0
+D0
+~
+~
+0 0 37023
+D2
+~
+~
+0 0 37015
+S
+#37023
+Western Hallway~
+You stand in the middle of the corridor.  A large gaping hole catches
+your attention immediately.  You wonder where it could lead.  
+~
+0 1 0
+D0
+~
+~
+0 0 37025
+D2
+~
+~
+0 0 37022
+D5
+~
+~
+0 0 37024
+S
+#37024
+Bottom of the Broken Shaft.~
+You find yourself at the bottom of a narrow shaft, From the wails of the
+prisoners you suspect you are in the dungeons of this massive castle.  You
+have to wonder who could be locked in the dungeons while someone as evil as
+the Aeternal are in power.  
+~
+0 1073741828 0
+D1
+~
+~
+0 0 37076
+D2
+~
+~
+0 0 37082
+S
+#37025
+Western Hallway~
+You find yourself in a carpeted hallway.  The walls are a dark obsidian
+color.  The doors along the hallway have been chained shut from the inside
+and out.  There is no way of entering them.  
+~
+0 1 0
+D0
+~
+~
+0 0 37026
+D2
+~
+~
+0 0 37023
+S
+#37026
+Cross Hall~
+You are standing at the intersection of the northern hallway and the
+western hallway.  To the south lays the western hallway.  To the east is the
+north stairs, to the west is the entrance to a white tower.  
+~
+0 1 0
+D1
+~
+~
+0 0 37027
+D2
+~
+~
+0 0 37025
+D3
+~
+~
+0 0 37028
+S
+#37027
+North Stairwell~
+You are standing at the base of the northern stairwell.  The stairwell
+continues up into the black tower and south into the castle cistern.  The
+eastern and western exits lead to the other parts of the castle.  
+~
+0 1 0
+D1
+~
+~
+0 0 37020
+D2
+~
+~
+0 0 37067
+D3
+~
+~
+0 0 37026
+D4
+~
+~
+0 0 37029
+S
+#37028
+Base of North West Tower~
+You stand at the entrance to a white tower.  You can feel the power
+eminating from it, pushing back the blackness of the rest of the castle. 
+You feel safer here.  
+~
+0 5 0
+D1
+~
+~
+0 0 37026
+D4
+~
+~
+0 0 37042
+S
+#37029
+North Stairs~
+You find yourself on the first floor of the black tower.  Down leads back
+down to the main floor.  Up leads further into the tower.  To the south is
+the well room where you can check out the castle cistern.  
+~
+0 5 0
+D2
+~
+~
+0 0 37072
+D4
+~
+~
+0 0 37030
+D5
+~
+~
+0 0 37027
+S
+#37030
+North Stairs~
+You are standing near the top of the north stairwell.  The walls are a
+very dark black color.  To the south is the room of healing.  You think it
+might be helpful later on.  
+~
+0 1 0
+D2
+~
+~
+0 0 37036
+D4
+~
+~
+0 0 37031
+D5
+~
+~
+0 0 37029
+S
+#37031
+Before the Bed Chamber~
+You stand at the top of the north stairwell.  To the south is the bed
+chamber of the Aeternal.  The evil has turned the walls of the stairwell
+blacker than soot at this point.  You recite an old prayer and prepare
+yourself.  
+~
+0 1 0
+D2
+~
+~
+0 0 37032
+D5
+~
+~
+0 0 37030
+S
+#37032
+Bed Chamber~
+You enter the bedchamber and look around.  There is a small table by the
+wall, a bed in the center of the room and a ladder attached to the wall
+leading up to a trapdoor.  You can feel the evil that radiates from this
+room.  
+~
+0 0 0
+D0
+~
+~
+0 0 37031
+D2
+~
+~
+0 0 37033
+D4
+~
+trapdoor~
+1 0 37081
+S
+#37033
+Before the Bed Chamber~
+You stand at the top of the south stairwell.  To the north is the bed
+chamber of the Aeternal.  The evil has turned the walls of the stairwell
+blacker than soot at this point.  You shudder quietly to yourself and steel
+your nerves.  
+~
+0 1 0
+D0
+~
+~
+0 0 37032
+D5
+~
+~
+0 0 37034
+S
+#37034
+South Stairs~
+You are standing near the top of the south stairwell.  The walls are a
+very dark black color.  To the north is the room of healing.  You don't dare
+think about why it would be this close to the Aeternal.  
+~
+0 1 0
+D0
+~
+~
+0 0 37036
+D4
+~
+~
+0 0 37033
+D5
+~
+~
+0 0 37035
+S
+#37035
+South Stairs~
+You find yourself on the first floor of the black tower.  Down leads back
+down to the main floor.  Up leads further into the tower.  To the north is
+the well room where you can check out the castle well.  
+~
+0 5 0
+D0
+~
+~
+0 0 37072
+D4
+~
+~
+0 0 37034
+D5
+~
+~
+0 0 37013
+S
+#37036
+Room of Healing~
+You enter a pure white room.  The walls are encrusted with special
+gemstones that have been infused with holy energies.  This area is safe from
+all attacks.  
+~
+0 1028 0
+D0
+~
+~
+0 0 37030
+D2
+~
+~
+0 0 37034
+M 2000 H 2000
+S
+#37037
+Base of North East Tower~
+You stand at the entrance to a white tower.  You can feel the power
+eminating from it, pushing back the blackness of the rest of the castle. 
+You feel safer here.  
+~
+0 5 0
+D3
+~
+~
+0 0 37020
+D4
+~
+~
+0 0 37044
+S
+#37038
+Middle of South West Tower~
+You enter the midsection of the south-west white tower.  Above you is the
+Princess' Quarters, these towers being the only safe place of refuge for
+her.  
+~
+0 0 0
+D0
+~
+~
+0 0 37047
+D1
+~
+~
+0 0 37073
+D4
+~
+~
+0 0 37046
+D5
+~
+~
+0 0 37021
+S
+#37039
+Base of South East Tower~
+You stand at the entrance to a white tower.  You can feel the power
+eminating from it, pushing back the blackness of the rest of the castle. 
+You feel safer here.  
+~
+0 5 0
+D3
+~
+~
+0 0 37014
+D4
+~
+~
+0 0 37040
+S
+#37040
+Middle of South East Tower~
+You stand in the middle of the south-east tower.  Above you is the castle
+apothecary.  It's walls contain an assortment of ointments and potions that
+can cure what ails you.  
+~
+0 0 0
+D0
+~
+~
+0 0 37055
+D3
+~
+~
+0 0 37075
+D4
+~
+~
+0 0 37041
+D5
+~
+~
+0 0 37039
+S
+#37041
+Apothecary Shop~
+This room is covered with holy artifacts.  There are many spellbooks and
+cookbooks opened to different pages laying around.  A small counter displays
+a wide variety of potions for your enjoyment.  
+~
+0 132 0
+D5
+~
+~
+0 0 37040
+S
+#37042
+Middle of North West Tower~
+You enter the midsection of the north-west white tower.  Above you is the
+Prince's Quarters, these towers being the only safe place of refuge while
+the Aeternal resides here.  
+~
+0 0 0
+D1
+~
+~
+0 0 37050
+D2
+~
+~
+0 0 37049
+D4
+~
+~
+0 0 37043
+D5
+~
+~
+0 0 37028
+S
+#37043
+Prince's Quarters~
+You enter a small chamber at the top of the tower.  There are religious
+charms all over the place.  A large block sits in the middle of the room,
+glowing slightly with a white aura.  You can no longer feel the evil force
+of the Aeternal within this room.  
+~
+0 5 0
+D5
+~
+~
+0 0 37042
+S
+#37044
+Middle of North East Tower~
+You stand in the middle of the north-east tower.  Above you is the castle
+library, where you can read up on the history of this strange castle.  A
+very powerful good energy has almost whitewashed the stone here.  
+~
+0 0 0
+D2
+~
+~
+0 0 37053
+D3
+~
+~
+0 0 37052
+D4
+~
+~
+0 0 37045
+D5
+~
+~
+0 0 37037
+S
+#37045
+Castle Library~
+You enter a small room filled with bookshelves.  Most of these books
+catalog the history of this damned castle.  A few magically enhanced scrolls
+are laying around on a counter as well, maybe you can buy a few to take with
+you.  
+~
+0 132 0
+D5
+~
+~
+0 0 37044
+S
+#37046
+Princess's Quarters~
+You find yourself inside the core of one of the white towers.  Everything
+in this room reflects a holy aura.  These towers must have some kind of
+magical powers restricting the Aeternals influence over the castle.  A large
+ornate brass bed sits in the corner of the room.  
+~
+0 4 0
+D5
+~
+~
+0 0 37038
+S
+#37047
+Ramparts~
+This section of the ramparts is like all the others, sickly gray.  You
+get the feeling that these walls are helping to contain the great evil of
+the Aeternal.  
+~
+0 0 0
+D0
+~
+~
+0 0 37048
+D2
+~
+~
+0 0 37038
+S
+#37048
+Ramparts~
+The ground below you is a dark gray.  The white towers loom over you as
+you walk across the ramparts.  The ghosts of dead souls that once inhabited
+this place roam everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 37049
+D2
+~
+~
+0 0 37047
+S
+#37049
+Ramparts~
+The ground below you is a sickly gray, a stark contrast to the white
+towers that pop up out of the four corners of the castle.  The black tower
+in the middle creating a dark atmosphere of death and destruction.  You
+can't help but wonder what could be hidden at the top of these towers.  
+~
+0 0 1
+D0
+~
+~
+0 0 37042
+D2
+~
+~
+0 0 37048
+S
+#37050
+Ramparts~
+The ground below you is a sickly gray, a stark contrast to the white
+towers that pop up out of the four corners of the castle.  The black tower
+in the middle creating a dark atmosphere of death and destruction.  You
+can't help but wonder what could be hidden at the top of these towers.  
+~
+0 0 0
+D1
+~
+~
+0 0 37051
+D3
+~
+~
+0 0 37042
+S
+#37051
+Ramparts~
+The ground below you is a dark gray.  The white towers loom over you as
+you walk across the ramparts.  The ghosts of dead souls that once inhabited
+this place roam everywhere.  
+~
+0 0 0
+D1
+~
+~
+0 0 37052
+D3
+~
+~
+0 0 37050
+S
+#37052
+Ramparts~
+This section of the ramparts is like all the others, sickly gray.  You
+get the feeling that these walls are helping to contain the great evil of
+the Aeternal.  
+~
+0 0 0
+D1
+~
+~
+0 0 37044
+D3
+~
+~
+0 0 37051
+S
+#37053
+Ramparts~
+This section of the ramparts is like all the others, sickly gray.  You
+get the feeling that these walls are helping to contain the great evil of
+the Aeternal.  
+~
+0 0 0
+D0
+~
+~
+0 0 37044
+D2
+~
+~
+0 0 37054
+S
+#37054
+Ramparts~
+The ground below you is a dark gray.  The white towers loom over you as
+you walk across the ramparts.  The ghosts of dead souls that once inhabited
+this place roam everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 37053
+D2
+~
+~
+0 0 37055
+S
+#37055
+Ramparts~
+The ground below you is a sickly gray, a stark contrast to the white
+towers that pop up out of the four corners of the castle.  The black tower
+in the middle creating a dark atmosphere of death and destruction.  You
+can't help but wonder what could be hidden at the top of these towers.  
+~
+0 0 0
+D0
+~
+~
+0 0 37054
+D2
+~
+~
+0 0 37040
+S
+#37056
+Screaming Souls~
+As soon as you enter the room you are blasted to your knees by the
+shrieking of all of the dead souls of the people that the Aeternal has
+killed so far.  You shudder and keep moving.  
+~
+0 0 0
+D4
+~
+~
+0 0 37018
+D5
+~
+~
+0 0 37057
+S
+#37057
+Ghoulish Laughter~
+The sounds of laughter haunt you as you go deeper into the dungeons. 
+Their cries almost deafening you, making your body shake from the
+vibrations.  It may not be wise to stay here long.  
+~
+0 0 0
+D4
+~
+~
+0 0 37056
+D5
+~
+~
+0 0 37058
+S
+#37058
+Bottom of the Stairs~
+You stand at the bottom of the stairs, the sounds of ghoulish laughter
+wafts down from above.  The cries of these long dead inhabitants of this
+place fill you with a primal rage.  You must avenge these poor people!  
+~
+0 0 0
+D3
+~
+~
+0 0 37059
+D4
+~
+~
+0 0 37057
+S
+#37059
+Cell Block C~
+You enter Cell Block C.  The Aeternal threw the crippled and weak into
+this cell block and waited for them to die.  You wonder how anyone could
+survive such torture.  
+~
+0 0 0
+D0
+~
+~
+1 0 37060
+D1
+~
+~
+0 0 37058
+D2
+~
+~
+1 0 37061
+D3
+~
+~
+0 0 37062
+S
+#37060
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D2
+~
+~
+1 0 37059
+S
+#37061
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D0
+~
+~
+1 0 37059
+S
+#37062
+Cell Block B~
+You enter Cell Block B.  The walls still bear the scars where the
+original inhabitants of this castle were dragged through this room on the
+way to their death.  
+~
+0 0 0
+D0
+~
+~
+1 0 37077
+D1
+~
+~
+0 0 37059
+D2
+~
+~
+1 0 37078
+D3
+~
+~
+0 0 37076
+S
+#37063
+Peasant's Room~
+As you enter this room your first thought is how small it is.  There is
+barely enough room to turn around and leave.  It may not be a wise idea to
+stay here too long.  
+~
+0 4 0
+D3
+~
+~
+0 0 37011
+S
+#37064
+Meat Locker~
+You enter a small chamber behind the meat locker.  If it wasn't for that
+dark mysterious feeling of dread, you would actually consider this room
+comfortable.  There is a bed in the corner and a small window overlooking
+the shop in one wall.  
+~
+0 4 0
+D1
+~
+~
+0 0 37006
+S
+#37065
+Bread Room~
+This room is a plain whitewalled room.  The only thing that seperates it
+from the shop is a small curtain drawn across the doorway.  A bed sits in
+the corner looking very unused.  
+~
+0 4 0
+D1
+~
+~
+0 0 37012
+S
+#37066
+Smithy's House~
+You enter a small chamber.  This room is remarkably clean, considering
+it's located next to the blacksmith's shop.  A small table sits in the
+corner of the room next to the cot.  You think you could live in this room
+if it wasn't for the evil that has woven it's way throughout the very fabric
+of this castle.  
+~
+0 4 0
+D3
+~
+~
+0 0 37005
+S
+#37067
+Cistern Entrance~
+You are at the top of a flight of stairs leading down into the castle
+well.  The entrance is to the well is to the north.  It smells kinda funny
+in this place.  There is no way you would drink from this well.  
+~
+0 5 0
+D0
+~
+~
+0 0 37027
+D5
+~
+~
+0 0 37068
+S
+#37068
+Bottom of the Cistern~
+You look around the waist deep water and spy a small hole in the south
+wall leading to parts unknown.  The stairs lead up out of the stagnant
+water.  
+~
+0 1 0
+D2
+~
+~
+0 0 37069
+D4
+~
+~
+0 0 37067
+S
+#37069
+Dank Pit~
+You find yourself at the bottom of the well.  The filthy water comes up
+to your waist.  Soaking your clothes, there is a small passage to the north
+and the stairs lead up into the well itself.  
+~
+0 1 0
+D0
+~
+~
+0 0 37068
+D4
+~
+~
+0 0 37070
+S
+#37070
+Dank Well~
+You sit for a second on the steps of the well.  The lurking feeling
+sticking to you like a wet t-shirt.  The walls are covered in slime and
+mildew.  You stand up and decide not to stick around too long.  
+~
+0 1 0
+D4
+~
+~
+0 0 37071
+D5
+~
+~
+0 0 37069
+S
+#37071
+Castle Well~
+You find yourself at the top of the castle well.  It's reasonably clean. 
+There are stairs leading down into the well itself and up into the well
+room.  
+~
+0 5 0
+D4
+~
+~
+0 0 37072
+D5
+~
+~
+0 0 37070
+S
+#37072
+Well Room~
+You enter a small room with a large well in the center of it with a set
+of steps leading down into the darkness.  You wonder what could be down
+there in that pitch black hole.  
+~
+0 1 0
+D0
+~
+~
+0 0 37029
+D2
+~
+~
+0 0 37035
+D5
+~
+~
+0 0 37071
+S
+#37073
+Ramparts~
+The ground below you is a sickly gray, a stark contrast to the white
+towers that pop up out of the four corners of the castle.  The black tower
+in the middle creating a dark atmosphere of death and destruction.  You
+can't help but wonder what could be hidden at the top of these towers.  
+~
+0 0 0
+D1
+~
+~
+0 0 37074
+D3
+~
+~
+0 0 37038
+S
+#37074
+Ramparts~
+The ground below you is a dark gray.  The white towers loom over you as
+you walk across the ramparts.  The ghosts of dead souls that once inhabited
+this place roam everywhere.  
+~
+0 0 0
+D1
+~
+~
+0 0 37075
+D3
+~
+~
+0 0 37073
+S
+#37075
+Ramparts~
+This section of the ramparts is like all the others, sickly gray.  You
+get the feeling that these walls are helping to contain the great evil of
+the Aeternal.  
+~
+0 0 0
+D1
+~
+~
+0 0 37040
+D3
+~
+~
+0 0 37074
+S
+#37076
+Cell Block A~
+You enter Cell Block A, where the aeternal put his worst enemies. 
+Suddenly you wonder what ever happened to the King and the Queen of this
+Castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 37080
+D1
+~
+~
+0 0 37062
+D2
+~
+~
+1 0 37079
+D3
+~
+~
+0 0 37024
+S
+#37077
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D2
+~
+~
+1 0 37062
+S
+#37078
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D0
+~
+~
+1 0 37062
+S
+#37079
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D0
+~
+~
+1 0 37076
+S
+#37080
+Cell~
+This is a cell of drab grey brick.  There is a torch sitting in a sconce
+and the only furniture you see is a small rock slab.  
+~
+0 0 0
+D2
+~
+~
+1 0 37076
+S
+#37081
+Top of the Black Spire~
+You stand at the top of the black tower.  The feeling of evil almost
+overcomes you.  The wind whips around your body as you look out over the
+castle.  The white towers radiating a bright white aura in the face of all
+the evil inside the castle.  
+~
+0 0 0
+D5
+~
+trapdoor~
+1 0 37032
+S
+#37082
+Necromatic's Shop~
+You enter a small shop with a single lamp burning.  There is something
+strangely disturbing about this place.  It looks like a taxidermist's shop
+but there are stuffed corpses where the animals should be.  Strange, Very
+strange!  
+~
+0 132 0
+D0
+~
+~
+0 0 37024
+S
+#37083
+PetShop~
+~
+0 4100 0
+S
+#37084
+Stables~
+~
+0 4096 0
+D2
+~
+~
+0 0 37083
+S
+#37097
+Test room 1~
+~
+0 4 0
+S
+#37098
+Kiam's House of Horrors~
+You enter a room bathed in black.  Black carpet, walls, and a black
+ceiling surround you.  The only light source comes from a {Rlava lamp{X in
+the corner of the room.  There is a stereo which plays songs of rage and
+hatred loud then any you've heard before.  There is a bed on the side of the
+room opposite the stereo, and a casket in the middle of the room.  The bed is
+only used for visitors.  
+~
+0 98828 0
+S
+#37099
+We Love Tien!~
+Tien, you are the one who has helped all of us through this learning process.  We thank you for it all.
+                        -  Builders
+ 
+Personalized Messages:
+ 
+Dude, bro, you gave me the chance and I can't thank you enough for that. Just remember to take a break everyone in a while, moron. Heh.
+       - Kiam
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 37021 spec_poison Load to: A {!P{1it {^V{6iper{x
+M 37029 spec_breath_gas Load to: {BA L{bich{x
+M 37099 spec_cast_cleric Load to: {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+S
+
+
+
+#RESETS
+D 0 37032 4 1 The up door of Bed Chamber is closed
+D 0 37059 0 1 The north door of Cell Block C is closed
+D 0 37059 2 1 The south door of Cell Block C is closed
+D 0 37060 2 1 The south door of Cell is closed
+D 0 37061 0 1 The north door of Cell is closed
+D 0 37062 0 1 The north door of Cell Block B is closed
+D 0 37062 2 1 The south door of Cell Block B is closed
+D 0 37076 0 1 The north door of Cell Block A is closed
+D 0 37076 2 1 The south door of Cell Block A is closed
+D 0 37077 2 1 The south door of Cell is closed
+D 0 37078 0 1 The north door of Cell is closed
+D 0 37079 0 1 The north door of Cell is closed
+D 0 37080 2 1 The south door of Cell is closed
+D 0 37081 5 1 The down door of Top of the Black Spire is closed
+M 0 37010 2 37003 2 *Load a {^P{6ortal {!G{1uard{X
+E 0 37003 0 16 *{7axe of the {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded wielded of a {^P{6ortal {!G{1uard{X
+O 0 37000 0 37003 *A {^d{6usty {!p{1ortal{x loaded to The Portal to Castle Empar
+O 0 37001 0 37004 *A {^d{6usty {!p{1ortal{x loaded to Inside the Walls
+M 0 37002 1 37005 1 *Load A blacksmith
+G 0 37028 0 *{da s{dteel {dc{dlub{x is given to A blacksmith
+G 0 37030 0 *{ga h{gunting {gh{gatchet{x is given to A blacksmith
+G 0 37029 0 *{ra t{rhin {rd{ragger{x is given to A blacksmith
+G 0 37027 0 *{wa t{wwisted {wr{wapier{x is given to A blacksmith
+M 0 37004 1 37006 1 *Load A Butcher
+G 0 37023 0 *{!h{1o{!t {3sausage{x is given to A Butcher
+G 0 37014 0 *A {&t-bone{x {1steak{x is given to A Butcher
+G 0 37013 0 *A stick of {!p{1e{!p{1e{!r{1o{!n{1i{x is given to A Butcher
+G 0 37012 0 *A {#slim {#jim{x is given to A Butcher
+M 0 37011 10 37010 3 *Load A {!G{1uard{x
+G 0 37024 0 *A {rg{ruard's {xsword is given to A {!G{1uard{x
+M 0 37003 1 37011 1 *Load A Peasant
+G 0 37033 0 *{ga {gc{gan{gv{gas {gc{ga{gnt{ge{gen{x is given to A Peasant
+G 0 37032 0 *{ya leather satchel{x is given to A Peasant
+G 0 37031 0 *{ya p{yitch {yt{yorch{x is given to A Peasant
+M 0 37005 1 37012 1 *Load A Baker
+G 0 37011 0 *A {3loaf{x of {&w{$on{!de{$r{&b{!re{$ad{x is given to A Baker
+G 0 37010 0 *A {3t{#wi{&n{#ki{3e{x is given to A Baker
+G 0 37009 0 *Pancakes is given to A Baker
+G 0 37007 0 *Shortbread is given to A Baker
+G 0 37008 0 *A pitcher of {#o{3range {#j{3uice{x is given to A Baker
+M 0 37012 30 37013 5 *Load A {^P{6easant{x
+E 0 37004 0 6 *{xmind control{x is loaded over the head of A {^P{6easant{x
+M 0 37012 30 37017 5 *Load A {^P{6easant{x
+E 0 37004 0 6 *{xmind control{x is loaded over the head of A {^P{6easant{x
+M 0 37016 2 37018 2 *Load A {&S{*keleton{x
+E 0 37025 0 14 *{ds{dkeletal {db{dracer{x is loaded on the left wrist of A {&S{*keleton{x
+M 0 37015 20 37021 3 *Load A {^T{6ower {!G{1uard{x
+E 0 37019 0 11 *{ct{cower {rg{ruard {ws{whield{x is loaded as a shield of A {^T{6ower {!G{1uard{x
+M 0 37012 30 37023 5 *Load A {^P{6easant{x
+E 0 37004 0 6 *{xmind control{x is loaded over the head of A {^P{6easant{x
+M 0 37021 5 37024 5 *Load A {!P{1it {^V{6iper{x
+E 0 37002 0 21 *{!v{1iper {^f{6angs{x is loaded on the ears of A {!P{1it {^V{6iper{x
+M 0 37021 5 37024 5 *Load A {!P{1it {^V{6iper{x
+E 0 37002 0 21 *{!v{1iper {^f{6angs{x is loaded on the ears of A {!P{1it {^V{6iper{x
+M 0 37021 5 37024 5 *Load A {!P{1it {^V{6iper{x
+E 0 37002 0 21 *{!v{1iper {^f{6angs{x is loaded on the ears of A {!P{1it {^V{6iper{x
+M 0 37021 5 37024 5 *Load A {!P{1it {^V{6iper{x
+E 0 37002 0 21 *{!v{1iper {^f{6angs{x is loaded on the ears of A {!P{1it {^V{6iper{x
+M 0 37021 5 37024 5 *Load A {!P{1it {^V{6iper{x
+E 0 37002 0 21 *{!v{1iper {^f{6angs{x is loaded on the ears of A {!P{1it {^V{6iper{x
+M 0 37012 30 37027 5 *Load A {^P{6easant{x
+E 0 37004 0 6 *{xmind control{x is loaded over the head of A {^P{6easant{x
+M 0 37015 20 37028 3 *Load A {^T{6ower {!G{1uard{x
+E 0 37019 0 11 *{ct{cower {rg{ruard {ws{whield{x is loaded as a shield of A {^T{6ower {!G{1uard{x
+O 0 37095 0 37032 *{#t{3hron{#e {7of {6dar{3kne{1ss{x loaded to Bed Chamber
+M 0 37008 1 37036 1 *Load A {&Healer{0
+M 0 37015 20 37037 3 *Load A {^T{6ower {!G{1uard{x
+E 0 37019 0 11 *{ct{cower {rg{ruard {ws{whield{x is loaded as a shield of A {^T{6ower {!G{1uard{x
+M 0 37026 20 37038 5 *Load An {^A{6vian{x
+E 0 37015 0 6 *{cwi{cng{ced {ca{cvian {yhelm{x is loaded over the head of An {^A{6vian{x
+G 0 37016 0 *{ca{cvian {wclaw{x is given to An {^A{6vian{x
+M 0 37015 20 37039 3 *Load A {^T{6ower {!G{1uard{x
+E 0 37019 0 11 *{ct{cower {rg{ruard {ws{whield{x is loaded as a shield of A {^T{6ower {!G{1uard{x
+M 0 37026 20 37040 5 *Load An {^A{6vian{x
+G 0 37016 0 *{ca{cvian {wclaw{x is given to An {^A{6vian{x
+E 0 37015 0 6 *{cwi{cng{ced {ca{cvian {yhelm{x is loaded over the head of An {^A{6vian{x
+M 0 37006 1 37041 1 *Load An Apothecary
+G 0 37037 0 *{ga s{cpri{gg {cof {gth{cy{gme{x is given to An Apothecary
+G 0 37035 0 *{ra p{dot{rio{dn {rof h{dat{rred{x is given to An Apothecary
+G 0 37036 0 *{gs{cpri{gg {cof {gs{cag{ge{x is given to An Apothecary
+G 0 37034 0 *{wa d{yiv{win{ye p{wot{yio{wn{x is given to An Apothecary
+M 0 37026 20 37042 5 *Load An {^A{6vian{x
+G 0 37016 0 *{ca{cvian {wclaw{x is given to An {^A{6vian{x
+E 0 37015 0 6 *{cwi{cng{ced {ca{cvian {yhelm{x is loaded over the head of An {^A{6vian{x
+M 0 37013 1 37043 1 *Load A {&P{*rince{x
+E 0 37021 0 16 *{cr{coyal {rd{ragger{x is loaded wielded of A {&P{*rince{x
+M 0 37026 20 37044 5 *Load An {^A{6vian{x
+G 0 37016 0 *{ca{cvian {wclaw{x is given to An {^A{6vian{x
+E 0 37015 0 6 *{cwi{cng{ced {ca{cvian {yhelm{x is loaded over the head of An {^A{6vian{x
+M 0 37007 1 37045 1 *Load A Librarian
+G 0 37038 0 *{ra t{rome {ro{rf {rp{rower{x is given to A Librarian
+G 0 37039 0 *{wa b{yoo{wk of d{yivin{we w{yrat{wh{x is given to A Librarian
+M 0 37014 1 37046 1 *Load A {&V{*irtuous {^P{6rincess{x
+E 0 37017 0 27 *The patch of royalty is loaded as a patch of A {&V{*irtuous {^P{6rincess{x
+M 0 37027 20 37048 5 *Load An {&A{*ir {!E{1lemental{x
+E 0 37018 0 16 *{wtr{dident {wof {ra{rir{x is loaded wielded of An {&A{*ir {!E{1lemental{x
+M 0 37027 20 37051 5 *Load An {&A{*ir {!E{1lemental{x
+E 0 37018 0 16 *{wtr{dident {wof {ra{rir{x is loaded wielded of An {&A{*ir {!E{1lemental{x
+M 0 37027 20 37054 5 *Load An {&A{*ir {!E{1lemental{x
+E 0 37018 0 16 *{wtr{dident {wof {ra{rir{x is loaded wielded of An {&A{*ir {!E{1lemental{x
+M 0 37017 5 37056 5 *Load A {!S{1oul{x
+E 0 37026 0 0 *{rs{roul's {xlast breath is loaded as a light of A {!S{1oul{x
+M 0 37018 5 37057 5 *Load A {^G{6houl{x
+M 0 37020 3 37059 1 *Load A {&P{*rison {!G{1uard{x
+E 0 37005 0 14 *{7handcuffs of the {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded on the left wrist of A {&P{*rison {!G{1uard{x
+E 0 37022 0 11 *{wa {wp{drison {rg{ruard's {ws{dhield{x is loaded as a shield of A {&P{*rison {!G{1uard{x
+M 0 37019 6 37060 3 *Load A {!D{1ying {^P{6risoner{x
+M 0 37019 6 37061 3 *Load A {!D{1ying {^P{6risoner{x
+M 0 37020 3 37062 1 *Load A {&P{*rison {!G{1uard{x
+E 0 37005 0 14 *{7handcuffs of the {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded on the left wrist of A {&P{*rison {!G{1uard{x
+E 0 37022 0 11 *{wa {wp{drison {rg{ruard's {ws{dhield{x is loaded as a shield of A {&P{*rison {!G{1uard{x
+M 0 37025 10 37068 5 *Load A {^S{6ewer {!R{1at{x
+M 0 37025 10 37069 5 *Load A {^S{6ewer {!R{1at{x
+M 0 37027 20 37074 5 *Load An {&A{*ir {!E{1lemental{x
+E 0 37018 0 16 *{wtr{dident {wof {ra{rir{x is loaded wielded of An {&A{*ir {!E{1lemental{x
+M 0 37020 3 37076 1 *Load A {&P{*rison {!G{1uard{x
+E 0 37005 0 14 *{7handcuffs of the {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded on the left wrist of A {&P{*rison {!G{1uard{x
+E 0 37022 0 11 *{wa {wp{drison {rg{ruard's {ws{dhield{x is loaded as a shield of A {&P{*rison {!G{1uard{x
+M 0 37024 10 37077 5 *Load a {^C{6astle {!S{1entry{x
+M 0 37024 10 37078 5 *Load a {^C{6astle {!S{1entry{x
+M 0 37023 1 37079 1 *Load The {^Q{6ueen{x
+E 0 37020 0 12 *The {cq{cueen's {xlingerie is loaded about the shoulders of The {^Q{6ueen{x
+M 0 37022 1 37080 1 *Load The {!K{1ing{x
+M 0 37099 1 37081 1 *Load {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37092 0 6 *{%he{5lm {@o{2f {#t{3he {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded over the head of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37091 0 13 *{%gi{5rth {@o{2f {#t{3he {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded around the waist of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37090 0 10 *{marm{mplates {go{gf {yt{yhe {ma{ge{yt{ce{rr{yn{ga{ml{x is loaded on the arms of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37094 0 7 *{mlegp{mlates {go{gf {yt{yhe {ma{ge{yt{ce{rr{yn{ga{ml{x is loaded on the legs of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37099 0 8 *{mbo{mots {go{gf {yt{yhe {ma{ge{yt{ce{rr{yn{ga{ml{x is loaded on the feet of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+E 0 37089 0 12 *{%cl{5oak {@o{2f {#t{3he {%a{@e{#t{^e{!r{#n{@a{%l{x is loaded about the shoulders of {GT{Ch{Ye {MA{Ge{Yt{Ce{Rr{Yn{Ga{Ml{x
+M 0 37009 1 37082 1 *Load A {&G{*rave {^D{6igger{x
+O 0 37093 0 37082 *{rk{ri{da{dm{w'{ws c{wo{df{df{ri{rn{x loaded to Necromatic's Shop
+O 0 37093 0 37098 *{rk{ri{da{dm{w'{ws c{wo{df{df{ri{rn{x loaded to Kiam's House of Horrors
+S
+
+
+
+#SHOPS
+37002 5 0 0 0 0 150 50 0 23
+37003 1 13 17 15 0 150 50 0 23
+37004 19 19 0 0 0 120 80 0 23
+37005 19 0 0 0 0 120 80 0 23
+37006 10 0 0 0 0 120 90 0 23
+37007 28 2 0 0 0 100 100 7 18
+37009 23 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#37000
+kill $r
+~
+#37001
+if rand 25
+mob mload 37028
+mob echo The Aeternal summons forth a skeleton to aid him in battle!
+mob force skeleton k $n
+else
+if rand 40
+mob mload 37029
+mob echo The Aeternal summons forth a lich to aid him in battle!
+mob force lich kill $n
+else
+if rand 75
+mob mload 37030
+mob echo A deafening roar bursts forth as a Greater Demon joins the battle!
+mob force demon kill $n
+else
+mob echo The Aeternal attempts to summon someting, but fails.
+endif
+endif
+endif
+~
+#0
+
+#$

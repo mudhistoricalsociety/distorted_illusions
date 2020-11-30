@@ -1,0 +1,463 @@
+#AREADATA
+Name Crusader's Keep~
+Builders Unlinked Skyntil~
+VNUMs 5800 5899
+Continent 0
+Credits [ CLAN ] Crusader's Keep~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5801
+Entrance to the Keep of the Crusaders~
+You stand at the only entrance to the Keep of the Crusaders.  The walls
+have been carved from solid stone by divine power.  Located very deep
+underground, it has been recently constructed by the  Lord Skyntil, with
+the help of the local populace.  Torches flood the entrance with light and
+you smell a strong musky odor in the air.  Patches of blood can be seen on
+the ground near your feet.  The silence is broken only by the sounds of
+sparring and the shouts of the great men living in the Keep.  
+~
+0 1048832 0
+D1
+~
+~
+0 0 5802
+S
+#5802
+Inside the Keep~
+You are in the main foyer of the keep. Stone pillars crafted by the
+best dwarven stone-smiths hold up the seemingly limitless ceiling.
+There is a large pit in the middle of the room, strictly for the
+needy, donations are welcome. To the south there appears to be a
+barracks of some sort. The main hall is located to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5801
+S
+#5803
+Crusader Barracks~
+You see several wooden beds and metal cots lining the wall in this room.
+A large table dominates the center, upon which is piled several small
+weapons, backpacks, haversacks, and water skins. A large filled bucket
+of water is below the table, if the Crusaders need a drink. This is
+the resting place for the battle worn and weary. The Crusaders come
+here to relax and heal their wounds.
+~
+0 0 0
+D0
+~
+~
+0 0 5802
+D1
+~
+~
+0 0 5812
+S
+#5804
+Main Hall of the Keep~
+This is the main hall of the underground fort. Torches illuminate
+the walls and you see few warriors walk by on their way to spar.
+The floor is earthen dust, yet it sparkles dazzlingly in the light.
+It is relatively quiet in here, the sound of your steps echo far
+down the corridor.
+~
+0 0 0
+D0
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5802
+D5
+~
+~
+1 0 5813
+S
+#5805
+Further into the Compound~
+You have reached a three way intersection. To the east there looks to be
+a large meeting room. From the west you hear the sounds of battle and
+armor clinking. Ahead of you is a large wall with a mural painted on it.
+On the right side of the northern wall a ladder scales to heights unknown.
+~
+0 0 0
+D1
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5804
+D3
+~
+~
+0 0 5809
+D4
+~
+~
+0 0 5810
+S
+#5806
+The Chamber of Discussion~
+A long stone table occupies this room. Wooden chairs are spaced evenly
+around it. There are only 10 chairs, thus those of lower rank must
+stand around the table. There are two tapestries covering the southern
+wall. This is where the Crusaders come to make decisions that they
+deem to be important but cannot be dealt with rashly.
+~
+0 0 0
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5805
+S
+#5807
+The Chamber of War~
+This room is much smaller than the previous, however its seating capacity
+is much higher. Nearly 20 seats are available, all facing the east doorway
+with a narrow passage in between them. A podium stands near the eastern
+arch from where lessons on war and politics are taught to the soldiers
+and recruits. The eastern wall is all but non-existant. From the high seats
+a large stone structure can be made out, with shackles and chains on the
+ground. An air of divinity and mystery eminates from the east.
+~
+0 0 0
+D1
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5806
+S
+#5808
+The Chamber of Execution~
+The walls of this chamber echo with the screams of torture that
+the Crusaders wring out of the unfortunate abusers of Magic that
+fall in to their hands or otherwise wonder into the Keep.
+There is a daze in the middle of the chamber where the victims
+are put on display before they are put to death. The air in this
+room is different than most places, it is said that Lord Skyntil
+has placed a blessing upon the daze preventing the casting of
+any magic by those sentenced to death.
+~
+0 256 0
+D3
+~
+~
+0 0 5807
+S
+#5809
+Sparring Arena~
+This is where all the commotion you've been hearing has come out of.
+Weapons clash and shields block mighty blows as warriors battle it out
+until they bleed. The Crusaders teach their new recruit how to fight
+in this arena. The veterans of the clan are often the opponents of
+the recruits, and eventually they must learn if they want to rise
+in rank.
+~
+0 0 0
+D1
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5814
+S
+#5810
+The Final Defense~
+The walls in this room are reinforced with strong steel and mythril.
+A single torch hangs above the precipace beside the ladder. Further
+back, the room is shrouded in darkness. Crusaders often use this
+place as an ambush point to subdue those raiding to steal the
+Battle Gauntlet of Honor.
+~
+0 1 0
+D1
+~
+~
+0 0 5811
+D5
+~
+~
+0 0 5805
+S
+#5811
+The Altar of the Eternal Crusades~
+A slab of black and white marble rests in the middle of the room. In the
+block is kept the sacred Battle Gauntlet of Honor. Only those granted
+the right by the higher powers may touch its surface without fear of
+destruction. To the east over an ivory balcony the Chamber of War can be
+seen.
+~
+0 0 0
+D3
+~
+~
+0 0 5810
+S
+#5812
+Crusader Bar~
+This chamber is full of Crusaders having a good time. As part of their
+reward for their courage and hard work, a bar has been installed in 
+the Keep along with 2 stages. The bar sells only the best beers and
+liquors, while several gorgeous women of different races dance on
+the stages to entertain the men.
+~
+0 0 0
+D3
+~
+~
+0 0 5803
+S
+#5813
+Library of the Crusaders~
+Mounds of dusty tomes can be seen littering the floors and shelves in
+this room. Suprisingly, there is a gorgeous woman behind the welcoming
+desk of the keep library. She directs you to the books on the shelf
+labeled "The Crusades". She tells you too look at the shelf for all
+of the available books of knowledge and lore.
+~
+0 0 0
+E
+patience~
+Since time and blood have proven only that magic is a force overwhelming in
+its nature, it has been decreed that time and patience shall prove the
+Crusade's mightiest ally. With constant effort and wise leadership, the
+Crusade shall grow in strength as the residents of Asgard realize that
+magic is a thing best left in divine hands, and that combat is the purest
+art form there is. On the day when the day when all of Asgard stands
+behind the Crusade, then the final points of resistance shall be swept
+from Asgard and the other worlds in a tide of steel!
+~
+E
+books~
+As you look at the books on the shelf, you notice a few title that stick out.
+They are: "Beginning", "Recent History", "Patience", "Battle", "Ranks", and
+"Banned".
+~
+E
+beginning~
+The beginning of the Crusades has been brought to Asgard through divine
+power. It is looking for the champions of the land to fight with honor,
+courage, and mostly for the cause of the Crusades. Only the best can
+survive this savage land, as many have already shed their blood to build
+the Keep and protect it. Lord Skyntil appointed a leader deemed proper
+when the doors of the Keep opened.
+~
+E
+recent history~
+The recent history of the Crusades is that of the beginning. See the
+section entitled "beginning" for more information.
+~
+E
+ranks~
+The ranking system of the great Army of the Crusade is as follows:
+
+Daggers     - These are the lowest ranks, usually fairly new members. The
+		Daggers often run errands for the higher-ranked members
+		of The Army, and are expected to offer their gear to naked
+		members that rank above them.
+Broadswords - The Broadswords have proven themselves to be valuable members
+		of The Army through Valorous combat.  Most Crusaders are
+		at this rank, and they are expected to show unfailing
+		bravery in the face of any and all danger.
+WarHammers  - Those Crusaders who time and time again prove themselves to be
+		Warriors of a truly exceptional caliber are often granted
+		the rank of WarHammer.  Much of the burden of raiding and
+		defense falls to the Warhammers, since they are adept at
+		all manners and styles of combat.
+BattleAxes  - When a Warrior demonstrates prowess above and beyond his peers
+		in all things desired from a Crusader, he is granted the
+		title of BattleAxe.  Battleaxes are those who have found
+		true union with the spirit of battle, and understand the
+		spiritual nature of the hunt and the fight.
+Warlord     - The Warlord of The Army is chosen from the ranks of the
+                BattleAxes, and is expected to lead The Army in matters
+		military.  In matters military, only the Leader can overrule
+                the word of the Warlord.
+Envoy       - The Envoy is the political leader of The Army, and is
+		responsible for interviewing applicants and negotiating
+		with members of other Houses.  In matters political, only
+		the Leader can overrule the word of the Envoy.
+Leader      - The Leader is the most elite member of The Army.  Chosen from
+		either the Warlords or the Envoy, the word of the Leader is
+		law for the rest of The Army.
+~
+E
+Banned~
+The following items are specifically banned by the Crusade:
+	Any item with one or more of the following qualities:
+		Flaming Bite	Freezing Bite
+		Vampiric	Drowning
+		Wrath
+
+        Any item that has morphing qualities. (i.e. changes what
+        you look like or appear as)
+~
+E
+Battle~
+A Crusader is an elite warrior and is expected to act with Valor and
+Discipline.  Intent and action are judged independently when the Battle
+Code is applied, so a Crusader is responsible both for their intent AND
+the outcome of their actions.  Ignorance and errors are not acceptable
+excuses.  Unless stated otherwise, the following rules apply to all
+situations where a Crusader anticipates combat with another mortal soul.
+
+BATTLE CODE OF THE CRUSADES
+
+I.    A true Warrior must fight alone.  Do not group with or work with any
+        other when fighting, whether intentionally or incidentally.  This
+        means no bouncing a target between attackers.  There is NO excuse
+        for breaking this rule.
+II.   The resources of the Crusade should focus on those who use sorcery.
+        We have no desire to alienate those who walk the line, rather we
+        would see them converted to the ways of purity.
+III.  When attacking an enemy, a Crusader is to announce that target over
+        the Clan channel, This then means no other Crusader can touch that
+        target until:
+	  A. The target dies.
+	  B. The Crusader hunting dies, in which case the Crusader who
+	       wishes to attack the killer/target must yell out that
+	       target's name and alert them to vengeance in the name of
+               honor as well as making the Clan channel announcement.
+	  C. The Crusader who first called the target announces over the
+               Clan channel that they no longer hunt the target and is
+	       well out of the area of the target.  Those that wish to hunt
+               then announce the name over the Clan channel.
+IV.   A mortal is considered one target. Only one Crusader may attack one
+        target at a time, no matter the number of pets, slaves, or soldiers
+        that target controls.  Any Crusader in range may attack those
+        creatures that follow the target in the interest of evening the odds
+        for the hunting Crusader as long as they DO NOT interfere with the
+        actual target.
+V.    Under no circumstances should the followers of a Crusader (Ranger pets
+        or enlisted help) outnumber those of the target at the initiation of
+        a fight.  This applies equally to hunting, raiding, defending, and
+        duelling.  ANY ABUSE of this privilege will result in harsh
+        punishment and full revocation of this privilege.
+VI.   When The Gauntlet is lost Crusaders are to offer a duel to those who
+        hold it, if refused they are to retrieve it.
+VII.  If the item of another clan is held within the Keep, a duel offered by
+	the enemy must be accepted (if fair) for a chance to regain it.  Any
+	Crusader within the range of the challenging party may be chosen as
+        the Clan's champion, it need not be the person asked to duel.
+VIII. The rare exception that Crusaders can attack one or more mages
+        together is this: Only when the Gauntlet is lost and a duel not
+        accepted for it. Then the Crusaders may unite to retrieve it.  Note
+        that losing a duel is not cause to gang.  After the Gauntlet's return
+	no such ganging is allowed.
+IX.   Those that take advantage of honor and repeatedly attack in groups or
+	with unfair numbers will be judged. The leaders will judge those that
+	forsake honor, and when approved by the Immortal leaders of the
+	Crusade the "Forsaken" will be added to a list. Those on this list
+	are without honor and shall not receive any any protection from it.
+	They can be killed in groups by Crusaders and stripped completely of
+	gear. ONLY THOSE ON THE FORSAKEN LIST MAY BE DEALT THIS WAY, ANY
+	CRUSADER ATTACKING THOSE WHO ARE NOT WILL BE PUNISHED.
+X.    Crusaders may not raid a clan unless that clan has a member to
+	defend (the member does not have to be in range, immortals do not
+	count).  Crusaders may also raid if the Gauntlet is missing and
+        believed to be in another clan, if it is not that clan, it is not
+        to be raided further.
+XI.   Duels are matches or combat between two (2) people. Crusaders may
+        duel for honor, to test themselves, or to retrieve the Gauntlet.
+        A duel is suppose to be between two people solely, but a Crusader can
+        agree to handicap him/herself by allowing the rival to use slaves as
+        help. Also the duel can be to the death or until one loses the will
+        to go on and flees. The match can have equipment at stake or be merely
+        for challenge. Before a duel is fought a Crusader should do two
+        things, make sure the terms are clear and have the opponent give a
+        ready signal.  The opponent is to do likewise. In the event that you
+        duel for a Clan item, no trophy is to be taken, the corpse of the
+	loser is to be left untouched, and fallen weapons not taken. Only the
+        Clan item is at stake. The clan item is to be handed to the enemy
+	if he/she is victorious, not sacrificed.
+XII.  When an opponent falls to a Crusader, no more than 1/2 of his/her
+        possessions may be taken from his/her corpse.  This is for the
+        total looting, not just what the Crusader takes.  However, a Crusader
+	can keep 1 piece of equipment as a trophy of victory no matter what.
+        If someone else loots the corpse the crusader is to try to post a
+	scroll to the victim stating who if he knows and may only keep 1
+	piece of eq, returning the rest. Magical devices such as potions,
+	staves, wands, etc., are to be sacrificed to the gods. No Crusader
+	shall loot a wedding ring/band or a leader weapon or item from anyone,
+	to do so is to bring shame and the wrath of the gods upon oneself.
+~
+D4
+~
+~
+1 0 5804
+S
+#5814
+The Keep Smithy~
+The sound of metal banging and steam hissing assault your ears. The
+Crusaders have built a small forge in this area of the Keep so that
+they can repair and improve their armor and weapons. Racks of fine
+armor adorn the walls of this room, and the searing heat of the fire
+fills the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5809
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5804 5 1 The down door of Main Hall of the Keep is closed
+D 0 5813 4 1 The up door of Library of the Crusaders is closed
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

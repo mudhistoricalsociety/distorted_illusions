@@ -1,0 +1,729 @@
+#AREADATA
+Name Lodoss~
+Builders Unlinked Kain~
+VNUMs 21000 21299
+Continent 0
+Credits (null)~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#21000
+dark knight ashram~
+{DAs{wh{Dram{x~
+{wThe dark knight {DAs{wh{Dram{w peers at you intently.{x
+~
+~
+human~
+AT DFJVZc 0 -1000 0
+180 200 1d1+50000 1d1+1000 10d10+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB M N
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21001
+emperor beld~
+{cE{Dmperor {cB{Deld{x~
+{cE{Dmperor {cB{Deld {wfrowns at you with evil intentions.{x
+~
+~
+human~
+AT DFJVZc H -1000 0
+180 200 1d1+39999 1d1+1000 10d10+300 slash
+-100 -100 -100 -100
+CDEFHJKN AB M N
+stand stand male 75000
+AHMV ABCDEFGHIJK medium unknown
+#21002
+goblin ~
+a {gG{Go{Db{gl{Gi{Dn{x~
+{wA {gG{Go{Db{gl{Gi{Dn{x {wprowls the area looking for a fight.{x
+~
+~
+goblin~
+ACFGT FJZ 0 -1000 0
+165 0 1d1+20000 1d1+200 10d10+75 scratch
+-50 -50 -50 -50
+DEJ AB M S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21003
+dark elf drow~
+{xA {DDrow{x~
+{wA {Ddark elf {wlooks at you and smiles wickedly.{x
+~
+~
+elf~
+AGRS DJ 0 -1000 0
+170 100 1d1+25000 1d1+3000 10d35+25 stab
+-20 -20 -20 -60
+BEFGHJK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21004
+kobold~
+a {yKobol{Dd{x~
+{wA {yKobol{Dd{w growls at you.{x
+~
+~
+kobold~
+ACGT JZ 0 -1000 0
+170 100 1d1+25000 1d1+300 10d40+25 none
+-5 -5 -5 25
+CDEI AB 0 S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21005
+orc~
+an {cO{gr{Gc{x~
+{wAn {cO{gr{Gc{x {wmulls about waiting for action.{x
+~
+~
+kobold~
+AGT JZ 0 -1000 0
+170 100 1d1+25000 1d1+300 10d40+25 none
+-5 -5 -5 25
+CDEI AB 0 S
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21006
+demon~
+a {RDe{rm{wo{rn{Ric {wB{Rein{rg{x~
+{wA {RDe{rm{wo{rn{Ric {wB{Rein{rg{x {wfloats on the breeze.{x
+~
+~
+draconian~
+AGOPR JTZb 0 -1000 0
+170 100 1d1+25000 1d1+300 10d40+25 bite
+-5 -5 -5 25
+CDEGHIK AB E FS
+stand stand either 20000
+AHMVXc ABCDEFGHIJKPQ medium unknown
+#21007
+ogre~
+an {wO{cgr{We{x~
+{wAn {wO{cgr{We{x {wrampages toward you.{x
+~
+~
+ogre~
+AFGOPR JTZb 0 -1000 0
+170 100 1d1+25000 1d1+300 10d55+40 bite
+-5 -5 -5 25
+CDEGHIK AB E FS
+stand stand male 20000
+AHMVXc ABCDEFGHIJKPQ medium unknown
+#21008
+legendary dragon shooting star~
+{YS{Rhooting {YS{Rtar{x~
+{YS{Rhooting {YS{Rtar{x {wswoops down to attack!!{x
+~
+~
+dragon~
+AFQT DFJTVZc 0 -1000 0
+400 500 1d1+150000 1d1+10000 50d50+500 flbite
+-200 -200 -200 -190
+ADHMO ABH BEH FI
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#21009
+demonic dragon narse~
+{DD{bemonic {DD{bragon, {DN{barse{x~
+{wThe {Dd{bemonic {Dd{bragon, {DN{barse{x {wis hellbent on destroying you!!{x
+~
+~
+dragon~
+AFQT DFJTVZc 0 -1000 0
+400 500 1d1+150000 1d1+10000 50d50+400 acbite
+-200 -200 -200 -190
+ADHMO ABKM BE FIN
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+#21010
+ancient silver dragon bramb~
+{wThe {cAncient {WSilver {cDragon {wBramb{x~
+{wThe {cancient {Wsilver {cdragon {wBramb{x {wlooms above you.{x
+~
+~
+dragon~
+AQT DFJTVZc 0 1000 0
+400 500 1d1+150000 1d1+10000 50d35+300 frbite
+-200 -200 -200 -190
+ADHMO ABH BEH FI
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#21011
+ancient gold dragon mycen~
+{yThe {WAncient {YGolden {WDragon {yMycen{x~
+{yThe {WAncient {YGolden {WDragon {yMycen{x {wwatches you intently.{x
+~
+~
+dragon~
+AQT DFJTVZc 0 1000 0
+400 500 1d1+150000 1d1+10000 50d35+300 shbite
+-200 -200 -200 -190
+ADHMO ABJ BENS FIK
+stand stand female 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+#21012
+hibernating dragon abram~
+{cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x~
+{cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x {wslumbers in his lair.{x
+~
+~
+dragon~
+AQT DFJTVZc C 1000 0
+400 500 1d1+150000 1d1+10000 50d35+300 frbite
+-200 -200 -200 -190
+ADHMO ABI BE FHK
+sleep sleep male 200000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res H
+F vul I
+#21013
+wagnard sorcerer high destroyer~
+{RW{rag{Rn{rar{Rd{x~
+{RW{rag{Rn{rar{Rd{x {wHigh Sorcerer of {DK{Rardis{w, throws a fireball at you.{x
+~
+~
+human~
+ABQR DFJLZc CDEH -1000 0
+225 250 1d1+74999 0d0+0 666d6+666 none
+-200 -200 -200 -300
+FGH ABQ C 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+#21014
+wagnard high sorcerer~
+{RW{rag{Rn{rar{Rd{x~
+{RW{rag{Rn{rar{Rd{x {wstands here casting evil spells.{x
+~
+~
+human~
+ABQR DFJ 0 -1000 0
+25 0 1d1+70000 1d1+40000 100d2+400 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M HPCNT 21001 90~
+#21015
+dark elf drow pirotess~
+{DP{bi{Drote{bs{Ds{x~
+{DP{bi{Drote{bs{Ds{x {wsees you and attacks!{x
+~
+~
+elf~
+ABFGRS DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+BEFGHJK B 0 N
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21016
+groder evil mage~
+{gG{Drode{gr{x~
+{gG{Drode{gr{x {wstands here chanting evil incantations.{x
+~
+~
+elf~
+ABGR DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+FGHK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21017
+dark elf astur~
+{DAstur{x~
+{DAstur {wgrins at you wickedly.{x
+~
+~
+elf~
+ABFGRS DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+BEFGHJK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21018
+smeddy warrior~
+{DS{Bmedd{Dy{x~
+{DS{Bmedd{Dy{x {wstands here sharpening her swords.{x
+~
+~
+elf~
+ABGT DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 crush
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21019
+gilram warrior~
+{DG{Rilra{Dm{x~
+{DG{Rilra{Dm{x {wflexes his muscles at you.{x
+~
+~
+elf~
+ABGT DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d45+35 crush
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21020
+evil mage gaberra~
+{gG{ma{Db{we{Dr{mr{ga{x~
+{gG{ma{Db{we{Dr{mr{ga{x {wattacks you with ill intent.{x
+~
+~
+human~
+AFGR DJ 0 -1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+FGHK B 0 N
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21021
+grey witch karla~
+{wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x~
+{wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x {wlooks at you with apathy.{x
+~
+~
+human~
+AGQR DFJVZc 0 0 0
+180 200 1d1+39999 1d1+1000 10d10+300 magic
+-120 -120 -120 -200
+FHK AB CM 0
+stand stand female 50000
+AHMV ABCDEFGHIJK medium unknown
+#21022
+mercenary evil~
+a {wHuman {DMercenary{x~
+{wA Human {DMercenary{x {wroams the area.{x
+~
+~
+human~
+ACGT JZ 0 -1000 0
+170 100 1d1+25000 1d1+300 10d40+25 none
+-10 -10 -10 -10
+CDEFI AB 0 0
+stand stand either 20000
+AHMV ABCDEFGHIJK medium unknown
+#21023
+king fawn~
+{WK{Ying {WF{Yawn{x~
+{WK{Ying {WF{Yawn{x {wstands before you.{x
+~
+~
+human~
+ABT DFJVZc 0 1000 0
+180 200 1d1+39999 1d1+1000 10d10+300 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 75000
+AHMV ABCDEFGHIJK medium unknown
+#21024
+king kashue~
+{wK{Wing {wK{Washue{x~
+{wThe mercenary {wK{Wing {wK{Washue{x {wchecks his sword.{x
+~
+~
+human~
+AT DFJVZc 0 1000 0
+180 200 1d1+50000 1d1+1000 10d10+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21025
+parn free knight~
+{DThe {WFree {wKnight {DP{warn{x~
+{DThe {WFree {wKnight {DP{warn{x {wsalutes you.{x
+~
+~
+human~
+AGT DFJVZc 0 1000 0
+180 200 1d1+50000 1d1+1000 10d10+500 slash
+-100 -100 -100 -100
+CDEFHJKN AB N M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21026
+elf deedlit~
+{wD{Cee{wd{Cli{wt{x~
+{wD{Cee{wd{Cli{wt{x {wwatches her surroundings carefully.{x
+~
+~
+elf~
+ABGRS DJ 0 1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+BEFGHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#21027
+mage slayn~
+{RS{wlayn{x~
+{RS{wlayn{x {wstands here muttering to himself.{x
+~
+~
+human~
+AGR DJ 0 1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+FGHK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21028
+ghim dwarf warrior~
+{yG{Dhim{x~
+{yG{Dhim{x {wgrumbles at you.{x
+~
+~
+dwarf~
+ABGT DJ 0 1000 0
+170 100 1d1+27000 1d1+3000 10d45+35 crush
+-40 -40 -40 -60
+EFHJK B L 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21029
+etoh priest cleric~
+{WEtoh{x~
+{WEtoh{x {wsmiles happily at you.{x
+~
+~
+human~
+AGQ DJc 0 1000 0
+170 100 1d1+27000 1d1+3000 10d35+25 stab
+-40 -40 -40 -60
+FGHK B 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21030
+woodchuck thief~
+{DW{rood{Dc{rhuck{x~
+{DW{rood{Dc{rhuck{w slyly sneaks through the crowd.{x
+~
+~
+human~
+AGT FJPZ 0 100 0
+165 100 1d1+25000 1d1+200 10d10+75 pierce
+-50 -50 -50 -50
+DEHJ AB M 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#21031
+goddess kardis destroyer~
+{DK{Rardis {Dt{Rhe {DD{Restroyer{x~
+{DK{Rardis {Dt{Rhe {DD{Restroyer{x {wdesends upon you and attacks{R!!{x
+~
+~
+human~
+ABFRT 0 0 -1000 0
+500 1000 1d1+94999 1d1+40000 600d7+777 fury
+-200 -200 -200 -200
+AFGHK 0 0 N
+stand stand female 200000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#21000
+saints demise sword~
+{wS{Waint'{ws {DD{wemis{De{x~
+(no description)~
+unknown~
+weapon CJLY AN
+sword 24 8 slash BF
+101 7 100000 P
+A
+19 15
+A
+2 -2
+A
+4 -2
+#21001
+soul crusher demon sword~
+{wT{rh{Re {wD{re{Rmo{Dn{wS{rw{Ror{wd {Y"{wS{Dou{wl {RC{rr{wu{Ds{rh{we{Rr{Y"{x~
+(no description)~
+unknown~
+weapon EJTYf AN
+sword 18 11 cleave ACFG
+101 0 100000 P
+A
+4 -3
+A
+20 5
+A
+12 -150
+A
+19 10
+A
+18 5
+#21002
+soul crystal ball~
+{WS{coul {WC{crystal {WB{call{x~
+{WT{che {WS{coul {WC{crystal {WB{call{x~
+unknown~
+armor 0 AO
+BD BD BD BD 0
+101 2 80000 P
+A
+18 -20
+A
+19 -15
+A
+14 -200
+A
+20 -10
+#21003
+scepter of domination~
+{WScepter {wof {DDomination{x~
+{cThe {WScepter {wof {DDomination{x~
+unknown~
+weapon ASY AN
+mace 30 6 crush E
+101 7 100000 P
+A
+19 10
+#21004
+mirror of truth~
+{WMirror {wof {WTruth{x~
+{BThe {WMirror {wof {WTruth{x {Breflects reality.{x~
+unknown~
+armor ASTY AJ
+CE CE CE BEF 0
+101 5 200000 P
+A
+20 -1
+A
+13 100
+#21005
+staff of life~
+staff of Life~
+(no description)~
+unknown~
+staff ABSTY AO
+300 6 6 'mass healing' 0
+101 2 200000 P
+#21006
+ferronierre of knowledge~
+{BF{cerronierr{Be {wof {YK{Gnowledg{Ye{x~
+{WThe {BF{cerronierr{Be {wof {YK{Gnowledg{Ye{W.{x~
+unknown~
+armor 0 AE
+0 0 0 0 0
+30 2 200000 P
+A
+20 10
+A
+3 5
+A
+4 5
+#21007
+steel shortsword~
+{DS{wte{Del {wSh{Dort{wsw{Dord{x~
+{WA {DS{wte{Del {wSh{Dort{wsw{Dord{x~
+unknown~
+weapon 0 AN
+sword 13 15 slash 0
+101 4 30000 P
+A
+13 25
+A
+18 9
+A
+19 9
+#21008
+steel hammer~
+{DS{wte{Del {wH{Da{wmm{De{wr{x~
+{WA {DS{wte{Del {wH{Da{wmm{De{wr{x~
+unknown~
+weapon 0 AN
+mace 34 5 crush B
+101 10 30000 P
+A
+19 20
+A
+18 -15
+A
+2 -2
+#21009
+steel dagger~
+{DS{wtee{Dl {wD{Da{wgg{De{wr{x~
+{WA {DS{wtee{Dl {wD{Da{wgg{De{wr{x~
+unknown~
+weapon 0 AN
+dagger 23 8 pierce E
+101 2 30000 P
+A
+19 12
+#21010
+unholy armor~
+{DU{wnholy Armo{Dr{x~
+An evil set of platemail sits in the dirt.~
+unknown~
+armor EY AD
+CE BCDE DF BD 0
+101 5 50000 P
+A
+20 2
+A
+12 -200
+A
+13 100
+A
+19 15
+#21011
+steel bracer~
+{DS{wt{De{we{Dl B{wra{Dc{wer{x~
+(no description)~
+unknown~
+armor 0 AM
+BD BD BD BD 0
+101 2 30000 P
+A
+13 -100
+A
+19 20
+#21012
+staff of destruction~
+{RS{rtaff {Ro{rf {RD{restruction{x~
+{RT{rhe {RS{rtaff {Ro{rf {RD{restruction{x~
+unknown~
+weapon BESY AN
+staff 19 10 wrath ACFJ
+101 5 300000 P
+A
+18 -15
+A
+19 -15
+A
+28 10
+A
+17 -5
+A
+1 -1
+A
+2 -1
+#21013
+sorcerers robe~
+{RS{ror{Rc{rer{Re{rrs {RR{rob{Re{x~
+A long {RR{red{x robe lies here on the ground.~
+unknown~
+armor ES AK
+ABCFGHIJKLMNOPQRSTUVWXYZabcdef ABCFGHIJKLMNOPQRSTUVWXYZabcdef ABCFGHIJKLMNOPQRSTUVWXYZabcdef DEGHIJKLMNOPQRSTUVWXYZabcdef 0
+101 3 60000 P
+A
+20 -5
+A
+26 10
+A
+28 10
+#0
+
+
+
+#ROOMS
+#21000
+Marmo~
+~
+0 5 0
+D1
+~
+~
+0 0 21001
+S
+#21001
+~
+~
+0 0 0
+D3
+~
+~
+0 0 21000
+S
+#21056
+~
+~
+0 4 0
+S
+#21298
+~
+~
+0 0 0
+D4
+~
+~
+0 0 21299
+S
+#21299
+Shrine of Kardis~
+~
+0 4 0
+D5
+~
+~
+0 0 21298
+S
+#0
+
+
+
+#SPECIALS
+M 21008 spec_breath_fire Load to: {YS{Rhooting {YS{Rtar{x
+M 21009 spec_breath_acid Load to: {DD{bemonic {DD{bragon, {DN{barse{x
+M 21010 spec_breath_frost Load to: {wThe {cAncient {WSilver {cDragon {wBramb{x
+M 21011 spec_breath_lightning Load to: {yThe {WAncient {YGolden {WDragon {yMycen{x
+M 21012 spec_breath_frost Load to: {cT{Bh{Ce {wHi{Wbe{wrn{Wat{win{Wg {BD{Cr{cag{Co{Bn {BA{cb{Cr{ca{Bm{x
+M 21013 spec_cast_mage Load to: {RW{rag{Rn{rar{Rd{x
+M 21016 spec_cast_mage Load to: {gG{Drode{gr{x
+M 21020 spec_cast_mage Load to: {gG{ma{Db{we{Dr{mr{ga{x
+M 21021 spec_cast_mage Load to: {wK{Darla{w, {wt{Whe {DGrey {wW{Witch{x
+M 21027 spec_cast_mage Load to: {RS{wlayn{x
+M 21029 spec_cast_cleric Load to: {WEtoh{x
+M 21031 spec_breath_any Load to: {DK{Rardis {Dt{Rhe {DD{Restroyer{x
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#21000
+say Kardis, Goddess of Destruction, grant me your allmighty power!!
+mob echo {RW{rag{Rn{rar{Rd{x becomes protected with the power of {DKardis{x.
+mob goto 21299
+remove all
+mob mload 21013
+drop all
+mob force destroyer get all
+mob force destroyer wear all
+mob transfer all 21056
+mob goto 21056
+mob force destroyer kill $n
+mob purge $i
+~
+#21001
+say Kardis, Goddess of Destruction, grant me your all mighty power!!
+mob echo {RW{rag{Rn{rar{Rd{w prays to {DK{Rardis {Dt{Rhe {DD{Restoyer{w.{x
+transfer all 21299
+~
+#0
+
+#$

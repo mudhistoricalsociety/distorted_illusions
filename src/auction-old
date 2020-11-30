@@ -1,0 +1,656 @@
+/***************************************************************************
+ *  This file contains auction code developed by Brian Babey, and any      *
+ *  communication regarding it should be sent to [bbabey@iname.com]        *
+ *  Web Address: http://www.erols.com/bribe/                               *
+ *                                                                         *
+ *  Much time and thought has gone into this software and you are          *
+ *  benefitting.  We hope that you share your changes too.  What goes      *
+ *  around, comes around.                                                  *
+ ***************************************************************************/
+
+/***************************************************************************
+*       ROM 2.4 is copyright 1993-1995 Russ Taylor                         *
+*       ROM has been brought to you by the ROM consortium                  *
+*           Russ Taylor (rtaylor@pacinfo.com)                              *
+*           Gabrielle Taylor (gtaylor@pacinfo.com)                         *
+*           Brian Moore (rom@rom.efn.org)                                  *
+*       By using this code, you have agreed to follow the terms of the     *
+*       ROM license, in the file Rom24/doc/rom.license                     *
+***************************************************************************/
+
+/***************************************************************************
+*   Asgardian Nightmare is copyright 1998-2001 Chris Langlois/Gabe Volker  *
+***************************************************************************/
+
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+#include <string.h>
+#include "merc.h"
+
+DECLARE_DO_FUN( do_auction );
+
+void show_obj_stats( CHAR_DATA *ch, OBJ_DATA *obj );
+void auction_channel( char * msg );
+
+/* Syntax: Auction <Item> <Minbid> */
+void do_auction( CHAR_DATA *ch, char * argument )
+{
+    long silver=0, gold=0, platinum=0, money=0, minbid=0, maxbid=0;
+    OBJ_DATA *	obj;
+    char arg1[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if ( ch == NULL || IS_NPC(ch) )
+	return;
+
+    if ((ch->in_room->vnum == ROOM_VNUM_CORNER)
+       && (!IS_IMMORTAL (ch)))
+    {
+           send_to_char ("Just keep your nose in the corner like a good little player.\n\r", ch);
+           return;
+    }
+
+
+    if ( arg1[0] == '\0')
+    {
+	if ( IS_SET(ch->comm,COMM_NOAUCTION) )
+	{
+	    REMOVE_BIT(ch->comm,COMM_NOAUCTION );
+	    send_to_char("Auction channel is now ON.\n\r",ch);
+	    return;
+	}
+
+	SET_BIT(ch->comm,COMM_NOAUCTION);
+	send_to_char("Auction channel is now OFF.\n\r",ch);
+	return;
+    }
+
+    if ( !str_cmp( arg1, "info" ) )
+    {
+	obj = auction_info.item;
+
+	if ( !obj )
+	{
+	    send_to_char("There is nothing up for auction right now.\n\r",ch);
+	    return;
+	}
+
+	if ( auction_info.owner == ch )
+	{
+	    sprintf( buf, "\n\rYou are currently auctioning %s.\n\r",
+		obj->short_descr );
+	    send_to_char( buf, ch );
+	    return;
+	}
+
+	else 
+	    show_obj_stats( ch, obj );
+
+	return;
+    }
+
+    /* No Clan items, or corpses */
+    if( !str_cmp( arg1, "confiscate" ) )
+    {
+      obj = auction_info.item;
+
+      if(!IS_IMMORTAL(ch))
+      {
+       send_to_char("Huh?\n\r",ch);
+       return;
+      }
+     
+      if ( !obj )
+      {
+       send_to_char("There is nothing up for auction right now.\n\r",ch);
+       return;
+      }
+
+     /* Now take the object */
+      sprintf(buf, "%s - item confiscated by the immortals.\n\r", auction_info.item->short_descr);
+       auction_channel( buf );
+
+      obj_to_char( auction_info.item, ch );
+
+      sprintf(buf, "%s has been confiscated from %s.\n\r", capitalize(auction_info.item->short_descr), auction_info.owner->name );
+      send_to_char( buf, ch );
+	
+      auction_info.item           = NULL;
+      auction_info.owner          = NULL;
+      auction_info.current_bid    = 0;
+      auction_info.status         = 0;
+
+      return;
+ 
+    }
+
+    if ( !str_cmp( arg1, "bid" ) )
+    {
+	long bid;
+        obj = auction_info.item;
+
+        if ( !obj )
+        {
+            send_to_char("There is nothing up for auction right now.\n\r",ch);
+            return;
+        }
+
+        if ( arg2[0] == '\0' )
+	{
+	    send_to_char("You must enter an amount to bid.\n\r",ch);
+	    return;
+	}
+
+        bid = atol( arg2 );
+
+	if ( bid <= (auction_info.current_bid/10)+auction_info.current_bid)
+	{
+	    sprintf(buf, "You must bid at least 10%% higher than the current bid.  Bid at least %ld silver.\n\r",
+		((auction_info.current_bid/10)+auction_info.current_bid+1));
+	    return;
+	}
+
+        if ( bid < auction_info.minbid )
+	{
+            sprintf( buf, "The minimum bid is %ld silver.\n\r",auction_info.minbid);
+	    send_to_char(buf,ch);
+	    return;
+        }
+
+	if ( (ch->silver + 100 * ch->gold + 10000 * ch->platinum) < bid )
+	{
+	    send_to_char("You can't cover that bid.\n\r",ch);
+	    return;
+	}
+
+	sprintf(buf, "%ld silver has been offered for %s.\n\r",
+	    bid, auction_info.item->short_descr);
+	auction_channel( buf );
+
+	if ( auction_info.high_bidder != NULL )
+	{
+	    auction_info.high_bidder->gold += auction_info.gold_held;
+	    auction_info.high_bidder->silver += auction_info.silver_held;
+	    auction_info.high_bidder->platinum += auction_info.platinum_held;
+	}
+
+	silver = UMIN( ch->silver, bid );
+
+	money = ((ch->platinum*10000)+(ch->gold*100)+(ch->silver));
+
+	money -= bid;
+
+	if (money > 9999)
+		platinum = money / 10000;
+	else
+		platinum = 0;
+
+	money -= (platinum*10000);
+
+	if (money > 99)
+		gold = money / 100;
+	else
+		gold = 0;
+
+	money -= (gold*100);
+
+	silver = money;
+
+	ch->platinum = platinum;
+	ch->gold = gold;
+	ch->silver = silver;
+
+
+	platinum = bid / 10000;
+	auction_info.platinum_held	= platinum;
+	gold = (bid - (platinum*10000))/100;
+	auction_info.gold_held		= gold;
+	silver = ((bid - (platinum*10000))-(gold*100));
+	auction_info.silver_held	= silver;
+
+	auction_info.high_bidder	= ch;
+	auction_info.current_bid	= bid;
+	auction_info.status	 	= 0;
+
+	return;	
+    }
+
+    if ( auction_info.item != NULL )
+    {
+	send_to_char("There is already another item up for bid.\n\r",ch);
+	return;
+    }
+
+    if ( (obj = get_obj_carry( ch, arg1)) == NULL )
+    {
+	send_to_char("You aren't carrying that item.\n\r",ch);
+	return;
+    }
+
+    // Cases where the Object is Invalid
+    if ( IS_OBJ_STAT( obj, ITEM_NODROP ) )
+    {
+	send_to_char("You can't let go of that item.\n\r",ch);
+	return;
+    }
+    if ( ( obj->item_type == ITEM_CORPSE_NPC ||  obj->item_type == ITEM_CORPSE_PC ) ) 
+    {
+    send_to_char("You cannot auction corpses!.\n\r",ch);
+    return;
+    }
+    if (obj->clan > 0) 
+    {
+    send_to_char("You cannot auction clan equipment!.\n\r",ch);
+    return;
+    }
+    if ((IS_SET (obj->extra_flags, ITEM_ROT_DEATH)) || (IS_SET(obj->extra_flags, ITEM_VIS_DEATH)) || (IS_SET (obj->extra_flags, ITEM_HAD_TIMER)))
+    {
+    send_to_char("That might decompose, what are you thinking??\n\r",ch);
+    return;
+    }
+   // if (obj->item_type == ITEM_CONTAINER && obj->contains != NULL) 
+   // {
+   // 	send_to_char("You cannot auction containers that are not empty!.\n\r",ch);
+   // 	return;
+   //}
+    
+    maxbid = (obj->cost * 40);
+    maxbid = UMAX(maxbid, (obj->level * 200000) );
+    
+    if(is_number(arg2))
+    {
+    	minbid = atol(arg2);
+    	// Calculate the Maxbid. Either the cost * 40 or the level * 200000, whichever is higher.
+    	
+    	// Minimum bid comes here
+    	if(minbid < obj->cost)
+    	{
+    		printf_to_char(ch,"The minimum this item can be auctioned for is %ld.\n\r",obj->cost);
+    		return;
+    	}
+    	
+    	if( minbid > maxbid*2 )
+    	{
+    		printf_to_char(ch,"The maximum this item can be auctioned for is %ld.\n\r", maxbid*2);
+    		return;
+    	}
+    }
+    if ( !str_prefix( arg2, "minimum" ) )
+    	{
+    		minbid = obj->cost;	
+    	}
+    	else if ( !str_prefix( arg2, "maximum" ) )
+    	{
+    		minbid = maxbid; // No more than 2000 plat
+    		// code a case for uniques here later
+    	}
+        
+
+    auction_info.owner		= ch;
+    auction_info.item		= obj;
+    auction_info.minbid         = minbid;
+    auction_info.current_bid    = 0;
+    auction_info.status		= 0;
+
+    sprintf(buf,"Now taking bids on %s. (Minbid %ld)\n\r", obj->short_descr, auction_info.minbid );
+    auction_channel( buf );
+
+    obj_from_char( obj );
+
+    return;
+
+}
+
+void auction_update( )
+{
+    char buf[MAX_STRING_LENGTH], temp[MAX_STRING_LENGTH],
+	temp1[MAX_STRING_LENGTH], temp2[MSL];
+
+    if ( auction_info.item == NULL )
+	return;
+
+    auction_info.status++;
+
+    if ( auction_info.status == AUCTION_LENGTH )
+    {
+	sprintf(buf,"%s SOLD to %s for %ld silver.\n\r",
+	    capitalize(auction_info.item->short_descr),
+	    auction_info.high_bidder->name,
+	    auction_info.current_bid );
+	auction_channel( buf );
+
+	auction_info.owner->gold += auction_info.gold_held;
+	auction_info.owner->silver += auction_info.silver_held;
+	auction_info.owner->platinum += auction_info.platinum_held;
+
+	sprintf(temp2, "%ld platinum, ", auction_info.platinum_held );
+	sprintf(temp1, "%ld gold ", auction_info.gold_held );
+	sprintf(temp,  "%ld silver ", auction_info.silver_held );
+	sprintf(buf, "You receive %s%s%s%scoins.\n\r",
+		auction_info.platinum_held > 0 ? temp2 : "",
+		auction_info.gold_held > 0 ? temp1 : "",
+		((auction_info.gold_held > 0) &&
+		 (auction_info.silver_held > 0)) ? "and " : "",
+		auction_info.silver_held > 0 ? temp : "" );
+	send_to_char( buf, auction_info.owner );
+		
+	obj_to_char( auction_info.item, auction_info.high_bidder );
+
+	sprintf(buf, "%s appears in your hands.\n\r",
+		capitalize(auction_info.item->short_descr) );
+	send_to_char( buf, auction_info.high_bidder );
+	
+	auction_info.item		= NULL;
+	auction_info.owner		= NULL;
+	auction_info.high_bidder	= NULL;
+	auction_info.current_bid	= 0;
+	auction_info.status		= 0;
+	auction_info.platinum_held	= 0;
+	auction_info.gold_held		= 0;
+	auction_info.silver_held	= 0;
+
+	return;
+    }
+
+    if ( auction_info.status == AUCTION_LENGTH - 1 )
+    {
+	sprintf(buf, "%s - going twice at %ld silver.\n\r",
+		capitalize(auction_info.item->short_descr),
+		auction_info.current_bid );
+	auction_channel( buf );
+	return;
+    }
+
+    if ( auction_info.status == AUCTION_LENGTH - 2 )
+    {
+	if ( auction_info.current_bid == 0 )
+	{
+	    sprintf(buf, "No bids on %s - item removed.\n\r",
+		auction_info.item->short_descr);
+	    auction_channel( buf );
+
+	    obj_to_char( auction_info.item, auction_info.owner );
+
+	sprintf(buf, "%s is returned to you.\n\r",
+		capitalize(auction_info.item->short_descr) );
+	send_to_char( buf, auction_info.owner );
+	
+	    auction_info.item           = NULL;
+	    auction_info.owner          = NULL;
+	    auction_info.current_bid    = 0;
+	    auction_info.status         = 0;
+
+	    return;
+	}
+
+        sprintf(buf, "%s - going once at %ld silver.\n\r",
+                capitalize(auction_info.item->short_descr),
+                auction_info.current_bid );
+        auction_channel( buf );
+        return;
+    }
+
+    return;
+
+}
+
+void auction_channel( char * msg )
+{
+    char buf[MAX_STRING_LENGTH];
+    DESCRIPTOR_DATA *d;
+
+    sprintf(buf, "\n\r{#[{!AUCTION{#]{& %s{x", msg ); /* Add color if you wish */
+
+      for ( d = descriptor_list; d != NULL; d = d->next )
+      {
+	CHAR_DATA *victim;
+
+	victim = d->original ? d->original : d->character;
+
+	if ( d->connected == CON_PLAYING &&
+	     !IS_SET(victim->comm,COMM_NOAUCTION) &&
+	     !IS_SET(victim->comm,COMM_QUIET) )
+	      {
+		send_to_char( buf, victim );
+	      }
+      }
+
+    return;
+}
+
+/*
+ * Show_obj_stats: code taken from stock identify spell (-Brian)
+ */
+void show_obj_stats( CHAR_DATA *ch, OBJ_DATA *obj )
+{
+    char buf[MAX_STRING_LENGTH];
+    AFFECT_DATA *paf;
+
+    sprintf( buf,
+	"Object '%s' is type %s, extra flags %s.\n\rWeight is %d, value is %d, level is %d.\n\r",
+
+	obj->name,
+	item_name(obj->item_type),
+	extra_bit_name( obj->extra_flags ),
+	obj->weight / 10,
+	obj->cost,
+	obj->level
+	);
+    send_to_char( buf, ch );
+
+    switch ( obj->item_type )
+    {
+    case ITEM_SCROLL: 
+    case ITEM_POTION:
+    case ITEM_PILL:
+	sprintf( buf, "Level %d spells of:", obj->value[0] );
+	send_to_char( buf, ch );
+
+	if ( obj->value[1] >= 0 && obj->value[1] < MAX_SKILL )
+	{
+	    send_to_char( " '", ch );
+	    send_to_char( skill_table[obj->value[1]].name, ch );
+	    send_to_char( "'", ch );
+	}
+
+	if ( obj->value[2] >= 0 && obj->value[2] < MAX_SKILL )
+	{
+	    send_to_char( " '", ch );
+	    send_to_char( skill_table[obj->value[2]].name, ch );
+	    send_to_char( "'", ch );
+	}
+
+	if ( obj->value[3] >= 0 && obj->value[3] < MAX_SKILL )
+	{
+	    send_to_char( " '", ch );
+	    send_to_char( skill_table[obj->value[3]].name, ch );
+	    send_to_char( "'", ch );
+	}
+
+	if (obj->value[4] >= 0 && obj->value[4] < MAX_SKILL)
+	{
+	    send_to_char(" '",ch);
+	    send_to_char(skill_table[obj->value[4]].name,ch);
+	    send_to_char("'",ch);
+	}
+
+	send_to_char( ".\n\r", ch );
+	break;
+
+    case ITEM_WAND: 
+    case ITEM_STAFF: 
+	sprintf( buf, "Has %d charges of level %d",
+	    obj->value[2], obj->value[0] );
+	send_to_char( buf, ch );
+      
+	if ( obj->value[3] >= 0 && obj->value[3] < MAX_SKILL )
+	{
+	    send_to_char( " '", ch );
+	    send_to_char( skill_table[obj->value[3]].name, ch );
+	    send_to_char( "'", ch );
+	}
+
+	send_to_char( ".\n\r", ch );
+	break;
+
+    case ITEM_DRINK_CON:
+        sprintf(buf,"It holds %s-colored %s.\n\r",
+            liq_table[obj->value[2]].liq_color,
+            liq_table[obj->value[2]].liq_name);
+        send_to_char(buf,ch);
+        break;
+
+    case ITEM_CONTAINER:
+	sprintf(buf,"Capacity: %d#  Maximum weight: %d#  flags: %s\n\r",
+	    obj->value[0], obj->value[3], cont_bit_name(obj->value[1]));
+	send_to_char(buf,ch);
+	if (obj->value[4] != 100)
+	{
+	    sprintf(buf,"Weight multiplier: %d%%\n\r",
+		obj->value[4]);
+	    send_to_char(buf,ch);
+	}
+	break;
+		
+    case ITEM_WEAPON:
+ 	send_to_char("Weapon type is ",ch);
+	switch (obj->value[0])
+	{
+	    case(WEAPON_EXOTIC) : send_to_char("exotic.\n\r",ch);	break;
+	    case(WEAPON_SWORD)  : send_to_char("sword.\n\r",ch);	break;	
+	    case(WEAPON_DAGGER) : send_to_char("dagger.\n\r",ch);	break;
+	    case(WEAPON_SPEAR)	: send_to_char("spear/staff.\n\r",ch);	break;
+	    case(WEAPON_MACE) 	: send_to_char("mace/club.\n\r",ch);	break;
+	    case(WEAPON_AXE)	: send_to_char("axe.\n\r",ch);		break;
+	    case(WEAPON_FLAIL)	: send_to_char("flail.\n\r",ch);	break;
+	    case(WEAPON_WHIP)	: send_to_char("whip.\n\r",ch);		break;
+	    case(WEAPON_POLEARM): send_to_char("polearm.\n\r",ch);	break;
+	    default		: send_to_char("unknown.\n\r",ch);	break;
+ 	}
+	if (obj->pIndexData->new_format)
+	    sprintf(buf,"Damage is %dd%d (average %d).\n\r",
+		obj->value[1],obj->value[2],
+		(1 + obj->value[2]) * obj->value[1] / 2);
+	else
+	    sprintf( buf, "Damage is %d to %d (average %d).\n\r",
+	    	obj->value[1], obj->value[2],
+	    	( obj->value[1] + obj->value[2] ) / 2 );
+	send_to_char( buf, ch );
+        if (obj->value[4])  /* weapon flags */
+        {
+            sprintf(buf,"Weapons flags: %s\n\r",weapon_bit_name(obj->value[4]));
+            send_to_char(buf,ch);
+        }
+	break;
+
+    case ITEM_ARMOR:
+	sprintf( buf, 
+	"Armor class is %d pierce, %d bash, %d slash, and %d vs. magic.\n\r", 
+	    obj->value[0], obj->value[1], obj->value[2], obj->value[3] );
+	send_to_char( buf, ch );
+	break;
+    }
+
+    if (!obj->enchanted)
+    for ( paf = obj->pIndexData->affected; paf != NULL; paf = paf->next )
+    {
+	if ( paf->location != APPLY_NONE && paf->modifier != 0 )
+	{
+	    sprintf( buf, "Affects %s by %d.\n\r",
+		affect_loc_name( paf->location ), paf->modifier );
+	    send_to_char(buf,ch);
+            if (paf->bitvector)
+            {
+                switch(paf->where)
+                {
+                    case TO_AFFECTS:
+                        sprintf(buf,"Adds %s affect.\n",
+                            affect_bit_name(paf->bitvector));
+                        break;
+                    case TO_OBJECT:
+                        sprintf(buf,"Adds %s object flag.\n",
+                            extra_bit_name(paf->bitvector));
+                        break;
+                    case TO_IMMUNE:
+                        sprintf(buf,"Adds immunity to %s.\n",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    case TO_RESIST:
+                        sprintf(buf,"Adds resistance to %s.\n\r",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    case TO_VULN:
+                        sprintf(buf,"Adds vulnerability to %s.\n\r",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    default:
+                        sprintf(buf,"Unknown bit %d: %d\n\r",
+                            paf->where,paf->bitvector);
+                        break;
+                }
+	        send_to_char( buf, ch );
+	    }
+	}
+    }
+
+    for ( paf = obj->affected; paf != NULL; paf = paf->next )
+    {
+	if ( paf->location != APPLY_NONE && paf->modifier != 0 )
+	{
+	    sprintf( buf, "Affects %s by %d",
+	    	affect_loc_name( paf->location ), paf->modifier );
+	    send_to_char( buf, ch );
+            if ( paf->duration > -1)
+                sprintf(buf,", %d hours.\n\r",paf->duration);
+            else
+                sprintf(buf,".\n\r");
+	    send_to_char(buf,ch);
+            if (paf->bitvector)
+            {
+                switch(paf->where)
+                {
+                    case TO_AFFECTS:
+                        sprintf(buf,"Adds %s affect.\n",
+                            affect_bit_name(paf->bitvector));
+                        break;
+                    case TO_OBJECT:
+                        sprintf(buf,"Adds %s object flag.\n",
+                            extra_bit_name(paf->bitvector));
+                        break;
+		    case TO_WEAPON:
+			sprintf(buf,"Adds %s weapon flags.\n",
+			    weapon_bit_name(paf->bitvector));
+			break;
+                    case TO_IMMUNE:
+                        sprintf(buf,"Adds immunity to %s.\n",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    case TO_RESIST:
+                        sprintf(buf,"Adds resistance to %s.\n\r",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    case TO_VULN:
+                        sprintf(buf,"Adds vulnerability to %s.\n\r",
+                            imm_bit_name(paf->bitvector));
+                        break;
+                    default:
+                        sprintf(buf,"Unknown bit %d: %d\n\r",
+                            paf->where,paf->bitvector);
+                        break;
+                }
+                send_to_char(buf,ch);
+            }
+	}
+    }
+
+    return;
+}

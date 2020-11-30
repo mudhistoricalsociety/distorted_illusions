@@ -1,0 +1,3448 @@
+#AREADATA
+Name Palace of Sheol~
+Builders Zyx Unlinked~
+VNUMs 39100 39499
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#39100
+palace trainer kintoh~
+{gTr{8ain{ger {GK{gi{8nt{go{Gh{x~
+The {8Pa{7la{8ce {gTr{8ain{ger{x, {GK{gi{8nt{go{Gh{x, stands before you working tirelessly.
+~
+~
+human~
+ABJb 0 0 0 0
+101 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39101
+kelly~
+{YK{%e{5l{%l{Yy{x~
+The {8Pa{7la{8ce {BTe{Cach{Ber{x, {YK{%e{5l{%l{Yy{x, stands before you gracefully.
+~
+~
+human~
+ABKZ 0 0 0 0
+101 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39102
+great king theo~
+The {BG{xrea{Bt K{xin{Bg {!T{Wh{8e{ro{x~
+The {BG{xrea{Bt K{xin{Bg {!T{Wh{8e{ro{x, stands before you addressing his court.
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+rest stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 39100 100~
+#39103
+priest odin grayle~
+{WG{8r{Way{8l{We{x~
+{WG{8r{Way{8l{We{x, The {WP{wr{8ie{ws{Wt{x of {WO{wdi{Wn{x, is here.
+~
+~
+human~
+ABZa 0 0 1000 0
+200 0 0d0+1 1d1+100000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39104
+belial priest hel~
+{RB{We{8li{Wa{Rl{x~
+{RB{We{8li{Wa{Rl{x, {RA{8c{Woly{8t{Re{x of {RH{rel{x, is here.
+~
+~
+demon~
+ABQRXa JU 0 -1000 0
+200 0 1d1+100 1d1+100000 1d1+1 none
+0 0 0 0
+0 0 CM NS
+stand stand male 0
+AHMV ABCDEFGHIJKQ large unknown
+M GRALL 39101 100~
+#39105
+sheol demon spawn~
+(no short description)~
+(no long description)
+~
+~
+human~
+ABFST 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#39100
+rape ass axe~
+{GR{8AP{GE {8A{GX{8E{!!{x~
+{GR{8AP{GE {8A{GX{8E{!!{x~
+unknown~
+weapon ABMS AN
+axe 40 20 psias ABCDEFGHJ
+106 0 0 P
+#39101
+stick~
+{YStick{x~
+This stick will fuck you up.~
+unknown~
+wand AGI AO
+110 5 5 'demonfire' 0
+101 1 50000 P
+A
+28 3
+A
+17 -10
+#39102
+hole~
+{Ghole{x~
+Spart~
+unknown~
+portal R 0
+0 0 AD CDEFHLMP 0
+0 0 0 P
+#39103
+ben & jerrys~
+{RBen & Jerry's Ice Cream{x~
+A quart of Funky Monkey is begging you to eat it.~
+unknown~
+food BG A
+5 10 0 0 0
+50 1 20000 P
+A
+20 -1
+A
+9 3
+A
+3 -2
+A
+4 -5
+A
+26 15
+#0
+
+
+
+#ROOMS
+#39100
+{7Inside the {8Pa{7la{8ce{7 Gates{x~
+You venture into the fabled gates of the Palace of {RS{Dh{7e{Ro{7l{x. 
+Murals cover the walls depicting famous warriors and battles.  Guards
+wielding weapons of {#g{3old{X watch you as you enter the gates and begin
+your journey into the unknown.  
+~
+0 0 0
+D0
+~
+~
+0 0 39101
+S
+#39101
+{7Inside the {8Pa{7la{8ce{7 Garrison{x~
+Stepping further into the {8pa{7la{8ce{x you enter its mighty garrison. 
+Guards are coming and going in between their shifts.  Some grab weapons to
+head down into the town and continue the oppression brought upon them.  
+~
+0 0 0
+D0
+~
+~
+0 0 39102
+D2
+~
+~
+0 0 39100
+S
+#39102
+{xGrand {7M{8a{7r{8b{7l{8e{x Doors~
+Approaching a pair of marble doors you are awe struck.  The time and
+strength that had to go into building such a masterpiece would be immense. 
+Grabbing the huge ring you push the door open, greeted with a blast of warm
+air you step into the main hall.
+~
+0 0 0
+D0
+~
+~
+0 0 39103
+D2
+~
+~
+0 0 39101
+S
+#39103
+{xEntrance Into the Great Hall~
+Your first steps into the {8pa{7la{8ce{x are met with mixed emotions. 
+Death seems to emit from the deepest cracks in the stone floors.  Despite
+the initial feelings you are overtaken by the sheer grandness of the hall. 
+Past kings have donated their own artistic views in the architecture. 
+Massive columns support the high ceilings, florals drape from the tops of
+the columns, and {yg{Yolden{x tribunes decorate the vast space.  
+~
+0 0 0
+D0
+~
+~
+0 0 39112
+D1
+~
+~
+0 0 39104
+D2
+~
+~
+0 0 39102
+D3
+~
+~
+0 0 39114
+S
+#39104
+{7Southern Wall of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39111
+D1
+~
+~
+0 0 39105
+D3
+~
+~
+0 0 39103
+S
+#39105
+{7Southern Wall of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39110
+D1
+~
+~
+0 0 39106
+D3
+~
+~
+0 0 39104
+S
+#39106
+{7Southern Wall of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39109
+D1
+~
+~
+0 0 39107
+D3
+~
+~
+0 0 39105
+S
+#39107
+{7Corner of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39108
+D3
+~
+~
+0 0 39106
+S
+#39108
+{7Eastern Wall of the Great Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 39167
+D2
+~
+~
+0 0 39107
+D3
+~
+~
+0 0 39109
+S
+#39109
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39168
+D1
+~
+~
+0 0 39108
+D2
+~
+~
+0 0 39106
+D3
+~
+~
+0 0 39110
+S
+#39110
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39169
+D1
+~
+~
+0 0 39109
+D2
+~
+~
+0 0 39105
+D3
+~
+~
+0 0 39111
+S
+#39111
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39170
+D1
+~
+~
+0 0 39110
+D2
+~
+~
+0 0 39104
+D3
+~
+~
+0 0 39112
+S
+#39112
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39171
+D1
+~
+~
+0 0 39111
+D2
+~
+~
+0 0 39103
+D3
+~
+~
+0 0 39113
+S
+#39113
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39172
+D1
+~
+~
+0 0 39112
+D2
+~
+~
+0 0 39114
+D3
+~
+~
+0 0 39120
+S
+#39114
+{xSouthern Wall of the Great Hall~
+As you move west of the entrance you notice many different {ca{Droma{cs{x
+filling the room.  There is {Rc{Bo{Gl{Yo{Wr{Re{Bd{x glass windows telling
+stories of the past kings and their greatness.  You can hear footsteps
+echoing through the great hall due to its vast size and somewhat empty
+decor.  
+~
+0 0 0
+D0
+~
+~
+0 0 39113
+D1
+~
+~
+0 0 39103
+D3
+~
+~
+0 0 39115
+S
+#39115
+{7Southern Wall of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39120
+D1
+~
+~
+0 0 39114
+D3
+~
+~
+0 0 39116
+S
+#39116
+{7Southern Wall of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39119
+D1
+~
+~
+0 0 39115
+D3
+~
+~
+0 0 39117
+S
+#39117
+{7Corner of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39118
+D1
+~
+~
+0 0 39116
+S
+#39118
+{7Western Wall of the Great Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 39123
+D1
+~
+~
+0 0 39119
+D2
+~
+~
+0 0 39117
+S
+#39119
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39122
+D1
+~
+~
+0 0 39120
+D2
+~
+~
+0 0 39116
+D3
+~
+~
+0 0 39118
+S
+#39120
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39121
+D1
+~
+~
+0 0 39113
+D2
+~
+~
+0 0 39115
+D3
+~
+~
+0 0 39119
+S
+#39121
+{7Inside the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39175
+D1
+~
+~
+0 0 39172
+D2
+~
+~
+0 0 39120
+D3
+~
+~
+0 0 39122
+S
+#39122
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39174
+D1
+~
+~
+0 0 39121
+D2
+~
+~
+0 0 39119
+D3
+~
+~
+0 0 39123
+S
+#39123
+{7Arched Doorway Leaving the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39173
+D1
+~
+~
+0 0 39122
+D2
+~
+~
+0 0 39118
+D3
+~
+~
+0 0 39124
+S
+#39124
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39123
+D3
+~
+~
+0 0 39125
+S
+#39125
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39124
+D3
+~
+~
+0 0 39126
+S
+#39126
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 at the {gTra{8ine{gr's {7Quarters{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39125
+D2
+~
+~
+0 0 39127
+D3
+~
+~
+0 0 39128
+S
+#39127
+{8Pa{7la{8ce {gTra{8ine{gr's {7Quarters{x~
+You find yourself standing in a room full of books and weapons.  A very
+handsome man stands here in {&shi{7n{&ing{x armor.  He looks you over
+briefly then goes back to the daily chores of his job.  
+~
+0 0 0
+D0
+~
+~
+0 0 39126
+S
+#39128
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39126
+D3
+~
+~
+0 0 39129
+S
+#39129
+{7Corner of the {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39130
+D1
+~
+~
+0 0 39128
+S
+#39130
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39131
+D2
+~
+~
+0 0 39129
+S
+#39131
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39132
+D2
+~
+~
+0 0 39130
+S
+#39132
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39133
+D2
+~
+~
+0 0 39131
+S
+#39133
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39134
+D2
+~
+~
+0 0 39132
+S
+#39134
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39135
+D2
+~
+~
+0 0 39133
+S
+#39135
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39136
+D2
+~
+~
+0 0 39134
+S
+#39136
+{7Intersection of the {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39218
+D1
+~
+~
+0 0 39137
+D2
+~
+~
+0 0 39135
+S
+#39137
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39138
+D3
+~
+~
+0 0 39136
+S
+#39138
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39139
+D3
+~
+~
+0 0 39137
+S
+#39139
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y {7near the {BK{7ing'{Bs {BR{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39257
+D1
+~
+~
+0 0 39140
+D3
+~
+~
+0 0 39138
+S
+#39140
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39141
+D3
+~
+~
+0 0 39139
+S
+#39141
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39142
+D3
+~
+~
+0 0 39140
+S
+#39142
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y {7near the {BK{7ing'{Bs {BR{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39276
+D1
+~
+~
+0 0 39143
+D3
+~
+~
+0 0 39141
+S
+#39143
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39144
+D3
+~
+~
+0 0 39142
+S
+#39144
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39145
+D2
+~
+~
+0 0 39297
+D3
+~
+~
+0 0 39143
+S
+#39145
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39146
+D3
+~
+~
+0 0 39144
+S
+#39146
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39147
+D2
+~
+~
+0 0 39300
+D3
+~
+~
+0 0 39145
+S
+#39147
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39148
+D3
+~
+~
+0 0 39146
+S
+#39148
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{7 near the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39277
+D1
+~
+~
+0 0 39149
+D3
+~
+~
+0 0 39147
+S
+#39149
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39150
+D3
+~
+~
+0 0 39148
+S
+#39150
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39151
+D3
+~
+~
+0 0 39149
+S
+#39151
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{7 near the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39289
+D1
+~
+~
+0 0 39152
+D3
+~
+~
+0 0 39150
+S
+#39152
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39153
+D3
+~
+~
+0 0 39151
+S
+#39153
+{8D{&i{8v{&i{8d{&i{8n{&g {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39154
+D3
+~
+~
+0 0 39152
+S
+#39154
+{7Intersection of the {8H{&a{8l{&l{8w{&a{8y{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39256
+D2
+~
+~
+0 0 39155
+D3
+~
+~
+0 0 39153
+S
+#39155
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39154
+D2
+~
+~
+0 0 39156
+S
+#39156
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39155
+D2
+~
+~
+0 0 39157
+S
+#39157
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39156
+D2
+~
+~
+0 0 39158
+S
+#39158
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39157
+D2
+~
+~
+0 0 39159
+S
+#39159
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39158
+D2
+~
+~
+0 0 39160
+S
+#39160
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39159
+D2
+~
+~
+0 0 39161
+S
+#39161
+{7Corner of the {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39160
+D3
+~
+~
+0 0 39162
+S
+#39162
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39161
+D3
+~
+~
+0 0 39163
+S
+#39163
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 at the {BPra{Cctic{Bing {7Room{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39162
+D2
+~
+~
+0 0 39164
+D3
+~
+~
+0 0 39165
+S
+#39164
+{DPa{wla{Dce {BPra{Cctic{Bing{x Room~
+~
+0 0 0
+D0
+~
+~
+0 0 39163
+S
+#39165
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39163
+D3
+~
+~
+0 0 39166
+S
+#39166
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39165
+D3
+~
+~
+0 0 39167
+S
+#39167
+{7Arched Doorway Leaving the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39181
+D1
+~
+~
+0 0 39166
+D2
+~
+~
+0 0 39108
+D3
+~
+~
+0 0 39168
+S
+#39168
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39180
+D1
+~
+~
+0 0 39167
+D2
+~
+~
+0 0 39109
+D3
+~
+~
+0 0 39169
+S
+#39169
+{7Inside the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39179
+D1
+~
+~
+0 0 39168
+D2
+~
+~
+0 0 39110
+D3
+~
+~
+0 0 39170
+S
+#39170
+{7Inside the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39178
+D1
+~
+~
+0 0 39169
+D2
+~
+~
+0 0 39111
+D3
+~
+~
+0 0 39171
+S
+#39171
+{7Center of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39177
+D1
+~
+~
+0 0 39170
+D2
+~
+~
+0 0 39112
+D3
+~
+~
+0 0 39172
+S
+#39172
+{7Inside the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39176
+D1
+~
+~
+0 0 39171
+D2
+~
+~
+0 0 39113
+D3
+~
+~
+0 0 39121
+S
+#39173
+{7Western Wall of the Great Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 39190
+D1
+~
+~
+0 0 39174
+D2
+~
+~
+0 0 39123
+S
+#39174
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39189
+D1
+~
+~
+0 0 39175
+D2
+~
+~
+0 0 39122
+D3
+~
+~
+0 0 39173
+S
+#39175
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39188
+D1
+~
+~
+0 0 39176
+D2
+~
+~
+0 0 39121
+D3
+~
+~
+0 0 39174
+S
+#39176
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39187
+D1
+~
+~
+0 0 39177
+D2
+~
+~
+0 0 39172
+D3
+~
+~
+0 0 39175
+S
+#39177
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39186
+D1
+~
+~
+0 0 39178
+D2
+~
+~
+0 0 39171
+D3
+~
+~
+0 0 39176
+S
+#39178
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39185
+D1
+~
+~
+0 0 39179
+D2
+~
+~
+0 0 39170
+D3
+~
+~
+0 0 39177
+S
+#39179
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39184
+D1
+~
+~
+0 0 39180
+D2
+~
+~
+0 0 39169
+D3
+~
+~
+0 0 39178
+S
+#39180
+{7Near the Walls of the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39183
+D1
+~
+~
+0 0 39181
+D2
+~
+~
+0 0 39168
+D3
+~
+~
+0 0 39179
+S
+#39181
+{7Eastern Wall of the Great Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 39182
+D2
+~
+~
+0 0 39167
+D3
+~
+~
+0 0 39180
+S
+#39182
+{7Corner of the Great Hall{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39181
+D3
+~
+~
+0 0 39183
+S
+#39183
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39182
+D2
+~
+~
+0 0 39180
+D3
+~
+~
+0 0 39184
+S
+#39184
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39183
+D2
+~
+~
+0 0 39179
+D3
+~
+~
+0 0 39185
+S
+#39185
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39184
+D2
+~
+~
+0 0 39178
+D3
+~
+~
+0 0 39186
+S
+#39186
+{7Arched Doorway Leaving the Great Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39191
+D1
+~
+~
+0 0 39185
+D2
+~
+~
+0 0 39177
+D3
+~
+~
+0 0 39187
+S
+#39187
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39186
+D2
+~
+~
+0 0 39176
+D3
+~
+~
+0 0 39188
+S
+#39188
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39187
+D2
+~
+~
+0 0 39175
+D3
+~
+~
+0 0 39189
+S
+#39189
+{7Northern Wall of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39188
+D2
+~
+~
+0 0 39174
+D3
+~
+~
+0 0 39190
+S
+#39190
+{7Corner of the Great Hall{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39189
+D2
+~
+~
+0 0 39173
+S
+#39191
+{xSteps before the {YT{Dhron{Ye{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39192
+D2
+~
+~
+0 0 39186
+S
+#39192
+{xIntersection before the {YT{Dhron{Ye{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39193
+D1
+~
+~
+0 0 39194
+D2
+~
+~
+0 0 39191
+D3
+~
+~
+0 0 39206
+S
+#39193
+{YT{Dhron{Ye {7of the {BG{7rea{Bt K{7in{Bg{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39192
+S
+#39194
+{rG{Dri{rm {DH{rallwa{Dy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39195
+D3
+~
+~
+0 0 39192
+S
+#39195
+{rG{Dri{rm {DH{rallwa{Dy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39196
+D3
+~
+~
+0 0 39194
+S
+#39196
+{rG{Dri{rm {DH{rallwa{Dy{x before {RH{rel'{Rs A{rsylu{Rm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39197
+D1
+~
+~
+0 0 39198
+D3
+~
+~
+0 0 39195
+S
+#39197
+{RH{rel'{Rs A{rsylu{Rm{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39196
+S
+#39198
+{rG{Dri{rm {DH{rallwa{Dy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39199
+D3
+~
+~
+0 0 39196
+S
+#39199
+{rG{Dri{rm {DH{rallwa{Dy{x~
+~
+0 0 0
+D1
+~
+~
+3 0 39200
+D3
+~
+~
+0 0 39198
+S
+#39200
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D0
+~
+~
+0 0 39205
+D1
+~
+~
+0 0 39203
+D2
+~
+~
+0 0 39201
+D3
+~
+~
+3 0 39199
+S
+#39201
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D0
+~
+~
+0 0 39200
+D1
+~
+~
+0 0 39202
+S
+#39202
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D0
+~
+~
+0 0 39203
+D3
+~
+~
+0 0 39201
+S
+#39203
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D0
+~
+~
+0 0 39204
+D2
+~
+~
+0 0 39202
+D3
+~
+~
+0 0 39200
+S
+#39204
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D2
+~
+~
+0 0 39203
+D3
+~
+~
+0 0 39205
+S
+#39205
+{DS{Wo{wm{Db{We{wr {DR{Woo{Dm~
+~
+0 0 0
+D1
+~
+~
+0 0 39204
+D2
+~
+~
+0 0 39200
+S
+#39206
+{YB{Wrigh{Yt {WH{Yallwa{Wy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39192
+D3
+~
+~
+0 0 39207
+S
+#39207
+{YB{Wrigh{Yt {WH{Yallwa{Wy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39206
+D3
+~
+~
+0 0 39208
+S
+#39208
+{YB{Wrigh{Yt {WH{Yallwa{Wy{x before {WO{wdin'{Ws S{wanctuar{Wy{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39209
+D1
+~
+~
+0 0 39207
+D3
+~
+~
+0 0 39210
+S
+#39209
+{WO{wdin'{Ws S{wanctuar{Wy{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39208
+S
+#39210
+{YB{Wrigh{Yt {WH{Yallwa{Wy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39208
+D3
+~
+~
+0 0 39211
+S
+#39211
+{YB{Wrigh{Yt {WH{Yallwa{Wy{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39210
+D3
+~
+~
+3 0 39212
+S
+#39212
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D0
+~
+~
+0 0 39217
+D1
+~
+~
+3 0 39211
+D2
+~
+~
+0 0 39213
+D3
+~
+~
+0 0 39215
+S
+#39213
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D0
+~
+~
+0 0 39212
+D3
+~
+~
+0 0 39214
+S
+#39214
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D0
+~
+~
+0 0 39215
+D1
+~
+~
+0 0 39213
+S
+#39215
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D0
+~
+~
+0 0 39216
+D1
+~
+~
+0 0 39212
+D2
+~
+~
+0 0 39214
+S
+#39216
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D1
+~
+~
+0 0 39217
+D2
+~
+~
+0 0 39215
+S
+#39217
+{YV{Wi{Yv{Wi{Yd {WR{woo{Wm~
+~
+0 0 0
+D2
+~
+~
+0 0 39212
+D3
+~
+~
+0 0 39216
+S
+#39218
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39219
+D2
+~
+~
+0 0 39136
+S
+#39219
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39220
+D2
+~
+~
+0 0 39218
+S
+#39220
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39221
+D2
+~
+~
+0 0 39219
+S
+#39221
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39222
+D2
+~
+~
+0 0 39220
+S
+#39222
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39223
+D2
+~
+~
+0 0 39221
+S
+#39223
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39224
+D2
+~
+~
+0 0 39222
+S
+#39224
+{7Corner of the {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39225
+D2
+~
+~
+0 0 39223
+S
+#39225
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39226
+D3
+~
+~
+0 0 39224
+S
+#39226
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y {7near {WP{gi{Gc{Wc{Ga{gr{Wd{7's {7room{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39228
+D2
+~
+~
+0 0 39227
+D3
+~
+~
+0 0 39225
+S
+#39227
+{WP{gi{Gc{Wc{Ga{gr{Wd{7's {7room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39226
+S
+#39228
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39229
+D3
+~
+~
+0 0 39226
+S
+#39229
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y {7near {gZx{8i{gx{7'{gs {7room{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39231
+D2
+~
+~
+0 0 39230
+D3
+~
+~
+0 0 39228
+S
+#39230
+{gZx{8i{gx{7'{gs {7room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39229
+S
+#39231
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39232
+D3
+~
+~
+0 0 39229
+S
+#39232
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y {7near {RK{Well{7'{Rs {7room{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39234
+D2
+~
+~
+0 0 39233
+D3
+~
+~
+0 0 39231
+S
+#39233
+{RK{Well{7'{Rs {7room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39232
+S
+#39234
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39235
+D3
+~
+~
+0 0 39232
+S
+#39235
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y {7near {YB{8ryan{7'{Ys {7room{X~
+~
+0 0 0
+D1
+~
+~
+0 0 39237
+D2
+~
+~
+0 0 39236
+D3
+~
+~
+0 0 39234
+S
+#39236
+{YB{8ryan{7'{Ys {7room{X~
+~
+0 0 0
+D0
+~
+~
+0 0 39235
+S
+#39237
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39238
+D3
+~
+~
+0 0 39235
+S
+#39238
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y {7near {CO{Wy{wna{Wr{7'{Cs {7room{X~
+~
+0 0 0
+D1
+~
+~
+0 0 39240
+D2
+~
+~
+0 0 39239
+D3
+~
+~
+0 0 39237
+S
+#39239
+{CO{Wy{wna{Wr{7'{Cs {7room{X~
+~
+0 0 0
+D0
+~
+~
+0 0 39238
+S
+#39240
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39241
+D3
+~
+~
+0 0 39238
+S
+#39241
+~
+~
+0 0 0
+D1
+~
+~
+0 0 39243
+D2
+~
+~
+0 0 39242
+D3
+~
+~
+0 0 39240
+S
+#39242
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39241
+S
+#39243
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39244
+D3
+~
+~
+0 0 39241
+S
+#39244
+~
+~
+0 0 0
+D1
+~
+~
+0 0 39245
+D2
+~
+~
+0 0 39246
+D3
+~
+~
+0 0 39243
+S
+#39245
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39247
+D3
+~
+~
+0 0 39244
+S
+#39246
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39244
+S
+#39247
+~
+~
+0 0 0
+D1
+~
+~
+0 0 39249
+D2
+~
+~
+0 0 39248
+D3
+~
+~
+0 0 39245
+S
+#39248
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39247
+S
+#39249
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39250
+D3
+~
+~
+0 0 39247
+S
+#39250
+{7Corner of the {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39251
+D3
+~
+~
+0 0 39249
+S
+#39251
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39250
+D2
+~
+~
+0 0 39252
+S
+#39252
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39251
+D2
+~
+~
+0 0 39253
+S
+#39253
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39252
+D2
+~
+~
+0 0 39254
+S
+#39254
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39253
+D2
+~
+~
+0 0 39255
+S
+#39255
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39254
+D2
+~
+~
+0 0 39256
+S
+#39256
+{&E{7l{8a{&b{7o{8r{&a{7t{8e {8H{&a{8llw{&a{8y{7 around the {8Pa{7la{8ce{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39255
+D2
+~
+~
+0 0 39154
+S
+#39257
+{BK{7ing'{Bs W{7ester{Bn D{7oo{Br{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39258
+D2
+~
+~
+0 0 39139
+S
+#39258
+{7Inside the {BW{7ester{Bn D{7oo{Br{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39272
+D1
+~
+~
+0 0 39271
+D2
+~
+~
+0 0 39257
+D3
+~
+~
+0 0 39259
+S
+#39259
+{7Corner of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39260
+D1
+~
+~
+0 0 39258
+S
+#39260
+{7Western wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39261
+D1
+~
+~
+0 0 39272
+D2
+~
+~
+0 0 39259
+S
+#39261
+{7Corner of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39262
+D2
+~
+~
+0 0 39260
+S
+#39262
+{7Northern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39263
+D2
+~
+~
+0 0 39272
+D3
+~
+~
+0 0 39261
+S
+#39263
+{7Northern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39264
+D2
+~
+~
+0 0 39273
+D3
+~
+~
+0 0 39262
+S
+#39264
+{7Northern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39265
+D2
+~
+~
+0 0 39274
+D3
+~
+~
+0 0 39263
+S
+#39265
+{7Northern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39266
+D2
+~
+~
+0 0 39275
+D3
+~
+~
+0 0 39264
+S
+#39266
+{7Corner of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39267
+D3
+~
+~
+0 0 39265
+S
+#39267
+{7Eastern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39266
+D2
+~
+~
+0 0 39268
+D3
+~
+~
+0 0 39275
+S
+#39268
+{7Corner of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39267
+D3
+~
+~
+0 0 39269
+S
+#39269
+{7Inside the {BE{7aster{Bn D{7oo{Br{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39275
+D1
+~
+~
+0 0 39268
+D2
+~
+~
+0 0 39276
+D3
+~
+~
+0 0 39270
+S
+#39270
+{7Southern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39274
+D1
+~
+~
+0 0 39269
+D3
+~
+~
+0 0 39271
+S
+#39271
+{7Southern wall of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39273
+D1
+~
+~
+0 0 39270
+D3
+~
+~
+0 0 39258
+S
+#39272
+{7Center of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39262
+D1
+~
+~
+0 0 39273
+D2
+~
+~
+0 0 39258
+D3
+~
+~
+0 0 39260
+S
+#39273
+{7Center of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39263
+D1
+~
+~
+0 0 39274
+D2
+~
+~
+0 0 39271
+D3
+~
+~
+0 0 39272
+S
+#39274
+{7Center of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39264
+D1
+~
+~
+0 0 39275
+D2
+~
+~
+0 0 39270
+D3
+~
+~
+0 0 39273
+S
+#39275
+{7Center of the {BK{7ing'{Bs R{7oo{Bm{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39265
+D1
+~
+~
+0 0 39267
+D2
+~
+~
+0 0 39269
+D3
+~
+~
+0 0 39274
+S
+#39276
+{BK{7ing'{Bs E{7aster{Bn D{7oo{Br{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39269
+D2
+~
+~
+0 0 39142
+S
+#39277
+{GP{Drince'{Gs W{8ester{Gn D{8oo{Gr{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39278
+D2
+~
+~
+0 0 39148
+S
+#39278
+{7Inside the {GW{8ester{Gn D{8oo{Gr{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39283
+D1
+~
+~
+0 0 39296
+D2
+~
+~
+0 0 39277
+D3
+~
+~
+0 0 39279
+S
+#39279
+{7Corner of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39280
+D1
+~
+~
+0 0 39278
+S
+#39280
+{7Western Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39281
+D1
+~
+~
+0 0 39283
+D2
+~
+~
+0 0 39279
+S
+#39281
+{7Corner of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39282
+D2
+~
+~
+0 0 39280
+S
+#39282
+{7Northern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39285
+D2
+~
+~
+0 0 39283
+D3
+~
+~
+0 0 39281
+S
+#39283
+{7Center of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39282
+D1
+~
+~
+0 0 39284
+D2
+~
+~
+0 0 39278
+D3
+~
+~
+0 0 39280
+S
+#39284
+{7Center of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39285
+D1
+~
+~
+0 0 39287
+D2
+~
+~
+0 0 39296
+D3
+~
+~
+0 0 39283
+S
+#39285
+{7Northern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39286
+D2
+~
+~
+0 0 39284
+D3
+~
+~
+0 0 39282
+S
+#39286
+{7Northern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39292
+D2
+~
+~
+0 0 39287
+D3
+~
+~
+0 0 39285
+S
+#39287
+{7Center of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39286
+D1
+~
+~
+0 0 39291
+D2
+~
+~
+0 0 39288
+D3
+~
+~
+0 0 39284
+S
+#39288
+{7Southern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39287
+D1
+~
+~
+0 0 39290
+D3
+~
+~
+0 0 39296
+S
+#39289
+{GP{Drince'{Gs E{8aster{Gn D{8oo{Gr{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39290
+D2
+~
+~
+0 0 39151
+S
+#39290
+{7Inside the {GE{8aster{Gn D{8oo{Gr{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39291
+D1
+~
+~
+0 0 39295
+D2
+~
+~
+0 0 39289
+D3
+~
+~
+0 0 39288
+S
+#39291
+{7Center of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39292
+D1
+~
+~
+0 0 39294
+D2
+~
+~
+0 0 39290
+D3
+~
+~
+0 0 39287
+S
+#39292
+{7Northern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 39293
+D2
+~
+~
+0 0 39291
+D3
+~
+~
+0 0 39286
+S
+#39293
+{7Corner of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D2
+~
+~
+0 0 39294
+D3
+~
+~
+0 0 39292
+S
+#39294
+{7Eastern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39293
+D2
+~
+~
+0 0 39295
+D3
+~
+~
+0 0 39291
+S
+#39295
+{7Corner of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39294
+D3
+~
+~
+0 0 39290
+S
+#39296
+{7Southern Wall of the {GP{Drince'{Gs Q{Duarter{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 39284
+D1
+~
+~
+0 0 39288
+D3
+~
+~
+0 0 39278
+S
+#39297
+~
+~
+0 4 0
+D0
+~
+~
+0 0 39144
+D1
+~
+~
+0 0 39299
+D2
+~
+~
+0 0 39302
+D3
+~
+~
+0 0 39298
+S
+#39298
+~
+~
+0 0 0
+D1
+~
+~
+0 0 39297
+D2
+~
+~
+0 0 39301
+S
+#39299
+~
+~
+0 0 0
+D1
+~
+~
+0 0 39300
+D2
+~
+~
+0 0 39303
+D3
+~
+~
+0 0 39297
+S
+#39300
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39146
+D1
+~
+~
+0 0 39306
+D2
+~
+~
+0 0 39304
+D3
+~
+~
+0 0 39299
+S
+#39301
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39298
+D1
+~
+~
+0 0 39302
+S
+#39302
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39297
+D1
+~
+~
+0 0 39303
+D3
+~
+~
+0 0 39301
+S
+#39303
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39299
+D1
+~
+~
+0 0 39304
+D2
+~
+~
+0 0 39307
+D3
+~
+~
+0 0 39302
+S
+#39304
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39300
+D1
+~
+~
+0 0 39305
+D3
+~
+~
+0 0 39303
+S
+#39305
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39306
+D3
+~
+~
+0 0 39304
+S
+#39306
+~
+~
+0 0 0
+D2
+~
+~
+0 0 39305
+D3
+~
+~
+0 0 39300
+S
+#39307
+~
+~
+0 0 0
+D0
+~
+~
+0 0 39303
+S
+#39337
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 39102 spec_questmaster Load to: The {BG{xrea{Bt K{xin{Bg {!T{Wh{8e{ro{x
+S
+
+
+
+#RESETS
+D 0 39199 1 1 The east door of {rG{Dri{rm {DH{rallwa{Dy{x is closed
+D 0 39200 3 1 The west door of {DS{Wo{wm{Db{We{wr {DR{Woo{Dm is closed
+D 0 39211 3 1 The west door of {YB{Wrigh{Yt {WH{Yallwa{Wy{x is closed
+M 0 39100 39127 39127 1 *Load {gTr{8ain{ger {GK{gi{8nt{go{Gh{x
+M 0 39101 1 39164 1 *Load {YK{%e{5l{%l{Yy{x
+M 0 39102 1 39193 1 *Load The {BG{xrea{Bt K{xin{Bg {!T{Wh{8e{ro{x
+M 0 39104 1 39197 1 *Load {RB{We{8li{Wa{Rl{x
+M 0 39103 1 39209 1 *Load {WG{8r{Way{8l{We{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#39100
+say Welcome young traveller, please approach, I have a duty to ask of you.
+~
+#39101
+if isevil $n
+mob cast bless $n
+say Welcom $n, please take full advantage of my services.
+else
+say You are NOT worthy of the blessings I offer!
+mob cast curse $n
+mob transfer $n 39196
+endif
+~
+#0
+
+#$

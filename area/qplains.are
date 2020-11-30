@@ -1,0 +1,1506 @@
+#AREADATA
+Name Quintarsis Plains~
+Builders Unlinked Paerioq~
+VNUMs 8100 8299
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#8100
+Dracian The Dragon Guard~
+{DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+{DD{Wr{Ca{Wc{Di{Wa{Cn {WThe {yD{Wr{ya{Wg{yo{Wn {BG{buar{Bd{x
+~
+Generic Description :P
+~
+dragon~
+ABEGJKLPQRSTUVXZabcd CJTVa CDEHNO 0 0
+400 10 40d50+10000 1d1+9999 3000d5390458+10000 beating
+-70 -70 -70 -70
+ABCEFHIJKN ABCD BEH FI
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+M GRALL 8100 100~
+#8101
+Universal Savior Kintax~
+Kintax is helping ~
+Kintax is helping 
+~
+~
+human~
+ABEJKLMOPQRSTUXZabd 0 0 0 0
+100 4 1d1+5000 1d1+5000 1d1+5000 pound
+-5 -5 -5 -5
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#8102
+Iron silver babble~
+a {WSilver Babble{x~
+A {WSilver Babble{x
+~
+I am here for your Focusing/leveling pleasure. :)
+~
+dragon~
+ABHT AJKMRTWYZd 0 0 0
+30000 0 1d1+1 1d1+1 1d1+1 none
+200 200 200 200
+0 AB 0 CDEFGHIJKLMNOPQRSTXYZ
+sleep sleep none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+#8103
+Drizzt~
+Drizzt~
+Drizzt
+~
+I am here for your Focusing/leveling pleasure. :)
+~
+dragon~
+ABHT AJKMRTWYZd 0 0 0
+30000 0 1d1+1 1d1+1 1d1+1 none
+200 200 200 200
+0 AB 0 CDEFGHIJKLMNOPQRSTXYZ
+sleep sleep none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+#8104
+Demon Pain~
+A {DP{Wai{Dn {DD{Wemo{Dn{x~
+A {DP{Wai{Dn {DD{Wemo{Dn{x is here, causing mischief
+~
+~
+dwarf~
+AB J 0 0 0
+185 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#8105
+Demon Chaos~
+A {RC{rhao{Rs {RD{remo{Rn{x~
+A {RC{rhao{Rs {RD{remo{Rn{x lurks in the shadows
+~
+~
+human~
+AB J 0 -900 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#8106
+pet imm~
+Deblin's pet~
+Deblin's pet is here, holding a 'Do Not Touch' sign
+~
+~
+dragon~
+A JTV 0 0 0
+106 200 1000d1000+1000 100d100+100 40d40+0 claw
+-50 -50 -50 -50
+CDGHI 0 0 0
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res BEH
+F vul FI
+#8107
+Dracian The Dragon Guard~
+{DD{Wr{Ca{Wc{Di{Wa{Cn {WThe {yD{Wr{ya{Wg{yo{Wn {BG{buar{Bd{x~
+{DD{Wr{Ca{Wc{Di{Wa{Cn {WThe {yD{Wr{ya{Wg{yo{Wn {BG{buar{Bd{x
+~
+Generic Description :P
+~
+dragon~
+ABGIQTV CJTVa 0 0 0
+101 10 40d50+10000 1d1+9999 3000d5390458+10000 beating
+-200 -200 -200 -200
+ABCEFHIJKLN ABCD BEH FI
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#8109
+Demon Fire~
+A {YF{yir{Ye {YD{yemo{Yn{x~
+A {YF{yir{Ye {YD{yemo{Yn{x is here, burning the area
+~
+~
+human~
+AB J 0 -800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#8145
+Demon Pestilence~
+A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x~
+A {BP{bes{Btil{benc{Be {BD{bemo{Bn {x is here, bringing death
+~
+~
+human~
+AB J 0 -800 0
+140 0 1d1+15000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#8100
+Elegant Fountain~
+{CE{cl{We{wg{Wa{cn{Ct {WF{wou{ynt{wai{Wn{x~
+{CE{cl{We{wg{Wa{cn{Ct {WF{wou{ynt{wai{Wn{x~
+unknown~
+fountain R 0
+2147483647 2147483647 'absinthe' 0 0
+0 0 0 P
+#8101
+the Healing Sauna~
+the {DI{wR{DO{wN {yH{Yea{Wl{Yin{yg {cS{Ca{Wu{Cn{ca{x~
+The {DI{wR{DO{wN {yH{Yea{Wl{Yin{yg {cS{Ca{Wu{Cn{ca{x~
+unknown~
+furniture R 0
+CDEF ABCDEFGHIJKLMNOPQRSTUVWXYZabcde EHK DGH DEFG
+0 0 0 P
+#8102
+gothic shield ~
+gothic shield~
+Gothic shield is here.~
+unknown~
+armor ORYd AJ
+BEF BEF BEF BEF 0
+101 20 101000 P
+#8104
+Iron~
+{rC{Rh{we{Ra{rp {wW{Rh{ro{Rr{we{x~
+Paerioq's Pimp Stick.~
+unknown~
+weapon ABEG AN
+sword 666 666 suction ABCDEGH
+106 0 0 P
+A
+26 125
+A
+20 -45
+A
+17 -500
+A
+18 250
+A
+19 250
+F
+A 0 1 F
+F
+A 0 1 U
+F
+A 0 1 C
+F
+A 0 1 G
+F
+A 0 1 L
+F
+A 0 1 V
+F
+A 0 1 Z
+F
+A 0 1 D
+F
+A 0 1 E
+F
+A 0 1 J
+F
+A 0 1 T
+#8117
+paerioq lose rache bane iron~
+{DR{Wa{wc{Wh{De{W'{ws {rB{Ran{re{x~
+The Ring of the ultimate loser~
+unknown~
+jewelry ABGHNRSTYd AB
+0 0 0 0 0
+1 0 1 P
+F
+A 0 0 I
+F
+A 0 0 M
+F
+A 0 0 X
+F
+A 0 0 W
+F
+A 0 0 d
+F
+A 0 0 Y
+F
+A 0 0 K
+F
+A 0 0 R
+F
+V 0 0 Z
+F
+V 0 0 Y
+F
+V 0 0 X
+F
+V 0 0 S
+F
+V 0 0 R
+F
+V 0 0 Q
+F
+V 0 0 O
+F
+V 0 0 N
+F
+V 0 0 M
+F
+V 0 0 L
+F
+V 0 0 K
+F
+V 0 0 J
+F
+V 0 0 I
+F
+V 0 0 H
+F
+V 0 0 G
+F
+V 0 0 F
+F
+V 0 0 E
+F
+V 0 0 D
+F
+V 0 0 B
+F
+I 0 0 P
+F
+I 0 0 O
+F
+I 0 0 T
+F
+I 0 0 C
+F
+I 0 0 A
+A
+18 -950
+A
+19 -950
+A
+20 140
+A
+14 -2900
+A
+17 2300
+A
+13 -6000
+A
+12 -10000
+A
+3 -25
+A
+4 -25
+A
+5 -25
+A
+1 -25
+A
+2 -25
+E
+ring~
+This is the example of what happened when wearing a ring
+that in no way helps you :)
+~
+#8118
+paerioq lose rache bane iron~
+{DR{Wa{wc{Wh{De{W'{ws {rB{Ran{re{x~
+The Ring of the ultimate loser~
+unknown~
+jewelry ABGHMNPRSTVYZd AB
+0 0 0 0 0
+1 0 1 P
+F
+A 0 0 I
+F
+A 0 0 M
+F
+A 0 0 X
+F
+A 0 0 W
+F
+A 0 0 d
+F
+A 0 0 Y
+F
+A 0 0 K
+F
+A 0 0 R
+F
+V 0 0 Z
+F
+V 0 0 Y
+F
+V 0 0 X
+F
+V 0 0 S
+F
+V 0 0 R
+F
+V 0 0 Q
+F
+V 0 0 O
+F
+V 0 0 N
+F
+V 0 0 M
+F
+V 0 0 L
+F
+V 0 0 K
+F
+V 0 0 J
+F
+V 0 0 I
+F
+V 0 0 H
+F
+V 0 0 G
+F
+V 0 0 F
+F
+V 0 0 E
+F
+V 0 0 D
+F
+V 0 0 B
+F
+I 0 0 P
+F
+I 0 0 O
+F
+I 0 0 T
+F
+I 0 0 C
+F
+I 0 0 A
+A
+18 -950
+A
+19 -950
+A
+20 140
+A
+14 -2900
+A
+17 2300
+A
+13 -6000
+A
+12 -10000
+A
+3 -25
+A
+4 -25
+A
+5 -25
+A
+1 -25
+A
+2 -25
+E
+ring~
+This is the example of what happened when wearing a ring
+that in no way helps you :)
+~
+#8119
+ivory wedding ring iron paerioq~
+{DI{Wv{Co{Wr{Dy {WWe{wddi{Wng {wR{cin{wg{x~
+The Pure Love of One Protect me from all.~
+unknown~
+jewelry ABCEGIRSYd AB
+0 0 0 0 0
+108 0 0 P
+F
+R 0 0 Z
+F
+R 0 0 Y
+F
+R 0 0 X
+F
+R 0 0 T
+F
+R 0 0 S
+F
+R 0 0 R
+F
+R 0 0 Q
+F
+R 0 0 P
+F
+R 0 0 O
+F
+R 0 0 N
+F
+R 0 0 M
+F
+R 0 0 L
+F
+R 0 0 K
+F
+R 0 0 J
+F
+R 0 0 I
+F
+R 0 0 H
+F
+R 0 0 G
+F
+R 0 0 F
+F
+R 0 0 E
+F
+R 0 0 D
+F
+R 0 0 C
+F
+R 0 0 B
+F
+R 0 0 A
+F
+I 0 0 Z
+F
+I 0 0 Y
+F
+I 0 0 X
+F
+I 0 0 T
+F
+I 0 0 S
+F
+I 0 0 R
+F
+I 0 0 Q
+F
+I 0 0 P
+F
+I 0 0 O
+F
+I 0 0 N
+F
+I 0 0 M
+F
+I 0 0 L
+A
+19 25
+F
+I 0 0 A
+F
+I 0 0 B
+F
+I 0 0 C
+F
+I 0 0 D
+F
+I 0 0 E
+F
+I 0 0 F
+F
+I 0 0 G
+F
+I 0 0 H
+F
+I 0 0 I
+F
+I 0 0 J
+F
+I 0 0 K
+E
+ring~
+Pure love is a powerful ally, and with this ring
+my true love Protects me from all furies of this world
+~
+C aesir~
+#8120
+white Potion Dracian~
+a {WWhite {wpotion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A white potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+250 'mana shield' 'haste' 'giant strength' 'illusionary armor'
+108 5 25500 P
+C aesir~
+#8121
+yellow potion dracian~
+a {YYellow {wpotion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A yellow potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+250 'heal' 'heal' 'heal' 'heal'
+108 5 25500 P
+C aesir~
+#8122
+blue potion Dracian~
+a {bBlue{w potion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A blue potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+250 'globe of invulnerability' 'stone skin' 'shield' 'steel flesh'
+108 5 25500 P
+C aesir~
+#8123
+green potion dracian~
+a {GGreen {wpotion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A green potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+250 'fireshield' 'iceshield' 'shockshield' 'deathshield'
+108 5 25500 P
+C aesir~
+#8124
+purple potion Dracian~
+a {MPurple {wpotion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A purple potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+250 'detect invis' 'earthmeld' 'detect magic' 'pass door'
+108 5 25500 P
+C aesir~
+#8125
+red potion dracian~
+a {RRed{w potion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A red potion of Dracian lies here discarded.~
+unknown~
+potion 0 A
+400 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+108 5 25500 P
+C aesir~
+#8126
+gray potion dracian~
+a {DGray {wpotion of {DD{Wr{Ca{Wc{Di{Wa{Cn{x~
+A gray potion of Dracian lies here discarded.~
+unknown~
+potion A A
+250 'remove curse' 'cure disease' 'cure blindness' 'cure poison'
+108 5 25500 P
+#8127
+thor faith thunder~
+{$Th{#o{$r's {7Faith in {#T{3h{#u{3n{#d{3e{#r{x~
+A patch with a hammer and lightningbolt lies here, forgotten.~
+?~
+armor ABGSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+19 15
+A
+13 75
+A
+18 5
+#8128
+odin faith creation~
+{&O{7di{&n's {7Faith in {&C{7r{8e{8a{2t{2i{@o{@n{x~
+A patch with a pale one-eyed face lies here, forgotten.~
+?~
+armor ABGSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+13 100
+A
+18 10
+A
+19 10
+#8129
+hel faith dead~
+{!H{1el's {7Faith of {8the Dead{x~
+A patch with the fires of hell lies here, forgotten.~
+?~
+armor ABGSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+20 -5
+A
+19 15
+A
+14 -100
+#8130
+loki faith guile~
+{@L{8o{2k{8i'{@s {7Faith in {@G{2u{2i{@le{x~
+A patch that is constantly shifting lies here, forgotten{x~
+?~
+armor ABGHMSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+19 10
+A
+20 -5
+A
+18 7
+#8131
+Sif Faith Shield~
+{^S{6if'{^s {7Faith of the {$S{4h{8ie{7l{&d{x~
+A patch with the symbol of a Iron shield, lies here forgotten.~
+?~
+armor ABGHMSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+17 -30
+A
+19 10
+#8132
+fenrir faith destruction~
+{1F{8e{1nr{8i{1r's {7Faith in {!D{1e{8st{!r{1u{8ct{!i{1o{8n{x~
+A patch with the symbol of a wolves maw, lies here forgotten.~
+?~
+armor ABGHSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+13 75
+A
+20 -2
+A
+19 15
+#8133
+modi faith wrath~
+{^M{8o{6d{&i{6'{8s {7Faith in {^Wr{8a{^th{x~
+A patch with the symbol of rage, lies here forgotten.~
+?~
+armor ABGHSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+20 -2
+A
+13 75
+A
+19 15
+#8134
+Midgard serpents faith poison~
+{$M{4i{$d{4g{$a{4r{$d {@Serpents {7Faith in {@Po{2is{@on{x~
+A patch with the symbol of a coiled serpent, lies here forgotten.~
+?~
+armor ABGSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+12 -400
+A
+26 25
+A
+14 -300
+A
+19 10
+#8135
+Magni faith Might~
+{!M{5a{1g{%n{!i{5'{!s {7Faith in {!Might{x~
+A patch depicting great strength lies here, forgotten.~
+?~
+armor ABGSTd AV
+0 0 0 0 0
+101 1 10000000 P
+A
+19 21
+#0
+
+
+
+#ROOMS
+#8298
+Pet Shop~
+~
+0 12288 0
+D3
+~
+~
+0 0 8100
+S
+#8299
+blah~
+~
+0 8196 0
+S
+#8100
+{DP{Wa{Ce{Wr{Di{Wo{Cq{W's {DD{Wo{Cm{Wa{Di{Wn{x~
+{D                                      ,   ,
+{D                                        $,  $,     ,
+{D                                       "ss.$ss. .s'
+{D                                ,     .ss$$$$$$$$$$s,
+{D                                $. s$$$$$$$$$$$$$${R`{D$$Ss
+{D                                "$$$$$$$$$$$$$$$$$$o$$$       ,
+{D                               s$$$$$$$$$$$$$$$$$$$$$$$$s,  ,s
+{D                              s$$$$$$$$$"$$$$$$""""$$$$$$"$$$$$,
+{D                              s$$$$$$$$$$s""$$$$ssssss"$$$$$$$$"
+{D                             s$$$$$$$$$$'         `"""ss"$"$s""
+{D                             s$$$$$$$$$$,              `"""""$  .s$$s
+{D                             s$$$$$$$$$$$$s,...               `s$$'  `
+{D                         `ssss$$$$$$$$$$$$$$$$$$$${y####{Ds.     .$$"$.   , s-
+{D                           `""""$$$$$$$$$$$$$$$$$$$${y#####{D$$$$$$"     $.$'
+{D                                 "$$$$$$$$$$$$$$$$$$$$${y####{Ds""     .$$$|
+{D                                  "$$$$$$$$$$$$$$$$$$$$$$$${y##{Ds    .$$" $
+{D                                   $$""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"   `
+{D                                  $$"  "$"$$$$$$$$$$$$$$$$$$$$S""""'
+{D                             ,   ,"     '  $$$$$$$$$$$$$$$${y####{Ds
+{D                             $.          .s$$$$$$$$$$$$$$$$${y####{D"
+{D                 ,           "$s.   ..ssS$$$$$$$$$$$$$$$$$$${y####{D"
+{D                 $           .$$$S$$$$$$$$$$$$$$$$$$$$$$$${y#####{D"
+{D                 Ss     ..sS$$$$$$$$$$$$$$$$$$$$$$$$$$${y######{D""
+{D                  "$$sS$$$$$$$$$$$$$$$$$$$$$$$$$$${y########{D"
+{D           ,      s$$$$$$$$$$$$$$$$$$$$$$$${y#########{D""'
+{D           $    s$$$$$$$$$$$$$$$$$$$$${y#######{D""'      s'         ,
+{D           $$..$$$$$$$$$$$$$$$$$${y######{D"'       ....,$$....    ,$
+{D            "$$$$$$$$$$$$$$${y######{D"' ,     .sS$$$$$$$$$$$$$$$$s$$
+{D              $$$$$$$$$$$${y#####{D"     $, .s$$$$$$$$$$$$$$$$$$$$$$$$s.
+{R   ) {D         $$$$$$$$$$${y#####{D'      `$$$$$$$$${y###########{D$$$$$$$$$$$.
+{R  ((        {D  $$$$$$$$$$${y#####{D       $$$$$$$${y###{D"       "{y####{D$$$$$$$$$$
+{R  ) \    {D     $$$$$$$$$$$${y####{D.     $$$$$${y###{D"             "{y###{D$$$$$$$$$   s'
+{R (   )     {D   $$$$$$$$$$$$${y####{D.   $$$$${y###{D"                {y####{D$$$$$$$$s$$'
+{R )  ( (     {D  $$"$$$$$$$$$$${y#####{D.$$$$${y###{D'                .{y###{D$$$$$$$$$$"
+{R (  )  )  {D _,$"   $$$$$$$$$$$${y######{D.$${y##{D'                .{y###{D$$$$$$$$$$
+{R ) (  ( \.   {D      "$$$$$$$$$$$$${y#######{D,,,.          ..{y####{D$$$$$$$$$$$"
+{R(   ){D${R )  )      {D  ,$$$$$$$$$$$$$$$$$${y####################{D$$$$$$$$$$$"
+{R(   ({D$$ {R ( \  {D   _sS"  `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$S$$,
+{R )  ){D$$$s {R) ) {D .      .   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"'  `$$
+{R  (   {D$$$Ss{R/{D  .$,    .$,,s$$$$$${y##{DS$$$$$$$$$$$$$$$$$$$$$$$$S""        '
+{R    \){D_$$$$$$$$$$$$$$$$$$$$$$${y##{D"  $$        `$$.        `$$.
+{D        `"S$$$$$$$$$$$$$$$$${y#{D"      $          `$          `$
+{D            `"""""""""""""'         '           '           '{x
+~
+0 128 2
+D1
+~
+~
+0 0 8298
+D2
+~
+~
+0 0 8101
+D5
+~
+~
+0 0 3014
+S
+#8101
+Notes~
+{x
+1. Syntax: addapply [type] [location] [#xmod] [bitvector]
+ {x
+2. NEVER EVER GIVE A LEVEL 90 A EXP MOB!!!!!!!
+ {x
+3. NEVER EVER SET A CHARACTER!!!!!
+ {x
+4. If you make a mistake, wait for the 109+ Immortals for possible solutions
+{x
+5. Tas, Tien, Rache, are ALWAYS! right no exception
+{x
+6. Don't help Bogy's Website it's unhealthy
+{x
+7. Don't ask Rache for help with Building
+{x
+8. NEVER EVER, Play mud when Drunk!
+{x
+9. Two warnings is enough, if they don't stop then slay
+{x
+10. Don't load the Absinthe Fountain at Market Square
+{x
+11. Don't involve mortals when playing with clan's
+{x
+12. Do Not use Foul Language, where all mortals can see
+{x
+~
+0 132 0
+D0
+~
+~
+0 0 8100
+S
+#8102
+Entrance~
+~
+0 65536 0
+D5
+~
+~
+0 0 8103
+S
+#8103
+hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8107
+D4
+~
+~
+0 0 8102
+S
+#8104
+{x~
+~
+0 65540 0
+S
+#8105
+{x~
+~
+0 65540 3
+S
+#8106
+hallway~
+~
+0 65536 0
+D3
+~
+~
+0 0 8103
+S
+#8107
+hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8103
+D2
+~
+~
+0 0 8108
+D3
+~
+~
+0 0 8111
+S
+#8108
+Hallway~
+~
+0 65536 0
+D0
+~
+~
+0 0 8107
+S
+#8109
+Amidst The Shadow~
+~
+0 65540 5
+S
+#8110
+Hallway~
+~
+0 65540 0
+S
+#8111
+Hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8112
+S
+#8112
+Hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8111
+D3
+~
+~
+0 0 8113
+S
+#8113
+Hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8112
+D3
+~
+~
+0 0 8114
+S
+#8114
+Hallway~
+~
+0 65536 0
+D1
+~
+~
+0 0 8113
+D2
+~
+~
+0 0 8115
+S
+#8115
+Hallway~
+~
+0 65536 0
+D0
+~
+~
+0 0 8114
+D2
+~
+~
+0 0 8116
+S
+#8116
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 8115
+S
+#8117
+{x~
+~
+0 4 0
+S
+#8118
+{x~
+~
+0 4 0
+S
+#8119
+{x~
+~
+0 4 0
+S
+#8123
+Hallway~
+~
+0 4 0
+S
+#8124
+Hallway~
+~
+0 4 0
+S
+#8125
+Hallway~
+~
+0 4 0
+S
+#8130
+maze~
+testing maze
+~
+0 0 0
+D0
+~
+~
+0 0 8130
+D1
+~
+~
+0 0 8130
+D2
+~
+~
+0 0 8131
+D3
+~
+~
+0 0 8130
+D4
+~
+~
+0 0 8130
+D5
+~
+~
+0 0 8130
+S
+#8131
+maze~
+testing maze
+~
+0 0 0
+D0
+~
+~
+0 0 8131
+D1
+~
+~
+0 0 8130
+D2
+~
+~
+0 0 8130
+D3
+~
+~
+0 0 8131
+D4
+~
+~
+0 0 8130
+D5
+~
+~
+0 0 8132
+S
+#8132
+maze~
+testing maze
+~
+0 0 0
+D0
+~
+~
+0 0 8132
+D1
+~
+~
+0 0 8130
+D2
+~
+~
+0 0 8130
+D3
+~
+~
+0 0 8131
+D4
+~
+~
+0 0 8132
+D5
+~
+~
+0 0 8133
+S
+#8133
+maze~
+testing maze
+~
+0 0 0
+D1
+~
+~
+0 0 8130
+D3
+~
+~
+0 0 8133
+S
+#8134
+maze~
+testing maze
+~
+0 4 0
+S
+#8144
+Amidst The Shadow~
+~
+0 0 0
+D1
+~
+~
+0 0 8146
+D2
+~
+~
+0 0 8147
+S
+#8145
+Amidst The Shadow~
+~
+0 0 0
+D2
+~
+~
+0 0 8146
+S
+#8146
+Amidst The Shadow~
+~
+0 0 0
+D0
+~
+~
+0 0 8145
+D2
+~
+~
+0 0 8148
+D3
+~
+~
+0 0 8144
+S
+#8147
+Amidst The Shadow~
+~
+0 0 0
+D0
+~
+~
+0 0 8144
+D1
+~
+~
+0 0 8148
+D2
+~
+~
+0 0 8150
+S
+#8148
+Amidst The Shadow~
+~
+0 0 0
+D0
+~
+~
+0 0 8146
+D2
+~
+~
+0 0 8149
+D3
+~
+~
+0 0 8147
+S
+#8149
+Amidst The Shadow~
+~
+0 0 0
+D0
+~
+~
+0 0 8148
+D3
+~
+~
+0 0 8150
+S
+#8150
+Amidst The Shadow~
+~
+0 0 0
+D0
+~
+~
+0 0 8147
+D1
+~
+~
+0 0 8149
+S
+#8151
+Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 8164
+S
+#8155
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 8156
+D2
+~
+~
+0 0 8168
+S
+#8156
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 8157
+D3
+~
+~
+0 0 8155
+S
+#8157
+tower~
+~
+0 0 0
+D3
+~
+~
+0 0 8156
+D4
+~
+~
+0 0 8158
+S
+#8158
+tower~
+~
+0 0 0
+D4
+~
+~
+0 0 8159
+D5
+~
+~
+0 0 8157
+S
+#8159
+tower~
+~
+0 0 0
+D4
+~
+~
+0 0 8160
+D5
+~
+~
+0 0 8158
+S
+#8160
+tower~
+~
+0 0 0
+D4
+~
+~
+0 0 8161
+D5
+~
+~
+0 0 8159
+S
+#8161
+tower~
+~
+0 0 0
+D4
+~
+~
+0 0 8162
+D5
+~
+~
+0 0 8160
+S
+#8162
+tower~
+~
+0 0 0
+D4
+~
+~
+0 0 8163
+D5
+~
+~
+0 0 8161
+S
+#8163
+tower~
+~
+0 0 0
+D1
+~
+~
+0 0 8169
+D5
+~
+~
+0 0 8162
+S
+#8164
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 8151
+D1
+~
+~
+0 0 8165
+S
+#8165
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 8166
+D3
+~
+~
+0 0 8164
+S
+#8166
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 8167
+D3
+~
+~
+0 0 8165
+S
+#8167
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 8168
+D3
+~
+~
+0 0 8166
+S
+#8168
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 8155
+D3
+~
+~
+0 0 8167
+S
+#8169
+Boss Room~
+~
+0 0 0
+D3
+~
+~
+0 0 8163
+S
+#0
+
+
+
+#SPECIALS
+M 8100 spec_questmaster Load to: {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+M 8101 spec_questmaster Load to: Kintax is helping 
+M 8107 spec_breath_lightning Load to: {DD{Wr{Ca{Wc{Di{Wa{Cn {WThe {yD{Wr{ya{Wg{yo{Wn {BG{buar{Bd{x
+S
+
+
+
+#RESETS
+M 0 8100 2 8298 1 *Load {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+M 0 8100 2 8100 1 *Load {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8135 0 *{!m{5a{1g{%n{!i{5'{!s {7faith in {!might{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8134 0 *{$m{4i{$d{4g{$a{4r{$d {@serpents {7faith in {@po{2is{@on{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8133 0 *{^m{8o{6d{&i{6'{8s {7faith in {^wr{8a{^th{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8132 0 *{1f{8e{1nr{8i{1r's {7faith in {!d{1e{8st{!r{1u{8ct{!i{1o{8n{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8131 0 *{^s{6if'{^s {7faith of the {$s{4h{8ie{7l{&d{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8130 0 *{@l{8o{2k{8i'{@s {7faith in {@g{2u{2i{@le{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8129 0 *{!h{1el's {7faith of {8the dead{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8128 0 *{&o{7di{&n's {7faith in {&c{7r{8e{8a{2t{2i{@o{@n{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8127 0 *{$th{#o{$r's {7faith in {#t{3h{#u{3n{#d{3e{#r{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8126 0 *A {dgray {wpotion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8125 0 *A {rred{w potion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8124 0 *A {mpurple {wpotion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8123 0 *A {ggreen {wpotion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8122 0 *A {bblue{w potion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8121 0 *A {yyellow {wpotion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+G 0 8120 0 *A {wwhite {wpotion of {dd{wr{ca{wc{di{wa{cn{x is given to {DD{Wr{Ca{Wc{Di{Wa{Cn{x
+O 0 8101 0 8100 *The {di{wr{do{wn {yh{yea{wl{yin{yg {cs{ca{wu{cn{ca{x loaded to {DP{Wa{Ce{Wr{Di{Wo{Cq{W's {DD{Wo{Cm{Wa{Di{Wn{x
+O 0 8100 0 8100 *{ce{cl{we{wg{wa{cn{ct {wf{wou{ynt{wai{wn{x loaded to {DP{Wa{Ce{Wr{Di{Wo{Cq{W's {DD{Wo{Cm{Wa{Di{Wn{x
+M 0 8145 10 8109 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8109 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8109 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8109 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8144 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8144 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8144 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8144 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8145 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8145 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8145 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8145 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8146 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8146 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8146 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8146 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8147 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8147 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8147 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8147 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8148 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8148 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8148 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8148 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8149 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8149 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8149 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8149 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+M 0 8145 10 8150 1 *Load A {BP{bes{Btil{benc{Be {BD{bemo{Bn{x
+M 0 8109 10 8150 1 *Load A {YF{yir{Ye {YD{yemo{Yn{x
+M 0 8105 10 8150 1 *Load A {RC{rhao{Rs {RD{remo{Rn{x
+M 0 8104 10 8150 1 *Load A {DP{Wai{Dn {DD{Wemo{Dn{x
+S
+
+
+
+#SHOPS
+8100 9 10 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#8100
+Bow $n
+smile $n
+say Welcome $n, Paerioq will be with you in a moment, please feel free to relax and have a drink.
+smile
+~
+#0
+
+#$

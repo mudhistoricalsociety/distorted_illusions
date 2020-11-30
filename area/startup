@@ -1,0 +1,55 @@
+#! /bin/csh
+
+set areapath = /home/digaaz/rot/area
+set port = 6069
+set wwwport = 6071
+
+cd $areapath
+
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    # change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	set logfile = ../log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Copy rot binary from bin directory.
+    # after a compile, place the new binary in the bin directory,
+    # this way a reboot will install the new binary, instead of
+    # of having to shut down.
+#    rm -f ./rot
+#    cp ../src/rot .
+    
+    # Get a list of rot processes currently running
+    # This will be necessary to keep the script from trying to run rot
+    # every 20 seconds and creating excess logfiles.
+    set procs = (`/bin/ps ax | grep "rot $port"`)
+    
+    # In order to keep the grep we just ran from giving a false
+    # positive, we check the 5th argument to see if it is the rot
+    # process that we ran and not grep.
+    # We use the 5th element because on the format of 'ps ax'
+    if ( $#procs >= 5 ) then
+       set command = "$procs[5]"
+    else
+       set command = "BLARG!"
+    endif
+   
+    if ( "$command" != '../src/rot' ) then
+        # Run rot.
+        ../src/rot $port $wwwport >&! $logfile
+    endif
+    
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 20
+end
+

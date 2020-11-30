@@ -1,0 +1,43 @@
+[{wDusk        {B] {ySep  4: {wNeed to look at and adjust our rerolling printouts
+[{wDusk        {B] {ySep  4: {wContact me if don't know what I mean by this.
+[{wDusk        {B] {ySep  4: {wtocode add At 2nd tier, when type reroll switch, says requires 3k aqp, its only 200.
+[{wDusk        {B] {ySep  4: {wKeep most functions same through rerolling I/E Scroll level. 
+[{wDusk        {B] {ySep  4: {wYou set scroll to 0 tier 1, reroll, have to do it again each and everytime
+[{wDusk        {B] {ySep 16: {wadd auction stop all to copyover
+[{wBree        {B] {ySep 17: {wbrowse for shop keeps
+[{wBree        {B] {ySep 18: {wchange god at 2nd tier and 3rd, and at Urd
+[{wFesdor      {B] {yJan  1: {wcheck tables for alloc_mem and alloc_perm
+[{wFesdor      {B] {yJan  3: {wdoorbashing
+[{wFesdor      {B] {yJan  7: {winsomnia??
+[{wFesdor      {B] {yJan 10: {wiron has no real help file, flesh takes for ever because of the body part issue, the animates spells won't allow you to do it more like you can't animate skeleton, animate corpse and mummify corpse to have 3 charmies
+[{wFesdor      {B] {yJan 16: {wreduced lag for staves/scrolls/wands to magic users
+[{wFesdor      {B] {yJan 16: {wfix reroll switch confirmation
+[{wFesdor      {B] {yJan 21: {wadvanced magic colors?
+[{wFesdor      {B] {yJan 22: {wNo more stacking open palm onto vital hit.  Continue operation "nerf monks without them knowing it"
+[{wFesdor      {B] {yJan 26: {wquest buy re-evolve?
+[{wFesdor      {B] {yJan 27: {wCheck "not enough wealth" for math issues
+[{wFesdor      {B] {yFeb  2: {wconjurable mobs in-combat for conjurer
+[{wFesdor      {B] {yFeb  6: {wMobs needs to ignore ghost flags entirely
+[{wFesdor      {B] {yFeb  6: {wcross-noob voodooing issues?
+[{wFesdor      {B] {yFeb  9: {wRepair by replacing the item with a new copy.
+[{wFesdor      {B] {yFeb 10: {wPercent-scaleable resist/vulns.  GOOD FUCKING LUCK FESDOR
+[{wFesdor      {B] {yFeb 11: {wMake tanners auto-convert corpses into bags
+[{wFesdor      {B] {yFeb 11: {wLet voodans channel a spell into a doll and use it on the person anywhere, destroys the doll.
+[{wFesdor      {B] {yFeb 12: {wchange default scroll to 50
+[{wFesdor      {B] {yFeb 13: {wFork!
+[{wFesdor      {B] {yFeb 13: {wentity affects
+[{wFesdor      {B] {yFeb 13: {wFix spells not putting you "in combat" when assisting like unite, etc.
+[{wFesdor      {B] {yFeb 17: {wretreat skill that lets you choose your flee direction
+[{wFesdor      {B] {yFeb 19: {wfix iceward so it can be used in combat
+[{wBree        {B] {yApr  4: {wmake age affect mage spells
+[{wBree        {B] {yApr  4: {wweapon flag for sucking MOVES
+[{wBree        {B] {yApr  7: {wbard claw hit more
+[{wBree        {B] {yApr  7: {wbard rage song look at
+[{wBree        {B] {yApr  7: {wresist blind
+[{wBree        {B] {yApr  7: {wsoul blast up for voodoo
+[{wBree        {B] {yApr  7: {wwizeye chronos mage check
+[{wBree        {B] {yApr  7: {wsaint voodan alch for resist blind
+[{wBree        {B] {yApr 16: {wremove check in backstab/ambush They can still stt you!
+[{wBree        {B] {yMay  8: {wpet only frenzy
+[{wBree        {B] {yMay 13: {wlower immunity poi to resits for monk and lose the resist negative/holy
+[{wBree        {B] {yMay 23: {wallow giants to use a two hander as a one hanger

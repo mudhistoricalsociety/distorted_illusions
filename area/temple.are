@@ -1,0 +1,1104 @@
+#AREADATA
+Name Sahuagin Temple~
+Builders None~
+VNUMs 10600 10699
+Continent 1
+Credits {y[{D50--80{y]{c Shayla   {RSahuagin Temple{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#10600
+seawolf sea wolf~
+a seawolf~
+A sea wolf swims around here.
+~
+It looks almost exactly like a sea lion.
+~
+wolf~
+AB Z 0 -1000 0
+80 0 15d10+1850 10d10+100 4d8+13 none
+-13 -13 -13 -9
+FH 0 0 0
+stand stand male 2000
+AGV ABCDEFJKQV medium unknown
+M DEATH 10600 100~
+#10601
+dragon turtle~
+a dragon turtle~
+A dragon turtle swims around here.
+~
+It is a dragon that strongly resembles a large sea turtle.
+~
+dragon~
+AB JT 0 -1000 0
+80 0 15d10+1850 10d10+100 4d8+13 none
+-13 -13 -13 -9
+0 0 BEH FI
+stand stand male 2000
+AHVZ ABCDEFGHIJKPQUVX medium unknown
+M DEATH 10600 100~
+#10602
+sea nymph~
+a sea nymph~
+A sea nymph swims around here.
+~
+This a beautiful creature with sea green hair and grey eyes.
+~
+human~
+AB 0 0 -1000 0
+82 0 25d10+2000 10d10+100 4d8+14 none
+-14 -14 -14 -10
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10603
+whale~
+a whale~
+A whale is swimming around here.
+~
+You have seen a whale before.
+~
+human~
+AB 0 0 -1000 0
+82 0 25d10+2000 10d10+100 4d8+14 none
+-14 -14 -14 -10
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10604
+giant crab~
+a giant crab~
+A giant crab crawls around looking for food.
+~
+It's big. It's a crab.
+~
+human~
+AB 0 0 -1000 0
+84 0 25d10+2250 10d10+100 3d12+14 none
+-14 -14 -14 -10
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10605
+giant squid~
+a giant squid~
+A giant squid swims around here.
+~
+It's gigantic. It's a squid. It's a gigantic squid.
+~
+human~
+AB 0 0 -1000 0
+84 0 25d10+2250 10d10+100 3d12+14 none
+-14 -14 -14 -10
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10606
+sea snake~
+a sea snake~
+A sea snake swims around here.
+~
+We all know what snakes look like.
+~
+snake~
+AB 0 0 -1000 0
+86 0 25d10+2500 10d10+100 3d12+15 none
+-15 -15 -15 -11
+0 0 L I
+stand stand male 2000
+AGVXYc ABCDEFKLQVX medium unknown
+M DEATH 10600 100~
+#10607
+marine eel~
+a marine eel~
+A marine eel swims around here.
+~
+*gasp* He looks just like the snake. Go figure.
+~
+snake~
+AB 0 0 -1000 0
+86 0 25d10+2500 10d10+100 3d12+15 none
+-15 -15 -15 -11
+0 0 L I
+stand stand male 2000
+AGVXYc ABCDEFKLQVX medium unknown
+M DEATH 10600 100~
+#10608
+giant sea spider~
+a giant sea spider~
+A giant sea spider floats around here.
+~
+It's a spider that can swim. EEK!
+~
+human~
+AB 0 0 -1000 0
+88 0 25d10+2750 10d10+100 8d4+15 none
+-15 -15 -15 -11
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10609
+merman~
+a merman~
+A merman swims by you.
+~
+Didn't you ever see Splash? Pretend it was a guy.
+~
+human~
+AB 0 0 -1000 0
+90 0 25d10+3000 10d10+100 8d4+16 none
+-15 -15 -15 -11
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10610
+sahuagin warrior~
+a sahuagin warrior~
+A sahuagin warrior stands here looking for trouble.
+~
+Three words: big ugly lizard. 'Nuff said.
+~
+human~
+AB 0 0 -1000 0
+96 0 25d10+3750 10d10+100 6d6+18 none
+-18 -18 -18 -14
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10611
+sahuagin chieftain~
+a sahuagin chieftain~
+A sahuagin chieftain is here looking for his troops.
+~
+Three words: Big uglier lizard. More that enough said.
+~
+human~
+AB 0 0 -1000 0
+100 0 50d10+4500 10d10+100 5d8+19 none
+-20 -20 -20 -16
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#10612
+sahuagin lieutenant~
+a sahuagin lieutenant~
+A sahuagin lieutenant is here hiding from his boss.
+~
+He is not quite as a big as the chieftain, but damn close.
+~
+human~
+AB 0 0 -1000 0
+98 0 50d10+4000 10d10+100 4d10+18 none
+-19 -19 -19 -15
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10613
+priestess~
+a priestess~
+A priestess is here praying to her god.
+~
+While not as big as her mail counterparts, she still does not look like 
+someone
+you would want to mess with.
+~
+human~
+AB 0 0 -1000 0
+100 0 50d10+4500 10d10+100 5d8+19 none
+-20 -20 -20 -16
+0 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10614
+lesser cleric~
+a lesser cleric~
+A lesser cleric is here practicing her spells.
+~
+Man! Is she taking mean lessons from the priestess?
+~
+human~
+AB 0 0 -1000 0
+98 0 50d10+4000 10d10+100 4d10+18 none
+-19 -19 -19 -15
+0 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10615
+shark~
+a shark~
+A shark swims around here looking for food.
+~
+EEK! It's a shark. RUN AWAY!
+~
+human~
+AB 0 0 -1000 0
+88 0 25d10+2750 10d10+100 8d4+15 none
+-15 -15 -15 -11
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10616
+marine eel~
+a marine eel~
+A marine eel swims around here.
+~
+I already told you, it looks like a snake.
+~
+snake~
+AB 0 0 -1000 0
+90 0 25d10+3000 10d10+100 8d4+16 none
+-15 -15 -15 -11
+0 0 L I
+stand stand male 2000
+AGVXYc ABCDEFKLQVX medium unknown
+M DEATH 10600 100~
+#10617
+merman~
+a merman~
+A merman swims around here.
+~
+RERUN!
+~
+human~
+AB 0 0 -1000 0
+96 0 25d10+3750 10d10+100 6d6+18 none
+-18 -18 -18 -14
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10618
+sahuagin warrior~
+a sahuagin warrior~
+A sahuagin warrior stands here looking for a fight.
+~
+Ditto on the last warrior.
+~
+human~
+AB 0 0 -1000 0
+94 0 25d10+3500 10d10+100 6d6+17 none
+-17 -17 -17 -13
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10619
+sea elf~
+a sea elf~
+A sea elf treads water in a corner.
+~
+An elf with gills, how... charming.
+~
+elf~
+AB J 0 -1000 0
+94 0 25d10+3500 10d10+100 6d6+17 none
+-17 -17 -17 -13
+0 B 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10620
+human~
+a human~
+A human struggles for breath.
+~
+Look in the mirror silly!
+~
+human~
+AB 0 0 -1000 0
+92 0 25d10+3250 10d10+100 6d6+16 none
+-16 -16 -16 -12
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#10621
+nymph~
+a nymph~
+A nymph is here looking for an escape.
+~
+Vaguely human in form, but a bit smaller.
+~
+human~
+AB 0 0 -1000 0
+92 0 25d10+3250 10d10+100 6d6+16 none
+-16 -16 -16 -12
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 10600 100~
+#0
+
+
+
+#OBJECTS
+#10600
+key~
+a key~
+A key lies here collecting rust.~
+steel~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#10601
+trident~
+a trident~
+A finely crafted trident lies here.~
+steel~
+weapon 0 AN
+dagger 4 33 pierce 0
+65 20 10000 P
+A
+19 8
+A
+18 7
+#10602
+spear~
+a spear~
+A nice spear lies here.~
+steel~
+weapon 0 AN
+staff 3 43 stab 0
+65 15 10000 P
+A
+1 1
+A
+18 10
+A
+19 8
+A
+13 30
+#10603
+crossbow~
+a crossbow~
+A crossbow lies here.~
+wood~
+weapon 0 AN
+exotic 4 34 grep 0
+65 20 10000 P
+A
+19 4
+#10604
+broadsword~
+a broadsword~
+A broadsword lies here.~
+steel~
+weapon 0 AN
+sword 14 8 slash 0
+60 20 10000 P
+A
+19 9
+#10605
+holy symbol~
+a holy symbol~
+A holy symbol is here radiating peace.~
+steel~
+armor 0 AO
+CD CD CD CD 0
+65 10 10000 P
+A
+4 2
+A
+13 80
+A
+19 4
+#10606
+beans jelly coins~
+a big pile of coins~
+A GIGANTIC pile of coins lies here.~
+silver~
+money 0 A
+EIJKN 0 0 0 0
+15 0 0 P
+#0
+
+
+
+#ROOMS
+#10600
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D1
+~
+~
+0 -1 10601
+D2
+~
+~
+0 -1 10607
+D4
+~
+~
+0 0 9796
+S
+#10601
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D1
+~
+~
+0 -1 10602
+D2
+~
+~
+0 -1 10606
+D3
+~
+~
+0 -1 10600
+S
+#10602
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D1
+~
+~
+0 -1 10603
+D2
+~
+~
+0 -1 10605
+D3
+~
+~
+0 -1 10601
+S
+#10603
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D2
+~
+~
+0 0 10604
+D3
+~
+~
+0 -1 10602
+S
+#10604
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10603
+D2
+~
+~
+0 -1 10611
+D3
+~
+~
+0 -1 10605
+S
+#10605
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10602
+D1
+~
+~
+0 -1 10604
+D2
+~
+~
+0 -1 10610
+D3
+~
+~
+0 -1 10606
+S
+#10606
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10601
+D1
+~
+~
+0 -1 10605
+D2
+~
+~
+0 -1 10609
+D3
+~
+~
+0 -1 10607
+S
+#10607
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10600
+D1
+~
+~
+0 -1 10606
+D2
+~
+~
+0 -1 10608
+S
+#10608
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10607
+D1
+~
+~
+0 -1 10609
+S
+#10609
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10606
+D1
+~
+~
+0 -1 10610
+D3
+~
+~
+0 -1 10608
+S
+#10610
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10605
+D1
+~
+~
+0 -1 10611
+D3
+~
+~
+0 -1 10609
+S
+#10611
+Ocean~
+Cool deep blue water surrounds you as you swim around in the ocean. You see
+several small schools of fish pick up their speed when they see you. Even
+THEY know people do not belong in the ocean. Oh well, hope you brought your
+scuba tank.
+~
+0 8 7
+D0
+~
+~
+0 -1 10604
+D1
+~
+~
+0 -1 10612
+D3
+~
+~
+0 -1 10610
+S
+#10612
+The Altar Room~
+THis 100X70 room is dominated by the huge altar at the far end. There is a
+double row of pillars stretching down the center of the room. There are no
+benches or other furnishings in this room.
+~
+0 8 7
+D1
+~
+~
+0 -1 10613
+D3
+~
+~
+0 -1 10611
+S
+#10613
+Priest's Cloakroom~
+This 20X20 room was once used to hold the priest's ceremonial vestements. Now
+it is used as a cloak room for the sahuagin. It contains weapons and other
+ceremonial knives used to make scrifices to Halokes.
+~
+0 8 7
+D1
+~
+~
+0 -1 10614
+D3
+~
+~
+0 -1 10612
+S
+#10614
+Storage Room~
+This 10X10 rooms is used to store old and abused ceremonial items. By the
+layer of dust on most of the items it is apparent they have been storing it
+for quite a while.
+~
+0 8 7
+D2
+~
+~
+0 -1 10615
+D3
+~
+~
+0 -1 10613
+S
+#10615
+Shark Grotto~
+The back of this large room has been removed and a large opening has been dug
+out of the cavern wall. The priestess and her lesser clerics use this area to
+feed their shark companions.
+~
+0 8 7
+D0
+~
+~
+0 -1 10614
+D3
+~
+~
+0 -1 10616
+S
+#10616
+Treasure Room~
+This room is where the priestess and her two clerics have stashed the monetary
+treasure they have stripped of past sacrifices.
+~
+0 8 7
+D1
+~
+~
+0 -1 10615
+D4
+~
+~
+0 -1 10617
+S
+#10617
+Second Floor Hallway~
+This hallway stretches for the length of the second floor.
+~
+0 8 7
+D0
+~
+~
+0 -1 10628
+D2
+~
+~
+0 -1 10621
+D3
+~
+~
+0 -1 10618
+D5
+~
+~
+0 -1 10616
+S
+#10618
+Second Floor Hallway~
+This hallway stretches for the length of the second floor.
+~
+0 8 7
+D0
+~
+~
+0 -1 10627
+D1
+~
+~
+0 -1 10617
+D2
+~
+~
+0 -1 10622
+D3
+~
+~
+0 -1 10619
+S
+#10619
+Second Floor Hallway~
+This hallway stretches for the length of the second floor.
+~
+0 8 7
+D0
+~
+~
+0 -1 10626
+D1
+~
+~
+0 -1 10618
+D2
+~
+~
+0 -1 10623
+D3
+~
+~
+0 -1 10620
+S
+#10620
+Second Floor Hallway~
+This hallway stretches for the length of the second floor.
+~
+0 8 7
+D0
+~
+~
+0 -1 10625
+D1
+~
+~
+0 -1 10619
+D2
+~
+~
+0 -1 10624
+D3
+~
+~
+0 -1 10629
+S
+#10621
+Lesser Clerics' Quarters~
+This room used to house the intermediate level priests of the temple. In a
+way it still does. The lesser clerics of Halokes now make their abode in
+this room.
+~
+0 8 7
+D0
+~
+~
+0 -1 10617
+S
+#10622
+Store Room~
+This room is obviously used for storage. It contains 100 spare crossbow bolts,
+two heavy crossbows, six tridents, twelve spare nets, twenty-four spears,
+and several daggers.
+~
+0 8 7
+D0
+~
+~
+0 -1 10618
+S
+#10623
+Barracks~
+This room once housed low-level clerics of Manannan Mac Lir. It is now used
+as barracks for the normal sahuagin troops.
+~
+0 8 7
+D0
+~
+~
+0 -1 10619
+S
+#10624
+Barracks~
+This room once housed low-level clerics of Manannan Mac Lir. It is now used
+as barracks for the normal sahuagin troops.
+~
+0 8 7
+D0
+~
+~
+0 -1 10620
+S
+#10625
+Barracks~
+This room once housed low-level clerics of Manannan Mac Lir. It is now used
+as barracks for the normal sahuagin troops.
+~
+0 8 7
+D2
+~
+~
+0 -1 10620
+S
+#10626
+Barracks~
+This room once housed low-level clerics of Manannan Mac Lir. It is now used
+as barracks for the normal sahuagin troops.
+~
+0 8 7
+D2
+~
+~
+0 -1 10619
+S
+#10627
+Barracks~
+This room once housed low-level clerics of Manannan Mac Lir. It is now used
+as barracks for the normal sahuagin troops.
+~
+0 8 7
+D2
+~
+~
+0 -1 10618
+S
+#10628
+Lietenants' Quarters~
+At one time, this room housed the intermediate level priests of Manannan Mac
+Lir. Now it has been taken over by the sahuagin chief's three lieutenants.
+~
+0 8 7
+D2
+~
+~
+0 -1 10617
+S
+#10629
+Staircase Up~
+This spiral stairway leads up to the next level of the temple. The stairwell
+is full of water (of course).
+~
+0 8 7
+D1
+~
+~
+0 -1 10620
+D4
+~
+~
+0 -1 10630
+S
+#10630
+The Chieftains's Quarters~
+This room is hung with bolts of rich cloth looted from merchent vessels. The
+drapery move languidly in the water currents.
+~
+0 8 7
+D0
+~
+~
+1 0 41093
+D2
+~
+~
+0 -1 10631
+D3
+~
+~
+0 -1 10632
+D5
+~
+~
+0 0 10629
+S
+#10631
+The Priestess's Quarters~
+This room is identical in size the the chieftain's room. It is decorated in a
+much more austere manner, however. There are no adornments of any kind in the
+room except for a small shrine to Halokes.
+~
+0 8 7
+D0
+~
+~
+0 -1 10630
+S
+#10632
+Main Meeting Room~
+This room was once the conference room where the clerics of Manannan Mac Lir
+made the administrative decisions affecting the temple.
+~
+0 8 7
+D1
+~
+~
+0 -1 10630
+D3
+~
+~
+2 10600 10633
+S
+#10633
+The Prison~
+This is a large room used for a prison. The ceiling has been raised, and a
+raised platform 12 feet high has been placed at the western part of the room.
+The top of the platform is about two feet above the water level in an air
+space designed to hold air breathing prisoners.
+~
+0 8 7
+D1
+~
+~
+0 -1 10632
+D3
+~
+~
+0 10600 10634
+S
+#10634
+Torture Chamber~
+This room is obviously used as a torture chamber. There are various intruments
+of torture scattered around the room, and ALL of them look like they would 
+hurt extremely bad.
+~
+0 8 7
+D1
+~
+~
+0 -1 10633
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 10630 0 1 The north door of The Chieftains's Quarters is closed
+D 0 10632 3 2 The west door of Main Meeting Room is closed and locked
+M 0 10600 1 10601 1 *Load a seawolf
+M 0 10602 1 10603 1 *Load a sea nymph
+M 0 10603 1 10604 1 *Load a whale
+M 0 10604 1 10605 1 *Load a giant crab
+M 0 10605 1 10606 1 *Load a giant squid
+M 0 10606 1 10607 1 *Load a sea snake
+M 0 10607 1 10608 1 *Load a marine eel
+M 0 10608 1 10609 1 *Load a giant sea spider
+M 0 10609 1 10610 1 *Load a merman
+E 0 10601 0 16 *A trident is loaded wielded of a merman
+M 0 10614 2 10612 1 *Load a lesser cleric
+E 0 10605 0 17 *A holy symbol is loaded held in the hands of a lesser cleric
+M 0 10610 1 10614 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10615 1 10615 1 *Load a shark
+O 0 10606 0 10616 *A big pile of coins loaded to Treasure Room
+M 0 10616 1 10617 1 *Load a marine eel
+M 0 10617 1 10619 1 *Load a merman
+M 0 10614 2 10621 1 *Load a lesser cleric
+E 0 10605 0 17 *A holy symbol is loaded held in the hands of a lesser cleric
+M 0 10618 5 10623 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10618 5 10624 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10618 5 10625 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10618 5 10626 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10618 5 10627 1 *Load a sahuagin warrior
+E 0 10602 0 16 *A spear is loaded wielded of a sahuagin warrior
+M 0 10612 1 10628 1 *Load a sahuagin lieutenant
+E 0 10603 0 16 *A crossbow is loaded wielded of a sahuagin lieutenant
+M 0 10611 1 10630 1 *Load a sahuagin chieftain
+E 0 10604 0 16 *A broadsword is loaded wielded of a sahuagin chieftain
+G 0 10600 0 *A key is given to a sahuagin chieftain
+M 0 10613 1 10631 1 *Load a priestess
+E 0 10605 0 17 *A holy symbol is loaded held in the hands of a priestess
+M 0 10620 1 10633 1 *Load a human
+M 0 10619 1 10633 1 *Load a sea elf
+M 0 10621 1 10634 1 *Load a nymph
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10600
+if level $n > 100
+mob echoat $n Your powerful blow destroys the corpse in one fell swoop!
+mob echoaround $n $n's powerful blow destroys the corpse in one fell swoop!
+mob purge $i
+~
+#0
+
+#$

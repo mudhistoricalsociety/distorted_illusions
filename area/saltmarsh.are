@@ -1,0 +1,1577 @@
+#AREADATA
+Name Saltmarsh~
+Builders None~
+VNUMs 7500 7599
+Continent 1
+Credits {y[{D50--70{y]{c Shayla   {RSaltmarsh{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#7500
+goblin~
+a goblin~
+A goblin is here waiting to attack.
+~
+He is a small creature standing only about three foot tall, but he looks
+meaner than hell.
+~
+goblin~
+ABF J 0 -1000 0
+70 100 10d10+1300 10d10+100 4d7+30 none
+-11 -11 -11 -8
+0 0 0 S
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7501
+giant rat~
+a giant rat~
+A giant rat is here waiting to eat you.
+~
+He looks like your ordinary, everday rat, just quite a bit larger.
+~
+dog~
+ABF J 0 -1000 0
+70 100 10d10+1300 10d10+100 4d7+30 scratch
+-11 -11 -11 -8
+H 0 0 0
+stand stand male 500
+AGV ABCDEFHJKUV medium unknown
+#7502
+giant weasel~
+a giant weasel~
+A giant weasel is here waiting for something, or rather someone to eat.
+~
+He looks like a large version of a cute little weasel, just quite a bit
+meaner.
+~
+dog~
+ABF J 0 -1000 0
+71 100 10d10+1300 10d10+100 4d7+30 none
+-11 -11 -11 -8
+H 0 0 0
+stand stand male 500
+AGV ABCDEFHJKUV medium unknown
+#7503
+giant ant~
+a giant ant~
+A giant ant is crawling around here.
+~
+It is a HUGE version of the creepy crawlies you detest.
+~
+centipede~
+ABF JZ 0 -1000 0
+71 100 10d10+1300 10d10+100 4d7+30 none
+-11 -11 -11 -8
+0 0 FI E
+stand stand male 500
+ABGOV ABCK medium unknown
+#7504
+smuggler~
+a smuggler~
+A dirty smuggler is standing here.
+~
+He is covered in dirt from head to toe. It is obvious he has not bathed in
+quite some time.
+~
+human~
+AB J 0 -1000 0
+72 100 10d10+1400 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7505
+lizard man~
+a lizard man~
+A lizard man is standing here.
+~
+He looks like a six foot tall lizard.
+~
+lizardman~
+ABF Jb 0 -1000 0
+72 100 10d10+1400 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKQ medium unknown
+#7506
+yellow mold~
+a yellow mold~
+A yellow mold is here stinking up the place.
+~
+It looks like mold. What exactly did you expect?
+~
+pixie~
+AB TZ B -1000 0
+73 100 10d10+1400 10d10+100 5d7+15 suction
+-12 -12 -12 -9
+0 0 FI E
+stand stand male 500
+ABGHMOV ABCDEFGHIJKP medium unknown
+#7507
+spider~
+a spider~
+A spider is here weaving a web.
+~
+You don't know what a spider looks like?
+~
+human~
+AB 0 0 -1000 0
+73 100 10d10+1400 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7508
+Denel~
+Denel~
+Denel is here looking for some way to escape.
+~
+He is a small man only standing about five foot tall and weighing no more
+than one hundred thirty pounds. Something about him tells you he is not
+to be trusted.
+~
+human~
+AB 0 0 -1000 0
+75 100 10d10+1500 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7509
+stirge~
+a stirge~
+A stirge is here waiting to drink your blood.
+~
+It looks like a cross between a mosquito and a bat.
+~
+human~
+ABF 0 0 -1000 0
+75 100 10d10+1500 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7510
+rot grub~
+a rot grub~
+A rot grub is here eating a corpse.
+~
+It looks like a regular grub worm.
+~
+human~
+AB Z 0 -1000 0
+74 100 10d10+1500 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 FI E
+stand stand male 500
+ABGHMOV ABCDEFGHIJK medium unknown
+#7511
+Sanaly~
+Sanaly~
+Sanaly is here yelling at the walls.
+~
+He is a grubby old smuggler.
+~
+human~
+AB 0 0 -1000 0
+77 100 10d10+1600 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7512
+skeleton~
+a skeleton~
+A skeleton is here.
+~
+It just looks like bones.
+~
+human~
+ABF 0 0 -1000 0
+76 100 10d10+1600 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7513
+green slime~
+a green slime~
+Green slime is here oozing down the walls.
+~
+It is just some nasty slime.
+~
+pig~
+AB Z 0 -1000 0
+73 100 10d10+1400 10d10+100 4d7+30 none
+-12 -12 -12 -9
+0 0 FI E
+stand stand male 500
+ABGOV ABCDEFHJK medium unknown
+#7514
+gnoll~
+a gnoll~
+A gnoll is here waiting for a little fun.
+~
+He is a tall creature, standing about seven foot tall. This could be a tough
+fight.
+~
+human~
+AB 0 0 -1000 0
+78 100 15d10+1700 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7515
+lizard man~
+a lizard man~
+A lizard man is standing here.
+~
+He looks like a seven foot tall lizard.
+~
+lizardman~
+AB b 0 -1000 0
+76 100 10d10+1600 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKQ medium unknown
+#7516
+Ketah~
+Ketah~
+Ketah is here hiding from his boss.
+~
+He is just another filthy old smuggler.
+~
+human~
+AB 0 0 -1000 0
+76 100 10d10+1600 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7517
+parrot~
+a parrot~
+A parrot is here sitting on a perch.
+~
+It is a parrot, you don't really expect me to describe it do you?
+~
+unique~
+AB J 0 -1000 0
+78 100 15d10+1700 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+V BC medium unknown
+#7518
+Ocean~
+Ocean~
+Ocean is here looking for something to do.
+~
+He is a tall scraggly man with no teeth.
+~
+human~
+AB 0 0 -1000 0
+77 100 10d10+1600 10d10+100 4d7+30 none
+-13 -13 -13 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7519
+Liw~
+Liw~
+Liw is here sharpening his dagger.
+~
+Boy is this guy UGLY. He has dirty brown hair covering his whole body.
+~
+human~
+AB 0 0 -1000 0
+79 100 15d10+1700 10d10+100 4d7+30 none
+-14 -14 -14 -11
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7520
+Moto~
+Moto~
+Moto is here looking for Liw.
+~
+You know the routine.
+
+~
+human~
+AB 0 0 -1000 0
+79 100 15d10+1700 10d10+100 4d7+30 none
+-14 -14 -14 -11
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7521
+Gurd~
+Gurd~
+Gurd is here mumbling something to himself.
+~
+He looks like the rest of the smugglers. Dirty.
+~
+human~
+AB 0 0 -1000 0
+80 100 15d10+1850 10d10+100 4d7+30 none
+-14 -14 -14 -11
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7522
+John~
+John~
+John is walking around here.
+~
+He is a smuggler just like the rest, although he keeps himself quite a bit
+better than the rest.
+~
+human~
+AB 0 0 -1000 0
+80 100 15d10+1850 10d10+100 4d7+30 none
+-14 -14 -14 -11
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#7523
+Sun~
+Sun~
+Sun is here staring at the ground.
+~
+He is just another scumbag.
+~
+human~
+AB 0 0 -1000 0
+80 100 15d10+1850 10d10+100 4d7+30 none
+-14 -14 -14 -11
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7500
+dagger cheap~
+a cheap dagger~
+A cheap dagger is lying here.~
+steel~
+weapon J AN
+dagger 4 37 pierce 0
+70 20 5000 P
+#7501
+corpse human~
+a human corpse~
+A human corpse, with a large gaping wound, is lying here.~
+nothingness~
+trash 0 0
+EIJKN AC ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+gaping wound~
+As you closely examine the gaping wound it looks like something has been 
+hastily stuffed inside.
+~
+#7502
+skull gold~
+a golden skull~
+A beautiful gold skull is lying here.~
+gold~
+treasure 0 A
+0 0 0 0 0
+70 20 10000 P
+#7503
+apple gold~
+a golden apple~
+A golden apple is lying here.~
+gold~
+treasure 0 A
+0 0 0 0 0
+70 20 10000 P
+#7504
+rose gold~
+a golden rose~
+A golden rose is lying here.~
+gold~
+treasure 0 A
+0 0 0 0 0
+70 20 10000 P
+#7505
+gold disc~
+a golden disc~
+A gold disc is lying here.~
+gold~
+treasure 0 A
+0 0 0 0 0
+70 20 10000 P
+#7506
+battleaxe~
+a finely crafted battleaxe~
+A battleaxe is lying here covered with fresh blood.~
+steel~
+weapon J AN
+axe 3 46 slash 0
+70 20 5000 P
+A
+19 12
+A
+18 12
+#7507
+shield buckler~
+a buckler~
+A buckler is lying here.~
+wood~
+armor J AJ
+E E E CD 0
+70 20 5000 P
+A
+17 -12
+#7508
+broadsword~
+a broadsword~
+A broadsword is lying here.~
+steel~
+weapon J AN
+sword 4 35 slash 0
+70 20 5000 P
+A
+18 10
+A
+19 10
+A
+2 -1
+#7509
+parrot wings~
+a set of colorful parrot wings~
+Some poor parrot seems to have left its wings here.~
+fur~
+armor J AD
+CD CD CD BD 0
+70 20 5000 P
+A
+17 -12
+A
+2 2
+#7510
+ear ring simple earring~
+an simple earring~
+An earring is lying here.~
+silver~
+armor 0 AS
+AD AD AD BC 0
+70 20 5000 P
+A
+13 90
+A
+17 -12
+#7511
+gold chain~
+a gold chain~
+A gold chain is lying here glistening on the ground.~
+gold~
+armor J AC
+AD AD AD BC 0
+70 20 5000 P
+A
+13 90
+A
+17 -12
+#7512
+gold ring~
+a shiny gold ring~
+A gold ring is lying here.~
+gold~
+armor 0 AB
+AD AD AD BC 0
+70 20 5000 P
+A
+13 90
+A
+17 -12
+#7513
+gold bracelet~
+an unadorned gold bracelet~
+An unadorned gold bracelet is lying here.~
+gold~
+armor J AM
+AD AD AD BC 0
+70 20 5000 P
+A
+13 90
+A
+17 -12
+#7514
+rusty suit chainmail~
+a rusty suit of chainmail~
+A rusty suit of chainmail is lying here.~
+steel~
+armor J AK
+E E E BCD 0
+70 20 5000 P
+A
+19 -3
+A
+17 -15
+#7515
+helmet~
+a battered helmet~
+A battered helmet is lying here.~
+steel~
+armor J AE
+ACD ACD ACD BD 0
+70 20 5000 P
+A
+13 120
+#7516
+leather armor~
+a weather-beaten suit of leather armor~
+A suit of leather armor is lying here.~
+soft leather~
+armor J AK
+ACD ACD ACD AD 0
+70 20 5000 P
+A
+13 110
+#7517
+crossbow~
+a powerful looking crossbow~
+A powerful looking crossbow is lying here.~
+wood~
+weapon J AN
+exotic 4 34 grep 0
+70 20 5000 P
+A
+18 14
+A
+19 8
+#7518
+falchion~
+a finely crafted falchion~
+A beautiful falchion is lying here.~
+steel~
+weapon J AN
+sword 4 34 slash 0
+70 20 5000 P
+A
+18 11
+A
+19 11
+A
+1 1
+#7519
+broad sword broadsword~
+a steel broadsword~
+A shiny steel broadsword is lying here.~
+steel~
+weapon J AN
+sword 4 35 slash 0
+70 20 5000 P
+A
+18 10
+A
+19 11
+A
+5 -1
+#7520
+hook~
+a hook~
+A hook is lying here freshly ripped from a pirates arm.~
+steel~
+weapon J AN
+sword 6 24 slash 0
+70 20 5000 P
+A
+19 6
+#7521
+short sword shortsword~
+a notched shortsword~
+A very well used shortsword is lying here.~
+steel~
+weapon J AN
+sword 10 14 slash 0
+70 20 5000 P
+A
+19 5
+#7522
+cloak~
+a tattered cloak~
+A tattered cloak is lying here.~
+cloth~
+armor J AD
+BD BD BD ABC 0
+70 20 5000 P
+A
+13 120
+#7523
+ring fury~
+a ring of fury~
+A ring is lying here seething with hate.~
+silver~
+armor J AB
+ABC ABC D BC 0
+70 20 5000 P
+A
+13 80
+A
+18 2
+A
+19 2
+#7524
+spear~
+a crude spear~
+A crude spear is lying here.~
+steel~
+weapon J AN
+dagger 2 67 pierce 0
+70 20 5000 P
+A
+1 1
+A
+19 20
+A
+5 3
+A
+18 -15
+#7592
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#7500
+Entrance Hall~
+The front door opens into a musty, dirty entrance hall. All of the walls
+are bare, but some pieces of wood in the corner indicate that a small
+wooden table once stood here. North will take you to the dining room,
+east will take you to a living area, and west will take you to the
+library.
+~
+0 8 0
+D0
+~
+~
+0 0 7506
+D1
+~
+~
+0 0 7504
+D3
+~
+~
+0 0 7501
+S
+#7501
+Library~
+You can tell that his room was once a library, with bookshelves around the
+walls. Most of the bookshelves are broken now and in many places have come
+away from the wall altogether. North will take you to the study, east will
+take you back to the entrance hall, and west will take you to a living area.
+~
+0 8 0
+D0
+~
+~
+0 0 7502
+D1
+~
+~
+0 0 7500
+D3
+~
+~
+0 0 7503
+S
+#7502
+Study~
+This room was once a writing room or a study. Against the wall under the
+windows is a large wooden writing desk partially broken and riddled with damp
+rot. South leads back to the library.
+~
+0 8 0
+D2
+~
+~
+0 0 7501
+S
+#7503
+Living Area I~
+This room is completely bare except for the tufts of weeds that have cracked
+their way through the floor. East leads back to the library.
+~
+0 8 0
+D1
+~
+~
+0 0 7501
+S
+#7504
+Living Area II~
+This room is completely bare except for the tufts of weeds that have cracked
+their way through the floor. East leads to another living area and west leads
+back to the entrance hall.
+~
+0 8 0
+D1
+~
+~
+0 0 7505
+D3
+~
+~
+0 0 7500
+S
+#7505
+Living Area III~
+This room is completely bare except for the tufts of weeds that have cracked
+their way through the floor. West leads back to another living area.
+~
+0 8 0
+D3
+~
+~
+0 0 7504
+S
+#7506
+Dining Room~
+At one time a long table stood in the center of the room, now it lies broken
+on the floor. A broken chair stands against the wall between the windows, and
+a heap of broken china lays in the corner. North leads to the kitchen, east
+leads to the withdrawing room, and south leads back to the entrance hall.
+~
+0 8 0
+D0
+~
+~
+0 0 7508
+D1
+~
+~
+0 0 7507
+D2
+~
+~
+0 0 7500
+S
+#7507
+Withdrawing Room~
+Two stuffed armchairs sit near the fireplace of this room. The covers of both
+have been torn or cut and the stuffing has been pulled out; however, the
+
+wooden frames remain intact. North will take you to the scullery and west
+will take you to the dining room.
+~
+0 8 0
+D0
+~
+~
+0 0 7509
+D3
+~
+~
+0 0 7506
+S
+#7508
+Kitchen~
+This was obviously a kitchen. It is dirty and damp, with patches of grey mold
+and a few cobwebs on the floor, walls, and ceiling. In a corner is some iron
+cooking equipment with a chimney above. Next to it, under the window, is a
+cracked and discolored stone sink. East takes you to the scullery, south takes
+you to the dining room, and west takes you to a bedroom.
+~
+0 8 0
+D1
+~
+~
+0 0 7509
+D2
+~
+~
+0 0 7506
+D3
+~
+~
+0 0 7510
+S
+#7509
+Scullery~
+This room has suffered the effects of damp and decay more than most in the
+house. Mold grows in patches on the floor, walls, and ceiling; there are 
+many cobwebs, though even these seem to be decaying. A large copper boiler,
+dented, split, discolored, and empty, stands under the window; a small heap 
+of crockery shards is on the floor beside it. North and east lead to bedrooms,
+
+south leads to the withdrawing room, and west leads to the kitchen.
+~
+0 8 0
+D0
+~
+~
+0 0 7515
+D1
+~
+~
+0 0 7512
+D2
+~
+~
+0 0 7507
+D3
+~
+~
+0 0 7508
+S
+#7510
+Bedroom~
+What was once a fine master bedroom now stands dirty and decayed. Some of the
+floorboards are missing and there is rubbish scattered around. A tall wooden
+cupboard stands against the wall opposite the fireplace. East leads to the
+kitchen and west leads to another bedroom.
+~
+0 8 0
+D1
+~
+~
+0 0 7508
+D3
+~
+~
+0 0 7511
+S
+#7511
+Bedroom~
+Once perhaps a fine guest bedroom, this is now decayed like the rest of the 
+house. Rubbish is scattered around, there is some evidence of rodent 
+infestation and some webs hang torpid in the corners. A four-poster bed,
+once a grand piece of furniture, is against the wall opposite the fireplace. 
+Its woodwork is a worm-ridden and the curtains which once screened in the bed 
+are torn and stained. East leads to another bedroom.
+~
+0 8 0
+D1
+~
+~
+0 0 7510
+S
+#7512
+Bedroom~
+This bedroom is dirty and decayed; the floorboards appear intact but rubbish 
+is scattered everywhere and webs are profuse on the walls and ceiling. East
+takes you to another bedroom and west takes you to the scullery.
+~
+0 8 0
+D1
+~
+~
+0 0 7513
+D3
+~
+~
+0 0 7509
+S
+#7513
+Bedroom~
+Another dirty, decaying bedroom without furniture. Some floorboards are 
+missing while others seem to have suffered partial collapse. East and west
+lead to other bedrooms.
+~
+0 8 0
+D1
+~
+~
+0 0 7514
+D3
+~
+~
+0 0 7512
+S
+#7514
+Bedroom~
+This is a dirty and decayed bedroom, and the floor looks rather unsafe. 
+Maybe you should get out of here quick. West is another bedroom.
+~
+0 8 0
+D3
+~
+~
+0 0 7513
+S
+#7515
+Bedroom~
+A large bedroom, now decaying and dirty. Damp mold covers portions of the
+walls and ceiling and rubbish is strewn liberally round the floor. In the
+center is a single matress which has been badly torn and from which the
+
+stuffing protrudes. To the north you see the boxroom and to the south you
+see the scullery.
+~
+0 8 0
+D0
+~
+~
+0 0 7516
+D2
+~
+~
+0 0 7509
+S
+#7516
+Boxroom~
+This room appears to have been used for storage. A large oak chest stands 
+under the window. Elsewhere in the room are three wooden chairs, all broken,
+two splintered wooden buckets and a mildewed sack. North and west lead to
+staircases and south leads to a bedroom.
+~
+0 8 0
+D0
+~
+~
+0 0 7518
+D2
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7520
+S
+#7518
+Staircase~
+This is an upward staircase leading to th attick. South takes you to the 
+boxroom and up takes you to the attic.
+~
+0 8 0
+D2
+~
+~
+0 0 7516
+D4
+~
+~
+0 0 7519
+S
+#7519
+Attic~
+Several holes in the roof allow dim light to enter this large dirty room 
+which appears to extend over the whole front portion of the house. It is a
+storage room where the bric-a-brac of many years has been left. There are
+more broken pieces of furniture, a few sacks, and piles of clothes, but in
+general the room appears to contain nothing of interest. Down leads back to
+the staircase.
+~
+0 8 0
+D5
+~
+~
+0 0 7518
+S
+#7520
+Staircase~
+This is a downward staircase. To the east you see the boxroom and down you
+see the cellar.
+~
+0 8 0
+D1
+~
+~
+0 0 7516
+D5
+~
+~
+0 0 7521
+S
+#7521
+Wine Cellar~
+This was obviously a wine cellar. Wooden bottle racks- mostly broken- line the
+walls to a height of six feet. There appear to be no intact bottles left in
+the racks though there are several with broken necks. Broken bottles line the
+
+beneath and near the racks.  South leads to a cellar and up takes you back to
+the stairs.
+~
+0 8 0
+D2
+~
+~
+0 0 7522
+D4
+~
+~
+0 0 7520
+S
+#7522
+Cellar~
+You have entered a room which is so unlike anything else you have seen in the
+house that for a moment you pause, somewhat taken aback. The illumination here
+is good since several lighted torches are held in shoulder-high brackets 
+around the walls. North leads to the wine cellar, east leads to someone's
+quarters, and south leads to a cavern.
+~
+0 8 0
+D0
+~
+~
+0 0 7521
+D1
+~
+~
+0 0 7523
+D2
+~
+~
+0 0 7526
+S
+#7523
+Private Quarters~
+This small room is clearly the quarters of a person senior to those who live
+in the 'barracks' main room, since the furnishing is less crude and the place
+is clean and tidy, as if cared for by a servant. East leads to the skeletons'
+room, south leads to a cavern, and west leads back to the cellar.
+~
+0 8 0
+D1
+~
+~
+0 0 7524
+D2
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7522
+S
+#7524
+Skeletons' Room~
+This room is dark. Light from the room to your west spills faintly to show
+that the room is only about twelve feet across, but beyond that there is
+only darkness. What little you can see is dingy and dirty. East leads to a
+laboratory and west leads to the private quarters.
+~
+0 8 0
+D1
+~
+~
+0 0 7525
+D3
+~
+~
+0 0 7523
+S
+#7525
+Laboratory~
+You enter to find, piled on the floor of this room, a clutter of old and 
+broken glass and earthenware. There are three small copper pots amidst the
+debris and these appear to be intact. West leads back to the skeletons' room.
+~
+0 8 0
+D3
+~
+~
+0 0 7524
+S
+#7526
+Natural Cavern~
+Your lights show a natural cavern, roughly twenty to twenty-five feet in
+diameter. There appears to be nothing of interest here. East, and west 
+lead to more caverns.
+~
+0 8 0
+D1
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7528
+S
+#7527
+Natural Cavern~
+Your lights show a natural cavern, roughly twenty to twenty-five feet in
+diameter. There appears to be nothing of interest here. East and west both
+lead to caverns.
+~
+0 8 0
+D1
+~
+~
+0 0 7529
+D3
+~
+~
+0 0 7526
+S
+#7528
+Natural Cavern~
+This cavern, like the passage leading to it, is well lit by torches held in
+brackets around the wall. Stacked against the wall you can see five small 
+bolts of cloth and eight small casks all in a neat row. North and east
+lead to caverns and south leads to a sloping passage.
+~
+0 8 0
+D0
+~
+~
+0 0 7523
+D1
+~
+~
+0 0 7526
+D2
+~
+~
+0 0 7529
+S
+#7529
+Sloping Passage~
+The incline of the passage is perceptibly greater in this are, and coarse
+matting has been laid in various places on the floor. The passage narrows
+to five to six feet in places. North, west, and east all lead to caverns.
+~
+0 8 0
+D0
+~
+~
+0 0 7528
+D1
+~
+~
+0 0 7530
+D3
+~
+~
+0 0 7527
+S
+#7530
+Natural Cavern~
+This passage is a little wider than the rest. There are three bolts of cloth 
+and five small casks in the middle of the floor, resting on a piece of 
+coarse matting. East leads to a sea cave and west leads to a sloping passage.
+~
+0 8 0
+D1
+~
+~
+0 0 7531
+D3
+~
+~
+0 0 7529
+S
+#7531
+Sea Cave~
+This is a cave which opens directly to the sea. The tide is out at present and 
+there is little water in the cave, but there is an obvious high water mark
+which in places is three feet above the floor. West leads to a cavern and
+up leads to the main deck of the ship. South leads to a marshy looking area.
+~
+0 8 0
+D2
+~
+~
+0 0 19116
+D3
+~
+~
+0 0 7530
+D4
+~
+~
+0 0 7532
+S
+#7532
+Main Deck~
+Though the light is not good, you can see that this is the ship's main deck.
+
+In the center, forward of the mast, is a jolly boat apparently lashed to the
+deck with ropes. To the east is the captain's cabin, to the west is the
+lizardman's quarters, and down is the dea cave.
+~
+0 8 0
+D1
+~
+~
+0 0 7533
+D3
+~
+~
+0 0 7535
+D5
+~
+~
+0 0 7531
+S
+#7533
+Captain's Cabin~
+This appears to be one of the 'master' cabins. The furnishings and fittings
+are of good quality and the place is clean, though somewhat untidy. South
+leads to someone's quarters and west leads back to the main deck.
+~
+0 8 0
+D2
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7532
+S
+#7534
+Quarters~
+This appears to be one of the 'master' cabins. The furnishings and fittings
+are of good quality and the place is clean, though somewhat untidy. North
+leads back to the captain's cabin.
+~
+0 8 0
+D0
+~
+~
+0 0 7533
+S
+#7535
+Lizard Men's Quarters~
+There is a distinct odor about this room which reminds you of a marsh or
+swamp - not fetid, not oppressive, but certainly noticeable. East leads to
+the main deck, south leads to the ships galley, and west leads to the
+galley stores.
+~
+0 8 0
+D1
+~
+~
+0 0 7532
+D2
+~
+~
+0 0 7536
+D3
+~
+~
+0 0 7537
+S
+#7536
+Ship's Galley~
+There is a crude metal stove against the hull beneath the porthole. It has an
+adjustable metal chimney which can be placed through the porthole when it is
+opened. Beside the stove is an open metal bin containing sticks of wood
+kindling, and beside this is a large wood table, bolted firmly to the deck
+with a thick top criss-crossed with score marks. North leads to the lizard
+mens quarters and west leads to the galley stores.
+
+~
+0 8 0
+D0
+~
+~
+0 0 7535
+D3
+~
+~
+0 0 7538
+S
+#7537
+Ship Stores~
+Two coiled lengths of rope and three rolls of sailcloth lie on the deck
+alongside a large box. A large wooden cask stands next to six lengths of
+wood planking. Set into a wooden rack, fastened to the bulkhead by the door
+are two metal-headed hammers, two wooden mallets, two saws, and an adze.
+East leads to the lizard mens quarters and south leads to the galley
+stores.
+~
+0 8 0
+D1
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7538
+S
+#7538
+Galley Stores~
+>From iron hookes set into the ceiling hang three long strings of sausages,
+a large ham, and a hunk of meat. Against the hull are three sacks. Set 
+against the bulkhead beside the entrance are a cask and a ceramic jar. 
+Againste the other bulkhead are set a large and small cask and another
+ceramic jar. North leads to the ship stores, east leads to the ships
+galley, and down leads to the cargo hold.
+~
+0 8 0
+D0
+~
+~
+0 0 7537
+D1
+~
+~
+0 0 7536
+D4
+~
+~
+0 0 7539
+D5
+~
+~
+0 0 7541
+S
+#7539
+Poop Deck~
+The tiller is the most obvious feature of this area, rising from the deck 
+about six feet from the stern and having a horizontal arm some six foot
+long. West leads to the forecastle and down leads to the galley stores.
+~
+0 8 0
+D3
+~
+~
+0 0 7540
+D5
+~
+~
+0 0 7538
+S
+#7540
+Forecastle~
+The deck are is dominated by a massive shape on the center which you can
+identify as the ship's capstan. From it, the anchor chain runs down the chain
+vent to port of the prow. East leads back to the poop deck.
+~
+0 8 0
+D1
+~
+~
+0 0 7539
+S
+#7541
+Cargo Hold~
+There is some source of light in here which shows that this is a cargo hold.
+Through the center runs a section of the main mast. Against the aft bulkhead 
+are stacked bolts of cloth, lashed by ropes to brackets bolted to the deck
+so they are secure. On each side there are stacked a large number of small
+casks, again secured by ropes to the deck. East leads to the mate's cabin,
+west leads to the crew's quarters, and up leads to the galley stores.
+~
+0 8 0
+D1
+~
+~
+0 0 7542
+D3
+~
+~
+0 0 7546
+D4
+~
+~
+0 0 7538
+S
+#7542
+Mate's Cabin~
+This cabin appears to occupy half the stern section of this deck, with one
+bulkhead runnign along the center line of the ship. Along this bulkhead,
+leading upwards in the direction of the bow, is an enclosed companion way.
+East leads to the secret cache, south leads to a cabin, and west leads
+back to the cargo hold.
+~
+0 8 0
+D1
+~
+~
+0 0 7544
+D2
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 7541
+S
+#7543
+Cabin~
+This cabin appears to occupy half the stern section of this deck, with one 
+bulkhead running along the center line of the ship. Along this bulkhead, 
+leading upwards and foward, is an enclosed companion way. To the north is
+the mate's cabin and to the east is the secret prison cell.
+~
+0 8 0
+D0
+~
+~
+0 0 7542
+D1
+~
+~
+0 0 7545
+S
+#7544
+Secret Cache~
+This cramped area, only four foot wide at the widest, is sandwiched between
+the adjacent cabin and the ships stern. It contains a number of large,
+irregularly shaped bundles, wrapped in oilskins and bound with a light rope.
+These are piled apparently random on the deck, as though thrown in casually
+from the door. To the south is the secret pprison cell and to the west is
+the mate's cabin.
+~
+0 8 0
+D2
+~
+~
+0 0 7545
+D3
+~
+~
+0 0 7542
+S
+#7545
+Secret Prison Cell~
+A small, dark, oppresively cramped area only foor foot wide at the most,
+squeezed between the adjacent cabin and the ship's stern, this appears to
+be used as a cell. North leads to the secret chache and west leads to a
+cabin.
+~
+0 8 0
+D0
+~
+~
+0 0 7544
+D3
+~
+~
+0 0 7543
+S
+#7546
+Crew's Quarters~
+Various unpleasant odors of human occupation compete for recognition here, 
+stale perspiration emerging as dominant. This is obviously the crew's
+quarters and appears to fill thie entire forward part of this deck. South
+leads back to the cargo hold.
+~
+0 8 0
+D1
+~
+~
+0 0 7541
+S
+#0
+
+
+
+#SPECIALS
+M 7511 spec_cast_mage Load to: Sanaly
+M 7516 spec_cast_mage Load to: Ketah
+S
+
+
+
+#RESETS
+M 0 7500 3 7501 1 *Load a goblin
+M 0 7500 3 7502 1 *Load a goblin
+M 0 7500 3 7503 1 *Load a goblin
+M 0 7515 3 7503 1 *Load a lizard man
+E 0 7506 0 16 *A finely crafted battleaxe is loaded wielded of a lizard man
+M 0 7501 3 7504 1 *Load a giant rat
+M 0 7501 3 7505 1 *Load a giant rat
+M 0 7501 3 7506 1 *Load a giant rat
+O 0 7501 0 7506 *A human corpse loaded to Dining Room
+P 0 7502 0 7501 1 *A golden skull put inside a golden skull
+P 0 7503 0 7501 1 *A golden apple put inside a golden apple
+P 0 7504 0 7501 1 *A golden rose put inside a golden rose
+P 0 7505 0 7501 1 *A golden disc put inside a golden disc
+M 0 7502 3 7507 1 *Load a giant weasel
+M 0 7502 3 7508 1 *Load a giant weasel
+M 0 7502 3 7509 1 *Load a giant weasel
+M 0 7514 3 7509 1 *Load a gnoll
+M 0 7503 3 7510 1 *Load a giant ant
+M 0 7503 3 7511 1 *Load a giant ant
+M 0 7503 3 7512 1 *Load a giant ant
+M 0 7504 3 7513 1 *Load a smuggler
+M 0 7508 1 7514 1 *Load Denel
+E 0 7500 0 16 *A cheap dagger is loaded wielded of Denel
+M 0 7504 3 7515 1 *Load a smuggler
+M 0 7504 3 7516 1 *Load a smuggler
+M 0 7505 3 7518 1 *Load a lizard man
+M 0 7505 3 7518 1 *Load a lizard man
+M 0 7514 3 7518 1 *Load a gnoll
+M 0 7505 3 7519 1 *Load a lizard man
+M 0 7506 3 7520 1 *Load a yellow mold
+M 0 7506 3 7521 1 *Load a yellow mold
+M 0 7515 3 7521 1 *Load a lizard man
+E 0 7506 0 16 *A finely crafted battleaxe is loaded wielded of a lizard man
+M 0 7506 3 7522 1 *Load a yellow mold
+M 0 7507 3 7524 1 *Load a spider
+M 0 7507 3 7525 1 *Load a spider
+M 0 7507 3 7526 1 *Load a spider
+M 0 7509 3 7527 1 *Load a stirge
+M 0 7509 3 7528 1 *Load a stirge
+M 0 7509 3 7529 1 *Load a stirge
+M 0 7510 3 7530 1 *Load a rot grub
+M 0 7510 3 7531 1 *Load a rot grub
+M 0 7510 3 7532 1 *Load a rot grub
+M 0 7511 1 7533 1 *Load Sanaly
+E 0 7507 0 11 *A buckler is loaded as a shield of Sanaly
+E 0 7508 0 16 *A broadsword is loaded wielded of Sanaly
+M 0 7516 1 7533 1 *Load Ketah
+E 0 7512 0 1 *A shiny gold ring is loaded on the left finger of Ketah
+E 0 7514 0 5 *A rusty suit of chainmail is loaded on the body of Ketah
+M 0 7517 1 7533 1 *Load a parrot
+E 0 7509 0 12 *A set of colorful parrot wings is loaded about the shoulders of a parrot
+M 0 7518 1 7534 1 *Load Ocean
+E 0 7510 0 6 *An simple earring is loaded over the head of Ocean
+E 0 7511 0 3 *A gold chain is loaded around the neck (1) of Ocean
+E 0 7517 0 16 *A powerful looking crossbow is loaded wielded of Ocean
+M 0 7515 3 7535 1 *Load a lizard man
+E 0 7506 0 16 *A finely crafted battleaxe is loaded wielded of a lizard man
+M 0 7512 3 7536 1 *Load a skeleton
+M 0 7519 1 7537 1 *Load Liw
+E 0 7513 0 14 *An unadorned gold bracelet is loaded on the left wrist of Liw
+E 0 7519 0 16 *A steel broadsword is loaded wielded of Liw
+M 0 7512 3 7538 1 *Load a skeleton
+M 0 7512 3 7539 1 *Load a skeleton
+M 0 7513 3 7540 1 *Load a green slime
+M 0 7513 3 7541 1 *Load a green slime
+M 0 7520 1 7542 1 *Load Moto
+E 0 7515 0 6 *A battered helmet is loaded over the head of Moto
+E 0 7518 0 16 *A finely crafted falchion is loaded wielded of Moto
+M 0 7514 3 7543 1 *Load a gnoll
+M 0 7521 1 7543 1 *Load Gurd
+E 0 7516 0 5 *A weather-beaten suit of leather armor is loaded on the body of Gurd
+E 0 7520 0 16 *A hook is loaded wielded of Gurd
+M 0 7513 3 7544 1 *Load a green slime
+M 0 7523 1 7544 1 *Load Sun
+E 0 7524 0 16 *A crude spear is loaded wielded of Sun
+E 0 7523 0 1 *A ring of fury is loaded on the left finger of Sun
+M 0 7522 1 7546 1 *Load John
+E 0 7522 0 12 *A tattered cloak is loaded about the shoulders of John
+E 0 7521 0 16 *A notched shortsword is loaded wielded of John
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

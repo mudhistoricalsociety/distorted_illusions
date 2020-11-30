@@ -1,0 +1,1253 @@
+#HELPS
+0 asgardian~
+Welcome to Asgardian Nightmare. These are a few helpful tips, commands, and other help files that
+you should find useful. This Mud is set up in a Three Tier system. Meaning that once you start a new
+character you will level to 101, type reroll, and start on the next tier, then do it one more time. 
+Please see Help Reroll
+Also, you will not keep any eq on your person when you reroll.
+If you are a warrior class, you will want to take a look at Help Hara. It is a unique warrior class
+skill which helps you to regenerate faster and absorb more punishment then the average person.
+For more information about the tier system, along with class selection, please see Help Moretier
+Please also see the help file Help Directions for a list of directions to differant areas of the world,
+along with the location of your Guildmaster, where you practice and train, which is also class specific.
+Evolving is a unique feature to the mud. Noevolve is set in the off position as default. Meaning that
+Every time you gain a level you have a small percent chance to evolve to a better version of your race.
+This comes with a price though, extra exp will be added depending on the race you evolve into , which 
+is also random. Most players do not turn Noevolve off until they reach level 100 on the 3rd tier. Once
+you hit 101 on the 3rd tier you will evolve automatically with no exp penalty if Noevolve is off.
+~
+
+102 TODO 'TODO LIST'~
+~
+
+101 'BUILDING GUIDE' 'BUILDING SPECS'~
+{!--------------------- {1A{2s{3g{4a{5r{6d{7i{8a{1n {2N{3i{4g{5h{6t{7m{8a{1r{2e {&Building Specs {!-------------------{x
+ 
+{&This guide will go by Levels, as the MUD is based upon such.{x
+ 
+{@Equipment {&- {RA{&.{RK{&.{RA {@Objects{x
+{$ Weapons {& --{x
+{#  Level {$1{&-{$10{&:{@ Ave {!{!1{&-{!12{x{x
+{#  Level {$11{&-{$25{&:{@ Ave {!{!13{&-{!26{x{x
+{#  Level {$26{&-{$45{&:{@ Ave {!{!27{&-{!46{x{x
+{#  Level {$46{&-{$70{&:{@ Ave {!{!47{&-{!72{x{x
+{#  Level {$71{&-{$85{&:{@ Ave {!{!73{&-{!87{x{x
+{#  Level {$86{&-{$98{&:{@ Ave {!{!88{&-{!99{x{x
+{#  Level {$99{&-{$101{&:{@ Ave {!{!100{&-{!104{x{x
+{%  Quest Weapons: {$One-Handed{&: {@Ave {!105{&-{!120  {$Two-Handed{&: {@Ave {!115{&-{!125{x
+ 
+{$ Armor{&  --
+{#  Level {$1{&-{$10{&: {@AC Protection {!1{&-{!4{x
+{#  Level {$11{&-{$25{&: {@AC Protection {!5{&-{!11{x
+{#  Level {$26{&-{$45{&: {@AC Protection {!12{&-{!17{x
+{#  Level {$46{&-{$70{&: {@AC Protection {!18{&-{!22{x
+{#  Level {$71{&-{$85{&: {@AC Protection {!23{&-{!28{x
+{#  Level {$86{&-{$98{&: {@AC Protection {!29{&-{!33{x
+{#  Level {$99{&-{$101{&: {@AC Protection {!34{&-{!40{x
+{%  Quest Armor{&: {@AC Protection {!41{&-{!60{x
+ 
+{&  Weapons receive +5 bonus rolls to distribute per level group.{x
+{&  Armor receives +3 bonus rolls to distribute per level group.{x
+{&  Unique Items may go above written standards by 5. {x
+~
+
+0 lizardman~
+Lizardman will no longer crash the mud!
+~
+
+0 rank~
+Syntax: Type rank for syntax.
+{x
+{x     Rank is the new ranking system for the mud.  The base rank everyone
+starts out with is 1500.  You want to try for the highest amount of rank you
+can get.  Rank <type> <person> will show you how much you will get for
+beating that person.  The higher the rank the better.  This will become more
+useful as it becomes more standardized and more people get involved with the
+system.  
+~
+
+102 hedit~
+These commands make a new helpfile-
+hedit summary
+create asgardian.hlp (newkeyword)
+ 
+Of course, don't put the ()'s in, just the new keyword you want a help
+file for.   Hope that helps.
+ 
+All helpfiles are in rot.are, help.are, mobprg.hlp, olc.hlp, sedit.hlp, asgardian.hlp.
+Use either rot.are, help.are, or asgardian.hlp.
+~
+
+0 storm~
+STORM is a group of friends, not just a clan.  Our main goal is simple: be the BEST.
+ 
+By the gods' graces STORM was granted to a moral known as Roq.  Currently the goals
+are simple, but the future holds great promise and STORM plans on taking full advance
+by increasing in power and prestige.
+ 
+The standards of STORM for players are very high with wide and varied knowledge of
+Asgard as a must, and also each applicant must strive to always improve himself for
+the greater glory of STORM.
+~
+
+105 continent~
+Effects:
+{x 1) Questors will only give out quests on their own continent.
+{x 2) You cannot gate/shadowwalk/forestwalk/dimensionwalk/portal between continents.
+{x 3) You CAN create a nexus between them.
+ 
+~
+
+0 n00b noob~
+n00b or the newbie flag is what new pk's receive.  The flag prevents true pk's
+from spam-killing them and also gives the n00b's time to find equipment and adjust
+to this gaming world. When dying, n00b's also only lose half the normal pk rank
+as a total pk.
+ 
+To remove the n00b flag you either need to reach 1530 pk rank, or 100 hours of
+game time.  If you have been shown to know what you are doing and have the support
+of others, you may have a involuntary graduation from n00b as well.
+ 
+If you wish to remove your own n00b flag, simply type newbie <your name> and it will be removed.
+You cannot have it put back on once it is removed.
+~
+
+1 'BLINDNESS DUST'~
+Skill-type: Manual
+Syntax: blindness or 'blindness dust' 
+
+A Monk carries a special dust among his gear which he uses to blind his enemies.
+Due to the nature of the dust, the Monk must be careful because the dust can blind
+multiple opponents at once.
+~
+
+1 STOMP 'GROUND STOMP'~
+Skill-type: Automatic 
+
+When a Monk throws their opponent to the ground, if conditions are favorable they
+have a chance to stomp on their opponent using their foot.
+~
+
+1 'HEALING TRANCE'~
+Skill-type: Manual
+Syntax: healing or 'healing trance' 
+
+A Monk at times needs to concentrate on healing themselves. At these times they are
+capable of going into a trance during which they focus their pain out of their body
+and their wounds heal quicker.
+~
+
+1 PURIFY 'PURIFY BODY'~
+Skill-type: Manual
+Syntax: purify or 'purify body' 
+
+The art of purification is but long lost, yet some Monks still practice it at times.
+When in need, a Monk can go into a trance where their mind and body become one. Any
+magical affects or physical concentrations seem to slide off them during the trance
+which results in a deep sleep.
+~
+
+1 WILL 'WILL OF IRON'~
+Skill-type: Manual
+Syntax: will or 'will of iron' 
+
+A Monk can concentrate thier will so strongly as to feel less pain during combat, as
+if their nerves were made of iron.
+~
+
+1 DEFLECT~
+Skill-type: Automatic
+
+A special skill taught only to the learned, a skilled Monk can turn their opponent's
+weapon back onto them.
+~
+
+1 'SIDE KICK'~
+Skill-type: Manual
+Syntax: side or 'side kick'
+
+Part of the standard martial arts schooling, the side kick is one of a Monk's offensive moves.
+~
+
+1 'VITAL HIT'~
+Skill-type: Automatic
+
+During combat a Monk is constantly searching for less defended places on their opponent to hit.
+They often aim for unprotected areas such as the head, neck, sides, and knees of their opponent.
+When they successfully hit these areas they are capable of doing a considerable amount of damage.
+~
+
+1 'FOLLOW THROUGH'~
+Skill-type: Automatic  
+
+Every time a Monk kicks an opponent, they have a chance to land a second kick if they opponent is
+not properly defended.
+~
+
+1 'QUICK STEP'~
+Skill-type: Automatic 
+
+A very advanced technique, the quick step is a lightning fast attack that hits an opponent
+multiple times in a short amount of time.
+~
+
+1 'SPIN KICK'~
+Skill-type: Manual
+Syntax: spin or 'spin kick'
+
+Part of the advanced martial arts schooling, the spin kick attempts to knock an opponent
+back while the Monk prepares for their next move.
+~
+
+1 'EMBALM'~
+Skill-type: Manual
+Syntax: embalm
+
+A dark art practiced by Necromancers, embalming corpses with special fluids and preservational
+magic help to prevent a corpse from decaying. The Necromancer conjures the fluids and necessary
+components from dark magic, so no tangible components are needed. An embalmed corpse has better
+results when attempting to animate it or mummify it.
+~
+
+1 'PRESERVE LIMB' PRESERVE~
+Skill-type: Manual
+Syntax: cast 'preserve limb' or cast preserve
+
+A dark art practiced by Necromancers whereby they prevent the decay of severed limbs or dead
+body parts. This spell is used to store parts needed by the Necromancer to create golems.
+~
+
+1 'CREMATE'~
+Skill-type: Manual
+Syntax: cast cremate
+
+A spell of the dark arts which conjures forth the hot fires of a crematorium upon a victim.
+~
+
+1 'FLESH GOLEM' FLESH GOLEM~
+Skill-type: Manual
+Syntax: cast 'flesh golem' or cast flesh
+
+Necromancers stockpile many dead limbs and body parts in order to imbue them with dark magic.
+The result is an abomination, a golem sewn together of these parts by magic. The Necromancer
+will need more than one or just two parts in order to build a golem.
+~
+
+1 'IRON GOLEM' IRON GOLEM~
+Skill-type: Manual
+Syntax: cast 'iron golem' or cast iron
+
+A Necromancer has the ability to build a stronger golem than a flesh golem. This is a more
+advanced spell and requires a large amount of concentration. The result is a much more
+powerful golem.
+~
+
+1 'FEAR'~
+Skill-type: Manual
+Syntax: cast fear
+
+BANSHEE FEAR
+
+Banshees are deadly creatures to look upon. To merely gaze in their eyes can cause a victim
+to be terrified. When an victim is affected by fear he will find it more difficult to confront
+other people and often will be seen breaking down weeping.
+
+NECROMANCER FEAR
+
+A terrible spell of the dark arts whereby a Necromancer conjures fear into the heart
+of an opponent, sometimes so great, that the victim's heart can explode.
+~
+
+0 rebellion~
+~
+
+0 newgod~
+Availible Gods:
+Thor
+Aegir
+Loki
+Hel
+Ull
+Snotra
+Forseti
+Freya
+Odin
+please note the immortals if there are gods missing from this list.
+~
+
+0 skill_head_cut head cut~
+{WSyntax{D: {RHead{x
+
+{WTarget{D: {cVictim{x
+       
+{wHp   Cost{D:   {g0   {wHeld item{D:              {MNo   {wEmpowerable:       {MNo{x
+{wMana Cost{D:   {G0   {wCan do Blind{D:          {CYes   {wLevel Based:       {MNo{x
+{wMove Cost{D:   {G0   {wCan use in Combat{D:     {CYes   {wPercent Based:     {MNo{x
+{wDuration {D:   {G0   {wCan use as a Starter{D:  {CYes   {wRequires Weapon:  {CYes{x
+{wLag  Time{D:   {G1   {wOnly used as a Starter{D: {MNo   {wUse with Pk Flag{D: {CYes{x
+
+{BOverview{D: {rOnce in combat, this skill targets the head of the victim.{x
+{rUpon success, deals moderate damage. This skill may be attempted once{x
+{ra round.{x
+
+{GResults{D: {DOne hit attack, requiring a sword, dagger or Axe be wielded.{x
+
+{yClasses{D: {mSwashbuckler {b({Y45{b){x
+~
+
+0 holy aura~
+The holy aura spell is a crusader spell, meant to protect the crusader
+from harm. It modifies armor class based on level.
+~
+
+0 generations~
+The Generations spell is one that only the most wise of shaman are
+able to cast. Once cast, the shaman begins to channel all of the
+knowledge of their ancestors, which aid them in their trials.
+~
+
+107 Plist~
+The Plist command is used to check on player base and also how long the Immortals
+have been absent. Due to circumstances beyond my control, Plist only shows the
+days idle for Immortals, not mortals. In order to see a grouping of Mortals, 
+type 'Plist a' Where 'a' would be all the names starting with that letter. Do
+NOT use Plist all, as this will likely crash the mud.
+Another innovation brought to you by Bree.
+~
+
+106 uniques~
+These are the rules when making new uniques, so listen carefully, because myself
+and Fesdor do not like cleaning up after people....
+{#*{XThe balance on a new unique is to be no more then 400, and no less then 300. Try
+to find a happy middle ground.
+{#*{XDo not use alot of bullshit negatives in order to push down balance. Examples
+of "bullshit negatives" are as follows: adding massive amounts of +Saves, adding
+alot of -con, or wisdom, or -age. This should be obvious by now.
+{#*{XDo not mess with uniques that are already there, unless specificly told to do
+so by either Bree or Fesdor.
+{#*{XUse common sense, make things players want, but don't take it to the extreme.
+{!*{XThe current Vnums used for Uniques are 850-999. Feel free to pick vnums that
+are unused, do not go past 999 for the moment. If you need to Olist to check what
+has what vnum, goto 700. That room is in the Unique area.
+~
+
+110 nuke~
+The Nuke command allows an Immortal of level 110 to delete and disconnect a
+targeted mortal. This command is to be used only if {RABSOLUTELY{X nessicary.
+And to be honest, i would appreciate being consulted before you use it. (I being Bree)
+Another fun immortal command brought to you by Bree.
+~
+
+108 ftick~
+Ftick forces a tick. Pretty simple, don't abuse this command, period.
+~
+
+0 Flag Token Ftoken~
+FLAG TOKEN FTOKEN
+A Flag token can be bought at the midgaard Questmaster for 1500 Aqps. Accumulate
+enough flag tokens, and you are able to add a weapon flag to a weapon. The weapon
+flags are as follows:
+{Y*{xFlaming, Vorpal, Sharp, Frost, Vampiric, Shocking, Poison, Osmosis.
+You cannot add or remove a Twohands flag, and as such it does not count as a flag.
+Since, obviously, a weapon with several of these flags would be considered a 
+signifigant advantage, so, the pricing system will be rather steep. So here is
+how it works: Say you have a weapon with 2 flags on it already, and you wish
+to purchase a third, you would take the number the next flag would be, in this
+case the 3rd, and multiply to the 2nd power. So, to add a 3rd flag to a weapon which
+already has 2, the cost would be 3^2, or 9 flag tokens. The formula is as follows:
+1, 4, 9, 16, 25, 36, 49, . . . , n^2
+Yes, it is expensive, that is that point.
+ 
+Flags can also be removed from weapons at a cost of 1 ftoken per flag removed.
+ 
+An immortal is needed to flag a weapon.  Pray for immortal assistance when you are ready.
+~
+
+0 Looting~
+YOU MAY NOT TAKE ANYTHING FROM ANOTHER PLAYER UNLESS IT HAS BEEN
+EXPLICITELY GIVEN TO YOU BY THEM.  This includes eq that has rotted out of a
+corpse, eq from a burned bag, or any other situation imagineable.  
+~
+
+108 copyover~
+When using Copyover, remember to do the following...
+* Remember to ask if everyone is good, some people may be on quests.
+* Be sure to save everyone before a copyover
+* Make sure you turn on looting after your done, by typing Noloot
+~
+
+102 babble babbles~
+I'm going to say this very simply. DO NOT play with the babbles. DO NOT
+load any extra babbles. DO NOT tell any mortal where the babbles are.
+Just forget they even exist, the only immortals that have the authority
+to fix them are levels 108+.
+If you are found to be messing with them, or you help a mortal find them,
+you will lose you job very quickly.
+~
+
+0 extremely upset~
+Extremely Upset: Meaning you will be slayed many, many, many times. Basically
+until i get tired of pushing the enter button. Then i will eat your corpse.
+Then burp loudly in your face, and laugh softly while you delete yourself.
+~
+
+0 reroll_switch~
+{WSyntax{D: {RReroll Switch {y[{cThis Displays a List of the Base Classes{y]{x
+{r        {RReroll Switch {b<{mbase class{b> {y[{cConfirms Selection of Class{D]{x
+{r        {RReroll Switch {b<{margument{b> {y[{cAborts Rerolling{D]{x
+
+{YTier 1{D: {g- {wDoes nothing. No point in allowing this, as you may choose{x
+{r          {wany 2nd Tier class, upon completion of 1st tier.{x
+
+{YTier 2{D: {g- {wMust have achieved level 101{x
+{g        {g- {wPermits execution of selecting a new base class, to open{x 
+{g          {wup any selection of a 3rd tier class of that type.{x
+{g        {g- {wCosts 200 aqp to access this function.{x
+
+{YTier 3{D: {g- {wMay switch base class at any level{x
+{g        {g- {wPermits execution of selection a new base class, to open{x
+{g          {wup any selection of a 3rd tier class of that type.{x
+{g        {g- {wCosts 200 aqp to access this function{x
+
+{BOverview{D: {rThis command is used in-conjunction with reroll. You will have{x
+{rto execute this command prior to any reroll attempt, if you desire to{x
+{rchange your base class. Once you enter reroll swtich, you will be able to{x
+{rchoose your class. Upon typing in 'reroll switch <base class>' to confirm{x
+{ryour selection, you will exit the reroll switch feature. Once out of this{x
+{ryou may then just type reroll to reroll as normal. {x
+~
+
+0 skill_inner_strength inner~
+{WSyntax{D: {RInner{x
+
+{WTarget{D: {cSelf Only{x
+       
+{wHp   Cost{D:   {g0   {wHeld item{D:              {MNo   {wEmpowerable{D:       {MNo{x
+{wMana Cost{D: {G200   {wCan do Blind{D:           {MNo   {wLevel Based{D:      {CYes{x
+{wMove Cost{D: {G200   {wCan use in Combat{D:      {MNo   {wPercent Based{D:    {CYes{x
+{wDuration {D:  {G18   {wCan use as a Starter{D:   {MNo   {wRequires Weapon{D:   {MNo{x
+{wLag  Time{D:   {g0   {wOnly used as a Starter{D: {MNo   {wUse with Pk Flag{D: {CYes{x
+
+{BOverview{D: {rFocusing their inner most strength, not only yields{x
+{rtactical advantage of applying hitroll and damroll, but also{x
+{rgrants them sufficient recovery strength, in the form of a{x
+{rregeneration modifier.{x
+
+{GResults{D: {DCaps at 48 hr/dr 90 Regen{x
+ 
+{yClasses{D: {mNinja {b({Y50{b){x
+~
+
+0 skill_cripple cripple~
+{WSyntax{D: {RCripple {b<{mvictim{b>{x
+
+{WTarget{D: {cVictim{x
+       
+{wHp   Cost{D:   {g0   {wHeld item{D:              {MNo   {wEmpowerable:       {MNo{x
+{wMana Cost{D:   {g0   {wCan do Blind{D:          {CYes   {wLevel Based:       {MNo{x
+{wMove Cost{D:   {g0   {wCan use in Combat{D:     {CYes   {wPercent Based:     {MNo{x
+{wDuration {D:   {G2   {wCan use as a Starter{D:  {CYes   {wRequires Weapon:   {MNo{x
+{wLag  Time{D:   {G1   {wOnly used as a Starter{D: {MNo   {wUse with Pk Flag{D: {CYes{x
+
+{BOverview{D: {rWith a quick blow, able to cripple your victim. Where you hit them is{x
+{rrandom, possible locations are head/leg. It'll deal its damage in a quick swift hit{x
+{rwhere your able to recover quickly, leaving your victim in a crippled state for{x
+{rabout 2 ticks. This attack may be used to start combat, or during, and even when you{x
+{rcan't see.{x 
+
+{GResults{D: {DHead hit will give blind for 2 ticks, or until rubbed. Leg hit is unknown{x
+{Dwill post when get more info. It will apply -5 dex to the victim{x
+
+{yClasses{D: {mAssassin {b({Y42{b){x
+~
+
+0 time~
+Syntax: time 
+ 
+TIME shows the game time, as well as the time the mud was last started, 
+and the current local time for the host computer. 
+~
+
+0 weather~
+Syntax: weather 
+ 
+WEATHER shows the current game weather. 
+~
+
+0 score~
+Syntax: score 
+ 
+Score shows you a detailed screen of your character stats
+~
+
+0 report~
+Syntax: report 
+ 
+REPORT shows your current statistics to you and also announces them to other 
+players in the room.  SCORE shows much more detailed statistics to you only. 
+Your ability scores are shown as true value(current value), so for example 
+Str: 15(23) means you have a 15 strength from training, but a 23 strength 
+from other factors (spells or items). 
+~
+
+0 commands~
+Syntax: commands 
+ 
+COMMANDS shows you all the commands in the game. 
+~
+
+101 upgrades_clan_chosen~
+{x                               {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{x - (20500-20550)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Clan Hall - With 1 starter room - {Y25 {yCubics Received{x
+Smithy Room - 1 -  {DNo Upgrades{x  - {Y75 {yCubics Received{x
+Masons Room - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+Shopkeeper  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+Shrine      - 1 -  {DNo Upgrades{x  - {Y40 {yCubics Received{x
+Mage's Room - 1 -  {DNo Upgrades{x  - {Y35 {yCubics Received{x
+Basic Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+Train Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+Stable      - 1 -  {DNo Upgrades{x  - {Y30 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Blacksmith  - 1 -  {DNo Upgrades{x  - {mLevel {M25{x  - {Y100 {yCubics Received{x
+Trainer     - 1 -  {WPet Shopkeep{x - {mLevel {M100{x - {Y220 {yCubics Received{x
+Mason       - 1 -  {DNo Upgrades{x  - {mLevel {M25{x  - {Y25 {yCubics Received{x
+Priest      - 1 -  {DNo Upgrades{x  - {mLevel {M30{x  - {Y125 {yCubics Received{x
+Shopkeeper  - 1 -  {DNo Upgrades{x  - {mLevel {M25{x  - {Y50 {yCubics Received{x
+Mage        - 1 -  {DNo Upgrades{x  - {mLevel {M60{x  - {Y160 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{CP{cE{CT{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{cP{Cr{mi{Ms{Wm{Ma{mt{Ci{cc {mB{Me{ch{Ce{Wm{co{Mt{mh - 1 -   {WDamdice {D40d40+40{x  - {mLevel {M100{x  - {Y930 {yCubics Received{x
+{x                           {WDamtype - Wrath{x
+{x                           {WBash Skill{x
+{x                           {WBerserk Skill{x
+{x                           {WFast Skill{x
+{x                           {WDirt_kick Skill{x
+{x                           {WHaste{x
+{x                           {WFlying{x
+{x                           {WPass_door{x
+{x                           {WACT Warrior{x
+{x                           {WACT Druid{x
+{x                           {D10000 {WHP{x
+{x                           {D-500 {WAC{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Portal to Jeweller's Shop [Room {G3034{x] in Midgard - 1 - {YClan Purchase{x
+Earring   - {DWh{Wi{Dte {cN{Co{Wi{Cs{ce{x -  {C15 {cDR{x - {Y1355 {yCubics Received{x
+{x                           {C15 {cHR{x
+{x                           {C-15 {cAC{x
+{x                           {C125 {cHP{x
+{x                           {C125 {cMANA{x
+{x                           {C-5 {cSAVES{x
+{x                           {C5 {cRegen{x
+{x                           {C4 {cMana Regen{x
+{x                           {cFarsight{x
+{x                           {cPass Door{x
+{x                           {cFlying{x
+{x                           {cDetect_Invis{x
+{x                           {cDetect_Motion{x
+Anklet  - {yW{Ya{yr {DT{cra{Cv{ce{Dll{ce{Cr{Ds{x - {C15 {cDR{x - {Y935 {yCubics Received{x
+{x                           {C125 {cHP{x
+{x                           {C125 {cHP{x
+{x                           {C15 {cHR{x
+{x                           {C-15 {cAC{x
+{x                           {C5 {cRegen{x
+{x                           {C4 {cMana Regen{x
+{x                           {C5 {cDexterity{x
+{x                           {C5 {cStrength{x
+{x                           {C5 {cWisdom{x
+{x                           {C5 {cIntelligence{x
+{x                           {C5 {cConstitution{x
+Religion   -   {wF{ra{Wi{rt{wh{x   -   {C15 {cDR{x - {Y585 {yCubics Received{x
+{x                           {C15 {cHR{x
+{x                           {C-15 {cAC{x
+{x                           {C125 {cHP{x
+{x                           {C125 {cMANA{x
+{x                           {C5 {cRegen{x
+{x                           {C4 {cMana Regen{x
+{xChest   - {DG{Wl{Go{gw{Gi{Wn{Dg C{cr{Ce{cs{Dt{x -  {C15 {cDR{x - {Y635 {yCubics Received{x
+{x                           {C15 {cHR{x
+{x                           {C-15 {cAC{x
+{x                           {C125 {cHP{x
+{x                           {C125 {cMANA{x
+{x                           {C4 {cMana Regen{x
+{x                           {C5 {cRegen{x
+ 
+~
+
+101 upgrades_clan_audentia~
+{x                                {3[{1^{#A{7u{3d{7e{#n{7t{3i{#a{1^{3]{x - (20200 - 20250)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xClan Hall - With 1 starter room - {Y25 {yCubics Received{x
+{x            {gLinks to: {xThe End of the Path {W[{G8818{W]  {Y1/29/09{x
+{xSmithy Room - 1 -  {DNo Upgrades{x  - {Y75 {yCubics Received{x
+{xShop        - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xBasic Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xShrine      - 1 -  {DNo Upgrades{x  - {Y40 {yCubics Received{x
+{xTrain Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xMage Room   - 1 -  {DNo Upgrades{x  - {Y35 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xBlacksmith  - 1 -  {DNo Upgrades{x - {mLevel {M25{x  - {Y100 {yCubics Received
+{xShopkeeper  - 1 -  {WWeapon{x  - {mLevel {M25{x  - {Y125 {yCubics Received{x
+{x                   {WGem{x
+{x                   {WTreasure{x
+{x                   {D0-23 {dHours{x
+{xMason       - 1 -  {DNo Upgrades{x - {mLevel {M25{x  - {Y25 {yCubics Received{x
+{xMage        - 1 -  {DNo Upgrades{x - {mLevel {M75{x  - {Y250 {yCubics Received{x
+{xPriest      - 1 -  {DNo Upgrades{x  - {mLevel {M30{x  - {Y125 {yCubics Received{x
+{xTrainer     - 1 -  {DNo Upgrades{x - {mLevel {M100{x - {Y170 {yCubics Received{x
+{xQuestmaster - 1 -  {DNo Upgrades{x - {mLevel {M30{x - {Y100 {yCubics Received{x
+{xGuard       - 1 -  {D50000 {dHP{x - {mLevel {M100{x - {Y75 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xPortal to MS [Room {G3034{x] in Midgard - 1 - {YClan Purchase{x
+{xPortal to Cutter [Room {G14298{x]  in Pirate Lords   - 1 - {Y40{y Cubics Received{x
+{xPortal to Rundown shack [Room {G42801{x]  in BWP     - 1 - {Y40{y Cubics Received{x
+{xPortal to Before Palace [Room {G30487{x]  in Despair - 1 - {Y40{y Cubics Received{x
+{xAnklet - {YT{yho{Yr{y'{Ys {wB{Wlessing {yof {yA{Ygility{x - {C15 {cDR{x - {Y1295 {yCubics Received{x
+{x                                      {C15 {cHR{x
+{x                                      {C-15 {cAC{x
+{x                                      {C125 {cHP{x
+{x                                      {C-5 {cSaves{x
+{x                                      {C5 {cAge{x
+{x                                      {C5 {cRegen{x
+{x                                      {C10 {cMana{x
+{x                                      {C5 {cDexterity{x
+{x                                      {C5 {cStrength{x
+{x                                      {C5 {cIntelligence{x
+{x                                      {C5 {cConstitution{x
+{x                                      {C5 {cWisdom{x
+{x                                      {cFlying{x
+{x                                      {cDetect_invis{x
+{xLight -      {3[{1^{#A{7u{3d{7e{#n{7t{3i{#a{1^{3]{x {YF{yl{Wa{yr{Ye{x     - {C15 {cDR{x - {Y890 {yCubics Received{x
+{x                                      {C15 {cHR{x
+{x                                      {C125 {cHP{x
+{x                                      {C125 {cMana{x
+{x                                      {C-15 {cAC{x
+{x                                      {C5 {cRegen{x
+{x                                      {C5 {cAge{x
+{x                                      {C-5 {cSaves{x
+{x                                      {cInfinite{x
+{xLight -        {YT{yho{Yr{y'{Ys {YW{wh{yi{Ys{yp{Ye{wr{x       - NA - {Y25 {yCubics Received{x
+{x
+~
+
+108 upgrades_clan_enforcer~
+{x                                {y/{RE{rN{yF{WOR{YC{RE{rR{Y\{x - (20300-20350)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xClan Hall - With 1 starter room - {Y25 {yCubics Received{x
+{x            {gLinks to:{x By the beautiful waterfall [{G5281{x]  [{Y12-31-2008{x]
+{xSmithy Room - 1 -  {DNo Upgrades{x  - {Y75 {yCubics Received{x
+{xBasic Rooms - 2 -  {DNo Upgrades{x  - {Y20 {yCubics Received{x
+{xMason Room  - 1 -  {DNo Upgrades{x  - {Y10{y Cubics Received{x
+{xMage's Room - 1 -  {DNo Upgrades{x  - {Y35{y Cubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xBlacksmith  - 1 -  {DNo Upgrades{x - {mLevel {M25{x  - {Y100 {yCubics Received{x
+{xShopkeeper  - 1 -  {DNo Upgrades{x - {mLevel {M25{x  - {Y50 {yCubics Received{x
+{xMason       - 1 -  {DNo Upgrades{x - {mLevel {M25{x  - {Y25 {yCubics Received{x
+{xTrainer     - 1 -  {DNo Upgrades{x - {mLevel {M100{x - {Y170 {yCubics Received{x
+{xMage        - 1 -  {DNo Upgrades{x - {mLevel {M30{x  - {Y100 {yCubics Received{x
+{xQuestmaster - 1 -  {DNo Upgrades{x - {mLevel {M100{x - {Y100 {yCubics Received{x
+{xGuard       - 1 -  {W50000 {DHP {x   - {mLevel {M100{x - {Y275 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Portal to [Room {G3056{x] in Midgard - 1 - {YClan Purchase{x
+Anklet - {Y/{rE{RN{YF{WOR{YC{RE{rR{Y\{x - {C15 {cDR{x - {Y305{y Cubics Received{x
+{x                      {C-15 {cAC{x
+{x                      {C125 {cHP{x
+{x                      {C4 {cMana Regen{x
+{C                      1 {cDexterity{x
+~
+
+108 upgrades_clan_adiuvo~
+{x                               {b-->A{Bdiuv{bo<--{x  (20400-20450)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Clan Hall   - With 1 starter room - {YFree{x
+Shopkeeper  - 1 - {DNo Upgrades{x - {YGiven as a newbie help clan{x
+Mason Room  - 1 - {DNo Upgrades{x - {YGiven as a newbie help clan{x
+Smithy Room - 1 - {DNo Upgrades{x - {YGiven as a newbie help clan{x
+Mage's Room - 1 - {DNo Upgrades{x - {Y35 {yCubics Received{x
+Shrine      - 1 - {DNo Upgrades{x - {Y40 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Blacksmith  - 1 - {DNo Upgrades{x - {mLevel {M25{x - {YGiven as a newbie help clan{x
+Trainer     - 1 - {DNo Upgrades{x - {mLevel {M60{x - {Y60 {yCubics Received{x
+Mason       - 1 - {DNo Upgrades{x - {mLevel {M25{x - {YGiven as a newbie help clan{x
+Shopkeeper  - 1 - {DNo Upgrades{x - {mLevel {M25{x - {YGiven as a newbie help clan{x
+Mage        - 1 - {DNo Upgrades{x - {mLevel {M75{x - {Y190 {yCubics Received{x
+Priest      - 1 - {DNo Upgrades{x - {mLevel {M30{x - {Y125 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Portal to MS [Room {G3014{x] in Midgard - 1 - {YClan Purchase{x
+Portal to Intersection [Room {G5419{x]  in Fortress - 1 - {Y40 {yCubics Received{x
+Portal to Crossroads   [Room {G17542{x] in Kingdoms - 1 - {Y40 {yCubics Received{x
+Furniture  - {CR{Ge{Cju{cv{gin{Ga{Cti{Gn{Cg {CSp{Wr{Ci{Bn{Cg{x  - {C500 {cRegen{x - {Y265 {yCubics Received{x
+Anklet  - {bF{Bre{bed{Dom {wof {DFa{Bit{bh{x - {C15 {cDR{x - {Y710 {yCubics Received{x
+{x                             {C15 {cHR{x
+{x                             {C-15 {cAC{x
+{x                             {C125 {cHP{x
+{x                             {C5 {cRegen{x
+{x                             {cFlying{x
+{x                             {cPass_door{x
+{xEarring - {bS{Bap{Wp{wh{Wi{Bre{bs {DTr{Buth{x  - {C15 {cDR{x - {Y1080 {yCubics Received{x
+{x                             {C15 {cHR{x
+{x                             {C-15 {cAC{x
+{x                             {C125 {cHP{x
+{x                             {cDetect_invis{x
+{x                             {cDetect_motion{x
+{x                             {cDark_vision{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{YN{yE{DWB{yI{YE {CE{cQ{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+a masamine of {b-->A{Bdiuv{bo<--{x
+a {Dplatina{x dagger of {b-->A{Bdiuv{bo<--{x
+The {Br{Ga{Yi{Mn{Cb{Ro{Dw{x staff of {b-->A{Bdiuv{bo<--{x
+a pair of wire rimmed spectacles of {b-->A{Bdiuv{bo<--{x
+{cT{Cran{cs{Wl{cu{Ccen{ct {DR{rob{De of {b-->A{Bdiuv{bo<--{x
+the e{ya{Dr{yt{xh ring of {b-->A{Bdiuv{bo<--{x
+a seashell ring of {b-->A{Bdiuv{bo<--{x
+a {DRaven{x Bar and Grill, leveling T-Shirt of {b-->A{Bdiuv{bo<--{x
+a backpack of {b-->A{Bdiuv{bo<--{x
+red moss of {b-->A{Bdiuv{bo<--{x
+a dirty root of {b-->A{Bdiuv{bo<--{x
+{x
+~
+
+104 'quest_rules'~
+Welcome to the wonderful world of Immortal run questing! As Quest Immortal,
+your primary function, obviously, is to run quests for the mortals every so
+often. There is no schedule to follow on how many to run, but don't run like
+5 a day, infact don't run more then 2, like one in the morning for the morning
+players, and one at night for the night players. You can run an iquest everyday
+if you wish, just make sure the prize reflects the level of difficulty in the quest.
+We have several areas used for quests, some of those are:
+VNUMs 35300 35499 for Dusk's Gauntlet.
+There are one or two more i have to put back in, then i'll re-update this help
+file accordingly.
+{!PRIZES{X
+Restraint should be taken into account when handing out prizes. The most favored
+prizes are usually Iquest points (vnum obj 50), aquest points, which must be awarded
+or set by the Immortal, Platinum, and things like that. Sometimes a random object
+is used as a prize, but since only a lvl 110 can load random objects, ask them first
+if it's ok to use it as a prize and then to load it for you. Mostly quest immortals
+as a general rule are on their own, they usually know what prizes are acceptable
+because they have played here for so long, which is a trait we look for in our quest
+Immortals. Any questions, ask a 110, and please be sure to write a quick note to
+Immortal after one of your quests, letting us know who won, what the quest was, and
+the prize.
+ 
+For prizes rules: quest_rules_prizes
+For ribbon rules: quest_rules_ribbon
+~
+
+108 upgrades_clan_dimmu~
+{x                               {DDi{Gm{Dm{Gu {DB{Gor{Dg{Gi{Dr{x - (20100-20150)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Clan Hall - With 1 starter room - {Y25 {yCubics Received{x
+{g            Links to: {xNemesis's Private Dungeon [{G3379{x]
+{xMason Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xBasic Room  - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{x
+~
+
+108 upgrades_clan_wolfpack~
+{x                               {W\{cW{wo{Cl{cf{W/\{cP{Ca{wc{ck{W/{x - (20600-20650)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xClan Hall  - With 1 starter room - {Y25 {yCubics Received{x
+{xMason Room   - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xTrainer Room - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xSmithy Room  - 1 -  {DNo Upgrades{x  - {Y75 {yCubics Received{x
+{xMage's Room  - 1 -  {DNo Upgrades{x  - {Y35 {yCubics Received{x
+{xShopkeeper   - 1 -  {DNo Upgrades{x  - {Y10 {yCubics Received{x
+{xShrine       - 1 -  {DNo Upgrades{x  - {Y40 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Mason        - 1 -  {DNo Upgrades{x - {mLevel {M25 - {Y25 {yCubics Received{x
+Trainer      - 1 -  {DNo Upgrades{x - {mLevel {M30 - {Y30 {yCubics Received{x
+Blacksmith   - 1 -  {DNo Upgrades{x - {mLevel {M25 - {Y100 {yCubics Received{x
+Mage         - 1 -  {DNo Upgrades{x - {mLevel {M30 - {Y100 {yCubics Received{x
+Shopkeeper   - 1 -  {DNo Upgrades{x - {mLevel {M25 - {Y50 {yCubics Received{x
+Priest       - 1 -  {DNo Upgrades{x - {mLevel {M30 - {Y125 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Portal to MS [Room {G3014{x] in Midgard - 1 - {YClan Purchase{x
+Ankle - {cS{Ct{we{ca{wl{Ct{ch {cP{Ca{wc{ck{x - {C15 {cDR{x - {Y545 {yCubics Received{x
+{x                       {C15 {cHR{x
+{x                       {C125 {cHP{x
+{x                       {C100 {cMana{x
+{x                       {C5 {cRegen{x
+{x                       {C-15 {cAC{x
+{x
+~
+
+104 quest_rules_ribbon~
+Ribbons are rewarded for participating in quests.  The vnum for the ribbons is 14601.  These can be turned in to a Quest Imm for a reward.
+They are rewarded based not only on participating, but by starting the iquest at the start and ending the iquest.  They are also given out for iquests that take longer than 35 minutes and every 15 minutes afterwards.
+ 
+1 Ribbon for playing
+1 Ribbon for starting on time
+1 Ribbon for ending with the quest
+ 
+Only available to people who start and end the quest on time
+1 Ribbon for an iquest that runs longer than 35mins
+1 Ribbon for every 15mins after the 35min mark
+ 
+Example:
+A quest runs for an hour.
+Player A started the quest on time, and stayed all the way to the end.
+Player B started the quest on time, but only stayed for the first 30 minutes.
+Player C started the quest after 15 minutes had already gone by, but stays until the end.
+Player A would recieve 5 ribbons (1 for participating, 1 for starting on time, 1 for ending with the quest, 1 for the quest lasting 35 minutes and 1 for the quest lasting another 15minutes afterwards.)
+Player B would recieve 2 ribbons (1 for participating and 1 for starting on time)
+Player C would recieve 2 ribbons (1 for participating and 1 for ending with the quest.)  He does not recieve time bonuses as he was late to the quest.
+ 
+Rewards are:
+~
+
+104 quest_rules_prizes~
+Players are rewarded for finishing in the top three (through five) based on the participation level.  All prizes are based on the math and are only subject to change on special bonus quest nights.
+ 
+Tops rewarded = players_participating / 3 (Minimum of 3, Maximum of 5)
+ 
+If players_participating is less than or equal to fifteen
+First - players_playing / 2 = IQ + AQ
+Second - players_playing / 3 = IQ + AQ
+Third - players_playing / 4 = IQ + AQ
+Fourth - players_playing * 45 = AQ
+Fifth - players_playing * 50 = plat
+ 
+If players_participating is greater than fifteen or the quest is labeled as a bonus quest (posted a week in advance)
+First - players_playing / 2 = IQ and random special/unique level 101
+Second - players_playing / 3 = IQ and random special/unique level 90 to 100
+Third - players_playing / 4 = IQ and random special/unique level 75-90
+Fourth - players_playing / 5 = IQ + AQ
+Fifth - players_playing / 6 = IQ + AQ
+~
+
+0 iquests immquests~
+Distorted Illusions has special event quests called 'IQuests', which are immortal run quests for players to enjoy.  The goal of an iquest is to have fun and take yourself away from the 'normal grind' of the mud.
+ 
+Immortals have a wide variety of quests that they create and run for the players.  It could be simple 'trivia questions' to really hard 'slay the immortal.'  As the immortals create and think up quests, help files will be added for each quest.
+ 
+Prizes are rewarded for players participating and winning the iquest.  Noone will walk away without something in their hand.  Prizes are outlined under 'iquest_prizes' with a breakdown of how prizes are awarded for the players.
+ 
+Please read 'questtypes' for a list of quests that immortals can run for the players.
+~
+
+0 quest_ribbon 'quest ribbon' iquest_prizes 'iquest prizes'~
+Players are rewarded for participating with ribbons, everyone will
+receive a ribbon for at least participating in the iquest.  Quest rewards
+will vary with the quest and Immortal running the quest.  
+ 
+{R*************************{YRIBBON EXCHANGE RATES{R*************************{x
+{R* {G1 {Y= {W50 Platinum{x
+{R* {G3 {Y= {W1000 Experience{x
+{R* {G5 {Y= {W1 IQuest Point{x
+{R* {G10 {Y= {W2 Trains{x
+~
+
+0 quest hide and seek~
+This is an iquest where an imm can either use his/her goto command to go
+to a specific place and hide, or transform into a mob and hide.  Either way,
+your objective as a player is to find this immortal and TAG them.  The
+immortal will only announce that you have found them if you tag them.  There
+are a few rules to this quest that you must abide by.  1) You cannot use any
+form of gate, portal, or any other transportation spell/skill you can
+conjure.  2) You cannot hinder your opponents walking abilities in any way. 
+This means attacking them, snaring them, or summoning them.  Any other rules
+the immortals want to set is at their discretion, and will require full
+cooperation from the players here at Distorted Illusions.  If you have any
+questions, concerns or comments about this quest, or the rules initiated
+here, please send a note to either Bayne, or Rishiss.  
+~
+
+0 quest Whack a Mole~
+Whack a Mole is a quest where players start in a specific room, and on
+the immortals' "Go" you will enter the portal and kill as many moles as
+possible and collect their tokens.  Once all the moles in the area have been
+killed, you will be slept and transported to the starting room.  Your tokens
+will be counted, and the person with the most tokens wins!  The rules of
+this quest are as follows: 1) No using area attacks.  2) No using gate
+spells or skills.  3) No attacking other people!  4) Use "Kill mole" only!!!
+If you have any questions, concerns or comments about the rules that were
+layed down or about the quest in general, please note Bayne or Rishiss.  
+~
+
+0 Events~
+Archmage Village: Opened sometime on the First Sunday of every month.
+~
+
+0 jobs_part2~
+Senior Immortals 106 - These immortals will be pooled from the Builders and Questors. Currently
+there is no need to have any Clan department immortals in this posistion. To achieve Senior status
+the Immortal must excel in their assigned area. By excel I mean if your a builder, you need to have
+built several areas, and have a good knowledge of the mud and how things interact with each other.
+Questors, must have vast knowledge of how the iquests are run, prize amounts and good judgement in
+issuing those prizes. Also decided by the Lead Quest Immortal on advancement to this position based
+on performance, and how many quests run etc. At this level, the Immortal should know how to build and
+how to run a Quest, as a Senior Immortal you set the example for the other Immortals to follow and
+if no other higher level immortals are on, hopefully you can answer their Questions. Senior Immortals
+and below, will not deal any Mortal Affairs, all they can do is pass the information along higher.
+Unless mandated by their job, of running a Quest, or going back to edit their area cause of a major
+flaw, they are not to leave the realm of the Immortals. Meaning their current area in progress or
+the other immortal areas. Sitting at MS interacting with mortals violates this and will be punished.
+ 
+Builders 105 - These Immortals have one job to do, and thats to build. They have already proven they
+have the knowledge and means to do, by being advanced to this position from the Apprentice Immortal.
+So as is such, their main task is to just build, come up with new concept of areas, pass those along
+to their Assistants/Leads for approval, then start their creations. Once a sufficient amount of areas
+have been made, put into the world, and found useful, then they may be considered for advancement. 
+Until then, just focus on building, its what your here for. Do not interact with Mortals, goof off
+or you will be fired.
+ 
+Questors 104 - As with the Builders, they have one job to do, and thats to provide the world with 
+a variety of Immortal run quests, that the Lead Quest Imm has approved. Make sure to check with your
+Lead/Assistant for any updates, check the files for the rewards and make sure to issue them 
+appropriately. All commands are logged, so very easy to see if cheating is occuring. Having a good
+personality and player interaction is vital in this position as your job requires you to interact
+with immortals during the quest. If your not running a quest all the same rules apply as with the 
+Builders, don't interact at MS, load items, show them off, etc.
+ 
+SEE: Help jobs_part1
+SEE: Help jobs_part3
+~
+
+0 jobs_part3~
+Apprentice Immortals 103 - These immortals will be divided up by builder or questor. They are all
+~
+
+108 upgrades_clan_kyuubi~
+{x                               {r:{D*{r:{cK{Dy{Cu{Du{cb{Ci{r:{D*{r:{x - (20700-20750)
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{GR{gOOM{GS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Clan Hall - With 1 starter room - {Y25 {yCubics Received{x
+{x            {gLinked To:{x The Throne Room [{G1569{x] [{Y1-11-2009{x]
+{xSmithy Room   - 1 - {DNo Upgrades{x - {Y75 {yCubics Received{x
+{xMasons Room   - 1 - {DNo Upgrades{x - {Y10 {yCubics Received{x
+{xShopkeeper    - 1 - {DNo Upgrades{x - {Y10 {yCubics Received{x
+{xMage Workshop - 1 - {DNo Upgrades{x - {Y35 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xTrainer       - 1 - {DNo Upgrades{x - {mLevel {M100{x - {Y170 {yCubics Received{x
+{xMason         - 1 - {DNo Upgrades{x - {mLevel {M25{x  - {Y25 {yCubics Received{x
+Guard         - 1 - {W24000 {DHP{x    - {mLevel {M100{x - {Y145 {yCubics Received{x
+{xBlacksmith    - 1 - {DNo Upgrades{x - {mLevel {M25{x  - {Y100 {yCubics Received{x
+{xShopkeeper    - 1 - {DNo Upgrades{x - {mLevel {M25{x  - {Y50 {yCubics Received{x
+{xMage          - 1 - {DNo Upgrades{x - {mLevel {M30{x  - {Y100 {yCubics Received{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xPortal to Jeweler's [Room {G3034{x] in Midgard - 1 - {YClan Purchase{x
+{xAnklet  - {r:{D*{r:{cK{Dy{Cu{Du{cb{Ci{r:{D*{r:{x Anklet - {C15 {cDR{x - {Y935 {yCubics Received{x
+{x                                {C15 {cHR{x
+{x                                {C-15 {cAC{x
+{x                                {C125 {cHP{x
+{x                                {C5 {cRegen{x
+{x                                {C-5 {cSaves{x
+{x                                {C5 {cAge{x
+{x                                {cPass_Door{x
+{x                                {cFlying{x
+Wrists - :*:Kyuubi:*: Wristguard - {C15{c DR{x - {Y 345 {yCubics Received{x
+{x                                {C-15 {cAC{x
+{C                                125 {cHP{x
+{x
+~
+
+0 Darken Blade~
+This spell, conjured from deep within Fades, adds damage and the vampiric
+flag for a short amount of time to a weapon.  But also makes it so the good
+or neutral cannot wield.  
+~
+
+0 hall_exit~
+The following are the requirements for a legal clanhall exit:
+
+1. A level 101 player with no items or spells must be able to walk to your hall from ms
+{x   and back without being attacked, unlocking a door, entering a portal, ect.
+ 
+2. All exits within a hall and linking to the outside world are simple two-way exits.
+ 
+3. Just to be clear.  You can make them behind closed doors as long as you don't have to
+{x    unlock them, enter a portal, go over a flying/boat room.
+ 
+4. The price to move a clan exit is 1 Blue diamond. It can only be moved once a week.
+~
+
+108 upgrades_clan_conquest~
+{x                               {D*{W-{DCo{Rn{rqu{Re{Dst{W-{D*{x - (20800-20850)
+{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{y>{GR{gOOMS{y<{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{D*{W#{x
+{xClan Hall - With 1 starter room - {Y25{y Cubics Received{x
+{g            Links to: {WBefore the entrance to the Underdark [{G16427{W] [{Y1-13-2009{W]{x
+Smithy Room   - 1 - {DNo Recall   - {Y85{y Cubics Received{x
+Trainers Room - 1 - {DNo Recall   - {Y20{y Cubics Received{x
+Shopkeeper    - 1 - {DNo Recall   - {Y20{y Cubics Received{x
+Mage Workshop - 1 - {DNo Recall   - {Y45{y Cubics Received{x
+Shrine        - 1 - {DNo Recall   - {Y50{y Cubics Received{x
+Basic Room    - 1 - {DNo Recall   - {Y20{y Cubics Received{x
+{D                    No Magic
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{y>{RM{rOBILE{RS{y<{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+{xTrainer       - 1 - {DNo Upgrades{x - {mLevel {M100{x - {Y170 {yCubics Received{x
+{xMason         - 1 - {DNo Upgrades{x - {mLevel {M25{x  - {Y25 {yCubics Received{x
+{xBlacksmith    - 1 - {DNo Upgrades{x - {mLevel {M25{x  - {Y100 {yCubics Received{x
+{xShopkeeper    - 1 - {W24 Hours   {x - {mLevel {M25{x  - {Y110 {yCubics Received{x
+{x                    {WWeapons{x
+{x                    {WJewelry{x
+{xMage          - 1 - {DNo Upgrades{x - {mLevel {M80{x  - {Y200 {yCubics Received{x
+{xGood Priest   - 1 - {DNo Upgrades{x - {mLevel {M60{x  - {Y185 {yCubics Received{x
+Guard         - 1 - {W32000 {DHP{x    - {mLevel {M100 {x- {Y1070 {yCubics Received{x
+{W                    AC: -{C208{x
+{x                    {WACT - Warrior{x
+{x                    {WOFF - Dodge{x
+{x                    {WOFF - Berserk{x
+{x                    {WOFF - Dirt kick{x
+{x                    {WOFF - Bash{x
+{x                    {WOFF - Parry{x
+{W                    IMM - Pierce{x
+{x                    {WFireshield{x
+{x                    {WIcehield{x
+{x                    {WShockshield{x
+{x
+{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{y>{BI{bTEM{BS{y<{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{D*{w#{x
+Portal to Jeweler's [Room {G3034{x]  in Midgard  - 1 - {YClan Purchase{x
+Portal to Strange   [Room {G17690{x] in Kingdoms - 1 - {Y40 {yCubics Received{x
+Portal to Stairwell [Room {G39721{x] in SkyKing  - 1 - {Y40 {yCubics Received{x
+Portal to Station   [Room {G5411{x]  in Fortress - 1 - {Y40 {yCubics Received{x
+Portal to Arlingor's Tomb [Room {G17710{x] in Kingdoms - 1 - {Y40 {yCubics Received{x
+Furniture  - {!B{8i{1g {!R{8e{1d {!C{8o{1u{!c{1h{x  - {C400 {cRegen{x - {Y205 {yCubics Received{x
+Anklet  - Shackles Conquest - {C15 {cDR{x     - {Y715 {yCubics Received{x
+{C                              5 {cRegen{x
+{x                              {C15 {cHR{x
+{x                              {C125 {cHP{x
+{x                              {C-5 {cSaves{x
+{x                              {C-15 {cAC{x
+{C                              2 {cIntelligence{x
+Earring - Studs Conquest    - {C15 {cDR     {x- {Y490 {yCubics Received{x
+{x                              {C15 {cHR{x
+{x                              {C-15 {cAC{x
+{C                              125 HP
+{C                              5 {cRegen{x
+{x                              {cPassdoor{x
+Floater - Stench of Victory - {C15 {cDR     {x- {Y345 {yCubics Received{x
+{x                              {C15 {cHR{x
+{x                              {C-15 {cAC{x
+{C                              125 HP
+{C                              5 {cRegen{x
+ 
+~
+
+0 dcdirections~
+These are directions to the areas on the Dark Continent of Asgard.
+All directions start at the recall well in Dark Continent.  The easiest way to use
+these directions is the run command.  In example: type 'run 8es', and you will
+go to the Gnome Village.  This is easier than typing e, e, e, e, e, e, e, e, s.
+ 
+Extraneous Tags:
+({yI{x): Invis is needed to avoid aggressive mobiles
+({cB{x): a Boat/Fly is needed
+({CF{x): Fly is needed
+~
+
+0 clan_exits~
+A naked level 101 character must be able to walk to your hall and back
+from MS without being attacked or having to unlock/pass any doors.
+ 
+Water is LEGAL
+Flying is ILLEGAL
+Aggie Mobs are ILLEGAL
+Locked Doors are ILLEGAL
+If you have further questions, consult your clan imm.
+~
+
+0 nightstalker~
+---------------------------------------------------------------------
+Nighstalker is an ability for Fade and Banshee.
+Syntax: nighstalker
+ 
+There are also some spells and skills accessible only while in nightstalker mode.
+typing 'abil'
+ 
+You may turn nightstalker on between the hours of 4 and 6 am.
+You may turn it off between the hours of 4 and 6 pm.
+Use the prompt variable %t to display color-coded time in your prompt.
+ 
+When in nightstalker mode, your damage depends much more heavily
+on the time of day.  You will be weak during day and strong at night.
+ 
+There are also some spells and skills accessible only while in nightstalker
+~
+
+0 sense vitality~
+Sense vitality is a voodan spell that allows the voodan to establish a
+link with their target.  That link will allow the voodan to read a player's
+vitals from anwhere as long as the link stands.
+The vitals (Hp, Mana, Move) will be displayed in percentage form.
+
+Syntaxes:
+cast 'sense vitality' <target>
+Once the link is established:
+sense <target>
+~
+
+0 continent~
+These are the area's that are located on the Dark Continent, on the far side of
+the land.
+Ocean Passage
+The Coastline
+Forest of Illusions
+Kingdoms
+Troy
+Hope City
+Blackwater Park
+Bandlands (const)
+Northern Mines (const)
+Mountain Passage (const)
+The Colosseum (const)
+~
+
+0 equipment_transfer~
+Equipment may be transferred between two characters owned by
+the same person in the following cases:
+1. From a pk to a pk
+2. From a pk to a non-pk
+3. From a non-pk to a non-pk
+Once eq is put on a nonpk char it cannot go back to pk,
+{x     and that character cannot become pk.
+{rRemember: If you choose to transfer equipment, you must
+{RDELETE{r the character giving the eq once the transfer is complete.{x
+~
+
+0 vote~
+Having fun? Please take a second and vote for us on mudconnector.
+- One vote per day
+{Chttp://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Distorted+Illusions{x
+~
+
+0 transmute~
+Transmute is a spell that allows the alchemist to change the damage noun of a weapon.
+You must purchase a Philosopher's Stone at the quest master to use this spell.
+The damtype arguments for this spell are:
+ 
+{r***************{Y<{CDamtype Numbers{Y>{r**************{x
+{r* {WSlice{D.............{Y1 {r** {WPeck(Bash){D.......{Y24 {r*
+{r* {WStab{D..............{Y2 {r** {WChop{D.............{Y25 {r*
+{r* {WSlash{D.............{Y3 {r** {WSting{D............{Y26 {r*
+{r* {WWhip{D..............{Y4 {r** {WSmash{D............{Y27 {r*
+{r* {WClaw{D..............{Y5 {r** {WShocking Bite{D....{Y28 {r*
+{r* {WBlast{D.............{Y6 {r** {WFlaming Bite{D.....{Y29 {r*
+{r* {WPound{D.............{Y7 {r** {WFreezing Bite{D....{Y30 {r*
+{r* {WCrush{D.............{Y8 {r** {WAcidic Bite{D......{Y31 {r*
+{r* {WGrep{D..............{Y9 {r** {WChomp{D............{Y32 {r*
+{r* {WBite{D.............{Y10 {r** {WLife Drain{D.......{Y33 {r*
+{r* {WPierce{D...........{Y11 {r** {WThrust{D...........{Y34 {r*
+{r* {WSuction{D..........{Y12 {r** {WSlime{D............{Y35 {r*
+{r* {WBeating{D..........{Y13 {r** {WShock{D............{Y36 {r*
+{r* {WDigestion{D........{Y14 {r** {WThwack{D...........{Y37 {r*
+{r* {WCharge{D...........{Y15 {r** {WFlame{D............{Y38 {r*
+{r* {WSlap{D.............{Y16 {r** {WChill{D............{Y39 {r*
+{r* {WPunch{D............{Y17 {r** {WTypo{D.............{Y40 {r*
+{r* {WWrath{D............{Y18 {r** {WBlaze{D............{Y41 {r*
+{r* {WMagic{D............{Y19 {r** {WFlash{D............{Y42 {r*
+{r* {WDivine Power{D.....{Y20 {r** {WFury{D.............{Y43 {r*
+{r* {WCleave{D...........{Y21 {r** {WWave{D.............{Y44 {r*
+{r* {WScratch{D..........{Y22 {r** {WPsionic Assault{D..{Y45 {r*
+{r* {WPeck(Pierce){D.....{Y23 {r** {WSonic Blast{D......{Y46 {r*
+{r**********************************************{x
+~
+
+0 martyr~
+syntax: cast martyr
+Martyr allows a saint to sacrifice themself for the greater good.
+This spell when cast will draw the attention of every unfriendly thing in the room, causing them to attack.
+~
+
+0 meditation~
+Syntax: trance
+Meditation is a skill that allows you to rest and regenerate your mana.
+~
+
+0 overgrowth~
+Syntax: cast overgrowth
+Overgrowth summons forth an enchanted forest for a short period of time,
+allowing a shaman or hunter to blend or find herbs necessary for healing.
+~
+
+0 double voucher~
+{YA Double EXP Voucher{x is an item that pops as a unique.
+It can be redeemed with an Immortal for ONE hour of double exp.
+~
+
+0 stock market~
+The stock market allows you to invest your money in stocks that fluctuate over time.
+Syntax:
+stock list
+stock sell/buy <stock name>
+ 
+The stocks automatically fluctuate every couple hours, you will see an INFO each time this happens.
+The stock market can surge or crash.  When a surge/crash occurs you are notified over INFO.
+A surge or crash makes all future fluctuations guaranteed positive/negative for the next couple stock changes.
+If a stock reaches 100 platinum or lower the company is considered bankrupt.  All shares of that stock become worthless
+and it is replaced by another company.  Bankruptcy warnings are broadcast over the INFO channel whenever stocks update.
+The stock market resets once randomly every 30-60 days. When this happens, obviously, the prices will be
+reset to the base price. Meaning the original starting price. Do the math, yes you can lose money on this
+very badly, but you can also make money if your not a greedy bastard :)
+~
+
+1 scripting~
+Scripting rules have changed as of March 1st, 2009.
+{YScripting, either AFK or while at the keyboard, is {RILLEGAL{X
+Triggering is illegal under these circumstances:
+  {D1.{X Using triggers to kill mobs. 
+  {D2.{X Using triggers to kill players or exotic mobs such as babbles, chronos mages, or shifters.
+You may use triggers for anything else, like keeping yourself spelled up or responding to tells.
+You may also use triggers to get things from corpses after combat is finished.
+   I.E.: Using a trigger to get all corpse after your charmie/conjured pet gets the kill.
+{YScripting is defined as the following:{X
+  Using anything other then hand typed commands to kill mobs. Writing a pearl/xml or any other code/script
+   To kill a mob(s) or player(s). 
+Any questions ask the Immortals. If you think it MIGHT be illegal or qualify as scripting, ask the Immortals.
+{RAnyone found scripting or triggering will be slayed/eaten or nuked/banned.{X
+We do not take this matter lightly as scripting has destroyed this mud in the past, resulting in a Player Wipe.
+~
+
+1 restore mana~
+This spell is not meant for players. You may see it on your gain list if you are one of the very few classes that can technically gain it. However, if you CHOOSE to gain it you will lose it when you log out. This spell
+is meant for potions, mobs, and scrolls/wands. Not for players. It has to be given to a class in order for it to work how we intended it to work.
+If you choose to gain it without reading this help file you will not be reimbursed. So don't ask.
+~
+
+0 mana blast~
+Archmages use this spell to exploit the weakness and vulnerabilities of other players and mobs.
+This spell targets the individual mob or player's specific vulnerability and modifies it's damage
+accordingly to exploit it. The spell is based both on the Archmages' current and max mana at the
+time of casting. There are other considerations besides that, but those are the main damage factors.
+~
+
+0 fork~
+Voodans, Banshee's, Fade's, and Necromancers have the unique ability to shoot a burst of
+flame from their hand that splits into two, striking the intended target twice with one
+spell. This spell has a unique built in sorcery feature that acts independently of the normal 
+sorcery function. However, in rare cases both the built in sorcery function and the normal
+sorcery function will both activate, giving the caster a larger amount of flame damage to be
+sent hurdling towards his or her intended victim.
+~
+
+0 age~
+Age is gained both by hours played and also given to the player by certain pieces of mob eq
+and random/unique eq. It factors into several spells, but is mainly used by Banshee's in the
+casting of Shriek. The higher the age of the Banshee, the more damage his or her Shriek will
+do. This is also true for certain spells. The higher the age, the more damage dealt to the intended
+victim of said spells.
+~
+
+0 pwipe~
+There was a player wipe on {YMarch 1st 2009{x. There will be {YNO MORE PLAYER WIPES.{x
+~
+
+0 $~
+
+#$

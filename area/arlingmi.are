@@ -1,0 +1,244 @@
+#AREADATA
+Name Arlingor Mine~
+Builders Bree Unlinked~
+VNUMs 45000 49000
+Continent 2
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#45051
+Emprot guardian~
+{DE{wm{dp{wr{Wo{Dt{X~
+{DE{wm{dp{wr{Wo{Dt{X, the guardian of The Box is here.
+~
+Atleast twelve feet tall, Emprot is prehaps the largest giant you've
+ever seen. His arms are the size of beer kegs, and his hands look
+big enough to strangle you with just one of them. His calm demeanor
+indicates that he is not in the least threatened by you.
+~
+storm-giant~
+ABFGRT DFJTVZac N -1000 0
+180 225 1d1+38000 1d1+2300 40d49+325 wrath
+-120 -120 -120 -120
+DEFGHIKO ABJMQ 0 NP
+stand stand none 93929
+AHMV ABCDEFGHIJK giant unknown
+#45052
+cloaked mage~
+a {Dcl{wo{Da{wk{Ded{X mage~
+A {Dcl{wo{Da{wk{Ded{X mage hovers around here.
+~
+~
+fire-giant~
+ABFGR DFJPQTVZ N -1000 0
+189 215 1d1+25000 1d1+2000 40d40+200 fury
+-110 -110 -110 -110
+CDFIK ABH 0 IN
+stand stand none 92223
+AHMV ABCDEFGHIJK huge unknown
+#45053
+wandering giant~
+Wandering giant~
+A wandering giant is here, stalking around.
+~
+It's a giant! run!
+~
+frost-giant~
+ABFGT DFJPQTVZ N -1000 0
+189 220 1d1+25000 1d1+2000 40d40+215 wrath
+-100 -100 -100 -100
+CDFIK ABI 0 HNP
+stand stand female 89000
+AHMV ABCDEFGHIJK medium unknown
+#45054
+stocky dwarf cleric~
+a stocky {wd{Ww{wa{Wr{wf{X~
+A stocky dwarf is here, eyeing you down.
+~
+~
+white-dwarf~
+ABFGQ DFJPQTVZa 0 -1000 0
+190 200 1d1+26700 1d1+10000 40d40+200 pound
+-100 -100 -100 -100
+CDFIK A L NR
+stand stand none 20992
+AHMV ABCDEFGHIJK medium unknown
+#45055
+hydra black giant~
+a giant black {*h{1y{8d{1r{*a{X~
+A giant black {*h{1y{8d{1r{*a{X charges at you!
+~
+~
+firbolg~
+ABFGP E 0 -1000 0
+190 240 1d1+28000 3d3+2000 40d50+230 psias
+-120 -120 -120 -120
+FHJKO AB 0 MN
+stand stand none 120000
+AHMV ABCDEFGHIJK medium unknown
+#45056
+shimmering elf~
+a {8s{wh{8i{wm{8m{we{8r{wi{8n{wg{X elf~
+A {8s{wh{8i{wm{8m{we{8r{wi{8n{wg{X elf is floating around here.
+~
+It's an Elf! need a picture?
+~
+dark-elf~
+ABFGR DFJPQTVZ DN -1000 0
+189 200 1d1+26000 1d1+23000 35d46+200 magic
+-90 -90 -90 -90
+BDFGH AB 0 NS
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#45057
+a small gremlin~
+a small {Dg{wr{We{wm{Dl{wi{Wn{X~
+A small {Dg{wr{We{wm{Dl{wi{Wn{X sulks around here.
+~
+~
+gremlin~
+ABFGR DFJPQTVZ 0 -1000 0
+175 150 1d1+21000 1d1+2000 25d43+175 pound
+-70 -70 -70 -70
+CFHJ AB D N
+stand stand none 3992
+AHMV ABCDEFGHIJKP medium unknown
+#45058
+Giddeon~
+Giddeon~
+Giddeon stands before you, growling at you.
+~
+~
+storm-giant~
+ABFGT DFJPQTVZ N -1000 0
+200 250 1d1+40000 1d1+2000 40d50+326 fury
+-145 -145 -145 -150
+AEFGHIKO ABJ 0 P
+stand stand male 39221
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#45051
+cloaked pendant~
+a {Dc{wl{Wo{Da{wk{We{Dd{X pendant~
+A small pendant is here, hiding.~
+unknown~
+jewelry EFG AC
+0 0 0 0 0
+101 1 99000 P
+F
+S 0 0 B
+F
+A 0 0 P
+A
+19 10
+A
+20 2
+A
+17 -10
+A
+18 15
+#45052
+patch of the giant~
+{!Patch{X of the giant~
+A giant looking patch lies here.~
+unknown~
+armor 0 AW
+ADE ADE ADE ADE 0
+101 0 120002 P
+A
+19 12
+A
+18 5
+A
+14 -50
+#45053
+speck of obsidian~
+a {^sp{6e{^ck{X of {*obsidian{X~
+A tiny spec of some kind of crystal lies here.~
+unknown~
+jewelry 0 AS
+0 0 0 0 0
+101 0 90000 P
+A
+17 25
+A
+13 400
+A
+18 20
+F
+A 0 0 L
+#45054
+hollowed out hydra head~
+a hollowed out {*h{1y{*d{1r{*a{X head~
+A peice of flesh lies here, decaying.~
+unknown~
+armor 0 AR
+ADE ADE ADE ADE 0
+101 0 65000 P
+A
+20 1
+A
+19 10
+A
+13 100
+#45055
+an unremarkable flask~
+an {1unre{wmark{1able{X flask~
+A small flask lies here, forgotten.~
+unknown~
+drink 0 AO
+1500 1500 'rum' 0 0
+101 0 90000 P
+#45056
+armor giddeon's~
+{2G{4i{2d{4d{2e{4o{2n{4'{2s{X {1Armor{X~
+A shimmering plate lies here, discarded.~
+unknown~
+armor G AD
+CE CE CE CE 0
+101 0 100000 P
+A
+18 10
+A
+19 14
+A
+13 50
+A
+12 -100
+A
+3 -3
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,125 @@
+[{wXorax       {B] {yFeb 12: {wdarken blade
+[{wXorax       {B] {yFeb 12: {wdarkshield
+[{wXorax       {B] {yFeb 12: {wfeeble mind
+[{wXorax       {B] {yFeb 12: {wfang fists
+[{wXorax       {B] {yFeb 12: {wcombat ends mid sentance
+[{wDiomedes    {B] {yFeb 12: {warcane shard
+[{wDiomedes    {B] {yFeb 12: {wnewgod
+[{wZarko       {B] {yFeb 15: {wnohelp
+[{wXorax       {B] {yFeb 15: {wdecapitate/subdue
+[{wXorax       {B] {yFeb 15: {wvoodoo: revise help file for no restriction pkill
+[{wXorax       {B] {yFeb 15: {wadvanced sword (all weapons)
+[{wXorax       {B] {yFeb 15: {wclasses
+[{wXorax       {B] {yFeb 15: {wcreation
+[{wSip         {B] {yFeb 16: {woutcast
+[{wKilgore     {B] {yFeb 16: {whelp food
+[{wZarko       {B] {yFeb 17: {wsoul burn
+[{wZarko       {B] {yFeb 17: {whead cut
+[{wZarko       {B] {yFeb 17: {wacid blast
+[{wZarko       {B] {yFeb 17: {wshocking grasp
+[{wBogy        {B] {yFeb 17: {wvoodan curse
+[{wBogy        {B] {yFeb 17: {wsoul burn
+[{wZarko       {B] {yFeb 18: {wacid rain
+[{wRaike       {B] {yFeb 18: {wbank
+[{wDiomedes    {B] {yFeb 20: {wtorrent
+[{wDiomedes    {B] {yFeb 21: {wmanashield
+[{wByakko      {B] {yFeb 21: {wprotection voodoo
+[{wDiomedes    {B] {yFeb 25: {wrape
+[{wDefari      {B] {yFeb 27: {wogrillon
+[{wSlayer      {B] {yFeb 28: {wstrength
+[{wCharon      {B] {yMar  1: {wempower blade
+[{wDiomedes    {B] {yMar  5: {wsquire
+[{wAlexandra   {B] {yMar  5: {wchop
+[{wAlexandra   {B] {yMar  6: {wriposte
+[{wAlexandra   {B] {yMar  7: {wbloodlust
+[{wRoq         {B] {yMar  9: {wrevoke
+[{wCharon      {B] {ySep  3: {wrandom
+[{wWriech      {B] {ySep  3: {wpimp
+[{wMortifer    {B] {ySep  6: {wfeeble mind
+[{wXavior      {B] {ySep  6: {wcourage
+[{wKral        {B] {ySep  8: {wmantis
+[{wCharon      {B] {ySep 18: {wmysteria
+[{wCharon      {B] {ySep 18: {wkingdoms
+[{wCharon      {B] {ySep 24: {willusionary
+[{wXicol       {B] {ySep 24: {wmana shield
+[{wXicol       {B] {ySep 24: {warcane shards
+[{wXicol       {B] {ySep 25: {wglobe of invulnerability
+[{wXicol       {B] {ySep 28: {wswanmay
+[{wKral        {B] {ySep 28: {wmortifer
+[{wNilaht      {B] {ySep 29: {wthrow
+[{wNilaht      {B] {ySep 29: {wtumble
+[{wUgod        {B] {ySep 30: {wsquire
+[{wUgod        {B] {yOct  2: {wriposte
+[{wCharon      {B] {yOct  5: {wint
+[{wBayle       {B] {yOct  5: {wfear aura
+[{wBayle       {B] {yOct  5: {wnerve
+[{wBayle       {B] {yOct  5: {wtumble
+[{wEpohs       {B] {yJan  6: {wnerve
+[{wMurderface  {B] {yJan 11: {w'create rose'
+[{wEpohs       {B] {yJan 17: {wpray
+[{wEpohs       {B] {yJan 17: {wprayer
+[{wHamlet      {B] {yJan 19: {wmove
+[{wHamlet      {B] {yJan 19: {wnewbie
+[{wKohjahk     {B] {yJan 20: {wghost
+[{wLucidvein   {B] {yJan 24: {wshocking grasp
+[{wLucidvein   {B] {yJan 24: {willusionary armor
+[{wLucidvein   {B] {yJan 24: {wburning hands
+[{wFesdor      {B] {yJan 27: {wlearned
+[{wIsis        {B] {yJan 30: {wcommand
+[{wIsis        {B] {yJan 30: {wcommand help int
+[{wShioban     {B] {yFeb  5: {wclass
+[{wKestral     {B] {yFeb  5: {woutcast
+[{wLucidvein   {B] {yFeb 10: {wovergrowth
+[{wCuoris      {B] {yFeb 13: {wremort
+[{wKral        {B] {yFeb 18: {wprices-mob-act
+[{wZhyril      {B] {yMar  1: {wtriggers
+[{wFistandulus {B] {yMar  4: {wprayer
+[{wBawn        {B] {yMar  5: {wmadness
+[{wBawn        {B] {yMar  5: {wiceward
+[{wUrkon       {B] {yMar 15: {wdeity
+[{wEolu        {B] {yApr  1: {wremort
+[{wEolu        {B] {yApr  1: {wdual wield mastery
+[{wMinoro      {B] {yApr  2: {wwisdom
+[{wEolu        {B] {yApr  2: {wadvanced sword
+[{wEolu        {B] {yApr  2: {wdual wield mastery
+[{wEolu        {B] {yApr  2: {wadvanced axe
+[{wVorin       {B] {yApr  4: {wprismatic spray
+[{wVorin       {B] {yApr  4: {wacid blast
+[{wBroden      {B] {yApr  5: {wglobe of invulnerability
+[{wBroden      {B] {yApr  5: {wdetect motion
+[{wBroden      {B] {yApr  5: {wfeeble mind
+[{wVorin       {B] {yApr  5: {wfrost blade
+[{wVorin       {B] {yApr  6: {wint
+[{wVorin       {B] {yApr  6: {wsteel flesh
+[{wNil         {B] {yApr 10: {wfeeble mind
+[{wNil         {B] {yApr 11: {wfists of fury
+[{wNil         {B] {yApr 11: {wtumble
+[{wNil         {B] {yApr 11: {wfists of flame
+[{wNil         {B] {yApr 11: {wfists of ice
+[{wNil         {B] {yApr 11: {wfists of liquid
+[{wNil         {B] {yApr 11: {wfists of divinity
+[{wNil         {B] {yApr 11: {wadamantium palm
+[{wRikimaru    {B] {yApr 18: {wchop
+[{wDauthi      {B] {yApr 28: {wmummify
+[{wDangg       {B] {yApr 29: {wbladedance
+[{wUgod        {B] {yMay  3: {wdecay corpse
+[{wCabo        {B] {yMay  4: {wacbash
+[{wClaudia     {B] {yMay  5: {wsaves
+[{wClaudia     {B] {yMay  5: {wsuffix
+[{wMortifer    {B] {yMay  5: {wsuffix
+[{wEolu        {B] {yMay  6: {wgrenado
+[{wVorin       {B] {yMay  7: {wfortify intelligence
+[{wVorin       {B] {yMay  7: {wwrath of god
+[{wVorin       {B] {yMay  7: {wprayer
+[{wVorin       {B] {yMay  7: {wshield
+[{wVorin       {B] {yMay  7: {wsteel flesh
+[{wVorin       {B] {yMay 11: {wsoul burn
+[{wHighwind    {B] {yMay 12: {wchannel
+[{wToken       {B] {yMay 13: {wNEWBIE HELP
+[{wFlexo       {B] {yMay 18: {wnerve
+[{wFlexo       {B] {yMay 18: {wtumble
+[{wFlexo       {B] {yMay 18: {wtumble
+[{wFlexo       {B] {yMay 24: {wtumble
+[{wHush        {B] {yMay 27: {wtumble
+[{wSirensu     {B] {yJun 13: {wnerve
+[{wRikimaru    {B] {yJun 17: {wmadness

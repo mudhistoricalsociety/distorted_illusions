@@ -1,0 +1,6958 @@
+#AREADATA
+Name Forest of Illusions~
+Builders None~
+VNUMs 22400 22699
+Continent 2
+Credits {y[{Y  LGD {y]{c Ishamael {YForest of Illusions{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#22400
+guardian forest~
+a guardian of the forest~
+A guardian of the forest stands here watching for evil.
+~
+~
+human~
+ABST CDFGJPQa 0 1000 0
+155 400 1d1+60000 1d1+100000 400d2+10 wrath
+-70 -70 -70 -75
+BCEFHIJKOQ A DMO NS
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 22400 100~
+#22401
+buck deer~
+A Large Buck~
+A buck stands here, grazing.
+~
+~
+human~
+A Z 0 -1000 0
+85 0 15d10+2200 0d0+0 5d10+20 charge
+-15 -15 -15 -15
+C 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 22402 100~
+#22402
+doe deer~
+A Doe~
+A doe gambols about.
+~
+~
+human~
+A Z 0 1000 0
+85 0 15d10+2200 0d0+0 4d10+15 charge
+-15 -15 -15 -15
+C A 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 22402 100~
+#22403
+cougar~
+a cougar~
+A cougar slinks about gracefully.
+~
+~
+wolf~
+AFG DFZb 0 0 0
+160 300 1d1+23000 0d0+0 20d40+50 claw
+-40 -40 -40 -40
+FH A 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJKQV medium unknown
+M DEATH 22401 100~
+#22404
+wood sprite~
+a wood sprite~
+A wood sprite dances between the trees.
+~
+~
+pixie~
+AGS DF B 1000 0
+150 200 1d1+20000 0d0+0 10d27+50 claw
+-30 -30 -30 -30
+FHIK B 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+F aff T
+M DEATH 22403 100~
+M FIGHT 22409 100~
+#22405
+treant tree wood~
+a treant~
+A large treant stands here guarding the forest.
+~
+~
+lizardman~
+AFG b 0 1000 0
+160 300 1d1+23000 0d0+0 20d40+50 claw
+-40 -40 -40 -40
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+#22406
+water sprite~
+a water sprite~
+A water sprite glides across the lake surface.
+~
+~
+pixie~
+ABGS DF B 1000 0
+150 200 1d1+20000 0d0+0 10d27+50 claw
+-30 -30 -30 -30
+FHIK B 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+F aff T
+M DEATH 22403 100~
+#22407
+lake serpent monster~
+a large serpent~
+A large serpent swims half exposed in the water.
+~
+~
+lizardman~
+AFG b 0 1000 0
+160 300 1d1+23000 0d0+0 20d40+50 claw
+-65 -50 -50 -56
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+M DEATH 22410 100~
+#22408
+lake serpent monster~
+an enourmous serpent~
+An enourmous serpent swims across the lake surface.
+~
+~
+lizardman~
+AFG b 0 1000 0
+165 300 1d1+23000 0d0+0 25d45+75 claw
+-65 -50 -50 -56
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+M DEATH 22411 100~
+#22409
+baker~
+the baker~
+The baker scurries about checking the ovens.
+~
+~
+human~
+ABV 0 0 900 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 80000000
+AHMV ABCDEFGHIJK medium unknown
+#22410
+Jeweller~
+a jeweller~
+A jeweller sits here working on a piece.
+~
+~
+human~
+ABa DFJ 0 1000 0
+100 500 1d1+500000 0d0+0 1d1+1000 none
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22412 13829~
+M GIVE 22412 22010~
+M GIVE 22412 22435~
+M GIVE 22413 22439~
+M GIVE 22413 22014~
+M GIVE 22413 13833~
+M GIVE 22414 22443~
+M GIVE 22414 22018~
+M GIVE 22414 13837~
+M GIVE 22415 22447~
+M GIVE 22415 22021~
+M GIVE 22415 13841~
+M GIVE 22416 22451~
+M GIVE 22416 22025~
+M GIVE 22416 13845~
+M GIVE 22417 22452~
+M GIVE 22417 22026~
+M GIVE 22417 13846~
+#22411
+village guard~
+a village guard~
+A village guard patrols the streets.
+~
+~
+human~
+AT DFJV N 1000 0
+145 200 1d1+20000 0d0+0 15d30+50 none
+-40 -40 -40 -40
+CEK 0 F 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#22412
+small child~
+a small child~
+A small child plays here creating a mess.
+~
+~
+human~
+A 0 0 1000 0
+10 0 1d1+50 0d0+0 1d1+1 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22413
+wife house housewife~
+a house wife~
+A housewife moves about cleaning up the home.
+~
+~
+human~
+A 0 0 0 0
+15 0 1d1+100 0d0+0 1d1+10 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22414
+wizard~
+an old wizard~
+An old wizard sits reading a large tome.
+~
+~
+human~
+AB 0 0 0 0
+150 0 1d1+100000 0d0+0 100d100+5 none
+-100 -100 -100 -150
+0 CD 0 0
+stand stand male 80000000
+AHMV ABCDEFGHIJK medium unknown
+#22415
+blacksmith~
+a large blacksmith~
+A burly blacksmith stands here working on a new piece.
+~
+~
+human~
+AB 0 0 100 0
+140 0 1d1+120938 0d0+0 150d98+1203 none
+0 0 0 0
+0 0 0 0
+stand stand none 80000000
+AHMV ABCDEFGHIJK medium unknown
+#22416
+dwarven appraiser~
+a dwarven appraiser~
+A dwarven appraiser sits here examining gems.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 3d130+23099 0d0+0 500d12+120 none
+0 0 0 0
+0 0 L 0
+stand stand none 50000000
+AHMV ABCDEFGHIJK medium unknown
+#22417
+dwarven brewer~
+a dwarven brewer~
+A stout dwarf careful checks the stills.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+#22418
+dwarven weaponsmith~
+a dwarven weaponsmith~
+A dwarven weaponsmith works the bellows as he prepares to make another weapon.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+53409 0d0+0 1d7013+1230 none
+0 0 0 0
+0 0 L 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22419
+dwarven miner~
+a dwarven miner~
+A dwarven miner wanders about the cavern.
+~
+~
+dwarf~
+A DFJ 0 1000 0
+145 50 1d1+20000 0d0+0 15d30+50 none
+-40 -40 -40 -40
+CEKT 0 FL 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#22420
+dwarven metal worker~
+a dwarven metal worker~
+A dwarven metal worker moves about carefully crafting a piece of armor.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d4093+3409 0d0+0 390d123+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22421
+seamstress~
+a seamstress~
+A seamstress sits here working on making a new cloak.
+~
+~
+human~
+AB 0 0 0 0
+130 0 1d5+20000 0d0+0 130d130+500 none
+0 0 0 0
+0 0 0 0
+stand stand none 12309
+AHMV ABCDEFGHIJK medium unknown
+#22422
+a shop keeper~
+a shop keeper~
+A shop keeper mulls about the store inspecting goods.
+~
+~
+human~
+AB 0 0 0 0
+0 0 1d1+50000 0d0+0 30d409+200 none
+0 0 0 0
+0 0 0 0
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+#22423
+metal worker~
+a metal worker~
+A metal worker moves about carefully crafting items.
+~
+~
+human~
+AB 0 0 0 0
+150 0 1d5+12309 0d0+0 123d321+1230 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22424
+wizards apprentice~
+a wizard's apprentice~
+A wizards apprentice sits here examining a large tome.
+~
+~
+human~
+A 0 CDEHN 1000 0
+120 30 1d1+15000 0d0+0 15d40+50 none
+-30 -30 -30 -30
+0 0 C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M KILL 22418 100~
+#22425
+village guard~
+a village guard~
+A village guard patrols the streets.
+~
+~
+human~
+AF DFJV 0 1000 0
+145 200 1d1+20000 0d0+0 20d30+75 none
+-40 -40 -40 -40
+CEKPT 0 F 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#22426
+wizards apprentice~
+a wizard's apprentice~
+A wizards apprentice stands carefully brewing a potion.
+~
+~
+human~
+A 0 CDEHN 1000 0
+120 30 1d1+15000 0d0+0 15d40+50 none
+-30 -30 -30 -30
+0 0 C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M KILL 22418 100~
+M GIVE 22436 22503~
+#22427
+wizards apprentice~
+a wizard's apprentice~
+A wizards apprentice sits carefully carving a staff.
+~
+~
+human~
+A 0 CDEHN 1000 0
+120 30 1d1+15000 0d0+0 15d40+50 none
+-30 -30 -30 -30
+0 0 C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M KILL 22418 100~
+#22428
+old wizard~
+an old wizard~
+An old wizard stands here leaning on a gnarled staff.
+~
+~
+human~
+ABa DFJ 0 1000 0
+105 150 1d1+1230913 0d0+0 123d123+5 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 22419 100~
+M SPEECH 22420 travel~
+M BRIBE 22421 2500000~
+M DELAY 22422 100~
+M SPEECH 22420 yes~
+M SPEECH 22434 cobbler~
+M GIVE 22435 22482~
+#22429
+cobblers wife~
+the cobblers wife~
+The cobblers wife stands ready to take your order.
+~
+~
+human~
+AB 0 0 0 0
+150 0 1d5+12309 0d0+0 123d321+1230 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22430
+Jeweller~
+a jeweller~
+A jeweller sits here working on a piece.
+~
+~
+human~
+ABa DFJ 0 1000 0
+100 500 1d1+500000 0d0+0 1d1+1000 none
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22423 13829~
+M GIVE 22423 22010~
+M GIVE 22423 22435~
+M GIVE 22424 22439~
+M GIVE 22424 22014~
+M GIVE 22424 13833~
+M GIVE 22425 22443~
+M GIVE 22425 13837~
+M GIVE 22425 22018~
+M GIVE 22426 22447~
+M GIVE 22426 22021~
+M GIVE 22426 13841~
+M GIVE 22427 22451~
+M GIVE 22427 22025~
+M GIVE 22427 13845~
+M GIVE 22428 13846~
+M GIVE 22428 22026~
+M GIVE 22428 22452~
+#22431
+ranger~
+a ranger~
+A ranger stands here keeping a sharp guard over the camp.
+~
+~
+human~
+A DFJ 0 1000 0
+145 200 1d1+20000 0d0+0 15d30+50 none
+-40 -40 -40 -40
+CEKT 0 F 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#22432
+ranger~
+a ranger~
+A ranger stands here carefully tanning a pelt.
+~
+~
+human~
+AB DFJ 0 1000 0
+145 200 1d1+20000 0d0+0 15d30+50 none
+-40 -40 -40 -40
+CEKT 0 F 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22432 22454~
+#22433
+ranger~
+a ranger~
+A ranger stands here selling bows.
+~
+~
+human~
+AB DFJ 0 1000 0
+145 200 1d1+20000 0d0+0 15d30+50 none
+-40 -40 -40 -40
+CEKT 0 F 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#22434
+cobbler~
+the cobbler~
+The cobbler sits here taking a break from his work.
+~
+~
+human~
+AB 0 0 1000 0
+150 0 1d5+12309 0d0+0 123d321+1230 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 22429 100~
+M SPEECH 22430 yes~
+M GIVE 22431 22454~
+M GIVE 22433 22501~
+#22435
+wizards apprentice~
+a wizard's apprentice~
+A wizards apprentice sits carefully brewing a potion.
+~
+~
+human~
+A 0 0 1000 0
+120 30 1d1+15000 0d0+0 15d40+50 none
+-30 -30 -30 -30
+0 0 C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22437 22502~
+#22436
+dwarven wizard~
+a dwarven wizard~
+A dwarven wizard wanders around the cavern.
+~
+~
+dwarf~
+A DFJ 0 1000 0
+150 50 1d1+25000 0d0+0 25d40+100 none
+-100 -100 -100 -100
+0 0 CDL 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22438 22504~
+M GIVE 22439 22470~
+#22437
+dwarven wizard~
+a dwarven wizard~
+A dwarven wizard wanders around the cavern.
+~
+~
+dwarf~
+AB DFJ 0 1000 0
+150 50 1d1+25000 0d0+0 25d40+100 none
+-100 -100 -100 -100
+0 0 CDL 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22440 22504~
+#0
+
+
+
+#OBJECTS
+#22400
+log~
+a hollowed log~
+{x~
+unknown~
+portal R 0
+0 KL A BCDELMO 0
+0 0 0 P
+E
+log~
+The leafy screan acts as a cover hiding the hollowed out log.  It appears
+as though you could ENTER LOG to travel through the underbrush.  
+~
+#22401
+deer trail~
+a faint deer trail~
+{x~
+unknown~
+portal R 0
+0 KL A ABCFLMO 0
+1 0 0 P
+E
+trail~
+A faint deer trail twists through the forest towards the mountains. 
+Perhaps you could ENTER TRAIL to head in that direction.  
+~
+#22402
+thicket~
+a small thicket~
+{x~
+unknown~
+portal 0 0
+0 KL A CEFLMO 0
+0 0 0 P
+E
+thicket~
+The thicket provides a small area for which animals might take shelter
+from the elements.  It appears as though you could ENTER THICKET to explore
+further.  
+~
+#22403
+small gap~
+a small gap~
+{x~
+unknown~
+portal R 0
+0 KL A BGLMO 0
+1 0 0 P
+E
+bushes~
+In between the thick bushes there is a narrow gap that you might be able
+to squeeze throught.  
+~
+#22404
+deer trail~
+a deer trail~
+{x~
+unknown~
+portal R 0
+0 KL A CGLMO 0
+0 0 0 P
+E
+trail~
+It appears you could enter the narrow trail to head back towards the
+forest.  
+~
+E
+deer~
+It appears you could enter the narrow trail to head back towards the
+forest.  
+~
+#22405
+screen~
+leafy green screen~
+{x~
+unknown~
+portal R 0
+0 KL A ABCDGLMO 0
+0 0 0 P
+E
+screen~
+Looking closer you notice the brush to the east is really a screen of
+interwoven branches and leaves with a slit to enter in the middle.  It
+appears as though you could ENTER SCREEN.  
+~
+#22406
+faint trail~
+a faint trail~
+{x~
+unknown~
+portal R 0
+0 KL A CDEGLMO 0
+0 0 0 P
+E
+trail~
+The trail leads through the forest it appears as though you could enter
+it.  
+~
+#22407
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A EFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22408
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A AEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22409
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ABEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22410
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A CEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22411
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ACEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22412
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BDEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22413
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ACDEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22414
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A CDEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22415
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ABDEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22416
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BCEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22417
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BCDEFGHIJKMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22418
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A LMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22419
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ALMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22420
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ADLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22421
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ABCDLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22422
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BELMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22423
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A AELMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22424
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ELMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22425
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ABDLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22426
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BDLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22427
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A BLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22428
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A ABLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22429
+lake~
+a lake~
+{x~
+unknown~
+portal R 0
+0 KL A CLMO 0
+0 0 0 P
+E
+lake~
+It appears as though you could ENTER LAKE to explore the lake further.  
+~
+#22430
+ivory hilted stiletto~
+an ivory-hilted stiletto~
+A long thin dagger lies disagarded.~
+metal~
+weapon 0 AN
+dagger 3 67 pierce 0
+101 3 0 P
+A
+2 2
+A
+18 10
+A
+19 10
+#22431
+cougar pelt~
+a cougar pelt~
+A cougar pelt lies discarded.~
+cougar~
+armor 0 A
+0 0 0 0 0
+0 5 100000 P
+#22432
+small rock crystal~
+a small rock crystal~
+A small rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 100000 P
+#22433
+medium rock crystal~
+a medium rock crystal~
+A medium rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 135000 P
+#22434
+large rock crystal~
+a large rock crystal~
+A large rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 177250 P
+#22435
+huge rock crystal~
+a huge rock crystal~
+A huge rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#22436
+small turquoise stone~
+a small turquoise stone~
+A small turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 120000 P
+#22437
+medium turquoise stone~
+a medium turquoise stone~
+A medium turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 187500 P
+#22438
+large turquoise stone~
+a large turquoise stone~
+A large turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 230000 P
+#22439
+huge turquoise stone~
+a huge turquoise stone~
+A huge turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 297750 P
+#22440
+small black pearl~
+a small black pearl~
+A small black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 200000 P
+#22441
+medium black pearl~
+a medium black pearl~
+A medium black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 280000 P
+#22442
+large black pearl~
+a large black pearl~
+A large black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 330000 P
+#22443
+huge black pearl~
+a huge black pearl~
+A huge black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 375000 P
+#22444
+small fire opal~
+a small fire opal~
+A small fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 275000 P
+#22445
+medium fire opal~
+a medium fire opal~
+A medium fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 350000 P
+#22446
+large fire opal~
+a large fire opal~
+A large fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 455000 P
+#22447
+huge fire opal~
+a huge fire opal~
+A huge fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 570000 P
+#22448
+small ruby~
+a small ruby~
+A small ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 500000 P
+#22449
+medium ruby~
+a medium ruby~
+A medium ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 677500 P
+#22450
+large ruby~
+a large ruby~
+A large ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 775000 P
+#22451
+huge ruby~
+a huge ruby~
+A huge ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 1000000 P
+#22452
+massive green sapphire~
+a massive green sapphire~
+A massive green sapphire radiates brightly in the light.~
+sapphire~
+gem 0 A
+0 0 0 0 0
+0 0 10000000 P
+#22453
+serpents fang~
+a serpent's fang~
+A sharp fang sits forgotten.~
+unknown~
+armor 0 A
+0 0 0 0 0
+0 2 100000 P
+#22454
+serpents scale~
+a black serpent's scale~
+A serpent's scale sits forgotten.~
+unknown~
+armor 0 A
+0 0 0 0 0
+0 4 150000 P
+#22455
+meat pie~
+a meat pie~
+A steaming hot meatpie sits on the ground.~
+meat pie~
+food 0 A
+20 15 0 0 0
+101 1 30000 P
+#22456
+loaf bread~
+a loaf of bread~
+A hot loaf of bread sits on the ground steaming.~
+bread~
+food 0 A
+20 12 0 0 0
+101 1 22000 P
+#22457
+halberd~
+a halberd~
+A long shafted halberd lies discarded.~
+metal~
+weapon 0 AN
+polearm 26 6 slice F
+89 12 0 P
+A
+19 17
+A
+1 2
+#22459
+crystal pendant necklace~
+a crystal pendant~
+A crystal pendant attached to a gold chain sits sparkling in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 100000 P
+A
+17 -10
+A
+19 10
+A
+18 5
+A
+20 -1
+#22460
+turquiose pendant~
+a turquiose pendant~
+A turquiose pendant attached to a gold chain shines in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 150000 P
+A
+19 12
+A
+18 7
+A
+17 -30
+#22461
+pendant black pearl~
+a pendant of black pearl~
+A black pearl is attached to a gold chain shining in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 200000 P
+A
+17 -15
+A
+19 14
+A
+20 -4
+#22462
+opal pendant~
+an opal pendant~
+A fire opal attached to a gold chain glows in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 250000 P
+A
+17 -15
+A
+19 14
+A
+18 2
+A
+13 200
+#22463
+ruby pendant~
+a ruby pendant~
+A bright ruby attached to a gold chain shines in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 300000 P
+A
+17 -15
+A
+19 15
+A
+18 1
+A
+13 150
+#22464
+sapphire pendant~
+a sapphire pendant~
+A large sapphire sits attached to a golden chain shining in the light.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+101 2 350000 P
+A
+19 16
+A
+17 -17
+A
+13 100
+A
+20 -4
+#22465
+potion red~
+a dark red potion~
+A small glass vial filled with a red liquid sits discarded.~
+unknown~
+potion 0 A
+104 'create food' 'invisibility' 'refresh' 'refresh'
+101 1 150000 P
+#22466
+green potion~
+a light green potion~
+A small glass vial filled with a green liquid sits discarded~
+unknown~
+potion 0 A
+104 'cure poison' 'cure poison' 'cure disease' 'cure disease'
+101 1 150000 P
+#22467
+blue potion~
+a murky blue potion~
+A small vial filled with a blue liquid sits discarded.~
+unknown~
+potion 0 A
+105 'cancellation' 'fly' 'invisibility' 'heal'
+101 1 150000 P
+#22471
+claymore ivory~
+an ivory-hilted claymore~
+A large claymore sits discarded.~
+unknown~
+weapon 0 AN
+sword 15 13 slash F
+101 15 4000000 P
+A
+19 20
+A
+2 -2
+A
+1 1
+A
+18 -7
+#22472
+a heavy bladed scimitar~
+a heavy bladed scimitar~
+A wickedly sharp curved sword sits here.~
+unknown~
+weapon 0 AN
+sword 14 14 slash 0
+101 15 3000000 P
+A
+18 10
+A
+19 7
+#22473
+oval shield~
+an oval shield~
+A large oval shield sits discarded.~
+unknown~
+armor 0 AJ
+ABF ABF ABF BCDE 0
+101 10 3500000 P
+A
+20 -1
+A
+2 -1
+A
+19 5
+#22474
+massive plate armor~
+a suit of massive plate armor~
+A set of massive plate armor sits discarded.~
+metal~
+armor 0 AD
+ACF ACF ACF ACF 0
+101 35 5000000 P
+A
+14 -100
+A
+19 10
+A
+1 1
+A
+2 -3
+#22475
+mug malt liquor~
+a mug of malt liquor~
+A tall mug of malt liquor sits collecting dust.~
+unknown~
+drink 0 A
+20 20 'dark ale' 0 0
+1 1 10000 P
+#22476
+mug dark ale~
+a mug of dark ale~
+A stout mug of dark ale sits here.~
+unknown~
+drink 0 A
+20 20 'dark ale' 0 0
+1 1 10000 P
+#22477
+dwarven great axe~
+a dwarven great axe~
+A massive axe sits discarded.~
+unknown~
+weapon 0 AN
+axe 7 29 cleave F
+101 10 4000000 P
+A
+19 20
+A
+2 -2
+A
+1 1
+A
+18 -7
+#22478
+dwarven battle axe~
+a dwarven battle axe~
+A one handed axe sits discarded.~
+unknown~
+weapon 0 AN
+axe 13 15 cleave 0
+101 7 3500000 P
+A
+19 12
+A
+18 8
+#22479
+dwarven great helm~
+a dwarven great helm~
+A large helm sits on the ground collecting dust.~
+unknown~
+armor 0 AE
+AF AF AF AF 0
+101 5 3250000 P
+A
+19 9
+A
+2 -3
+A
+13 35
+#22480
+wall shield~
+a wall shield~
+A massive shield sits collecting dust.~
+unknown~
+armor 0 AJ
+ACDF ACDF ACDF ACDF 0
+101 25 5500000 P
+A
+2 -3
+A
+20 -1
+#22481
+steel gauntlets~
+a pair of steel-backed gauntlets~
+A pair of gauntlets sits on the floor.~
+unknown~
+armor 0 AH
+ABE ABE ABE ABE 0
+101 3 3000000 P
+A
+19 14
+A
+18 5
+A
+2 -2
+#22482
+mage robe ~
+a shadowy black mages robe~
+A dark bunch of cloth sits on the ground.~
+unknown~
+armor 0 AK
+DE DE DE DE 0
+101 3 5000000 P
+A
+20 -3
+A
+12 75
+#22483
+a color shifting cloak~
+a color shifting cloak~
+A pile of cloth seeming blending into the surrounds sits here.~
+unknown~
+armor 0 AK
+0 0 0 0 0
+101 3 5000000 P
+A
+19 15
+A
+18 11
+#22484
+dark hooded cloak~
+a dark hooded cloak~
+A dark piece of cloth sits on the ground.~
+unknown~
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+101 5 5000000 P
+A
+19 10
+A
+20 -1
+A
+2 1
+A
+12 25
+#22485
+skin waterskin~
+a water skin~
+A soggy leather skin looks like it might hold water.~
+leather~
+drink 0 A
+100 100 'water' 0 0
+101 30 19000 G
+#22486
+leather haversack~
+a leather haversack~
+A large haversack sits on the ground.~
+unknown~
+container 0 A
+200 0 0 200 25
+101 25 4500000 P
+#22487
+spiked wrist guard~
+a spiked wrist guard~
+A spiked wrist guard sits here collecting dust.~
+metal~
+armor 0 AM
+AC AC AC AC 0
+101 5 7500000 P
+A
+19 17
+#22488
+thick metal wrist guard~
+a thick metal wrist guard~
+A thick metal wristguard sits here collecting dust.~
+metal~
+armor 0 AM
+CE CE CE CE 0
+101 5 7500000 P
+A
+13 150
+A
+1 1
+#22489
+intricate metal wrist band~
+an intricate metal wrist band~
+An intricate wrist band sits on the floor.~
+unknown~
+armor 0 AM
+CE CE CE CE 0
+101 5 7500000 P
+A
+20 -4
+A
+12 50
+#22490
+cougar hide boots~
+a pair of cougar hide boots~
+A pair of boots made of cougar hide it off to the side.~
+unknown~
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+101 4 4000000 P
+A
+19 12
+A
+2 1
+A
+14 25
+#22491
+padded leather boots~
+a pair of padded leather boots~
+A padded pair of boots sits here.~
+leather~
+armor 0 AG
+ABCE ABCE ABCE ABCE 0
+101 5 4000000 P
+A
+13 50
+A
+14 50
+A
+18 5
+#22492
+animal fur boots~
+a pair of animal fur boots~
+A pair of animal fur boots sits here.~
+unknown~
+armor 0 AG
+AC AC AC AC 0
+101 0 4000000 P
+A
+19 18
+#22493
+crystal ring~
+a crystal ring~
+A large crystal set in a gold ring glints in the light.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 100000 P
+A
+18 5
+A
+17 -10
+A
+13 75
+A
+19 6
+A
+20 -3
+#22494
+turquiose stone ring~
+a turquiose stone ring~
+A turqiose stone set in a gold ring sits here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 150000 P
+A
+18 8
+A
+19 8
+A
+17 -12
+A
+20 -1
+A
+13 75
+A
+12 75
+#22495
+pearl ring~
+a pearl ring~
+A ring set with a pearl sits here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 200000 P
+A
+18 9
+A
+17 -15
+A
+19 9
+#22496
+fire opal ring~
+a fire opal ring~
+A fire opal sits set in a gold ring.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 250000 P
+A
+19 10
+A
+18 9
+A
+17 -16
+A
+13 100
+#22497
+ruby ring~
+a ruby ring~
+A large ruby sits set on a gold ring.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 300000 P
+A
+19 11
+A
+18 9
+A
+17 -17
+A
+13 100
+#22498
+sapphire ring~
+a sapphire ring~
+A large sapphire sits set on a gold ring.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 2 350000 P
+A
+19 13
+A
+17 -20
+A
+18 5
+A
+13 100
+#22499
+teak longbow~
+a teak longbow~
+A long bow made of teak stands here.~
+unknown~
+weapon 0 AN
+exotic 10 20 pierce F
+101 10 2500000 P
+A
+19 15
+#22500
+ash short bow~
+an ash short bow~
+A short bow made of ash sits here.~
+unknown~
+weapon 0 AN
+exotic 10 20 pierce F
+101 8 2500000 P
+A
+18 15
+#22501
+clean serpents scale~
+a cleaned black serpent's scale~
+A serpent's scale sits forgotten.~
+unknown~
+armor 0 A
+0 0 0 0 0
+0 3 150000 P
+#22502
+serpent skin boots~
+a pair of serpent skin boots~
+A pair of serpent skin boots sit here.~
+serpent~
+armor 0 AG
+ABCD ABCD ABCD ABD 0
+101 5 0 P
+#22503
+token enchantment~
+an enchantment token~
+A small token sits here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+101 1 0 P
+#22504
+serpent skin boots~
+a pair of serpent skin boots~
+A pair of serpent skin boots sit here.~
+serpent~
+armor 0 AG
+ABCD ABCD ABCD ABD 0
+101 5 0 P
+A
+13 -75
+A
+19 15
+#22505
+serpent skin boots~
+a pair of serpent skin boots~
+A pair of serpent skin boots sit here.~
+serpent~
+armor 0 AG
+BCDE BCDE BCDE BCDE 0
+101 5 0 P
+A
+13 -75
+A
+19 15
+A
+1 1
+#0
+
+
+
+#ROOMS
+#22528
+On the Lake~
+The lake ripples slightly as the wind whips across its surface.  To the
+south the waters darken as the lake deepends.  To the north the shore line
+is easily within reach.  
+~
+0 4 7
+D0
+~
+~
+0 0 22471
+D1
+~
+~
+0 0 22529
+D2
+~
+~
+0 0 22534
+D3
+~
+~
+0 0 22527
+S
+#22529
+On the Lake~
+The water ripples as the wind whips across the surface almost howling as
+it hits the treelined shore.  The shore line holds back the waters to the
+east and north, the lake darkening as it deepends to the south.  
+~
+0 4 7
+D0
+~
+~
+0 0 22472
+D1
+~
+~
+0 0 22480
+D2
+~
+~
+0 0 22535
+D3
+~
+~
+0 0 22528
+S
+#22530
+On the Lake~
+The waters of the lake ripple as an unseen creature moves beneath the
+murkey surface.  The shore line surrounds the waters of the lake, only to
+the east does the lake expand into a large body of water.  
+~
+0 4 7
+D0
+~
+~
+0 0 22477
+D1
+~
+~
+0 0 22531
+D2
+~
+~
+0 0 22488
+D3
+~
+~
+0 0 22484
+S
+#22531
+On the Lake~
+The dark waters of the lake shimmer as the sun shines down on them.  The
+shore line runs on either side to the north and south.  To the east the
+waters of the lake darken as it deepens.  
+~
+0 4 7
+D0
+~
+~
+0 0 22478
+D1
+~
+~
+0 0 22532
+D2
+~
+~
+0 0 22466
+D3
+~
+~
+0 0 22530
+S
+#22532
+On the Lake~
+The lake opens up and expands as it is freed from confinement along the
+shore.  To the south, east, and west the dark waters can be seen.  Only to
+the north is the lake shore reachable.  
+~
+0 4 7
+D0
+~
+~
+0 0 22474
+D1
+~
+~
+0 0 22533
+D2
+~
+~
+0 0 22538
+D3
+~
+~
+0 0 22531
+S
+#22533
+On the Lake~
+The waters of the lake darken drastically as the lake deepens.  The
+murkey surface nearly making it impossible to view any life beneath their
+surface.  The water ripples as something moves beneath the surface.  
+~
+0 0 7
+D0
+~
+~
+0 0 22527
+D1
+~
+~
+0 0 22534
+D2
+~
+~
+0 0 22539
+D3
+~
+~
+0 0 22532
+S
+#22534
+On the Lake~
+The dark waters ripple as movement takes place beneath the surface.  The
+shore line is far off on the horizon unreachable without great effort, the
+waters of the lake surrounding on all sides.  
+~
+0 0 7
+D0
+~
+~
+0 0 22528
+D1
+~
+~
+0 0 22535
+D2
+~
+~
+0 0 22540
+D3
+~
+~
+0 0 22533
+S
+#22535
+On the Lake~
+The murky surface hides all that may beneath, the waters surrounding on
+all sides.  Off in the distance the shore line can be seen lined with the
+tall trees of the forest.  
+~
+0 0 7
+D0
+~
+~
+0 0 22529
+D1
+~
+~
+0 0 22536
+D2
+~
+~
+0 0 22541
+D3
+~
+~
+0 0 22534
+S
+#22536
+On the Lake~
+The waters of the lake ripple as creatures scurry to avoid your presence
+on the lake.  To the west the waters of the lake darken as the lake deepens.
+To the north the tree lined shore looms.  
+~
+0 4 7
+D0
+~
+~
+0 0 22480
+D1
+~
+~
+0 0 22537
+D2
+~
+~
+0 0 22542
+D3
+~
+~
+0 0 22535
+S
+#22537
+On the Lake~
+The waters of the lake are surrounded by the shore to the east and north.
+The lake opens up and extends to the south and west the opposite shores
+barely visible on the horizon.  
+~
+0 4 7
+D0
+~
+~
+0 0 22481
+D1
+~
+~
+0 0 22485
+D2
+~
+~
+0 0 22543
+D3
+~
+~
+0 0 22536
+S
+#22538
+On the Lake~
+The dark waters of the lake glisten as they reflect the sunlight.  To the
+south the water logged remains of a large tree sit rooted in the lake bottom
+making the shore unreachable to the south.  To the west the tree lined shore
+is easily within reach.  
+~
+0 4 7
+D0
+~
+~
+0 0 22532
+D1
+~
+~
+0 0 22539
+D3
+~
+~
+0 0 22466
+S
+#22539
+On the Lake~
+The murky waters of the lake hide all that move beneath them, obscuring
+view of the creatures causing ripples in their scramble to avoid you.  The
+tree lined shore can be seen to the south as the lake surrounds on all other
+sides.  
+~
+0 4 7
+D0
+~
+~
+0 0 22533
+D1
+~
+~
+0 0 22540
+D2
+~
+~
+0 0 22494
+D3
+~
+~
+0 0 22538
+S
+#22540
+On the Lake~
+The sun beats down on the lake high overhead, for the first time the heat
+is noticable away from the cover of the forest that lies to the south.  The
+dark waters of the lake surround on all sides, the shore only reachable to
+the south.  
+~
+0 4 7
+D0
+~
+~
+0 0 22534
+D1
+~
+~
+0 0 22541
+D2
+~
+~
+0 0 22495
+D3
+~
+~
+0 0 22539
+S
+#22541
+On the Lake~
+The waters of the lake darken as you reach deeper waters.  The depths
+easily hiding large creatures beneath their surface.  The lake surrounds on
+all sides the shore unreachable without some travel.  
+~
+0 0 7
+D0
+~
+~
+0 0 22535
+D1
+~
+~
+0 0 22542
+D2
+~
+~
+0 0 22544
+D3
+~
+~
+0 0 22540
+S
+#22542
+On the Lake~
+The deep waters of the lake obscure any possibility of glimpsing the
+bottem of the lake.  The waters shimmer and ripple in the sunlight as the
+wind whips across the lake surface.  
+~
+0 0 7
+D0
+~
+~
+0 0 22536
+D1
+~
+~
+0 0 22543
+D2
+~
+~
+0 0 22545
+D3
+~
+~
+0 0 22541
+S
+#22543
+On the Lake~
+The waters ripple as small creatures escape from your presence.  The lake
+shore is easily reachable to the east, while the waters darken to the west
+as the lake deepends.  
+~
+0 4 7
+D0
+~
+~
+0 0 22537
+D1
+~
+~
+0 0 22489
+D2
+~
+~
+0 0 22546
+D3
+~
+~
+0 0 22542
+S
+#22544
+On the Lake~
+The small waves of the lake gently lap against the shore to the south and
+west, the waters sparkling in the sun light.  The lake extends to the north
+and east the opposite shores barely visible on the horizon.  
+~
+0 4 7
+D0
+~
+~
+0 0 22541
+D1
+~
+~
+0 0 22545
+D2
+~
+~
+0 0 22502
+D3
+~
+~
+0 0 22495
+S
+#22545
+On the Lake~
+The waters of the lake ripple as creatures rapidly flee the area.  To the
+south the shore is easily reachable as the lake surrounds on all other
+sides.  
+~
+0 4 7
+D0
+~
+~
+0 0 22542
+D1
+~
+~
+0 0 22546
+D2
+~
+~
+0 0 22503
+D3
+~
+~
+0 0 22544
+S
+#22546
+On the Lake~
+The lake is surrounded to the south and east by the tree lined shore. 
+The waters extending to the north and west the opposite shore lines just
+barely visible marked by the tall trees of the forest.  
+~
+0 4 7
+D0
+~
+~
+0 0 22543
+D1
+~
+~
+0 0 22496
+D2
+~
+~
+0 0 22504
+D3
+~
+~
+0 0 22545
+S
+#22547
+Jeweller~
+Unfinished necklaces and chains sit on the counter and can be found
+throughout the store.  Large barrels of chains of different varieties sit
+near the back of the shop.  A small sign sits on the countern proclaiming
+the business.  
+~
+0 8192 0
+E
+sign~
+Provide me with a huge gem of your prefrence and I will make you a
+finished pendant that focuses the energies of the stone.  I only accept huge
+gems all others given to me will remain in my posession.  
+~
+D2
+~
+~
+1 0 22550
+S
+#22548
+The Bakery~
+A counter stands before you seperating your from entering the back half
+of the cabin.  Shelves line the wall with various baked goods displaying
+what is on sale.  The smell of fresh baked bread floats in from the other
+room.  
+~
+0 8192 0
+D2
+~
+~
+1 0 22551
+S
+#22549
+Small Home~
+Hand crafted wooden furniture surrounds the room, undoubtably the home of
+a small family.  Over the fire a large iron pot hangs, the smell of stew
+whaffs through the room.  
+~
+0 8192 0
+D1
+~
+~
+1 0 22550
+S
+#22550
+Village Square~
+The village square spreads out to the south, small cabins lie to the
+north and west.  A tall wooden fence can be seen ringing the village, the
+tops of the trees in the forest can be seen off to the east.  
+~
+0 8192 2
+D0
+~
+~
+1 0 22547
+D1
+~
+~
+0 0 22551
+D2
+~
+~
+0 0 22555
+D3
+~
+~
+1 0 22549
+S
+#22551
+Village Square~
+The hard packed earth spreads out into a large common area.  Small log
+cabins surround the square, each marked in some manner identifing the goods
+that may be sold there.  
+~
+0 8192 2
+D0
+~
+~
+1 0 22548
+D1
+~
+~
+1 0 22552
+D2
+~
+~
+0 0 22556
+D3
+~
+~
+0 0 22550
+S
+#22552
+Village Gate~
+The dirt path leads right up to a high wooden gate of the small village. 
+Over the top of the gate the roofs of the houses can be seen, wisps of smoke
+drifting from from the tops.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22553
+D3
+~
+~
+1 0 22551
+S
+#22553
+Dirt Path~
+The path winds around the large rock to the southwest, the tall trees of
+the forest looming to the east.  To the west a small village can been seen,
+wisps of smoke curling away from the tops of houses.  
+~
+0 8192 2
+D2
+~
+~
+0 0 22557
+D3
+~
+~
+0 0 22552
+S
+#22554
+The Blacksmith~
+In the center of the room a large anvil sits ready to be used for weapon
+making.  All around the room various tools and hammers used for forging
+blades sit within grasp.  A hot furnace fueled by bellows is off to the
+corner, the smell of metal surrounds 
+~
+0 8192 0
+D1
+~
+~
+1 0 22555
+S
+#22555
+Village Square~
+The loose dirt of the village square swirls as a gentle breeze blows
+across the square.  The sound of hammer on anvil and pumping of bellows can
+be heard to the west.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22550
+D1
+~
+~
+0 0 22556
+D2
+~
+~
+0 0 22560
+D3
+~
+~
+1 0 22554
+S
+#22556
+Village Square~
+From the village square the whole town is visible, small cabins surround
+the square and they are ringed by a tall wooden fence used to keep out the
+wild animals.  To the east a large boulder stands in place of the fence
+blocking passage to all.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22551
+D2
+~
+~
+0 0 22561
+D3
+~
+~
+0 0 22555
+S
+#22557
+Dirt Path~
+The hard pack dirt forms a path headed off to the north around a large
+rock that lies to the west.  To the east the hollowed out log provides a way
+to enter back into the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 22553
+S
+#22558
+Inside the Log~
+The inside of the log is lined with green moss, the opening to the east
+leads into the forest.  To the west a dirt path leads away from the forest,
+headed towards a large clearing.  
+~
+0 8192 0
+D1
+~
+~
+0 0 22423
+D3
+~
+~
+0 0 22557
+S
+#22559
+Wizards Sanctuary~
+Thick tomes line book shelves on the walls, scrolls lay scattered
+throughout the room.  Potions on the tables bubble and fizz, a tall conincal
+hat sits discarded on a chair.  
+~
+0 8192 0
+D1
+~
+~
+1 0 22560
+S
+#22560
+Village Square~
+The hard packed dirt of the square is scattered throughout the middle of
+the village.  The cabins lining the square look rather rustic against the
+backdrop of the forest.  To the east over the fence the tree tops of the
+forest can be seen.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22555
+D1
+~
+~
+0 0 22561
+D2
+~
+~
+1 0 22563
+D3
+~
+~
+1 0 22559
+S
+#22561
+Village Square~
+The square is lined with small wooden cabins, thin wisps of smoke
+twisting away from the tops.  To the east the tops of the forest can be seen
+over the high wooden fence.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22556
+D1
+~
+~
+1 0 22562
+D2
+~
+~
+1 0 22564
+D3
+~
+~
+0 0 22560
+S
+#22562
+Small Home~
+The modest furnishings of a small family lay placed carefully throughout
+the room.  A glispse of the forest can be seen out either window.  Over the
+fireplace a large pot simmers over the fire.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22561
+S
+#22563
+Small Cabin~
+Several chairs sit around a large wooden table, an ornate coat of arms
+hangs on the wall.  The black cauldron hangs over the fire pit, and the
+smell of beef stew fills the area.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22560
+S
+#22564
+Small Home~
+The home is nearly bare only a single bed is in view.  Several swords lay
+leaning against the wall and discarded pieces of armor sit in a small pile. 
+Through the window on the southern wall the high fence obscures the view.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22561
+S
+#22565
+At the Base of the Mountain~
+The mountain towers over the area, its steep rocky slope making it
+difficult to climb.  A large entrance is carved into the rocky slope
+descending down underneath the massive mountain.  
+~
+0 8192 3
+D1
+~
+~
+0 0 22566
+D5
+~
+~
+0 0 22572
+S
+#22566
+Deer Trail~
+The thick brush surrounds on the path as it leads towards the slope of
+the mountain to the west.  To the east the path is nearly swallowed by the
+thick underbrush as it heads back to the forest.  
+~
+0 8192 3
+D1
+~
+~
+0 0 22567
+D3
+~
+~
+0 0 22565
+S
+#22567
+Deer Trail~
+The faint trail sneaks its way through the forest, barely visible in the
+underbrush.  To the west the path expands as it heads towards the mountain,
+to the east the path disapears into the forest.  
+~
+0 8192 3
+D1
+~
+~
+0 0 22445
+D3
+~
+~
+0 0 22566
+S
+#22568
+Dwarven Weaponsmith~
+A large furnace heats the metals used to forge the dwarven battle axes. 
+Various hammers and mallets sit around the room ready for use in forging
+these legendary axes.  
+~
+0 8192 0
+D2
+~
+~
+0 0 22570
+S
+#22569
+Spacious Cavern~
+The high spacious cavern echos the sounds of activity in the cavern. 
+High rock walls end the cavern to the north and west but the torches
+ensconced on them provide a light to see by.  
+~
+0 8192 0
+D1
+~
+~
+0 0 22570
+D2
+~
+~
+0 0 22573
+S
+#22570
+Spacious Cavern~
+Sounds echo around the large cavern, bouncing off the high ceiling. 
+Thick rock columns support the cavern, several torches attached to each to
+provide light.  To the north a smaller niche appears to be carved out in the
+rock, the cavern extending on all other sides.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22568
+D1
+~
+~
+0 0 22571
+D2
+~
+~
+0 0 22574
+D3
+~
+~
+0 0 22569
+S
+#22571
+Mine Shaft~
+The rock walls of the mine guide passage underneath the mountain, thick
+timbers supporting the shaft.  The entrance of the mine is back to the east,
+while the shaft opens into a wide cavern to the west.  
+~
+0 8192 0
+D1
+~
+~
+0 0 22572
+D3
+~
+~
+0 0 22570
+S
+#22572
+Mine Entrance~
+The room opens up into the entrance under the mountain.  Thick timbers
+surrport the rock walls of the mine.  The path west leads deeper into the
+mine, while up leads back to the surface.  
+~
+0 8196 0
+D3
+~
+~
+0 0 22571
+D4
+~
+~
+0 0 22565
+S
+#22573
+Spacious Cavern~
+Sound echo throughout the large cavern, the high ceiling barely visible
+at the top of the thick stone columns.  Dim torch light flickers around the
+area casting odd shadows around the cavern.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22569
+D1
+~
+~
+0 0 22574
+D2
+~
+~
+0 0 22576
+S
+#22574
+Spacious Cavern~
+The spacious cavern is supported by the tall rock columns, the shadows
+dancing with the flickering with the torch light.  To the east a small nook
+has been carved out of the rock walls, the cavern surrounds on all other
+sides.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22570
+D1
+~
+~
+0 0 22575
+D2
+~
+~
+0 0 22577
+D3
+~
+~
+0 0 22573
+S
+#22575
+Dwarven Appraiser~
+The room is filled with sparkling gems, barrels of diamonds shine in the
+torch light.  Other barrels sit empty waiting for the next load of gems to
+be brought in for examination.  
+~
+0 8192 0
+D3
+~
+~
+0 0 22574
+S
+#22576
+Spacious Cavern~
+Thick rock faces end the passage to the south and west, the corner
+shrouded in shadows.  The torch light flickers and dances around the large
+cavern creating a dazzling effect.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22573
+D1
+~
+~
+0 0 22577
+S
+#22577
+Spacious Cavern~
+The sounds of the cavern echo off the walls and high ceiling.  The faint
+sound of dripping water can be heard and hints of moisture can be seen in
+the dim torch light.  To the south and east two small nooks have been carved
+out of the rock face.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22574
+D1
+~
+~
+0 0 22578
+D2
+~
+~
+0 0 22579
+D3
+~
+~
+0 0 22576
+S
+#22578
+Dwarven Metalsmith~
+A large furnace sits heating various pieces of metal, a large anvil sits
+ready in the center of room.  Various tools line the walls and tables used
+for shaping pieces of armor and tools for those who need.  
+~
+0 8192 0
+D3
+~
+~
+0 0 22577
+S
+#22579
+Dwarven Brewery~
+Stout barrels sit stacked high in the corners of the rooms, several of
+the kegs sit tapped ready for the ale to be drawn from them.  The smell of
+malt liquor emminates from one of the stills in the center of the room.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22577
+S
+#22580
+In the Thicket~
+Small saplings and bushes form this thicket that provides a small shelter
+from the elements.  To the south a small clearing can be reached by pushing
+through the leafy cover.  To the north the forest looms and a leafy green
+screen bars all sight to the east and west.  
+~
+0 8192 3
+D0
+~
+~
+0 0 22465
+D2
+~
+~
+0 0 22581
+S
+#22581
+Small Clearing~
+The small clearing is surrounded by the greens on the forest, a high
+wooden fence looms to the south ringing a small village.  To the southwest
+the gate to the village can be seen.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22580
+D3
+~
+~
+0 0 22582
+S
+#22582
+Small Clearing~
+The clearing is overshadowed by the tall forest to the north, branches
+overhang the clearing providing shade.  To the south a wooden gate can be
+seen providing a passage into the small vilalge.  
+~
+0 8192 0
+D1
+~
+~
+0 0 22581
+D2
+~
+~
+0 0 22583
+S
+#22583
+Village Gate~
+The high wooden gate of the village stands before you.  Undoubtably
+constructed to prevent any wild animals from the forest from entering into
+the small village and ravaging the homes.  To the north the forest can be
+seen dominating the view.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22582
+D2
+~
+~
+1 0 22584
+S
+#22584
+Village Square~
+The dirt packed square is bordered by small homes which are ultimately
+ringed by the high wooden fence.  The gate to the village is to the north
+providing passage back out to the forest.  
+~
+0 8196 2
+D0
+~
+~
+1 0 22583
+D1
+~
+~
+0 0 22585
+D2
+~
+~
+0 0 22589
+S
+#22585
+Village Square~
+The soft grass of the green square is partially trampled from the
+activity of the village.  To the north and east small homes line the square
+each bordered by the outer fence.  
+~
+0 8192 2
+D0
+~
+~
+1 0 22586
+D1
+~
+~
+1 0 22587
+D2
+~
+~
+0 0 22590
+D3
+~
+~
+0 0 22584
+S
+#22586
+Small Home~
+Simple furnishings surround the interior of this small home.  A small
+fire crackles in the fireplace as the evenings meal cooks slowly over it. 
+Through the back window a glimpse of the forest can be seen over the high
+fence.  
+~
+0 8192 0
+D2
+~
+~
+1 0 22585
+S
+#22587
+General Store~
+Various items surround the shelves of this store, ranging from food and
+water to other essential items for travellers.  The items are kept in well
+order as a display to all showing what items are for sale.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22585
+S
+#22588
+Seamstress~
+Large spools of fabric sit gathered in the corner nearly surrounding a
+small work area in the center of the room.  Newly made cloaks hang on racks
+displaying the talents of the seamstress.  
+~
+0 8192 0
+D1
+~
+~
+1 0 22589
+S
+#22589
+Village Square~
+The soft grass of the square wavers slightly in the wind as it blows
+through the town.  To the south and west small homes line the village
+square, thin wisps of smoke drifting away in the wind.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22584
+D1
+~
+~
+0 0 22590
+D2
+~
+~
+1 0 22592
+D3
+~
+~
+1 0 22588
+S
+#22590
+Village Square~
+The slightly trampled grass of the square struggles to return to its
+original form, the continued treading of the villages inhabbitants forever
+trampling it down.  Two small houses sit off the square to the south and
+east.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22585
+D1
+~
+~
+1 0 22591
+D2
+~
+~
+1 0 22593
+D3
+~
+~
+0 0 22589
+S
+#22591
+Small Home~
+The home is more extravagantly furnished for existing in such a remote
+area.  A large oil painting hangs on the wall depicting an vast battlefield.
+An ornate family crest hangs on the opposite wall.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22590
+S
+#22592
+Small Home~
+The home is obviously owned by a family with small childern.  Wooden toys
+sit piled neatly in the corner far away from the crackling of the cooking
+fire.  Through the back window a glimpse of the forest to the south can be
+seen over the high fence.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22589
+S
+#22593
+Metal Worker~
+The smell of heated metal surrounds the room coming from the large
+furnace and bellows.  Large hammers and various barrels for quenching
+surround the room all of which are used in the metal workers delay labors.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22590
+S
+#22594
+Deer Trail~
+A narrow deer trail winds through the dense underbrush, just barely
+visible among the masses of green shrubs.  The tall trunks of the forest
+loom to the north, while the path twists its way further through the brush
+to the south.  
+~
+0 8192 3
+D0
+~
+~
+0 0 22510
+D2
+~
+~
+0 0 22595
+S
+#22595
+Deer Trail~
+The deer trail twists and turns through the shrubs nearly disappearing in
+the thick brush.  The surrounding bushes rustle furiously as an animal seeks
+to escape from the area.  The trail twists its way east or north providing a
+guiding path through the tangle.  
+~
+0 8192 3
+D0
+~
+~
+0 0 22594
+D1
+~
+~
+0 0 22596
+S
+#22596
+Deer Trail~
+The trail is nearly swallowed by the thick underbrush that surrounds it. 
+The greens of the forest swirling all around.  The trail seeming ends as it
+merges with a larger dirt path to the south.  
+~
+0 8192 3
+D2
+~
+~
+0 0 22597
+D3
+~
+~
+0 0 22595
+S
+#22597
+Dirt Path~
+A fairly worn dirt path leads away from the shrubs towards a small town
+to the east.  The dark greens of the forest nearly swallowing the small
+town, nearly hiding it from view.  A small deer trail leads north providing
+a narrow passage to the forest.  
+~
+0 0 2
+D1
+~
+~
+0 0 22598
+S
+#22598
+Dirt Path~
+The dirt path runs east-west its surface marred with hoof and footprints
+from various travellers to the area.  The small town sits to the east
+protected only by the camouflage of the forest.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22599
+D3
+~
+~
+0 0 22597
+S
+#22599
+Dirt Square~
+The hard packed earth forms a small square lined by small houses.  The
+area has a little resemblence of a town or village just a small grouping of
+homes.  To the west a path leads back towards the forest.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22605
+D1
+~
+~
+0 0 22600
+D3
+~
+~
+0 0 22598
+S
+#22600
+Dirt Square~
+The hard packed earth seems out of place in the midst of the lush green
+forest.  The small houses line the square to the south and east.  The forest
+surrounding the small town on all sides the green nearly swallowing the
+small town.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22604
+D1
+~
+~
+1 0 22602
+D2
+~
+~
+1 0 22601
+D3
+~
+~
+0 0 22599
+S
+#22601
+Small Home~
+The walls are lined with bookshelves, which are in turn filled with all
+sorts of books.  A large wooden desk has been setup covered with various
+writting materials and dusty tomes.  Some odd form of glow light hangs from
+high overhead illuminating the room.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22600
+S
+#22602
+Small Home~
+An odd smell whaffs around the room, the shelves are lined with various
+odds and ends in labeled glass jars.  A large cauldron sits in the center
+bubbling over a small fire.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22600
+S
+#22603
+Small Home~
+Thick branches sit highly polished and intricately carved lining neatly
+up against the walls of the home.  An odd assortment of knives and unknown
+salves sit waiting to be used on a large table.  A wooden work bench sits in
+a corner undoubtably used when making these staffs.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22604
+S
+#22604
+Dirt Square~
+Small sapplings grow near the edge of the square to the north as the
+forest tries to reclaim the land it once occupied.  To the east a small
+house stands out in great contrast to the greens of the forest.  
+~
+0 8192 2
+D1
+~
+~
+1 0 22603
+D2
+~
+~
+0 0 22600
+D3
+~
+~
+0 0 22605
+S
+#22605
+Dirt Square~
+The hard packed earth of the square seems out of place compared to the
+area surrounding it.  The lush greens of the forrest surround the small
+houses on all sides obscuring view further beyond the leafy green screens.  
+~
+0 8192 2
+D0
+~
+~
+1 0 22606
+D1
+~
+~
+0 0 22604
+D2
+~
+~
+0 0 22599
+S
+#22606
+Wizards Workship~
+Staffs, tomes, vials, scrolls, and wands lay cluttered everywhere in
+absolute disarray.  A large conical hat sits discarded to the side and a
+small table nearly free of clutter sits in the center of the room.  
+~
+0 8192 0
+D2
+~
+~
+1 0 22605
+S
+#22607
+Small Clearing~
+The forest receeds and opens into a small clearing surrounded by the
+green of the forest.  To the east a large gate stands blocking the view to
+the east hiding what exists beyond.  The tall trees of the forest tower over
+casting a dark shade over the clearing.  
+~
+0 8192 3
+D1
+~
+~
+1 0 22608
+D3
+~
+~
+0 0 22483
+S
+#22608
+Village Common~
+The village common lays before you, various buildings surround the the
+area.  A high wooden gate stands to the west keeping out any wild animals
+from the forest.  On the horizon to the east the forest can no longer be
+seen.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22618
+D1
+~
+~
+0 0 22609
+D2
+~
+~
+0 0 22611
+D3
+~
+~
+1 0 22607
+S
+#22609
+Village Common~
+The grass of the green common is trampled slightly from the daily
+activies of the village.  To the east a small building stands off the from
+the common, to the west the gate of the village stands.  
+~
+0 8192 0
+D0
+~
+~
+0 0 22616
+D1
+~
+~
+1 0 22610
+D2
+~
+~
+0 0 22612
+D3
+~
+~
+0 0 22608
+S
+#22610
+Dirty Shop~
+Items lay scattered throughout the room obviously the collection of a
+packrack.  Dusty sacks sit piled in the corner nearly bursting at the seems
+full of junk and trinkets.  A wooden counter sits cluttered with various
+items in a chaotic pattern.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22609
+S
+#22611
+Village Common~
+The grassy common is the center of the small village, it being ringed by
+small houses and the high wooden fence.  To the west the high wooden fence
+holds back the animals of the forest and to the south a small home sits off
+the common.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22608
+D1
+~
+~
+0 0 22612
+D2
+~
+~
+1 0 22614
+S
+#22612
+Village Common~
+The common expands to the north overlooking the rest of the village with
+the forest in view to the west and north.  To the east and south two small
+building sit just off the common each ringed by the high wooden fence.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22609
+D1
+~
+~
+1 0 22613
+D2
+~
+~
+1 0 22615
+D3
+~
+~
+0 0 22611
+S
+#22613
+Dusty Home~
+The dark and dirty home is scattered with bits and pieces of junk from
+all over.  Piles and mounds of unidentifiable items lay scattered throughout
+the home.  The damp smell of mold and dust dominates the home.  
+~
+0 8192 0
+D3
+~
+~
+1 0 22612
+S
+#22614
+Cobbler~
+Scraps of leather and other material litter the floor.  A large work area
+is set aside fitted with special grips for holding unfinished shoes or
+boots.  A large rack of newly made boots sits on a displace shelf.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22611
+S
+#22615
+Small Home~
+The small home is simply furnished, a small table sits in the room set
+for dinner.  Over the fire place a large black cauldron bubbles as the
+evenings meal slowly cooks.  A large rack of for holding boots and shoes
+hangs on the wall empty.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22612
+S
+#22616
+Village Common~
+The common expands to the south streching until it runs into the fence
+wall far to the south.  To the north a small building stands alone away from
+the rest of the village that lies to the south.  
+~
+0 8192 0
+D0
+~
+~
+1 0 22617
+D2
+~
+~
+0 0 22609
+D3
+~
+~
+0 0 22618
+S
+#22617
+Lavish Home~
+The home is furnished with lavish decorations, obviously of some well off
+merchant.  Fancy furniture lines the room topped off with an ornate coat of
+arms hanging on the wall.  The brick fireplace crackles as the small fire
+heats the evenings supper.  
+~
+0 8192 0
+D2
+~
+~
+1 0 22616
+S
+#22618
+Village Common~
+The green common sits in the center of the village, surrounded by all the
+houses.  Thin wisps of smoke drift gently away from the houses in the wind. 
+To the west a small shop sits excluded from the rest of the village homes.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22616
+D2
+~
+~
+0 0 22608
+D3
+~
+~
+1 0 22619
+S
+#22619
+Jeweller~
+Barrels of unfinished rings sit waiting for a stone to be set into them. 
+A small work area has been set aside for finishing the rings.  A small sign
+hangs on the wall proclaiming the business.  
+~
+0 8192 0
+E
+sign~
+I will set any huge stone you bring me into one of the gold rings I have
+been working on.  There is no charge, you just need to provide me with a
+huge gemstone of your choice and I will finish the ring.  
+~
+D1
+~
+~
+1 0 22618
+S
+#22620
+Faint Trail~
+The faint trail winds its way through the thick underbrush of the forest.
+Large ferns draped over the trail nearly obscure the path through the
+underbrush.  Thorn bushes rise up to the north and south as the trail heads
+east and west leads back to the forest.  
+~
+0 8192 3
+D1
+~
+~
+0 0 22621
+D3
+~
+~
+0 0 22436
+S
+#22621
+Faint Trail~
+The trail twists in the forest headed to the south and west.  The thick
+brush of the forest surrounding on all sides.  The forest trees tower
+overhead casting a dark gloom over the area.  
+~
+0 8192 3
+D2
+~
+~
+0 0 22622
+D3
+~
+~
+0 0 22620
+S
+#22622
+Faint Trail~
+The thick underbruch conceals the trail as it while it winds its way
+through the tangle.  The thick foliage disguising the trail as it twists and
+heads north and east.  The tall trees of the forest loom on all sides
+casting a dark shadow over the area.  
+~
+0 8192 3
+D0
+~
+~
+0 0 22621
+D1
+~
+~
+0 0 22623
+S
+#22623
+Faint Trail~
+The faint path nearly disappears into the thick brush, the large ferns
+greatly obscuring the trail.  The canopy of leaves and branches nearly blots
+out the sky overhead.  The trail continues on the east west path through the
+forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 22624
+D3
+~
+~
+0 0 22622
+S
+#22624
+Faint Trail~
+The trail comes to an end as it opens into a clearing to the south.  To
+the west the trail heads back towards the forest, the whole area in a dark
+gloom from the towering trees high overhead.  
+~
+0 8192 3
+D2
+~
+~
+0 0 22625
+D3
+~
+~
+0 0 22623
+S
+#22625
+Ranger Camp~
+The underbrush is cleared away slashed to form a small clearing.  The
+clearing expands to the south and east before the forest reclaims the area
+again.  Several large tents ring the encampment.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22624
+D1
+~
+~
+0 0 22626
+D2
+~
+~
+0 0 22629
+S
+#22626
+Ranger Camp~
+The small clearing is ringed by the dense brush of the forest.  To the
+east a large tent sits just off the main part of the clearing.  The tall
+trees of the forest towering high overhead.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22627
+D2
+~
+~
+0 0 22630
+D3
+~
+~
+0 0 22625
+S
+#22627
+Large Tent~
+On the left side of the tent tree limbs lean against the tent side,
+several have been shaped into bows of various types.  On the right side
+slender shafts of arrows lean against the tent side, most still waiting to
+be fletched.  
+~
+0 8192 0
+D3
+~
+~
+0 0 22626
+S
+#22628
+Large Tent~
+A large cot sits in the tent with fur blankets piled high on the pallet. 
+Several large pelts hang from the center line that run across the tent.  Out
+the back of the tent a line has been run and a large quantity of furs hang
+from it.  
+~
+0 8192 0
+D1
+~
+~
+0 0 22629
+S
+#22629
+Ranger Camp~
+The clearing expands to the north and east, lined with a large tents to
+the south and west.  The trees of the forest loom over the clearing farther
+off to the west casting a dark shade over the area.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22625
+D1
+~
+~
+0 0 22630
+D2
+~
+~
+0 0 22632
+D3
+~
+~
+0 0 22628
+S
+#22630
+Ranger Camp~
+A large fire pit sits in the center of the camp, the remains of logs
+still smoldering glow slightly in the pit.  A large tent has been setup to
+the east, neatly blending in with the forest behind it.  
+~
+0 8192 3
+D0
+~
+~
+0 0 22626
+D1
+~
+~
+0 0 22631
+D3
+~
+~
+0 0 22629
+S
+#22631
+Large Tent~
+A large pallet sits in the tent obviously the bedding of a ranger. 
+Several bows lean against the tent sides.  Out the back of the tent only the
+forest can be seen the green shrubs making it difficult to see any farther. 
+~
+0 8192 0
+D3
+~
+~
+0 0 22630
+S
+#22632
+Large Tent~
+A large pile of furs sit piled throughout the tent, a table setup as a
+makeshift counter.  Looking out the back of the tent only the thick green
+underbrush of the forest can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 22629
+S
+#22400
+Edge of the Forest~
+Beneath the canopy of tall trees, providing just enough for the ferns and
+small bushes to grow.  To the north a path cuts through the forest, to the
+west an upassable tangle of bushes and thorns blocks the path.  To the south
+and east the floor of the forest is clear enough for travel.  
+~
+0 4 3
+D0
+~
+~
+0 0 22010
+D1
+~
+~
+0 0 22401
+D2
+~
+~
+0 0 22404
+S
+#22401
+Edge of the Forest~
+The tall trees sway in the wind that blows through the forest.  Around
+the trunks to the north a path cutting through the forest can be seen.  In
+all other directions the green and brown colors of the forest stretch as far
+as the eye can see.  
+~
+0 4 3
+D0
+~
+~
+0 0 22011
+D1
+~
+~
+0 0 22402
+D2
+~
+~
+0 0 22405
+D3
+~
+~
+0 0 22400
+S
+#22402
+Edge of the Forest~
+The green of the ferns and shrubs of the forest clash with the dark brown
+bark of the tree trunks.  To the north a path slicing through the forest can
+be seen, but in all other directions trees and shrubs dominate the view.  
+~
+0 4 3
+D0
+~
+~
+0 0 22012
+D1
+~
+~
+0 0 22403
+D2
+~
+~
+0 0 22406
+D3
+~
+~
+0 0 22401
+S
+#22403
+Edge of the Forest~
+The dark greens of ferns and bushes swaying the wind provide a hypnotic
+affect.  Only the sound of rustling leaves breaks up the silence of the
+forest.  To the north a path cuts through the forest, to the east a large
+twisted trunk of a fallen tree makes travel in that direction impossible. 
+To the south and west the forest continues as far as the eye can see 
+~
+0 4 3
+D0
+~
+~
+0 0 22013
+D2
+~
+~
+0 0 22407
+D3
+~
+~
+0 0 22402
+S
+#22404
+Thick Underbrush~
+Travelling is difficult, thorn and other smaller bushes crowd the forest
+floor.  The ground practically hidden by the bushes gives no indications of
+what may lie beneath.  The mass of vegitation is too dense to the west to
+proceed further.  
+~
+0 0 3
+D0
+~
+~
+0 0 22400
+D1
+~
+~
+0 0 22405
+D2
+~
+~
+0 0 22408
+S
+#22405
+Beneath the Trees~
+Tall, majestic trees surround on all sides, the trunks growing skyward
+blooming into a lush green canopy.  The floor of the forest is easier to
+walk as the bushes and ferns have receeded making no longer impeeding
+progress.  
+~
+0 0 3
+D0
+~
+~
+0 0 22401
+D1
+~
+~
+0 0 22406
+D2
+~
+~
+0 0 22409
+D3
+~
+~
+0 0 22404
+S
+#22406
+Beneath the Trees~
+The lofty tree tops sway slightly in the wind.  The trunks alone dwarfing
+all who walk through this majestic forest.  The colors of green and brown
+blanket everything and continue in all directions as far as the eye can see.
+~
+0 0 3
+D0
+~
+~
+0 0 22402
+D1
+~
+~
+0 0 22407
+D2
+~
+~
+0 0 22410
+D3
+~
+~
+0 0 22405
+S
+#22407
+Edge of the Forest~
+The vegitation thins making it much easier to travel the forest floor. 
+The tall trees overhead providing shade from the sun above.  The tree cover
+breaks to the east where a path can be seen cutting through the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 22403
+D1
+~
+~
+0 0 22015
+D2
+~
+~
+0 0 22411
+D3
+~
+~
+0 0 22406
+S
+#22408
+Thick Underbrush~
+A half rotten trunk lies decaying away on the forest floor.  Bright
+colored mushrooms grow on its dead bark.  A large tangle of limbs and brush
+lay blocking travel to the south and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 22404
+D1
+~
+~
+0 0 22409
+S
+#22409
+Towering Trees~
+The sky is pierced by the tops of the trees as they tower over all that
+is below in the forest.  The canopy shading the area making it diffucult for
+anything other then a few sparse bushes and small ferns to thrive in the
+shadow.  
+~
+0 0 3
+D0
+~
+~
+0 0 22405
+D1
+~
+~
+0 0 22410
+D2
+~
+~
+0 0 22412
+D3
+~
+~
+0 0 22408
+S
+#22410
+Towering Trees~
+The capony nearly blots out the sky, only patches of blue and white can
+be seen through the dense green leaves.  Thick roots lay half exposed in the
+hard packed soil of the forest floor.  The colors of green and brown extend
+in all directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 22406
+D1
+~
+~
+0 0 22411
+D2
+~
+~
+0 0 22413
+D3
+~
+~
+0 0 22409
+S
+#22411
+Edge of the Forest~
+The trees of the forest tower around you, the tops swaying slightly in
+the wind.  To the east a path cutting through the forest can be seen.  The
+colors of green and brown surround in all other directions.  
+~
+0 4 3
+D0
+~
+~
+0 0 22407
+D1
+~
+~
+0 0 22016
+D2
+~
+~
+0 0 22414
+D3
+~
+~
+0 0 22410
+S
+#22412
+Thick Foliage~
+Large bushes and shrubs rush to overtake the area that was once occupied
+by a fallen tree.  Each reaching upward towards the now visible blue sky. 
+The foliage is so dense passage is impossible to the west and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 22409
+D1
+~
+~
+0 0 22413
+S
+#22413
+Beneath the Canopy~
+Trees tower over the forest floor providing little light for the flora
+below.  Throughout the hard packed dirt floor of the forest patches of green
+moss can be seen.  The forest continues on in all directions as far as the
+eye can see.  
+~
+0 0 3
+D0
+~
+~
+0 0 22410
+D1
+~
+~
+0 0 22414
+D2
+~
+~
+0 0 22418
+D3
+~
+~
+0 0 22412
+S
+#22414
+Under the Trees~
+The tall trunks of trees tower over the forest floor below.  Small
+rope-like vines grow twisting around the base of the trunks.  Just barely to
+the northeast a path can be seen cutting through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 22411
+D1
+~
+~
+0 0 22415
+D2
+~
+~
+0 0 22419
+D3
+~
+~
+0 0 22413
+S
+#22415
+Edge of the Forest~
+The greens and browns of the forest sway and move in the gentle breeze
+blowing through the forest.  The large ferns moving almost hypnotically in
+the wind.  To the north a path cuts through the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 22016
+D1
+~
+~
+0 0 22416
+D2
+~
+~
+0 0 22420
+D3
+~
+~
+0 0 22414
+S
+#22416
+Edge of the Forest~
+The tall trees dwarf the small saplings struggling to grow in the hard
+packed earth.  The sunlight filters in through the dense canopy of leaves. 
+To the north a path cuts through the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 22017
+D1
+~
+~
+0 0 22417
+D2
+~
+~
+0 0 22421
+D3
+~
+~
+0 0 22415
+S
+#22417
+Edge of the Forest~
+The forest floor is overrun with growing vines and bushes making travel
+difficult.  To the north a path cuts through the forest, to the east passage
+is blocked by the dense underbrush.  To the south and west the forest
+extends as far as the eye can see.  
+~
+0 4 0
+D0
+~
+~
+0 0 22018
+D2
+~
+~
+0 0 22422
+D3
+~
+~
+0 0 22416
+S
+#22418
+Thick Underbrush~
+Thick trunks reach skyward before blooming into a brilliant green canopy.
+Wrapped around the trunks slim leafy green vines spiral up towards the top. 
+To the west dense underbrush makes passage impossible, the greens and browns
+of the forest surrounding on all sides.  
+~
+0 0 3
+D0
+~
+~
+0 0 22413
+D1
+~
+~
+0 0 22419
+D2
+~
+~
+0 0 22423
+S
+#22419
+The Ancient Tree~
+The thick trunk of an ancient tree shoots skyward making all other forest
+trees appear tiny compared to its massive girth.  The thick roots lie half
+exposed in the soil making hazards for hasty travellers.  
+~
+0 0 3
+D0
+~
+~
+0 0 22414
+D1
+~
+~
+0 0 22420
+D2
+~
+~
+0 0 22424
+D3
+~
+~
+0 0 22418
+S
+#22420
+Under the Canopy~
+The dense leafy green canopy nearly blots out the blue and white sky
+above.  Sunlight filters in through the thick cover of leaves providing
+little light for what grows on the forest floor.  
+~
+0 0 3
+D0
+~
+~
+0 0 22415
+D1
+~
+~
+0 0 22421
+D2
+~
+~
+0 0 22425
+D3
+~
+~
+0 0 22419
+S
+#22421
+Between the Trunks~
+Two thick trunks of the forest trees stand looming over all in the area. 
+The grayish brown bark marked with splotches of green moss and offshoots of
+small branches.  
+~
+0 0 3
+D0
+~
+~
+0 0 22416
+D1
+~
+~
+0 0 22422
+D2
+~
+~
+0 0 22426
+D3
+~
+~
+0 0 22420
+S
+#22422
+Fallen Tree~
+One of the giant trees has been felled, its massive trunk lies blocking
+the path eastward.  The area cleared by the fallen trunk is already
+overgrown by small saplings racing to replace the fallen giant.  
+~
+0 0 3
+D0
+~
+~
+0 0 22417
+D2
+~
+~
+0 0 22427
+D3
+~
+~
+0 0 22421
+S
+#22423
+Thick Underbrush~
+The tall canopy nearly pierces the sky blooming into a brilliant green
+cover, nearly blotting out the blue and white sky.  A massive log lies
+blocking the path to the west, oddly the area where the log was cut is
+covered over by a leafy green screen.  
+~
+0 0 3
+D0
+~
+~
+0 0 22418
+D1
+~
+~
+0 0 22424
+D2
+~
+~
+0 0 22429
+S
+#22424
+Beside the Trunks~
+The massive trunks of large trees grow all around, towering over the
+forest floor below.  Several small saplins struggle to grow in the shadows
+of these giants.  To the south the trees break revealing a lake shimmering
+in the distance.  
+~
+0 0 3
+D0
+~
+~
+0 0 22419
+D1
+~
+~
+0 0 22425
+D2
+~
+~
+0 0 22430
+D3
+~
+~
+0 0 22423
+S
+#22425
+Forest Clearing~
+The trees tower over the clearing providing a cooling shade in the open
+area.  Only large ferns swaying the breeze grow on the forest floor.  To the
+south you can see the shimmer of the water in the lake.  
+~
+0 0 3
+D0
+~
+~
+0 0 22420
+D1
+~
+~
+0 0 22426
+D2
+~
+~
+0 0 22431
+D3
+~
+~
+0 0 22424
+S
+#22426
+Forest Clearing~
+The area is missing the massive trunks of the forest, only small
+sapplings begin their trek skyward.  To the south the shimmering water of
+the lake glints in the sunlight.  
+~
+0 0 3
+D0
+~
+~
+0 0 22421
+D1
+~
+~
+0 0 22427
+D2
+~
+~
+0 0 22432
+D3
+~
+~
+0 0 22425
+S
+#22427
+Under the Branches~
+Above an interlocking mass of branches nearly blots out the sky, the
+leafy green canopy nearly obscuring all light trying to penetrate them. 
+Through the trees to the south the water of a lake shimmers in the sunlight.
+~
+0 0 3
+D0
+~
+~
+0 0 22422
+D1
+~
+~
+0 0 22428
+D2
+~
+~
+0 0 22433
+D3
+~
+~
+0 0 22426
+S
+#22428
+Thick Underbrush~
+A dense snarl of bushes makes it difficult walking through the forest. 
+To the east and north the brush becomes denser and impossible to travel
+through.  To the south through the trees the shimmering water of the lake
+can be seen.  
+~
+0 0 3
+D2
+~
+~
+0 0 22434
+D3
+~
+~
+0 0 22427
+S
+#22429
+Lake Shore~
+The forest clears out onto a the sandy lake shore, the water shimmering
+to the southeast.  The forest to the north provides a little shade from the
+heat of the sun on the lake shore.  To the east and south the sandy shore
+continues before turning back in 
+~
+0 0 2
+D0
+~
+~
+0 0 22423
+D1
+~
+~
+0 0 22430
+D2
+~
+~
+0 0 22437
+S
+#22430
+Lake Shore~
+The forest towers over the lake shore cooling to coarse sand beneath your
+feet.  The dark waters of the lake ripple slightly revealing signs of life
+in the lake.  On the far shore the tall trees dot the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 22424
+D1
+~
+~
+0 0 22431
+D3
+~
+~
+0 0 22429
+S
+#22431
+Lake Shore~
+The leafy branches hang over the lake shore, shading over the lake sand. 
+The dark water ripples as an unseen creature splashes below the surface. 
+Far off to the south the opposite shore of the lake can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 22425
+D1
+~
+~
+0 0 22432
+D3
+~
+~
+0 0 22430
+S
+#22432
+Lake Shore~
+The clearing opens up into the sandy lake shore, the waters of the lake
+shimmering brightly reflecting the overhead sun.  The gentle waves lapping
+against the shore provide a calming sound.  
+~
+0 0 2
+D0
+~
+~
+0 0 22426
+D1
+~
+~
+0 0 22433
+D3
+~
+~
+0 0 22431
+S
+#22433
+Lake Shore~
+The leafy branches sway over the lake shore as the wind blows them back
+and forth.  The dark water ripples revealing hidden signs of life in the
+lake.  Far to the south the opposite shore can be seen as the forest resumes
+its dominance.  
+~
+0 0 2
+D0
+~
+~
+0 0 22427
+D1
+~
+~
+0 0 22434
+D3
+~
+~
+0 0 22432
+S
+#22434
+Lake Shore~
+The sandy shore borders the dark waters of the lake.  The leafy canopy no
+longer provides a cooling shade as the sun high overhead beats down on the
+lake shore.  The waters of the lake ripple slightly as something stirs
+beneath the surface.  
+~
+0 0 2
+D0
+~
+~
+0 0 22428
+D1
+~
+~
+0 0 22435
+D3
+~
+~
+0 0 22433
+S
+#22435
+Lake Shore~
+The dark waters of the lake can been seen to the southeast.  The forest
+returns to the east the tall trees towering on the distance.  To the south
+the shore follows along the edge of the lake.  
+~
+0 0 2
+D1
+~
+~
+0 0 22436
+D2
+~
+~
+0 0 22438
+D3
+~
+~
+0 0 22434
+S
+#22436
+Beneath the Trees~
+The tall trunks tower over the forest floor casting a dark shade over the
+area.  To the north a thick tangle of brush makes passage impossible and to
+the east a trail leads off through the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 22439
+D3
+~
+~
+0 0 22435
+S
+#22437
+Lake Shore~
+The tall trees loom over the sandy lake shore, far off to the west a
+large snow capped mountain looms in the distance.  The forest underbrush is
+too dense to negotiate travel to the west forcing travel along the shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22429
+D2
+~
+~
+0 0 22440
+S
+#22438
+Lake Shore~
+The dark waters of the lake ripple slightly, some unseen lifeform moving
+beneath the surface.  The forest looms to the east its tall trees providing
+some shade over the lake shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22435
+D1
+~
+~
+0 0 22439
+D2
+~
+~
+0 0 22442
+S
+#22439
+Tall Trunks~
+Thick brown trunks of the massive trees tower over the forest floor, only
+small ferns able to grow in the lack of light.  An unpassable mass of
+branches lay tangled blocking the path to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 22436
+D2
+~
+~
+0 0 22443
+D3
+~
+~
+0 0 22438
+S
+#22440
+Lake Shore~
+The dark waters of the lake shimmer to the northeast and far off to the
+east the opposite shore of the lake can be seen dotted with green trees.  To
+the south the forest resumes its dominance towering over the sandy shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22437
+D1
+~
+~
+0 0 22441
+D2
+~
+~
+0 0 22445
+S
+#22441
+Lake Shore~
+The lake shimmers in the sun surrounding the shore to the north and east.
+The tree dotted shore lines on opposite sway back and forth in the wind. 
+The surface of the lake ripples with activity beneath it.  
+~
+0 0 2
+D2
+~
+~
+0 0 22446
+D3
+~
+~
+0 0 22440
+S
+#22442
+Lake Shore~
+The eastern shore of the lake overlooks the dark water as it ripples
+slightly.  Far off on the horizon to the west a tall mountain looms over the
+forest and lake.  To the south the tree cover becomes denser as the forest
+takes over.  
+~
+0 0 3
+D0
+~
+~
+0 0 22438
+D1
+~
+~
+0 0 22443
+D2
+~
+~
+0 0 22449
+S
+#22443
+Between the Trunks~
+The trunks of the tall trees surround the area on all sides, their leafy
+tops towering over the forest floor.  Several brightly colored mushrooms
+grow at the base of the trunks.  Through the forest to the west the dark
+waters of a lake can be seen.  
+~
+0 0 3
+D0
+~
+~
+0 0 22439
+D1
+~
+~
+0 0 22444
+D2
+~
+~
+0 0 22450
+D3
+~
+~
+0 0 22442
+S
+#22444
+Dead Tree~
+A large tree split nearly in half by a lightning strike, its broken trunk
+blocks travel to the east.  The fallen trunk is marked with colorfull
+mushrooms growing on the decaying log.  
+~
+0 0 3
+D2
+~
+~
+0 0 22451
+D3
+~
+~
+0 0 22443
+S
+#22445
+Thick Underbrush~
+The twisted underbrush makes passage difficult, the vines and bushes
+tangling and snaring with every step.  Off to the west a snow capped
+mountain looms in the distance, a small trail through the underbrush headed
+off in that direction.  
+~
+0 0 3
+D0
+~
+~
+0 0 22440
+D1
+~
+~
+0 0 22446
+S
+#22446
+Lake Shore~
+Tall trees tower over the edge of the shore to the south marking the
+forests return to dominance.  To the northeast the dark waters of the lake
+shimmer and ripple in the sun light.  
+~
+0 0 2
+D0
+~
+~
+0 0 22441
+D1
+~
+~
+0 0 22447
+D2
+~
+~
+0 0 22453
+D3
+~
+~
+0 0 22445
+S
+#22447
+Lake Shore~
+The dark waters of the lake shimmer to the north in the sunlight.  To the
+south the tall trees of the forest resume the towering prescence.  The far
+shore of the lake can be seen far off to the north the trees swaying
+slightly in the wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 22448
+D2
+~
+~
+0 0 22454
+D3
+~
+~
+0 0 22446
+S
+#22448
+Lake Shore~
+The sandy shore line of the lake turns off to the south as the waters of
+the lake surround the shore to the north and east.  The water ripples
+slightly with the activity beneath the surface as the gentle waves lap onto
+the shore.  
+~
+0 0 2
+D2
+~
+~
+0 0 22455
+D3
+~
+~
+0 0 22447
+S
+#22449
+Lake Shore~
+The sandy shore of the lake breaks up the monotinous colors of the green
+and brown forest.  Far off to the west the tree lined shore of the lake is
+visibile.  The water of the lake surface ripples from movement beneath the
+surface.  
+~
+0 0 2
+D0
+~
+~
+0 0 22442
+D1
+~
+~
+0 0 22450
+D2
+~
+~
+0 0 22459
+S
+#22450
+Small Clearing~
+The trees surround the small clearing creating a nice shade in the area. 
+Tall weeds grow in the clearing obscuring the forest floor.  Thick ferns
+sway in the gentle breeze that blows through the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 22443
+D1
+~
+~
+0 0 22451
+D2
+~
+~
+0 0 22460
+D3
+~
+~
+0 0 22449
+S
+#22451
+Towering Trunks~
+Two identical trunks reach skward, their canopies nearly blotting out the
+blue and white sky.  Sunlight filters in through the dense leaf cover
+illuminating the forest floor.  
+~
+0 0 3
+D0
+~
+~
+0 0 22444
+D1
+~
+~
+0 0 22452
+D2
+~
+~
+0 0 22461
+D3
+~
+~
+0 0 22450
+S
+#22452
+Twisted Underbrush~
+Thick thorn bushes interlocked with other shrubs of the area make it
+impossible to pass to the north and east.  The tall trees towering over the
+forest floor darken the area.  
+~
+0 0 3
+D2
+~
+~
+0 0 22462
+D3
+~
+~
+0 0 22451
+S
+#22453
+Twisted Branches~
+Thick interlocking branches of a fallen tree block the path to the west
+and south.  Far off to the west a snow capped mountain looms in the distance
+blotting out the western horizon.  
+~
+0 0 3
+D0
+~
+~
+0 0 22446
+D1
+~
+~
+0 0 22454
+D3
+~
+~
+0 0 46312
+S
+#22454
+Towering Trees~
+Tall trees tower over the area casting a dark gloom beneath the leafy
+canopy.  The plantlife below struggles to find a spot were it can get the
+necessary sunlight to grow.  
+~
+0 0 3
+D0
+~
+~
+0 0 22447
+D1
+~
+~
+0 0 22455
+D2
+~
+~
+0 0 22464
+D3
+~
+~
+0 0 22453
+S
+#22455
+Lake Shore~
+The dark waters of the lake shimmer to the northeast with the sandy shore
+line running to the east and north.  To the southwest the trees of the
+forest tower over the shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22448
+D1
+~
+~
+0 0 22456
+D2
+~
+~
+0 0 22465
+D3
+~
+~
+0 0 22454
+S
+#22456
+Lake Shore~
+The sandy shore of the lake is shadowed by the forest to the south.  To
+the north the dark waters of the lake shimmer in the sunlight, the opposite
+bank revealing the forest returning to dominance.  
+~
+0 0 2
+D1
+~
+~
+0 0 22457
+D2
+~
+~
+0 0 22467
+D3
+~
+~
+0 0 22455
+S
+#22457
+Lake Shore~
+The sandy lake shore is traced by the edge of the forest.  The dark
+waters of the lake to the north ripple slightly in the wind.  On the
+opposite bank the tall trees sway slightly with the wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 22458
+D2
+~
+~
+0 0 22468
+D3
+~
+~
+0 0 22456
+S
+#22458
+Lake Shore~
+The sandy shore overlooks the dark waters of the lake.  The dark waters
+reflecting the sunlight from high above.  The shore is overshadowed by the
+tall trees of the forest to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 22459
+D2
+~
+~
+0 0 22469
+D3
+~
+~
+0 0 22457
+S
+#22459
+Narrow Strip~
+The narrow strip of land seperates too lakes, one to the northwest, the
+other to the southeast.  The gentle waters of the lakes slap lightly onto
+the sandy shore of the lakes.  
+~
+0 0 2
+D0
+~
+~
+0 0 22449
+D1
+~
+~
+0 0 22460
+D2
+~
+~
+0 0 22470
+D3
+~
+~
+0 0 22458
+S
+#22460
+Lake Shore~
+The forest looms to the north over providing a soothing shade on the lake
+shore.  To the south the dark waters of the lake shimmer in the sunlight
+rippling slightly with movement beneath the surface.  
+~
+0 0 2
+D0
+~
+~
+0 0 22450
+D1
+~
+~
+0 0 22461
+D3
+~
+~
+0 0 22459
+S
+#22461
+Lake Shore~
+The sandy shore outlines the dark waters of the lake to the southwest. 
+The forest looms to the north and east, the tall trees making it difficult
+to see the horizon.  To the west the shore of another lake can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 22451
+D1
+~
+~
+0 0 22462
+D2
+~
+~
+0 0 22471
+D3
+~
+~
+0 0 22460
+S
+#22462
+Under the Branches~
+The leafy branches of the tall trees prevent sunlight from filtering in
+through the canopy.  Small saplings struggle to grow beneath the massive
+trees.  Thick bushy ferns wave slightly in the breeze.  
+~
+0 0 3
+D0
+~
+~
+0 0 22452
+D1
+~
+~
+0 0 22463
+D2
+~
+~
+0 0 22472
+D3
+~
+~
+0 0 22461
+S
+#22463
+Dense Underbrush~
+A large dead tree stands over the forest floor, its branches void of any
+leaves allowing the sunlight to pass through.  The dense green underbrush
+blocks passage to the north and east.  
+~
+0 0 3
+D2
+~
+~
+0 0 22473
+D3
+~
+~
+0 0 22462
+S
+#22464
+Dense Foliage~
+Younger trees grown here making it easier for other life to grow on the
+forest floor.  The thick brush makes passage impossible to the west and
+south the greens of the forest surround on all sides.  
+~
+0 0 3
+D0
+~
+~
+0 0 22454
+D1
+~
+~
+0 0 22465
+S
+#22465
+Thick Underbrush~
+The tall trunks overshadow the underbrush below the canopy, darkening the
+greens of the forest floor.  A small clump of bushes creates an odd looking
+thicket to the south, the greens of the forest surrounding on all sides.  
+~
+0 0 3
+D0
+~
+~
+0 0 22455
+D1
+~
+~
+0 0 22467
+D3
+~
+~
+0 0 22464
+S
+#22466
+Lake Shore~
+The shore forms a tiny peninsula overlooking the waters of the lake.  The
+shore continues on to the south and west, while the waters of the lake
+surround on all sides.  To the southwest the forest towers over the shore,
+the tops of the trees swaying in the wind.  
+~
+0 4 2
+D2
+~
+~
+0 0 22493
+D3
+~
+~
+0 0 22488
+S
+#22467
+Leafy Branches~
+The leafy branches of the giant trees create a dense canopy of green
+casting a gloom over the forest floor.  The hard pack soil is void of plant
+life save a few bushy ferns that sway in the breeze.  
+~
+0 0 3
+D0
+~
+~
+0 0 22456
+D1
+~
+~
+0 0 22468
+D2
+~
+~
+0 0 22476
+D3
+~
+~
+0 0 22465
+S
+#22468
+Leafy Branches~
+The branches of the tall trees interlock forming a canopy of green.  The
+forest floor is darkened in the gloom, making it difficult to see the half
+exposed roots growing in the forest floor.  
+~
+0 0 3
+D0
+~
+~
+0 0 22457
+D1
+~
+~
+0 0 22469
+D2
+~
+~
+0 0 22477
+D3
+~
+~
+0 0 22467
+S
+#22469
+Under the Canopy~
+The trees tower over the forest floor, the dense canopy of green blotting
+out the the blue and white sky.  Through the trees the waters of a lake can
+be seen shimmering to the east and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 22458
+D1
+~
+~
+0 0 22470
+D2
+~
+~
+0 0 22478
+D3
+~
+~
+0 0 22468
+S
+#22470
+Lake Shore~
+The forest opens up to a sandy lake shore overlooking the waters of the
+lake.  The opposite shore can be seen close by dotted with tall green trees.
+The water of the lake ripples in the wind and splashes as an unseen create
+thrashes beneath the surface.  
+~
+0 0 2
+D0
+~
+~
+0 0 22459
+D2
+~
+~
+0 0 22479
+D3
+~
+~
+0 0 22469
+S
+#22471
+Lake Shore~
+The gentle waves of the lake lap onto the lake shore, the dark waters
+shimmering in the sunlight.  The leafy branches of the forest to the east
+provide some shade on the lake shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22461
+D1
+~
+~
+0 0 22472
+S
+#22472
+Lake Shore~
+The sandy lake shore overlooks the dark waters of the lake.  The opposite
+shore can be seen far off in the distance to the south and the dense forest
+of green and brown looms to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 22462
+D1
+~
+~
+0 0 22473
+D3
+~
+~
+0 0 22471
+S
+#22473
+Lake Shore~
+The tall tree limbs overshadow the sandy lake shore, the dark waters of
+the lake lapping up onto the sand.  To the southwest the lake shimmers the
+water reflecting the sunlight from the sun high overhead.  
+~
+0 0 2
+D0
+~
+~
+0 0 22463
+D1
+~
+~
+0 0 22474
+D2
+~
+~
+0 0 22480
+D3
+~
+~
+0 0 22472
+S
+#22474
+Thick Underbrush~
+The forest floor is overun with small green bushes intermixed with large
+ferns that wave in the wind.  The dense snarl of brush blocks the passage to
+the north, the forest extending in all directions.  
+~
+0 0 3
+D1
+~
+~
+0 0 22475
+D2
+~
+~
+0 0 22481
+D3
+~
+~
+0 0 22473
+S
+#22475
+Unpassable Tangle~
+The dense underbrush of the forestforms an unpassable tangle to the north
+and east.  The greens and browns of the forest surround on all sides as far
+as the eye can see.  
+~
+0 0 3
+D2
+~
+~
+0 0 22482
+D3
+~
+~
+0 0 22474
+S
+#22476
+Lake Shore~
+The sandy lake shore overlooks the dark waters of the lake to the
+southeast.  The waters ripple with activity below the surface.  To the west
+the snarl of the forest blocks passage to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 22467
+D1
+~
+~
+0 0 22477
+D2
+~
+~
+0 0 22484
+S
+#22477
+Lake Shore~
+The sandy lake shore is overshadowed by the tall trees of the forest to
+the north.  To the south the opposite shore of the can be seen dotted with
+the green tops of trees.  
+~
+0 0 2
+D0
+~
+~
+0 0 22468
+D1
+~
+~
+0 0 22478
+D3
+~
+~
+0 0 22476
+S
+#22478
+Lake Shore~
+The sandy lake shore is darkened by the overhanging tree branches.  The
+dark water of the lake ripples with unseen movement beneath the surface. 
+The opposite shore can be seen far off to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 22469
+D1
+~
+~
+0 0 22479
+D3
+~
+~
+0 0 22477
+S
+#22479
+Lake Shore~
+The lake shore is surrounded by the waters to the east, southeast, and
+south.  The shore runs north and west following seperating the forest from
+the lake.  The water shimmers slightly in the sunlight rippling in the wind.
+~
+0 0 2
+D0
+~
+~
+0 0 22470
+D3
+~
+~
+0 0 22478
+S
+#22480
+Lake Shore~
+The dark waters of the lake surround on multiple sides as the lake
+extends to the south and east.  The sandy shore is all that seperates the
+waters from the dense green of the forest.  Far off on the opposite shore
+the forest towers over the lake shore.  
+~
+0 0 2
+D0
+~
+~
+0 0 22473
+D1
+~
+~
+0 0 22481
+S
+#22481
+Lake Shore~
+The sandy shoreline of the lake overlooks the dark waters to the south. 
+An unseen creature moves beneath the surface creating a ripple on the
+surface of the lake.  To the east the towering trees of the forest go as far
+as the eye can see.  
+~
+0 0 2
+D0
+~
+~
+0 0 22474
+D1
+~
+~
+0 0 22482
+D3
+~
+~
+0 0 22480
+S
+#22482
+Lake Shore~
+The dark waters of the lake sparkle in the sunlight the surface rippling
+slightly in the wind.  The edge of the shore is marked with the begining of
+the forest, the leafy branches reaching out trying to reclaim the sandy
+surface.  
+~
+0 0 2
+D0
+~
+~
+0 0 22475
+D1
+~
+~
+0 0 22483
+D2
+~
+~
+0 0 22485
+D3
+~
+~
+0 0 22481
+S
+#22483
+Tangled Underbrush~
+At the base of the tall trunks a massive ammount of underbrush creates a
+nasty snarl of branches and thorns.  To the north thick brush prevents
+travel, to the east a leafy green screen covers over the area, the colors of
+the forest surround on all sides.  
+~
+0 0 3
+D2
+~
+~
+0 0 22486
+D3
+~
+~
+0 0 22482
+S
+#22484
+Lake Shore~
+Looking to the east the full length of the lake can finally be seen, the
+far shoreline just barely in view.  To the west an impenatrable mass of
+underbrush makes travel impossible.  
+~
+0 0 3
+D0
+~
+~
+0 0 22476
+D2
+~
+~
+0 0 22487
+S
+#22485
+Lake Shore~
+The sandy shore is overshadowed by the towering forest to the east.  The
+dark waters gently lapping on the shore line, the wind creating disturbances
+on the surface.  The opposite shore can barely be seen far off to the west. 
+~
+0 0 3
+D0
+~
+~
+0 0 22482
+D1
+~
+~
+0 0 22486
+D2
+~
+~
+0 0 22489
+S
+#22486
+Tangled Brush~
+The trunks of trees tower over the forest floor, the hint of a lake can
+be seen through the trunks to the west.  The snarl of underbrush is so dense
+it becomes impassable to the east, the dark green brush surrounding on all
+sides.  
+~
+0 0 3
+D0
+~
+~
+0 0 22483
+D2
+~
+~
+0 0 22490
+D3
+~
+~
+0 0 22485
+S
+#22487
+Lake Shore~
+The waters of the lake glint in the sun off to the northeast, the shore
+heading north and east.  The forest returns to the south towering over the
+edge of the lake shore.  To the west a snarled mass of underbrush makes
+travel impossible.  
+~
+0 0 2
+D0
+~
+~
+0 0 22484
+D1
+~
+~
+0 0 22488
+D2
+~
+~
+0 0 22491
+S
+#22488
+Lake Shore~
+The coarse sand of the lake shore provides a barrier between the forest
+to the south and the lake to the north.  The leafy branches hanging over the
+shore provide shade from the sun high overhead.  
+~
+0 0 2
+D1
+~
+~
+0 0 22466
+D2
+~
+~
+0 0 22492
+D3
+~
+~
+0 0 22487
+S
+#22489
+Lake Shore~
+The sandy shore overlooks the dark waters of the lake to the west.  The
+water ripples in the wind, its gentle waves lapping onto the shore.  To the
+east the forest returns towering over the ground below.  
+~
+0 0 2
+D0
+~
+~
+0 0 22485
+D1
+~
+~
+0 0 22490
+D2
+~
+~
+0 0 22496
+S
+#22490
+Tall Trees~
+The greens and browns of the forest surround on all sides, the sandy
+shore of the lake can barely be seen to the west through the trees.  The
+tall trees tower overhead shadowing the ground below, the underbrush becomes
+too dense to the east making an impassable tangle.  
+~
+0 0 3
+D0
+~
+~
+0 0 22486
+D2
+~
+~
+0 0 22497
+D3
+~
+~
+0 0 22489
+S
+#22491
+Dense Tangle~
+The tall trees tower over the forest floor casting a dark shadow on all
+below the canopy.  A twisted mass of underbrush rises up to the west and
+south making an unpassable wall of foliage.  
+~
+0 0 3
+D0
+~
+~
+0 0 22487
+D1
+~
+~
+0 0 22492
+S
+#22492
+Ancient Tree~
+A massive tree towers over all others in the forest, its girth easily
+surpassing any of the other trees.  The dense canopy of the ancient tree
+branches out providing a dense cover obscuring the blue and white sky.  
+~
+0 0 3
+D0
+~
+~
+0 0 22488
+D1
+~
+~
+0 0 22493
+D2
+~
+~
+0 0 22498
+D3
+~
+~
+0 0 22491
+S
+#22493
+Lake Shore~
+The leafy branches of an ancient tree to the west cast a dark shadow over
+the lake shore.  The waters of the lake to the northeast ripple with an
+unseen movement beneath the surface of the dark waters.  
+~
+0 0 2
+D0
+~
+~
+0 0 22466
+D1
+~
+~
+0 0 22494
+D2
+~
+~
+0 0 22499
+D3
+~
+~
+0 0 22492
+S
+#22494
+Lake Shore~
+The sandy shore overlooks the dark waters of the lake the surface
+reflecting the sunlight as it shines high above.  The forest looms to the
+south towering over all that is beneath its tall trunks.  
+~
+0 0 2
+D1
+~
+~
+0 0 22495
+D2
+~
+~
+0 0 22500
+D3
+~
+~
+0 0 22493
+S
+#22495
+Lake Shore~
+The shore turns heading south and west forming a small peninsula
+overlooking the dark waters of the vast lake.  The waters ripple slightly as
+an unseen creature moves beneath the surface.  
+~
+0 0 2
+D2
+~
+~
+0 0 22501
+D3
+~
+~
+0 0 22494
+S
+#22496
+Lake Shore~
+The dark waters of the lake shimmer to the west only the tree-lined
+opposite shore breaks up the monotiny of the rippling water.  The forest
+looms over the shore its branches hanging over the edge of the shore casting
+some shade.  
+~
+0 0 2
+D0
+~
+~
+0 0 22489
+D1
+~
+~
+0 0 22497
+D2
+~
+~
+0 0 22505
+S
+#22497
+Thick Underbrush~
+The tall brown trunks tower over the forest, only short shurbs and thick
+bushes are able to grow in their shadow.  A tangled mass of these shrubs
+grows making passage to the east impossible.  
+~
+0 0 3
+D0
+~
+~
+0 0 22490
+D2
+~
+~
+0 0 22506
+D3
+~
+~
+0 0 22496
+S
+#22498
+Dense Forest~
+The tall trees tower over the forest below, the thick brush twisting
+around the large trunks.  An unpassable tangle of underbrush prevent travel
+to the south and west, the greens and browns of the forest surrounding in
+all directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 22492
+D1
+~
+~
+0 0 22499
+S
+#22499
+Dense Forest~
+The dark greens and browns of the forest surround on all sides, brief
+glimpses of the lake to the north can be seen through the trees.  The south
+is an unpassable mass of trees and brush, greens and browns swirling in all
+directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 22493
+D1
+~
+~
+0 0 22500
+D3
+~
+~
+0 0 22498
+S
+#22500
+Dense Forest~
+The dense canopy formed by the leafy branches above obscure the blue and
+white sky.  The lake shore can barely be seen through the dense cover to the
+north and the tangle of bushes makes passage impossible to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 22494
+D1
+~
+~
+0 0 22501
+D3
+~
+~
+0 0 22499
+S
+#22501
+Lake Shore~
+The shore of the lake is almost overrun by the plants dwelling at the
+forest floor.  The sandy shore acting as a small barrier between the forest
+and dark waters of the lake.  
+~
+0 0 2
+D0
+~
+~
+0 0 22495
+D1
+~
+~
+0 0 22502
+D2
+~
+~
+0 0 22507
+D3
+~
+~
+0 0 22500
+S
+#22502
+Lake Shore~
+The sandy shore overlooks the the dark waters of the lake to the north,
+the opposite shore displaying the greens of the forest.  The coarse sand is
+bordered by the dark greens and browns of the forest to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 22503
+D2
+~
+~
+0 0 22508
+D3
+~
+~
+0 0 22501
+S
+#22503
+Lake Shore~
+The coarse sand grates with every step, the dark waters gently lapping
+onto the shore.  The dark waters of the lake ripple slightly as an unseen
+creature moves hidden beneath the surface of the waters.  
+~
+0 0 2
+D1
+~
+~
+0 0 22504
+D2
+~
+~
+0 0 22509
+D3
+~
+~
+0 0 22502
+S
+#22504
+Lake Shore~
+The dark waters of the lake roll gently into the shore.  Branches from
+the forest to the south hang over the sandy lake shore providing some shade.
+On the opposite bank the tall trees sway slightly in the wind.  
+~
+0 0 2
+D1
+~
+~
+0 0 22505
+D2
+~
+~
+0 0 22510
+D3
+~
+~
+0 0 22503
+S
+#22505
+Lake Shore~
+The dark waters of the lake shimmers slightly in the sunlight.  The sandy
+lake shore is overshadowed by the towering trunks to the south as the forest
+makes its return.  To the northwest the opposite bank can barely be seen,
+the tall trees standing out on the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 22496
+D1
+~
+~
+0 0 22506
+D2
+~
+~
+0 0 22511
+D3
+~
+~
+0 0 22504
+S
+#22506
+Beneath the Branches~
+The tall trees tower over the forest floor casting a dark shadow over the
+forest floor.  Through the trees a lake can be seen to the west, the water
+sparkling in the light.  To the east a dark tangle of branches make an
+unpassable mass of debris.  
+~
+0 0 3
+D0
+~
+~
+0 0 22497
+D3
+~
+~
+0 0 22505
+S
+#22507
+Between the Trunks~
+Tall trunks reach skyward the leafy green canopy nearly blotting out the
+sky above.  The ground cover is strictly bushy shrubs and thick ferns, an
+unpassable tangled mass blocking passage to the west and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 22501
+D1
+~
+~
+0 0 22508
+S
+#22508
+Beneath the Trees~
+The canopy of leaves and branches nearly blots out the blue and white
+sky.  Thick exposed roots grow out of the hard packed soil.  To the south an
+unpassable mass of brush bars passage.  
+~
+0 0 3
+D0
+~
+~
+0 0 22502
+D1
+~
+~
+0 0 22509
+D3
+~
+~
+0 0 22507
+S
+#22509
+Tall Trees~
+The tall trees reach skyward piercing into the blueness above.  The thick
+trunks are covered with moss and wrapped with vines.  To the south a thick
+patch of thorn pushes prevents travel any further.  
+~
+0 0 3
+D0
+~
+~
+0 0 22503
+D1
+~
+~
+0 0 22510
+D3
+~
+~
+0 0 22508
+S
+#22510
+Dense Foliage~
+The dark brown trunks reach skyward towering over the forest floor.  The
+canopy casting a dark shadow over the forest floor below.  To the south an
+unusual mass of bushes sits grouped making passage difficult.  
+~
+0 0 3
+D0
+~
+~
+0 0 22504
+D1
+~
+~
+0 0 22511
+D3
+~
+~
+0 0 22509
+S
+#22511
+Unpassable Underbrush~
+Thick bushes and shrubs grow making it difficult to travel, sharp thorns
+stab with every step.  The forest colors of green and brown surround on all
+sides, only an unpassable wall of brush is to the east and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 22505
+D3
+~
+~
+0 0 22510
+S
+#22512
+On the Lake~
+The sun shines down from high overhead causing the dark water to sparkle
+in its light.  The shore of the lake surrounds to the north, west, and
+south, to the east the lake continues.  
+~
+0 4 7
+D0
+~
+~
+0 0 22430
+D1
+~
+~
+0 0 22513
+D2
+~
+~
+0 0 22441
+D3
+~
+~
+0 0 22437
+S
+#22513
+On the Lake~
+The dark waters ripple as an unseen creature moves beneath the surface. 
+The water glints in the light as they splash gently onto the shore to the
+north.  To the east and south the lake waters continue.  
+~
+0 4 7
+D0
+~
+~
+0 0 22431
+D1
+~
+~
+0 0 22514
+D2
+~
+~
+0 0 22518
+D3
+~
+~
+0 0 22512
+S
+#22514
+On the Lake~
+A thick cover of lilly pads covers the lake combined with the murkey
+water completely obscuring what lies below the surface.  The shore to the
+north is impossble to reach through the lakes growth, the waters surround on
+all sides.  
+~
+0 0 7
+D1
+~
+~
+0 0 22515
+D2
+~
+~
+0 0 22519
+D3
+~
+~
+0 0 22513
+S
+#22515
+On the Lake~
+The dark waters of the lake ripple as a hidden presence moves beneath the
+surface.  The tree lined shore looms to the north, the lake surrounds on all
+other sides the water shining in the light.  
+~
+0 4 7
+D0
+~
+~
+0 0 22432
+D1
+~
+~
+0 0 22516
+D2
+~
+~
+0 0 22520
+D3
+~
+~
+0 0 22514
+S
+#22516
+On the Lake~
+The bright sun shines down on the waters of the lake causing bright
+reflections.  The murky waters hiding what lies beneath the surface, the
+tall trees of the forest loom along the shore line to the north.  The lake
+waters of the lake surround on all other sides.  
+~
+0 4 7
+D0
+~
+~
+0 0 22433
+D1
+~
+~
+0 0 22517
+D2
+~
+~
+0 0 22521
+D3
+~
+~
+0 0 22515
+S
+#22517
+On the Lake~
+The murky water obscures the life hidden beneath the surface of the lake.
+The tree lined shore surrounds to the north and east.  The dark waters of
+the lake surround to the west and south, only the opposite shore provides a
+break from murky waters.  
+~
+0 4 7
+D0
+~
+~
+0 0 22434
+D1
+~
+~
+0 0 22438
+D2
+~
+~
+0 0 22522
+D3
+~
+~
+0 0 22516
+S
+#22518
+On the Lake~
+The dark water shimmers in the sunlight rippling with movement as you
+make your way across the lake.  The tree lined shore stands to the south and
+west, while the waters of the lake surround to the north and east.  
+~
+0 4 7
+D0
+~
+~
+0 0 22513
+D1
+~
+~
+0 0 22519
+D2
+~
+~
+0 0 22447
+D3
+~
+~
+0 0 22441
+S
+#22519
+On the Lake~
+The murky water of the lake hides any life they may live beneath the
+surface.  The sun light sparkles off the water causing a slight glare.  To
+the south the shore rises up and the lake extends on all other sides.  
+~
+0 4 7
+D0
+~
+~
+0 0 22514
+D1
+~
+~
+0 0 22520
+D2
+~
+~
+0 0 22448
+D3
+~
+~
+0 0 22518
+S
+#22520
+On the Lake~
+The water darkens as the lake appears to get deeper, the murkey water
+unyielding of any clue to what may lie beneath.  The water ripples in the
+wind and surrounds on all sides, only the shore line can be seen off in the
+distance.  
+~
+0 0 7
+D0
+~
+~
+0 0 22515
+D1
+~
+~
+0 0 22521
+D2
+~
+~
+0 0 22523
+D3
+~
+~
+0 0 22519
+S
+#22521
+On the Lake~
+The dark waters ripple with movement beneath their murkey surface.  The
+sun glints on the waters surface causing an odd glare.  Off in the distance
+the shore lines of the lake can been seen dotted with tall green trees.  
+~
+0 0 7
+D0
+~
+~
+0 0 22516
+D1
+~
+~
+0 0 22522
+D2
+~
+~
+0 0 22524
+D3
+~
+~
+0 0 22520
+S
+#22522
+On the Lake~
+The murky water is dotted with several lily pads floating on the surface
+further hiding what lies below.  The tree lined shore is within reach to the
+east and the lake surrounds on all other sides.  
+~
+0 4 7
+D0
+~
+~
+0 0 22517
+D1
+~
+~
+0 0 22442
+D2
+~
+~
+0 0 22525
+D3
+~
+~
+0 0 22521
+S
+#22523
+On the Lake~
+The dark waters nearly reach the shore line to the east west and south. 
+An unseen creature causes the water to ripple slightly as it swims out of
+the area.  The waters of the lake extend to the north and east only ending
+in a line of trees.  
+~
+0 4 7
+D0
+~
+~
+0 0 22520
+D1
+~
+~
+0 0 22524
+D2
+~
+~
+0 0 22456
+D3
+~
+~
+0 0 22448
+S
+#22524
+On the Lake~
+The dark waters form small waves pushed along by the gentle wind blowing
+across the lake.  The waves futher obscure the bottom of the lake as the
+ripples make it difficult to peer through the water.  The shore appears to
+the south a line of trees displaying the forest.  
+~
+0 4 7
+D0
+~
+~
+0 0 22521
+D1
+~
+~
+0 0 22525
+D2
+~
+~
+0 0 22456
+D3
+~
+~
+0 0 22523
+S
+#22525
+On the Lake~
+The dark waters ripple as an unseen creature moves to escape the area. 
+The murky water provides no clue as to what lies beneath.  The shore lies to
+the east and south as the forest returns to its dominance.  
+~
+0 4 7
+D0
+~
+~
+0 0 22522
+D1
+~
+~
+0 0 22449
+D2
+~
+~
+0 0 22458
+D3
+~
+~
+0 0 22524
+S
+#22526
+On the Lake~
+The dark waters of the lake are surrounds by the tree-lined shore, the
+lake opens to the south enveloping a much larger area.  The dark water
+sloshes about in the wind as it ripples to shore.  
+~
+0 4 7
+D0
+~
+~
+0 0 22460
+D1
+~
+~
+0 0 22471
+D2
+~
+~
+0 0 22527
+D3
+~
+~
+0 0 22470
+S
+#22527
+On the Lake~
+The lake expands opening up to the east and south dominating much of the
+horizon.  The waters reflecting the light from the sun high overhead.  The
+tree lined shore is barely a step away to the west.  
+~
+0 4 7
+D0
+~
+~
+0 0 22526
+D1
+~
+~
+0 0 22528
+D2
+~
+~
+0 0 22533
+D3
+~
+~
+0 0 22479
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 22547 2 1 The south door of Jeweller is closed
+D 0 22548 2 1 The south door of The Bakery is closed
+D 0 22549 1 1 The east door of Small Home is closed
+D 0 22550 0 1 The north door of Village Square is closed
+D 0 22550 3 1 The west door of Village Square is closed
+D 0 22551 0 1 The north door of Village Square is closed
+D 0 22551 1 1 The east door of Village Square is closed
+D 0 22552 3 1 The west door of Village Gate is closed
+D 0 22554 1 1 The east door of The Blacksmith is closed
+D 0 22555 3 1 The west door of Village Square is closed
+D 0 22559 1 1 The east door of Wizards Sanctuary is closed
+D 0 22560 2 1 The south door of Village Square is closed
+D 0 22560 3 1 The west door of Village Square is closed
+D 0 22561 1 1 The east door of Village Square is closed
+D 0 22561 2 1 The south door of Village Square is closed
+D 0 22562 3 1 The west door of Small Home is closed
+D 0 22563 0 1 The north door of Small Cabin is closed
+D 0 22564 0 1 The north door of Small Home is closed
+D 0 22583 2 1 The south door of Village Gate is closed
+D 0 22584 0 1 The north door of Village Square is closed
+D 0 22585 0 1 The north door of Village Square is closed
+D 0 22585 1 1 The east door of Village Square is closed
+D 0 22586 2 1 The south door of Small Home is closed
+D 0 22587 3 1 The west door of General Store is closed
+D 0 22588 1 1 The east door of Seamstress is closed
+D 0 22589 2 1 The south door of Village Square is closed
+D 0 22589 3 1 The west door of Village Square is closed
+D 0 22590 1 1 The east door of Village Square is closed
+D 0 22590 2 1 The south door of Village Square is closed
+D 0 22591 3 1 The west door of Small Home is closed
+D 0 22592 0 1 The north door of Small Home is closed
+D 0 22593 0 1 The north door of Metal Worker is closed
+D 0 22600 1 1 The east door of Dirt Square is closed
+D 0 22600 2 1 The south door of Dirt Square is closed
+D 0 22601 0 1 The north door of Small Home is closed
+D 0 22602 3 1 The west door of Small Home is closed
+D 0 22603 3 1 The west door of Small Home is closed
+D 0 22604 1 1 The east door of Dirt Square is closed
+D 0 22605 0 1 The north door of Dirt Square is closed
+D 0 22606 2 1 The south door of Wizards Workship is closed
+D 0 22607 1 1 The east door of Small Clearing is closed
+D 0 22608 3 1 The west door of Village Common is closed
+D 0 22609 1 1 The east door of Village Common is closed
+D 0 22611 2 1 The south door of Village Common is closed
+D 0 22612 1 1 The east door of Village Common is closed
+D 0 22612 2 1 The south door of Village Common is closed
+D 0 22613 3 1 The west door of Dusty Home is closed
+D 0 22614 0 1 The north door of Cobbler is closed
+D 0 22615 0 1 The north door of Small Home is closed
+D 0 22616 0 1 The north door of Village Common is closed
+D 0 22617 2 1 The south door of Lavish Home is closed
+D 0 22618 3 1 The west door of Village Common is closed
+D 0 22619 1 1 The east door of Jeweller is closed
+M 0 22406 10 22529 1 *Load a water sprite
+M 0 22406 10 22530 1 *Load a water sprite
+M 0 22406 10 22537 1 *Load a water sprite
+M 0 22406 10 22538 1 *Load a water sprite
+M 0 22406 10 22540 1 *Load a water sprite
+M 0 22408 1 22541 1 *Load an enourmous serpent
+M 0 22406 10 22546 1 *Load a water sprite
+M 0 22410 1 22547 1 *Load a jeweller
+M 0 22409 1 22548 1 *Load the baker
+G 0 22455 0 *A meat pie is given to the baker
+G 0 22456 0 *A loaf of bread is given to the baker
+M 0 22412 15 22549 1 *Load a small child
+M 0 22413 15 22549 1 *Load a house wife
+M 0 22411 10 22551 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22415 1 22554 1 *Load a large blacksmith
+G 0 22471 0 *An ivory-hilted claymore is given to a large blacksmith
+G 0 22472 0 *A heavy bladed scimitar is given to a large blacksmith
+G 0 22473 0 *An oval shield is given to a large blacksmith
+G 0 22474 0 *A suit of massive plate armor is given to a large blacksmith
+O 0 22400 0 22557 *A hollowed log loaded to Dirt Path
+M 0 22414 1 22559 1 *Load an old wizard
+G 0 22465 0 *A dark red potion is given to an old wizard
+G 0 22466 0 *A light green potion is given to an old wizard
+G 0 22467 0 *A murky blue potion is given to an old wizard
+M 0 22411 10 22560 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22413 15 22562 1 *Load a house wife
+M 0 22412 15 22562 1 *Load a small child
+M 0 22413 15 22563 1 *Load a house wife
+M 0 22412 15 22563 1 *Load a small child
+M 0 22412 15 22564 1 *Load a small child
+M 0 22413 15 22564 1 *Load a house wife
+M 0 22418 1 22568 1 *Load a dwarven weaponsmith
+G 0 22477 0 *A dwarven great axe is given to a dwarven weaponsmith
+G 0 22478 0 *A dwarven battle axe is given to a dwarven weaponsmith
+M 0 22419 3 22570 1 *Load a dwarven miner
+M 0 22419 3 22573 1 *Load a dwarven miner
+M 0 22436 1 22574 1 *Load a dwarven wizard
+M 0 22416 1 22575 1 *Load a dwarven appraiser
+M 0 22419 3 22577 1 *Load a dwarven miner
+M 0 22420 1 22578 1 *Load a dwarven metal worker
+G 0 22479 0 *A dwarven great helm is given to a dwarven metal worker
+G 0 22480 0 *A wall shield is given to a dwarven metal worker
+G 0 22481 0 *A pair of steel-backed gauntlets is given to a dwarven metal worker
+M 0 22417 1 22579 1 *Load a dwarven brewer
+G 0 22475 0 *A mug of malt liquor is given to a dwarven brewer
+G 0 22476 0 *A mug of dark ale is given to a dwarven brewer
+M 0 22411 10 22584 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22413 10 22586 1 *Load a house wife
+M 0 22412 10 22586 1 *Load a small child
+M 0 22422 1 22587 1 *Load a shop keeper
+G 0 22455 0 *A meat pie is given to a shop keeper
+G 0 22485 0 *A water skin is given to a shop keeper
+G 0 22456 0 *A loaf of bread is given to a shop keeper
+G 0 22486 0 *A leather haversack is given to a shop keeper
+M 0 22421 1 22588 1 *Load a seamstress
+G 0 22482 0 *A shadowy black mages robe is given to a seamstress
+G 0 22483 0 *A color shifting cloak is given to a seamstress
+G 0 22484 0 *A dark hooded cloak is given to a seamstress
+M 0 22411 10 22590 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22412 10 22591 1 *Load a small child
+M 0 22413 10 22591 1 *Load a house wife
+M 0 22413 10 22592 1 *Load a house wife
+M 0 22412 10 22592 1 *Load a small child
+M 0 22423 1 22593 1 *Load a metal worker
+G 0 22487 0 *A spiked wrist guard is given to a metal worker
+G 0 22488 0 *A thick metal wrist guard is given to a metal worker
+G 0 22489 0 *An intricate metal wrist band is given to a metal worker
+O 0 22404 0 22597 *A deer trail loaded to Dirt Path
+M 0 22411 10 22600 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22424 1 22601 1 *Load a wizard's apprentice
+M 0 22426 1 22602 1 *Load a wizard's apprentice
+M 0 22427 1 22603 1 *Load a wizard's apprentice
+M 0 22411 10 22605 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22428 1 22606 1 *Load an old wizard
+M 0 22411 10 22608 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22411 10 22612 1 *Load a village guard
+E 0 22457 0 16 *A halberd is loaded wielded of a village guard
+M 0 22429 1 22614 1 *Load the cobblers wife
+G 0 22490 0 *A pair of cougar hide boots is given to the cobblers wife
+G 0 22491 0 *A pair of padded leather boots is given to the cobblers wife
+G 0 22492 0 *A pair of animal fur boots is given to the cobblers wife
+M 0 22412 10 22615 1 *Load a small child
+M 0 22434 1 22615 1 *Load the cobbler
+M 0 22413 10 22617 1 *Load a house wife
+M 0 22412 10 22617 1 *Load a small child
+M 0 22430 1 22619 1 *Load a jeweller
+M 0 22433 1 22627 1 *Load a ranger
+G 0 22499 0 *A teak longbow is given to a ranger
+G 0 22500 0 *An ash short bow is given to a ranger
+M 0 22432 1 22632 1 *Load a ranger
+M 0 22404 20 22404 1 *Load a wood sprite
+M 0 22401 10 22405 1 *Load A Large Buck
+M 0 22400 5 22406 1 *Load a guardian of the forest
+E 0 22430 0 16 *An ivory-hilted stiletto is loaded wielded of a guardian of the forest
+M 0 22402 10 22410 1 *Load A Doe
+M 0 22403 25 22412 1 *Load a cougar
+M 0 22404 20 22413 1 *Load a wood sprite
+M 0 22404 20 22420 1 *Load a wood sprite
+M 0 22402 10 22421 1 *Load A Doe
+M 0 22401 10 22422 1 *Load A Large Buck
+O 0 22400 0 22423 *A hollowed log loaded to Thick Underbrush
+M 0 22401 10 22424 1 *Load A Large Buck
+M 0 22400 5 22426 1 *Load a guardian of the forest
+E 0 22430 0 16 *An ivory-hilted stiletto is loaded wielded of a guardian of the forest
+M 0 22403 25 22427 1 *Load a cougar
+M 0 22404 20 22429 1 *Load a wood sprite
+O 0 22407 0 22430 *A lake loaded to Lake Shore
+O 0 22408 0 22431 *A lake loaded to Lake Shore
+O 0 22409 0 22432 *A lake loaded to Lake Shore
+O 0 22410 0 22433 *A lake loaded to Lake Shore
+O 0 22411 0 22434 *A lake loaded to Lake Shore
+M 0 22401 10 22434 1 *Load A Large Buck
+M 0 22404 20 22435 1 *Load a wood sprite
+O 0 22406 0 22436 *A faint trail loaded to Beneath the Trees
+O 0 22407 0 22437 *A lake loaded to Lake Shore
+O 0 22411 0 22438 *A lake loaded to Lake Shore
+M 0 22402 10 22439 1 *Load A Doe
+M 0 22404 20 22439 1 *Load a wood sprite
+M 0 22402 10 22440 1 *Load A Doe
+O 0 22407 0 22441 *A lake loaded to Lake Shore
+O 0 22412 0 22442 *A lake loaded to Lake Shore
+M 0 22402 10 22442 1 *Load A Doe
+M 0 22401 10 22443 1 *Load A Large Buck
+O 0 22401 0 22445 *A faint deer trail loaded to Thick Underbrush
+M 0 22401 10 22446 1 *Load A Large Buck
+M 0 22404 20 22446 1 *Load a wood sprite
+O 0 22416 0 22447 *A lake loaded to Lake Shore
+O 0 22415 0 22448 *A lake loaded to Lake Shore
+O 0 22413 0 22449 *A lake loaded to Lake Shore
+M 0 22402 10 22450 1 *Load A Doe
+M 0 22404 20 22450 1 *Load a wood sprite
+O 0 22415 0 22455 *A lake loaded to Lake Shore
+O 0 22414 0 22456 *A lake loaded to Lake Shore
+M 0 22403 25 22457 1 *Load a cougar
+M 0 22404 20 22457 1 *Load a wood sprite
+O 0 22413 0 22458 *A lake loaded to Lake Shore
+O 0 22417 0 22460 *A lake loaded to Lake Shore
+M 0 22401 10 22462 1 *Load A Large Buck
+M 0 22404 20 22462 1 *Load a wood sprite
+M 0 22402 10 22463 1 *Load A Doe
+O 0 22402 0 22465 *A small thicket loaded to Thick Underbrush
+O 0 22426 0 22466 *A lake loaded to Lake Shore
+M 0 22400 5 22467 1 *Load a guardian of the forest
+E 0 22430 0 16 *An ivory-hilted stiletto is loaded wielded of a guardian of the forest
+M 0 22401 10 22468 1 *Load A Large Buck
+O 0 22417 0 22470 *A lake loaded to Lake Shore
+O 0 22418 0 22471 *A lake loaded to Lake Shore
+M 0 22404 20 22471 1 *Load a wood sprite
+O 0 22419 0 22472 *A lake loaded to Lake Shore
+M 0 22400 5 22474 1 *Load a guardian of the forest
+E 0 22430 0 16 *An ivory-hilted stiletto is loaded wielded of a guardian of the forest
+M 0 22404 20 22476 1 *Load a wood sprite
+O 0 22427 0 22477 *A lake loaded to Lake Shore
+M 0 22402 10 22477 1 *Load A Doe
+O 0 22428 0 22478 *A lake loaded to Lake Shore
+O 0 22429 0 22479 *A lake loaded to Lake Shore
+O 0 22419 0 22480 *A lake loaded to Lake Shore
+M 0 22401 10 22480 1 *Load A Large Buck
+O 0 22420 0 22481 *A lake loaded to Lake Shore
+M 0 22404 20 22482 1 *Load a wood sprite
+O 0 22405 0 22483 *Leafy green screen loaded to Tangled Underbrush
+O 0 22427 0 22484 *A lake loaded to Lake Shore
+O 0 22420 0 22485 *A lake loaded to Lake Shore
+O 0 22427 0 22488 *A lake loaded to Lake Shore
+O 0 22421 0 22489 *A lake loaded to Lake Shore
+M 0 22402 10 22489 1 *Load A Doe
+M 0 22402 10 22492 1 *Load A Doe
+M 0 22404 20 22492 1 *Load a wood sprite
+O 0 22425 0 22494 *A lake loaded to Lake Shore
+O 0 22424 0 22495 *A lake loaded to Lake Shore
+O 0 22422 0 22496 *A lake loaded to Lake Shore
+M 0 22400 5 22500 1 *Load a guardian of the forest
+E 0 22430 0 16 *An ivory-hilted stiletto is loaded wielded of a guardian of the forest
+M 0 22404 20 22500 1 *Load a wood sprite
+O 0 22424 0 22502 *A lake loaded to Lake Shore
+O 0 22423 0 22503 *A lake loaded to Lake Shore
+M 0 22402 10 22503 1 *Load A Doe
+O 0 22422 0 22504 *A lake loaded to Lake Shore
+M 0 22403 25 22506 1 *Load a cougar
+M 0 22404 20 22506 1 *Load a wood sprite
+M 0 22401 10 22509 1 *Load A Large Buck
+M 0 22404 20 22509 1 *Load a wood sprite
+O 0 22403 0 22510 *A small gap loaded to Dense Foliage
+M 0 22406 10 22512 1 *Load a water sprite
+M 0 22406 10 22517 1 *Load a water sprite
+M 0 22407 1 22521 1 *Load a large serpent
+M 0 22406 10 22524 1 *Load a water sprite
+M 0 22406 10 22526 1 *Load a water sprite
+S
+
+
+
+#SHOPS
+22409 19 0 0 0 0 120 80 0 23
+22414 2 10 0 0 0 125 95 0 23
+22415 9 5 0 0 0 125 100 0 23
+22416 32 0 0 0 0 500 107 0 23
+22417 0 0 0 0 0 100 100 0 23
+22418 5 0 0 0 0 125 105 0 23
+22420 9 0 0 0 0 125 100 0 23
+22421 9 0 0 0 0 125 100 0 23
+22422 15 19 0 0 0 100 75 0 23
+22423 9 0 0 0 0 100 100 0 23
+22429 9 0 0 0 0 125 100 0 23
+22433 5 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#22400
+if isevil $n
+mob echo A tree root whips up and trips $n.
+mob force $n sit
+say Die evil defiler!
+backstab $n
+endif
+~
+#22401
+mob oload 22431
+~
+#22402
+if rand 20
+mob echo Drawn to the smell of blood a cougar slinks in and attacks!
+mob mload 22403
+~
+#22403
+if rand 30
+if rand 25
+mob call 22404 self
+else
+if rand 30
+mob call 22405 self
+else
+if rand 45
+mob call 22406 self
+else
+if rand 50
+mob call 22407 self
+else
+if rand 60
+mob call 22408 self
+~
+#22404
+if rand 30
+mob oload 22432
+else
+if rand 35
+mob oload 22433
+else
+if rand 40
+mob oload 22434
+else
+if rand 45
+mob oload 22435
+~
+#22405
+if rand 30
+mob oload 22436
+else
+if rand 35
+mob oload 22437
+else
+if rand 40
+mob oload 22438
+else
+if rand 45
+mob oload 22439
+~
+#22406
+if rand 30
+mob oload 22440
+else
+if rand 35
+mob oload 22441
+else
+if rand 40
+mob oload 22442
+else
+if rand 45
+mob oload 22443
+~
+#22407
+if rand 30
+mob oload 22444
+else
+if rand 35
+mob oload 22445
+else
+if rand 40
+mob oload 22446
+else
+if rand 45
+mob oload 22447
+~
+#22408
+if rand 30
+mob oload 22448
+else
+if rand 35
+mob oload 22449
+else
+if rand 40
+mob oload 22450
+else
+if rand 45
+mob oload 22451
+else
+if rand 60
+mob oload 22452
+~
+#22409
+if mobhere treant
+else
+if rand 90
+mob echo A wood sprite cries out for help and a treant steps out of the forest!.
+mob mload 22405
+~
+#22410
+mob oload 22453
+~
+#22411
+mob oload 22454
+~
+#22412
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22459
+give pendant $n
+mob purge crystal
+~
+#22413
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22460
+give pendant $n
+mob purge stone
+~
+#22414
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22461
+give pendant $n
+mob purge pearl
+~
+#22415
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22462
+give pendant $n
+mob purge opal
+~
+#22416
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22463
+give pendant $n
+mob purge ruby
+~
+#22417
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22464
+give pendant $n
+mob purge sapphire
+~
+#22418
+mob echo The young apprentice calls out, "Help! Guards! Im being attacked!"
+mob echo Village guards come running in.
+mob mload 22425
+mob mload 22425
+mob mload 22425
+~
+#22419
+mob echo The wizard glances at you.
+mob echo The wizard mumbles, "I suppose your looking to travel?"
+~
+#22420
+say Yes Travel! Do i look like a fool? I was a great wizard once!
+say For 250 platinum I will send you on your way back to Midgaard.
+~
+#22421
+if wears $n glyph
+say Thank you for the donation!
+say However, you bear the mark of a true traveller and do not need my services!
+else
+if carries $n glyph
+say Thank you for the donation!
+say However, you carry the mark of a true traveller and do not need my services!
+else
+say Thank you! Give me one moment this is a difficult spell!
+mob echo The wizard closes his eyes in deep concentration.
+mob remember $n
+mob delay 5
+~
+#22422
+mob echo The wizard gestures at $q.
+mob echo A bright flash envelopes $q!
+mob trans $q 3014
+mob forget $q
+~
+#22423
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22493
+give ring $n
+mob purge crystal
+~
+#22424
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22494
+give ring $n
+mob purge stone
+~
+#22425
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22495
+give ring $n
+mob purge pearl
+~
+#22426
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22496
+give ring $n
+mob purge opal
+~
+#22427
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22497
+give ring $n
+mob purge ruby
+~
+#22428
+mob echo The jeweller sets the stone into one of the gold chains.
+mob oload 22498
+give ring $n
+mob purge sapphire
+~
+#22429
+say Cant you see I am taking a break?
+mob echo The cobbler glares at $n.
+say I suppose you want a pair of boots?
+~
+#22430
+say very well I shall make you a pair but you need to get the materials.
+say Bring me the scales of a large serpent!
+~
+#22431
+mob echo The cobbler examines the scale careful.
+say This scale has not properly been cleaned, take it to the rangers get them to clean it properly.
+give scale $n
+~
+#22432
+mob echo The ranger examines the scale carefully.
+mob echo The ranger sits down and begins to carefully scrape the serpents scale.
+purge scale
+mob oload 22501
+give scale $n
+~
+#22433
+mob echo The cobbler sits down and begins to work with the scale.
+mob echo The cobbler careful makes a pair of boots.
+mob oload 22502
+give boots $n
+say This is the best i can do with these, perhaps you should go ask the wizard about enchanting them.
+say Just tell him the cobbler sent you.
+~
+#22434
+say So the cobbler sent you eh? Well I suppose you want me to enchant a pair of boots?
+say I will do it but you must bring me a shadowy black mages robe. I have always wanted one.
+~
+#22435
+say thank you! a very fine cloak indeed!
+mob purge cloak
+mob oload 22503
+say Take this token to one of my apprentice studying potions and he will do the enchantment. 
+give token $n
+~
+#22436
+mob echo The apprentice's eyes widen as he looks at the token.
+say He cant mean for me todo it I have just learned!
+say Very well pass me the boots and I will try my best!
+mob mload 22435
+mob purge self
+~
+#22437
+mob echo The apprentice mutters a few words that sound like babble.
+mob echo The boots begin to glow brightly!
+mob echo The apprentice gasps loudly!
+mob echo The boots fade looking very ordinary.
+mob purge boots
+say I am sorry i seem to have ruined the enchantment, maybe the dwarven wizard will know what todo. Give the boots to him.
+mob oload 22504
+give boots $n
+mob mload 22426
+mob purge self
+~
+#22438
+mob echo The wizard examines the boots carefully.
+say Very bad indeed, nothing I can do to fix them, not without a scroll of fire!
+give boots $n
+mob echo The dwarven wizard mumbles something about humans and magic.
+~
+#22439
+say Good good! maybe i can do something with this!  Pass me the boots!
+mob mload 22437
+mob purge self
+~
+#22440
+mob echo The dwarven wizard recites the scroll.
+mob echo The boots flash brightly then fade back to normal color.
+say Thats the best i can do, a powerful enchantment only partially removed, but I  added an enchantment of my own!
+mob purge boots
+mob oload 22505
+give boots $n
+mob mload 22436
+mob purge self
+~
+#0
+
+#$

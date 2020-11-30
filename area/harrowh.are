@@ -1,0 +1,960 @@
+#AREADATA
+Name Harrow Hill~
+Builders None~
+VNUMs 40200 40299
+Continent 1
+Credits {y[{Y85-101{y]{c Jair     {YHarrow Hill{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#40200
+Gunter Ghost~
+Gunter's Ghost~
+Gunter's Ghost is floating aimlessly looking for a victim.
+~
+This is the ghost of the deceased Gunter Weiss.  He has been doomed to
+this house by an expirament of his.  He now walks the house awaiting a soul
+to be given to him.  He needs a new body and that is what he plans on
+getting.  
+~
+human~
+ABFG DFJTV 0 -1000 0
+170 130 1d1+75000 110d10+100 900d3+1 divine
+-100 -85 -85 -85
+AEFGHK IJ ACDEMZ H
+stand stand male 80000
+I ABCDEFGHIJK medium unknown
+F for AHMV
+#40201
+Shadow~
+A Shadow~
+Shadows fill the room and begin attacking you.
+~
+You see blackness, and nothing else.
+~
+unique~
+ABFO DFPQ 0 0 0
+120 100 10d10+10000 50d10+10500 12d12+50 wrath
+-10 -10 -10 -10
+DGHU ABLQ 0 HKNSY
+stand stand either 30000
+AHMV ABCGHIJK medium unknown
+#40202
+Clutching Hands~
+Clutching Hands~
+A pair of Clutching Hands are here trying to drag you under the ground.
+~
+The hands are trying to tear you right into the ground.  Hopefully you
+can kill them in time.  
+~
+human~
+AB DFJZa 0 -1000 0
+120 118 10d10+8000 50d10+10500 10d10+50 crush
+-10 -10 -10 -10
+CEFU ABT H KNS
+stand stand either 30000
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 40201 20~
+M FIGHT 40201 20~
+M DEATH 40200 0~
+#40203
+Zombie~
+a Zombie~
+A zombie is here waiting to take over your body.
+~
+Cut and molded, the zombie is extremely unattractive.
+~
+unique~
+ABO DFJZa 0 0 0
+120 50 50d10+15000 50d10+10500 10d10+50 bite
+-10 -10 -10 -10
+FU ABLMQ 0 KNSY
+stand stand none 30000
+AHMV ABCGHIJK medium unknown
+#40204
+constrictor snake~
+Constricter Snake~
+A constrictor snake is here coiling itself for an attack.
+~
+Long and slick, the snake is ready for attack.
+~
+snake~
+AB DFJPZa 0 0 0
+120 100 10d10+8000 50d10+10500 10d10+50 acbite
+-10 -10 -10 -10
+FM S L I
+stand stand either 30000
+AGXYc ADEFKLQVX medium unknown
+#40205
+Giant Rats~
+Giant Rat~
+A giant rat is here scavenging for anything.
+~
+A giant rat is here, spreading disease and filth.
+~
+human~
+ABC DFJZa 0 0 0
+135 0 10d10+8000 50d10+10500 10d10+50 digestion
+-30 -30 -30 -30
+FHU 0 H KNS
+stand stand either 30000
+AHMV ABCDEFGHIJK medium unknown
+#40206
+large spider~
+large spider~
+A large spider stands here trying to trap you in a web.
+~
+A hairly large spider is here making a web encompassing the room and you
+in the middle.  
+~
+human~
+AB DFJZa 0 0 0
+135 0 10d10+8000 50d10+10500 10d10+50 bite
+-30 -30 -30 -30
+DEFU ABHLQ BR CDEKN
+stand stand either 30000
+AHMV ABCDEFGHIJK medium unknown
+#40207
+Klaus Cleric Man~
+Klaus the Cleric~
+A man stands here, frightened beyond belief, holding a cross tightly to his heart.
+~
+Klaus begins to tell you his story: "I am Klaus, a cleric from afar, I
+was traveling along the road with a small party six nights ago when a
+strange fog suddenly blanketed the land.  Gunter trapped us here and
+demanded a life!  The others surrened me to him.  I was left alone with only
+this candle to protect me.  The high priests of my temple gave me this
+candle before I left.  When it is lit, it casts a magical circle of
+protection to fill the room.  Gunter and his evil kind cannot enter then. 
+Even so, I must be vigilant, for if it ever blows out, they will descent
+upon me.  I am not about to leave the protection of my candle.  I know not
+what protects you, but I know what happened to the members of my party when
+they left.  Their spirits were taken from them for betraying me.  Now they
+walk the night as lost beings.  
+~
+human~
+ABZa DFJZa 0 1000 0
+125 118 50d10+10500 50d10+10500 8d7+40 slap
+-30 -30 -30 -30
+EFHN NS J DK
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#40208
+Ghouls~
+A bloodthirsty Ghoul~
+Bloodthirsty Ghouls stand here.
+~
+The master is not feeling well.  Come back another day!  How can we serve
+you?  Would you like some tea?  No I think you would prefer death.  
+~
+unique~
+ABO DFJZa 0 -1000 0
+135 0 10d10+8000 50d10+10500 10d10+50 wrath
+-30 -30 -30 -30
+CGIOU ABLMQ J HKNSY
+stand stand either 30000
+AHMV ABCGHIJK medium unknown
+#40299
+magikarp~
+{$Ma{4g{6ik{4a{$rp{0~
+A fish flops around on the floor yelling out magikarp magikarp.
+~
+In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
+~
+water fowl~
+A Tb 0 0 0
+5 0 100d100+4000 0d0+0 0d0+0 grep
+0 0 0 0
+0 R IR J
+stand stand none 0
+AGb ADEFKOQX medium unknown
+F for W
+F par CHP
+#0
+
+
+
+#OBJECTS
+#40200
+silver heart key ~
+a silver heart shaped key ~
+A {^silver {0heart shaped key lies here.~
+silver ~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#40201
+desk ~
+a desk ~
+A desk lies here. ~
+wood ~
+container 0 P
+1000 A 0 1000 50
+0 0 0 P
+#40202
+edged hand axe handaxe~
+{8an edged hand axe{0~
+A hand axe has been left here.~
+iron~
+weapon 0 AN
+axe 7 28 crush 0
+101 100 20000 P
+A
+18 15
+A
+19 15
+A
+3 -1
+#40203
+battle axe battleaxe double bladed~
+{8a double bladed battle axe{0~
+A giant battle axe was left here.~
+iron~
+weapon 0 AN
+axe 13 15 chop F
+100 120 20000 P
+A
+19 20
+#40204
+butcher knife~
+{8a {1butcher {8knife{0~
+A butcher knife has been left here.~
+silver~
+weapon C AN
+dagger 14 13 cleave D
+100 50 20000 P
+A
+18 14
+A
+19 10
+#40205
+burnt whip~
+a {1burnt {8whip{0~
+A badly charred whip is here still burning.~
+hemp~
+weapon A AN
+whip 9 22 sting AF
+100 50 20000 P
+A
+19 15
+#40206
+chain linked flail~
+{7a chain linked flail{0~
+A flail has been left here.~
+wood~
+weapon 0 AN
+flail 19 10 crush H
+100 50 20000 P
+A
+19 12
+A
+18 8
+#40207
+heavy polearm~
+a {3heavy {7polearm{0~
+A polearm has been left here.~
+iron~
+weapon 0 AN
+polearm 10 20 thrust F
+100 200 20000 P
+A
+19 13
+A
+18 13
+#40208
+rusted trident~
+{7a rusted trident{0~
+A trident has been left here.~
+iron~
+weapon 0 AN
+staff 11 17 stab G
+100 100 20000 P
+A
+19 15
+A
+18 5
+#40209
+blunt mace~
+{7a blunt mace{0~
+A mace has been left here.~
+iron~
+weapon 0 AN
+mace 25 7 pound B
+100 50 20000 P
+A
+19 14
+#40210
+floor roof rubble~
+rubble~
+The cave in has created rubble here.~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+0 0 0 P
+#40218
+Corruption blade~
+the Blade of {3Cor{8rupt{3ion{0~
+A sword is lying in the corner, engulfing the light around it.~
+unknown~
+weapon EJLMZd AN
+dagger 3 69 fury CE
+101 1 10000 P
+A
+19 15
+#40219
+tome embalming~
+a Tome of Embalming~
+A deep red book is here, resting on a podium.~
+Super Cloth~
+scroll 0 A
+101 'decay corpse' 'reserved' 'reserved' 'reserved'
+101 250 0 P
+#40220
+tome undead~
+a Tome of the Undead~
+A jet black tome is on a podium here.~
+Super Cloth~
+scroll 0 A
+101 'animate skeleton' 'reserved' 'reserved' 'reserved'
+101 250 0 P
+#40221
+corpse marial~
+the corpse of Marial~
+The corpse of Marial is here, her eyes staring at the ceiling.~
+Flesh~
+container 0 0
+1000 0 0 1000 100
+0 500 500 P
+#40222
+Ornate Earring~
+an Ornate Earring~
+An Ornate Earring is here.  It looks incredably valueable.~
+unknown~
+jewelry ATY AS
+0 0 0 0 0
+101 5 100000 P
+A
+20 -5
+A
+19 11
+A
+5 -2
+A
+17 -15
+A
+13 65
+#40223
+gunter heart~
+{&Gunter's {!Heart{0~
+Gunter's heart is pounding on the floor.~
+blood~
+key PUV AH
+0 0 0 0 0
+101 100 0 P
+#0
+
+
+
+#ROOMS
+#40200
+Path into Harrow Hill~
+~
+0 1 2
+D0
+~
+~
+0 0 40201
+D2
+~
+~
+0 0 5283
+S
+#40201
+Entrance to Harrow Hill~
+~
+0 1 4
+D0
+~
+~
+1 0 40202
+D2
+~
+~
+0 0 40200
+S
+#40202
+The Parlor~
+~
+0 1 0
+E
+chairs~
+Several once-plush couches and chairs are scattered around the room. 
+They have aged badly and will collapse in a tangle of moldy dust and rotten
+wood if anyone sits in them.  
+~
+E
+painting~
+You look at the painting on the wall, very discreetly at first then you
+notice movement coming from it.  As you peer on the picture takes shape and
+a figure steps from the painting.  Standing infront of you the ghost of
+Gunther looks evily at you and laughs suddenly, he rises and demands 'Which
+one of you will give me the life I need?  Mhuhaha.  Continue indeed,' and
+disapears.  
+~
+D0
+~
+~
+0 0 40203
+D2
+~
+~
+1 0 40201
+S
+#40203
+The End of the Parlor~
+The moldy scraps of an ancient rug tangle around your feet.  Rotten
+wallpaper hangs in great peels from the walls.  Water drips down the chimney
+of the cold stone fireplace.  A portrait hangs over the mantle.  Except for
+a heavy old desk next to one wall, the once-fine furniture is now worm-eaten
+and cracked.
+~
+0 0 0
+D0
+~
+~
+0 0 40204
+D2
+~
+~
+0 0 40202
+D3
+~
+~
+0 0 40216
+S
+#40204
+The Hallway~
+This hall is fairly short, extending to the west a bit more.  To the east
+is a flight of stairs, north is a library and south is the parlor.  
+~
+0 0 0
+D0
+~
+~
+0 0 40206
+D1
+~
+~
+0 0 40205
+D2
+~
+~
+0 0 40203
+D3
+~
+~
+0 0 40207
+S
+#40205
+Staircase~
+The stairs are covered in dust, and the entire passage is choked with
+cobwebs.  It is clear that nothing has come up these stairs in a long time. 
+~
+0 0 0
+D3
+~
+~
+0 0 40204
+D4
+~
+~
+0 0 40219
+S
+#40206
+The Library~
+This room is filled with the smell of must paper.  That only makes sense
+because the walls are all bookshelves, crammed with books and scrolls of all
+shapes and sizes.  A pair of reading chairs sit in the center of the room. 
+Against one wall there is a large desk, with a huge black book on it.  A
+fist-sized silver lump, maybe a paperweight, sits next to the book.  The
+room has stayed dry over the years, so the papers still look readable once
+the cobwebs are brushed away.  
+~
+0 0 0
+E
+black~
+The book is a thick, leatherbound volume.  There are strange runes on the
+cover.  Inscribed in the inside cover is the following passage: "Not much
+time left to me...  I think Erika knows.  She mush be prevented from
+interfering with the process...  I found the cleric's book in her chambers
+yesterday...  She may have found a way to stop me" 
+~
+E
+silver~
+The heart looks like a real human heart, cast in silver.
+~
+D2
+~
+~
+0 0 40204
+S
+#40207
+The Hallway~
+The hallway comes to an end.  To the east is the main hall, north is a
+small room.  A tapestry is hung across the west wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 40208
+D1
+~
+~
+0 0 40204
+S
+#40208
+The Music Room~
+This chamber is a parlor.  Comfortable sitting furniture lines the walls,
+and there is a harpsichord for musical recitals here.  In one corner is a
+huge grandfather clock, still ticking.  
+~
+0 0 0
+E
+clock~
+As you look into the clock and begin examining it suddenly chimes,
+frightening you.  The hour must be at hand and you feel a bit foolish for
+being so uptight.  You are about to turn away when you see movement again in
+the clock.  You turn back and Gunther's Ghost is standing infront of you. 
+He looks at you and says, 'Your time is fading, why not feed me your soul
+right now, it will save you time...  ' You begin to confront him and he
+disapears in a haze of fog.  
+~
+E
+harpsichord~
+You examine the harpsichord and find nothing unusual.  The chords seem
+tight still as if someone may still be playing it every once in a while.  
+~
+D0
+~
+~
+0 0 40209
+D2
+~
+~
+0 0 40207
+S
+#40209
+The Sun Room~
+This room is colder than all the others, and the sound of the rain is
+loud here.  The room is filled with shadows that twist in the light.  It's
+almost like peering into an evil jungle.  The room appears to be an old
+conservatory and is filled with dead and dying plants.  There are potted
+trees hung with think vines, bushes in tubs, and plants with pricking
+thorns.  
+~
+0 0 0
+D2
+~
+~
+0 0 40208
+D3
+~
+~
+0 0 40210
+S
+#40210
+Kitchen Nook~
+This room is the opening to the kitchen.  A door lies to the east heading
+back to the Sun Room and another goes north.  There are small cabinets
+against the wall and the kitchen opens towards the south to the full room.  
+~
+0 0 0
+D1
+~
+~
+0 0 40209
+D3
+~
+~
+0 0 40211
+S
+#40211
+The Kitchen~
+This room is the kitchen.  Several tall cabinets line the walls, most of
+them broken open.  Shattered dishes and broken glass litter the floor.  A
+large hearth filled with cold ashes takes up most of one wall.  There are
+only a few unbroken jars left, mostly flour, spices, and seasonings.  This
+room seems very safe compared to the others in the house.  
+A door lies to the north and another to the south.
+~
+0 1028 0
+D0
+~
+doorway~
+1 0 40213
+D1
+~
+~
+0 0 40210
+D2
+~
+~
+0 0 40216
+S
+#40212
+Stairway Landing~
+The stairs are covered in dust, and the entire passage is choked with
+cobwebs.  It is clear that nothing has come down these stairs in a long
+time.  
+~
+0 0 0
+D3
+~
+~
+0 0 40214
+D4
+~
+~
+0 0 40213
+S
+#40213
+Stairway down~
+The stairs are covered in dust, and the entire passage is choked with
+cobwebs.  It is clear that nothing has come down these stairs in a long
+time.
+~
+0 0 0
+D2
+~
+doorway~
+1 0 40211
+D5
+~
+~
+0 0 40212
+S
+#40214
+Stairway down~
+The stairs are covered in dust, and the entire passage is choked with
+cobwebs.  It is clear that nothing has come down these stairs in a long
+time.  
+~
+0 0 0
+D1
+~
+~
+0 0 40212
+D5
+~
+~
+0 0 40215
+S
+#40215
+Cellar~
+The basement is full of old cobwebs.  Almost hidden within them is an
+ancient laboratory.  A large wooden table fills the center of the room.  On
+it are a few dirty flasks and rusty knives.  A large shelf filled with jars,
+beakers, candles, and bones hangs on one wall.
+~
+0 0 0
+D2
+~
+~
+0 0 40217
+D4
+~
+~
+0 0 40214
+S
+#40216
+The Dining Hall~
+This room was the dining hall.  A great table fills the center of the
+chamber.  Broken plates and ruined settings still rest on it.  Huddled on
+the chairs around the table is a group of people with the backs to the door.
+As a group they rise and shuffly forward, their rotting faces a sign of
+their long undeath.  
+~
+0 0 0
+D0
+~
+~
+0 0 40211
+D1
+~
+~
+0 0 40203
+S
+#40217
+Cellar~
+The basement is full of old cobwebs.  Almost hidden within them is an
+ancient laboratory.  A large wooden table fills the center of the room.  On
+it are a few dirty flasks and rusty knives.  A large shelf filled with jars,
+beakers, candles, and bones hangs on one wall.
+~
+0 0 0
+D0
+~
+~
+0 0 40215
+D2
+~
+secret~
+3 40200 40218
+S
+#40218
+The Secret Crypt~
+The crypt is a long, narrow room with a plain dirt floor.  A stone
+sarcophagus fills the center of the room.  Bronze braziers rest in each
+corner, and the walls are covered with carvings of various magical symbols. 
+Eight niches in the walls each contain a skeleton, shackled to the walls by
+rusted iron chains.  
+~
+0 0 0
+D0
+~
+wall~
+3 40200 40217
+D1
+~
+~
+3 40223 40227
+S
+#40219
+Stairway landing~
+The stairs are covered in dust, and the entire passage is choked with
+cobwebs.  It is clear that nothing has come up these stairs in a long time. 
+~
+0 0 0
+D0
+~
+~
+0 0 40220
+D5
+~
+~
+0 0 40205
+S
+#40220
+Living Room~
+This room is awfully musky and dust seems to fly about everywhere.  To
+the west are a few chairs and on the north wall is a ripped up couch.  A rug
+lines the center floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 40219
+D3
+~
+~
+0 0 40221
+S
+#40221
+Living Room~
+This room is awfully musky and dust seems to fly about everywhere.  To
+the west are a few chairs and on the north wall is a ripped up couch.  A rug
+lines the center floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 40222
+D1
+~
+~
+0 0 40220
+D2
+~
+~
+0 0 40226
+S
+#40222
+Hallway~
+This is a plain hall with a room to the east.  The walls are cracked a
+bit and small bugs skitter around on the floor.  Cobwebs line the ceilings
+and walls in every direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 40223
+D1
+~
+doorway~
+1 0 40224
+D2
+~
+~
+0 0 40221
+S
+#40223
+Hallway~
+This is a plain hall with a room to the east.  The walls are cracked a
+bit and small bugs skitter around on the floor.  Cobwebs line the ceilings
+and walls in every direction.  
+~
+0 0 0
+D1
+~
+~
+1 0 40225
+D2
+~
+~
+0 0 40222
+S
+#40224
+Erika's Bedroom~
+This bedroom once belonged to a lady of taste, the funishings show a
+lady's touch.  The room seems to have weathered better than the other parts
+of the house.  There is a small writing desk along one wall, a bed, and a
+nightstand beside it.  On the nightstand is a picture.  
+~
+0 0 0
+D3
+~
+doorway~
+1 0 40222
+S
+#40225
+Servant's Room~
+This was once the servant's quarters.  Unfortunately, the servants are
+still here.  This dark sorcery worked on them by Gunter has changed them
+into blood thirsty ghouls!  
+~
+0 0 0
+D3
+~
+doorway~
+1 0 40223
+S
+#40226
+Klaus's Sanctuary~
+This room was once the house's master bedroom.  The furniture in here is
+in god shape, but it is all shoved around to block the windows and make a
+barricade.  The room is inhabited by Klaus Viedermann, a cleric, Klaus was
+trapped in the house when he sought shelter here a week ago, but Gunter has
+not been able to defeat the cleric.  
+~
+0 1024 0
+D0
+~
+~
+0 0 40221
+S
+#40227
+Gunter's Laboratory~
+The very presence of this room is overwhelming.  Shelves line the walls,
+and a small ball of light is giving a ghastly illumination.  The north and
+south walls are filled with disembodied limbs, organs, and blood.  There are
+two podiums occupying the eastern wall.  They hold two books radiating evil.
+A corpse lies on a table in the center of the room.  In the past, Gunter
+Weiss paced by this corpse...  The one of his love.  He spent countless
+hours studying the ways of giving back life of those who have lost it.  
+~
+0 73733 0
+D3
+~
+~
+0 0 40218
+S
+#0
+
+
+
+#SPECIALS
+M 40200 spec_breath_fire Load to: Gunter's Ghost
+S
+
+
+
+#RESETS
+D 0 40201 0 1 The north door of Entrance to Harrow Hill is closed
+D 0 40202 2 1 The south door of The Parlor is closed
+D 0 40211 0 1 The north door of The Kitchen is closed
+D 0 40213 2 1 The south door of Stairway down is closed
+D 0 40217 2 2 The south door of Cellar is closed and locked
+D 0 40218 0 2 The north door of The Secret Crypt is closed and locked
+D 0 40218 1 2 The east door of The Secret Crypt is closed and locked
+D 0 40222 1 1 The east door of Hallway is closed
+D 0 40223 1 1 The east door of Hallway is closed
+D 0 40224 3 1 The west door of Erika's Bedroom is closed
+D 0 40225 3 1 The west door of Servant's Room is closed
+M 0 40201 15 40202 1 *Load A Shadow
+M 0 40201 15 40203 2 *Load A Shadow
+M 0 40201 15 40206 3 *Load A Shadow
+O 0 40201 0 40206 *A desk  loaded to The Library
+P 0 40200 1 40201 1 *A silver heart shaped key  put inside a silver heart shaped key 
+M 0 40204 1 40207 1 *Load Constricter Snake
+M 0 40202 1 40208 1 *Load Clutching Hands
+E 0 40209 0 16 *{7a blunt mace{0 is loaded wielded of Clutching Hands
+M 0 40204 15 40209 3 *Load Constricter Snake
+M 0 40205 15 40210 1 *Load Giant Rat
+M 0 40205 15 40212 3 *Load Giant Rat
+M 0 40205 15 40213 3 *Load Giant Rat
+M 0 40205 15 40214 2 *Load Giant Rat
+M 0 40206 15 40215 2 *Load large spider
+M 0 40203 12 40216 3 *Load a Zombie
+E 0 40202 0 16 *{8an edged hand axe{0 is loaded wielded of a Zombie
+M 0 40203 12 40216 3 *Load a Zombie
+E 0 40203 0 16 *{8a double bladed battle axe{0 is loaded wielded of a Zombie
+M 0 40203 12 40216 3 *Load a Zombie
+E 0 40204 0 16 *{8a {1butcher {8knife{0 is loaded wielded of a Zombie
+M 0 40206 15 40217 3 *Load large spider
+M 0 40200 1 40218 1 *Load Gunter's Ghost
+E 0 40223 0 3 *{&gunter's {!heart{0 is loaded around the neck (1) of Gunter's Ghost
+M 0 40201 15 40220 2 *Load A Shadow
+M 0 40203 2 40221 2 *Load a Zombie
+M 0 40208 15 40222 2 *Load A bloodthirsty Ghoul
+E 0 40205 0 16 *A {1burnt {8whip{0 is loaded wielded of A bloodthirsty Ghoul
+M 0 40208 15 40222 2 *Load A bloodthirsty Ghoul
+E 0 40206 0 16 *{7a chain linked flail{0 is loaded wielded of A bloodthirsty Ghoul
+M 0 40204 15 40224 2 *Load Constricter Snake
+M 0 40208 15 40225 2 *Load A bloodthirsty Ghoul
+E 0 40207 0 16 *A {3heavy {7polearm{0 is loaded wielded of A bloodthirsty Ghoul
+M 0 40208 15 40225 2 *Load A bloodthirsty Ghoul
+E 0 40208 0 16 *{7a rusted trident{0 is loaded wielded of A bloodthirsty Ghoul
+M 0 40207 1 40226 1 *Load Klaus the Cleric
+O 0 40220 0 40227 *A tome of the undead loaded to Gunter's Laboratory
+O 0 40219 0 40227 *A tome of embalming loaded to Gunter's Laboratory
+O 0 40221 0 40227 *The corpse of marial loaded to Gunter's Laboratory
+P 0 40222 2 40221 2 *An ornate earring put inside an Ornate Earring
+O 0 40218 0 40227 *The blade of {3cor{8rupt{3ion{0 loaded to Gunter's Laboratory
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#40200
+~
+#40201
+if objhere 40210
+mob bash
+else
+mob echo {!The clutching hand grabs $N by the leg and drags $m through the ground!{0
+mob gtransfer $n 40217
+mob goto 40217
+mob echo A clutching hand lands behind you.
+mob kill $n
+if objhere 40210
+else
+mob oload 40210 0 room
+end if
+end if
+~
+#40202
+~
+#0
+
+#$

@@ -1,0 +1,63 @@
+#AREADATA
+Name Morgue~
+Builders Unlinked~
+VNUMs 30200 30299
+Continent 1
+Credits [ ALL } Kiti    Morgue~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#30201
+The Morgue~
+All around you are corpses of the people killed in battle. Scattered
+everywhere with no sign of organization. Pick your corpse and be on your
+way. Dont forget to go get your floating object at the last place you were
+killed. 
+
+~
+0 4 0
+D0
+~
+~
+0 0 3044
+S
+#30299
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

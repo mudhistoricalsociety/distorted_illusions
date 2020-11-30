@@ -1,0 +1,1626 @@
+#AREADATA
+Name Typhon's Tomb~
+Builders None~
+VNUMs 32200 32299
+Continent 1
+Credits {y[{Y  LGD {y]{c Memnon   {YTyphon's Tomb{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#32200
+a loyal servant of typhon~
+A Loyal servant of Typhon~
+A {1L{!o{1y{!a{1l{x servant of {!T{1yphon{x is here wandering about
+~
+~
+human~
+AC J H -500 0
+155 100 5d1400+12000 1d1+1 20d25+75 slash
+-60 -60 -60 -60
+EF LQ EH CI
+stand stand none 29000
+AHM ADHJK medium unknown
+F for V
+F par BCEFGI
+#32201
+a pale white ghost~
+A {$P{4ale{x white ghostlook~
+A {BP{bale{x white ghost is here setting up a table full of junk
+~
+~
+human~
+AB DJ 0 0 0
+0 0 10d10+100000 0d0+0 50d50+100 slice
+-860 -860 -860 -860
+0 0 0 0
+stand stand none 1000000
+AHM ADHJK medium unknown
+F for V
+F par BCEFGI
+M GRALL 32202 100~
+#32202
+lion~
+A Lion~
+A {YL{yi{Yo{yn{x roams free
+~
+~
+dog~
+AB AJZ O -150 0
+155 80 5d1700+15000 0d0+0 20d25+75 charge
+-80 -80 -80 -80
+CFH LQ C I
+stand stand none 32000
+AGHV ABCDEFGHJKQUV huge unknown
+#32203
+wounded demon~
+A {!W{1ounded {$D{4e{$m{4o{$n{x~
+A {!W{1ounded {$D{4e{$m{4o{$n{x struggles to live
+~
+~
+dragon~
+ABF DJTVZ DH -300 0
+158 180 4d1500+15000 0d0+0 20d25+50 claw
+-90 -90 -90 -90
+CK LQ BEH I
+stand stand none 31000
+AHMZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#32204
+an evil apprentice warrior~
+An EviL Apprentice~
+An {!E{1v{!i{1l{x {BA{bp{Bp{br{Be{bn{Bt{bi{Bc{be{x stands here selling black market items
+~
+~
+human~
+ABU DFJVZ H 0 0
+1 100 1000d1000+10000 0d0+0 100d100+1000 slash
+100 100 100 100
+0 0 0 0
+stand stand female 1000000
+ACHM ABCDFHIJK medium unknown
+F for V
+F par EG
+#32205
+wandering head of typhon~
+A dead wandering head of Typhon~
+A Dead {!W{1andering{x {!H{1e{!a{1d{x of Typhon
+~
+One of a hundred heads that used to live
+atop Typhons mighty shoulders.
+~
+human~
+AF JV D -500 0
+156 60 5d1800+13000 100d100+1000 20d30+80 bite
+-90 -90 -90 -90
+C HLQ E I
+stand stand none 29000
+AHM ADFK medium unknown
+F for V
+F par BCEGHIJ
+#32210
+a lost little girl gigantic demon~
+A Gigantic Demon~
+A lost little girl is here giving out roses
+~
+~
+human~
+AB DJ H -500 0
+160 50 5d2000+20000 0d0+0 25d30+75 pound
+-100 -100 -100 -100
+C LQ H C
+stand stand female 25000
+AHM ABCDE medium unknown
+F for V
+F par FGHIJK
+M SPEECH 32200 y~
+M GRALL 32210 100~
+M SPEECH 32201 n~
+#32211
+large demon~
+A Large Demon~
+A Large Demon stands towering over you
+~
+~
+human~
+AF J H -200 0
+157 50 6d1300+12000 0d0+0 20d40+50 claw
+-80 -80 -80 -80
+K LQ E I
+stand stand none 30000
+AH ABCDEFGHIJK medium unknown
+F for MV
+#32212
+lost soldier~
+A {$L{4ost{x {!S{1oldier{x~
+A {$L{4ost{x {!S{1oldier{x paces back and forth
+~
+~
+human~
+ABF JV HNO -150 0
+158 115 5d2000+16000 0d0+0 30d20+100 thrust
+-70 -70 -70 -70
+CP ALMQ H CI
+stand stand none 28000
+AH ABCDEFGHIJK medium unknown
+F for MV
+#32213
+peach~
+A peach~
+A peach is here falling from a beautiful fruit tree
+~
+~
+dragon~
+AB JT 0 -299 0
+156 15 5d1500+10000 0d0+0 20d25+75 pound
+-60 -60 -60 -60
+R ACE BEH FIP
+stand stand none 45000
+ABHZ ACDEFGHIJKPQUVX medium unknown
+#32214
+evil creature~
+A worthless {BC{Creature{x~
+A worthless {BC{6reature{x stands here in your way
+~
+~
+human~
+ABF JV CDEH -150 0
+160 100 5d1500+15000 0d0+0 20d25+75 claw
+-90 -100 -100 -100
+B HIKMN FGLQ I
+stand stand none 31000
+AH ABCDEFGHI medium unknown
+F for MV
+F par JK
+#32215
+fearfull being~
+A {6F{^earfull{x being~
+A {6F{^earfull{x being stands patiently, perhaps ready to snap your neck
+~
+~
+human~
+ABF DJV H -150 0
+160 120 5d1500+12000 0d0+0 30d15+75 pound
+-50 -50 -50 -50
+FIK AKLQ H IMPST
+stand stand none 26000
+AH ABCDEFGHIJK medium unknown
+F for MV
+#32216
+barbarian~
+A Barbarian~
+A {$B{4arbarian{x stands here swinging his axe
+~
+~
+human~
+ABF DJ H -150 0
+158 150 5d1500+13000 0d0+0 25d25+100 slice
+-90 -90 -90 -90
+EFK ACH E I
+stand stand none 30000
+AH 0 medium unknown
+F for MV
+F par ABCDEFGHIJK
+#32217
+soldier~
+a soldier~
+A {GS{goldier{x sits here in a chair almost asleep
+~
+~
+human~
+AB J H 500 0
+165 140 8d1700+20000 0d0+0 30d25+75 pierce
+-90 -90 -90 -90
+E ALQ CE I
+sleep stand none 30000
+AH ABCDEFGHIJK medium unknown
+F for MV
+#32218
+slave creature~
+A Slave Creature~
+A {MS{ml{M{ma{Mv{me{x {!C{1r{!e{1a{!t{1u{!r{1e{x is here, he has been in the dark so long he cant see
+~
+~
+human~
+ABF DJ H -200 0
+160 60 5d1400+12000 1d1+1 20d25+100 slash
+-80 -80 -80 -80
+CK ABHIKQ E I
+stand stand none 30000
+AH ABCDEFGHIJ medium unknown
+F for MV
+F par K
+#32219
+beast~
+A {RB{reast{x~
+A {RB{reast{x hangs from the celing
+~
+~
+human~
+ABF DJ H -150 0
+160 90 5d1400+15000 1d1+1 60d70+100 claw
+-60 -60 -60 -60
+CFK ALQ CK I
+stand stand none 31000
+AH ABCDEFGHIJK medium unknown
+F for MV
+M GRALL 32203 50~
+#32220
+mini cyclopes~
+A {BM{bi{Bn{bi{x {RC{ry{Rc{rl{Ro{rp{Re{rs{x~
+A {BM{bi{Bn{bi{x {RC{ry{Rc{rl{Ro{rp{Re{rs{x
+~
+~
+human~
+ABF DJ H -60 0
+160 75 5d1300+14000 0d0+0 20d25+100 pound
+-60 -60 -60 -60
+KU LQ C I
+stand stand none 29000
+AH ABCDEFGHIJK medium unknown
+F for MV
+#32221
+giant peach tree~
+A {GG{giant{x Peach Tree~
+A {GG{giant{x beautiful peach tree
+~
+~
+dragon~
+ABF DJT H -100 0
+150 0 5d1000+12000 0d0+0 25d25+50 divine
+-50 -50 -50 -50
+R CLQ BCEHI FI
+stand stand none 30000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#32222
+typhon~
+{BT{by{BP{bh{BO{bn{x~
+{RT{ry{RP{rh{RO{rn{x himself sits here atop his giant throne
+~
+~
+dragon~
+ABF JT H -1000 0
+170 170 5d2000+40000 0d0+0 25d25+100 chop
+-80 -80 -80 -80
+FKR AKLMQ BC I
+stand stand none 60000
+AHZ ABCDEFGHIJKPQUVWX medium unknown
+F res EH
+F vul F
+M GRALL 32204 100~
+#32223
+screaming soul~
+A screaming soul~
+A {6S{6creaming{x {4S{$oul{x stands here screaming
+~
+~
+human~
+AB DV 0 -100 0
+160 100 5d1500+16000 0d0+0 20d20+100 bite
+-50 -50 -50 -50
+E LQ FG CIT
+stand stand female 25000
+AHM ABCDEFGHIJK small unknown
+F for V
+#32224
+blood snake~
+A {RB{rlood{x {RS{rn{Ra{rk{Re{x~
+A {RB{rl{Ro{ro{Rd{x {RS{rnake{x slithers around your feet
+~
+~
+human~
+AB JMXb 0 -150 0
+160 80 5d1200+13000 0d0+0 20d25+50 bite
+-60 -60 -60 -60
+HKM AER T INP
+stand stand none 27000
+AHY ADEFLVX medium unknown
+F for MV
+F par BCGHIJK
+#32225
+wandering lost soul~
+A wandering lost soul~
+A {^W{6andering{x lost {$S{4oul{x
+~
+~
+human~
+AB JMQ H -300 0
+158 80 5d1400+16000 0d0+0 20d25+100 pierce
+-65 -65 -65 -65
+CN Q E IP
+stand stand female 28000
+AHM ABCDEFGHIJK medium unknown
+F for V
+#32226
+treasure keeper~
+A Treasure keeper~
+A {BT{br{Be{ba{Bs{bu{Br{be{x keeper stands here asking riddles
+~
+~
+human~
+AB CD 0 0 0
+1 0 1d1+10000 100d100+1000 1d1+50 none
+0 0 0 0
+0 0 0 0
+stand stand male 10000
+HM ABCDEFGHIJK medium unknown
+F for AV
+M GRALL 32205 100~
+M SPEECH 32206 hades~
+#0
+
+
+
+#OBJECTS
+#32200
+a blank key~
+a BlAnK KeY~
+A BlAnK KeY lies here~
+silver~
+key RSY AO
+0 0 0 0 0
+1 2 0 P
+#32201
+a soul blade~
+a {BS{bo{BU{bl{x Blade{x~
+A {BS{bo{Bu{bL{x Blade{x lies here on the ground~
+unknown~
+weapon SY AN
+sword 6 28 drain E
+85 6 20000 P
+A
+19 10
+A
+14 -50
+A
+12 -50
+#32202
+skeleton chest plate~
+a {^S{6keleton{x {6C{^h{6e{^s{6t{x~
+A pile of Skeleton bones are here rotting away~
+bone~
+armor SY AD
+BCD ABD BCD BD 0
+80 6 32000 P
+A
+18 3
+A
+19 5
+A
+4 -1
+A
+13 15
+A
+20 -5
+#32203
+wrist guard~
+{G^*^*{gW{Grist Guar{gD{G*^*^{x~
+A stainless steel wrist guard sits here~
+stainless steel~
+armor SY AM
+ABCD ABCD CE ABCD 0
+90 10 40000 P
+A
+19 15
+#32204
+demon ring~
+a {!D{1e{!M{1o{!N{x Ring~
+A glowing red ring is barried here in the dirt~
+glass~
+armor AESY AB
+ABCD BD ABCD ABD 0
+101 1 20000 P
+A
+20 -1
+A
+13 150
+A
+3 -2
+A
+19 5
+A
+18 5
+#32205
+deadly wand~
+a {^D{6eadl{^y {^W{$a{^n{$d{x~
+A blinding light glows from a wand on the ground~
+crystal~
+wand ASY AO
+105 17 17 'blindness' 0
+101 3 60000 P
+#32206
+wand of weaken~
+a Wand of Weaken~
+A wand of weaking shines on your face~
+stainless steel~
+wand APSY AO
+120 15 15 'weaken' 0
+101 12 76000 G
+#32207
+beast claw~
+a {RB{reast{x Claw~
+A {RB{reast{x Claw is burried under the dirt~
+hair~
+weapon SY AN
+dagger 14 14 stab DH
+101 13 33000 P
+A
+18 6
+A
+19 4
+#32208
+dagger of typhon~
+a {B+*_-^{bDaggeR{B^-_*+{x~
+A {B+*_-^{bDaggeR{B^-_*+{x~
+ice~
+weapon RSY AN
+dagger 6 34 stab EH
+101 11 50000 P
+A
+19 9
+A
+18 10
+#32209
+mighty helmet~
+{BM{bi{Bg{bh{Bt{by{x {RH{re{Rl{rm{Re{rt{x~
+A Mighty Helmet sits here~
+flames~
+armor RSY AE
+ADE ADE ADE CE 0
+101 13 50000 P
+A
+18 5
+A
+13 90
+A
+19 15
+#32210
+arm plates of typhon~
+arm plates of {BT{by{Bp{bh{Bo{bn{x~
+A pile of steel is here on the ground.~
+unknown~
+armor SY AI
+ABCD ABCD ABCD ABCD 0
+101 25 35250 P
+A
+19 10
+A
+13 75
+A
+4 -2
+A
+20 -6
+#32211
+a death wand~
+a Death Wand~
+Death floats around this vibrant wand, glowing blue and red~
+plastic~
+wand AS AO
+60 24 23 'demonfire' 0
+95 1 39000 P
+A
+13 10
+A
+12 40
+#32212
+a tomb stone~
+a Tomb and Eulogy of Typhon~
+A Tomb stone sits tall here, it has Typhon's Eulogy written on it.~
+stone~
+trash RY 0
+0 0 0 0 0
+0 0 0 P
+E
+tomb~
+A flaming monster with a hundred heads
+Who rose up against all gods.
+Death whistled from his fearfull jaws
+His eyes flashed glaring fire.
+~
+E
+stone~
+A flaming monster with a hundred heads
+Who rose up against all gods.
+Death whistled from his fearfull jaws
+His eyes flashed glaring fire.
+~
+#32213
+magical wand~
+a MaGiCaL wand~
+A MaGiCaL wand sits here~
+unknown~
+wand 0 AO
+50 20 19 'stone skin' 0
+75 0 15000 P
+A
+13 10
+#32214
+beautiful pill~
+a {$B{4e{$a{4u{$t{4i{$f{4u{$l{x pill~
+A {$B{4eAuTiFuL{x pill lies on the ground~
+plastic~
+pill 0 AO
+101 'stone skin' 'steel flesh' '' ''
+101 0 20000 P
+#32215
+bayonet~
+a *-BayoneT-*~
+A sharp bayonet lies on the ground~
+unknown~
+weapon 0 AN
+sword 10 13 slash DF
+70 0 30000 P
+A
+20 -5
+A
+13 82
+#32216
+dungeon key~
+a Dungeon key~
+A Dungeon key is here~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#32217
+barbarian axe~
+a Barbarian Axe~
+A Barbarian Axe~
+unknown~
+weapon E AN
+axe 12 12 none 0
+80 0 30000 P
+A
+13 14
+A
+18 14
+A
+19 14
+#32218
+lake~
+a {BL{bake{x~
+A {BL{bake{x puddles here.~
+unknown~
+fountain RY 0
+100000 99999 'water' 0 0
+1 0 0 P
+#32219
+a ring of wisdom~
+{RRing{x of {BWisdom{x~
+A brand new ring lies here~
+unknown~
+armor SY AB
+BD BD BD BD 0
+70 0 15000 P
+A
+4 2
+A
+3 3
+A
+13 30
+#32220
+patch of moses~
+a {BP{batch{x of Moses~
+A patch lies here~
+unknown~
+armor SY AV
+BD BD BD BD 0
+101 0 20000 P
+A
+20 -6
+A
+12 300
+A
+5 -3
+A
+3 -3
+#32221
+a pile of corpses~
+a pile of corpses~
+A rotten pile of still steaming corpses~
+corpses~
+trash SY 0
+0 0 0 0 0
+1 0 0 P
+E
+corpse~
+A pile of rotten corpses lie undernieth
+your feet. You can feel the crunching of
+the brittle bones.
+~
+#32222
+far famed helmet~
+a {7F{8a{7R{x-{&Famed{x helmet~
+A helmet lies here almost invisable~
+unknown~
+armor SY AE
+DF DF DF DF 0
+101 1 5 P
+A
+20 -5
+A
+2 -8
+#32223
+key~
+a key~
+A key~
+unknown~
+key S AO
+0 0 0 0 0
+1 0 0 P
+#32224
+refreshment~
+a refreshment~
+A refreshment~
+unknown~
+potion 0 AO
+101 'refresh' 'refresh' 'refresh' 'refresh'
+101 0 10000 P
+#32225
+lion tooth~
+a {YL{yion{x tooth~
+A {YL{yion{x tooth~
+unknown~
+armor ISY AC
+ABDE ADE ADE ADE 0
+101 0 15000 P
+A
+13 40
+A
+19 7
+A
+18 9
+#32227
+breath of fryr~
+{$B{4reath{x of Fryr~
+A shard of ice lies here~
+unknown~
+weapon SY AN
+dagger 11 14 stab B
+80 0 30000 P
+A
+18 3
+A
+19 2
+#0
+
+
+
+#ROOMS
+#32200
+Plains~
+Lions roam the empty plains and deserts.
+All there is to see is one lonly grave stone
+out in the middle of nowhere.
+~
+0 1073741825 0
+D0
+~
+~
+0 0 32201
+D1
+~
+~
+0 0 32202
+S
+#32201
+Typhon's Tomb~
+Nothing is here but vast plains. The wind
+howling through the tall lengthy grass,
+All that is here is a Eulogy for the mighty Typhon
+~
+0 0 0
+D2
+~
+~
+0 0 32200
+S
+#32202
+Plains~
+Nothing but vast deserts are around you.
+The sting of sand in your eyes and your
+sticky mouth from no water. Around here is
+lifeless
+~
+0 1073741825 0
+D1
+~
+~
+0 0 32204
+D2
+~
+~
+1 0 32203
+D3
+~
+~
+0 0 32200
+S
+#32203
+shop~
+A shop pops out of no where in the middle
+of this vast desert.
+~
+0 524417 0
+D0
+~
+~
+1 0 32202
+S
+#32204
+Plains~
+Nothing but vast deserts are around you.
+The sting of sand in your eyes and your
+sticky mouth from no water. Around here is
+lifeless.
+~
+0 1073741825 0
+D0
+~
+~
+0 0 32228
+D1
+~
+~
+0 0 316
+D3
+~
+~
+0 0 32202
+S
+#32205
+Plains~
+After leaving the ritual palace you find
+yourself lost right back in the middle
+of a dry frightening desert. The sun bakes
+your face and your lips crack while you walk.
+You notice in the distance to the west a
+giant gate and what looks like a lake
+~
+0 1073741825 0
+D2
+~
+~
+0 0 32228
+D3
+~
+~
+0 0 32206
+S
+#32206
+GateWay~
+Standing under two gigantic gates, you feel
+a slight breeze. Enough to make your spine
+jurk of a chill. On the left side of the gate
+there is a sign, "Abandon all hope ye who enter here"
+~
+0 1 0
+D1
+~
+~
+0 0 32205
+D2
+~
+~
+1 32200 32207
+S
+#32207
+Entrance~
+Here you see some old rusty doors bolted
+shut. They look like they lead into a
+celler. You can here some high pitch
+screams just barely through the door.
+~
+0 1 0
+D0
+~
+~
+1 32200 32206
+D5
+~
+~
+0 0 32208
+S
+#32208
+Underground~
+The air under here is so light you can hardly
+drain a breath. It is pitch black all around,
+you can not see your hand when you wave it
+around in front of your face.
+~
+0 1 0
+D0
+~
+~
+0 0 32216
+D1
+~
+~
+0 0 32209
+D2
+~
+~
+0 0 32227
+D3
+~
+~
+0 0 32221
+D4
+~
+~
+0 0 32207
+S
+#32209
+Underground~
+The dirt walls slowly crumble apart, undernieth
+the damp dirt is a stone wall. Written on in
+many differant languages.
+~
+0 532737 0
+D1
+~
+~
+0 0 32210
+D3
+~
+~
+0 0 32208
+S
+#32210
+Underground~
+A lonely little girl sits here crying, her
+mom has just left her to starve and die.
+Beware shes not what she seems.
+~
+0 1 0
+D0
+~
+~
+0 0 32211
+D3
+~
+~
+0 0 32209
+S
+#32211
+Underground~
+The walls close in a little, the rankness
+of blood once again fills your nose. Looking
+up you get a drip of blood on your face.
+Yet you can not see a thing.
+~
+0 1 0
+D0
+~
+~
+0 0 32212
+D2
+~
+~
+0 0 32210
+S
+#32212
+Underground~
+The walls have seemed to close on you,
+there is hardly enough room to walk.
+You are ankle high in blood but do not
+see any corpses.
+~
+0 1 0
+D2
+~
+~
+0 0 32211
+D3
+~
+~
+0 0 32214
+S
+#32213
+~
+~
+0 4 0
+S
+#32214
+Underground~
+The red of the blood begins to soak up your
+pants. Now up to your knees, you feel something
+move around your feet.
+~
+0 1 6
+D1
+~
+~
+0 0 32212
+D3
+~
+~
+0 0 32215
+S
+#32215
+Underground~
+Walking out of the blood there is a strange
+heat comming from the celing. Warm enough to
+make you sweat and cry for water.
+~
+0 1073741829 0
+D1
+~
+~
+0 0 32214
+D2
+~
+~
+0 0 32216
+D3
+~
+~
+0 0 32217
+S
+#32216
+Underground~
+The air getting a little thicker and a little
+easier to breath. You find yourself lost among
+puddles of blood and dirt walls.
+~
+0 1 0
+D0
+~
+~
+0 0 32215
+D2
+~
+~
+0 0 32208
+S
+#32217
+Underground~
+Feeling the floor tremble you grab onto
+the dirt walls for protection. The tremble
+brings some sort of fear with it.
+~
+0 1 0
+D1
+~
+~
+0 0 32215
+D3
+~
+~
+0 0 32218
+S
+#32218
+Underground~
+The room is silent, no sounds of screaming,
+the walls stop trembling. Some sort of peace
+runs through your body.
+~
+0 134217729 0
+D1
+~
+~
+0 0 32217
+D2
+~
+~
+0 0 32219
+D5
+~
+~
+0 0 32231
+S
+#32219
+Underground~
+The deathly screams are becoming obnoctious
+your head is soon to implode. The voices
+dont seem to becoming from any particular
+direction.
+~
+0 5 0
+D0
+~
+~
+0 0 32218
+D2
+~
+~
+0 0 32220
+S
+#32220
+Underground~
+The walls are still steaming from a fresh
+coat of blood. A small demon in the center
+of the room can't seem to move.
+~
+0 1 0
+D0
+~
+~
+0 0 32219
+D1
+~
+~
+0 0 32221
+D2
+~
+~
+0 0 32222
+S
+#32221
+Underground~
+The walls are constructed of evil faces, skulls
+outline the top border of the room. Some skulls
+still have the look of terror on there faces
+from when they were first murdered in cold
+blood...
+~
+0 1 0
+D1
+~
+~
+0 0 32208
+D3
+~
+~
+0 0 32220
+S
+#32222
+Underground~
+Shrieks comming from all directions, the high
+pitch screams are to loud to gain a sence of
+direction.
+~
+0 1 0
+D0
+~
+~
+0 0 32220
+D2
+~
+~
+0 0 32223
+S
+#32223
+Underground~
+The floor crumbles under nieth your feet,
+but nothing can take your mind off the
+rotten corpse smell running throught your
+nose.
+~
+0 5 0
+D0
+~
+~
+0 0 32222
+D1
+~
+~
+0 0 32225
+D5
+~
+~
+0 0 32224
+S
+#32224
+Black Market~
+Tabels are lined up in rows to where you
+can not see an end. Some with tents above,
+most of the tables are to far away to peek
+at what is on them.
+~
+0 525440 0
+D4
+~
+~
+0 0 32223
+S
+#32225
+Underground~
+The crunching of corpses under your feet
+hipnotizes you. You mind starts to wander
+and you lose track of where you are and
+what your doing.
+~
+0 1 0
+D1
+~
+~
+0 0 32226
+D3
+~
+~
+0 0 32223
+S
+#32226
+Underground~
+To the west and north lie corpses, north you
+can see some wandering lost souls. There 
+mumbling drives you nuts, what are they saying.
+~
+0 1 0
+D0
+~
+~
+0 0 32227
+D3
+~
+~
+0 0 32225
+S
+#32227
+Underground~
+Souls here are flying around your head in
+a frantic matter. One particular soul is
+standing in the center of the room lost.
+~
+0 1 0
+D0
+~
+~
+0 0 32208
+D2
+~
+~
+0 0 32226
+S
+#32228
+Sacrifice Circle~
+The sand leads you to a bright light. Standing
+in the middle of some sort of ritual room.
+Blood smeared all over the walls and floor.
+There is a certain smell that will never
+leave your nose.
+~
+0 5 0
+D0
+~
+~
+0 0 32205
+D2
+~
+~
+0 0 32204
+S
+#32229
+Wild an Crazy Pets~
+There is an old man behind the counter
+whiping his horse to make it eat.
+He politely askes if he can help you
+make a choice in a new pet.
+~
+0 4101 0
+S
+#32230
+~
+~
+0 4 0
+S
+#32231
+Entrance to the Dungeon~
+Almost like a prison you can here creatures
+screaming at you to let them free. The most
+horrible creatures tonting you.
+~
+0 4 0
+D1
+~
+~
+0 0 32232
+D4
+~
+~
+0 0 32218
+S
+#32232
+Dungeon~
+Almost like a prison you can here creatures
+screaming at you to let them free. The most
+horrible creatures tonting you.
+~
+0 0 0
+D1
+~
+~
+0 0 32233
+D3
+~
+~
+0 0 32231
+S
+#32233
+Typhon's Chambers~
+Within these walls are many wrongfully
+done experiments. Large beasts, great
+barbarians. All born in the test tubes
+of Typhon.
+~
+0 4 0
+D0
+~
+~
+1 0 32235
+D1
+~
+~
+0 0 32236
+D2
+~
+~
+1 0 32234
+D3
+~
+~
+0 0 32232
+S
+#32234
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 4 0
+D0
+~
+~
+1 0 32233
+S
+#32235
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 4 0
+D2
+~
+~
+1 0 32233
+S
+#32236
+Typhon's Chambers~
+Within these walls are many wrongfully
+done experiments. Large beasts, great
+barbarians. All born in the test tubes
+of Typhon.
+~
+0 0 0
+D0
+~
+~
+1 0 32240
+D1
+~
+~
+0 0 32237
+D2
+~
+~
+1 0 32241
+D3
+~
+~
+0 0 32233
+S
+#32237
+Typhon's Chambers~
+Within these walls are many wrongfully
+done experiments. Large beasts, great
+barbarians. All born in the test tubes
+of Typhon.
+~
+0 0 0
+D0
+~
+~
+1 0 32242
+D1
+~
+~
+0 0 32238
+D2
+~
+~
+1 0 32243
+D3
+~
+~
+0 0 32236
+S
+#32238
+Typhon's Chamber~
+You exit the beasts of Typhon's experiments.
+Many deformed monsters lay to the west.
+Down below leads to Death
+~
+0 4 0
+D3
+~
+~
+0 0 32237
+D5
+~
+~
+0 0 32239
+S
+#32239
+Hallway Of Terror~
+Looking along the walls there are pictures
+of the great mass murders of the 19th century.
+Ted Bundy on one side and Charles Manson on
+the other.
+~
+0 0 0
+D4
+~
+~
+0 0 32238
+D5
+~
+~
+0 0 32244
+S
+#32240
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 0 0
+D2
+~
+~
+1 0 32236
+S
+#32241
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 0 0
+D0
+~
+~
+1 0 32236
+S
+#32242
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 0 0
+D2
+~
+~
+1 0 32237
+S
+#32243
+Cage~
+No light shines through from anywhere around.
+Some evil eyes glare at you while you are filled
+with a tingling sensation.
+~
+0 0 0
+D0
+~
+~
+1 0 32237
+S
+#32244
+Grand Entrance~
+You stand here shivering, not sure what to
+expect. Only one pace down Typhon sits apon
+his throne waiting for you.
+~
+0 4 0
+D1
+~
+~
+0 0 32246
+D4
+~
+~
+0 0 32239
+D5
+~
+~
+0 0 32245
+S
+#32245
+Typhon's Throne room~
+Typhon looks down apon you as you enter his lair.
+He gives you a giant stare with all of his one
+hundred heads. Prepare to meet your maker.
+~
+0 0 0
+D4
+~
+~
+0 0 32244
+D5
+~
+~
+1 32200 32247
+S
+#32246
+Guardian's Room~
+Standing here screaming is a tormented soul.
+Ready to slay you in cold blood. She, a
+pretector of Typhon.
+~
+0 0 0
+D3
+~
+~
+0 0 32244
+S
+#32247
+Treasure Room~
+Typhon was once a great thief. He stole items
+from each of the 12 Olympians. Answer the right
+Olympan and gain there most precious item.
+~
+0 1024 0
+D2
+~
+~
+1 32223 32248
+D4
+~
+~
+1 0 32245
+S
+#32248
+An empty room~
+There is nothing here, no exits. The walls
+are padded and are a white color.
+~
+0 4 0
+S
+#32249
+no name~
+~
+0 4 0
+S
+#32250
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 32212 spec_patrolman Load to: A {$L{4ost{x {!S{1oldier{x
+M 32215 spec_breath_acid Load to: A {6F{^earfull{x being
+M 32218 spec_breath_acid Load to: A Slave Creature
+M 32219 spec_nasty Load to: A {RB{reast{x
+S
+
+
+
+#RESETS
+D 0 32206 2 2 The south door of GateWay is closed and locked
+D 0 32207 0 2 The north door of Entrance is closed and locked
+D 0 32233 0 2 The north door of Typhon's Chambers is closed and locked
+D 0 32233 2 2 The south door of Typhon's Chambers is closed and locked
+D 0 32234 0 2 The north door of Cage is closed and locked
+D 0 32235 2 2 The south door of Cage is closed and locked
+D 0 32236 0 2 The north door of Typhon's Chambers is closed and locked
+D 0 32236 2 2 The south door of Typhon's Chambers is closed and locked
+D 0 32237 0 2 The north door of Typhon's Chambers is closed and locked
+D 0 32237 2 2 The south door of Typhon's Chambers is closed and locked
+D 0 32240 2 2 The south door of Cage is closed and locked
+D 0 32241 0 2 The north door of Cage is closed and locked
+D 0 32242 2 2 The south door of Cage is closed and locked
+D 0 32243 0 2 The north door of Cage is closed and locked
+D 0 32245 5 2 The down door of Typhon's Throne room is closed and locked
+D 0 32247 2 1 The south door of Treasure Room is closed
+D 0 32247 4 2 The up door of Treasure Room is closed and locked
+M 0 32202 1 32200 1 *Load A Lion
+E 0 32225 0 3 *A {yl{yion{x tooth is loaded around the neck (1) of A Lion
+M 0 32205 2 32200 2 *Load A dead wandering head of Typhon
+O 0 32212 0 32201 *A tomb and eulogy of typhon loaded to Typhon's Tomb
+M 0 32201 1 32203 1 *Load A {$P{4ale{x white ghostlook
+G 0 32220 0 *A {bp{batch{x of moses is given to A {$P{4ale{x white ghostlook
+G 0 32219 0 *{rring{x of {bwisdom{x is given to A {$P{4ale{x white ghostlook
+G 0 32203 0 *{g^*^*{gw{grist guar{gd{g*^*^{x is given to A {$P{4ale{x white ghostlook
+G 0 32202 0 *A {^s{6keleton{x {6c{^h{6e{^s{6t{x is given to A {$P{4ale{x white ghostlook
+G 0 32201 0 *A {bs{bo{bu{bl{x blade{x is given to A {$P{4ale{x white ghostlook
+M 0 32200 2 32205 2 *Load A Loyal servant of Typhon
+E 0 32227 0 16 *{$b{4reath{x of fryr is loaded wielded of A Loyal servant of Typhon
+E 0 32200 0 17 *A blank key is loaded held in the hands of A Loyal servant of Typhon
+M 0 32210 1 32210 1 *Load A Gigantic Demon
+M 0 32224 1 32214 1 *Load A {RB{rlood{x {RS{rn{Ra{rk{Re{x
+M 0 32203 1 32220 1 *Load A {!W{1ounded {$D{4e{$m{4o{$n{x
+E 0 32204 0 1 *A {!d{1e{!m{1o{!n{x ring is loaded on the left finger of A {!W{1ounded {$D{4e{$m{4o{$n{x
+M 0 32204 1 32224 1 *Load An EviL Apprentice
+G 0 32214 0 *A {$b{4e{$a{4u{$t{4i{$f{4u{$l{x pill is given to An EviL Apprentice
+G 0 32211 0 *A death wand is given to An EviL Apprentice
+G 0 32206 0 *A wand of weaken is given to An EviL Apprentice
+G 0 32205 0 *A {^d{6eadl{^y {^w{$a{^n{$d{x is given to An EviL Apprentice
+O 0 32221 0 32225 *A pile of corpses loaded to Underground
+M 0 32225 1 32227 1 *Load A wandering lost soul
+M 0 32217 1 32233 1 *Load a soldier
+E 0 32216 0 17 *A dungeon key is loaded held in the hands of a soldier
+E 0 32215 0 16 *A *-bayonet-* is loaded wielded of a soldier
+M 0 32214 2 32234 2 *Load A worthless {BC{Creature{x
+M 0 32215 2 32235 2 *Load A {6F{^earfull{x being
+M 0 32212 1 32236 1 *Load A {$L{4ost{x {!S{1oldier{x
+E 0 32216 0 17 *A dungeon key is loaded held in the hands of A {$L{4ost{x {!S{1oldier{x
+E 0 32215 0 16 *A *-bayonet-* is loaded wielded of A {$L{4ost{x {!S{1oldier{x
+M 0 32216 2 32240 2 *Load A Barbarian
+E 0 32217 0 16 *A barbarian axe is loaded wielded of A Barbarian
+M 0 32218 2 32241 2 *Load A Slave Creature
+M 0 32219 2 32242 2 *Load A {RB{reast{x
+E 0 32207 0 16 *A {rb{reast{x claw is loaded wielded of A {RB{reast{x
+M 0 32220 2 32243 2 *Load A {BM{bi{Bn{bi{x {RC{ry{Rc{rl{Ro{rp{Re{rs{x
+M 0 32222 1 32245 1 *Load {BT{by{BP{bh{BO{bn{x
+E 0 32210 0 10 *Arm plates of {bt{by{bp{bh{bo{bn{x is loaded on the arms of {BT{by{BP{bh{BO{bn{x
+E 0 32209 0 6 *{bm{bi{bg{bh{bt{by{x {rh{re{rl{rm{re{rt{x is loaded over the head of {BT{by{BP{bh{BO{bn{x
+E 0 32208 0 16 *A {b+*_-^{bdagger{b^-_*+{x is loaded wielded of {BT{by{BP{bh{BO{bn{x
+M 0 32221 1 32245 1 *Load A {GG{giant{x Peach Tree
+M 0 32213 2 32245 2 *Load A peach
+M 0 32223 1 32246 1 *Load A screaming soul
+M 0 32226 1 32247 1 *Load A Treasure keeper
+E 0 32223 0 17 *A key is loaded held in the hands of A Treasure keeper
+S
+
+
+
+#SHOPS
+32201 0 0 0 0 0 100 100 0 23
+32204 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#32200
+mob oload 1001
+give rose $n
+smile
+~
+#32201
+say Ok You Must Die!!!
+mob echo a little girl turns into a giant Demon right before you eyes
+mob kill $n
+~
+#32202
+mob echo A pale white ghost pulls out a giant table and puts all sorts of junk on it
+mob force $n buy wrist
+mob echo A pale white ghost grins with greed.
+~
+#32203
+mob echo A Beast Growls
+~
+#32204
+mob echo Typhon stands from his giant throne and points at you with 100 stern faces.
+~
+#32205
+say I was the third brother among the Olympians.
+say My wife was named Persephone.
+say I was the god of the dead but not death itself.
+say Who am I?
+~
+#32206
+mob oload 32222
+give helm $n
+say correct
+unlock south
+open south
+mob force $n south
+close south lock south
+~
+#32210
+say why hello
+say would you like to have a rose?
+~
+#32211
+~
+#0
+
+#$

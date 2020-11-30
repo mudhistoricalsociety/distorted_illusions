@@ -1,0 +1,2177 @@
+#AREADATA
+Name Immortal Mansion~
+Builders Unlinked~
+VNUMs 9800 9999
+Continent 0
+Credits [ IMM } Kefka   Immortal Mansion~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#9800
+Mold Man~
+A MoldMan~
+A MoldMan is here.
+~
+The MoldMans moldy body is pulsating, leaving this foul aroma
+that reminds you of something you accidently dropped behind 
+your tiolet years ago, and neglected to clean up...
+~
+human~
+AFGH D 0 -700 0
+104 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EN AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9801
+Mold Master~
+Mold Master~
+The Mold Master is here, overlooking his Mold Underlings...
+~
+~
+human~
+ABG DF H 2 0
+80 0 2d10+150 6d9+100 1d10+3 none
+0 0 0 8
+EFNU 0 0 0
+sit stand male 50
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 8900 100~
+#9815
+small little baker dragon storekeeper~
+{#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x~
+{#A little {@D{3r{1a{!g{3o{@n{# stands here sniffing around.{x
+~
+{x                                        {1,   ,{x  
+{x                                        {1$,  $,     ,{x            
+{x                                        {1"ss.$ss. .s'{x     
+{x                                {1,     .ss$$$$$$$$$$s,{x              
+{x                                {1$. s$$$$$$$$$$$$$$`$$Ss{x       
+{x                                {1"$$$$$$$$$$$$$$$$$$o$$$      ,{x       
+{x                               {1s$$$$$$$$$$$$$$$$$$$$$$$$s,  ,s{x  
+{x                              {1s$$$$$$$$$"$$$$$$""""$$$$$$"$$$$$,{x     
+{x                              {1s$$$$$$$$$$s""$$$$ssssss"$$$$$$$$"{x   
+{x                             {1s$$$$$$$$$$'         `"""ss"$"$s""{x      
+{x                             {1s$$$$$$$$$$,              `"""""$  .s$$s{x
+{x                             {1s$$$$$$$$$$$$s,...               `s$$'  `{x
+{x                         {1`ssss$$$$$$$$$$$$$$$$$$$${#####s.     {1.$$"$.   , s-{x
+{x                           {1`""""$$$$$$$$$$$$$$$$$$$${######{1$$$$$$"     $.$'{x
+{x                                {1"$$$$$$$$$$$$$$$$$$$$${#####s""     {1.$$$|{x
+{x                                   {1"$$$$$$$$$$$$$$$$$$$$$$$${###s    {1.$$" ${x 
+{x                                   {1$$""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"   `{x
+{x                                  {1$$"  "$"$$$$$$$$$$$$$$$$$$$$S""""'{x 
+{x                             {1,   ,"     '  $$$$$$$$$$$$$$$${#####s{x  
+{x                             {1$.          .s$$$$$$$$$$$$$$$$${#####"{x
+{x                 {1,           "$s.   ..ssS$$$$$$$$$$$$$$$$$$${#####"{x
+{x                 {1$           .$$$S$$$$$$$$$$$$$$$$$$$$$$$${######"{x
+{x                 {1Ss     ..sS$$$$$$$$$$$$$$$$$$$$$$$$$$${#######""{x
+{x                  {1"$$sS$$$$$$$$$$$$$$$$$$$$$$$$$$${#########"{x
+{x           {1,      s$$$$$$$$$$$$$$$$$$$$$$$${##########""'{x
+{x           {1$    s$$$$$$$$$$$$$$$$$$$$${########""'      {1s'         ,{x
+{x           {1$$..$$$$$$$$$$$$$$$$$${#######"'       {1....,$$....    ,${x
+{x            {1"$$$$$$$$$$$$$$${#######"' ,     {1.sS$$$$$$$$$$$$$$$$s$${x
+{x              {1$$$$$$$$$$$${######"     {1$, .s$$$$$$$$$$$$$$$$$$$$$$$$s.{x
+{x   {!)          {1$$$$$$$$$$${######'      {1`$$$$$$$$${############{1$$$$$$$$$$$.{x
+{x  {!((          {1$$$$$$$$$$${######       {1$$$$$$$${####"       "####{1$$$$$$$$$${x 
+{x  {!) \         {1$$$$$$$$$$$${#####.     {1$$$$$${####"             "###{1$$$$$$$$$   s'{x
+{x {!(   )        {1$$$$$$$$$$$$${#####.   {1$$$$${####"                ####{1$$$$$$$$s$$'{x
+{x {!)  ( (       {1$$"$$$$$$$$$$${######.{1$$$$${####'                .###{1$$$$$$$$$$"{x
+{x {!(  )  )   {1_,$"   $$$$$$$$$$$${#######.{1$${###'                .###{1$$$$$$$$$${x
+{x {!) (  ( \.         {1"$$$$$$$$$$$$${########,,,.          ..####{1$$$$$$$$$$$"{x
+{x{!(   ){1$ {!)  )        {1,$$$$$$$$$$$$$$$$$${#####################{1$$$$$$$$$$$"{x        
+{x{!(   ({1$$  {!( \     {1_sS"  `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$S$$,{x       
+{x {!)  ){1$$s {!) )  {1.      .   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"'  `$${x   
+{x  {!(   {1$$$Ss{!/  {1.$,    .$,,s$$$$$${###{1S$$$$$$$$$$$$$$$$$$$$$$$$S""   ' {x
+{x    {!\)_{1$$$$$$$$$$$$$$$$$$$$$$${###"  {1$$        `$$.        `$$.{x
+{x        {1`"S$$$$$$$$$$$$$$$$${##"      {1$          `$          `${x
+{x            {1`"""""""""""""'        '             '           '{x
+~
+dragon~
+AB JT 0 -1000 0
+108 0 1d1+49999 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BEH FI
+stand stand either 0
+AHZ ACDEFGHIJKPQUVX small unknown
+#9941
+Fourplay~
+Fourplay~
+A Four Armed Man Stands Here.
+~
+The Guardian of The Goddess Lina's Room, Fourplay fanatically
+guards her room with all of his resources, which include four arms, and some
+mean looking swords.  
+~
+human~
+AG Vac N 1000 0
+179 489 40d40+50000 80d80+20 100d100+100 none
+0 0 0 0
+0 A 0 0
+stand stand male 0
+AJ ABCDEFGJKLMUVY giant unknown
+F for HMV
+F par HI
+#0
+
+
+
+#OBJECTS
+#9800
+swirling pool~
+a swirling pool~
+A swirling pool lies here in the ground. Through it you can see Midgard.~
+slime~
+portal AGI 0
+0 0 A BCGHIJL 0
+0 0 0 P
+#9801
+beautiful green fountain~
+a beautiful green fountain~
+A beautiful fountain is here, spewing forth a green liquid.~
+metal~
+fountain BGI 0
+1 1 'elvish wine' 0 0
+0 0 0 P
+#9802
+big flashing jukebox~
+a big jukebox~
+A big jukebox sits in the corner of the room.~
+wood~
+jukebox 0 0
+0 0 0 0 0
+0 0 0 P
+#9803
+clean white toilet~
+the clean white toilet~
+A sparkling clean white toilet is molded into the floor.~
+porcelain~
+portal 0 0
+0 0 A BFIKN 0
+0 0 0 P
+#9804
+generic quest item~
+gENERIC QUEST ITEM! FLAG NOLOCATE! (NOWWWWW)~
+A general quest item.~
+unknown~
+trash ABGOTWY A
+0 0 0 0 0
+0 0 100 P
+#9805
+kefkas blade throne~
+{$K{8e{$f{8k{$a{x's black throne~
+A huge black throne is here, towering over you.~
+bone~
+furniture A 0
+A CDEGHIK BEHKN CFG CFG
+0 0 0 P
+E
+forbidding dark black throne~
+The throne seems to be made of a polished black substance similar to
+blackened bone.
+~
+#9806
+odin's blessing~
+a tattoo labelled '{&O{7di{&n{x's {#blessing{x'~
+A tattoo with the blessing of Odin is here.~
+etherealness~
+armor ABIMOSTWYd AV
+CE BCDE ADE BCDE 0
+15 0 500000 P
+#9807
+hel's guard~
+a tattoo labelled {!H{1e{!l{x's {8guard{x~
+A tattoo with the strength of Hel is here.~
+etherealness~
+armor ABIMOSTWYd AV
+CE BCDE ADE BCDE 0
+15 0 500000 P
+#9808
+beautiful green fountain~
+a beautiful green fountain~
+A beautiful fountain is here, spewing forth a green liquid.~
+metal~
+fountain BGI 0
+1 1 'absinthe' 0 0
+0 0 0 P
+#9812
+divine shielding pill~
+a pill of {&d{7i{&v{7i{&n{7e {^s{6h{^i{6e{^l{6d{^i{6n{^g{0~
+A pill of {&d{7i{&v{7i{&n{7e {^s{6h{^i{6e{^l{6d{^i{6n{^g{0 lies here.~
+unknown~
+pill AB A
+110 'iceshield' 'fireshield' 'shockshield' 'shield'
+0 0 1 P
+#9813
+instant spellup pill two 2~
+an {!i{#n{!s{#t{!a{#n{!t{0 spellup pill {@#2{0~
+An {!i{#n{!s{#t{!a{#n{!t{0 spellup pill lies here.~
+unknown~
+pill AB A
+105 'giant strength' 'stone skin' 'armor' 'fly'
+0 0 1 P
+#9814
+instant spellup pill one 1~
+an {!i{#n{!s{#t{!a{#n{!t{0 spellup pill {$#1{0~
+An {!i{#n{!s{#t{!a{#n{!t{0 spellup pill lies here.~
+unknown~
+pill AB A
+105 'steel flesh' 'haste' 'frenzy' 'bless'
+0 0 1 P
+#9815
+throne hell~
+the {8Throne{0 of {1Hell{0~
+An ever WrItHiNg mass is here.~
+Tormented souls~
+furniture 0 0
+B ABCDEFGHIJKLMNOPQRSTUVWXYZabcde EHK ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+0 0 0 P
+#9816
+lucifer's coke fountain~
+a black steel coke fountain~
+A jagged piece of black metal juts up from the ground here.~
+Black steel~
+fountain 0 0
+2147483647 2147483647 'coke' 0 0
+0 0 0 P
+#9817
+pill scooby snack~
+a {@S{5c{@o{5o{@b{5y{x Snack~
+A {@S{5c{@o{5o{@b{5y{x Snack has been dropped here.~
+jelly~
+pill AGHRSY A
+1 'quest pill' 'feeble mind' 'reserved' 'reserved'
+0 1 1 P
+#9819
+Vodka~
+a bottle of {!V{8odka{x~
+A bottle of {!V{8odka{ is sitting here.~
+unknown~
+drink 0 A
+840 840 'vodka' 0 0
+105 5 50000 P
+#9820
+desk made of clouds~
+desk Made Of Clouds~
+A desk made of clouds hovers here~
+unknown~
+furniture ORT 0
+0 GKLMP BENOP EHI BDEHI
+102 0 0 P
+#9821
+pokemon beanbag~
+a {#P{!o{#k{!e{#m{!o{#n {!B{#e{!a{#n{!B{#a{!g{x.~
+A large {#P{!o{#k{!e{#m{!o{#n {!B{#e{!a{#n{!B{#a{!g{x sits here.~
+choda~
+furniture R 0
+A EGIJOP F CFG CFG
+102 0 0 P
+#9823
+Pool table~
+a {@P{2oo{@l{x table.~
+A {@P{2oo{@l{x table rests here.~
+unknown~
+furniture 0 0
+C DHIJM BEHKN CEFGHI CEFGHI
+105 25000 10000 P
+#9824
+A long couch~
+a long comfortable {%C{$ouch{x~
+A long comfortable {%C{$ouch{x is sitting here.~
+unknown~
+furniture 0 0
+BD DHIJM BEHKN FIJ FIJ
+105 500 500 P
+#9825
+aesir token~
+an {@A{#e{&s{#i{@r{x token~
+an {@A{#e{&s{#i{@r{x token is lying here.~
+paper~
+trash ABRSYd A
+0 0 0 0 0
+0 0 0 P
+A
+14 100
+#9826
+vinir token~
+a {6V{^i{&n{^i{6r{x token~
+a {6V{^i{&n{^i{6r{x token is lying here.~
+paper~
+trash AB A
+0 0 0 0 0
+0 0 0 P
+#9827
+medallion odin~
+a medallion of {&O{7di{&n{x~
+a medallion of {&O{7di{&n{x is lying here.~
+steel~
+trash AB A
+0 0 0 0 0
+0 0 0 P
+#9828
+medallion thor~
+a medallion of {#T{3ho{#r{x~
+a medallion of {#T{3ho{#r{x is lying here.~
+steel~
+trash AB A
+0 0 0 0 0
+0 0 0 P
+#9829
+medallion hel~
+a medallion of {!H{1el{x~
+a medallion of {!H{1el{x is lying here.~
+steel~
+trash AB A
+0 0 0 0 0
+0 0 0 P
+#9835
+vex plushie~
+a {YV{yex {BP{blushie{x~
+A Vex Plushie is here.. looking plush.~
+paper~
+furniture 0 AO
+BD EIJKN E 0 0
+102 0 0 P
+#9850
+bottomless can of dr pepper~
+A bottomless can of {3Dr. {3Pepper{0~
+A big can sits here.~
+electrum~
+drink BORTY A
+-1 -1 'dr pepper' 0 0
+0 10 50000 P
+#9851
+portable healing pod~
+a portable {#healing{0 pod~
+A oddly shaped pod is sitting here.
+~
+electrum~
+furniture ABGIOR AB
+BD EIJKN FIL DEFGIK DEFGIK
+95 10 0 P
+A
+26 25
+A
+28 20
+#9852
+guidance of fenir~
+{7G{@ui{#da{7n{@ce {#O{7f {@Fe{3n{7ri{@r{0~
+Here Hovers A Shimering Image of Light~
+electrum~
+light ARSTY AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 10 10500 P
+A
+9 15
+A
+13 150
+A
+12 150
+A
+14 150
+A
+18 15
+A
+19 15
+A
+17 -15
+#9853
+freya's mask of true sight~
+{GF{Yr{we{Gy{Ya'{ws{X {YM{Ga{ws{Gk {YO{wf {WT{Gr{Yu{We{x {GS{Yi{Wg{Yh{Wt{x~
+A mask shimmering with beauty lies on the ground.~
+electrum~
+armor AGY AR
+CE CE CE CE 0
+101 0 10000 P
+A
+20 -2
+A
+13 100
+A
+19 5
+A
+18 15
+F
+A 0 101 L
+F
+A 0 101 J
+F
+A 0 101 E
+F
+A 0 101 F
+F
+A 0 0 F
+F
+A 0 0 D
+F
+A 0 0 J
+#9861
+A fountain of Dr. Pepper~
+a fountain of {!Dr. {!P{8epper{x.~
+A fountain of {!Dr. {!P{8epper{x is gurgling here.~
+unknown~
+fountain 0 0
+-1 -1 'dr pepper' 0 0
+0 1 1 P
+#9868
+studs earrings aesir~
+{GS{Yt{Wu{Yd{Gs {Wof the {GA{Ye{Ws{Yi{Gr{x~
+{GS{Yt{Wu{Yd{Gs {Wof the {GA{Ye{Ws{Yi{Gr{x lie here.~
+unknown~
+armor ABGIST AS
+CE CE CE CE 0
+101 0 20000 P
+A
+9 10
+A
+28 5
+A
+20 -5
+A
+14 50
+A
+12 150
+A
+13 150
+A
+18 15
+A
+19 15
+#9869
+light insight aesir gods~
+{GI{Yn{Gs{Wi{Gg{Yh{Gt {Wof the {YG{God{Ys{x~
+{GI{Yn{Gs{Wi{Gg{Yh{Gt {Wof the {YG{God{Ys{x shines brightly.~
+unknown~
+light ABGIORSTY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 0 20000 P
+A
+20 -3
+A
+9 5
+A
+14 50
+A
+12 100
+A
+13 150
+A
+17 -15
+A
+19 15
+A
+18 15
+F
+A 0 0 U
+F
+A 0 0 Z
+F
+A 0 0 L
+F
+A 0 0 F
+F
+A 0 0 D
+#9870
+anklet divine grace aesir~
+an {GA{Yn{Wkl{Ye{Gt {Wof {GD{Wi{Gv{Yin{We {YGr{Ga{Wc{Ge{x~
+An {GA{Yn{Wkl{Ye{Gt {Wof {GD{Wi{Gv{Yin{We {YGr{Ga{Wc{Ge{x sits in the dirt.~
+unknown~
+armor ABGIST AT
+CE CE CE CE 0
+101 0 20000 P
+F
+S 20 -1 N
+F
+A 2 4 V
+#9871
+cape aesir~
+a cape of the {GA{Ye{Ws{Yi{Gr{x~
+A cape of the {GA{Ye{Ws{Yi{Gr{x lies in the dirt.~
+unknown~
+armor ABGIORSTY AC
+ADE ADE ADE ADE 0
+101 0 20000 P
+A
+17 -15
+A
+19 15
+A
+18 15
+F
+A 0 0 U
+F
+A 0 0 Z
+F
+A 0 0 L
+F
+A 0 0 F
+F
+A 0 0 D
+#9872
+aesir ring~
+a ring of the {GA{Ye{Ws{Yi{Gr{x~
+Isis~
+unknown~
+armor ABGIORSTY AB
+CE CE CE CE 0
+101 0 20000 P
+A
+4 2
+A
+3 2
+A
+9 10
+A
+20 -5
+A
+14 50
+A
+12 150
+A
+13 150
+A
+18 20
+A
+19 20
+#9873
+aesir sword wrath vahalla~
+{#t{@h{#e {@W{#r{&a{#t{@h {&of {@Va{#h{&a{#l{@la{x~
+A sword of the {@A{#e{&s{#i{@r {0is lying here.~
+diamond~
+weapon AGORSTY AN
+sword 11 20 wrath AEG
+101 5 25000 P
+A
+9 5
+A
+20 -1
+A
+18 10
+A
+19 15
+#9874
+Falx gods aesir dagger~
+a {#F{@al{&x{x of {#L{@o{&ki{x~
+A dagger of the {@A{#e{&s{#i{@r{x lies here.~
+diamond~
+weapon AGORSTY AN
+dagger 10 22 stab BEGHN
+101 0 25000 P
+A
+9 5
+A
+19 11
+A
+18 5
+#9875
+aesir mace maul~
+a {@M{#au{@l {&of {#t{@h{#e {@G{&o{#d{&s{x~
+a mace of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+weapon AGORSTY AN
+mace 10 22 crush EHJ
+101 0 25000 P
+A
+9 5
+A
+18 7
+A
+19 20
+#9876
+aesir flail thor hammer~
+{GT{Yh{Wo{Yr{G's {WH{Ga{Ymm{Ge{Wr{x~
+a flail of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+weapon AGORSTY AN
+flail 23 9 crush ACEG
+101 0 25000 P
+A
+9 5
+A
+17 -10
+A
+19 10
+#9877
+aesir ranseur~
+a ranseur of the {@A{#e{&s{#i{@r{x~
+a ranseur of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+weapon AGORSTY AN
+polearm 10 23 charge BEFG
+101 0 25000 P
+A
+18 -15
+A
+9 5
+A
+19 23
+#9878
+aesir staff~
+a staff of the {@A{#e{&s{#i{@r{x~
+a staff of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+weapon AGORSTY AN
+staff 12 18 magic ACFJ
+101 0 25000 P
+A
+9 5
+A
+17 -50
+A
+28 12
+#9879
+aesir battle axe~
+a battle axe of the {@A{#e{&s{#i{@r{x~
+a battle axe of the {@A{#e{&s{#i{@r{x is here.~
+diamond~
+weapon AGORSTY AN
+axe 21 10 chop CEN
+101 24 25000 P
+A
+9 5
+A
+19 20
+#9880
+aesir whip lash odin~
+{&t{@h{&e {@L{#as{@h {&of {@O{#d{&i{#n{x~
+a whip of the {@A{#e{&s{#i{@r{x is here.~
+diamond~
+weapon ABGORSTY AN
+whip 10 22 whip ACEG
+101 0 25000 P
+A
+9 5
+A
+18 10
+A
+19 10
+A
+17 -20
+#9881
+aesir plate mail odin protection~
+{@O{#d{&i{#n{@'s {&Pr{#o{@te{#c{@ti{&on{x~
+Plate mail of the Aesir is lying here.~
+diamond~
+armor ABGORSTY AD
+ABCEF ABCEF ABCEF ABCEF 0
+101 0 20000 P
+A
+3 2
+A
+5 2
+A
+13 150
+A
+12 150
+A
+14 150
+A
+20 -7
+A
+19 15
+A
+18 10
+A
+9 10
+#9882
+aesir helmet~
+a helmet of the {@A{#e{&s{#i{@r{x~
+a helmet of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGORSTY AE
+ACDF ACDF ACDF ACDF 0
+101 0 20000 P
+A
+20 -3
+A
+13 100
+A
+4 2
+A
+3 2
+A
+9 15
+A
+12 100
+A
+18 17
+A
+19 17
+#9883
+aesir boots~
+boots of the {@A{#e{&s{#i{@r{x~
+boots of the {@A{#e{&s{#i{@r{x are lying here.~
+diamond~
+armor ABGORSTY AG
+DF DF DF DF 0
+101 0 20000 P
+A
+13 150
+A
+12 100
+A
+18 20
+A
+19 20
+A
+20 -5
+A
+2 3
+A
+9 20
+#9884
+aesir gauntlets titan strength~
+{&Ga{#u{@ntl{#e{&ts {#of {@T{#i{&t{#a{@n {#st{&r{@en{&g{#th{x~
+gauntlets of the {@A{#e{&s{#i{@r{x are lying here.~
+diamond~
+armor ABGORSTY AH
+ABDE ABDE ABDE ABDE 0
+101 0 20000 P
+A
+9 12
+A
+1 3
+A
+13 140
+A
+18 25
+A
+19 25
+A
+20 -3
+A
+12 50
+A
+14 150
+#9885
+aesir armplates~
+armplates of the {@A{#e{&s{#i{@r{x~
+armplates of the {@A{#e{&s{#i{@r{x are lying here.~
+diamond~
+armor ABGORSTY AI
+BCDE BCDE BCDE BCDE 0
+101 0 20000 P
+A
+26 5
+A
+4 3
+A
+3 2
+A
+12 100
+A
+18 15
+A
+2 2
+A
+1 1
+A
+20 -4
+A
+13 100
+A
+19 17
+#9886
+aesir shield crest vahalla~
+{#t{@h{#e {@C{#r{&e{#s{@t {&of {@Va{#h{&a{#l{@la{x~
+a shield of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGORSTY AJ
+ABCEF ABCEF ABCEF AG 0
+101 0 20000 P
+A
+18 10
+A
+3 1
+A
+1 1
+A
+2 1
+A
+4 1
+A
+5 1
+A
+19 10
+A
+9 3
+A
+13 100
+A
+20 -3
+A
+28 5
+A
+26 5
+#9887
+cloak gods aesir~
+{@C{#l{&o{#a{@k {&of {#t{@h{#e {@G{&o{#d{&s{x~
+a cape of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGORSTY AK
+ABF ABF ABF ABF 0
+101 0 20000 P
+A
+26 3
+A
+9 10
+A
+18 10
+A
+19 20
+A
+20 -2
+A
+17 -25
+A
+13 175
+A
+12 100
+#9888
+aesir bracer~
+a bracer of the {@A{#e{&s{#i{@r{x~
+a bracer of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGORSTY AM
+ABDE ABDE ABDE ABDE 0
+101 0 20000 P
+A
+12 50
+A
+19 20
+A
+9 3
+A
+26 5
+A
+28 3
+A
+1 1
+A
+20 -3
+A
+4 1
+A
+18 15
+A
+13 125
+#9889
+aesir girth girdle odin might~
+{&a {@G{#i{&rd{#l{@e {#of {@O{#d{&i{#n{@'s {&M{@i{#g{@h{&t{x~
+a girth of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGORSTY AL
+DF DF DF DF 0
+101 0 20000 P
+A
+9 5
+A
+20 -7
+A
+5 3
+A
+13 200
+A
+3 1
+A
+1 2
+A
+18 15
+A
+19 15
+#9890
+aesir mask vision loki~
+{#L{@o{&ki{@'{#s {&V{#i{@si{#o{&n{x~
+{x~
+diamond~
+armor ABGORSTY AR
+DF DF DF DF 0
+101 0 20000 P
+A
+9 10
+A
+18 25
+A
+20 -3
+A
+2 1
+A
+3 1
+F
+A 0 0 J
+A
+28 5
+A
+26 5
+A
+13 150
+A
+19 10
+F
+A 0 0 F
+F
+A 0 0 E
+F
+A 0 0 D
+F
+A 0 0 L
+#9891
+aesir legplates leggings thor~
+{@L{#eg{&gi{#ng{@s {&of {@T{#h{&o{#r{x~
+legplates of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+armor ABGIORSTY AF
+ABF ABF ABF ABF 0
+101 0 20000 P
+A
+9 10
+A
+19 18
+A
+18 18
+A
+14 100
+A
+1 2
+A
+2 3
+A
+13 210
+A
+20 -2
+#9904
+great sword aesir~
+great sword of the {@A{#e{&s{#i{@r{x~
+A great sword of the {@A{#e{&s{#i{@r{x is lying here.~
+diamond~
+weapon AGIORTY AN
+sword 33 6 cleave AEF
+101 0 25000 P
+A
+19 15
+#9905
+a Aesir pack~
+a pack of the {GA{Ye{Ws{Yi{Gr{x~
+A pack of the {@A{#e{&s{#i{@r{0~
+Nylon~
+container AGRTY AX
+450 A 0 200 15
+75 5 35000 P
+A
+18 5
+A
+26 5
+A
+19 10
+A
+17 -5
+#9906
+vinir bracer vbracer~
+a Bracer of the {cV{Ci{Wn{Ci{cr{x~
+A bracer bearing the mark of the {cV{Ci{Wn{Ci{cr{x lies here.~
+unknown~
+armor ABRSTY AM
+ABCE ABCE ABCE ABCE 0
+70 1 100000 P
+A
+19 15
+A
+5 1
+A
+18 15
+#9907
+legplates sapphire vlegplates~
+{cSa{Cp{Wph{Ci{cre {wLe{Wg{Cpla{Wt{wes{x~
+Legplates crafted from sapphires lie here, the mark of the {cV{Ci{Wn{Ci{cr{x upon them.~
+unknown~
+armor ABRSTY AF
+BDE BDE BDE BDE 0
+70 3 100000 P
+A
+2 2
+A
+19 16
+A
+18 10
+A
+13 100
+#9908
+armguards vinir varmplates~
+{xArmguards of the {cV{Ci{Wn{Ci{cr{x~
+Armguards with the seal of the {cV{Ci{Wn{Ci{cr{x lie here.~
+unknown~
+armor ABRSTY AI
+CDE CDE CDE CDE 0
+70 3 100000 P
+A
+3 1
+A
+13 75
+A
+19 12
+A
+18 7
+A
+20 -2
+#9909
+gloves vinir studded vgauntlets~
+{xStudded Gloves of the {cV{Ci{Wn{Ci{cr{x~
+A pair of studded gloves lie her, the mark of the {cV{Ci{Wn{Ci{cr{x on their backs.~
+unknown~
+armor ABRSTY AH
+ADE ADE ADE ADE 0
+70 3 100000 P
+A
+1 -2
+A
+12 200
+A
+13 200
+A
+19 20
+#9910
+tower shield vinir vshield~
+{CT{co{ww{We{Cr S{chi{Ce{cl{wd o{Wf t{Ch{ce {cV{Ci{Wn{Ci{cr{x~
+A huge tower shield belonging to the {cV{Ci{Wn{Ci{cr{x is propped up here.~
+unknown~
+armor ABRSTY AJ
+ABDF ABDF ABDF ABDF 0
+70 3 100000 P
+A
+19 6
+A
+17 -15
+A
+26 5
+#9911
+vinir boots vboots~
+{cV{Ci{Wn{Ci{cr {wB{Wo{Co{Wt{ws{x~
+A pair of boots with the {cV{Ci{Wn{Ci{cr{x mark lie here.~
+unknown~
+armor ABRSTY AG
+ABF ABF ABF ABF 0
+70 3 100000 P
+A
+18 10
+A
+19 15
+A
+13 100
+A
+12 50
+A
+14 150
+A
+20 -2
+A
+9 10
+A
+2 1
+#9912
+protection vinir vplatemail~
+{cPr{Cot{Wec{Cti{con o{wf t{ch{we V{Wi{Cn{Wi{wr{x~
+The Protection of the {cV{Ci{Wn{Ci{cr{x lies on the ground~
+unknown~
+armor ABRSTY AD
+ACDF ACDF ACDF ACDF 0
+101 6 100000 P
+A
+18 12
+A
+19 12
+A
+13 100
+A
+20 -3
+A
+12 100
+A
+14 100
+A
+5 1
+A
+3 1
+A
+9 15
+#9913
+helm vinir vhelm~
+{cT{Ch{ce V{Ci{Wn{Ci{cr {CH{Wel{Cm{x~
+The Helm of the {cV{Ci{Wn{Ci{cr{x lies here.~
+unknown~
+armor ABRSTY AE
+ABF ABF ABF ABF 0
+101 6 100000 P
+A
+13 75
+A
+12 150
+A
+20 -2
+A
+9 15
+A
+17 -5
+A
+4 1
+A
+3 1
+A
+18 12
+A
+19 12
+#9914
+shroud vinir vcape vcloak~
+{CThe {cV{Ci{Wn{Ci{cr {cS{Ch{Wr{Co{cu{Cd{x~
+The shroud of the {cV{Ci{Wn{Ci{cr{x lies in a pile on the floor.~
+unknown~
+armor ABRSTY AK
+BCDE BCDE BCDE BCDE 0
+70 6 100000 P
+A
+2 2
+A
+3 2
+A
+13 75
+A
+19 10
+#9915
+vinir veil thin blue vmask~
+{CV{ce{wi{cl o{Cf t{ch{Ce {cV{Ci{Wn{Ci{cr{x~
+A thin blue veil of the {cV{Ci{Wn{Ci{cr{x lies here.~
+unknown~
+armor ABRSTY AR
+BCDE BCDE BCDE BCDE 0
+70 6 100000 P
+A
+13 135
+A
+19 10
+A
+26 5
+#9916
+silver girth vinir vgirth~
+{wS{Wi{Clv{We{wr G{ci{wr{ct{wh o{Wf {Cth{ce {cV{Ci{Wn{Ci{cr{x~
+A beautiful silver girth with the stamp of the {cV{Ci{Wn{Ci{cr{x has been discarded here.~
+unknown~
+armor ABRSTY AL
+BCDE BCDE BCDE BCDE 0
+70 6 100000 P
+A
+1 5
+A
+18 5
+A
+19 10
+#9917
+great claymore vsword vinir~
+{CGr{cea{Ct C{Wla{wym{cor{Ce o{cf t{Che {cV{Ci{Wn{Ci{cr{x{x~
+An incredibly large claymore lies here, with the mark of the {cV{Ci{Wn{Ci{cr{x on the pommel.~
+unknown~
+weapon ABRSTY AN
+sword 9 24 cleave EF
+91 6 100000 P
+A
+19 9
+#9918
+warhammer vinir hammer vmace~
+{CThe {cV{Ci{Wn{Ci{cr {CWar{cha{wmm{We{Cr{x~
+A warhammer with the {cV{Ci{Wn{Ci{cr{x brand lies on the ground.~
+unknown~
+weapon ABRSTY AN
+mace 9 23 smash EFH
+91 6 100000 P
+A
+19 15
+#9919
+vinir hand axe vaxe~
+{CH{can{wd A{Wx{we o{cf t{Ch{ce {cV{Ci{Wn{Ci{cr{x~
+A hand axe belonging to the {cV{Ci{Wn{Ci{cr{x is here.~
+unknown~
+weapon ABRSTY AN
+axe 30 6 cleave EH
+91 6 100000 P
+A
+19 15
+#9920
+poleaxe vinir vpolearm~
+{CA B{cl{Cu{ce {wS{Wt{Ce{We{wl P{Wo{Cl{ce{Ca{Wx{we{x~
+A hand axe belonging to the {cV{Ci{Wn{Ci{cr{x is here.~
+unknown~
+weapon ABRSTY AN
+polearm 28 7 cleave EF
+91 6 100000 P
+A
+13 50
+#9921
+jagged knife vinir vdagger~
+{CA J{ca{wg{Wg{we{cd {CK{cni{Cf{ce{x~
+A long, jagged knife belonging to the {cV{Ci{Wn{Ci{cr{x lies here.~
+unknown~
+weapon ABRSTY AN
+dagger 36 5 stab AE
+91 6 100000 P
+A
+18 10
+#9922
+morning star vinir vflail~
+{CMo{crn{win{cg S{Ct{Wa{Cr o{cf t{wh{ce {cV{Ci{Wn{Ci{cr{x~
+A large morning star with the {cV{Ci{Wn{Ci{cr{x seal has been forgotten here.~
+unknown~
+weapon ABRSTY AN
+flail 12 17 smash E
+91 6 100000 P
+A
+19 5
+#9923
+bullwhip vwhip blue long vinir~
+{CA L{con{wg B{Wu{Cl{clw{Chi{cp{x~
+A 15 foot blue bullwhip with the seal of the {cV{Ci{Wn{Ci{cr{x on the handle is coiled up on the ground.~
+unknown~
+weapon ABRSTY AN
+whip 19 10 sting ABG
+91 6 100000 P
+#9924
+pike vinir long vspear~
+{CP{cik{we o{Wf t{wh{ce {cV{Ci{Wn{Ci{cr{x~
+A 15 foot blue bullwhip with the seal of the {cV{Ci{Wn{Ci{cr{x on the handle is coiled up on the ground.~
+unknown~
+weapon ABRSTY AN
+staff 16 13 thrust F
+91 6 100000 P
+A
+20 -5
+#9925
+vinir power vexotic~
+{CT{che {CP{co{wwe{Wr o{wf t{ch{Ce {cV{Ci{Wn{Ci{cr{x~
+The absolute power of the {cV{Ci{Wn{Ci{cr{x writhes on the ground~
+unknown~
+weapon ABRSTY AN
+exotic 11 19 fury ABG
+91 6 100000 P
+A
+19 10
+#9926
+philosopher stone~
+{YT{Ch{Ye Ph{Ci{Yl{Co{cs{yop{Yh{Ce{Yr's S{yt{Co{yn{Ye{x~
+A stone of incredible power has been left here.~
+carmot~
+treasure GSTY AO
+0 0 0 0 0
+101 5 50000 P
+#9927
+Flag Token~
+{GF{wla{Gg {YT{yo{Wk{ye{Yn{x~
+A flag token lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#9928
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#9940
+tell~
+a '{6tell{x'~
+A '{6tell{x' seems to have been carelessly misplalce here.~
+nothing~
+treasure ABG AO
+0 0 0 0 0
+1 1 1 P
+#9942
+Huge Goose-down couch~
+a Huge, VERY comfortable couch.~
+Lina's Couch: Portable, comfortable, and SOFT!~
+Goose-Down~
+furniture ABGIKY 0
+BD FGHIJMPS EHKO BCDFGHJ BCDFGHJ
+101 -1 17500000 P
+#9950
+quest fire blood stone~
+{7a {!B{1lood {7S{&t{8o{&n{7e{x~
+A blood red gem with a pulsating aura lies on the ground.~
+blood~
+warp_stone AGT AO
+0 0 0 0 0
+1 10 5000 P
+A
+14 20
+A
+12 20
+A
+13 20
+A
+18 5
+A
+19 5
+E
+fire opal gem~
+The blood stone is a nicely-polished round gem, with orange, gold, and red
+mixed together like the heart of flame.  You can almost feel the hellfire
+from whence it came.
+~
+#9951
+golden quest token~
+{#G{3olde{#n {2Quest {3Token{x~
+{&An {#ancient {2token {&emminating {6mythilogical {*entities {&lies here lost.{x~
+unknown~
+treasure BCFGIYd AO
+0 0 0 0 0
+1 1 0 P
+A
+19 20
+A
+17 100
+#9952
+Gift Of Haily~
+{!@{2 {&Haileys {7Birthday {#Gift{0 {!@{0~
+{!@{2 {&Haileys {7Birthday {#Gift{0 {!@{0~
+wood~
+weapon AIKR ABK
+exotic 0 0 none 0
+101 1 1000 P
+#9953
+Flying Kettle~
+{8B{7a{8b{7a {3Y{#a{3g{#a{3s {8F{7l{8y{7i{8n{7g {8K{7e{7t{8t{7l{8e{0~
+{8B{7a{8b{7a {3Y{#a{3g{#a{3s {8F{7l{8y{7i{8n{7g {8K{7e{7t{8t{7l{8e{0~
+iron~
+container ABETYad AQ
+600 AB 0 400 30
+101 5 0 P
+#9954
+Oath Of Jotunheim~
+oath Of Jotunheim~
+Oath of Jotunheim~
+Adamantium~
+weapon BILRTYdf ANO
+axe 909 777 none J
+101 15 45000 P
+A
+17 -1000
+A
+13 1000
+#9955
+Falx gods aesir dagger~
+a {#F{@al{&x{x of {#L{@o{&ki{x~
+A dagger of the {@A{#e{&s{#i{@r{x lies here.~
+diamond~
+weapon AGORSTY AN
+dagger 10 22 stab BEGH
+101 3 25000 P
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMS
+#9800
+The Immortal Mansion~
+You stand in the heart of the immortal mansion.  The room is decorated
+heavily with rich tapestries. A huge statue is molded into the ground
+here.  It represents the supreme gods.  The immortal rooms stretch to the
+east.  
+~
+0 32780 0
+D0
+~
+~
+0 0 9805
+D1
+The Immortal Hallway Beckons You
+~
+~
+0 -1 9801
+D3
+~
+~
+0 0 9856
+S
+#9801
+The Lesser Gods~
+You stand in the hallway of the lesser gods. There is a large room to 
+the west.The hallway continues to the east.
+~
+0 33804 0
+D1
+The Hallway of the Greater Gods.
+~
+~
+0 -1 9803
+D3
+The Heart of the Mansion.
+~
+~
+0 -1 9800
+S
+#9802
+NONE~
+Under renovations.....
+~
+0 33804 0
+D5
+The Hallway of the High Gods.
+~
+door Gavorkian~
+1 -1 9809
+S
+#9803
+The Hallway of the Greater Gods.~
+This hallway is where the rooms of the greater gods are. The hallway of
+thelesser gods is to the west, and the greater gods continue to the east.
+~
+0 33804 0
+D0
+~
+~
+0 0 9890
+D1
+The Hallway of the Greater Gods continues.
+~
+~
+0 -1 9806
+D3
+The Hallway of the Lesser Gods.
+~
+~
+0 -1 9801
+S
+#9804
+Market Square~
+You stand in a huge tower. The walls are jet {8black{0, and look like
+they are made of {7obsidian{0. The walls spiral up to the top of the tower,
+which the {8darkness{0 covers. There is a huge {!bloodstained{0, {8black
+{0altar on the northern wall, with candles lining it. There is a huge bed in
+the corner, and beside that a table, with a radio on it. Out of the radio,
+you can hear the sounds of {7T{8o{7o{8l{0. Torches hang off the walls,
+illuminating the dark and dismal place.
+~
+0 12 0
+D3
+The Hallway of the Greater gods.
+~
+door kefka~
+1 -1 9812
+S
+#9805
+EXIT HELP~
+For exits, type the direction (north/s/e/w) followed by:
+dig vnum         - creates the room and makes a two way link
+link room vnum   - make a two way link
+room room vnum   - make a one way link (use with caution)
+key object vnum  - makes specified object the vnum of the key required
+name door name   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+exit-flags       - type ? EXIT for a list(make exit door, locked etc.)
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+-South to 3744 Key: -1 Exit flags: door CLOSED bashed pickproof
+~
+0 32776 0
+D2
+~
+~
+0 0 9800
+S
+#9806
+The Hallway of the Greater Gods.~
+This hallway covers two of the higher gods. The hallway of the Greatest
+Gods reaches to the east, and the hallway of the Greater gods stretches
+to the west.
+~
+0 33804 0
+D1
+The Hallway of the Greatest Gods.
+~
+~
+0 -1 9809
+D3
+The Hallway of the Greater Gods.
+~
+~
+0 -1 9803
+S
+#9807
+The Conference Room~
+This is the conference room for the immortals.  A huge table dominates
+the room, with two huge, engraven thrones at each end.  One for Kefka, one
+for Gavorkian.  Several swivelling chairs surround the table, for each of
+the other immortals.  
+~
+0 33804 0
+D2
+The hallway of the greater gods.
+~
+~
+1 -1 9809
+S
+#9808
+Misc. Room For formatting help files~
+~
+0 0 0
+D2
+~
+~
+0 0 9804
+S
+#9809
+The Hallway of the Greater Gods.~
+This Hallway is dedicated to those gods of incredibly high rank. To the south,
+is Melmar's Room. The Hallway of the Greater Gods extends to the west, and
+the Hallway of the Greater Gods extends to the east. A sign on the ceiling reads:
+Gavorkian, and a sign on the door to the north reads: Timka.
+~
+0 33804 0
+D0
+Timka's Room
+~
+door timka~
+1 -1 9807
+D1
+The Hallway of the Greatest Gods continues.
+~
+~
+0 -1 9812
+D3
+The Hallway of the Greater Gods.
+~
+~
+0 -1 9806
+D4
+Gavorkian's Room.
+~
+door gavorkian~
+1 -1 9802
+S
+#9810
+Declor's Room~
+You are in a small room near the east end of the mansion. In the middle 
+is a chair with a desk covered with endless wads of paper. The walls 
+are made of a black material you have only seen when you were in school.
+On some of the walls are endless characters which appear to be code.
+Declor must be a really busy guy to have all this on his mind.
+~
+0 33804 0
+D0
+The hallway of the Greater gods.
+~
+~
+1 -1 9812
+S
+#9811
+Busted!!~
+Stupid mofos might as well just delete yourselves..
+*** Tas and Jair know all ***
+~
+0 134227468 0
+S
+#9812
+The Hallway of the Greatest Gods.~
+This part of the hallway is also dedicated to the Greatest Gods. The door to
+the north reads: Zlolt. There is a door to the south reading: Declor, and door
+to the east, reading: {$K{8e{$f{8k{$a{0. The hallway stretches back to the west.
+~
+0 1036 0
+D0
+The door reads: Zlolt.
+~
+door zlolt~
+1 -1 9813
+D1
+The door reads: {$K{8e{$f{8k{$a{0.
+~
+door kefka
+
+~
+1 -1 9804
+D2
+The door reads: Declor.
+~
+door declor~
+1 -1 9810
+D3
+The Hallway of the Greatest Gods continues.
+~
+~
+0 -1 9809
+S
+#9813
+Zlolt's Room~
+The room is empty.
+~
+0 33804 0
+D2
+The Hallway of the Greatest gods.
+~
+door zlolt~
+1 -1 9812
+S
+#9814
+Another link room~
+west is to nightshade
+north is to angels
+east is to nemesis
+south is to ancients
+~
+0 134226444 0
+D5
+~
+~
+0 0 9811
+S
+#9815
+{RL{ru{Dc{Wi{wf{We{Dr{rs{R' {DR{Wo{wo{Dm{x~
+{x                                                {! /        {x                  
+{x                                              {! .'(,       {x                  
+{x                                        {!),      \ ,>,                {x       
+{x                                       {! ) \      )   `,            {x         
+{x                                       {!/  (      ) `` )  {x                   
+{!                                      /   (     /  .  :                     {x
+{!                                      ,-``\   -'    `-(     ,'    ,-'       {x
+{!                                     < {@,-```/```  .    {!\{@- ){!(>{@-:-:{!({@_    {!,-'  {x
+{@                                     `'    '       `.` ;  ' '      `-{!<"     {x
+{@                                      )     {3,        {@`-.-'             `.   {x
+{@                                  -<'':   {3,' {1,$      {@.-;<';!'!{3"{@,{3={@-       >{!;- {x
+{@                                    `{1_     ,d$$    {@,' ;         ,{3='{@'      . {x
+{1                                     `?c, JP"'    {@/   ";         ,{3;!'{@'    `.{x
+{1                                        "{@){1",'   {@,'{8-{6.  {8={@,         {@,{3;;<!{@>    ;{x 
+{@                                         '     ,' : {6. {8,{@,         _{3,;;<{@>    ;{x
+{@                                        '     ,{8"= {@; {6. {8"{@:         '{3_,,{@,     ; {x
+{@                                       '     ,{8=,  {@; {6. {8={@;        '{3'''`{@`     / {x
+{@                                      '      ;    ; {6. {8,{@,        '{3"'"{@'     .' {x
+{@                                     '       ;{8"=  {@; {6. {8"{@;      ;{3<!!!!{@'     ; {x
+{@                                    '       ;{8=,   {@; {6. {8={@,     ,{3;;;;{@;       ; {x
+{@                                   ({&_  {!=c, {@;      ; {6. {8_{@,  ,{3,,,;;{@;        ;  {x
+{&                                   `?"   ,{@'{8""    {@.'  .;' `{3`...`{@`        .;  {x
+{&                                     `.  (       {@; ,{8-{@"  `{3``"""{@'         ;'  {x
+{&                                       `-;,      {@`'  ,{3,`!!!!{@!           ;  {x 
+{@                                                   ,{3,`b ;;;{@;           ;    {x
+{@                                                ,{3!.`? ` `<!{@'           ;    {x
+{!                        -._                     {@,{3;;;..;; {@;            ;     {x
+{@                          \`\                 !{3!!!!!!!!!;{@>            ;     {x
+{@                         ,'  )               `{3`,,;;;;;;;;{@>            ;     {x
+{@                        /   /              ,{3!!!!!!!!!!!!{@!             :     {x
+{@                      ,'   (              <{3!!''```.,,,,,{@`              :    {x
+{@                    ,'      \             ,{3;;!!!!!!!!!!!{@>               :.  {x
+{@                  ,'  .' ,{3!{@; `.         ;{3!!!!!!!!!!!!!!{@!{x                    
+{@                ,'  .'  ,!{3!!{@!, `.       !{3!!'` .,,,,;;;{@,     .           .   {x
+{@              ,'  .',{3;{@! <{3!!!!!{@>, `.     ` {3,;!!!!!!!!!!!{@>   .               ' {x
+{@            ,'  .',!{3!!{@! !{3!!!!!!!{@>  `-. ,{3!!!!!!!!!!!!''{@'    ;              {x  
+{@          ,'  ,; .!{3!!!{@! !{3!!!!!!!!{@!,    !{3!!''`.,,;;;;;;{@!   /         {x        
+{@         ;   .'  !{3!!!!{@> !{3!!!!!!!!!!{@!,  .{3,;<!!!!!!!!!!!{@!   (                 {x
+{@       ,'   ,{3<{@! .{3!!!!!{@! `{3!!!!!!!!!!{@!  ;{3!!!'''`.,,,,;;;{@;   :                 {x
+{@      ,    <{3!!{@> ;{3!!!!!{@! `{3!!!!!!!!!!{@!  '{3`.::!!!!!!!!!!!!{@>  `.                {x
+{@     ;    <{3!!!{@> !{3!!!!!!{@> !{3!!!!!!!!!{@' !{3!!!!!!!!!!!!!>'''{@`    \               {x
+{@    ;    !{3!!!{@! .{3!!!!!!!{@! `{3!!!!!!!!{@! !{3!!!!>''``.,,;;;<!!!!{@!   `.             {x
+{@    '   !{3!!!!{@! ;{3!!!!!!!!{@, <{3!!!!!!!{@' `{3`.,;;;!!!!!!!!!!!!!!!{@>   `,            {x
+~
+0 532620 0
+D0
+~
+~
+0 0 3054
+S
+#9816
+Welcome to Your Death~
+You feel yourself shackled to the far wall, barely able to move.Blood is
+every, and the room is intensely hot, making you sweat profusely.Not a 
+good place to be you notice...
+~
+0 32780 0
+S
+#9817
+Throne room~
+A mighty throne that even the most powerful of mortals can't hardly see
+the top....  As you look closer at it you can see all of midgard threw this
+mighty throne.  
+~
+0 134226432 0
+D3
+~
+~
+0 0 9819
+S
+#9818
+rec room~
+~
+0 8196 0
+S
+#9819
+Link Room~
+There is a room east.
+There is a link north to the immortal mansion.
+There is a link west to Seekers HQ.
+There is a link south to the questor in Rabin Wolf Inn.
+There is a link up to BattleRagers HQ.
+~
+0 134226432 0
+D5
+~
+~
+0 0 9814
+S
+#9820
+Shimtis Grul's Library~
+ou come up the stairs into a huge tower...Books of all description 
+line the walls...Level after level of bookshelves extend out of sight 
+above your head...Several clerics of Shimtis are seated at large stone 
+tables copying ancient tomes of history and knowledge...The smell of 
+candle wax and lamp oil hang heavily in the air...as your ears fill with 
+the sounds of quils scratching away at the parchment...Large archways 
+lead off in all directions.
+~
+0 9220 0
+S
+#9821
+Tadriendir's basement~
+As you walk down the spiral staircase your nose starts to fill with the
+smell of steak.  The first thing that catches your eye is the coolest lookin
+minifrig you have ever seen.  As you walk towards it to open it's treasure
+the 72 inch hdtv catches your eye.  You see a buncha boxes with a lot of
+switches ontop of the tv, you flip one and some porno comes on.  You turn
+left and see a mahogany desk with a 21 inch monitor and a tower next to it
+To the right of the computer is a huge subwoofer with some floor speakers
+right next to it.  Behind you is a full bar to your disposal!  You trip over
+the grey leather sofa across from the tv.  You see an ass groove in the sofa
+and decide to take advantage.  When you sit on the groove Tadriendir comes
+running out of the backroom with a baseball bat screaming "Get the hell of
+my sofa biotch!"  
+~
+0 1032 0
+D2
+~
+~
+0 0 3014
+D3
+~
+~
+0 0 9819
+S
+#9822
+{5S{@c{5o{@o{5b{@y{5'{@s{7 Lair{x~
+~
+0 4 0
+S
+#9825
+Sicarius's Lair of Assassinations~
+~
+0 32900 0
+D0
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 9893
+S
+#9830
+Lina's Room~
+Each wall of Lina's room is a different color. The North Wall
+is {&White{x and {%Purple{x.   with pictures of various revealing female
+outfits on it.  The East wall is {RRed{x and {%Purple{x, decorated with
+various impliments of war.  The West wall is Decorated with what seems to be
+glowing {YYellow {&Catnip!{x   And the South wall is {6Cyan{x and {4Blue{x
+with various pictures of a Shelby Cobra GT500 on it.
+~
+0 4 0
+S
+#9850
+A strange stairway~
+You are at the bottom of a large twisting stairway, at the top you can
+hear some odd, but soothing noises. There is some mold forming near the 
+middle of the first few steps going up.
+~
+0 8 0
+D4
+~
+~
+0 0 9851
+S
+#9851
+Further up the stairway~
+The slight covering of mold on the stairs has turned into a thick
+slimy layer of pure mold, you begin to smell something terrible..
+~
+0 8 0
+D4
+~
+~
+0 0 9850
+D5
+~
+~
+0 0 9852
+S
+#9852
+The Top of the Stairs~
+The thick layer of mold has gotten even thicker, 
+and the stench is overpowering you... You are at 
+the top of a small hallway. You can go back down 
+the stairs, or go east or west down the hallway.
+~
+0 8 0
+D1
+~
+~
+0 0 9854
+D3
+~
+~
+0 0 9853
+D5
+~
+~
+0 0 9851
+S
+#9853
+MoldMaster's Den~
+This is the den of the Mold Master, who watches over SourMilk's mold
+men. There are paintings of mold men, probably relations to Mold 
+Master lining the wall
+~
+0 8 0
+D2
+~
+~
+0 0 9855
+D3
+~
+~
+0 0 9852
+S
+#9854
+SourMilk's Room~
+You have stumbled into SourMilk's Room. AS you look around, you see 
+a black light in the corner, which makes all the mold glow wierd...
+his bed, a lump of pulsating mold, seems to be looking at you...
+~
+0 8 0
+D1
+~
+~
+0 0 9852
+S
+#9855
+Spore Plantation~
+As you look around, you see many MoldMen caring for the spores 
+that cling to the wall.
+~
+0 8 0
+D0
+~
+~
+0 0 9853
+S
+#9856
+{DB{wr{We{De{w'{Ds{x {gR{Doo{gm{x~
+{D(0{G,{D0){x
+  {B'={G,{D|{RB{D|{G,{B='{X             Around since the begining,
+  {B'={G,{D\{c%{D/{G,{B='{X                      {DB{wr{We{De{x.
+     {W@{D8{W@{X                        Since the days of Tas, Tien, Sturm,
+     {W8{D@{W8{X                        Lucifer, Rasitly, Gavorkian, Jair,
+ {B({G@{D_/{W@{D8{D@\_{G@{B){x                     And Skyntil,
+  {B-{W={G:{w8{D@{w8{G:{W={B-{X         Not a more beloved Immortal has there
+     {W|{G:{W|{X                             Ever been in these lands:
+     {W|{G:{W|{X                                  And 100 more!
+     {W|{G:{W|{X                            {DGood-bye and Hello, as always.{X
+     {W|{G:{W|{X
+     {W|{G:{W|{X
+     {W|{G:{W|{X
+     {W|{G:{W|{X
+     {W|{G:{W|{X
+     {W|{G:{W|{X
+     {W|{G:{r|{X
+     {W|{r:{r|{X
+     {R|{r:{r|{X
+     {R|{R:{R|{X
+     {R\ /{X
+      {RV{X
+~
+0 0 0
+D1
+~
+~
+0 0 9800
+D4
+~
+~
+0 0 700
+S
+#9860
+{8Dariuas's {&Humble {8Chambers~
+You enter though a large marble walk-way, into a HUGE black marble room. 
+The floor before you holds a carpet leading to a large throne about
+twentyfive feet infront of you.  On each side of the room, large armor
+statue's sit, next to each statue, is a picture of the men who wore and died
+in that armor, in glorious battle.  Dariuas remebers his friends for what
+they did, and who they were.  The pictures show the men standing victorious
+over a slain foe.  Under each picture is a small golden plaque, soon to be
+carved with the names of each man on the pictures.  Quite noticable, the
+large marble pillars that line the room, on those hang small torches, which
+burn a green flame, though lite the room with a normal color.  Behind the
+throne were Dariuas normal sits, is a huge picture of him in shining silver
+armor.  Above that picture, are a set of crossed swords carved in a mythirl
+color.  As you take a huge breath, you can smell what seems to be ocean air.
+The room gives you a glorious feeling of safty and security.  To the side of
+the throne, is a small table holding a scroll, which contains information
+Dariuas uses to control aspects of the realm.  
+~
+0 271360 0
+D5
+~
+~
+0 0 3014
+S
+#9880
+Entrance To Pern's Room~
+Small Balls Of {3Light {0Hover Over your Head as You Walk Up the Pathway
+to the House, It's Not really Even a House More of a Cave with a door,
+{8Smoke {0 Poors Out of a Chimney In the Roof, And Loud Music Poors Out of
+A Small Window In the Door.. There Is No Handle Of Any Sort on the Wall..
+Look like you will have to walk thro it... Is It Possible?
+~
+0 0 4
+D0
+A Door,With a Small Gold Plaque that Reads 
+"Pern_like".~
+~
+2 -1 9881
+S
+#9881
+Inside Pern's House~
+You Walk Into Find a Round Room, {@Vines{0 Cover The Wall Completly
+Except For 3 doors Which Seem to of almost been Chiseled Out of the
+{8R{7oc{8k, The Floor Seems to {1I{!  L{1l{!  U{1m{!  I{1n{!  A{1t{!  E{0 as
+you step on it, A Large Fountain is Here, The Music Now Seems to Be Comming
+at you from all Directions...  It is Harsh And Very {$Loud{0...  Exit's are
+NORTH, EAST, WEST 
+~
+0 8 0
+D0
+~
+~
+2 -1 9883
+D1
+Thank God It's Open~
+~
+2 -1 9884
+D2
+A Door you Just Came Thro....~
+~
+2 -1 9880
+D3
+A Large Wooden Door Is Here, With the ruin
+P carved Into it~
+~
+2 -1 9882
+S
+#9882
+Pern's Study.....~
+The Room Is Very Quiet... The Walls Are Covered With {@Vines{0, 
+Large Black Buds, Resembling Roses Grow Off Them. A Large Desk 
+Sits In the Middle Of the Room, It has a Single Large Brown Book Sitting on it, 
+The Ruin For {#P{0 is on it, Glowing as You Approach, 
+A Large Candle Giving Off No Hear Or light Burns Silently Beside It,
+The Only Exit is EAST
+~
+0 8 0
+D1
+A Large Wooden Door Is Here...~
+~
+2 -1 9881
+S
+#9883
+Large Chambers.....~
+A Very Very Large Room. The Ceiling Has To be 30 Feet Up, 
+Rafter's Cris Cross On the Roof, Large Hangning Lights 
+{7Illuminate{0 the Room, Paintings Of {1Gory{0 Brutal Battles Are On the Wall,A Large 
+Long Black Marble Table sits here with chair's at even Intervals 
+and a large Black Throne at the end..
+It must be Immportant (hehe)
+Only exit Is South
+~
+0 4 0
+D2
+~
+~
+2 -1 9881
+S
+#9884
+Pern's Room~
+The Music Is Now Pounding in your Ears, It's Force almost Nocks you down, 
+A Large Stereo System Belts Out the Tunes Of {3S{1k{6i{5n{3n{1y {@P{3u{8p{6p{1y{0, 
+Filling your Mind With Horibble Images, 
+A large Black Trench Coat Hands off the Wall and Under wear 
+and socks are Struin about, A Pair Of Old Green Combat 
+Pants hang Off an Unseen Hook...
+And Just think... This is an Imm's Room...
+Scarey thought eh?
+~
+0 4 0
+D3
+Thank God It's Open~
+~
+2 -1 9881
+S
+#9885
+NOT Musashi's room~
+RED WINGS SUCK AHAHAHAHAHAHAHA!!!!!! AVALANCHE RULE!!!!!!!!!!!!!!!
+~
+0 4 0
+S
+#9886
+Av's bench~
+here you find players such as foot sakic foresberg sitting here talking smack to those damned loser redwings.
+~
+0 4 0
+S
+#9888
+{#P{1o{3k{3e{1m{3o{!n {#P{1a{3r{1a{3d{!i{3s{1e{x~
+Here you see pictures of Sabis running around with his friendly little
+pokemon.  Pokemon trophies are planted on many mantles all around you.  In
+the corner, there is a giant cotton pokemon chair.  You feel like running
+and jumping on its soft coushin.  
+~
+0 4 0
+S
+#9890
+Sascha's Den~
+~
+0 1024 0
+D2
+~
+~
+0 0 9803
+D5
+~
+~
+0 0 3054
+S
+#9891
+The Pimp Shack of Draxx~
+~
+0 4 0
+S
+#9892
+Memnon's big room 'o Love~
+You walk into this room and notice all the pieces of art work on the
+wall.  They are beautiful, all of naked women.  The lovely curves of the
+female body amaze you while walk around the room.  Then you hear a faint
+sound in the back round.  The sounds of Regae from the juke box on the other
+side of the room.  While looking at the photos you run into a lovely bed
+covered with red sheets and a pink pillow.  Things begin to come into your
+dirty mind and think about staying here.  
+~
+0 4 0
+S
+#9893
+Zellie's Dorm Room~
+You look around and see a normal, girl's dorm room.  There are posters on
+the wall, a desk by the door, and a bed in the corner.  It's a typical dorm
+room.  
+~
+0 4 0
+D1
+~
+~
+0 0 9825
+S
+#9894
+{D{u+{x {rM{Ru{Dr{wd{Ro{rc{R'{rs {wO{Wff{wic{We {D{u+{x~
+~
+0 516 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9802 5 1 The down door of NONE is closed
+D 0 9804 3 1 The west door of Market Square is closed
+D 0 9807 2 1 The south door of The Conference Room is closed
+D 0 9809 0 1 The north door of The Hallway of the Greater Gods. is closed
+D 0 9809 4 1 The up door of The Hallway of the Greater Gods. is closed
+D 0 9810 0 1 The north door of Declor's Room is closed
+D 0 9812 0 1 The north door of The Hallway of the Greatest Gods. is closed
+D 0 9812 1 1 The east door of The Hallway of the Greatest Gods. is closed
+D 0 9812 2 1 The south door of The Hallway of the Greatest Gods. is closed
+D 0 9813 2 1 The south door of Zlolt's Room is closed
+D 0 9880 0 1 The north door of Entrance To Pern's Room is closed
+D 0 9881 0 1 The north door of Inside Pern's House is closed
+D 0 9881 2 1 The south door of Inside Pern's House is closed
+D 0 9881 3 1 The west door of Inside Pern's House is closed
+D 0 9882 1 1 The east door of Pern's Study..... is closed
+D 0 9883 2 1 The south door of Large Chambers..... is closed
+O 0 9800 0 9800 *A swirling pool loaded to The Immortal Mansion
+O 0 9801 0 9800 *A beautiful green fountain loaded to The Immortal Mansion
+O 0 9802 0 9800 *A big jukebox loaded to The Immortal Mansion
+O 0 9805 0 9804 *{$k{8e{$f{8k{$a{x's black throne loaded to Market Square
+O 0 9805 0 9807 *{$k{8e{$f{8k{$a{x's black throne loaded to The Conference Room
+O 0 9815 0 9815 *The {8throne{0 of {1hell{0 loaded to {RL{ru{Dc{Wi{wf{We{Dr{rs{R' {DR{Wo{wo{Dm{x
+M 0 9815 1 9815 1 *Load {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 1306 0 *A finger sandwich is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 3009 0 *A big pot pie is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 18074 0 *A tripple scoop of blueberry icecream is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 3014 0 *A {$blueberry danish{0 is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 3012 0 *A cinnamon roll is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 7723 0 *A tasty-looking chocolate mint is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 3151 0 *A bowl of chicken noodle soup is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+G 0 9940 0 *A '{6tell{x' is given to {#a small {@D{3r{1a{!g{3o{@n {#storekeeper{x
+O 0 9816 0 9815 *A black steel coke fountain loaded to {RL{ru{Dc{Wi{wf{We{Dr{rs{R' {DR{Wo{wo{Dm{x
+O 0 9803 0 9816 *The clean white toilet loaded to Welcome to Your Death
+O 0 9823 0 9818 *A {@p{2oo{@l{x table. loaded to rec room
+O 0 9824 0 9818 *A long comfortable {%c{$ouch{x loaded to rec room
+O 0 9821 0 9820 *A {#p{!o{#k{!e{#m{!o{#n {!b{#e{!a{#n{!b{#a{!g{x. loaded to Shimtis Grul's Library
+O 0 9820 0 9820 *Desk made of clouds loaded to Shimtis Grul's Library
+M 0 9941 1 9830 1 *Load Fourplay
+M 0 9800 5 9853 1 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9801 5 9855 2 *Load Mold Master
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+M 0 9800 5 9855 2 *Load A MoldMan
+O 0 9821 0 9888 *A {#p{!o{#k{!e{#m{!o{#n {!b{#e{!a{#n{!b{#a{!g{x. loaded to {#P{1o{3k{3e{1m{3o{!n {#P{1a{3r{1a{3d{!i{3s{1e{x
+M 0 3712 3 9890 1 *Load the fox
+M 0 6005 2 9890 1 *Load the brown fox
+O 0 9816 0 9891 *A black steel coke fountain loaded to The Pimp Shack of Draxx
+O 0 11614 0 9891 *A long leather couch loaded to The Pimp Shack of Draxx
+O 0 9835 0 9893 *A {yv{yex {bp{blushie{x loaded to Zellie's Dorm Room
+S
+
+
+
+#SHOPS
+9800 0 0 0 0 0 150 75 0 23
+9815 19 8 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#9815
+say Welcome to hell, worthless Mortal!
+~
+#0
+
+#$

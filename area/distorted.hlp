@@ -1,0 +1,229 @@
+#HELPS
+0 distorted~
+~
+
+101 'BUILDING GUIDE' 'BUILDING SPECS'~
+{!--------------------- {4D{8i{&s{4t{8o{&r{4t{8e{&d{8 Illusions{x {&Building Specs {!-------------------{x
+ 
+{&This guide will go by Levels, as the MUD is based upon such.{x
+ 
+{@Equipment {&- {RA{&.{RK{&.{RA {@Objects{x
+{$ Weapons {& --{x
+{#  Level {$1{&-{$10{&:{@ Ave {!{!1{&-{!12{x{x
+{#  Level {$11{&-{$25{&:{@ Ave {!{!13{&-{!26{x{x
+{#  Level {$26{&-{$45{&:{@ Ave {!{!27{&-{!46{x{x
+{#  Level {$46{&-{$70{&:{@ Ave {!{!47{&-{!72{x{x
+{#  Level {$71{&-{$85{&:{@ Ave {!{!73{&-{!87{x{x
+{#  Level {$86{&-{$98{&:{@ Ave {!{!88{&-{!99{x{x
+{#  Level {$99{&-{$101{&:{@ Ave {!{!100{&-{!104{x{x
+{%  Quest Weapons: {$One-Handed{&: {@Ave {!105{&-{!120  {$Two-Handed{&: {@Ave {!115{&-{!125{x
+ 
+{$ Armor{&  --
+{#  Level {$1{&-{$10{&: {@AC Protection {!1{&-{!4{x
+{#  Level {$11{&-{$25{&: {@AC Protection {!5{&-{!11{x
+{#  Level {$26{&-{$45{&: {@AC Protection {!12{&-{!17{x
+{#  Level {$46{&-{$70{&: {@AC Protection {!18{&-{!22{x
+{#  Level {$71{&-{$85{&: {@AC Protection {!23{&-{!28{x
+{#  Level {$86{&-{$98{&: {@AC Protection {!29{&-{!33{x
+{#  Level {$99{&-{$101{&: {@AC Protection {!34{&-{!40{x
+{%  Quest Armor{&: {@AC Protection {!41{&-{!60{x
+ 
+{&  Weapons receive +5 bonus rolls to distribute per level group.{x
+{&  Armor receives +3 bonus rolls to distribute per level group.{x
+{&  Unique Items may go above written standards by 5. {x
+~
+
+0 rank~
+Syntax: Type rank for syntax.
+{x
+{x     Rank is the new ranking system for the mud.  The base rank everyone
+starts out with is 1500.  You want to try for the highest amount of rank you
+can get.  Rank <type> <person> will show you how much you will get for
+beating that person.  The higher the rank the better.  This will become more
+useful as it becomes more standardized and more people get involved with the
+system.  
+~
+
+102 hedit~
+These commands make a new helpfile-
+hedit summary
+create distorted.hlp (newkeyword)
+ 
+Of course, don't put the ()'s in, just the new keyword you want a help
+file for.   Hope that helps.
+ 
+All helpfiles are in rot.are, help.are, mobprg.hlp, olc.hlp, sedit.hlp, distorted.hlp.
+Use either rot.are, help.are, or distorted.hlp.
+~
+
+
+
+105 continent~
+Effects:
+{x 1) Questors will only give out quests on their own continent.
+{x 2) You cannot gate/shadowwalk/forestwalk/dimensionwalk/portal between continents.
+{x 3) You CAN create a nexus between them.
+ 
+~
+
+0 n00b~
+n00b or the newbie flag is what new pk's receive.  The flag prevents true pk's
+from spam-killing them and also gives the n00b's time to find equipment and adjust
+to this gaming world. When dying, n00b's also only lose half the normal pk rank
+as a total pk.
+ 
+To remove the n00b flag you either need to reach 1530 pk rank, or 100 hours of
+game time.  If you have been shown to know what you are doing and have the support
+of others, you may have a involuntary graduation from n00b as well.
+~
+
+1 'BLINDNESS DUST'~
+Skill-type: Manual
+Syntax: blindness or 'blindness dust' 
+
+A Monk carries a special dust among his gear which he uses to blind his enemies.
+Due to the nature of the dust, the Monk must be careful because the dust can blind
+multiple opponents at once.
+~
+
+1 STOMP 'GROUND STOMP'~
+Skill-type: Automatic 
+
+When a Monk throws their opponent to the ground, if conditions are favorable they
+have a chance to stomp on their opponent using their foot.
+~
+
+1 'HEALING TRANCE'~
+Skill-type: Manual
+Syntax: healing or 'healing trance' 
+
+A Monk at times needs to concentrate on healing themselves. At these times they are
+capable of going into a trance during which they focus their pain out of their body
+and their wounds heal quicker.
+~
+
+1 PURIFY 'PURIFY BODY'~
+Skill-type: Manual
+Syntax: purify or 'purify body' 
+
+The art of purification is but long lost, yet some Monks still practice it at times.
+When in need, a Monk can go into a trance where their mind and body become one. Any
+magical affects or physical concentrations seem to slide off them during the trance
+which results in a deep sleep.
+~
+
+1 WILL 'WILL OF IRON'~
+Skill-type: Manual
+Syntax: will or 'will of iron' 
+
+A Monk can concentrate thier will so strongly as to feel less pain during combat, as
+if their nerves were made of iron.
+~
+
+1 DEFLECT~
+Skill-type: Automatic
+
+A special skill taught only to the learned, a skilled Monk can turn their opponent's
+weapon back onto them.
+~
+
+1 'SIDE KICK'~
+Skill-type: Manual
+Syntax: side or 'side kick'
+
+Part of the standard martial arts schooling, the side kick is one of a Monk's offensive moves.
+~
+
+1 'VITAL HIT'~
+Skill-type: Automatic
+
+During combat a Monk is constantly searching for less defended places on their opponent to hit.
+They often aim for unprotected areas such as the head, neck, sides, and knees of their opponent.
+When they successfully hit these areas they are capable of doing a considerable amount of damage.
+~
+
+1 'FOLLOW THROUGH'~
+Skill-type: Automatic  
+
+Every time a Monk kicks an opponent, they have a chance to land a second kick if they opponent is
+not properly defended.
+~
+
+1 'QUICK STEP'~
+Skill-type: Automatic 
+
+A very advanced technique, the quick step is a lightning fast attack that hits an opponent
+multiple times in a short amount of time.
+~
+
+1 'SPIN KICK'~
+Skill-type: Manual
+Syntax: spin or 'spin kick'
+
+Part of the advanced martial arts schooling, the spin kick attempts to knock an opponent
+back while the Monk prepares for their next move.
+~
+
+1 'EMBALM'~
+Skill-type: Manual
+Syntax: embalm
+
+A dark art practiced by Necromancers, embalming corpses with special fluids and preservational
+magic help to prevent a corpse from decaying. The Necromancer conjures the fluids and necessary
+components from dark magic, so no tangible components are needed. An embalmed corpse has better
+results when attempting to animate it or mummify it.
+~
+
+1 'PRESERVE LIMB' PRESERVE~
+Skill-type: Manual
+Syntax: cast 'preserve limb' or cast preserve
+
+A dark art practiced by Necromancers whereby they prevent the decay of severed limbs or dead
+body parts. This spell is used to store parts needed by the Necromancer to create golems.
+~
+
+1 'CREMATE'~
+Skill-type: Manual
+Syntax: cast cremate
+
+A spell of the dark arts which conjures forth the hot fires of a crematorium upon a victim.
+~
+
+1 'FLESH GOLEM' FLESH GOLEM~
+Skill-type: Manual
+Syntax: cast 'flesh golem' or cast flesh
+
+Necromancers stockpile many dead limbs and body parts in order to imbue them with dark magic.
+The result is an abomination, a golem sewn together of these parts by magic. The Necromancer
+will need more than one or just two parts in order to build a golem.
+~
+
+1 'IRON GOLEM' IRON GOLEM~
+Skill-type: Manual
+Syntax: cast 'iron golem' or cast iron
+
+A Necromancer has the ability to build a stronger golem than a flesh golem. This is a more
+advanced spell and requires a large amount of concentration. The result is a much more
+powerful golem.
+~
+
+1 'FEAR'~
+Skill-type: Manual
+Syntax: cast fear
+
+BANSHEE FEAR
+
+Banshees are deadly creatures to look upon. To merely gaze in their eyes can cause a victim
+to be terrified. When an victim is affected by fear he will find it more difficult to confront
+other people and often will be seen breaking down weeping.
+
+NECROMANCER FEAR
+
+A terrible spell of the dark arts whereby a Necromancer conjures fear into the heart
+of an opponent, sometimes so great, that the victim's heart can explode.
+~
+
+
+0 $~
+
+#$

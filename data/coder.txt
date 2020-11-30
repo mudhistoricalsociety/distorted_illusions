@@ -1,0 +1,35 @@
+These are the things I'm considering coding:
+1) If you recall in troy/dark continent it will recall you to dark continent.
+2) Getting bounty to work for anyone to collect.
+3) Having bless and curse do opposite effects (but good for that align)
+4) Armor hindrance (not sure how this would work)
+
+Or we could calculate based off existing AC, where more AC would probably havea higher
+encumbrance. Then you could take wear location inot account and say thata bracelet
+borbably hinders movement less than bulky leggings or some huge platemail.
+Or we could calculate based off weight.  I would vote this option except it would mean
+that builders would need to start adding real weight values to most existing eq, as most
+eq tha people wear either weighs 0 or 1.
+
+I could see it affecting chance to hit/dodge, moves required
+to do stuff, hunger/thirst, hiding/sneaking, being able to channel magical energy,
+maximum amount of hinderance, perhaps?
+* What also could go with this is a skill to reduce hindrance for certain classes.
+
+We then have to keep in mind that we don't want this to be so outrageous that someone
+has to chose between having -200 AC and being able to backstab and sneak around, or
+having -800 and being able to do nothing but regular attacks with a circle here and
+there or be failing at spells 1/3 of the time.  I use thieves as the example because
+i see them getting hit the hardest by this change.  Them and mages.  Warriors are
+too 1-dimensional, all they do is damage with the occasional lunge or twirl or kick.
+
+I'm invisioning small, barely noticable changes...people see though their hide a bit
+more than before, a spell that usually succeeds might fail or do less damage than normal.
+Lunge might miss more, or a warrior misses a few more attacks than normal.  Not huge,
+monsterous, mega super noticable changes that cause people to reroll because their class
+now sucks.
+
+5) Kick damage based on foot gear's weight? damageroll?
+6) Removing bugs.
+
+---------------

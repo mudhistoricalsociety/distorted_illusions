@@ -1,0 +1,182 @@
+1 1 create food
+1 1 create water
+1 1 cure light
+1 1 detect poison
+1 2 axe
+1 1 dagger
+1 2 flail
+1 1 mace
+1 1 polearm
+1 1 shield block
+1 1 spear
+1 1 sword
+1 1 whip
+1 1 butcher
+1 2 dirt kicking
+1 3 dodge
+1 2 second attack
+1 1 hide
+1 1 sneak
+1 5 scrolls
+1 5 staves
+1 5 wands
+1 1 recall
+2 1 cure blindness
+2 1 rescue
+3 1 armor
+4 1 farsight
+4 3 parry
+5 1 refresh
+5 1 blend
+6 1 envenom
+7 2 kick
+7 1 track
+11 2 hand to hand
+12 1 detect invis
+13 2 dual wield
+13 3 lore
+14 3 trip
+15 1 cure disease
+15 1 detect motion
+15 4 enhanced damage
+15 1 acute vision
+15 5 third attack
+16 1 cure serious
+16 3 disarm
+17 1 know alignment
+17 1 grip
+18 1 cure poison
+18 1 giant strength
+18 1 berserk
+18 2 sharpen
+20 4 bash
+22 1 twirl
+23 1 forestwalk
+26 1 barkskin
+29 1 cure critical
+30 2 blind fighting
+31 1 herb
+33 1 create spring
+35 6 fast healing
+38 1 shield
+40 1 haste
+43 3 ambush
+44 1 protection evil
+44 1 protection good
+46 2 skin
+47 1 detect terrain
+50 1 stone skin
+53 2 entangle
+56 1 remove curse
+58 2 crevice
+60 3 stomp
+60 3 fourth attack
+63 0 faerie fire
+102 2 acid blast
+102 0 charm person
+102 0 conjure
+102 0 detect location
+102 0 displace
+102 0 empower
+102 0 fireshield
+102 0 heal
+102 0 heat metal
+102 0 iceshield
+102 1 protection voodoo
+102 0 restore mana
+102 0 shockshield
+102 0 sleep
+102 0 voodoo
+102 0 backstab
+102 0 fifth attack
+102 0 peek
+102 0 pick lock
+102 0 steal
+103 0 acid rain
+103 0 animate
+103 0 bless
+103 0 blindness
+103 0 burning hands
+103 0 call lightning
+103 0 calm
+103 0 cancellation
+103 0 cause critical
+103 2 cause light
+103 0 cause serious
+103 0 chain lightning
+103 0 change sex
+103 0 chill touch
+103 0 colour spray
+103 0 continual light
+103 0 control weather
+103 0 create rose
+103 0 curse
+103 0 demonfire
+103 0 detect evil
+103 0 detect good
+103 0 detect magic
+103 0 dispel evil
+103 0 dispel good
+103 0 dispel invis
+103 0 dispel magic
+103 0 earthquake
+103 0 enchant armor
+103 0 enchant weapon
+103 0 energy drain
+103 0 faerie fog
+103 0 feeble mind
+103 0 fireball
+103 0 fireproof
+103 0 flamestrike
+103 0 fly
+103 0 frenzy
+103 0 gate
+103 0 harm
+103 0 holy word
+103 0 identify
+103 0 infravision
+103 0 invisibility
+103 0 lightning bolt
+103 0 locate object
+103 0 magic missile
+103 0 mass healing
+103 0 mass invis
+103 0 nexus
+103 0 pass door
+103 0 plague
+103 0 poison
+103 0 portal
+103 0 prismatic spray
+103 0 ray of truth
+103 0 recharge
+103 0 resurrect
+103 0 sanctuary
+103 0 shocking grasp
+103 0 slow
+103 0 summon
+103 0 teleport
+103 0 transport
+103 0 ventriloquate
+103 0 weaken
+103 0 wizard eye
+103 0 word of recall
+103 0 acid breath
+103 0 fire breath
+103 0 frost breath
+103 0 gas breath
+103 2 lightning breath
+103 0 circle
+103 0 feed
+103 0 gouge
+103 0 demand
+103 0 assassinate
+103 0 strangle
+103 0 smokebomb
+103 0 layhands
+103 0 stun
+103 0 multistrike
+103 0 haggle
+103 0 meditation
+104 0 general purpose
+104 0 high explosive
+-1

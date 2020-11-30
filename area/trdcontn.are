@@ -1,0 +1,448 @@
+#AREADATA
+Name The Western Passage~
+Builders Unlinked Bree~
+VNUMs 5800 5840
+Continent 0
+Credits [ ALL  ] Bree      Western Passage~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5800
+The Western Passage~
+You are walking the Western Passage, a trail that leads very far to the west.
+It had been thought to have been lost, until recently being discovered by
+accident, by a forester. The woods press in all around you, and the sky begins
+to become dark. Strange noise can be heard emminating from places beyond the
+trail, further into the forest.
+~
+0 4 0
+D3
+~
+~
+0 0 5801
+S
+#5801
+The Western Passage~
+The trail continues on it's way, as do the noises comming from the forest.
+It's obvious that this used to be a highway of great use, but the trail has
+been overgrown with grass heavily since those years. The sky has become
+completely dark by this point, making you wonder where exactly this trail
+leads to.
+~
+0 0 0
+D1
+~
+~
+0 0 5800
+D3
+~
+~
+0 0 5802
+S
+#5802
+The Western Passage~
+The trail continues on it's way, as do the noises comming from the forest.
+It's obvious that this used to be a highway of great use, but the trail has
+been overgrown with grass heavily since those years. The sky has become
+completely dark by this point, making you wonder where exactly this trail
+leads to.
+~
+0 0 0
+D1
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5803
+S
+#5803
+The Western Passage~
+The trail continues on it's way, as do the noises comming from the forest.
+It's obvious that this used to be a highway of great use, but the trail has
+been overgrown with grass heavily since those years. The sky has become
+completely dark by this point, making you wonder where exactly this trail
+leads to.
+~
+0 0 0
+D1
+~
+~
+0 0 5802
+D3
+~
+~
+0 0 5804
+S
+#5804
+The Western Passage~
+The trail continues on it's way, as do the noises comming from the forest.
+It's obvious that this used to be a highway of great use, but the trail has
+been overgrown with grass heavily since those years. The sky has become
+completely dark by this point, making you wonder where exactly this trail
+leads to.
+~
+0 0 0
+D1
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5805
+S
+#5805
+Turn in the Passage~
+The trail continues on it's way, as do the noises comming from the forest.
+It's obvious that this used to be a highway of great use, but the trail has
+been overgrown with grass heavily since those years. The sky has become
+completely dark by this point, making you wonder where exactly this trail
+leads to.
+~
+0 0 0
+D0
+~
+~
+0 0 5806
+D1
+~
+~
+0 0 5804
+S
+#5806
+Trail through the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail forces you to go north here, due to the lack of a trail, it's pretty
+clear that this is not an original part of the western passage. This {DF{2o{@r{2e{ws{Dt{X
+is one of the darkest in all the world, and the noises continue to press in
+from all sides.
+~
+0 0 0
+D0
+~
+~
+0 0 5807
+D2
+~
+~
+0 0 5805
+S
+#5807
+Trail through the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5808
+D2
+~
+~
+0 0 5806
+S
+#5808
+Trail through the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5809
+D2
+~
+~
+0 0 5807
+S
+#5809
+Trail through the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5808
+S
+#5810
+Trail through the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5809
+S
+#5811
+A Thinning in The {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5812
+D2
+~
+~
+0 0 5810
+S
+#5812
+A Thinning in the {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5813
+D2
+~
+~
+0 0 5811
+S
+#5813
+A Thinning in The {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5814
+D2
+~
+~
+0 0 5812
+S
+#5814
+A Thinning in The {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The trail continues north through this dark place. The trail, if you can even
+call it that, is barely wide enough for one person to travel. The trees seem
+to be bent towards the path, pressing in close, all around.
+~
+0 0 0
+D0
+~
+~
+0 0 5815
+D2
+~
+~
+0 0 5813
+S
+#5815
+A Thinning in The {DD{wa{Wr{wk{X {DF{2o{@r{2e{ws{Dt{X~
+The {DF{2o{@r{2e{ws{Dt{X thins out here, and finally comes to a close as a path is
+evident to the west.
+~
+0 0 0
+D2
+~
+~
+0 0 5814
+D3
+~
+~
+0 0 5816
+S
+#5816
+The Western Passage Continues~
+The Western Passage picks back up here, continuing on it's way west. The sky
+all around seems to be nothing but an ink blot, with flecks of blue appearing
+seemingly at random here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 5815
+D3
+~
+~
+0 0 5817
+S
+#5817
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D1
+~
+~
+0 0 5816
+D3
+~
+~
+0 0 5818
+S
+#5818
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D1
+~
+~
+0 0 5817
+D3
+~
+~
+0 0 5819
+S
+#5819
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D1
+~
+~
+0 0 5818
+D3
+~
+~
+0 0 5820
+S
+#5820
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D1
+~
+~
+0 0 5819
+D3
+~
+~
+0 0 5821
+S
+#5821
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D0
+~
+~
+0 0 4500
+D1
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5822
+S
+#5822
+The Western Passage~
+The passage continues on it's way here, heading out west, or east, depending
+on which way you're headed. The forest beyond the path also has begun to
+somewhat thin out, giving off a less threatening vibe, and allowing you
+to breath more easily.
+~
+0 0 0
+D1
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5823
+S
+#5823
+The Western Passage Ends~
+The Western Passage ends here, giving way to a clearing, in which a great city
+can be seen in the distance. The city appears to be of ancient architechure,
+but fully functional. A large curtain wall surrounds the city, with gates at
+four access points.
+~
+0 0 0
+D1
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 11000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11011 9 5823 6 *Load a Vagabond
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,722 @@
+#AREADATA
+Name Gutierreo Village~
+Builders Unlinked Rzarecta~
+VNUMs 9000 9099
+Continent 0
+Credits [40 80] Rzrecta Gutierreo Village~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#9000
+potionkeeper~
+The Potionkeeper~
+The potionkeeper stands here awaiting your service.
+~
+~
+human~
+AB 0 0 0 0
+200 0 5d10+50000 50d10+200 50d10+1000 none
+-20 -20 -20 -15
+0 0 0 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 9000 100~
+#9001
+magic man shopkeeper~
+The Magic Man~
+A shopkeeper stands here whirling his wand talking to himself.
+~
+~
+human~
+AB 0 0 1000 0
+200 200 50d10+25000 50d10+2000 50d10+1000 none
+-25 -25 -25 -25
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9000
+clear liquid potion restoration~
+a potion of restoration~
+A clear-liquid potion lies here.~
+unknown~
+potion 0 A
+50 'cure critical' 'cure critical' 'cure critical' 'reserved'
+50 1 2550 P
+#9001
+potion defending defend~
+a potion of defending~
+A potion made to defend one self is lying here.~
+unknown~
+potion 0 A
+45 'giant strength' 'shield' 'armor' 'stone skin'
+45 5 1550 P
+#9002
+potion attack war~
+a potion of attacking~
+A potion made to allow one to attack in war lies here.~
+unknown~
+potion 0 A
+75 'fireshield' 'iceshield' 'shockshield' 'stone skin'
+55 15 5555 P
+#9003
+wand yellowish glow ~
+a {#glowing{) wand~
+A small wind with a {#glowing{) tip lies here unused.~
+unknown~
+wand 0 AO
+50 100 100 'acid blast' 0
+25 25 2555 P
+#9004
+fiery wand stick~
+a fiery wand~
+A long wooden stick with a fiery tip at the end lies here.~
+unknown~
+wand 0 AO
+65 100 100 'fire breath' 0
+35 35 4000 P
+#9005
+green leaf leaflet~
+a green elven leaf~
+A strangely-shaped {Ggreen{X leaflet lies here waiting to be eaten.~
+unknown~
+pill 0 AO
+30 'cure critical' 'cure critical' 'cure critical' 'heal'
+20 5 18500 P
+#9006
+brown elven leaf leaflet~
+a brown elven leaf~
+A long oddly-shaped brown leaflet lies here edible enough to eat!~
+unknown~
+pill A AO
+50 'frenzy' 'giant strength' 'divine protection' 'steel flesh'
+45 5 55550 P
+#0
+
+
+
+#ROOMS
+#9000
+In the Clouds Somewhere ...~
+{Y
+                           _                                  
+                         (`  ).                   _           
+                        (     ).              .:(`  )`.       
+                       _(       '`.          :(   .    )      
+                   .=(`(      .   )     .--  `.  (    ) )      
+       .--.       ((    (..__.:'-'   .+(   )   ` _`  ) )                 
+     _(    `.     `(       ) )       (   .  )     (   )  ._   
+    (        )      ` __.:'   )     (   (   ))     `-'.-(`  ) 
+   ( `  .  )  )  ( )       --'       `- __.'         :(      )) 
+    `--(___.-'  (_.'          .')                    `(    )  ))
+                             (_  )                     ` __.:'         
+{)
+~
+0 4 0
+D5
+~
+~
+0 0 9001
+S
+#9001
+Inside the Northern Gates~
+-
+                          !  !  ! II II !  !  !
+                       !  I__I__I_II II_I__I__I  !
+                       I_/|__|__|_|| ||_|__|__|\_I
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+        .--.        I//|  | I| N|S|| ||I|D |E |  |\\I        .--.
+       /-   \    ! /|/ |  |  |  | || || |  |  |  | \|\ !    /=   \
+       \=__ /    I//|  |  |  |  |T||H||E|  |  |  |  |\\I    \-__ /
+        )  (  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  )  (
+       (____) I//|  |  |  |  | G|A||T||E|S |  |  |  |  |\\I (____)
+        |= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |
+        |  ||/|__|__|__|__|__|__|O|| ||F|__|__|__|__|__|__|\||- |
+        |- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |
+        |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  
+        |= || |  |  |  | G| U| T|I||E||R| R| E| O|  |  |  | ||= | 
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||- | 
+        |  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |
+        |= ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||- |
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        You are by two small towers that have been built into the 
+        city wall and connected with a footbridge across the big 
+        heavy wooden gate.  Main Street leads south from here. The 
+        Wall road crosses the street, heading west and east 
+        along the city wall.
+~
+0 0 0
+D0
+~
+~
+0 0 9011
+D2
+~
+~
+0 0 9002
+S
+#9002
+Along Main Street~
+-
+    ....           ....          ....           ....         ....     
+       ||             ||           ||             ||           ||         
+   /"""l|\        /"""l|\      /"""l|\        /"""l|\      /"""l|\     
+  /_______\      /_______\    /_______\      /_______\    /_______\   
+--|  .-.  |------|  .-.  |----|  .-.  |------|  .-.  |----|  .-.  |--
+::|__|L|__|::::::|__|L|__|::::|__|L|__|::::::|__|L|__|::::|__|L|__|::
+:::::.\\.:::::::::::.\\.:::::::::.\\.:::::::::::.\\.:::::::::.\\.:::: 
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+A well-made street runs straight north and south here with buildings 
+visible on the west and east. The building on the western side of the
+road has a sign with a bottled potion as its logo and to the right, a
+faint sound of nice music being played.  The flow of traffic is 
+rather fair as travellers spend much of their leisure moving about 
+town and its shops.
+~
+0 0 0
+D0
+~
+~
+0 0 9001
+D1
+~
+~
+0 0 9020
+D2
+~
+~
+0 0 9003
+D3
+~
+~
+0 0 9019
+S
+#9003
+Along Main Street~
+-
+    ....           ....          ....           ....         ....     
+       ||             ||           ||             ||           ||         
+   /"""l|\        /"""l|\      /"""l|\        /"""l|\      /"""l|\     
+  /_______\      /_______\    /_______\      /_______\    /_______\   
+--|  .-.  |------|  .-.  |----|  .-.  |------|  .-.  |----|  .-.  |--
+::|__|L|__|::::::|__|L|__|::::|__|L|__|::::::|__|L|__|::::|__|L|__|::
+:::::.\\.:::::::::::.\\.:::::::::.\\.:::::::::::.\\.:::::::::.\\.:::: 
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+The main street that flows through here north and south within 
+Gutierreo is rather wide and provides easy leeway towards and away 
+fromthis town.  To the west lies the armory where protective armor is
+sold.  To the east lies a bakery where sweet smelling goodies are
+made everyday.  To the south is the Market Square where the traffic 
+is great and the streets busy.
+~
+0 0 0
+D0
+~
+~
+0 0 9002
+D1
+~
+~
+0 0 9018
+D2
+~
+~
+0 0 9004
+D3
+~
+~
+0 0 9017
+S
+#9004
+Market Square~
+-
+                  T   ________ 
+  _____/----/-\ .' './========\ This is the ever famous Market Square, the 
+ |.-.-.|===| _ |-----| u    u | center part of the town.  From here directions
+ || | ||===||||| |T| |   ||   | go in all ways, north and south to the main
+ :::::::::::::::::::::::::::::: streets.  East of here lies the temple square
+ ''''''''THE GUTIERREO''''''''' while to the West takes you to the common
+         MARKET SQUARE          square.
+~
+0 0 0
+D0
+~
+~
+0 0 9003
+D1
+~
+~
+0 0 9008
+D2
+~
+~
+0 0 9005
+S
+#9005
+Along Main Street~
+....           ....          ....           ....         ....     
+       ||             ||           ||             ||           ||         
+   /"""l|\        /"""l|\      /"""l|\        /"""l|\      /"""l|\     
+  /_______\      /_______\    /_______\      /_______\    /_______\   
+--|  .-.  |------|  .-.  |----|  .-.  |------|  .-.  |----|  .-.  |--
+::|__|L|__|::::::|__|L|__|::::|__|L|__|::::::|__|L|__|::::|__|L|__|::
+:::::.\\.:::::::::::.\\.:::::::::.\\.:::::::::::.\\.:::::::::.\\.:::: 
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+The main street that flows through here north and south within 
+Gutierreo extends far outside of the city to the realms beyond. A 
+shop to the east of here takes you to the general store while west of 
+here famous jewelry is being sold. The grand Market Square is 
+foreseeable to the north as the atmosphere around here is easily
+fitting for the commoner to travel and look at.
+~
+0 0 0
+D0
+~
+~
+0 0 9004
+D1
+~
+~
+0 0 9016
+D2
+~
+~
+0 0 9006
+D3
+~
+~
+0 0 9015
+S
+#9006
+Along Main Street~
+-
+    ....           ....          ....           ....         ....     
+       ||             ||           ||             ||           ||         
+   /"""l|\        /"""l|\      /"""l|\        /"""l|\      /"""l|\     
+  /_______\      /_______\    /_______\      /_______\    /_______\   
+--|  .-.  |------|  .-.  |----|  .-.  |------|  .-.  |----|  .-.  |--
+::|__|L|__|::::::|__|L|__|::::|__|L|__|::::::|__|L|__|::::|__|L|__|::
+:::::.\\.:::::::::::.\\.:::::::::.\\.:::::::::::.\\.:::::::::.\\.:::: 
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Loud clanking noises of local blacksmiths hard at work can be heard 
+to the east at the weapons shop. The well evened-out pavement of the 
+streets here in town provide safe and easy passage thru this busy
+street. The main street walks north and south here while to the west
+lies a bank in which money can be safekept and distributed for those
+commoners locally and distant moving about.
+~
+0 0 0
+D0
+~
+~
+0 0 9005
+D1
+~
+~
+0 0 9014
+D2
+~
+~
+0 0 9007
+D3
+~
+~
+0 0 9013
+S
+#9007
+Inside the Southern Gates~
+-
+           
+                       
+                          !  !  ! II II !  !  !
+                       !  I__I__I_II II_I__I__I  !
+                       I_/|__|__|_|| ||_|__|__|\_I
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+        .--.        I//|  | I| N|S|| ||I|D |E |  |\\I        .--.
+       /-   \    ! /|/ |  |  |  | || || |  |  |  | \|\ !    /=   \
+       \=__ /    I//|  |  |  |  |T||H||E|  |  |  |  |\\I    \-__ /
+        )  (  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  )  (
+       (____) I//|  |  |  |  | G|A||T||E|S |  |  |  |  |\\I (____)
+        |= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |
+        |  ||/|__|__|__|__|__|__|O|| ||F|__|__|__|__|__|__|\||- |
+        |- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |
+        |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  
+        |= || |  |  |  | G| U| T|I||E||R| R| E| O|  |  |  | ||= | 
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||- | 
+        |  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |
+        |= ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||- |
+        |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |
+        You are by two small towers that have been built into the 
+        city wall and connected with a footbridge across the big 
+        heavy wooden gate.  Main Street leads north from here. The 
+        Wall road crosses the street, heading west and east 
+        along the city wall.
+~
+0 0 0
+D0
+~
+~
+0 0 9006
+D2
+~
+~
+0 0 9012
+S
+#9008
+Temple Square~
+-
+ 
+ 
+                                   |
+                                  .-.
+             Huge marble steps   /___\   lead up to the temple
+       as the structure before   |___|   you take you into this huge                
+        magnificent sight of a   |]_[|   structure. To the west is
+       the Market Square while   / I \   inside the temple lies east.
+                              JL/  |  \JL
+                          i   ()   |   ()   i                
+                         /_\  LJ=======LJ  /_\          
+                        .L_J_/.-.     .-.\_L_J.
+                         L_J  |_| [I] |_|  L_J       
+                         L_J%%%%%%%%%%%%%%%L_J       
+~
+0 0 0
+D1
+~
+~
+0 0 9009
+D3
+~
+~
+0 0 9004
+S
+#9009
+In the Temple~
+You are in the eastern end of the temple hall in the Temple of Restoration.
+The temple has been constructed from giant marble blocks, eternal in
+appearance, and most of the walls are covered by ancient wall paintings
+picturing gods, giants and peasants.
+   A small doorway leads north.
+   Large steps lead down through the grand temple gate, descending the huge
+mound upon which the temple is built and ends on the temple square below.
+~
+0 0 0
+D0
+~
+~
+0 0 9021
+D1
+~
+~
+0 0 9010
+D3
+~
+~
+0 0 9008
+S
+#9010
+The Temple Altar~
+You are by the temple altar in the eastern end of the Temple of Tano.
+A huge altar made from golden polished obsidian is standing in front of you and
+behind it is a ten foot tall sitting statue of Tano, the God of spirituality.
+The back of the altar opens into a beautiful atrium, above which can be
+seen a rainbow.
+~
+0 0 0
+D3
+~
+~
+0 0 9009
+S
+#9011
+Outside the Northern Gates~
+-
+ 
+        ...oO                _.--X--OO--X--._                       ...oOO
+                         _.--   / \ II / \   --._
+                    [].--  \   /   \||/   \   /  --.[]    ...o
+ ...o           _   ||/     \ /     ||     \ /     \||   _
+               (_)  |X       X \/\/E||LCOME X       X|  (_)
+              _---_ ||\     / \     ||     / \     /|| _---_
+              ||||| || \   /   \   /||\   /   \   / || |||||
+              |   |_||  \ /     \ / || \ /     \ /  ||_|   |
+              |   |-||   X       X T||O X       X   ||-|   |
+==============|   | ||  / \     / \ || / \     / \  || |   |==============
+______________|   | || /   \   /   \||/   \   /   \ || |   |______________
+    .     .   |   | ||/     \ /     ||     \ /     \|| |   |  .       .
+       /      |   | |X       X  GUTI||ERREO X       X| |   |    /        /
+  /   .       |   | ||\     / \     ||     / \     /|| |   | .      /   .
+    .    .    |   | ||  \ /     \ / || \ /     \ /  || |   |          .
+      /       |   | ||   X       X  ||  X       X   || |   | . / .      /
+  /        .  |   | ||  / \     / \ || / \     / \  || |   |        /
+         /    |   | || /   \   /   \||/   \   /   \ || |   |   .         /
+              |   |_|X       X    / II \    X       X|_|   |  .     .   /
+==============|   |-II--------------OO--------------II-|   |==============
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the north is
+a long trail of dirt that carries on for miles into the unknown while
+much populated activity can be heard to the south inside of town.
+A SIGN beside the gate catches your attention.
+~
+0 0 0
+E
+sign~
+WELCOME TO GUTIERREO VILLAGE
+ 
+              EVERYONE IS WELCOME!
+ 
+ 
+                     ENJOY YOURSELF AND ENJOY YOUR STAY!
+ 
+    (Other than the limited resources provided.)
+~
+D2
+~
+~
+0 0 9001
+S
+#9012
+Outside the Southern Gates~
+-
+ 
+        ...oO                _.--X--OO--X--._                       ...oOO
+                         _.--   / \ II / \   --._
+                    [].--  \   /   \||/   \   /  --.[]    ...o
+ ...o           _   ||/     \ /     ||     \ /     \||   _
+               (_)  |X       X \/\/E||LCOME X       X|  (_)
+              _---_ ||\     / \     ||     / \     /|| _---_
+              ||||| || \   /   \   /||\   /   \   / || |||||
+              |   |_||  \ /     \ / || \ /     \ /  ||_|   |
+              |   |-||   X       X T||O X       X   ||-|   |
+==============|   | ||  / \     / \ || / \     / \  || |   |==============
+______________|   | || /   \   /   \||/   \   /   \ || |   |______________
+    .     .   |   | ||/     \ /     ||     \ /     \|| |   |  .       .
+       /      |   | |X       X  GUTI||ERREO X       X| |   |    /        /
+  /   .       |   | ||\     / \     ||     / \     /|| |   | .      /   .
+    .    .    |   | ||  \ /     \ / || \ /     \ /  || |   |          .
+      /       |   | ||   X       X  ||  X       X   || |   | . / .      /
+  /        .  |   | ||  / \     / \ || / \     / \  || |   |        /
+         /    |   | || /   \   /   \||/   \   /   \ || |   |   .         /
+              |   |_|X       X    / II \    X       X|_|   |  .     .   /
+==============|   |-II--------------OO--------------II-|   |==============
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the south is
+a long extensive forest that carries on for miles into the unknown while
+much populated activity can be heard to the north inside of town.
+A SIGN beside the gate demands your attention.
+~
+0 0 0
+E
+sign~
+WELCOME TO GUTIERREO VILLAGE
+ 
+           WE HAVE LIMITED RESOURCES BUT ...
+ 
+                   WERE HAPPY TO HAVE YOU HERE! ENJOY YOUR STAY!
+ 
+~
+D0
+~
+~
+0 0 9007
+S
+#9013
+The Guti Bank~
+A solid structure made entirely of thick heavy stones.  A large stone
+wall seperates the bankers from the citizens.  Iron bars embedded in the
+wall assure safe transactions.  Towards the back a large metal door can be
+seen.  The bank vault was built by the dwarves and is the safest in the
+world, the lock was created by the gnomes and promises anyone without the
+key a very hard time indeed of getting it open.  Only the banker, and the
+mayor have keys.  A tall, muscular guard stands watch for any signs of
+trouble.  East leads back to main street.
+~
+0 0 0
+D1
+~
+~
+0 0 9006
+S
+#9014
+The Weapon World~
+A variety of ancient weapons once used in war hang across the walls as
+you enter the shop.  Many different kinds of weapons lie everywhere, some
+that are used while others are brand new.  Several weapons on display have
+strange craftings done to it which make it almost unheard of in these parts.
+To the west lies the exit out to the main street.  
+~
+0 0 0
+D3
+~
+~
+0 0 9006
+S
+#9015
+The Jewels Emporium~
+You are in a small, beautifully furnished room.  The warm light emanating
+from the small oil lamps on the walls is reflected in the hard, polished
+surface of the big mahogany desk that stands in the centre of the room.
+A small sign with golden letters stands on the desk.
+~
+0 0 0
+E
+sign~
+The golden letters say :-
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the jeweller evaluate an item.
+~
+D1
+~
+~
+0 0 9005
+S
+#9016
+The General Store~
+You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
+~
+0 0 0
+E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D3
+~
+~
+0 0 9005
+S
+#9017
+The Armor Shop~
+The armoury with all kinds of armours on the walls and in the window.  You
+see helmets, shields and chain mails.  To the east is the main street.
+On the wall is a small note.
+~
+0 0 0
+E
+note~
+You can use these commands for trading:
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+D1
+~
+~
+0 0 9003
+S
+#9018
+The Smell of Sweetness~
+You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+0 0 0
+E
+sign~
+Free instructions provided by the store:
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+D3
+~
+~
+0 0 9003
+S
+#9019
+The Potion Place~
+Strange vials and flasks are seen hung on stands everywhere on old wooden
+tables as you enter this old worn-down shop.  Several chairs aside long
+tables are seen to the north with a handful of vials here and there.  Some
+flames boil faintly as colorful bubbles are seen around.  
+~
+0 0 0
+D1
+~
+~
+0 0 9002
+S
+#9020
+The Enchanted Magic Shop~
+You are in a small room that smells of rare chemicals and spices. 
+Dividing the room in two is a large desk, and on the wall behind it are
+numerous shelves crammed with jars, bottles, books and scrolls of all sorts
+and sizes.  
+~
+0 0 0
+D3
+~
+~
+0 0 9002
+S
+#9021
+The Portal Room~
+~
+0 0 0
+D2
+~
+~
+0 0 9009
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9000 1 9019 1 *Load The Potionkeeper
+G 0 9002 0 *A potion of attacking is given to The Potionkeeper
+G 0 9001 0 *A potion of defending is given to The Potionkeeper
+G 0 9000 0 *A potion of restoration is given to The Potionkeeper
+M 0 9001 1 9020 1 *Load The Magic Man
+G 0 9003 0 *A {#glowing{) wand is given to The Magic Man
+G 0 9004 0 *A fiery wand is given to The Magic Man
+G 0 9005 0 *A green elven leaf is given to The Magic Man
+G 0 9006 0 *A brown elven leaf is given to The Magic Man
+S
+
+
+
+#SHOPS
+9000 0 0 0 0 0 100 100 0 23
+9001 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#9000
+say How does thee do? Type LIST to see what we have!
+~
+#0
+
+#$

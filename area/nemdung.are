@@ -1,0 +1,200 @@
+#AREADATA
+Name Nemisis' Dungeon~
+Builders Unlinked Juan~
+VNUMs 44200 44299
+Continent 1
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#44200
+~
+Going down the block stairwell, swirling down from Nemesis' Private
+Dungeon, many leather whips can be seen.  Moving down, screams of pleasure,
+and pain can be heard.  With soft glowing torches to guide the way, speckles
+of blood are visible on the ground.  
+~
+0 0 0
+D5
+~
+~
+0 0 44201
+S
+#44201
+~
+Reaching the dungeon below, many feather dusters, pleasure toys, and
+gags, of all kinds are hanging on the walls.  Loud screams comeing from all
+directions, of mixed pleasure, and pain.  The center of the room, holds a
+harness for suspending one's victim.  
+~
+0 0 0
+D0
+~
+~
+0 0 44205
+D1
+~
+~
+0 0 44202
+D2
+~
+~
+0 0 44204
+D3
+~
+~
+0 0 44203
+D4
+~
+~
+0 0 44200
+S
+#44202
+~
+~
+0 0 0
+D3
+~
+~
+0 0 44201
+S
+#44203
+~
+~
+0 0 0
+D1
+~
+~
+0 0 44201
+S
+#44204
+~
+~
+0 0 0
+D0
+~
+~
+0 0 44201
+S
+#44205
+~
+~
+0 0 0
+D2
+~
+~
+0 0 44201
+D5
+~
+~
+0 0 44206
+S
+#44206
+~
+~
+0 0 0
+D2
+~
+~
+0 0 44207
+D4
+~
+~
+0 0 44205
+S
+#44207
+~
+~
+0 0 0
+D0
+~
+~
+0 0 44206
+D1
+~
+~
+0 0 44208
+D2
+~
+~
+0 0 44210
+D3
+~
+~
+0 0 44209
+D5
+~
+~
+0 0 44211
+S
+#44208
+~
+~
+0 0 0
+D3
+~
+~
+0 0 44207
+S
+#44209
+~
+~
+0 0 0
+D1
+~
+~
+0 0 44207
+S
+#44210
+~
+~
+0 0 0
+D0
+~
+~
+0 0 44207
+S
+#44211
+~
+~
+0 0 0
+D4
+~
+~
+0 0 44207
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

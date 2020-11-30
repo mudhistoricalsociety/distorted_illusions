@@ -1,0 +1,392 @@
+#AREADATA
+Name Bullywug Marsh~
+Builders Murdoc Unlinked~
+VNUMs 17274 17350
+Continent 2
+Credits (null)~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#17274
+totem god~
+{wA Large Totem{x~
+{wA large totem stands before you.{x
+~
+~
+school monster~
+ABG b 0 1000 0
+100 100 420d420+0 0d0+0 100d100+0 divine
+100 100 100 100
+R ABCDPQ 0 C
+stand stand male 0
+AHMV ABCDEFGHIJKQU medium unknown
+F act U
+M GRALL 17274 100~
+M SPEECH 17275 unity~
+M SPEECH 17278 i have returned~
+#17275
+god teleporter~
+{x~
+{x
+~
+~
+human~
+ABGMU CDEFGLPQZ 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 17276 100~
+M SPEECH 17277 yes~
+#0
+
+
+
+#OBJECTS
+#17274
+uthatu tribal crest~
+{RU{rt{Bh{ba{Rt{ru {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{x~
+(no description)~
+unknown~
+armor 0 AU
+0 0 0 0 0
+50 1 0 P
+#17275
+antama tribal crest~
+{CA{cn{Yt{ya{Cm{ca {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{x~
+(no description)~
+unknown~
+armor 0 AU
+0 0 0 0 0
+50 1 0 P
+#17276
+bamatru tribal crest~
+{MB{ma{Dm{wa{Mt{mr{Du {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{x~
+(no description)~
+unknown~
+armor 0 AU
+0 0 0 0 0
+50 1 0 P
+#17277
+uthatu blood vial~
+{wa vial of {RU{rt{Bh{ba{Rt{ru {rb{Rlo{rod{x~
+{wA vial of {RU{rt{Bh{ba{Rt{ru {rb{Rlo{rod{w lies here.~
+unknown~
+potion 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#17278
+antama blood vial~
+{wa vial of {CA{cn{Yt{ya{Cm{ca {rb{Rlo{rod{x~
+{wA vial of {CA{cn{Yt{ya{Cm{ca {rb{Rlo{rod{w lies here.~
+unknown~
+potion 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#17279
+bamatru blood vial~
+{wa vial of {MB{ma{Dm{wa{Mt{mr{Du {rb{Rlo{rod{x~
+{wA vial of {MB{ma{Dm{wa{Mt{mr{Du {rb{Rlo{rod{w lies here.~
+unknown~
+potion 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#17280
+crest unity~
+{C\{c-{WC{wre{Wst {wof {WUn{wit{Wy{c-{C/{x~
+A crest of the {Wu{wni{Wfi{wed tribes lies here.{x~
+unknown~
+armor AT AU
+BD BD BD BD 0
+101 2 0 P
+A
+13 200
+A
+12 150
+#0
+
+
+
+#ROOMS
+#17274
+Along a Swampy Path~
+~
+0 4 0
+D1
+~
+~
+0 0 5199
+D3
+~
+~
+0 0 17275
+S
+#17275
+Before a Marsh~
+~
+0 0 0
+D1
+~
+~
+0 0 17274
+D3
+~
+~
+0 0 17276
+S
+#17276
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17284
+D1
+~
+~
+0 0 17275
+D2
+~
+~
+0 0 17283
+D3
+~
+~
+0 0 17277
+S
+#17277
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17281
+D1
+~
+~
+0 0 17276
+D2
+~
+~
+0 0 17282
+D3
+~
+~
+0 0 17278
+S
+#17278
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17279
+D1
+~
+~
+0 0 17277
+D2
+~
+~
+0 0 17280
+S
+#17279
+An Indifferent Marsh~
+~
+0 0 0
+D1
+~
+~
+0 0 17281
+D2
+~
+~
+0 0 17278
+S
+#17280
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17278
+D1
+~
+~
+0 0 17282
+S
+#17281
+An Indifferent Marsh~
+~
+0 0 0
+D1
+~
+~
+0 0 17284
+D2
+~
+~
+0 0 17277
+D3
+~
+~
+0 0 17279
+S
+#17282
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17277
+D1
+~
+~
+0 0 17283
+D3
+~
+~
+0 0 17280
+S
+#17283
+An Indifferent Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17276
+D3
+~
+~
+0 0 17282
+S
+#17284
+An Indifferent Marsh~
+~
+0 0 0
+D2
+~
+~
+0 0 17276
+D3
+~
+~
+0 0 17281
+S
+#17285
+Before the Totem~
+~
+0 0 0
+D2
+~
+~
+0 0 17286
+S
+#17286
+Away from the Marsh~
+~
+0 0 0
+D0
+~
+~
+0 0 17285
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 17275 1 17277 1 *Load {x
+M 0 17274 1 17285 1 *Load {wA Large Totem{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#17274
+MOB echo {wA voice from above says '{mWelcome $n.{w'{x
+MOB echo {wA voice from above asks '{mWhat is it you come for?{w'{x
+~
+#17275
+MOB echo {wA voice from above says '{mVery well, $n.{w'{x
+MOB echo {wA voice from above says '{mUnity, eh? Okay. I will need a few items from you.{w'{x
+MOB echo {w {x
+MOB echo {wA voice from above says '{mI will need three crests, one per tribe.{w'{x
+MOB echo {wA voice from above says '{mIn addition to the crests, I will need vials of blood from each of the tribal leaders.{w'{x
+MOB echo {wA voice from above says '{mWith these items, unity can be reached.{w'{x
+MOB echo {wA voice from above says '{mGo $n. Do not return empty-handed.{w'{x
+MOB transfer $n 17277
+~
+#17276
+MOB echo {wA voice from above says '{mHey...$n...{w'{x
+MOB echo {wA voice from above asks '{mI've got a task...want to give it a shot?{w'{x
+~
+#17277
+MOB echo {wA voice from above says '{mVery well...{w'{x
+MOB echo {w {x
+MOB echoat $n {WIn a {YF{yL{WA{wS{YH {Wyou disappear and reappear somewhere else.{x
+MOB transfer $n 17286
+MOB echo {WIn a {YF{yL{WA{wS{YH {W$n disappears!{x
+mob at $n mob echoaround $n {W$n appears in a {YF{yL{WA{wS{YH{W!{x
+~
+#17278
+if carries $i 17274
+if carries $i 17275
+if carries $i 17276
+if carries $i 17277
+if carries $i 17278
+if carries $i 17279
+MOB echo {wA voice from above says '{mSo, I see you've returned everything I asked. You shall be rewarded...{w'{x
+MOB oload 17280
+give unity $n
+MOB transfer $n 17277
+mob junk all
+else
+say You're lacking {wa vial of {MB{ma{Dm{wa{Mt{mr{Du {rb{Rlo{rod{w.{x
+MOB transfer $n 17277
+endif
+else
+say You're lacking {wa vial of {CA{cn{Yt{ya{Cm{ca {rb{Rlo{rod{w.{x
+MOB transfer $n 17277
+endif
+else
+say You're lacking {wa vial of {RU{rt{Bh{ba{Rt{ru {rb{Rlo{rod{w.{x
+MOB transfer $n 17277
+endif
+else
+say You're lacking the {MB{ma{Dm{wa{Mt{mr{Du {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{w.{x
+MOB transfer $n 17277
+endif
+else
+say You're lacking the {CA{cn{Yt{ya{Cm{ca {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{w.{x
+MOB transfer $n 17277
+endif
+else
+say You're lacking the {RU{rt{Bh{ba{Rt{ru {DT{wr{Wi{wb{Da{wl {WC{wr{De{ws{Wt{w.{x
+MOB transfer $n 17277
+endif
+~
+#0
+
+#$

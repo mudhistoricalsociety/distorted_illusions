@@ -1,0 +1,2816 @@
+#AREADATA
+Name Coliseum~
+Builders Fesdor Unlinked Adelia~
+VNUMs 400 499
+Continent 3
+Credits {Y[70-101] {cFesdor   {YColiseum{x~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#400
+gladiator~
+A Gladiator~
+A gladiator stands here, bloody weapon at his side.
+~
+~
+human~
+ATc Fc 0 1000 0
+110 101 13000d1+0 0d0+0 8d6+27 slash
+-25 -25 -25 -23
+CDFK A D 0
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#401
+coliseum gatekeeper large man~
+A Coliseum Gatekeeper~
+A large man stands here taking entrance fees.
+~
+~
+human~
+ABT DEFJVZc 0 0 0
+140 250 1d1+14999 0d0+0 40d100+300 punch
+-20 -20 -20 -20
+CDFHJ B 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK large unknown
+M EXALL 400 0~
+M FIGHT 402 100~
+M GRALL 403 100~
+M BRIBE 401 500000~
+#402
+emperor~
+The Emperor~
+The emperor lounges here, watching the bloodsport.
+~
+~
+human~
+AB 0 0 1000 0
+130 35 600d35+0 0d0+0 13d10+5 slap
+0 0 0 0
+0 0 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+#403
+senator~
+The Senator~
+A senator is seated here, looking very stately.
+~
+~
+human~
+AB 0 0 1000 0
+130 35 600d35+0 0d0+0 13d10+0 punch
+0 0 0 0
+0 0 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+#404
+magistrate~
+The Magistrate~
+The magistrate appears deep in thought.
+~
+~
+human~
+AB 0 0 1000 0
+130 35 600d35+0 0d0+0 13d10+5 punch
+-2 -2 -2 -2
+0 0 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+#405
+jaguar~
+{YA J{Da{Yg{Dua{Yr{x~
+A jaguar stalks about, dried blood caked around its jowls.
+~
+~
+cat~
+AFG CDEFGZ 0 1000 0
+130 50 1d1+9999 500d1+0 8d13+5 claw
+-11 -11 -11 -1
+FHMN 0 E 0
+stand stand either 0
+AGV ACDEFHJKQUV large unknown
+#406
+red ape orangutan~
+{RA H{ra{Yir{Ry O{rra{Rn{rg{yu{Yta{Rn{x~
+This enormous orange ape must weigh 300 pounds!
+~
+~
+beastman~
+AFG CDEFGZ 0 1000 0
+140 50 11000d1+0 500d1+0 8d13+5 beating
+-11 -11 -11 -1
+FHMN 0 G I
+stand stand either 5000
+AGHMV ABCDEFGHIJKQ large unknown
+F res C
+#407
+tiger~
+{RA T{Dig{Re{Dr{x~
+A tiger is hunched here, ready to pounce.
+~
+~
+cat~
+AFG CDEFGVZ 0 1000 0
+140 50 10000d1+0 500d1+0 9d13+3 chomp
+-11 -11 -11 -1
+FHMN 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJKQUV large unknown
+#408
+bear~
+A Grizzly Bear~
+A bear stands here on its hind legs, dominating the room.
+~
+~
+cat~
+AFG CDEFGVZ 0 1000 0
+140 50 10000d1+0 500d1+0 9d13+3 chomp
+-11 -11 -11 -1
+CF 0 D C
+stand stand either 0
+AGHMV ABCDEFGHIJKQUV huge unknown
+F off H
+#409
+elephant~
+{DA{dn El{Dep{dha{Dn{dt{x~
+An enormous elephant stands here, its trunk swinging back and forth.
+~
+~
+troll~
+ABFGT CDEFGJZ 0 1000 0
+140 30 14000d1+0 500d1+0 9d13+3 crush
+-11 -11 -11 -1
+CDF 0 BD C
+stand stand either 0
+ABGHMV ABCDEFGHIJKQUV giant unknown
+F aff c
+F res E
+F vul HK
+#410
+lion~
+{YA L{yi{Yon{x~
+A regal lion stands here, his mane knotted and tangled.
+~
+~
+troll~
+AFGT CDEFGJVZ 0 1000 0
+140 30 10000d1+0 500d1+0 9d13+3 crush
+-11 -11 -11 -1
+DFH 0 BG C
+stand stand either 0
+ABGHMV ABCDEFGHIJKQUV huge unknown
+F aff c
+F res E
+F vul HK
+#411
+silverback gorilla~
+{DA {dSi{Wlv{we{cr{wba{Wc{wk {dG{Dorilla{x~
+A muscular silverback gorilla beats its chest.
+~
+~
+troll~
+AFGT CDEFGJZ 0 1000 0
+140 30 12000d1+0 500d1+0 9d13+3 crush
+-11 -11 -11 -1
+CDF 0 BE C
+stand stand either 0
+ABGHMV ABCDEFGHIJKQUV huge unknown
+F aff c
+F vul HK
+#412
+man beast keeper~
+A beast keeper~
+A man walks around tending to the beasts.
+~
+~
+human~
+AG 0 0 1000 0
+130 105 1d1+11999 10d10+100 11d19+15 slap
+-13 -13 -13 -9
+FH AB 0 0
+stand stand none 1000
+AMV BCDEFG medium unknown
+F for H
+F par AHIJK
+#413
+thracian~
+A Thracian~
+A thracian stands here, shield at the ready.
+~
+~
+human~
+ATc Fc C 1000 0
+110 101 13000d1+0 0d0+0 8d6+27 slash
+-25 -25 -25 -23
+CDFK A D 0
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#414
+black mamba long black snake~
+{DA Bl{Ra{Dck M{Ra{Dm{Rb{Da{x~
+A long black snake emerges from a strange bush and strikes!
+~
+~
+human~
+ABFS DFJQV 0 1000 0
+140 150 10000d1+0 0d0+0 12d15+1 acbite
+-40 -40 -40 -40
+FH ABL FK 0
+stand stand none 0
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#415
+slave~
+A Slave~
+A slave is here, trying to survive.
+~
+A young man of average build stands here, his small bronze sword limp in
+his hand as he takes in the carnage around him.  
+~
+human~
+AGRc DJT 0 1000 0
+110 109 50d10+9000 50d10+9000 8d6+26 stab
+-29 -29 -29 -29
+FJO 0 B 0
+stand stand either 1840
+ABCHJMV ABCDEFGHIJK medium unknown
+#416
+spectator~
+A Spectator~
+A spectator is here, rooting for their favorite gladiator.
+~
+~
+human~
+ABGc DJT 0 1000 0
+115 75 50d10+9000 50d10+9000 8d6+26 punch
+-29 -29 -29 -29
+FJO 0 B 0
+stand stand either 1840
+ABCHJMV ABCDEFGHIJK medium unknown
+#417
+child~
+A Child~
+A spectator is here, rooting for their favorite gladiator.
+~
+~
+human~
+ABGc DJT 0 1000 0
+115 75 50d10+9000 50d10+9000 8d6+26 punch
+-29 -29 -29 -29
+FJO 0 B 0
+stand stand either 1840
+ABCHJMV ABCDEFGHIJK medium unknown
+#418
+muscular muscle man brawler~
+A Muscle-Bound Brawler~
+A muscular man stands here, blood on his knuckles.
+~
+~
+human~
+AFTc Fc 0 1000 0
+110 101 13000d1+0 0d0+0 8d7+28 punch
+-35 -35 -35 0
+CDF A D 0
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#419
+ticket seller man slight~
+The Ticket Seller~
+A man of slight build is selling tickets to the coliseum.
+~
+~
+human~
+ABT DEFJVZc 0 0 0
+140 250 1d1+14999 0d0+0 40d100+300 punch
+-20 -20 -20 -20
+CDFHJ B 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK large unknown
+M GRALL 404 100~
+#420
+sasquatch hairy huge thing~
+{ySa{rsqu{yat{rc{yh{x~
+A huge hairy thing that could only be Sasquatch is here!
+~
+On vacation from the {gf{Go{gre{Gst{gs{C of {BOr{Yeg{Bon{C, the Sasquatch is kicking your ass!{x
+~
+hill-giant~
+ABFT FJQTVZc BH 0 0
+180 200 65000d1+0 0d0+0 50d60+300 punch
+-90 -140 -70 -100
+CDFHK I FS PRT
+stand stand none 0
+AHMVXZc ABCDEFGHIJKPQUVX giant unknown
+F vul C
+M DEATH 416 100~
+M GRALL 420 100~
+#421
+fire breathing dragon huge~
+{rA F{Ri{Yr{Re{W-{DB{Rr{De{ra{Rt{rh{Di{rn{Dg {gDr{Ga{Dg{gon{x~
+A huge dragon is here, spewing fire over everything.
+~
+Is that a ...  DRAGON?!??!!  Towering above everything else, it spews
+fire in every direction.  The spectators of the coliseum better not be in
+the {W"{Rburn zone{W"{x 
+~
+dragon~
+ABF FJTZ H 0 0
+180 200 50000d1+15000 0d0+0 50d50+200 blaze
+-90 -90 -90 -100
+FHK 0 BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+M DEATH 415 100~
+M GRALL 421 100~
+#422
+storm giant enormous~
+{BA St{Yo{Br{Dm G{bi{Ya{Bn{bt{x~
+An enormous storm giant looms here, his mace sparking with electricity.
+~
+~
+storm-giant~
+ABFT FJTZ E 0 0
+180 200 70000d1+0 0d0+0 50d50+420 crush
+-90 -90 -90 -100
+CFHK J BF GP
+stand stand male 5
+AHMVZ ABCDEFGHIJKPQUVX giant unknown
+M DEATH 414 100~
+M GRALL 422 100~
+#423
+living tree~
+{GA L{giv{Gi{Dn{Gg Tr{yee{x~
+A tree with a face attacks with its sharp branches!
+~
+This tree must be at least 25 feet tall, and it is very much alive!  Its
+branches are as thick as your leg, and some of them come to wicked points.  
+~
+draconian~
+ABF FJTZ 0 0 0
+180 200 65000d1+0 0d0+0 50d40+200 beating
+-90 -140 -70 -100
+AFHK EJLMNPTXYZ FS HKR
+stand stand none 0
+AHMXZc ABCDEFGHIJKPQUVX giant unknown
+F res E
+F vul F
+M DEATH 413 100~
+M GRALL 423 100~
+#424
+{x~
+{CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x~
+{x
+~
+It's just an illusion!
+~
+cyclops~
+AB DFJZ 0 0 0
+180 200 200000d1+0 0d0+0 50d50+350 wrath
+-50 -50 -50 -50
+CFGHK ABJKMNS DHI R
+stand stand male 5
+AHMV ABCDEFGHJK giant unknown
+F aff a
+F vul JP
+#498
+fall mob~
+{x~
+{x
+~
+~
+human~
+AB DFJQZ 0 0 0
+300 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABC 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 499 100~
+#499
+puppet master~
+{CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x~
+{RT{Dh{re {RP{ru{dp{Cp{De{ct {CM{Da{Cs{dt{re{Rr{x is here, watching his puppets dance below him.
+~
+~
+cyclops~
+ABF DFJZ BCDEHNO 0 0
+180 200 200000d1+0 0d0+0 50d50+350 wrath
+-50 -50 -50 -50
+CFGHK ABJKMNS DHI R
+stand stand male 5
+AHMV ABCDEFGHJK giant unknown
+F aff a
+F vul JP
+#0
+
+
+
+#OBJECTS
+#400
+imperial cape~
+{WI{Bm{Mpe{Br{Mi{Bal C{Ma{Bp{We{x~
+A cape of fine blue and purple cloth lies here.~
+unknown~
+armor 0 AC
+CE CE CE CE 0
+101 3 30000 P
+A
+19 15
+#401
+senator toga~
+{WA Se{Yn{Wat{wo{Wr's T{Yo{Wg{wa{x~
+A toga of fine white linen fit for a senator lies here.~
+unknown~
+armor 0 AK
+CE CE CE CE 0
+101 4 20000 P
+A
+13 75
+A
+19 10
+A
+2 1
+#402
+laurel circlet~
+{gA La{Gu{grel C{Gi{grc{Gle{gt{x~
+A circlet woven from laurel branches has been left here.~
+unknown~
+armor S AE
+BD BD BD CE 0
+50 2 5000 P
+A
+18 5
+A
+4 2
+A
+3 2
+A
+19 10
+#403
+short iron key~
+a short iron key~
+A short iron key has been forgotten here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#404
+ram carcass~
+a ram carcass~
+The carcass of a dead ram lies here, giving off the stench of rotting meat.~
+unknown~
+food 0 A
+500 500 0 1 0
+0 20 0 P
+#405
+rectangular shield~
+{ya small rectangular shield{x~
+A small rectangular shield made of some sort of wood lies here.~
+wood~
+armor S AJ
+ABF ABF ABF ABF 0
+70 30 200 P
+A
+19 3
+#406
+small falx~
+{Da small falx{x~
+A small deadly-looking falx has been left here~
+iron~
+weapon 0 AN
+dagger 11 18 stab E
+101 3 10000 P
+A
+18 -10
+A
+19 15
+#407
+iron trident~
+{wa{Dn {wir{Do{wn tr{Di{wde{Dn{wt{x~
+A long iron trident has been left sticking in the ground.~
+unknown~
+weapon 0 AN
+staff 27 7 thrust EF
+101 10 500 P
+A
+19 15
+A
+4 -2
+A
+2 -2
+#408
+thunder club~
+{BTh{Ye T{Dh{Yu{Dn{Bde{Yr{Dc{Bl{bu{Bb{x~
+Huge metal club lies here, sparking with electricity.~
+unknown~
+weapon AY AN
+mace 23 9 crush EFG
+101 45 125000 P
+A
+28 2
+A
+2 -4
+A
+13 -250
+A
+17 -20
+#409
+pair dragon claws~
+{gD{Gr{ga{Dg{Gon {RC{Dl{ra{Rw{Ds{x~
+A pair of dragon claws have been abandoned here.~
+unknown~
+armor GSY AH
+ADE ABF ABF ADE 0
+101 20 125000 P
+A
+20 -3
+A
+5 2
+A
+18 7
+A
+19 13
+#410
+bark mask~
+{GB{ga{yr{gk M{Da{Gs{gk{x~
+A mask fashioned from thick tree bark is here.~
+unknown~
+armor S AR
+ABF ABF ABF ABCD 0
+101 15 125000 P
+A
+26 10
+A
+5 1
+F
+A 13 100 c
+#411
+medicinal herb pile hemp~
+{gM{ce{gdi{Gci{gnal H{ce{gr{Gb{gs{x~
+A pile of skunky-smelling herbs have been left here.~
+unknown~
+pill ST AO
+50 'feeble mind' 'fortify wisdom' 'heal' 'faerie fire'
+101 3 200 P
+A
+17 -20
+A
+18 10
+A
+13 100
+A
+12 150
+#412
+big feet~
+{YB{ri{Yg{RF{yee{Rt{x~
+The severed feet of a large furry creature have been left here.~
+unknown~
+armor 0 AG
+CE CE CE CE 0
+101 0 0 P
+A
+14 200
+A
+26 3
+A
+13 155
+A
+3 -2
+A
+4 -2
+A
+2 -2
+A
+19 14
+#413
+knot hole~
+{gA Kn{yo{gth{Yo{Gl{ye{x~
+A knothole from an ancient tree has been left here.~
+unknown~
+portal 0 0
+A 0 BCD AEFGHI 0
+0 3 0 P
+#414
+thunder cloud~
+{DA Th{Yu{Dnd{Ye{Dr {cC{Cl{Bo{Yu{Cd{x~
+A thunder cloud hovers here, little flashes of lightning flickering across its surface.~
+unknown~
+portal 0 0
+A 0 BCD EFGHI 0
+0 3 0 P
+#415
+ring fire~
+{RA R{ri{Rn{rg {Dof {RF{ri{Rre{x~
+A ring of fire has been left hanging in the air.~
+unknown~
+portal 0 0
+A 0 BCD BEFGHI 0
+0 3 0 P
+#416
+green bushes~
+{GG{gre{Ge{gn B{Gus{gh{Ge{gs{x~
+Some green bushes are growing here, a power eminating from within them.~
+unknown~
+portal 0 0
+A 0 BCD ABEFGHI 0
+0 3 0 P
+#498
+loose ends puppet strings~
+{WP{du{Wpp{De{Wt {CS{dt{cr{ri{Dn{rg{Rs{x~
+The loose ends of thousands of puppet strings dangle here, waiting to be tugged upon.~
+unknown~
+treasure GHSYZ AB
+0 0 0 0 0
+101 0 5000 P
+A
+20 -3
+A
+17 -30
+A
+28 3
+A
+19 8
+A
+13 50
+#499
+lowbie man~
+levels 80~
+Levels 80~
+unknown~
+armor STY AT
+CFG CFG CFG CFG 0
+102 0 0 P
+A
+18 70
+A
+20 -10
+A
+2 2
+A
+3 2
+A
+4 2
+A
+5 2
+A
+13 300
+A
+12 200
+A
+14 100
+A
+19 60
+#0
+
+
+
+#ROOMS
+#400
+Northwest Coliseum Floor~
+The two huge walls of the coliseum floor meet in an imposing corner here,
+coming together from the south and east.  Spectators cheer and shout far
+above, the roar of their voices echoing off every surface.  The corpse of a
+gladiator has been impaled to the wall about six feet off the ground by what
+appears to be a small tree.  What terrible force might have done such a
+thing ...  
+~
+0 0 0
+D1
+~
+~
+0 0 401
+D2
+~
+~
+0 0 409
+S
+#401
+Northern Coliseum Floor~
+The blood stained ground beneath you shakes and vibrates from the roar of
+the crowd in the stands all around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 408
+D3
+~
+~
+0 0 400
+S
+#402
+Northern Coliseum Floor~
+The sand here has been pushed back showing the wooden floors beneath. 
+Even the wood is stained with blood.  
+~
+0 0 0
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 401
+S
+#403
+Northern Coliseum Floor~
+Directly above you is where the Emperor and his aide will be seated.  The
+northern side is always reserved for them.  
+~
+0 0 0
+D1
+~
+~
+0 0 404
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 402
+S
+#404
+Northeast Coliseum Floor~
+The northern side is always reserved for the elite to sit.  Royality,
+knights, and aides can be seen in the stands from behind.  
+~
+0 0 0
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 403
+S
+#405
+Eastern Coliseum Floor~
+A horrible stench from a mound of dead gladiators fill the air.  Many of
+the spectators have moved into other seats away from the smell of death.  
+~
+0 0 0
+D0
+~
+~
+0 0 404
+D2
+~
+~
+0 0 414
+D3
+~
+~
+0 0 406
+S
+#406
+The Coliseum Floor~
+Fire is being shot around the Coliseum by a huge fire-breathing dragon. 
+Everything around you is on fire or has been charred by this magnificent
+flying beast.  
+~
+0 0 0
+D0
+~
+~
+0 0 403
+D1
+~
+~
+0 0 405
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 407
+S
+#407
+The Coliseum Floor~
+An actual calm spot on the Coliseum floor, something must be lurking
+around waiting for you to get closer before it attacks.  Beware of ambushes.
+~
+0 0 0
+D0
+~
+~
+0 0 402
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 408
+S
+#408
+The Coliseum Floor~
+A trail of {Rblood is smeared across the floor{x leading to a huge
+talking, fighting {gtree{x !  Gladiator roam all around the Coliseum.  
+~
+0 0 0
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 409
+S
+#409
+Western Coliseum Floor~
+The dust is beginning to fly around making it hard to see.  Through the
+dust storm a gladiator tries to sneak around looking for a victim.  
+~
+0 0 0
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 410
+S
+#410
+Western Coliseum Floor~
+The crowd, delirious with their lust for blood, scream cheers of
+encourangement from he safe distance of their marble clad seats as the
+combatants enter the arena.  
+~
+0 0 0
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 419
+S
+#411
+The Coliseum Floor~
+Carcasses of exotic animals lay in a heap from battles earlier today. 
+Rhinos, buffalos, tigers, and elephants all dead rotting in the hot sun.  
+~
+0 0 0
+D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 418
+D3
+~
+~
+0 0 410
+S
+#412
+In The {RM{rel{Re{re{x~
+The ground here is covered in a substantial coating of {Rg{ro{Rre{x. 
+Severed limbs, innards, and other unnamed pieces of flesh are all strewn
+about across a substrate of blood.  The battle rages on in all directions in
+the purest form of chaos.  
+~
+0 4 0
+D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 417
+D3
+~
+~
+0 0 411
+S
+#413
+The Coliseum Floor~
+Fighting continues in every direction around.  Beast verus beast,
+gladiator verus beast, and gladiator verus gladiator.  Blood and body parts
+are scattered all about.  Shouts from the gladiators saying ,"We who are
+about to die salute you", can be heard from the gladiators just entering the
+arena.  
+~
+0 0 0
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 416
+D3
+~
+~
+0 0 412
+S
+#414
+Eastern Coliseum Floor~
+The savage games are being carried out all around.  Slaves and criminals
+are acting out ancient battles of the Gods.  The battles will result in
+death for these actors.  
+~
+0 0 0
+D0
+~
+~
+0 0 405
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 413
+S
+#415
+Eastern Coliseum Floor~
+A pile of weapons stacked almost as high as the wall are left from the
+recently departed gladiators.  They will later be burned and what metal is
+able to melted down will be used to make statues to go in front of the
+Coliseum.  
+~
+0 0 0
+D0
+~
+~
+0 0 414
+D2
+~
+~
+0 0 424
+D3
+~
+~
+0 0 416
+S
+#416
+The Coliseum Floor~
+Dead bodies of gladiators and beast surround an enormous giant whom
+stands as tall as a tree.  He stands as solid as he is tall with club in
+hand ready to kill anything that comes within reach.  
+~
+0 0 0
+D0
+~
+~
+0 0 413
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 423
+D3
+~
+~
+0 0 417
+S
+#417
+The Coliseum Floor~
+So many deaths occurring all around the arena.  The screams of pain and
+death will echo through your soul for an eternity.  
+~
+0 0 0
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 422
+D3
+~
+~
+0 0 418
+S
+#418
+The Coliseum Floor~
+What is this?!  Of all the exotic animals seen around the arena this is
+the first of its kind ever seen in the Coliseum.  A huge beast covered with
+fur standing 8 feet tall growls loud enough to bust your eardrums.  
+~
+0 0 0
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 417
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 419
+S
+#419
+Western Coliseum Floor~
+Along the Western side of the Coliseum very large empty cages sit off to
+the side.  Whatever animals that were held in them must be huge.  
+~
+0 0 0
+D0
+~
+~
+0 0 410
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 420
+S
+#420
+Southwest Coliseum Floor~
+Bushes have been added to the side to give a little decoration since in
+the corner is the only way up into the stands from the Coliseum floors.  A
+hissing sound can be heard.  {ysssss{x{gSSSSSSS{x{Ysssssss{x{GSSSSSS....  {x
+~
+0 0 3
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 421
+D4
+~
+~
+0 0 425
+S
+#421
+Southern Coliseum Floor~
+This side of the arena is farthest away from the emperor.  Battles here
+are beast or gladiators againest the common criminals.  
+~
+0 0 0
+D0
+~
+~
+0 0 418
+D1
+~
+~
+0 0 422
+D3
+~
+~
+0 0 420
+S
+#422
+Southern Coliseum Floor~
+Spectators from the stands all scream and hold up thumbs down signs. 
+They want the gladiator dead.  The gladiator will die a honorable death by
+rule of the emperor.  
+~
+0 0 0
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 423
+D3
+~
+~
+0 0 421
+S
+#423
+Southern Coliseum Floor~
+A huge mound of sand blocks the exit to the south.  Slaves are trying to
+dry up some of the blood on the floors, so more fights can take place.  
+~
+0 0 0
+D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 424
+D3
+~
+~
+0 0 422
+S
+#424
+Southeast Coliseum Floor~
+Raw flesh used as bait that is tied to waist of the criminals has been
+stacked along the southeastern corner of the Coliseum.  The beast won't take
+long to devour the flesh and whomever its attached to.  
+~
+0 0 0
+D0
+~
+~
+0 0 415
+D3
+~
+~
+0 0 423
+S
+#425
+West Grandstands~
+Scribes and heralds both are seated in this area.  They watch closely as
+a criminal being punished is begging for death.  
+~
+0 0 0
+D0
+~
+~
+0 0 426
+D2
+~
+~
+0 0 459
+D5
+~
+~
+0 0 420
+S
+#426
+West Grandstands~
+Young boys with their tutors watch closely as gladiators are mauled by
+wild beast theyve never seen before.  This section is for them only.  
+~
+0 0 0
+D0
+~
+~
+0 0 427
+D2
+~
+~
+0 0 425
+D5
+~
+~
+0 0 419
+S
+#427
+West Grandstands~
+Soldiers on leave flood into their own reserved area awaiting their
+chance to see a bloodfest.  
+~
+0 0 0
+D0
+~
+~
+0 0 428
+D2
+~
+~
+0 0 426
+D5
+~
+~
+0 0 410
+S
+#428
+West Grandstands~
+Foreign Dignitaries and their families are seated within this part of the
+grandstand.  
+~
+0 0 0
+D0
+~
+~
+0 0 429
+D2
+~
+~
+0 0 427
+D5
+~
+~
+0 0 409
+S
+#429
+West Grandstands~
+This part of the western grandstand is reserved for Priest and other
+leaders of the Church.  
+~
+0 0 0
+D0
+~
+~
+0 0 490
+D2
+~
+~
+0 0 428
+D5
+~
+~
+0 0 400
+S
+#430
+Eastern Grandstand~
+This part of the grandstand is reserved for the poor.  They sit on
+blankets placed on the floor sharing a basket of bread and butter.  
+~
+0 0 0
+D0
+~
+~
+0 0 431
+D2
+~
+~
+0 0 455
+D5
+~
+~
+0 0 424
+S
+#431
+Eastern Grandstand~
+This part of the grandstand is reserved for the poor.  They sit on
+blankets placed on the floor sharing a basket of bread and butter.  
+~
+0 0 0
+D0
+~
+~
+0 0 432
+D2
+~
+~
+0 0 430
+D5
+~
+~
+0 0 415
+S
+#432
+Eastern Grandstand~
+This part of the grandstand is reserved for the poor.  They sit on
+blankets placed on the floor sharing a basket of bread and butter.  
+~
+0 0 0
+D0
+~
+~
+0 0 433
+D2
+~
+~
+0 0 431
+D5
+~
+~
+0 0 414
+S
+#433
+Eastern Grandstand~
+This part of the grandstand is reserved for the poor.  They sit on
+blankets placed on the floor sharing a basket of bread and butter.  
+~
+0 0 0
+D0
+~
+~
+0 0 434
+D2
+~
+~
+0 0 432
+D5
+~
+~
+0 0 405
+S
+#434
+Eastern Grandstand~
+This part of the grandstand is reserved for the poor.  They sit on
+blankets placed on the floor sharing a basket of bread and butter.  
+~
+0 0 0
+D0
+~
+~
+0 0 489
+D2
+~
+~
+0 0 433
+D5
+~
+~
+0 0 404
+S
+#435
+Northern Grandstands~
+This is an the area reserved for the ordinary citizen.  Divided into two
+sections this part is for the wealthy citizens.  
+~
+0 0 0
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 436
+D3
+~
+~
+0 0 490
+D5
+~
+~
+0 0 400
+S
+#436
+Northern Grandstands~
+This is an the area reserved for the ordinary citizen.  Divided into two
+sections this part is for the wealthy citizens.  They sit around making
+wagers on how will die first.  
+~
+0 0 0
+D0
+~
+~
+0 0 443
+D1
+~
+~
+0 0 437
+D3
+~
+~
+0 0 435
+D5
+~
+~
+0 0 401
+S
+#437
+Northern Grandstands~
+This is an the area reserved for the ordinary citizen.  Divided into two
+sections this part is for the wealthy citizens.  They sit around making
+wagers on how will die first.  
+~
+0 0 0
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 438
+D3
+~
+~
+0 0 436
+D5
+~
+~
+0 0 402
+S
+#438
+Northern Grandstands~
+This is an the area reserved for the ordinary citizen.  Divided into two
+sections this part is for the wealthy citizens.  They sit around making
+wagers on how will die first.  
+~
+0 0 0
+D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 439
+D3
+~
+~
+0 0 437
+D5
+~
+~
+0 0 403
+S
+#439
+Northern Grandstands~
+This is an the area reserved for the ordinary citizen.  Divided into two
+sections this part is for the wealthy citizens.  They sit around making
+wagers on how will die first.  
+~
+0 0 0
+D0
+~
+~
+0 0 440
+D1
+~
+~
+0 0 489
+D3
+~
+~
+0 0 438
+D5
+~
+~
+0 0 404
+S
+#440
+Northern Grandstands~
+This area is for the non senatorial noble class.  Knights cheer on their
+favorite gladiator and brag that they could beat them all.  
+~
+0 0 0
+D2
+~
+~
+0 0 439
+D3
+~
+~
+0 0 441
+S
+#441
+Below the Boxes~
+This area is for the non senatorial noble class.  Knights celebrate a day
+off with a barrel of ale.  
+~
+0 0 0
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 442
+D4
+~
+~
+0 0 447
+S
+#442
+Below the Boxes~
+This area is for the non senatorial noble class.  Knights watch on as the
+bloody activities below get under way.  
+~
+0 0 0
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 437
+D3
+~
+~
+0 0 443
+D4
+~
+~
+0 0 446
+S
+#443
+Below the Boxes~
+This area is for the non senatorial noble class.  Knights and their guest
+watch with blood lusting intensity as beast tear gladiators apart.  
+~
+0 0 0
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 436
+D3
+~
+~
+0 0 444
+D4
+~
+~
+0 0 445
+S
+#444
+Northern Grandstands~
+This area is for the non senatorial noble class.  Only knights and their
+guest can sit in this section.  
+~
+0 0 0
+D1
+~
+~
+0 0 443
+D2
+~
+~
+0 0 435
+S
+#445
+The Senator's Box~
+The Senator and his family and his guest are seated here in the section
+reserved especially for them.  
+~
+0 0 0
+D1
+~
+~
+0 0 446
+D5
+~
+~
+0 0 443
+S
+#446
+The Emperor's Box~
+This box is reserved for the Emperor and his family only.  Slaves come in
+and out serving their masters, and keeping them shaded from the heat of the
+sun.  
+~
+0 0 0
+D1
+~
+~
+0 0 447
+D3
+~
+~
+0 0 445
+D5
+~
+~
+0 0 442
+S
+#447
+The Magistrate's Box~
+This box is reserved especially for the Magistrate and his family, and
+aides.  Slaves wave huge fans to keep them cool.  
+~
+0 0 0
+D3
+~
+~
+0 0 446
+D5
+~
+~
+0 0 441
+S
+#448
+Coliseum Gates~
+~
+0 0 0
+D0
+~
+~
+1 0 449
+D1
+~
+~
+0 0 495
+S
+#449
+Coliseum Concourse~
+~
+0 0 0
+D0
+~
+~
+0 0 450
+D2
+~
+~
+1 0 448
+S
+#450
+Coliseum Concourse~
+~
+0 0 0
+D0
+~
+~
+0 0 451
+D2
+~
+~
+0 0 449
+S
+#451
+The Coliseum Concourse~
+This concourse leads throughout the Coliseum.  East onto the eastern
+concourse, west onto the western concourse and south continues on the main
+concourse.  
+~
+0 0 0
+D1
+~
+~
+0 0 452
+D2
+~
+~
+0 0 450
+D3
+~
+~
+0 0 456
+D5
+~
+~
+0 0 460
+S
+#452
+Eastern Concourse~
+The walkway through the grandstand is a very narrow pathway.  The
+concourse is made for the poor to travel amongest themselves.  
+~
+0 0 0
+D1
+~
+~
+0 0 453
+D3
+~
+~
+0 0 451
+S
+#453
+Eastern Concourse~
+The walkway through the grandstand is a very narrow pathway.  The
+concourse is made for the poor to travel amongest themselves.  
+~
+0 0 0
+D1
+~
+~
+0 0 454
+D3
+~
+~
+0 0 452
+S
+#454
+Eastern Concourse~
+The walkway through the grandstand is a very narrow pathway.  The
+concourse is made for the poor to travel amongest themselves.  
+~
+0 0 0
+D3
+~
+~
+0 0 453
+D4
+~
+~
+0 0 455
+S
+#455
+East Grandstand Entrance~
+This is the entrance for the everyday normal citizen.  The poor sit here
+in the eastern granstand, continue northward if your a citizen with money.  
+~
+0 0 0
+D0
+~
+~
+0 0 430
+D5
+~
+~
+0 0 454
+S
+#456
+Western Concourse~
+The western concourse leads into a section of reserved seats for
+different classes of people walk around and find your seat.  
+~
+0 0 0
+D1
+~
+~
+0 0 451
+D3
+~
+~
+0 0 457
+S
+#457
+Western Concourse~
+The western concourse leads into a section of reserved seats for
+different classes of people walk around and find your seat.  
+~
+0 0 0
+D1
+~
+~
+0 0 456
+D3
+~
+~
+0 0 458
+S
+#458
+Western Concourse~
+The western concourse leads into a section of reserved seats for
+different classes of people walk around and find your seat.  
+~
+0 0 0
+D1
+~
+~
+0 0 457
+D4
+~
+~
+0 0 459
+S
+#459
+West Grandstand Entrance~
+The grandstand is full of all types of people from everywalk of life. 
+The western grandstand has reserved areas for different classes of people.  
+~
+0 0 0
+D0
+~
+~
+0 0 425
+D5
+~
+~
+0 0 458
+S
+#460
+Coliseum Basement~
+Cages here are empty the beast that were within them are either fighting
+or dead by now.  
+~
+0 0 0
+D1
+~
+~
+0 0 461
+D3
+~
+~
+0 0 475
+D4
+~
+~
+0 0 451
+S
+#461
+Coliseum Basement~
+Chains, whips, harness and other equipment used to handle these large
+beast are hung on hooks along the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 462
+D3
+~
+~
+0 0 460
+S
+#462
+Coliseum Basement~
+The stench here is overwhelming, this is where the cages are cleaned
+after the beast have been released into the arena.  The cages are full of
+beastly dropping and shedded fur.  
+~
+0 0 0
+D0
+~
+~
+0 0 463
+D3
+~
+~
+0 0 461
+S
+#463
+Coliseum Basement~
+On the wall hangs knifes and other tools used to skin the beast after
+they have been killed in the arena.  Their hides will be used to make rugs
+that will be given to special guest of the emperor.  
+~
+0 0 0
+D0
+~
+~
+0 0 464
+D2
+~
+~
+0 0 462
+D3
+~
+cage~
+1 403 482
+S
+#464
+Coliseum Basement~
+Chains are embedded into the walls to hold the criminals who will be
+punished for their crimes.  
+~
+0 0 0
+D0
+~
+~
+0 0 465
+D2
+~
+~
+0 0 463
+D3
+~
+cage~
+1 403 477
+S
+#465
+Coliseum Basement~
+A beast keeper is preparing beast by taunting them before he releases
+them into the arena.  
+~
+0 0 0
+D0
+~
+~
+0 0 466
+D2
+~
+~
+0 0 464
+D3
+~
+cage~
+1 403 478
+S
+#466
+Coliseum Basement~
+Gladiators are here getting dressed for battle.  Some are sharpening the
+blades of their weapons while the others polish their armor.  
+~
+0 0 0
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 467
+S
+#467
+Coliseum Basement~
+Gladiators are lined up waiting for the trumpet to sound to call them
+onto the playing field of the arena.  They are silently standing as if they
+were statues.  
+~
+0 0 0
+D0
+~
+~
+0 0 487
+D1
+~
+~
+0 0 466
+D3
+~
+~
+0 0 468
+S
+#468
+Coliseum Basement~
+A burly man calls out names of the Gladiators as their turn comes up to
+enter the arena.  
+~
+0 0 0
+D1
+~
+~
+0 0 467
+D2
+~
+~
+1 403 481
+D3
+~
+~
+0 0 469
+S
+#469
+Coliseum Basement~
+A scroll and feather pen lie on a small side table for the gladiators to
+leave their last notes to the loved ones.  
+~
+0 0 0
+D0
+~
+~
+0 0 485
+D1
+~
+~
+0 0 468
+D3
+~
+~
+0 0 470
+S
+#470
+Coliseum Basement~
+Armor, swords, spears, and other equipment lay here until an upcoming
+gladiator is ready to use them.  
+~
+0 0 0
+D1
+~
+~
+0 0 469
+D2
+~
+~
+0 0 471
+S
+#471
+Coliseum Basement~
+A table full of delicasies have been left here as a last supper for the
+gladiators.  
+~
+0 0 0
+D0
+~
+~
+0 0 470
+D1
+~
+~
+1 403 479
+D2
+~
+~
+0 0 472
+S
+#472
+Coliseum Basement~
+A long wooden bench lines the walls where gladiators wait for their turn
+to die.  
+~
+0 0 0
+D0
+~
+~
+0 0 471
+D1
+~
+cage~
+1 403 476
+D2
+~
+~
+0 0 473
+S
+#473
+Coliseum Basement~
+A large platform attached to a pulley is used here to load the large
+beast on the raise them into the arena.  
+~
+0 0 0
+D0
+~
+~
+0 0 472
+D1
+~
+cage~
+1 403 480
+D2
+~
+~
+0 0 474
+S
+#474
+Coliseum Basement~
+Cages full of beastly animals awaiting their turn to be released into the
+arena to fight are lined in straight rows.  Each cage has a number letting
+the beast keeper know which one to release and when.  
+~
+0 0 0
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 475
+S
+#475
+Coliseum Basement~
+The cages here are covered with tarps so that the beast inside can't see
+whats going on.  When the tarp is removed the beast go on a rampage.  
+~
+0 0 0
+D1
+~
+~
+0 0 460
+D3
+~
+~
+0 0 474
+S
+#476
+Tiger Cage~
+A growling tiger angrily paces around his cage.  He hungrily licks his
+lips as he smells the blood in the air.  
+~
+0 0 0
+D1
+~
+cage~
+1 403 484
+D3
+~
+cage~
+1 403 472
+S
+#477
+Bear Cage~
+Blood drips from the side of the cage from the bears last meal.  Be
+careful or it will be your blood dripping down next.  
+~
+0 0 0
+D1
+~
+cage~
+1 403 464
+D3
+~
+cage~
+1 403 484
+S
+#478
+Gorilla Cage~
+Banana lay untouched in the cage, this gorilla doesnt want fruit, shes
+waiting for her turn to eat the meat of gladiators in the arena.  
+~
+0 0 0
+D1
+~
+~
+1 403 465
+D3
+~
+cage~
+1 403 481
+S
+#479
+Lion Cage~
+The king of the jungle is now ready to be king of the arena.  Drool drips
+off his chin as his mouth waters for the taste of flesh.  
+~
+0 0 0
+D1
+~
+cage~
+1 403 481
+D3
+~
+~
+1 403 471
+S
+#480
+Orangutan Cage~
+A huge ape snores from within the cage.  The ape looks as if she as big
+as rhino.  
+~
+0 0 0
+D1
+~
+cage~
+1 403 483
+D3
+~
+cage~
+1 403 473
+S
+#481
+Elephant Cage~
+A pile of peanuts and a tub of water sit inside the cage.  The elephant
+has its trunk deep into pile of peanuts.  
+~
+0 0 0
+D0
+~
+~
+1 403 468
+D1
+~
+cage~
+1 403 478
+D2
+~
+~
+1 403 484
+D3
+~
+cage~
+1 403 479
+S
+#482
+Jaguar Cage~
+Bones licked clean hang out of the mouth of this huge cat.  It was no
+mouse this cat was eating, it looks like its been eating antelope by the
+dozen.  
+~
+0 0 0
+D1
+~
+cage~
+1 403 463
+D3
+~
+cage~
+1 403 483
+S
+#483
+Hallway of Beasts~
+The smell of feces, wet fur, and blood fill the hallway that houses the
+beast for the fights in the arena.  
+~
+0 0 0
+D0
+~
+~
+0 0 484
+D1
+~
+cage~
+1 403 482
+D3
+~
+cage~
+1 403 480
+S
+#484
+Beast Elevator~
+A huge platform on a very strong pulley system allows for easy
+transportation of these huge beast.  
+~
+0 0 0
+D0
+~
+cage~
+1 403 481
+D1
+~
+cage~
+1 403 477
+D2
+~
+~
+0 0 483
+D3
+~
+cage~
+1 403 476
+D4
+~
+~
+0 0 412
+S
+#485
+Stairway to the Arena~
+Upward to certain death is where these stairs lead.  Only the toughest
+will survive.  
+~
+0 4 0
+D2
+~
+~
+0 0 469
+D4
+~
+~
+0 0 486
+S
+#486
+In the West Tunnel~
+Steps away from the fight of your life.  How you fight will determine if
+its the last fight of your life.  
+~
+0 0 0
+D2
+~
+~
+0 0 401
+D5
+~
+~
+0 0 485
+S
+#487
+Stairway to the Arena~
+The stairs leading upward into the arena are wide and dimly lit.  A trial
+of {rblood{x stains the stairs.  
+~
+0 4 0
+D2
+~
+~
+0 0 467
+D4
+~
+~
+0 0 488
+S
+#488
+In the East Tunnel~
+These are the last steps of safety you'll ever have.  Once into the arena
+it will be only moments before your fighting for your life.  
+~
+0 0 0
+D2
+~
+~
+0 0 403
+D5
+~
+~
+0 0 487
+S
+#489
+Concourse~
+The concourse leads east into the northern grandstands this area is
+reserved for the more wealthy citizen.  To the south is the eastern
+grandstand which is reserved for the poor citizens.  
+~
+0 0 0
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 439
+S
+#490
+Concourse~
+The concourse leads throughout the Coliseum.  East will lead you into the
+wealthier seats for the richest of citizens.  South leads into the west
+grandstands where only certain social groups are allowed.  
+~
+0 0 0
+D1
+~
+~
+0 0 435
+D2
+~
+~
+0 0 429
+S
+#491
+The Puppet Master's Workshop~
+This odd room is surprisingly spacious and full of light.  The ceiling
+resembles a dome, with windows in random places looking out into a perfect
+blue sky.  The rest of the room resembles a workshop of some sort, with all
+sorts of tools and pieces of half-carved wood strewn across its many
+countertops.  A huge hole in the center of the room looks down upon the
+coliseum hundreds of feet below.  The spectators and gladiators look like
+little ants, and the entire arena floor is a disturbing shade of {rcri{Rm{rs{Ro{rn{x.
+~
+0 1 0
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 492
+D3
+~
+~
+0 0 493
+D5
+~
+~
+0 0 494
+S
+#492
+{DA Dark Niche{x~
+Hiding in this dark niche, you fear for your life.
+~
+0 8705 0
+D0
+~
+~
+0 0 491
+D1
+~
+~
+0 0 498
+D2
+~
+~
+0 0 499
+D3
+~
+~
+0 0 491
+D4
+~
+~
+0 0 497
+D5
+~
+~
+0 0 496
+S
+#493
+{DHiding in the Cupboard{x~
+You are alone in this cupboard.  Alone with your terror.
+~
+0 10241 0
+D0
+~
+~
+0 0 496
+D1
+~
+~
+0 0 491
+D2
+~
+~
+0 0 491
+D3
+~
+~
+0 0 497
+D4
+~
+~
+0 0 498
+D5
+~
+~
+0 0 499
+S
+#494
+{RYOU ARE FALLING!{x~
+You are falling from the workshop, plummeting to the ground below!
+~
+0 532481 0
+D5
+~
+~
+0 0 412
+S
+#495
+Coliseum Box Office~
+Step right up!  Get your ticket to the bloodiest event you'll ever
+encounter!  
+~
+0 1028 0
+D3
+~
+~
+0 0 448
+M 1000 H 1000
+S
+#496
+{BT{Dh{Be {DTh{Yu{Dn{Bd{Ye{Brh{De{Ba{Dd{x~
+Buried deep inside the heart of a dark thundercloud, it is impossible to
+see very far in any direction.  The only source of light comes when a bolt
+of lightning crashes through the clouds, splitting the air with an
+earth-shattering clap of thunder before everything falls dark and silent
+once more.  
+~
+0 8193 9
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 492
+S
+#497
+{GA{gn {GEn{Cc{Wh{Ga{Wn{Ct{ge{Gd {gF{Go{gr{yes{Yt{x~
+This forest pulses with a magical energy, as every tree and blade of
+grass seems to have a powerful aura about it.  The fact that the plants all
+around are actually living things has never been more apparent, some of them
+even seem to be reaching out as you pass by.  
+~
+0 5 3
+D0
+~
+~
+0 0 492
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 492
+D3
+~
+~
+0 0 493
+M 750 H 750
+S
+#498
+{gDr{Ga{Dg{Go{gn's {DL{Ga{Dir{x~
+Jewels and gold and other such treasures are piled high against the walls
+of this massive cave.  Other piles of much smellier and less valuable
+substance dot the floor of the cave, as the dragon who lives here obviously
+does not care much for housekeeping.
+~
+0 268443649 5
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 492
+S
+#499
+{gA Pi{Gn{ge Gr{Go{gve{x~
+This strange grove is a loose scatter of pine trees stretching upward
+towards a gray overcast sky.  The trees grow closer and closer in the
+distance, coalescing into darkness in every direction.  Small birds and
+mammals rustle and twitter in the branches all around, as a light rain falls
+from the clouds above.  
+~
+0 8192 3
+D0
+~
+~
+0 0 492
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 492
+D3
+~
+~
+0 0 493
+S
+#0
+
+
+
+#SPECIALS
+M 414 spec_poison Load to: {DA Bl{Ra{Dck M{Ra{Dm{Rb{Da{x
+M 421 spec_breath_fire Load to: {rA F{Ri{Yr{Re{W-{DB{Rr{De{ra{Rt{rh{Di{rn{Dg {gDr{Ga{Dg{gon{x
+M 422 spec_breath_lightning Load to: {BA St{Yo{Br{Dm G{bi{Ya{Bn{bt{x
+M 499 spec_breath_lightning Load to: {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+S
+
+
+
+#RESETS
+D 0 448 0 1 The north door of Coliseum Gates is closed
+D 0 449 2 1 The south door of Coliseum Concourse is closed
+D 0 463 3 2 The west door of Coliseum Basement is closed and locked
+D 0 464 3 2 The west door of Coliseum Basement is closed and locked
+D 0 465 3 2 The west door of Coliseum Basement is closed and locked
+D 0 468 2 2 The south door of Coliseum Basement is closed and locked
+D 0 471 1 2 The east door of Coliseum Basement is closed and locked
+D 0 472 1 2 The east door of Coliseum Basement is closed and locked
+D 0 473 1 2 The east door of Coliseum Basement is closed and locked
+D 0 476 1 1 The east door of Tiger Cage is closed
+D 0 476 3 2 The west door of Tiger Cage is closed and locked
+D 0 477 1 2 The east door of Bear Cage is closed and locked
+D 0 477 3 1 The west door of Bear Cage is closed
+D 0 478 1 2 The east door of Gorilla Cage is closed and locked
+D 0 478 3 1 The west door of Gorilla Cage is closed
+D 0 479 1 1 The east door of Lion Cage is closed
+D 0 479 3 2 The west door of Lion Cage is closed and locked
+D 0 480 1 1 The east door of Orangutan Cage is closed
+D 0 480 3 2 The west door of Orangutan Cage is closed and locked
+D 0 481 0 2 The north door of Elephant Cage is closed and locked
+D 0 481 1 1 The east door of Elephant Cage is closed
+D 0 481 2 1 The south door of Elephant Cage is closed
+D 0 481 3 1 The west door of Elephant Cage is closed
+D 0 482 1 2 The east door of Jaguar Cage is closed and locked
+D 0 482 3 1 The west door of Jaguar Cage is closed
+D 0 483 1 1 The east door of Hallway of Beasts is closed
+D 0 483 3 1 The west door of Hallway of Beasts is closed
+D 0 484 0 1 The north door of Beast Elevator is closed
+D 0 484 1 1 The east door of Beast Elevator is closed
+D 0 484 3 1 The west door of Beast Elevator is closed
+M 0 400 10 400 1 *Load A Gladiator
+M 0 413 12 401 1 *Load A Thracian
+M 0 400 10 402 1 *Load A Gladiator
+M 0 413 12 403 1 *Load A Thracian
+M 0 400 10 404 1 *Load A Gladiator
+M 0 413 12 405 1 *Load A Thracian
+M 0 418 10 405 1 *Load A Muscle-Bound Brawler
+M 0 415 6 406 1 *Load A Slave
+M 0 418 10 406 1 *Load A Muscle-Bound Brawler
+M 0 421 1 406 1 *Load {rA F{Ri{Yr{Re{W-{DB{Rr{De{ra{Rt{rh{Di{rn{Dg {gDr{Ga{Dg{gon{x
+E 0 409 0 9 *{gd{gr{ga{dg{gon {rc{dl{ra{rw{ds{x is loaded on the hands of {rA F{Ri{Yr{Re{W-{DB{Rr{De{ra{Rt{rh{Di{rn{Dg {gDr{Ga{Dg{gon{x
+M 0 418 10 407 1 *Load A Muscle-Bound Brawler
+M 0 415 6 408 1 *Load A Slave
+M 0 418 10 408 1 *Load A Muscle-Bound Brawler
+M 0 423 1 408 1 *Load {GA L{giv{Gi{Dn{Gg Tr{yee{x
+E 0 410 0 20 *{gb{ga{yr{gk m{da{gs{gk{x is loaded on the face of {GA L{giv{Gi{Dn{Gg Tr{yee{x
+M 0 413 12 409 1 *Load A Thracian
+M 0 400 10 410 1 *Load A Gladiator
+E 0 407 0 16 *{wa{dn {wir{do{wn tr{di{wde{dn{wt{x is loaded wielded of A Gladiator
+M 0 415 6 411 1 *Load A Slave
+M 0 409 2 412 1 *Load {DA{dn El{Dep{dha{Dn{dt{x
+M 0 418 10 412 1 *Load A Muscle-Bound Brawler
+M 0 413 12 412 2 *Load A Thracian
+E 0 405 0 11 *{ya small rectangular shield{x is loaded as a shield of A Thracian
+M 0 413 12 412 2 *Load A Thracian
+E 0 406 0 16 *{da small falx{x is loaded wielded of A Thracian
+M 0 400 10 412 2 *Load A Gladiator
+M 0 400 10 412 2 *Load A Gladiator
+M 0 418 10 413 1 *Load A Muscle-Bound Brawler
+M 0 400 10 414 1 *Load A Gladiator
+M 0 413 12 415 1 *Load A Thracian
+M 0 418 10 415 1 *Load A Muscle-Bound Brawler
+M 0 415 6 416 1 *Load A Slave
+M 0 422 1 416 1 *Load {BA St{Yo{Br{Dm G{bi{Ya{Bn{bt{x
+E 0 408 0 16 *{bth{ye t{dh{yu{dn{bde{yr{dc{bl{bu{bb{x is loaded wielded of {BA St{Yo{Br{Dm G{bi{Ya{Bn{bt{x
+M 0 415 6 417 1 *Load A Slave
+M 0 418 10 417 1 *Load A Muscle-Bound Brawler
+M 0 415 6 418 1 *Load A Slave
+M 0 420 1 418 1 *Load {ySa{rsqu{yat{rc{yh{x
+E 0 412 0 8 *{yb{ri{yg{rf{yee{rt{x is loaded on the feet of {ySa{rsqu{yat{rc{yh{x
+G 0 411 0 *{gm{ce{gdi{gci{gnal h{ce{gr{gb{gs{x is given to {ySa{rsqu{yat{rc{yh{x
+G 0 411 0 *{gm{ce{gdi{gci{gnal h{ce{gr{gb{gs{x is given to {ySa{rsqu{yat{rc{yh{x
+G 0 411 0 *{gm{ce{gdi{gci{gnal h{ce{gr{gb{gs{x is given to {ySa{rsqu{yat{rc{yh{x
+M 0 413 12 419 1 *Load A Thracian
+M 0 414 1 420 1 *Load {DA Bl{Ra{Dck M{Ra{Dm{Rb{Da{x
+M 0 400 10 420 1 *Load A Gladiator
+M 0 413 12 421 1 *Load A Thracian
+M 0 400 10 422 1 *Load A Gladiator
+M 0 413 12 423 1 *Load A Thracian
+M 0 418 10 423 1 *Load A Muscle-Bound Brawler
+M 0 418 10 423 1 *Load A Muscle-Bound Brawler
+M 0 400 10 424 1 *Load A Gladiator
+M 0 416 20 425 1 *Load A Spectator
+M 0 416 20 426 1 *Load A Spectator
+M 0 416 20 427 1 *Load A Spectator
+M 0 416 20 428 1 *Load A Spectator
+M 0 416 20 429 1 *Load A Spectator
+M 0 416 20 430 1 *Load A Spectator
+M 0 416 20 431 1 *Load A Spectator
+M 0 416 20 432 1 *Load A Spectator
+M 0 416 20 433 1 *Load A Spectator
+M 0 416 20 434 1 *Load A Spectator
+M 0 416 20 435 1 *Load A Spectator
+M 0 416 20 436 1 *Load A Spectator
+M 0 416 20 437 1 *Load A Spectator
+M 0 416 20 438 1 *Load A Spectator
+M 0 416 20 439 1 *Load A Spectator
+M 0 416 20 440 1 *Load A Spectator
+M 0 416 20 441 1 *Load A Spectator
+M 0 416 20 442 1 *Load A Spectator
+M 0 416 20 443 1 *Load A Spectator
+M 0 416 20 444 1 *Load A Spectator
+M 0 403 1 445 1 *Load The Senator
+E 0 401 0 12 *{wa se{yn{wat{wo{wr's t{yo{wg{wa{x is loaded about the shoulders of The Senator
+M 0 402 1 446 1 *Load The Emperor
+E 0 400 0 12 *{wi{bm{mpe{br{mi{bal c{ma{bp{we{x is loaded about the shoulders of The Emperor
+M 0 404 1 447 1 *Load The Magistrate
+E 0 402 0 6 *{ga la{gu{grel c{gi{grc{gle{gt{x is loaded over the head of The Magistrate
+M 0 401 1 448 1 *Load A Coliseum Gatekeeper
+M 0 412 5 462 1 *Load A beast keeper
+M 0 412 5 465 1 *Load A beast keeper
+G 0 404 0 *A ram carcass is given to A beast keeper
+M 0 412 5 468 1 *Load A beast keeper
+M 0 412 5 472 1 *Load A beast keeper
+G 0 403 0 *A short iron key is given to A beast keeper
+M 0 412 5 475 1 *Load A beast keeper
+M 0 407 1 476 1 *Load {RA T{Dig{Re{Dr{x
+M 0 408 1 477 1 *Load A Grizzly Bear
+M 0 411 1 478 1 *Load {DA {dSi{Wlv{we{cr{wba{Wc{wk {dG{Dorilla{x
+M 0 410 1 479 1 *Load {YA L{yi{Yon{x
+M 0 406 1 480 1 *Load {RA H{ra{Yir{Ry O{rra{Rn{rg{yu{Yta{Rn{x
+M 0 409 2 481 1 *Load {DA{dn El{Dep{dha{Dn{dt{x
+M 0 405 1 482 1 *Load {YA J{Da{Yg{Dua{Yr{x
+M 0 499 1 491 1 *Load {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+E 0 498 0 2 *{wp{du{wpp{de{wt {cs{dt{cr{ri{dn{rg{rs{x is loaded on the right finger of {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+E 0 498 0 1 *{wp{du{wpp{de{wt {cs{dt{cr{ri{dn{rg{rs{x is loaded on the left finger of {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+M 0 498 1 494 1 *Load {x
+M 0 419 1 495 1 *Load The Ticket Seller
+M 0 424 4 496 1 *Load {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+M 0 424 4 497 1 *Load {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+M 0 424 4 498 1 *Load {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+M 0 424 4 499 1 *Load {CT{dh{ce {CP{cu{Dp{rp{de{Rt {RM{da{rs{Dt{ce{Cr{x
+S
+
+
+
+#SHOPS
+401 0 0 0 0 0 100 100 0 23
+419 0 0 0 0 0 100 100 0 23
+424 0 0 0 0 0 100 100 0 23
+498 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#400
+if level $n < 101
+say Children get in free today, go on in!
+mob transfer $n 449
+else
+say You must pay 50 platinum at the box office to the east to get in.
+end
+~
+#401
+say Thank you, enjoy the show!
+mob transfer $n 449
+~
+#402
+if hastarget $i
+bash
+else
+mob remember $n
+endif
+~
+#403
+if hastarget $i
+say $q is not welcome here!
+kill $q
+mob forget
+~
+#404
+if level $i > 100
+say Please give me 50 platinum to enter The Coliseum.
+endif
+~
+#413
+mob oload 413
+~
+#414
+mob oload 414
+~
+#415
+mob oload 415
+~
+#416
+mob oload 416
+~
+#420
+if level $n < 101
+mob echoat $n {ySa{rsqu{yat{rc{yh{x sees you and vanishes instantly into the melee!
+mob purge sasquatch
+~
+#421
+if level $n < 101
+mob echoat $n {rA F{Ri{Yr{Re{W-{DB{Rr{De{ra{Rt{rh{Di{rn{Dg {gDr{Ga{Dg{gon{x sees you and flies up and out of sight!{x
+mob purge $i
+~
+#422
+if level $n < 101
+mob echoat $n {BA St{Yo{Br{Dm G{Bi{Ya{Bnt{x catches sight of you and {i{Ybolts{x from the room!
+mob purge $i
+~
+#423
+if level $n < 101
+mob echoat $n {GA L{giv{Gi{Dn{Gg Tr{yee{x's face vanishes as it becomes just another mighty oak.
+mob purge $i
+~
+#499
+mob remember $n
+mob echoat $q You fall for what seems like an eternity before hitting the arena floor with a {RC{rr{RU{rnC{RH!{x
+mob damage $q 150000 170000 lethal
+mob transfer $q 412
+mob forget
+~
+#0
+
+#$

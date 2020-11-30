@@ -1,0 +1,1144 @@
+#AREADATA
+Name Dwarven Stronghold~
+Builders Zeddicus Unlinked~
+VNUMs 550 599
+Continent 0
+Credits (null)~
+Security 5
+Flags 0
+End
+
+#MOBILES
+#550
+dwarven guard dwarf~
+Dwarven Guard~
+A dwarven guard patrols the area.
+~
+A squat and stout warrior is infront of you.  He has a beard.
+ 
+It is a he..... right???
+~
+dwarf~
+AGT J 0 1000 0
+90 0 10d10+2500 0d0+0 5d5+30 crush
+-12 -12 -12 -10
+0 0 L 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#551
+dwarven servant dwarf~
+a Dwarven Servant~
+A servant is here taking care of business.
+~
+The servant is dressed in brown clothes.  Like most dwarfs, his beard is
+long.  
+~
+dwarf~
+AG JZ 0 1000 0
+80 0 15d10+1850 10d10+100 4d8+13 stab
+-13 -13 -13 -9
+0 0 L 0
+stand stand male 2000
+AGHMV ABCDEFGHIJK medium unknown
+#552
+dwarven mage~
+a Dwarven Mage~
+A dwarven mage sees you and frowns.
+~
+His eyes shine an erie green color.  His beard is close croped to his
+face.  Dark robes and a dark hat cover him.  
+~
+dwarf~
+ABR J 0 1000 0
+94 0 25d10+3500 10d10+100 6d6+17 none
+-17 -17 -17 -13
+0 0 L 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#553
+dwarven warchief chief dwarf~
+the Dwarven Warchief~
+The dwarven warchief looks at you and grins.
+~
+This dwarf is larger than the average dwarf.  He is decked out in mithril
+armor and his beard is tucked into his pants.  His hands carress his axe
+lovingly.  
+~
+dwarf~
+ABT J 0 1000 0
+110 0 50d10+5200 10d10+100 7d10+20 none
+-20 -20 -20 -16
+CDH 0 L 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#554
+dwarven cook~
+the Dwarven Cook~
+A small dwarf slaves over a hot stove.
+~
+Dressed in white, the cook takes care of the meals for the whole
+stronghold.  
+~
+dwarf~
+AB J 0 1000 0
+86 0 25d10+2500 10d10+100 3d12+15 none
+-15 -15 -15 -11
+0 0 L I
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#555
+dwarven warrior~
+a Dwarven Warrior~
+A stout dwarf stands before you ready for battle.
+~
+Decked in armor and weapons, he looks to be a formidable warrior.  His
+armor has dents and scratches in it.  A red ribbon streams off his helmet.  
+~
+dwarf~
+ABT J 0 1000 0
+98 0 50d10+4000 10d10+100 4d10+18 none
+-19 -19 -19 -15
+EH 0 L 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#556
+dwarven cleric~
+a Dwarven Cleric~
+A Dwarven cleric is here meditating.
+~
+A dwarf in white robes stands here.  His beard is dark black and his eyes
+seem to possess great knowledge.  
+~
+dwarf~
+ABQ J 0 1000 0
+98 0 50d10+4000 10d10+100 4d10+18 none
+-19 -19 -19 -15
+0 0 LN 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#557
+dwarven priestess~
+a Dwarven Priestess~
+A priestess is here praying to her god.
+~
+She is smaller than the male dwarves.  Her robes are white and well made.
+Smiling, she bows to you and prays for good fortune.  
+~
+dwarf~
+ABQ J 0 1000 0
+100 0 50d10+4500 10d10+100 5d8+19 none
+-20 -20 -20 -16
+0 0 LN 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#558
+dwarven statue~
+dwarven statue dwarf~
+A dwarf emerges from the statues and confronts you.
+~
+He looks just like the statues that line the walls.
+ 
+WoW    what clever camouflage.
+~
+dwarf~
+ABF JQ 0 1000 0
+96 0 25d10+2700 10d10+100 6d6+18 none
+-18 -18 -18 -14
+0 0 L 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#559
+human guest~
+{xA human~
+A human is here seeking refuge.
+~
+Looking tired from travels, worn expressions prove it true.  Finnally
+shelter has been found.  Calmly, they look at you.  
+~
+human~
+AB 0 0 1000 0
+92 0 25d10+3250 10d10+100 6d6+16 none
+-16 -16 -16 -12
+0 0 0 0
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+#560
+dwarven prisoner~
+a Dwarven Prisoner~
+A dwarf is chained to the wall.
+~
+This poor guy is chained to the wall.  His clothes are dirty and ragged.
+He is in desperate need of a bath.  He appears to be losing his sanity.
+~
+dwarf~
+AB J 0 1000 0
+94 0 25d10+3500 10d10+100 6d6+17 none
+-17 -17 -17 -13
+0 B L 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#561
+dwarven gardener~
+the dwarven gardener~
+A hunch-backed man is bent over the flowers.
+~
+There is dirt on his knees.  He is dressed in modest clothes.  A cheerful
+tune escapes his lips in a hum.  
+~
+dwarf~
+AB J 0 1000 0
+84 0 25d10+2250 10d10+100 3d12+14 none
+-14 -14 -14 -10
+0 0 L 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#562
+dwarven advisor~
+{xThe advisor~
+The advisor is here....advising.
+~
+He is dressed in fine robes.  Skinny and tall for a dwarf, he looks
+intelligent.  
+~
+dwarf~
+AB JZ 0 -1000 0
+90 0 15d10+1850 10d10+100 4d8+13 none
+-13 -13 -13 -9
+F 0 L 0
+stand stand male 2000
+AGHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#550
+the waraxe axe~
+{xThe {RWar{rAxe{x~
+A big axe is stuck in the ground.~
+steel~
+weapon 0 AN
+axe 9 11 chop 0
+50 5 1000 P
+#551
+dwarven platemail~
+{xDwarven Platemail~
+A shiny platemail sit in a pile.~
+iron~
+armor 0 AK
+BD BD BD ABC 0
+50 5 1000 P
+A
+13 55
+A
+5 1
+#552
+dwarven warhammer hammer~
+{xDwarven WarHammer~
+A large hammer sits here.~
+unknown~
+weapon 0 AN
+mace 7 14 crush F
+45 5 1000 P
+A
+18 -4
+#553
+dwarven poleaxe~
+{xDwarven Poleaxe~
+A long handled axe lies here.~
+unknown~
+weapon 0 AN
+polearm 5 17 charge CDF
+45 0 0 P
+A
+19 7
+A
+18 7
+#554
+spade~
+a Spade~
+A gardeners spade that is used for digging is here.~
+unknown~
+weapon 0 AN
+dagger 10 8 slice E
+45 0 0 P
+A
+18 5
+A
+19 -2
+#555
+iron boots~
+{xIron boots~
+Boots plated in iron sit here.~
+steel~
+armor 0 AG
+BD BD BD ABC 0
+45 0 1000 P
+A
+2 1
+A
+14 75
+#556
+dwarven power~
+{yDwarven {RP{Yowe{Rr{x~
+The source of the dwarves power.~
+unknown~
+jewelry 0 AQ
+0 0 0 0 0
+45 0 0 P
+A
+12 25
+A
+14 10
+A
+17 -1
+A
+13 50
+#557
+prison key~
+{xPrison key~
+A small key.~
+unknown~
+key PUV A
+0 0 0 0 0
+0 0 0 P
+#558
+escape tunnel~
+{x~
+{x~
+unknown~
+portal 0 0
+0 0 ABD BCGHIJL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#550
+Fortress Gate~
+An iron portcullis stands before you.  The gate is well made and well
+maintained.  It is incased in a great stone wall.  Colorful flags blow in
+the wind atop the walls.  The opening looks to be open.....  For now.  
+~
+0 4 5
+D0
+~
+~
+0 0 551
+D2
+~
+~
+0 0 593
+S
+#551
+Inside the Fortress~
+Torches burn on both walls.  Smoke engulfs the hallway.  Warchants can be
+heard echoing through out the the halls.  South leads back out to of the
+fortress.  North leads in.  
+~
+0 0 0
+D0
+~
+~
+0 0 552
+D2
+~
+~
+0 0 550
+S
+#552
+Hallway~
+Dwarven statues line both walls.  Most appear to be statues of fierce
+warriors but some are mages.  The detail is incredibly life like.  The walls
+seem to creak as you stand here.  Heavy breathing can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 553
+D2
+~
+~
+0 0 551
+S
+#553
+Hallway~
+Dwarven statues line both walls.  Most appear to be statues of fierce
+warriors, but some are mages.  The detail is incredibly life like.  The
+walls seem to creak as you stand here.  Heavy breathing can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 554
+D2
+~
+~
+0 0 552
+S
+#554
+Hallway Intersection~
+You have come to a hallway intersection.  A nine foot marble statue of a
+dwarven paladin stands at each corner.  The fine elven rugs are sewed
+together seamlessly.  The halls are lit by a glow from the statues eyes. 
+They are looking at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 557
+D1
+~
+~
+0 0 555
+D2
+~
+~
+0 0 553
+D3
+~
+~
+0 0 556
+S
+#555
+Hallway~
+Dwarven statues line both walls.  Most appear to be statues of fierce
+warriors, but some are mages.  The detail is incredibly like like.  The walls
+seem to creak as you stande here.
+Heavy breathing can be heard.
+~
+0 0 0
+D0
+~
+~
+0 0 558
+D1
+~
+~
+0 0 560
+D2
+~
+~
+0 0 559
+D3
+~
+~
+0 0 554
+S
+#556
+Hallway~
+Dwarven statues line both walls.  Most appear to be statues of fierce
+warriors, but some are mages.  The detail is incredibly like like.  The walls
+seem to creak as you stande here.  Heavy breathing can be heard.
+~
+0 0 0
+D0
+~
+~
+0 0 561
+D1
+~
+~
+0 0 554
+D2
+~
+~
+0 0 563
+D3
+~
+~
+0 0 562
+S
+#557
+Hallway~
+Dwarven statues line both walls.  Most appear to be statues of fierce
+warriors, but some are mages.  The detail is incredibly like like.  The
+walls seem to creak as you stande here.  Heavy breathing can be heard.  A
+small set of stairs lead down into the fort.  
+~
+0 0 0
+D1
+~
+~
+0 0 564
+D2
+~
+~
+0 0 554
+D4
+~
+~
+0 0 576
+D5
+~
+~
+0 0 566
+S
+#558
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D2
+~
+~
+0 0 555
+S
+#559
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 555
+S
+#560
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D3
+~
+~
+0 0 555
+S
+#561
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D2
+~
+~
+0 0 556
+S
+#562
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 556
+S
+#563
+Guest Quarters~
+This room is small.  There is a moderate sized bed against the wall to
+the north.  A small wardrobe is in the corner.  Dark curtains cover the
+windows.  A bowl with a picture of water is on a stand near the bed.  The
+door leads back to the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 556
+S
+#564
+Dining Hall~
+Ten tables are arranged around the room.  They are covered in great
+smelling food.  The dishes and silverware are top quality.  The floor is
+covered by a fine elven carpet.  Dwarven servants are strategically
+stationed at the tables.  West leads back into the hallway, east to the
+kitchen.  
+~
+0 0 0
+D1
+~
+~
+0 0 565
+D3
+~
+~
+0 0 557
+S
+#565
+Kitchen~
+There is a giant stove along the northern wall.  Despite the constant
+activity, everything is superbly clean.  A big sink is full of soapy water. 
+A large counter is built into the center of the room.  West leads back into
+the dining room.  
+~
+0 0 0
+D3
+~
+~
+0 0 564
+S
+#566
+Landing~
+You step into a circular room.  Doors go off in every direction.  Another
+small staircase leads down deeper.  Voices can be heard from all of the
+doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 567
+D1
+~
+~
+0 0 569
+D2
+~
+~
+0 0 568
+D3
+~
+~
+0 0 570
+D4
+~
+~
+0 0 557
+D5
+~
+~
+0 0 572
+S
+#567
+Well Lit Hallway~
+This hallway is very wide.  Torches are spaced two feet apart on the
+wall.  A long rug runs down the center of the hall.  It leads to the north. 
+~
+0 0 0
+D0
+~
+~
+0 0 571
+D2
+~
+~
+0 0 566
+S
+#568
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D0
+~
+~
+0 0 566
+D1
+~
+~
+0 0 577
+D2
+~
+~
+0 0 584
+D3
+~
+~
+0 0 578
+S
+#569
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D0
+~
+~
+0 0 580
+D1
+~
+~
+0 0 587
+D2
+~
+~
+0 0 579
+D3
+~
+~
+0 0 566
+S
+#570
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D0
+~
+~
+0 0 581
+D1
+~
+~
+0 0 566
+D2
+~
+~
+0 0 582
+D3
+~
+~
+0 0 590
+S
+#571
+Guard Station~
+The hallway ends in a wall with a door in it.  Small benches are built
+into the wall.  There is a pot of large flowers in each corner.  The door
+leads to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 573
+D2
+~
+~
+0 0 567
+S
+#572
+Prison Entrance~
+auction single torch lights the room.  It is a small and dark room.  An iron
+door leads to the north.
+~
+0 1 0
+D0
+~
+~
+3 557 592
+D4
+~
+~
+0 0 566
+S
+#573
+Planing Room~
+Auction long table sits in the middle of the room.  There are high backed
+chairs all around it.  A large map of Moria is hanging on the western wall. 
+There is a brick fireplace with a fire roaring in it in the eastern wall. 
+There is a door that leads to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 574
+D2
+~
+~
+0 0 571
+D3
+~
+~
+0 0 594
+S
+#574
+Commanders Quarters~
+Auction large bed is in the center of the northern wall.  It is perfectly
+made with no wrinkles.  A large oak table is in the center of the room. 
+Maps are piled on it.  There is an armor stand in the corner with the armor
+missing.  Auction door that leads outdoors is to the east.  A garden can be
+seen through the glass.  
+~
+0 0 0
+D1
+~
+~
+0 0 575
+D2
+~
+~
+0 0 573
+S
+#575
+Garden~
+Colorful flowers are arranged in patterns throughout the garden. 
+Beautiful green grass grows all about.  It is well maintained.  There is a
+small pond with large fish swimming in it.  A stone pathway leads to and
+around the pond and around the garden.  
+~
+0 0 0
+D3
+~
+~
+0 0 574
+S
+#576
+Watch Tower~
+This tower is built fifty feet high.  There is a clear view of the
+surrounding area.  A flag with a dwarven emblem on it, flies above the
+tower.  A small tube runs into the fort that is used to warn the warchief 
+of danger.
+~
+0 0 8
+D5
+~
+~
+0 0 557
+S
+#577
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D2
+~
+~
+0 0 583
+D3
+~
+~
+0 0 568
+S
+#578
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D1
+~
+~
+0 0 568
+D2
+~
+~
+0 0 585
+S
+#579
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D0
+~
+~
+0 0 569
+D1
+~
+~
+0 0 586
+S
+#580
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D1
+~
+~
+0 0 588
+D2
+~
+~
+0 0 569
+S
+#581
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D2
+~
+~
+0 0 570
+D3
+~
+~
+0 0 589
+S
+#582
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D0
+~
+~
+0 0 570
+D3
+~
+~
+0 0 591
+S
+#583
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D0
+~
+~
+0 0 577
+D3
+~
+~
+0 0 584
+S
+#584
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D0
+~
+~
+0 0 568
+D1
+~
+~
+0 0 583
+D3
+~
+~
+0 0 585
+S
+#585
+Cleric's Quarters~
+Large beds are in this room.  It is a much more spacious and luxurious
+room than the other barracks.  There is a large shrine in which to pray to,
+against the wall.  Each bed has a nightstand beside it with a lit lamp on
+it.  There is a huge window in the ceiling.  
+~
+0 4 5
+D0
+~
+~
+0 0 578
+D1
+~
+~
+0 0 584
+S
+#586
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D0
+~
+~
+0 0 587
+D3
+~
+~
+0 0 579
+S
+#587
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D0
+~
+~
+0 0 588
+D2
+~
+~
+0 0 586
+D3
+~
+~
+0 0 569
+S
+#588
+Warrior's Barracks~
+Neatly made beds are lined down the wall.  The room is very large.  Racks
+of orderly stacked weapons are near the door.  There is a sparring ring near
+one of the corners.  There are small spots of blood on the walls around the
+ring.  
+~
+0 0 0
+D2
+~
+~
+0 0 587
+D3
+~
+~
+0 0 580
+S
+#589
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D1
+~
+~
+0 0 581
+D2
+~
+~
+0 0 590
+S
+#590
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D0
+~
+~
+0 0 589
+D1
+~
+~
+0 0 570
+D2
+~
+~
+0 0 591
+S
+#591
+Mage's Barracks~
+Erie light radiates from globes floating in the air.  Strange golden
+runes are inbedded into the floor and walls.  There are long bookcases
+against every wall.  A large wooden table stands in the center of the room. 
+It is surrounded by thick padded chairs.  Small beds are squeezed between
+the bookcases.  
+~
+0 0 0
+D0
+~
+~
+0 0 590
+D1
+~
+~
+0 0 582
+S
+#592
+Prison Cell~
+The walls are made of five foot thick stone.  The floor is bare and cold
+beneath your feet.  There is a chamber pot in the corner of the cell.  A
+small wooden cot is built into the wall.  The door is made of solid steal
+with a very small window in it.  
+~
+0 1 0
+D2
+~
+~
+3 0 572
+S
+#593
+Approaching a Stronghold~
+Auction large fortress can be seen to the north.  It appears to be made
+from the same stone of the surrounding mountains.  Dwarven flags fly atop
+the battlements.  
+~
+0 0 5
+D0
+~
+~
+0 0 550
+S
+#594
+Advisor's Quarters~
+A large desk is against the northern wall.  Papers are stacked high on
+the top.  Vials various colors of ink and in the desk.  A large bed is in
+the room.  There is a small wardrobe in the corner.  There are some small
+tubes coming from the ceiling.  East leads back to the meeting hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 573
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 572 0 2 The north door of Prison Entrance is closed and locked
+D 0 573 0 1 The north door of Planing Room is closed
+D 0 592 2 1 The south door of Prison Cell is closed
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

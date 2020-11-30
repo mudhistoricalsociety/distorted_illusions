@@ -1,0 +1,183 @@
+#AREADATA
+Name queststuff~
+Builders Bayne Rishiss Unlinked~
+VNUMs 14600 15000
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#14600
+Mob one~
+Mob One~
+Mob Numero Uno stands here, ready to kick some ass.
+~
+~
+human~
+ABG I 0 0 0
+100 0 1d1+10000 0d0+0 0d0+0 none
+-70 0 0 0
+0 0 0 D
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 14600 go~
+#14601
+Mob two~
+Mob Two~
+Mob Numero Dos is here, ready to kick some ass.
+~
+~
+human~
+ABG DI 0 0 0
+0 0 1d1+10000 0d0+0 0d0+0 none
+-200 0 0 0
+0 0 0 D
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#14600
+Subliminal Portal~
+test~
+Test~
+unknown~
+portal 0 A
+ABCDEHJKPQ H E 0 0
+0 999 0 P
+#14601
+Participation Iquest Ribbon Distorted Illusions~
+a {GD{gi{Gs{gt{Go{gr{Gt{ge{Gd {gI{Gl{gl{Gu{gs{Gi{go{Gn{gs {RI{rq{Ru{re{Rs{rt {RP{ra{Rr{rt{Ri{rc{Ri{rp{Ra{rt{Ri{ro{Rn {YR{yi{Yb{yb{Yo{yn{X~
+A {GD{gi{Gs{gt{Go{gr{Gt{ge{Gd {gI{Gl{gl{Gu{gs{Gi{go{Gn{gs {RI{rq{Ru{re{Rs{rt {RP{ra{Rr{rt{Ri{rc{Ri{rp{Ra{rt{Ri{X lies here, radiating pure, evervescent energy.~
+glass~
+treasure AIOTYd A
+0 0 0 0 0
+0 0 0 P
+#14602
+Spaghetti noodle~
+a spaghetti noodle~
+(no description)~
+glass~
+weapon 0 AN
+whip 10 10 none 0
+0 0 0 P
+#14603
+Rack~
+{Ra {rrack{X~
+{GA {grack sits here...{X~
+skin~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#14604
+pill quest white~
+a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0~
+A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 has been dropped here.~
+jelly~
+pill AGTY A
+1 'quest pill' '' '' ''
+0 1 2 P
+#14605
+asgardian champion crest~
+{GCr{gest o{Gf th{ge {RA{rs{yg{Ya{rr{Yd{yi{ra{Rn Ch{Ca{cm{rp{ci{ro{Rn{x~
+A crest belonging to the greatest champion of Asgard lies here.~
+unknown~
+armor ABGHRSTYZd AX
+CE CE CE CE 0
+101 3 0 P
+A
+19 17
+A
+18 17
+A
+28 3
+A
+26 5
+A
+9 5
+A
+2 1
+A
+5 1
+A
+4 1
+A
+1 1
+A
+3 1
+A
+14 50
+A
+12 100
+A
+13 200
+A
+20 -3
+#14606
+hot potato~
+{RHOT {YPOTATO{x~
+{RHOT {YPOTATO{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#14607
+Dos Equis XX bottle cap~
+{7A {3({#Dos Equis {!XX{3) {7bottle cap{x~
+{7The {3({#Dos Equis {!XX{3) {7bottle cap that gave way to the dead soldier lies here.{x ~
+metal~
+treasure ABGRTY A
+0 0 0 0 0
+0 0 0 P
+#15000
+no name~
+(no short description)~
+(no description)~
+unknown~
+pill 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#14600
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#14600
+mob kill two
+~
+#0
+
+#$

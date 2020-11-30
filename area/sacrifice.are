@@ -1,0 +1,2368 @@
+#AREADATA
+Name Sacrifice~
+Builders Unlinked~
+VNUMs 13500 13699
+Continent 1
+Credits [-----} Veng    Sacrifice~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#13500
+bert~
+Bert~
+Bert stands here, selling boats.
+~
+Bert stands almost 7 feet tall, with a girth resembling that
+of a house.  The scars on his face and arms tell you that he's
+seen his fair share of combat.
+~
+human~
+ABTV 0 0 900 0
+46 10 1d1+999 1d1+99 1d8+32 beating
+-15 -15 -15 -15
+CEI ABCD 0 0
+stand stand male 1300
+AHMV ABCDEFGHIJK large unknown
+#13501
+sea serpent~
+the sea serpent~
+A huge green sea serpent stares at you hungrily.
+~
+The sea serpent resembles a cross between a dragon and a snake.
+~
+dragon~
+AFMN DJTb 0 -1000 0
+32 0 3d9+333 16d9+100 2d8+5 acbite
+-3 -6 -6 -1
+EFNU R ABEHIK FI
+stand stand either 5000
+AHZ ACDEFGHIJKPQUVX huge unknown
+#13510
+mountain goat~
+A mountain goat~
+A mountain goat is here with lowered horns.
+~
+It's a goat.
+~
+human~
+ABFG DFVc 0 0 0
+101 200 100d100+10 15d15+100 15d15+50 charge
+-30 -30 -30 -30
+FIRU A H I
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#13514
+blood sucking mosquito oversized~
+An oversized {1blood{x sucking mosquito.~
+An oversized {!blood{x sucking mosquito is here blocking your way.
+~
+It's a female mosquito.  It's also about 10 feet tall.  It's ugly too.  
+~
+song bird~
+ABFGH DFTVZac 0 0 0
+101 150 10d10+4500 10d10+1 10d10+40 sting
+-20 -20 -20 -20
+FHKNU ABH KLQ I
+stand stand female 10000
+AGW ACDEFHKP giant unknown
+#13517
+Komodo dragon~
+A {3K{5o{3m{5o{3d{5o {xDragon ~
+A {3K{5o{3m{5o{3d{5o {xDragon is here staring you down.
+~
+The dragon appears to be protecting something.
+~
+dragon~
+AB DFJTVZc 0 0 0
+200 200 500d100+6000 1d1+3000 10d10+140 acbite
+-50 -50 -50 -50
+CFGHJKN ABLQ EH I
+stand stand female 30000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res B
+F vul F
+#0
+
+
+
+#OBJECTS
+#13500
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive.
+~
+#13501
+canoe~
+a canoe~
+A canoe has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 320 900 G
+E
+canoe~
+The canoe is fairly light.
+~
+#13502
+compass~
+a navigater's compass~
+A navigater's compass has been left here.
+~
+metal~
+light A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 5 100 P
+E
+compass~
+Some letters have been scratched into the back.
+                WSES
+                WSWS
+~
+#13524
+Altar of Blood~
+a {1blood{x-stained altar~
+A blood-stained altar is here, reeking of urine, blood, and sweat.~
+bone~
+furniture ABEGRT 0
+BEF DFGHIJ CFILO CEFGHI CEFGHI
+0 800000 0 P
+#0
+
+
+
+#ROOMS
+#13500
+Waterfall Pool~
+You are floating on the calm waters of a large pool just below
+a large waterfall.  A river runs off to the east, while the plains
+are to the south.
+~
+0 0 7
+D1
+You see a river winding through a forest.
+~
+~
+0 -1 13501
+D2
+You see a small dock.
+~
+~
+0 -1 13619
+S
+#13501
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you eastward.  The banks to the north and south are choked with
+a thick growth of trees, and do not seem to provide anyplace to land.
+The river flows off to the east as far as the eye can see, and to the
+west to a large waterfall.
+~
+0 0 7
+D1
+You see a river winding through a forest.
+~
+~
+0 -1 13502
+D3
+You see a large waterfall.
+~
+~
+0 -1 13500
+S
+#13502
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you eastward.  The south bank is choked with a thick growth
+of trees, and does not seem to provide anyplace to land.  On the north
+bank, you can make out a small trail leading up the side of a mountain,
+but a sign reading "{RClosed For Construction{x" blocks your way.
+The river flows off to the west as far as the eye can see, and to the
+east the river takes a sharp turn north.
+~
+0 0 7
+D0
+You see a small trail.
+~
+~
+0 -1 13513
+D1
+You see a bend in the river.
+~
+~
+0 -1 13503
+D3
+You see a river winding through a forest.
+~
+~
+0 -1 13501
+S
+#13503
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The east bank is choked with a thick growth of
+trees, and does not seem to provide anyplace to land.  The west bank is a
+sheer cliff of the mountainside rising thousands of feet straight up.  To
+the north and south, the river takes sharp turns to the west.  
+~
+0 0 7
+D0
+You see a river winding through a forest.
+~
+~
+0 -1 13504
+D3
+You see a river winding through a forest.
+~
+~
+0 -1 13502
+S
+#13504
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The east bank is choked with a thick growth
+of trees, and does not seem to provide anyplace to land.  The west bank
+is a sheer cliff of the mountainside rising thousands of feet straight
+up. To the north and south, the river takes sharp turns to the west.
+~
+0 0 7
+D0
+You see a bend in the river.
+~
+~
+0 -1 13505
+D2
+You see a bend in the river.
+~
+~
+0 -1 13503
+S
+#13505
+A bend in the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you westward.  The banks to the east and north are choked with
+a thick growth of trees, and do not seem to provide anyplace to land.
+The river flows off to the south as far as the eye can see.  To the west
+you see yet another bend in the river.
+~
+0 0 7
+D2
+You see a river winding through a forest.
+~
+~
+0 -1 13504
+D3
+You see a bend in the river.
+~
+~
+0 -1 13506
+S
+#13506
+A bend in the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The west bank is choked with a thick growth
+of trees, and does not seem to provide anyplace to land.  On the south
+bank, you can make out a small trail leading up the side of a mountain,
+but a sign reading "{RClosed For Construction{x" blocks your way.
+The river flows north into a small bay, and to the east the river takes
+a sharp turn south.
+~
+0 0 7
+D0
+You see a small bay.
+~
+~
+0 -1 13507
+D1
+You see a bend in the river.
+~
+~
+0 -1 13505
+D2
+You see a small trail.
+~
+~
+0 -1 13508
+S
+#13507
+A small Bay~
+You are floating in a small bay.  The edges of the bay to the east and
+west are formed by a thick tangle of trees and brush.  To the south
+is the mouth of a large river.  To the north is the endless expanse
+of the northern sea.  Many adventurers have braved the northern sea,
+most of them never to be heard from again.
+~
+0 0 7
+D0
+You see the northern sea.
+~
+~
+0 -1 13596
+D2
+You see the mouth of the river.
+~
+~
+0 -1 13506
+S
+#13508
+A Small Goat Trail~
+A small rocky path heads south.  The temperature around you increases as
+you walk along the path.  You notice the foliage has become more tropical. 
+Palm trees and dense shrubs line the path.  A large volcano lies to the
+south.  
+~
+0 16384 2
+D0
+~
+~
+0 -1 13506
+D2
+~
+~
+0 -1 13509
+S
+#13509
+End of the Goat Trail~
+The goat path ends here.  Now that you have reached the bottom of the
+volcano, the only way left to go is up or back.  The heat has increased at
+the bottom of the volcano until you no longer know whether you should
+continue.  You hear faint screams coming from the top of the volcano.  
+~
+0 0 2
+D0
+~
+~
+0 -1 13508
+D4
+~
+~
+0 -1 13510
+S
+#13510
+Side of the Volcano~
+You see mountain goats all around you.  You wonder why goats would live
+around an active volcano, but the thought passes quickly when the goats
+start approaching you with lowered heads.  You quickly hurry up the side of
+the volcano towards the top.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13511
+D5
+~
+~
+0 -1 13509
+S
+#13511
+Side of the Volcano~
+You are almost at the top of the volcano.  Screams pierce the air as you
+creep up the path.  As you wonder where the screams are coming from, you see
+more goats approaching.  The heat is becoming unbearable and volcanic ash
+cakes your mouth as you continue.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13512
+D5
+~
+~
+0 -1 13510
+S
+#13512
+Top of the Volcano~
+You have finally reached the top of the volcano past all the goats.  Now
+that you are here though, you haven't the faintest idea what you are going
+to do.  You hear screams coming from the south.  A trail of blood leads
+south.  
+~
+0 0 0
+D2
+~
+~
+0 -1 13524
+D5
+~
+~
+0 -1 13511
+S
+#13513
+A Small Path~
+The path before you is ridden with mosquitoes, gnats and other small
+biting insects.  As you walk down the path, the temperature rises.  Palm
+trees line the path towards the volcano.  You get the strange feeling that
+something is watching you.  
+~
+0 32768 2
+D0
+~
+~
+0 -1 13514
+D2
+~
+~
+0 -1 13502
+S
+#13514
+End of the Small Path~
+You have reached the end of the path.  The heat is unbearable, but signs
+of other travellers before you abound.  The headless skeletons, torn
+clothing and remains of other various animal parts litter the ground.  All
+sorts of insects have gathered over the putrid corpses.  You hear buzzing
+from behind you.  A new trail leads up the volcano.  
+~
+0 0 2
+D2
+~
+~
+0 -1 13513
+D4
+~
+~
+0 -1 13515
+S
+#13515
+Side of the Volcano~
+You have finally gotten past all the mosquitoes, but what lies ahead. 
+Screams of fright and pain pierce the air.  The palm trees have disappeared
+completely at this point and only small shrubs and bushes are left.  The
+shrubbery to the north looks rather odd.  The path leads upward towards the
+summit of the volcano.  
+~
+0 0 5
+D0
+~
+~
+1 -1 13516
+D4
+~
+~
+0 -1 13518
+D5
+~
+~
+0 -1 13514
+S
+#13516
+A Small Cave~
+You enter a hot and damp cave.  The floor is littered with piles of
+crushed bones.  You can hear the sounds of something large and angry to the
+west.  Stalactites around you fall down the further you walk into the cave. 
+Whatever is in here is VERY angry.  
+~
+0 8 0
+D2
+~
+~
+1 -1 13515
+D3
+~
+~
+0 -1 13517
+S
+#13517
+Komodo Dragon's Lair~
+You have entered the dragon's lair.  On the other side of the room is a
+large lizard rapidly getting closer and closer to you.  Stand and fight or
+retreat?  Too late....  Fight.  
+~
+0 9 0
+D1
+~
+~
+0 -1 13516
+S
+#13518
+Side of the Volcano~
+As you trundle up the path, you rapidly get dehydrated by the heat. 
+You're low on water and you don't have the energy to go back down.  Finally,
+you see the top of the volcano ahead.  The screams grow louder.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13519
+D5
+~
+~
+0 -1 13515
+S
+#13519
+Top of the Volcano~
+You have finally made it to the top!  Screaming can be heard quite well
+from the north.  Volcanic ash covers the ground here.  A trail of wet spots
+on the ground lead north.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13520
+D5
+~
+~
+0 -1 13518
+S
+#13520
+South rim of the Volcano~
+You are standing on the southern edge of the volcano.  It smells funny. 
+I suppose that's an apt way to describe anything.  It's a lot like.... 
+Geez, that looks funny; or wow, that feels strange.  To the north is the
+trail to the center of the volcano.  Since molten lava is usually in the
+center of volcano, you debate whether you should go on.  The fact that you
+have to debate whether to go on or not tells volumes about your
+intelligence.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13530
+D1
+~
+~
+0 -1 13527
+D2
+~
+~
+0 -1 13519
+D3
+~
+~
+0 -1 13521
+S
+#13521
+Southwest rim of the Volcano~
+You hear chanting coming from somewhere....  It sounds like.... 
+LALLALALALLALALLALALALALALALALALALA.  You casually think that the tribesmen
+must be on a really really low budget if they can't come up with a better
+chant than that.  You are standing on the southwestern edge of the volcano. 
+Paths lead north, east and down.  You note that down is a 10,000 foot drop. 
+You mentally eliminate down as one of the paths out.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13522
+D1
+~
+~
+0 -1 13520
+S
+#13522
+West rim of the Volcano~
+Generous amounts of volcanic ash cover the ground on this part of the
+volcano.  Generous amounts of fingers, toes, eyeballs, and the occasional
+tongue also cover the ground on this part of the volcano.  You nonchalantly
+pick one of the less offensive looking pieces.  You then notice that it had
+a bluish cast to it and it's kind of squishy.  You are offended when you
+realize it's a sliced up kidney.  Oh well.  You are on the western part of
+the volcano.  North leads to (surprise!) the northwestern part of the
+volcano.  South leads to the southwestern part of the volcano and east leads
+to well...  If you can't figure it out, I surely can't.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13523
+D1
+~
+~
+0 -1 13530
+D2
+~
+~
+0 -1 13521
+D5
+~
+~
+0 -1 13528
+S
+#13523
+Northwest rim of the Volcano~
+Surrounding you are grisly reminders of human sacrifice.  That brings up
+the questions: What god are they making sacrifices to?  Why are you here? 
+And how do you get vinegar stains out of the clothing once you've used the
+vinegar to get the blood stains out?  You are standing on the northwestern
+most part of the volcano.  The trail of blood appears to lead south.  
+~
+0 0 0
+D1
+~
+~
+0 -1 13524
+D2
+~
+~
+0 -1 13522
+S
+#13524
+North Rim of the Volcano~
+A blood-stained altar is here made of bones and......other things.
+The screams have ceased, but signs of what has transpired remain.  You are
+sure that if you had been here, you would have emptied the contents of your
+stomach.  As you walk towards the altar, you notice someone else already
+did.  You are standing on the northern rim of the volcano.
+~
+0 0 0
+D0
+~
+~
+0 -1 13512
+D1
+~
+~
+0 -1 13525
+D2
+~
+~
+0 -1 13530
+D3
+~
+~
+0 -1 13523
+S
+#13525
+Northeast rim of the Volcano~
+A trail of blood going west and south are in here.  Also, strange
+footprints are on the ground here.  They don't appear to be human.  The
+molten rock in the shape of a footprint is a fairly good tipoff, you think. 
+You are standing on the northeastern rim of the volcano.
+~
+0 0 0
+D0
+~
+~
+0 0 13525
+D2
+~
+~
+0 0 13526
+D3
+~
+~
+0 -1 13524
+S
+#13526
+East rim of the Volcano~
+The blood trail is extremely obvious here.  It appears to lead two
+directions, west and down.  Flaps of skin, coils of intestine and other
+pretty things adorn the countryside.  It appears bodies were being dragged
+through this area quite recently.  You are on the eastern rim of the
+volcano.  It appears there is an unnatural smoke rising somewhere to west at
+the bottom of the volcano.  
+~
+0 0 0
+D0
+~
+~
+0 0 13525
+D2
+~
+~
+0 -1 13527
+D3
+~
+~
+0 -1 13530
+D5
+~
+~
+0 -1 13529
+S
+#13527
+Southeast rim of the Volcano~
+On this portion of the volcano lies a strange looking body.  You wonder
+why it looks strange.  With horror, you realize that it doesn't have
+eyebrows!  On a side note, it's dead too.  So you've got a dead body lying
+here with no eyebrows.  It suddenly occurs to you that there are NO eyebrows
+because the body has no head!!!  Satisfied that you've solved the mystery,
+you put on a smug expression on your face and prepare to push onwards.  You
+are standing on the southeastern ledge of the volcano.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13526
+D3
+~
+~
+0 -1 13520
+S
+#13528
+A small ledge in the Volcano~
+Description
+~
+0 0 0
+D1
+~
+~
+0 -1 13530
+D3
+~
+~
+0 -1 13611
+D4
+~
+~
+0 -1 13522
+S
+#13529
+A Small Ledge in the Volcano~
+Volcanic ash litters the ground here...footsteps lead to the east.
+~
+0 0 0
+D1
+~
+~
+0 -1 13531
+D3
+~
+~
+0 -1 13530
+D4
+~
+~
+0 -1 13526
+S
+#13530
+A Small Island~
+Refuge at last!!!  Swirling smoke and molten rock surround you.  Maybe
+it's not a refuge after all.  At the very least you have some safety from
+this position.  You survey the directions you can go.  North leads to lava
+and south leads to more lava.  Well, you can't have everything.  
+~
+0 0 10
+D0
+~
+~
+0 -1 13566
+D2
+~
+~
+0 -1 13565
+S
+#13531
+Path to the Tribal Village~
+The path leading east is overrun with piles of bones.
+~
+0 9 0
+D1
+~
+~
+0 -1 13532
+D3
+~
+~
+0 -1 13529
+S
+#13532
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13572
+D1
+~
+~
+0 -1 13533
+D3
+~
+~
+0 -1 13531
+D5
+~
+~
+0 -1 13536
+S
+#13533
+~
+Description
+~
+0 9 0
+D3
+~
+~
+0 -1 13532
+S
+#13534
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13535
+D2
+~
+~
+0 -1 13614
+S
+#13535
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13536
+D3
+~
+~
+0 -1 13534
+S
+#13536
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13541
+D2
+~
+~
+0 -1 13537
+D3
+~
+~
+0 -1 13535
+D4
+~
+~
+0 -1 13532
+S
+#13537
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13536
+D1
+~
+~
+0 -1 13538
+D2
+~
+~
+0 -1 13539
+D3
+~
+~
+0 -1 13540
+S
+#13538
+~
+Description
+~
+0 9 0
+D3
+~
+~
+0 -1 13537
+S
+#13539
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13537
+S
+#13540
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13537
+S
+#13541
+~
+Description
+~
+0 8 0
+D1
+~
+~
+0 -1 13542
+D2
+~
+~
+0 -1 13543
+D3
+~
+~
+0 -1 13536
+S
+#13542
+~
+Description
+~
+0 8 0
+D2
+~
+~
+0 -1 13544
+D3
+~
+~
+0 -1 13541
+S
+#13543
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13541
+D1
+~
+~
+0 -1 13544
+D2
+~
+~
+0 -1 13545
+S
+#13544
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13542
+D2
+~
+~
+0 -1 13546
+D3
+~
+~
+0 -1 13543
+S
+#13545
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13543
+D1
+~
+~
+0 -1 13546
+D5
+~
+~
+0 -1 13547
+S
+#13546
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13544
+D3
+~
+~
+0 -1 13545
+S
+#13547
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13548
+D4
+~
+~
+0 -1 13545
+D5
+~
+~
+0 -1 13549
+S
+#13548
+~
+Description
+~
+0 9 0
+D3
+~
+~
+0 -1 13547
+S
+#13549
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13558
+D1
+~
+~
+0 -1 13552
+D2
+~
+~
+0 -1 13550
+D4
+~
+~
+0 -1 13547
+S
+#13550
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13549
+D1
+~
+~
+0 -1 13551
+S
+#13551
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13552
+D3
+~
+~
+0 -1 13550
+S
+#13552
+~
+Description
+~
+0 9 0
+D1
+~
+~
+0 -1 13553
+D2
+~
+~
+0 -1 13551
+D3
+~
+~
+0 -1 13549
+S
+#13553
+~
+Description
+~
+0 9 0
+D2
+~
+~
+0 -1 13554
+D3
+~
+~
+0 -1 13552
+S
+#13554
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13553
+D1
+~
+~
+0 -1 13555
+D2
+~
+~
+0 -1 13557
+S
+#13555
+~
+Description
+~
+0 8 0
+D2
+~
+~
+0 -1 13556
+D3
+~
+~
+0 -1 13554
+S
+#13556
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13555
+D3
+~
+~
+0 -1 13557
+S
+#13557
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13554
+D1
+~
+~
+0 -1 13556
+S
+#13558
+Bank of a Lava River~
+Description
+~
+0 8 0
+D2
+~
+~
+0 -1 13549
+D3
+~
+~
+0 -1 13559
+S
+#13559
+On a Lava River~
+Description
+~
+0 0 9
+D0
+~
+~
+0 -1 13562
+D1
+~
+~
+0 -1 13558
+D2
+~
+~
+0 -1 13560
+S
+#13560
+On a Lava River~
+Description
+~
+0 0 9
+D0
+~
+~
+0 -1 13559
+D2
+~
+~
+0 -1 13561
+S
+#13561
+On a Lava River~
+Description
+~
+0 0 9
+D0
+~
+~
+0 -1 13560
+S
+#13562
+Bend in a Lava River~
+Description
+~
+0 0 9
+D2
+~
+~
+0 -1 13559
+D3
+~
+~
+0 -1 13563
+S
+#13563
+Bend in a Lava River~
+Description
+~
+0 0 9
+D0
+~
+~
+0 -1 13564
+D1
+~
+~
+0 -1 13562
+S
+#13564
+On a Lava River~
+Description
+~
+0 0 9
+D0
+~
+~
+0 -1 13565
+D2
+~
+~
+0 -1 13563
+S
+#13565
+Inside the Volcano~
+It's hot..  And rather nondescript in here.  The usual...  Hot lava,
+steam, burning human corpses.  You can either go north or south.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13566
+D2
+~
+~
+0 -1 13564
+S
+#13566
+Inside the Volcano~
+Lava swirls around you.  He heat is unbearable, but you press on.  There
+is no turning back, most likely because the fumes and smoke have made you
+lose all sense of direction.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13567
+D2
+~
+~
+0 -1 13565
+S
+#13567
+On a Lava River~
+You are following the flow of the river.  On closer inspection, the river
+doesn't appear to be natural.  But what kind of creatures could have created
+something of this scale?  
+~
+0 0 9
+D0
+~
+~
+0 -1 13568
+D2
+~
+~
+0 -1 13566
+S
+#13568
+Bend in the Lava River~
+The lava river bends to the east here.  There are rocks leading south and
+leading east in here.  You notice the walls are beginning to smooth out
+here...  Almost as if it weren't natural.  
+~
+0 0 9
+D1
+~
+~
+0 -1 13569
+D2
+~
+~
+0 -1 13567
+S
+#13569
+On a Lava River~
+The path of rocks continue east.  The further you go along, the more
+smooth and defined the walls become.  There appear to be footprints on the
+ground molten into the rock.  
+~
+0 0 9
+D1
+~
+~
+0 -1 13570
+D3
+~
+~
+0 -1 13568
+S
+#13570
+Bend in the Lava River~
+You have reached a junction in the river...  North appears to lead
+nowhere, but east seems promising.  Actually north leads into an ambush. 
+Don't say you weren't warned.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13571
+D1
+~
+~
+0 -1 13582
+D3
+~
+~
+0 -1 13569
+S
+#13571
+Ambush!!!!!!~
+You have walked straight into an ambush!  You are being beat down
+mercilessly by several very large beings.  
+~
+0 0 9
+D2
+~
+~
+0 -1 13570
+S
+#13572
+~
+Description
+~
+0 9 0
+D2
+~
+~
+0 -1 13532
+D3
+~
+~
+0 -1 13573
+S
+#13573
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13581
+D1
+~
+~
+0 -1 13572
+S
+#13574
+~
+Description
+~
+0 9 0
+D2
+~
+~
+0 -1 13611
+S
+#13575
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13576
+D2
+~
+~
+0 -1 13612
+S
+#13576
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13577
+D1
+~
+~
+0 -1 13579
+D2
+~
+~
+0 -1 13575
+S
+#13577
+~
+Description
+~
+0 8 0
+D1
+~
+~
+0 -1 13578
+D2
+~
+~
+0 -1 13576
+S
+#13578
+~
+Description
+~
+0 8 0
+D1
+~
+~
+0 -1 13580
+D2
+~
+~
+0 -1 13579
+D3
+~
+~
+0 -1 13577
+S
+#13579
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13578
+D3
+~
+~
+0 -1 13576
+S
+#13580
+On a Ledge~
+Description
+~
+0 8 0
+D2
+~
+~
+0 -1 13581
+D3
+~
+~
+0 -1 13578
+D5
+~
+~
+0 -1 13568
+S
+#13581
+On a Ledge~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13580
+D2
+~
+~
+0 -1 13573
+D5
+~
+~
+0 -1 13567
+S
+#13582
+Southern end of hallway~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13583
+D3
+~
+~
+0 -1 13570
+S
+#13583
+Northern end of hallway~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13584
+D2
+~
+~
+0 -1 13582
+S
+#13584
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13593
+D1
+~
+~
+0 -1 13592
+D2
+~
+~
+0 -1 13583
+D3
+~
+~
+0 -1 13585
+S
+#13585
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13586
+D1
+~
+~
+0 -1 13584
+S
+#13586
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13587
+D1
+~
+~
+0 -1 13593
+D2
+~
+~
+0 -1 13585
+S
+#13587
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13588
+D1
+~
+~
+0 -1 13589
+D2
+~
+~
+0 -1 13586
+S
+#13588
+~
+Description
+~
+0 9 0
+D2
+~
+~
+0 -1 13587
+S
+#13589
+~
+Description
+~
+0 8 0
+D1
+~
+~
+0 -1 13590
+D2
+~
+~
+0 -1 13593
+D3
+~
+~
+0 -1 13587
+S
+#13590
+~
+Description
+~
+0 8 0
+D2
+~
+~
+0 -1 13591
+D3
+~
+~
+0 -1 13589
+S
+#13591
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13590
+D2
+~
+~
+0 -1 13592
+D3
+~
+~
+0 -1 13593
+S
+#13592
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13591
+D3
+~
+~
+0 -1 13584
+S
+#13593
+~
+Description
+~
+0 8 0
+D0
+~
+~
+0 -1 13589
+D1
+~
+~
+0 -1 13591
+D2
+~
+~
+0 -1 13584
+D3
+~
+~
+0 -1 13586
+D4
+~
+~
+0 -1 13594
+S
+#13594
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13595
+D5
+~
+~
+0 -1 13593
+S
+#13595
+A small crevice in the rock.~
+Description
+~
+0 0 10
+D0
+~
+~
+0 -1 13510
+D2
+~
+~
+0 -1 13594
+S
+#13596
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+You seem to have gotten turned around, and wish you had a compass about
+now.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13606
+D1
+Just more water.
+~
+~
+0 -1 13599
+D2
+Just more water.
+~
+~
+0 -1 13609
+D3
+Just more water.
+~
+~
+0 -1 13598
+S
+#13597
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13605
+D1
+Just more water.
+~
+~
+0 -1 13600
+D2
+Just more water.
+~
+~
+0 -1 13605
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13598
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13604
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13608
+D3
+Just more water.
+~
+~
+0 -1 13606
+D4
+~
+~
+0 0 8100
+S
+#13599
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13600
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13599
+D3
+Just more water.
+~
+~
+0 -1 13599
+S
+#13600
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13599
+D1
+Just more water.
+~
+~
+0 -1 13597
+D2
+Just more water.
+~
+~
+0 -1 13606
+D3
+Just more water.
+~
+~
+0 -1 13605
+S
+#13601
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13610
+D1
+Just more water.
+~
+~
+0 -1 13602
+D2
+Just more water.
+~
+~
+0 -1 13607
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13602
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13601
+D1
+Just more water.
+~
+~
+0 -1 13606
+D2
+Just more water.
+~
+~
+0 -1 13604
+D3
+Just more water.
+~
+~
+0 -1 13608
+S
+#13603
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+Wait...Is that land to the south?
+~
+0 8196 7
+D0
+Just more water.
+~
+~
+0 -1 13604
+D1
+Just more water.
+~
+~
+0 -1 13608
+D2
+You can barely make out a small bay.
+~
+~
+0 -1 13507
+D3
+Just more water.
+~
+~
+0 -1 13604
+S
+#13604
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13602
+D1
+Just more water.
+~
+~
+0 -1 13598
+D2
+Just more water.
+~
+~
+0 -1 13603
+D3
+Just more water.
+~
+~
+0 -1 13603
+S
+#13605
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13597
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Just more water.
+~
+~
+0 -1 13597
+D3
+Just more water.
+~
+~
+0 -1 13600
+S
+#13606
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13600
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13602
+D3
+Just more water.
+~
+~
+0 -1 13598
+S
+#13607
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13605
+D1
+Just more water.
+~
+~
+0 -1 13601
+D2
+Just more water.
+~
+~
+0 -1 13610
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13608
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13598
+D1
+Just more water.
+~
+~
+0 -1 13610
+D2
+Just more water.
+~
+~
+0 -1 13602
+D3
+Just more water.
+~
+~
+0 -1 13603
+S
+#13609
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13597
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Just more water.
+~
+~
+0 -1 13596
+D3
+Just more water.
+~
+~
+0 -1 13601
+S
+#13610
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+Wait...Is that an island to the south?
+~
+0 8196 7
+D0
+Just more water.
+~
+~
+0 -1 13601
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Land is visible to the south.
+~
+~
+0 -1 11700
+D3
+Just more water.
+~
+~
+0 -1 13608
+S
+#13611
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13574
+D1
+~
+~
+0 -1 13528
+D3
+~
+~
+0 -1 13612
+S
+#13612
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13575
+D1
+~
+~
+0 -1 13611
+D2
+~
+~
+0 -1 13613
+S
+#13613
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13612
+D1
+~
+~
+0 -1 13614
+S
+#13614
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13534
+D1
+~
+~
+0 -1 13615
+D2
+~
+~
+0 -1 13616
+D3
+~
+~
+0 -1 13613
+S
+#13615
+~
+Description
+~
+0 9 0
+D2
+~
+~
+0 -1 13617
+D3
+~
+~
+0 -1 13614
+S
+#13616
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13614
+D1
+~
+~
+0 -1 13617
+S
+#13617
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13615
+D2
+~
+~
+0 -1 13618
+D3
+~
+~
+0 -1 13616
+S
+#13618
+~
+Description
+~
+0 9 0
+D0
+~
+~
+0 -1 13617
+S
+#13619
+A small Dock~
+You are standing on a small dock extending out into a large pool of water.
+A huge waterfall to your west sprays you with a cool mist.  A small shack
+is here with a sign that reads "{BBert's Boats{x".
+         A sign is nailed to a post at the edge of the dock.
+         Below the sign, a brass plaque glints in the light.
+~
+0 9 0
+E
+sign~
+The sign reads:
+               NO FISHING
+~
+E
+brass plaque~
++-------------------+
+| +---------------+ |
+| | SACRIFICE.ARE | |
+| |      by       | |
+| |   Vengeance   | |
+| +---------------+ |
++--Realms-Of-Thoth--+
+~
+D0
+You see a large pool below a waterfall.
+~
+~
+0 -1 13500
+D2
+You see the northern plains.~
+~
+0 -1 326
+S
+#0
+
+
+
+#SPECIALS
+M 13501 spec_breath_any Load to: the sea serpent
+M 13517 spec_breath_gas Load to: A {3K{5o{3m{5o{3d{5o {xDragon 
+S
+
+
+
+#RESETS
+D 0 13515 0 1 The north door of Side of the Volcano is closed
+D 0 13516 2 1 The south door of A Small Cave is closed
+M 0 13510 15 13508 2 *Load A mountain goat
+M 0 13510 15 13509 3 *Load A mountain goat
+M 0 13510 15 13510 5 *Load A mountain goat
+M 0 13510 15 13511 5 *Load A mountain goat
+M 0 13514 20 13513 1 *Load An oversized {1blood{x sucking mosquito.
+M 0 13514 20 13514 3 *Load An oversized {1blood{x sucking mosquito.
+M 0 13514 20 13515 4 *Load An oversized {1blood{x sucking mosquito.
+M 0 13517 1 13517 1 *Load A {3K{5o{3m{5o{3d{5o {xDragon 
+O 0 13524 0 13524 *A {1blood{x-stained altar loaded to North Rim of the Volcano
+M 0 13501 2 13600 1 *Load the sea serpent
+M 0 13501 2 13607 1 *Load the sea serpent
+M 0 13500 1 13619 1 *Load Bert
+G 0 13500 0 *A raft is given to Bert
+G 0 13501 0 *A canoe is given to Bert
+G 0 13502 0 *A navigater's compass is given to Bert
+S
+
+
+
+#SHOPS
+13500 1 22 0 0 0 120 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
